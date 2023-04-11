@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-04-11 12:18:13 UTC`
+📆 Last Updated: `2023-04-11 13:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LUCAS](http://twitter.com/search?q=LUCAS) | N/A |
+| 1 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 2 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 3 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 4 | [youngk](http://twitter.com/search?q=youngk) | N/A |
-| 5 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 3 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 4 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 5 | [youngk](http://twitter.com/search?q=youngk) | N/A |
 | 6 | [#TREASUREinKL](http://twitter.com/search?q=%23TREASUREinKL) | N/A |
-| 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 7 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 8 | [Sam Ke Ting](http://twitter.com/search?q=Sam+Ke+Ting) | N/A |
 | 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 10 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
 | 11 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
-| 12 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
-| 13 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 14 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
-| 15 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 16 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 17 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 18 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 12 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 13 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
+| 14 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 15 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
+| 16 | [i am](http://twitter.com/search?q=i+am) | N/A |
+| 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 18 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
 | 19 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 | 20 | [Almond London](http://twitter.com/search?q=Almond+London) | N/A |
-| 21 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 22 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 23 | [Paul Chan](http://twitter.com/search?q=Paul+Chan) | N/A |
+| 21 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 22 | [paul chan](http://twitter.com/search?q=paul+chan) | N/A |
+| 23 | [Toto](http://twitter.com/search?q=Toto) | N/A |
 | 24 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
 | 25 | [Zahid](http://twitter.com/search?q=Zahid) | N/A |
-| 26 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 27 | [Justice](http://twitter.com/search?q=Justice) | N/A |
-| 28 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
-| 29 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
-| 30 | [Ticketing Service](http://twitter.com/search?q=Ticketing+Service) | N/A |
-| 31 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 32 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 33 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 34 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 35 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 36 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
-| 37 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 38 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 39 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
-| 40 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 41 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 42 | [sinb](http://twitter.com/search?q=sinb) | N/A |
-| 43 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
-| 44 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 45 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 46 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
-| 47 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 48 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 49 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 50 | [Yeayy](http://twitter.com/search?q=Yeayy) | N/A |
+| 26 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 27 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 28 | [Justice](http://twitter.com/search?q=Justice) | N/A |
+| 29 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 30 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 31 | [Ticketing Service](http://twitter.com/search?q=Ticketing+Service) | N/A |
+| 32 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
+| 33 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 34 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 35 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 37 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 38 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
+| 39 | [Okayy](http://twitter.com/search?q=Okayy) | N/A |
+| 40 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
+| 41 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 42 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 43 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 44 | [High Court](http://twitter.com/search?q=High+Court) | N/A |
+| 45 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 46 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 48 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 49 | [Chen](http://twitter.com/search?q=Chen) | Chen is a Chinese surname. It is the most common surname in China, with approximately 100 million people bearing the name. In English, it is pronounced "CHEN". |
+| 50 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 
 
 

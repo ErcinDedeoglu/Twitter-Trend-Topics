@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-11 12:18:40 UTC`
+📆 Last Updated: `2023-04-11 13:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for Panama
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
-| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 3 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
+| 2 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 4 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 5 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 6 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 6 | [Capira](http://twitter.com/search?q=Capira) | N/A |
 | 7 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 8 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
-| 9 | [Capira](http://twitter.com/search?q=Capira) | N/A |
-| 10 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 11 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 12 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [Roux](http://twitter.com/search?q=Roux) | N/A |
-| 15 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 16 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 17 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 18 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 19 | [#Figaroabrego](http://twitter.com/search?q=%23Figaroabrego) | N/A |
-| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 21 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 22 | [Cero](http://twitter.com/search?q=Cero) | N/A |
-| 23 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
-| 24 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 25 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 26 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 27 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 28 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 29 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 30 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
-| 31 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 9 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 10 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
+| 13 | [gaby](http://twitter.com/search?q=gaby) | N/A |
+| 14 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 15 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 16 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 17 | [#Figaroabrego](http://twitter.com/search?q=%23Figaroabrego) | N/A |
+| 18 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Panameño](http://twitter.com/search?q=Paname%c3%b1o) | N/A |
+| 21 | [Pueblo](http://twitter.com/search?q=Pueblo) | N/A |
+| 22 | [roux](http://twitter.com/search?q=roux) | N/A |
+| 23 | [Cero](http://twitter.com/search?q=Cero) | N/A |
+| 24 | [fentanilo](http://twitter.com/search?q=fentanilo) | N/A |
+| 25 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 26 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 27 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 28 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 29 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
+| 30 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 31 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 32 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 33 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
 | 34 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 35 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 36 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 37 | [Aguadulce](http://twitter.com/search?q=Aguadulce) | N/A |
+| 35 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
+| 36 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 37 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 38 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 39 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 40 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 41 | [La Prensa](http://twitter.com/search?q=La+Prensa) | N/A |
-| 42 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 43 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
-| 44 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 45 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 46 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
+| 39 | [La Prensa](http://twitter.com/search?q=La+Prensa) | N/A |
+| 40 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
+| 41 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
+| 42 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 43 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 44 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 45 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
+| 46 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
 | 47 | [#China](http://twitter.com/search?q=%23China) | N/A |
 | 48 | [Moca](http://twitter.com/search?q=Moca) | N/A |
 | 49 | [Robo](http://twitter.com/search?q=Robo) | N/A |

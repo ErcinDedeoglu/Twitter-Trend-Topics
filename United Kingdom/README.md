@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-11 12:18:42 UTC`
+📆 Last Updated: `2023-04-11 13:19:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for United Kingdom
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 2 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 2 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
 | 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 4 | [#fancyamcdonalds](http://twitter.com/search?q=%23fancyamcdonalds) | N/A |
-| 5 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 6 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 4 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 5 | [#fancyamcdonalds](http://twitter.com/search?q=%23fancyamcdonalds) | N/A |
+| 6 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
 | 7 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 8 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 9 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 10 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
-| 11 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
-| 12 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
-| 13 | [Rob Edwards](http://twitter.com/search?q=Rob+Edwards) | N/A |
-| 14 | [GCHQ](http://twitter.com/search?q=GCHQ) | N/A |
-| 15 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
-| 16 | [Robins](http://twitter.com/search?q=Robins) | N/A |
-| 17 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 18 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
-| 19 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
-| 20 | [Grays](http://twitter.com/search?q=Grays) | N/A |
-| 21 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
-| 22 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 23 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
-| 24 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
-| 25 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 26 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 28 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 29 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
-| 30 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 31 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 32 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 33 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 34 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
-| 35 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 36 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 37 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 38 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
-| 39 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 40 | [#ToriesOut278](http://twitter.com/search?q=%23ToriesOut278) | N/A |
-| 41 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 42 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 43 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 44 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 45 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 46 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 47 | [#ASongOrMovieForFree](http://twitter.com/search?q=%23ASongOrMovieForFree) | N/A |
+| 8 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 9 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
+| 10 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 13 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
+| 14 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
+| 15 | [Rob Edwards](http://twitter.com/search?q=Rob+Edwards) | N/A |
+| 16 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
+| 17 | [GCHQ](http://twitter.com/search?q=GCHQ) | N/A |
+| 18 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 19 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
+| 20 | [Robins](http://twitter.com/search?q=Robins) | N/A |
+| 21 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
+| 22 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 24 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
+| 25 | [Grays](http://twitter.com/search?q=Grays) | N/A |
+| 26 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 27 | [Afro](http://twitter.com/search?q=Afro) | N/A |
+| 28 | [YEONJUN](http://twitter.com/search?q=YEONJUN) | YEONJUN is a Korean given name for males. It is composed of two characters, "Yeon" meaning "lotus" and "Jun" meaning "talented". In English, the name can be translated to mean "talented lotus". |
+| 29 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
+| 30 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 31 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 32 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 33 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 34 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 35 | [Sevco](http://twitter.com/search?q=Sevco) | N/A |
+| 36 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 37 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
+| 38 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 39 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
+| 40 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 41 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
+| 42 | [#forgive](http://twitter.com/search?q=%23forgive) | N/A |
+| 43 | [#payrestoration](http://twitter.com/search?q=%23payrestoration) | N/A |
+| 44 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
+| 45 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 46 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 47 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
 | 48 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 49 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 50 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 49 | [#ToriesOut278](http://twitter.com/search?q=%23ToriesOut278) | N/A |
+| 50 | [#NHSPAY](http://twitter.com/search?q=%23NHSPAY) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-04-11 12:18:24 UTC`
+📆 Last Updated: `2023-04-11 13:19:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JanNayakAshokGehlot](http://twitter.com/search?q=%23JanNayakAshokGehlot) | N/A |
-| 2 | [#PhantomVFold](http://twitter.com/search?q=%23PhantomVFold) | N/A |
-| 3 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
-| 4 | [shikhardhawan viralvideo](http://twitter.com/search?q=shikhardhawan+viralvideo) | N/A |
-| 5 | [#NarzoN55ArrivingTomorrow](http://twitter.com/search?q=%23NarzoN55ArrivingTomorrow) | N/A |
+| 2 | [#VersatileVishweshwarReddy](http://twitter.com/search?q=%23VersatileVishweshwarReddy) | N/A |
+| 3 | [ShikharDhawan ViralVideo](http://twitter.com/search?q=ShikharDhawan+ViralVideo) | N/A |
+| 4 | [#NarzoN55ArrivingTomorrow](http://twitter.com/search?q=%23NarzoN55ArrivingTomorrow) | N/A |
+| 5 | [#PhantomVFold](http://twitter.com/search?q=%23PhantomVFold) | N/A |
 | 6 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 7 | [Title Announcement](http://twitter.com/search?q=Title+Announcement) | N/A |
-| 8 | [Rajasthan](http://twitter.com/search?q=Rajasthan) | N/A |
-| 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 11 | [Janata](http://twitter.com/search?q=Janata) | N/A |
-| 12 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 13 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 14 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 7 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 8 | [Title Announcement](http://twitter.com/search?q=Title+Announcement) | N/A |
+| 9 | [Rajasthan](http://twitter.com/search?q=Rajasthan) | N/A |
+| 10 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 11 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 12 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 13 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 14 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
 | 15 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 16 | [Kiya Hai](http://twitter.com/search?q=Kiya+Hai) | N/A |
-| 17 | [Achcha](http://twitter.com/search?q=Achcha) | N/A |
-| 18 | [OMG GIRL DEVO 1M YT FAMILY](http://twitter.com/search?q=OMG+GIRL+DEVO+1M+YT+FAMILY) | N/A |
-| 19 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 20 | [Muslims in India](http://twitter.com/search?q=Muslims+in+India) | N/A |
-| 21 | [New Poster](http://twitter.com/search?q=New+Poster) | N/A |
-| 22 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
-| 23 | [laga](http://twitter.com/search?q=laga) | N/A |
-| 24 | [Shandar](http://twitter.com/search?q=Shandar) | N/A |
+| 16 | [OMG GIRL DEVO 1M YT FAMILY](http://twitter.com/search?q=OMG+GIRL+DEVO+1M+YT+FAMILY) | N/A |
+| 17 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 18 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 19 | [Achcha](http://twitter.com/search?q=Achcha) | N/A |
+| 20 | [Janata](http://twitter.com/search?q=Janata) | N/A |
+| 21 | [Kiya Hai](http://twitter.com/search?q=Kiya+Hai) | N/A |
+| 22 | [New Poster](http://twitter.com/search?q=New+Poster) | N/A |
+| 23 | [Muslims in India](http://twitter.com/search?q=Muslims+in+India) | N/A |
+| 24 | [Laga](http://twitter.com/search?q=Laga) | N/A |
 | 25 | [IVRI](http://twitter.com/search?q=IVRI) | N/A |
-| 26 | [Neha Kakkar](http://twitter.com/search?q=Neha+Kakkar) | N/A |
-| 27 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 28 | [सामाजिक क्रांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
-| 29 | [Continuous Betrayal InSSRCase](http://twitter.com/search?q=Continuous+Betrayal+InSSRCase) | N/A |
-| 30 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 31 | [तमिलनाडु सरकार](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 32 | [AMOLED](http://twitter.com/search?q=AMOLED) | N/A |
-| 33 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 34 | [महात्मा फुले](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 35 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 36 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 37 | [el nino](http://twitter.com/search?q=el+nino) | N/A |
-| 38 | [सिख धर्म](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%96+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 39 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 40 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 41 | [राजस्थान कांग्रेस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 42 | [महिला शिक्षा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 43 | [CTET](http://twitter.com/search?q=CTET) | N/A |
-| 44 | [राव फुले](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 45 | [#DalaiLamaGoOut](http://twitter.com/search?q=%23DalaiLamaGoOut) | N/A |
+| 26 | [Shandar](http://twitter.com/search?q=Shandar) | N/A |
+| 27 | [सामाजिक क्रांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
+| 28 | [तमिलनाडु सरकार](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 29 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
+| 30 | [AMOLED](http://twitter.com/search?q=AMOLED) | N/A |
+| 31 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 32 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 33 | [Continuous Betrayal InSSRCase](http://twitter.com/search?q=Continuous+Betrayal+InSSRCase) | N/A |
+| 34 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 35 | [सिख धर्म](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%96+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 36 | [महात्मा फुले](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 37 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 38 | [राव फुले](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 39 | [राजस्थान कांग्रेस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 40 | [महिला शिक्षा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 41 | [#Suriya42](http://twitter.com/search?q=%23Suriya42) | N/A |
+| 42 | [#DalaiLamaGoOut](http://twitter.com/search?q=%23DalaiLamaGoOut) | N/A |
+| 43 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 44 | [#MasslaSongOutNow](http://twitter.com/search?q=%23MasslaSongOutNow) | N/A |
+| 45 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
 | 46 | [#भूपेश_का_जिहादगढ़](http://twitter.com/search?q=%23%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6_%e0%a4%95%e0%a4%be_%e0%a4%9c%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a4%97%e0%a4%a2%e0%a4%bc) | N/A |
-| 47 | [#MasslaSongOutNow](http://twitter.com/search?q=%23MasslaSongOutNow) | N/A |
-| 48 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 49 | [#RebaseonARB](http://twitter.com/search?q=%23RebaseonARB) | N/A |
+| 47 | [#Wayanad](http://twitter.com/search?q=%23Wayanad) | N/A |
+| 48 | [#DCvsMI](http://twitter.com/search?q=%23DCvsMI) | N/A |
+| 49 | [#AtiqueAhmed](http://twitter.com/search?q=%23AtiqueAhmed) | N/A |
 
 
 

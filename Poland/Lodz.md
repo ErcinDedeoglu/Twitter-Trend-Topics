@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-11 12:17:58 UTC`
+📆 Last Updated: `2023-04-11 13:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
 | 2 | [#MIELEG](http://twitter.com/search?q=%23MIELEG) | N/A |
-| 3 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
-| 4 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 5 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 6 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
+| 3 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 4 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
+| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 6 | [Macierewicz](http://twitter.com/search?q=Macierewicz) | N/A |
 | 7 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
 | 8 | [Zamach](http://twitter.com/search?q=Zamach) | N/A |
 | 9 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 10 | [Zamówiona](http://twitter.com/search?q=Zam%c3%b3wiona) | N/A |
-| 11 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 11 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 14 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 15 | [Lecha Kaczyńskiego](http://twitter.com/search?q=Lecha+Kaczy%c5%84skiego) | N/A |
+| 13 | [Lecha Kaczyńskiego](http://twitter.com/search?q=Lecha+Kaczy%c5%84skiego) | N/A |
+| 14 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
+| 15 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
 | 16 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 17 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 18 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 19 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 20 | [Legia](http://twitter.com/search?q=Legia) | N/A |
-| 21 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 17 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 18 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 19 | [Legia](http://twitter.com/search?q=Legia) | N/A |
+| 20 | [Zamówiona](http://twitter.com/search?q=Zam%c3%b3wiona) | N/A |
+| 21 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
 | 22 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
 | 23 | [arabski](http://twitter.com/search?q=arabski) | N/A |
-| 24 | [lechia](http://twitter.com/search?q=lechia) | N/A |
-| 25 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
-| 26 | [świętach](http://twitter.com/search?q=%c5%9bwi%c4%99tach) | N/A |
-| 27 | [Millera](http://twitter.com/search?q=Millera) | N/A |
-| 28 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
-| 29 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 30 | [BIORĘ UDZIAŁ](http://twitter.com/search?q=BIOR%c4%98+UDZIA%c5%81) | N/A |
-| 31 | [familiadzie](http://twitter.com/search?q=familiadzie) | N/A |
-| 32 | [Disneya](http://twitter.com/search?q=Disneya) | N/A |
-| 33 | [Dalajlama](http://twitter.com/search?q=Dalajlama) | N/A |
-| 34 | [Kaliszu](http://twitter.com/search?q=Kaliszu) | N/A |
-| 35 | [Suski](http://twitter.com/search?q=Suski) | N/A |
-| 36 | [wesołych](http://twitter.com/search?q=weso%c5%82ych) | N/A |
-| 37 | [Deer](http://twitter.com/search?q=Deer) | N/A |
-| 38 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
-| 39 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
-| 40 | [Anodiny](http://twitter.com/search?q=Anodiny) | N/A |
-| 41 | [Kaczyńskich](http://twitter.com/search?q=Kaczy%c5%84skich) | N/A |
-| 42 | [Błasik](http://twitter.com/search?q=B%c5%82asik) | N/A |
-| 43 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 44 | [Kamczatce](http://twitter.com/search?q=Kamczatce) | N/A |
-| 45 | [Antek](http://twitter.com/search?q=Antek) | N/A |
-| 46 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
-| 47 | [radomiak](http://twitter.com/search?q=radomiak) | N/A |
-| 48 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Millera](http://twitter.com/search?q=Millera) | N/A |
+| 25 | [Świętach](http://twitter.com/search?q=%c5%9awi%c4%99tach) | N/A |
+| 26 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
+| 27 | [BIORĘ UDZIAŁ](http://twitter.com/search?q=BIOR%c4%98+UDZIA%c5%81) | N/A |
+| 28 | [familiadzie](http://twitter.com/search?q=familiadzie) | N/A |
+| 29 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
+| 30 | [Dalajlamy](http://twitter.com/search?q=Dalajlamy) | N/A |
+| 31 | [Disneya](http://twitter.com/search?q=Disneya) | N/A |
+| 32 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 33 | [katastrofa](http://twitter.com/search?q=katastrofa) | N/A |
+| 34 | [DEER](http://twitter.com/search?q=DEER) | N/A |
+| 35 | [Kaliszu](http://twitter.com/search?q=Kaliszu) | N/A |
+| 36 | [Anodiny](http://twitter.com/search?q=Anodiny) | N/A |
+| 37 | [wesołych](http://twitter.com/search?q=weso%c5%82ych) | N/A |
+| 38 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 39 | [carlitosa](http://twitter.com/search?q=carlitosa) | N/A |
+| 40 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
+| 41 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 42 | [Kamczatce](http://twitter.com/search?q=Kamczatce) | N/A |
+| 43 | [Kaczyńskich](http://twitter.com/search?q=Kaczy%c5%84skich) | N/A |
+| 44 | [Błasik](http://twitter.com/search?q=B%c5%82asik) | N/A |
+| 45 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 47 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 48 | [radomiak](http://twitter.com/search?q=radomiak) | N/A |
+| 49 | [Antek](http://twitter.com/search?q=Antek) | N/A |
 
 
 

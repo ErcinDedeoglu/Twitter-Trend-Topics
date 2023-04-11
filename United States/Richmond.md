@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-04-11 12:18:33 UTC`
+📆 Last Updated: `2023-04-11 13:19:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 2 | [Trish](http://twitter.com/search?q=Trish) | N/A |
 | 3 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 4 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 5 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 4 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 5 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
 | 6 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
 | 8 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 9 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 10 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
-| 11 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 12 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 13 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
-| 14 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
-| 15 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 16 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 17 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 18 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 19 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
-| 20 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 21 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 22 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 23 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 24 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 25 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 26 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 27 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 28 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 29 | [Breitbart](http://twitter.com/search?q=Breitbart) | N/A |
-| 30 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 31 | [MAX MUNCY](http://twitter.com/search?q=MAX+MUNCY) | N/A |
-| 32 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 33 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 34 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 35 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 36 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 37 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 38 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 39 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 40 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 41 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 42 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 43 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 44 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 45 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 46 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
-| 47 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 48 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
+| 9 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 10 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
+| 11 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
+| 12 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 13 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 14 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 15 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
+| 16 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
+| 17 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 18 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 19 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
+| 20 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
+| 21 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 22 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 23 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 25 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 26 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 27 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 28 | [Breitbart](http://twitter.com/search?q=Breitbart) | N/A |
+| 29 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 30 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 31 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 32 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 33 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 34 | [Megan Rapinoe](http://twitter.com/search?q=Megan+Rapinoe) | N/A |
+| 35 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 36 | [Crossville](http://twitter.com/search?q=Crossville) | N/A |
+| 37 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 38 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 39 | [X Corp.](http://twitter.com/search?q=X+Corp.) | N/A |
+| 40 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 41 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 42 | [NFT NYC](http://twitter.com/search?q=NFT+NYC) | N/A |
+| 43 | [Shelly](http://twitter.com/search?q=Shelly) | N/A |
+| 44 | [David Hogg](http://twitter.com/search?q=David+Hogg) | N/A |
+| 45 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 46 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 47 | [Wray](http://twitter.com/search?q=Wray) | N/A |
+| 48 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 49 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
 
 
 

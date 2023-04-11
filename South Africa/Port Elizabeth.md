@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-11 12:18:17 UTC`
+📆 Last Updated: `2023-04-11 13:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DoThingsBigWithTelkom](http://twitter.com/search?q=%23DoThingsBigWithTelkom) | N/A |
-| 2 | [#DrNandipha](http://twitter.com/search?q=%23DrNandipha) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Redi](http://twitter.com/search?q=Redi) | N/A |
-| 5 | [#wooliesbeauty](http://twitter.com/search?q=%23wooliesbeauty) | N/A |
-| 6 | [#ADoseOfCare](http://twitter.com/search?q=%23ADoseOfCare) | N/A |
+| 1 | [#DrNandipha](http://twitter.com/search?q=%23DrNandipha) | N/A |
+| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [Redi](http://twitter.com/search?q=Redi) | N/A |
+| 4 | [#wooliesbeauty](http://twitter.com/search?q=%23wooliesbeauty) | N/A |
+| 5 | [#DoThingsBigWithTelkom](http://twitter.com/search?q=%23DoThingsBigWithTelkom) | N/A |
+| 6 | [#TuesdayCrossword](http://twitter.com/search?q=%23TuesdayCrossword) | N/A |
 | 7 | [Hopewell](http://twitter.com/search?q=Hopewell) | N/A |
-| 8 | [Spar](http://twitter.com/search?q=Spar) | N/A |
-| 9 | [Thapelo](http://twitter.com/search?q=Thapelo) | N/A |
-| 10 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
+| 8 | [Thapelo](http://twitter.com/search?q=Thapelo) | N/A |
+| 9 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
+| 10 | [Spar](http://twitter.com/search?q=Spar) | N/A |
 | 11 | [Dr Pashy](http://twitter.com/search?q=Dr+Pashy) | N/A |
-| 12 | [Senohe Matsoara](http://twitter.com/search?q=Senohe+Matsoara) | N/A |
-| 13 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
-| 14 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 15 | [chris hani](http://twitter.com/search?q=chris+hani) | N/A |
-| 16 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 17 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 18 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
-| 19 | [JUICY JAY GRADUATION WEEK](http://twitter.com/search?q=JUICY+JAY+GRADUATION+WEEK) | N/A |
-| 20 | [Ts & Cs](http://twitter.com/search?q=Ts+%26+Cs) | N/A |
-| 21 | [the n3](http://twitter.com/search?q=the+n3) | N/A |
-| 22 | [KHOSI REIGNS SUPREME](http://twitter.com/search?q=KHOSI+REIGNS+SUPREME) | N/A |
-| 23 | [THABANG EFFECT](http://twitter.com/search?q=THABANG+EFFECT) | N/A |
-| 24 | [TSATSII AND HER SUNRISERS](http://twitter.com/search?q=TSATSII+AND+HER+SUNRISERS) | N/A |
-| 25 | [khosireigns for khosi](http://twitter.com/search?q=khosireigns+for+khosi) | N/A |
+| 12 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 13 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 14 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 15 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 16 | [THABANG EFFECT](http://twitter.com/search?q=THABANG+EFFECT) | N/A |
+| 17 | [Hani](http://twitter.com/search?q=Hani) | N/A |
+| 18 | [KHOSI REIGNS SUPREME](http://twitter.com/search?q=KHOSI+REIGNS+SUPREME) | N/A |
+| 19 | [khosi x good deeds](http://twitter.com/search?q=khosi+x+good+deeds) | N/A |
+| 20 | [Senohe Matsoara](http://twitter.com/search?q=Senohe+Matsoara) | N/A |
+| 21 | [JUICY JAY GRADUATION WEEK](http://twitter.com/search?q=JUICY+JAY+GRADUATION+WEEK) | N/A |
+| 22 | [Ts & Cs](http://twitter.com/search?q=Ts+%26+Cs) | N/A |
+| 23 | [KHOSIREIGNS FOR KHOSI](http://twitter.com/search?q=KHOSIREIGNS+FOR+KHOSI) | N/A |
+| 24 | [the n3](http://twitter.com/search?q=the+n3) | N/A |
+| 25 | [TSATSII AND HER SUNRISERS](http://twitter.com/search?q=TSATSII+AND+HER+SUNRISERS) | N/A |
 | 26 | [TSATSII IS LOVED](http://twitter.com/search?q=TSATSII+IS+LOVED) | N/A |
-| 27 | [Pretoria East](http://twitter.com/search?q=Pretoria+East) | N/A |
+| 27 | [Bongani Fassie](http://twitter.com/search?q=Bongani+Fassie) | N/A |
 | 28 | [Dricus](http://twitter.com/search?q=Dricus) | N/A |
-| 29 | [Bongani Fassie](http://twitter.com/search?q=Bongani+Fassie) | N/A |
-| 30 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
-| 31 | [Venda](http://twitter.com/search?q=Venda) | N/A |
-| 32 | [Sasol Women's League](http://twitter.com/search?q=Sasol+Women%27s+League) | N/A |
-| 33 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 34 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 35 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 29 | [Pretoria East](http://twitter.com/search?q=Pretoria+East) | N/A |
+| 30 | [thabang just arrived](http://twitter.com/search?q=thabang+just+arrived) | N/A |
+| 31 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
+| 32 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
+| 33 | [His Holiness](http://twitter.com/search?q=His+Holiness) | N/A |
+| 34 | [Cornelius Sekeleni](http://twitter.com/search?q=Cornelius+Sekeleni) | N/A |
+| 35 | [ANTICIPATE IPELENG](http://twitter.com/search?q=ANTICIPATE+IPELENG) | N/A |
 | 36 | [Hilton](http://twitter.com/search?q=Hilton) | Hilton is a global hospitality company that owns, manages, and franchises a portfolio of hotels and resorts. The company was founded by Conrad Hilton in 1919 and is now one of the largest hotel chains in the world. The name Hilton is derived from the English word "hilt," which means "a handle or grip of a sword." |
-| 37 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 38 | [Zimbabweans](http://twitter.com/search?q=Zimbabweans) | N/A |
+| 37 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
+| 38 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
 | 39 | [Thobi](http://twitter.com/search?q=Thobi) | N/A |
-| 40 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
-| 41 | [Murder](http://twitter.com/search?q=Murder) | N/A |
-| 42 | [Joburg](http://twitter.com/search?q=Joburg) | N/A |
-| 43 | [Mopani](http://twitter.com/search?q=Mopani) | N/A |
-| 44 | [Xhosa](http://twitter.com/search?q=Xhosa) | N/A |
-| 45 | [Sakina](http://twitter.com/search?q=Sakina) | N/A |
-| 46 | [Chamisa](http://twitter.com/search?q=Chamisa) | N/A |
-| 47 | [Snoring](http://twitter.com/search?q=Snoring) | N/A |
-| 48 | [Tomi](http://twitter.com/search?q=Tomi) | N/A |
-| 49 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 40 | [Murder](http://twitter.com/search?q=Murder) | N/A |
+| 41 | [Sasol](http://twitter.com/search?q=Sasol) | N/A |
+| 42 | [Zimbabweans](http://twitter.com/search?q=Zimbabweans) | N/A |
+| 43 | [WE LOVE YOU IPELENG](http://twitter.com/search?q=WE+LOVE+YOU+IPELENG) | N/A |
+| 44 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 45 | [Joburg](http://twitter.com/search?q=Joburg) | N/A |
+| 46 | [Venda](http://twitter.com/search?q=Venda) | N/A |
+| 47 | [IPELENG IS OUTSIDE](http://twitter.com/search?q=IPELENG+IS+OUTSIDE) | N/A |
+| 48 | [Sakina](http://twitter.com/search?q=Sakina) | N/A |
+| 49 | [Mopani](http://twitter.com/search?q=Mopani) | N/A |
 
 
 

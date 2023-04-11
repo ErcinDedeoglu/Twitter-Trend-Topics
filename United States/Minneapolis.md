@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-11 12:18:31 UTC`
+📆 Last Updated: `2023-04-11 13:19:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [United States](</United States>)
 | 7 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
 | 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 9 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 10 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 11 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 10 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 11 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
 | 12 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 13 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 13 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
 | 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 15 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 16 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
-| 17 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 18 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 19 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
-| 20 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
-| 21 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 22 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 23 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 24 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 25 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
-| 26 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 27 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 28 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 29 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 30 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 31 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 32 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 33 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 34 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 35 | [Breitbart](http://twitter.com/search?q=Breitbart) | N/A |
-| 36 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 37 | [MAX MUNCY](http://twitter.com/search?q=MAX+MUNCY) | N/A |
-| 38 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 39 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 40 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 41 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 42 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
-| 43 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 44 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 45 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 46 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 47 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 48 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 15 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 16 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
+| 17 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
+| 18 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 19 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 20 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 21 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
+| 22 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
+| 23 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 24 | [rick scott](http://twitter.com/search?q=rick+scott) | N/A |
+| 25 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
+| 26 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
+| 27 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 28 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 29 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 30 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 31 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 32 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 33 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 34 | [Breitbart](http://twitter.com/search?q=Breitbart) | N/A |
+| 35 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 36 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 37 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 38 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 39 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 40 | [Megan Rapinoe](http://twitter.com/search?q=Megan+Rapinoe) | N/A |
+| 41 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 42 | [Crossville](http://twitter.com/search?q=Crossville) | N/A |
+| 43 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 44 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 45 | [X Corp.](http://twitter.com/search?q=X+Corp.) | N/A |
+| 46 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 47 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 48 | [NFT NYC](http://twitter.com/search?q=NFT+NYC) | N/A |
 
 
 

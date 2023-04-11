@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-04-11 12:18:25 UTC`
+📆 Last Updated: `2023-04-11 13:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#DoğrusuAkParti](http://twitter.com/search?q=%23Do%c4%9frusuAkParti) | N/A |
 | 2 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
-| 3 | [AK Parti Seçim Beyannamesi](http://twitter.com/search?q=AK+Parti+Se%c3%a7im+Beyannamesi) | N/A |
-| 4 | [#TürkiyeYüzyılı](http://twitter.com/search?q=%23T%c3%bcrkiyeY%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 5 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 6 | [Meb4İle ŞartsızTayin](http://twitter.com/search?q=Meb4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
-| 7 | [Ağrı'da 4.3](http://twitter.com/search?q=A%c4%9fr%c4%b1%27da+4.3) | N/A |
-| 8 | [#OylarABO5000Kısmiye](http://twitter.com/search?q=%23OylarABO5000K%c4%b1smiye) | N/A |
-| 9 | [#Çanakkale](http://twitter.com/search?q=%23%c3%87anakkale) | N/A |
-| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 11 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 12 | [Ankara'dayız](http://twitter.com/search?q=Ankara%27day%c4%b1z) | N/A |
-| 13 | [Kaymaz](http://twitter.com/search?q=Kaymaz) | N/A |
-| 14 | [Aday Tanıtım Toplantısı](http://twitter.com/search?q=Aday+Tan%c4%b1t%c4%b1m+Toplant%c4%b1s%c4%b1) | N/A |
-| 15 | [Ankara Spor Salonu](http://twitter.com/search?q=Ankara+Spor+Salonu) | N/A |
-| 16 | [Halit Tomakin](http://twitter.com/search?q=Halit+Tomakin) | N/A |
-| 17 | [Ankara Arena](http://twitter.com/search?q=Ankara+Arena) | N/A |
-| 18 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
-| 19 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 20 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 21 | [Yoksun](http://twitter.com/search?q=Yoksun) | N/A |
-| 22 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 23 | [Yaşasın Urfalılar](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Urfal%c4%b1lar) | N/A |
-| 24 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 25 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
-| 26 | [Ordu'da](http://twitter.com/search?q=Ordu%27da) | N/A |
-| 27 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
-| 28 | [Atatürkçü](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bc) | N/A |
-| 29 | [zonguldak](http://twitter.com/search?q=zonguldak) | N/A |
-| 30 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
-| 31 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
-| 32 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 33 | [Ünal](http://twitter.com/search?q=%c3%9cnal) | N/A |
-| 34 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 35 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
-| 36 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 37 | [Takla](http://twitter.com/search?q=Takla) | N/A |
-| 38 | [Ersan](http://twitter.com/search?q=Ersan) | Ersan is a Turkish name derived from the Arabic word “Irsan”, which means “guardian” or “protector”. It is also used as a surname in some parts of Turkey. |
-| 39 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 40 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 41 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 42 | [#StajaÇözümMayısta](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmMay%c4%b1sta) | N/A |
-| 43 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
-| 44 | [#ÜmitKaftancıoğlu](http://twitter.com/search?q=%23%c3%9cmitKaftanc%c4%b1o%c4%9flu) | N/A |
-| 45 | [#CANLI](http://twitter.com/search?q=%23CANLI) | N/A |
-| 46 | [#TetikçininOğlu](http://twitter.com/search?q=%23Tetik%c3%a7ininO%c4%9flu) | N/A |
-| 47 | [#DoğruAdımlarlaYolaDevam](http://twitter.com/search?q=%23Do%c4%9fruAd%c4%b1mlarlaYolaDevam) | N/A |
-| 48 | [#ElvedaAKP](http://twitter.com/search?q=%23ElvedaAKP) | N/A |
-| 49 | [#ÖSYMBekletme](http://twitter.com/search?q=%23%c3%96SYMBekletme) | N/A |
+| 3 | [#TürkiyeYüzyılı](http://twitter.com/search?q=%23T%c3%bcrkiyeY%c3%bczy%c4%b1l%c4%b1) | N/A |
+| 4 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
+| 5 | [#CBprojeYalanMıydı](http://twitter.com/search?q=%23CBprojeYalanM%c4%b1yd%c4%b1) | N/A |
+| 6 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
+| 7 | [#OylarABO5000Kısmiye](http://twitter.com/search?q=%23OylarABO5000K%c4%b1smiye) | N/A |
+| 8 | [Ağrı'da 4.3](http://twitter.com/search?q=A%c4%9fr%c4%b1%27da+4.3) | N/A |
+| 9 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 10 | [Kurban Bayramında](http://twitter.com/search?q=Kurban+Bayram%c4%b1nda) | N/A |
+| 11 | [Meb4İle ŞartsızTayin](http://twitter.com/search?q=Meb4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
+| 12 | [Ankara Spor Salonu](http://twitter.com/search?q=Ankara+Spor+Salonu) | N/A |
+| 13 | [Ankara'dayız](http://twitter.com/search?q=Ankara%27day%c4%b1z) | N/A |
+| 14 | [Kaymaz](http://twitter.com/search?q=Kaymaz) | N/A |
+| 15 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 16 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 17 | [aday tanıtım toplantısı](http://twitter.com/search?q=aday+tan%c4%b1t%c4%b1m+toplant%c4%b1s%c4%b1) | N/A |
+| 18 | [Mauro Icardi](http://twitter.com/search?q=Mauro+Icardi) | N/A |
+| 19 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 20 | [Ayşenur Arslan](http://twitter.com/search?q=Ay%c5%9fenur+Arslan) | N/A |
+| 21 | [Sedat Polat](http://twitter.com/search?q=Sedat+Polat) | N/A |
+| 22 | [Ankara Arena](http://twitter.com/search?q=Ankara+Arena) | N/A |
+| 23 | [Doğru Adımlarla Yola Devam](http://twitter.com/search?q=Do%c4%9fru+Ad%c4%b1mlarla+Yola+Devam) | N/A |
+| 24 | [Süleyman Şah](http://twitter.com/search?q=S%c3%bcleyman+%c5%9eah) | N/A |
+| 25 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 26 | [Halit Tomakin](http://twitter.com/search?q=Halit+Tomakin) | N/A |
+| 27 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 28 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 29 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
+| 30 | [Yoksun](http://twitter.com/search?q=Yoksun) | N/A |
+| 31 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
+| 32 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 33 | [Yeşil Sol](http://twitter.com/search?q=Ye%c5%9fil+Sol) | N/A |
+| 34 | [Yaşasın Urfalılar](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Urfal%c4%b1lar) | N/A |
+| 35 | [Ordu'da](http://twitter.com/search?q=Ordu%27da) | N/A |
+| 36 | [Rümeysa](http://twitter.com/search?q=R%c3%bcmeysa) | N/A |
+| 37 | [Prof](http://twitter.com/search?q=Prof) | N/A |
+| 38 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
+| 39 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
+| 40 | [Zonguldak](http://twitter.com/search?q=Zonguldak) | N/A |
+| 41 | [Ünal](http://twitter.com/search?q=%c3%9cnal) | N/A |
+| 42 | [ahmet nur çebi](http://twitter.com/search?q=ahmet+nur+%c3%a7ebi) | N/A |
+| 43 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 44 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 45 | [#Çanakkale](http://twitter.com/search?q=%23%c3%87anakkale) | N/A |
+| 46 | [#StajaÇözümMayısta](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmMay%c4%b1sta) | N/A |
+| 47 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 48 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 49 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
 
 
 

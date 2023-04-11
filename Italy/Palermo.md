@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-04-11 12:18:03 UTC`
+📆 Last Updated: `2023-04-11 13:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
-| 2 | [buona pasquetta](http://twitter.com/search?q=buona+pasquetta) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
-| 5 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 6 | [#Enea](http://twitter.com/search?q=%23Enea) | N/A |
-| 7 | [#EtuttoInsieme](http://twitter.com/search?q=%23EtuttoInsieme) | N/A |
-| 8 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 9 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 10 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 11 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 12 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 13 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 16 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
-| 17 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
-| 18 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
-| 19 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
-| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 21 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 22 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
-| 23 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 24 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
-| 25 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 26 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 27 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 28 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 30 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 31 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 32 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
-| 33 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 34 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 35 | [Santa Gemma Galgani](http://twitter.com/search?q=Santa+Gemma+Galgani) | N/A |
-| 36 | [Primo Levi](http://twitter.com/search?q=Primo+Levi) | N/A |
-| 37 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 38 | [Wanna Marchi](http://twitter.com/search?q=Wanna+Marchi) | N/A |
-| 39 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 40 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 41 | [Taglio](http://twitter.com/search?q=Taglio) | N/A |
-| 42 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 43 | [gisella](http://twitter.com/search?q=gisella) | N/A |
-| 44 | [Giuditta](http://twitter.com/search?q=Giuditta) | N/A |
-| 45 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 46 | [Italia Viva](http://twitter.com/search?q=Italia+Viva) | N/A |
-| 47 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
-| 48 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 49 | [Olivetti](http://twitter.com/search?q=Olivetti) | N/A |
-| 50 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 1 | [#Sonego](http://twitter.com/search?q=%23Sonego) | N/A |
+| 2 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 3 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 4 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 5 | [#Calenda](http://twitter.com/search?q=%23Calenda) | N/A |
+| 6 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 7 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 8 | [Marika](http://twitter.com/search?q=Marika) | N/A |
+| 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 11 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 13 | [Olivetti](http://twitter.com/search?q=Olivetti) | N/A |
+| 14 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 15 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
+| 16 | [damascelli](http://twitter.com/search?q=damascelli) | N/A |
+| 17 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
+| 18 | [#terzopolo](http://twitter.com/search?q=%23terzopolo) | N/A |
+| 19 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 20 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
+| 21 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 22 | [#Enea](http://twitter.com/search?q=%23Enea) | N/A |
+| 23 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 24 | [#RolexMonteCarloMasters](http://twitter.com/search?q=%23RolexMonteCarloMasters) | N/A |
+| 25 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 26 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 27 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 28 | [#EzioGreggio](http://twitter.com/search?q=%23EzioGreggio) | N/A |
+| 29 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 30 | [#Simeone](http://twitter.com/search?q=%23Simeone) | N/A |
+| 31 | [#paredes](http://twitter.com/search?q=%23paredes) | N/A |
+| 32 | [#DalaiLama](http://twitter.com/search?q=%23DalaiLama) | N/A |
+| 33 | [#vaccini](http://twitter.com/search?q=%23vaccini) | N/A |
+| 34 | [#Trevignano](http://twitter.com/search?q=%23Trevignano) | N/A |
+| 35 | [#Assange](http://twitter.com/search?q=%23Assange) | N/A |
+| 36 | [#etuttoinsieme](http://twitter.com/search?q=%23etuttoinsieme) | N/A |
+| 37 | [#NellaLontananza](http://twitter.com/search?q=%23NellaLontananza) | N/A |
+| 38 | [#pensioni](http://twitter.com/search?q=%23pensioni) | N/A |
+| 39 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
 
 
 

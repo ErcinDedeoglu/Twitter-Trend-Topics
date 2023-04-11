@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-11 12:17:56 UTC`
+📆 Last Updated: `2023-04-11 13:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 3 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
-| 6 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 7 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 8 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 9 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 10 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 11 | [JOELMA NO ENCONTRO](http://twitter.com/search?q=JOELMA+NO+ENCONTRO) | N/A |
-| 12 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 13 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
-| 14 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 15 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 16 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 17 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 18 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
-| 19 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 20 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 21 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 22 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
-| 23 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 26 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 29 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 30 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 31 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 32 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 33 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 34 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 35 | [NOIVA](http://twitter.com/search?q=NOIVA) | N/A |
-| 36 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 37 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 38 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
-| 39 | [Blog da Julia Duailibi](http://twitter.com/search?q=Blog+da+Julia+Duailibi) | N/A |
-| 40 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 41 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 42 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 43 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 44 | [Jake Bongiovi](http://twitter.com/search?q=Jake+Bongiovi) | N/A |
-| 45 | [trailer luan city 2](http://twitter.com/search?q=trailer+luan+city+2) | N/A |
-| 46 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 47 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 48 | [Nem 9h](http://twitter.com/search?q=Nem+9h) | N/A |
-| 49 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 50 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 2 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 3 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 4 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 5 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 6 | [JOELMA NO ENCONTRO](http://twitter.com/search?q=JOELMA+NO+ENCONTRO) | N/A |
+| 7 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 8 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 10 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 11 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 12 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 13 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
+| 14 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 15 | [NOIVA](http://twitter.com/search?q=NOIVA) | N/A |
+| 16 | [City x Bayern](http://twitter.com/search?q=City+x+Bayern) | N/A |
+| 17 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 18 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 19 | [#rjnoar](http://twitter.com/search?q=%23rjnoar) | N/A |
+| 20 | [IPCA](http://twitter.com/search?q=IPCA) | N/A |
+| 21 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
+| 22 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 23 | [Pitomba](http://twitter.com/search?q=Pitomba) | N/A |
+| 24 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
+| 25 | [Gabriel Barros](http://twitter.com/search?q=Gabriel+Barros) | N/A |
+| 26 | [EU AUTORIZO](http://twitter.com/search?q=EU+AUTORIZO) | N/A |
+| 27 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
+| 28 | [Dia 11](http://twitter.com/search?q=Dia+11) | N/A |
+| 29 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 30 | [BOM DIAAA](http://twitter.com/search?q=BOM+DIAAA) | N/A |
+| 31 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
+| 32 | [IPTU](http://twitter.com/search?q=IPTU) | N/A |
+| 33 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 34 | [Xi Jinping](http://twitter.com/search?q=Xi+Jinping) | N/A |
+| 35 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 36 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 37 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
+| 38 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 39 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 40 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 41 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 42 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 43 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
+| 44 | [Dalai](http://twitter.com/search?q=Dalai) | N/A |
+| 45 | [omissa](http://twitter.com/search?q=omissa) | N/A |
+| 46 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
+| 47 | [Akira](http://twitter.com/search?q=Akira) | N/A |
+| 48 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 49 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 50 | [#ForaFredNicácio](http://twitter.com/search?q=%23ForaFredNic%c3%a1cio) | N/A |
 
 
 

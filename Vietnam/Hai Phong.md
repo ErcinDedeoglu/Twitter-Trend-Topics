@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-04-11 12:18:14 UTC`
+📆 Last Updated: `2023-04-11 13:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Vietnam](</Vietnam>)
 | ------- | ------------ | ------------ |
 | 1 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
 | 2 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 3 | [#TPST_난장_MV_TEASER](http://twitter.com/search?q=%23TPST_%eb%82%9c%ec%9e%a5_MV_TEASER) | N/A |
-| 4 | [#폭풍전야](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc) | N/A |
+| 3 | [#폭풍전야](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc) | N/A |
+| 4 | [#TPST_난장_MV_TEASER](http://twitter.com/search?q=%23TPST_%eb%82%9c%ec%9e%a5_MV_TEASER) | N/A |
 | 5 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
 | 6 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 7 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
@@ -27,42 +27,42 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 10 | [spring romance with xiao zhan](http://twitter.com/search?q=spring+romance+with+xiao+zhan) | N/A |
 | 11 | [Freen](http://twitter.com/search?q=Freen) | N/A |
 | 12 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 13 | [XP and Suiswap Points](http://twitter.com/search?q=XP+and+Suiswap+Points) | N/A |
-| 14 | [Mong](http://twitter.com/search?q=Mong) | N/A |
+| 13 | [Mong](http://twitter.com/search?q=Mong) | N/A |
+| 14 | [XP and Suiswap Points](http://twitter.com/search?q=XP+and+Suiswap+Points) | N/A |
 | 15 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
 | 16 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
 | 17 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
 | 18 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
 | 19 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 20 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 20 | [thái](http://twitter.com/search?q=th%c3%a1i) | N/A |
 | 21 | [Chiến](http://twitter.com/search?q=Chi%e1%ba%bfn) | N/A |
-| 22 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 22 | [i am](http://twitter.com/search?q=i+am) | N/A |
 | 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 24 | [tính](http://twitter.com/search?q=t%c3%adnh) | N/A |
-| 25 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 26 | [DAOs](http://twitter.com/search?q=DAOs) | N/A |
-| 27 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 28 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
-| 29 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
-| 30 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 31 | [Flaming](http://twitter.com/search?q=Flaming) | N/A |
-| 32 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
-| 33 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 34 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 35 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 25 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 26 | [Flaming](http://twitter.com/search?q=Flaming) | N/A |
+| 27 | [DAOs](http://twitter.com/search?q=DAOs) | N/A |
+| 28 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 29 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 30 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
+| 31 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 32 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 33 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 34 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
+| 35 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
 | 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 37 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 39 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
-| 40 | [Floral](http://twitter.com/search?q=Floral) | N/A |
-| 41 | [đài loan](http://twitter.com/search?q=%c4%91%c3%a0i+loan) | N/A |
-| 42 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 37 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 38 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 39 | [MetaMask](http://twitter.com/search?q=MetaMask) | N/A |
+| 40 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 41 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
+| 42 | [đài loan](http://twitter.com/search?q=%c4%91%c3%a0i+loan) | N/A |
 | 43 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 44 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 45 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 46 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
+| 44 | [Floral](http://twitter.com/search?q=Floral) | N/A |
+| 45 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 46 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
 | 47 | [toàn](http://twitter.com/search?q=to%c3%a0n) | N/A |
-| 48 | [Ngày](http://twitter.com/search?q=Ng%c3%a0y) | N/A |
+| 48 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 49 | [Holy](http://twitter.com/search?q=Holy) | N/A |
 | 50 | [Ngon](http://twitter.com/search?q=Ngon) | N/A |
 
