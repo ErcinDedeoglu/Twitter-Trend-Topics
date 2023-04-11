@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-11 11:16:15 UTC`
+📆 Last Updated: `2023-04-11 12:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,42 +17,42 @@ This is top 50 for [Ecuador](</Ecuador>)
 | ------- | ------------ | ------------ |
 | 1 | [#barcelonasc](http://twitter.com/search?q=%23barcelonasc) | N/A |
 | 2 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
-| 3 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
+| 3 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
 | 4 | [velasco](http://twitter.com/search?q=velasco) | N/A |
 | 5 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 6 | [Janner](http://twitter.com/search?q=Janner) | N/A |
-| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 9 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 6 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 7 | [Janner](http://twitter.com/search?q=Janner) | N/A |
+| 8 | [gaibor](http://twitter.com/search?q=gaibor) | N/A |
+| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 10 | [mar en marie claire](http://twitter.com/search?q=mar+en+marie+claire) | N/A |
-| 11 | [Cuero](http://twitter.com/search?q=Cuero) | N/A |
-| 12 | [pineida](http://twitter.com/search?q=pineida) | N/A |
-| 13 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 14 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 11 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 12 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 13 | [Cuero](http://twitter.com/search?q=Cuero) | N/A |
+| 14 | [pineida](http://twitter.com/search?q=pineida) | N/A |
 | 15 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
-| 16 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 17 | [Ídolo](http://twitter.com/search?q=%c3%8ddolo) | N/A |
-| 18 | [Otero](http://twitter.com/search?q=Otero) | N/A |
+| 16 | [Otero](http://twitter.com/search?q=Otero) | N/A |
+| 17 | [burrai](http://twitter.com/search?q=burrai) | N/A |
+| 18 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
 | 19 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 20 | [burrai](http://twitter.com/search?q=burrai) | N/A |
-| 21 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 22 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
-| 23 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 24 | [paco rodríguez](http://twitter.com/search?q=paco+rodr%c3%adguez) | N/A |
-| 25 | [mall del sol](http://twitter.com/search?q=mall+del+sol) | N/A |
-| 26 | [teodoro paredes](http://twitter.com/search?q=teodoro+paredes) | N/A |
-| 27 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
-| 28 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
-| 29 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
-| 30 | [huigra](http://twitter.com/search?q=huigra) | N/A |
+| 20 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
+| 21 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 22 | [Paco Rodríguez](http://twitter.com/search?q=Paco+Rodr%c3%adguez) | N/A |
+| 23 | [mall del sol](http://twitter.com/search?q=mall+del+sol) | N/A |
+| 24 | [teodoro paredes](http://twitter.com/search?q=teodoro+paredes) | N/A |
+| 25 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
+| 26 | [bauman](http://twitter.com/search?q=bauman) | N/A |
+| 27 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
+| 28 | [#Fortnite](http://twitter.com/search?q=%23Fortnite) | N/A |
+| 29 | [ídolo](http://twitter.com/search?q=%c3%addolo) | N/A |
+| 30 | [Huigra](http://twitter.com/search?q=Huigra) | N/A |
 | 31 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 32 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
 | 33 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 34 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
-| 35 | [guayaquil city](http://twitter.com/search?q=guayaquil+city) | N/A |
-| 36 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
-| 37 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 38 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 34 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 35 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
+| 36 | [guayaquil city](http://twitter.com/search?q=guayaquil+city) | N/A |
+| 37 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
+| 38 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 39 | [Polaco](http://twitter.com/search?q=Polaco) | N/A |
 | 40 | [sur oscura](http://twitter.com/search?q=sur+oscura) | N/A |
 | 41 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |

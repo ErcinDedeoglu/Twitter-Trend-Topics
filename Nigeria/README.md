@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-04-11 11:17:01 UTC`
+📆 Last Updated: `2023-04-11 12:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DavidoxOutterspace](http://twitter.com/search?q=%23DavidoxOutterspace) | N/A |
-| 2 | [#4GForEveryone](http://twitter.com/search?q=%234GForEveryone) | N/A |
+| 1 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 2 | [Don Baba](http://twitter.com/search?q=Don+Baba) | N/A |
 | 3 | [phyno](http://twitter.com/search?q=phyno) | N/A |
-| 4 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 5 | [Uberfacts](http://twitter.com/search?q=Uberfacts) | N/A |
-| 6 | [Don Baba](http://twitter.com/search?q=Don+Baba) | N/A |
+| 4 | [Uberfacts](http://twitter.com/search?q=Uberfacts) | N/A |
+| 5 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 6 | [#itelCelebrates150KFans](http://twitter.com/search?q=%23itelCelebrates150KFans) | N/A |
 | 7 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
-| 8 | [Olamide](http://twitter.com/search?q=Olamide) | N/A |
-| 9 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 10 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
-| 11 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
-| 12 | [#itelCelebrates150KFans](http://twitter.com/search?q=%23itelCelebrates150KFans) | N/A |
-| 13 | [electoral act](http://twitter.com/search?q=electoral+act) | N/A |
-| 14 | [#AVRAlteAlbumRelease](http://twitter.com/search?q=%23AVRAlteAlbumRelease) | N/A |
-| 15 | [#paidinfullwithlove](http://twitter.com/search?q=%23paidinfullwithlove) | N/A |
-| 16 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
-| 17 | [Local](http://twitter.com/search?q=Local) | N/A |
-| 18 | [lil kesh](http://twitter.com/search?q=lil+kesh) | N/A |
-| 19 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
-| 20 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 21 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 22 | [Sheggz](http://twitter.com/search?q=Sheggz) | N/A |
-| 23 | [Peak Milk](http://twitter.com/search?q=Peak+Milk) | N/A |
-| 24 | [MEMORIES WITH YVONNE](http://twitter.com/search?q=MEMORIES+WITH+YVONNE) | N/A |
-| 25 | [Femi Adesina](http://twitter.com/search?q=Femi+Adesina) | N/A |
-| 26 | [IT CAME TO PASS](http://twitter.com/search?q=IT+CAME+TO+PASS) | N/A |
-| 27 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 28 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 29 | [Reminisce](http://twitter.com/search?q=Reminisce) | N/A |
-| 30 | [Bola Ahmed Tinubu](http://twitter.com/search?q=Bola+Ahmed+Tinubu) | N/A |
-| 31 | [$460,000 to the us](http://twitter.com/search?q=%24460%2c000+to+the+us) | N/A |
-| 32 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 33 | [Jet Li](http://twitter.com/search?q=Jet+Li) | N/A |
-| 34 | [My Obidients](http://twitter.com/search?q=My+Obidients) | N/A |
-| 35 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 36 | [kanaga jnr x filmone](http://twitter.com/search?q=kanaga+jnr+x+filmone) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 39 | [Ladi](http://twitter.com/search?q=Ladi) | N/A |
-| 40 | [PUBG](http://twitter.com/search?q=PUBG) | N/A |
-| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 42 | [Payday](http://twitter.com/search?q=Payday) | N/A |
+| 8 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 9 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
+| 10 | [#4GForEveryone](http://twitter.com/search?q=%234GForEveryone) | N/A |
+| 11 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
+| 12 | [#DavidoxOutterspace](http://twitter.com/search?q=%23DavidoxOutterspace) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
+| 15 | [#samsunggalaxys23series](http://twitter.com/search?q=%23samsunggalaxys23series) | N/A |
+| 16 | [#PoojaUCL](http://twitter.com/search?q=%23PoojaUCL) | N/A |
+| 17 | [Olamide](http://twitter.com/search?q=Olamide) | N/A |
+| 18 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
+| 19 | [Peak Milk](http://twitter.com/search?q=Peak+Milk) | N/A |
+| 20 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 23 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 24 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 25 | [IT CAME TO PASS](http://twitter.com/search?q=IT+CAME+TO+PASS) | N/A |
+| 26 | [Femi Adesina](http://twitter.com/search?q=Femi+Adesina) | N/A |
+| 27 | [Sheggz](http://twitter.com/search?q=Sheggz) | N/A |
+| 28 | [$460,000 to the us](http://twitter.com/search?q=%24460%2c000+to+the+us) | N/A |
+| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 30 | [Payday](http://twitter.com/search?q=Payday) | N/A |
+| 31 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 32 | [Bola Ahmed Tinubu](http://twitter.com/search?q=Bola+Ahmed+Tinubu) | N/A |
+| 33 | [lil kesh](http://twitter.com/search?q=lil+kesh) | N/A |
+| 34 | [my obidients](http://twitter.com/search?q=my+obidients) | N/A |
+| 35 | [kanaga jnr x filmone](http://twitter.com/search?q=kanaga+jnr+x+filmone) | N/A |
+| 36 | [Jet Li](http://twitter.com/search?q=Jet+Li) | N/A |
+| 37 | [Ladi](http://twitter.com/search?q=Ladi) | N/A |
+| 38 | [MEMORIES WITH YVONNE](http://twitter.com/search?q=MEMORIES+WITH+YVONNE) | N/A |
+| 39 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 40 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 41 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
+| 42 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 43 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
-| 44 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 44 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 45 | [authentic yvonne](http://twitter.com/search?q=authentic+yvonne) | N/A |
 | 46 | [Toyin Ijakumo](http://twitter.com/search?q=Toyin+Ijakumo) | N/A |
-| 47 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 48 | [Rusticated](http://twitter.com/search?q=Rusticated) | N/A |
+| 47 | [Rusticated](http://twitter.com/search?q=Rusticated) | N/A |
+| 48 | [Collateral Damage](http://twitter.com/search?q=Collateral+Damage) | N/A |
 | 49 | [dropshipping guy](http://twitter.com/search?q=dropshipping+guy) | N/A |
-| 50 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 50 | [my love for bella](http://twitter.com/search?q=my+love+for+bella) | N/A |
 
 
 

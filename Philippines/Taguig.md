@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Taguig
 
-📆 Last Updated: `2023-04-11 11:16:34 UTC`
+📆 Last Updated: `2023-04-11 12:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,47 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saan](http://twitter.com/search?q=Saan) | N/A |
+| 1 | [karina](http://twitter.com/search?q=karina) | N/A |
 | 2 | [#KDEstrada](http://twitter.com/search?q=%23KDEstrada) | N/A |
 | 3 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 4 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 4 | [PRESAVE ALEXA SRH-REMIX](http://twitter.com/search?q=PRESAVE+ALEXA+SRH-REMIX) | N/A |
 | 5 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
-| 6 | [TataKD STAR MAGIC](http://twitter.com/search?q=TataKD+STAR+MAGIC) | N/A |
-| 7 | [youngk](http://twitter.com/search?q=youngk) | N/A |
-| 8 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
-| 9 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
-| 10 | [D3 KDLEXPETA COMEBACK](http://twitter.com/search?q=D3+KDLEXPETA+COMEBACK) | N/A |
-| 11 | [PRESAVE ALEXA SRH-REMIX](http://twitter.com/search?q=PRESAVE+ALEXA+SRH-REMIX) | N/A |
-| 12 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 13 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 14 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 15 | [its tiktoclock time bini](http://twitter.com/search?q=its+tiktoclock+time+bini) | N/A |
-| 16 | [DOUBLE B](http://twitter.com/search?q=DOUBLE+B) | N/A |
-| 17 | [franseth 1m promlove](http://twitter.com/search?q=franseth+1m+promlove) | N/A |
-| 18 | [Reading Your Heart](http://twitter.com/search?q=Reading+Your+Heart) | N/A |
-| 19 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
-| 20 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
-| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 22 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 23 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 24 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 25 | [MY YOONMIN](http://twitter.com/search?q=MY+YOONMIN) | N/A |
-| 26 | [Balikatan](http://twitter.com/search?q=Balikatan) | N/A |
-| 27 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
-| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 29 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
-| 30 | [D-3 TO PARAISO](http://twitter.com/search?q=D-3+TO+PARAISO) | N/A |
-| 31 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
-| 32 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 33 | [sakura moments withkdlex](http://twitter.com/search?q=sakura+moments+withkdlex) | N/A |
-| 34 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 35 | [BIG WINS](http://twitter.com/search?q=BIG+WINS) | N/A |
-| 36 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
-| 37 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
-| 38 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 39 | [Pulse Asia](http://twitter.com/search?q=Pulse+Asia) | N/A |
-| 40 | [votefilay asiasiconicloveteam](http://twitter.com/search?q=votefilay+asiasiconicloveteam) | N/A |
-| 41 | [ochothebullet on wishbus](http://twitter.com/search?q=ochothebullet+on+wishbus) | N/A |
-| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 43 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 44 | [kagitingan](http://twitter.com/search?q=kagitingan) | N/A |
-| 45 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
-| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 47 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 48 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 49 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 6 | [#StayRightHereSummerRemix](http://twitter.com/search?q=%23StayRightHereSummerRemix) | N/A |
+| 7 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 8 | [TataKD STAR MAGIC](http://twitter.com/search?q=TataKD+STAR+MAGIC) | N/A |
+| 9 | [youngk](http://twitter.com/search?q=youngk) | N/A |
+| 10 | [#TuesdaysWithWINNERBrothers](http://twitter.com/search?q=%23TuesdaysWithWINNERBrothers) | N/A |
+| 11 | [DOUBLE B](http://twitter.com/search?q=DOUBLE+B) | N/A |
+| 12 | [Reading Your Heart](http://twitter.com/search?q=Reading+Your+Heart) | N/A |
+| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 14 | [D3 KDLEXPETA COMEBACK](http://twitter.com/search?q=D3+KDLEXPETA+COMEBACK) | N/A |
+| 15 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 16 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 17 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 18 | [BGYOxHM WON AMA2023](http://twitter.com/search?q=BGYOxHM+WON+AMA2023) | N/A |
+| 19 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 20 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 21 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
+| 22 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 23 | [D-3 TO PARAISO](http://twitter.com/search?q=D-3+TO+PARAISO) | N/A |
+| 24 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 25 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 26 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 27 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 28 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 29 | [#MusicalKD](http://twitter.com/search?q=%23MusicalKD) | N/A |
+| 30 | [#FreenBeckyWithLove](http://twitter.com/search?q=%23FreenBeckyWithLove) | N/A |
+| 31 | [#AmericanMetaverseAwards](http://twitter.com/search?q=%23AmericanMetaverseAwards) | N/A |
+| 32 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 33 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
+| 34 | [#ALDENRichards](http://twitter.com/search?q=%23ALDENRichards) | N/A |
+| 35 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 36 | [#AmangPH](http://twitter.com/search?q=%23AmangPH) | N/A |
+| 37 | [#우리의걸어가는햇살](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac%ec%9d%98%ea%b1%b8%ec%96%b4%ea%b0%80%eb%8a%94%ed%96%87%ec%82%b4) | N/A |
+| 38 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
+| 39 | [#HELLO_TOUR_IN_MANILA](http://twitter.com/search?q=%23HELLO_TOUR_IN_MANILA) | N/A |
+| 40 | [#TREASUREinManila](http://twitter.com/search?q=%23TREASUREinManila) | #TREASUREinManila is a hashtag used to promote the upcoming TREASURE concert in Manila, Philippines. The hashtag is used to encourage fans to attend the event and share their excitement about it. |
+| 41 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
 
 
 

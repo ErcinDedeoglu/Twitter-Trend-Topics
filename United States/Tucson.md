@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-04-11 11:16:56 UTC`
+📆 Last Updated: `2023-04-11 12:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
-| 2 | [DBacks](http://twitter.com/search?q=DBacks) | N/A |
+| 2 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
 | 3 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
 | 4 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
-| 5 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 6 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 5 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
 | 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 8 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 9 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 8 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 9 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
 | 10 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 11 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 12 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 13 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
-| 14 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 15 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 16 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 17 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
-| 18 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 19 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 20 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 21 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 22 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 23 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 24 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 25 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 11 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 12 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 13 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 14 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
+| 15 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
+| 16 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 17 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 18 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 19 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 20 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 21 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 22 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 23 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 24 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 25 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
 | 26 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 27 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 27 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
 | 28 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 29 | [MAX MUNCY](http://twitter.com/search?q=MAX+MUNCY) | N/A |
-| 30 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 31 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 32 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 33 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 34 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 35 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 36 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 37 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 38 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 39 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 40 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 41 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 42 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 43 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 44 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 45 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 46 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
-| 47 | [Peter Parker](http://twitter.com/search?q=Peter+Parker) | N/A |
-| 48 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 49 | [#Wordle661](http://twitter.com/search?q=%23Wordle661) | N/A |
+| 29 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 30 | [Breitbart](http://twitter.com/search?q=Breitbart) | N/A |
+| 31 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 32 | [MAX MUNCY](http://twitter.com/search?q=MAX+MUNCY) | N/A |
+| 33 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 34 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 35 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 36 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 37 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 38 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 39 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 40 | [Departure](http://twitter.com/search?q=Departure) | N/A |
+| 41 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 42 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
+| 43 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 44 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 45 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 46 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 47 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
+| 48 | [#fox29goodday](http://twitter.com/search?q=%23fox29goodday) | N/A |
+| 49 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
 
 
 

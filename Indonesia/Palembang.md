@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-11 11:16:28 UTC`
+📆 Last Updated: `2023-04-11 12:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Hexjuice](http://twitter.com/search?q=%23Hexjuice) | N/A |
-| 2 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 3 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
-| 4 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
-| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 6 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 7 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 8 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 9 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 10 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
-| 11 | [youngk](http://twitter.com/search?q=youngk) | N/A |
-| 12 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
-| 13 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
-| 14 | [CHENLE FOR KNIGHT MAGAZINE](http://twitter.com/search?q=CHENLE+FOR+KNIGHT+MAGAZINE) | N/A |
-| 15 | [Lapas Sukamiskin](http://twitter.com/search?q=Lapas+Sukamiskin) | N/A |
-| 16 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 17 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 18 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 19 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
-| 20 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 21 | [CPNS](http://twitter.com/search?q=CPNS) | N/A |
-| 22 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
-| 23 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 24 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 25 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
-| 26 | [Presiden Jokowi](http://twitter.com/search?q=Presiden+Jokowi) | N/A |
-| 27 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 28 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 29 | [Sage](http://twitter.com/search?q=Sage) | N/A |
-| 30 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
-| 31 | [#ร้อยฤดูหนาวMV](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b8%a4%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7MV) | N/A |
-| 32 | [#MarkLeexWKOREA](http://twitter.com/search?q=%23MarkLeexWKOREA) | N/A |
-| 33 | [#MarkLeexPoloRalphLauren](http://twitter.com/search?q=%23MarkLeexPoloRalphLauren) | N/A |
-| 34 | [#AnasUrbaningrum](http://twitter.com/search?q=%23AnasUrbaningrum) | N/A |
-| 35 | [#RENJUNxKnightMagazine](http://twitter.com/search?q=%23RENJUNxKnightMagazine) | N/A |
-| 36 | [#5thYearGitroops](http://twitter.com/search?q=%235thYearGitroops) | N/A |
-| 37 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 38 | [#Percaya](http://twitter.com/search?q=%23Percaya) | N/A |
-| 39 | [#PesanUntukBerbagi](http://twitter.com/search?q=%23PesanUntukBerbagi) | N/A |
-| 40 | [#영케이_전역_축하해](http://twitter.com/search?q=%23%ec%98%81%ec%bc%80%ec%9d%b4_%ec%a0%84%ec%97%ad_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 41 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 42 | [#NICETOMIXXYOUinJKT](http://twitter.com/search?q=%23NICETOMIXXYOUinJKT) | N/A |
-| 43 | [#끝까지_안아줄_영케이왔다](http://twitter.com/search?q=%23%eb%81%9d%ea%b9%8c%ec%a7%80_%ec%95%88%ec%95%84%ec%a4%84_%ec%98%81%ec%bc%80%ec%9d%b4%ec%99%94%eb%8b%a4) | N/A |
+| 1 | [#milenialgenzprabowo](http://twitter.com/search?q=%23milenialgenzprabowo) | N/A |
+| 2 | [urusangue kerenin indonesia](http://twitter.com/search?q=urusangue+kerenin+indonesia) | N/A |
+| 3 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 4 | [#Welcome_Home_YoungK](http://twitter.com/search?q=%23Welcome_Home_YoungK) | N/A |
+| 5 | [LUCAS](http://twitter.com/search?q=LUCAS) | N/A |
+| 6 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 7 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 8 | [silaturahmi kebangsaan](http://twitter.com/search?q=silaturahmi+kebangsaan) | N/A |
+| 9 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 10 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 11 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 12 | [oatside mini](http://twitter.com/search?q=oatside+mini) | N/A |
+| 13 | [oppo reno8 t](http://twitter.com/search?q=oppo+reno8+t) | N/A |
+| 14 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 15 | [penuhi hak kesehatan helmut](http://twitter.com/search?q=penuhi+hak+kesehatan+helmut) | N/A |
+| 16 | [DOUBLE B](http://twitter.com/search?q=DOUBLE+B) | N/A |
+| 17 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 18 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
+| 19 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 20 | [GONE BED](http://twitter.com/search?q=GONE+BED) | N/A |
+| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 22 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
+| 23 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 24 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
+| 25 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
+| 26 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
+| 27 | [Koch](http://twitter.com/search?q=Koch) | N/A |
+| 28 | [QRIS](http://twitter.com/search?q=QRIS) | N/A |
+| 29 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 30 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 31 | [CHENLE FOR KNIGHT MAGAZINE](http://twitter.com/search?q=CHENLE+FOR+KNIGHT+MAGAZINE) | N/A |
+| 32 | [MARKLEE DAZZLES WKOREA](http://twitter.com/search?q=MARKLEE+DAZZLES+WKOREA) | N/A |
+| 33 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 34 | [Gue 15](http://twitter.com/search?q=Gue+15) | N/A |
+| 35 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 36 | [Lebaran 2023](http://twitter.com/search?q=Lebaran+2023) | N/A |
+| 37 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 38 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 39 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 40 | [mudik aqua dulu](http://twitter.com/search?q=mudik+aqua+dulu) | N/A |
+| 41 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
+| 42 | [Zayed Humanitarian Day](http://twitter.com/search?q=Zayed+Humanitarian+Day) | N/A |
+| 43 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 44 | [ETMudikLancar](http://twitter.com/search?q=ETMudikLancar) | N/A |
+| 45 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
+| 46 | [lapas sukamiskin](http://twitter.com/search?q=lapas+sukamiskin) | N/A |
+| 47 | [kang younghyun](http://twitter.com/search?q=kang+younghyun) | N/A |
+| 48 | [Hansamu Yama](http://twitter.com/search?q=Hansamu+Yama) | N/A |
 
 
 

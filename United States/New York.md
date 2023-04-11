@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-11 11:16:53 UTC`
+📆 Last Updated: `2023-04-11 12:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 1 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
 | 2 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
 | 3 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 6 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 7 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 8 | [#letsgobuffalo](http://twitter.com/search?q=%23letsgobuffalo) | N/A |
-| 9 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 10 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 11 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 12 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 13 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
-| 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 15 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 16 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 17 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 18 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
-| 19 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 20 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 21 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 22 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
+| 4 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 5 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 6 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 8 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 9 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 10 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 11 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 12 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 13 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
+| 14 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
+| 15 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 16 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 17 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 18 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 19 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 20 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 21 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 23 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 24 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 25 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
+| 24 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 25 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
 | 26 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 27 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 28 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 29 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 30 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 31 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 32 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 33 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 34 | [MAX MUNCY](http://twitter.com/search?q=MAX+MUNCY) | N/A |
-| 35 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 36 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 37 | [Timed](http://twitter.com/search?q=Timed) | N/A |
-| 38 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
-| 39 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 27 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 28 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 29 | [Breitbart](http://twitter.com/search?q=Breitbart) | N/A |
+| 30 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 31 | [MAX MUNCY](http://twitter.com/search?q=MAX+MUNCY) | N/A |
+| 32 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 33 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 34 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 35 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 36 | [Stranger Things](http://twitter.com/search?q=Stranger+Things) | N/A |
+| 37 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 38 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 39 | [Departure](http://twitter.com/search?q=Departure) | N/A |
 | 40 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
 | 41 | [Admiration](http://twitter.com/search?q=Admiration) | N/A |
-| 42 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 43 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 44 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
-| 45 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
-| 46 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 47 | [Collected](http://twitter.com/search?q=Collected) | N/A |
-| 48 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
-| 49 | [Departure](http://twitter.com/search?q=Departure) | N/A |
-| 50 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 42 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 43 | [Tolerably](http://twitter.com/search?q=Tolerably) | Tolerably is an adverb that means in a way that is acceptable or bearable. It is used to describe something that is not perfect, but still good enough. |
+| 44 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 45 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 46 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
+| 47 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 48 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
+| 49 | [#fox29goodday](http://twitter.com/search?q=%23fox29goodday) | N/A |
+| 50 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
 
 
 

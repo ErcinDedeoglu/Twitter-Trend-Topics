@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-11 11:16:16 UTC`
+📆 Last Updated: `2023-04-11 12:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Melhoras](http://twitter.com/search?q=Melhoras) | N/A |
-| 2 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 3 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 2 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 3 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 4 | [#ForaBruna](http://twitter.com/search?q=%23ForaBruna) | N/A |
 | 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 6 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
 | 7 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 8 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
 | 9 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 10 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 11 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 12 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 13 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 14 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
-| 15 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 17 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 18 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 19 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 20 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 21 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 10 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 11 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 12 | [JOELMA NO ENCONTRO](http://twitter.com/search?q=JOELMA+NO+ENCONTRO) | N/A |
+| 13 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 14 | [Mc Gui](http://twitter.com/search?q=Mc+Gui) | N/A |
+| 15 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 16 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 18 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 19 | [#FicaVP](http://twitter.com/search?q=%23FicaVP) | N/A |
+| 20 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 21 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 22 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 23 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 24 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
-| 25 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 26 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 27 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 28 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 29 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 30 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 31 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 32 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 33 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 34 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
-| 35 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 36 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 37 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 38 | [inep](http://twitter.com/search?q=inep) | N/A |
-| 39 | [trailer luan city 2](http://twitter.com/search?q=trailer+luan+city+2) | N/A |
-| 40 | [Pitomba](http://twitter.com/search?q=Pitomba) | N/A |
-| 41 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 42 | [ufes](http://twitter.com/search?q=ufes) | N/A |
-| 43 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 44 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 45 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 46 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 47 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 48 | [kisy](http://twitter.com/search?q=kisy) | N/A |
-| 49 | [Omissa](http://twitter.com/search?q=Omissa) | N/A |
-| 50 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 23 | [Dudu](http://twitter.com/search?q=Dudu) | N/A |
+| 24 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 25 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 26 | [biel xcamoso](http://twitter.com/search?q=biel+xcamoso) | N/A |
+| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 29 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 30 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 31 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 32 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 33 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 34 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
+| 35 | [NOIVA](http://twitter.com/search?q=NOIVA) | N/A |
+| 36 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 37 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 38 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 39 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
+| 40 | [Blog da Julia Duailibi](http://twitter.com/search?q=Blog+da+Julia+Duailibi) | N/A |
+| 41 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 42 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 43 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
+| 44 | [inep](http://twitter.com/search?q=inep) | N/A |
+| 45 | [Jake Bongiovi](http://twitter.com/search?q=Jake+Bongiovi) | N/A |
+| 46 | [trailer luan city 2](http://twitter.com/search?q=trailer+luan+city+2) | N/A |
+| 47 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 48 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
+| 49 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
+| 50 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
 
 
 
