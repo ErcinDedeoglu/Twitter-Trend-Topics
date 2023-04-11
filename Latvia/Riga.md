@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-11 21:16:53 UTC`
+📆 Last Updated: `2023-04-11 22:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,20 +21,20 @@ This is top 50 for [Latvia](</Latvia>)
 | 4 | [Levitu](http://twitter.com/search?q=Levitu) | N/A |
 | 5 | [Liepājas](http://twitter.com/search?q=Liep%c4%81jas) | N/A |
 | 6 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
-| 7 | [ukrainai](http://twitter.com/search?q=ukrainai) | N/A |
-| 8 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
-| 9 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 10 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
-| 11 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | N/A |
-| 12 | [ušakovs](http://twitter.com/search?q=u%c5%a1akovs) | N/A |
-| 13 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 14 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | N/A |
-| 15 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
-| 16 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 17 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
-| 18 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
-| 19 | [lieldienas](http://twitter.com/search?q=lieldienas) | N/A |
-| 20 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 7 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
+| 8 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
+| 9 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | N/A |
+| 10 | [ušakovs](http://twitter.com/search?q=u%c5%a1akovs) | N/A |
+| 11 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 12 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | N/A |
+| 13 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
+| 14 | [Ukrainai](http://twitter.com/search?q=Ukrainai) | N/A |
+| 15 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
+| 16 | [Rīgā](http://twitter.com/search?q=R%c4%abg%c4%81) | N/A |
+| 17 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
+| 18 | [lieldienas](http://twitter.com/search?q=lieldienas) | N/A |
+| 19 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 20 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 21 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 23 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Latvia](</Latvia>)
 | 35 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
 | 36 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | N/A |
 | 37 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
-| 38 | [Nevis](http://twitter.com/search?q=Nevis) | N/A |
-| 39 | [#Ukulele](http://twitter.com/search?q=%23Ukulele) | N/A |
-| 40 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
-| 41 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
-| 42 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
-| 43 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | N/A |
-| 46 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
-| 47 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
-| 48 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 49 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
-| 50 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 38 | [#Ukulele](http://twitter.com/search?q=%23Ukulele) | N/A |
+| 39 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
+| 40 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
+| 41 | [Viņi](http://twitter.com/search?q=Vi%c5%86i) | N/A |
+| 42 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
+| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 44 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | N/A |
+| 45 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
+| 46 | [Viņš](http://twitter.com/search?q=Vi%c5%86%c5%a1) | N/A |
+| 47 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 48 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
+| 49 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 50 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
 
 
 

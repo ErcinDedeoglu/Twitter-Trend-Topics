@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-11 21:16:46 UTC`
+📆 Last Updated: `2023-04-11 22:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for [Austria](</Austria>)
 | 11 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
 | 12 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
 | 13 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 14 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 14 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 17 | [Karner](http://twitter.com/search?q=Karner) | N/A |
-| 18 | [Aufregung](http://twitter.com/search?q=Aufregung) | N/A |
-| 19 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
-| 20 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 21 | [Räder](http://twitter.com/search?q=R%c3%a4der) | N/A |
-| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
-| 24 | [Brot](http://twitter.com/search?q=Brot) | N/A |
-| 25 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 26 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 27 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
-| 28 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
+| 16 | [Sozialdemokratie](http://twitter.com/search?q=Sozialdemokratie) | N/A |
+| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 18 | [Karner](http://twitter.com/search?q=Karner) | N/A |
+| 19 | [Aufregung](http://twitter.com/search?q=Aufregung) | N/A |
+| 20 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
+| 21 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 22 | [Räder](http://twitter.com/search?q=R%c3%a4der) | N/A |
+| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 24 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
+| 25 | [Brot](http://twitter.com/search?q=Brot) | N/A |
+| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 27 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 28 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
 | 29 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
-| 30 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
-| 31 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 32 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 33 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 34 | [Shalom](http://twitter.com/search?q=Shalom) | N/A |
-| 35 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 36 | [Migration](http://twitter.com/search?q=Migration) | N/A |
-| 37 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
-| 38 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
-| 39 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
-| 40 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 41 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 42 | [Zunge](http://twitter.com/search?q=Zunge) | N/A |
+| 30 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
+| 31 | [Bahnhof](http://twitter.com/search?q=Bahnhof) | N/A |
+| 32 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 33 | [Shalom](http://twitter.com/search?q=Shalom) | N/A |
+| 34 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 35 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
+| 36 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
+| 37 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
+| 38 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 39 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 40 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
+| 41 | [Zunge](http://twitter.com/search?q=Zunge) | N/A |
+| 42 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
 | 43 | [Angeblich](http://twitter.com/search?q=Angeblich) | N/A |
 | 44 | [Indien](http://twitter.com/search?q=Indien) | N/A |
-| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 46 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 47 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 48 | [Boah](http://twitter.com/search?q=Boah) | N/A |
-| 49 | [Fähigkeiten](http://twitter.com/search?q=F%c3%a4higkeiten) | N/A |
-| 50 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 45 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 46 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 47 | [Meinst](http://twitter.com/search?q=Meinst) | N/A |
+| 48 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 49 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 50 | [Fähigkeiten](http://twitter.com/search?q=F%c3%a4higkeiten) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-11 21:16:46 UTC`
+📆 Last Updated: `2023-04-11 22:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 4 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 3 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 4 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 5 | [#otpwarszawa](http://twitter.com/search?q=%23otpwarszawa) | N/A |
 | 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [#otpwarszawa](http://twitter.com/search?q=%23otpwarszawa) | N/A |
+| 7 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
 | 8 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 9 | [Sommera](http://twitter.com/search?q=Sommera) | N/A |
+| 9 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 10 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 12 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 11 | [Sommera](http://twitter.com/search?q=Sommera) | N/A |
+| 12 | [Haalanda](http://twitter.com/search?q=Haalanda) | N/A |
+| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 14 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 15 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 17 | [Manchesterze](http://twitter.com/search?q=Manchesterze) | N/A |
-| 18 | [Bellinghama](http://twitter.com/search?q=Bellinghama) | N/A |
+| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 16 | [Manchesterze](http://twitter.com/search?q=Manchesterze) | N/A |
+| 17 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 18 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 19 | [Łęcznej](http://twitter.com/search?q=%c5%81%c4%99cznej) | N/A |
-| 20 | [Polsatu](http://twitter.com/search?q=Polsatu) | N/A |
-| 21 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 22 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
-| 23 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 24 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 25 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 26 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
-| 27 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 28 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 29 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
-| 30 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 31 | [zamach](http://twitter.com/search?q=zamach) | N/A |
-| 32 | [Arabski](http://twitter.com/search?q=Arabski) | N/A |
-| 33 | [Interu](http://twitter.com/search?q=Interu) | N/A |
-| 34 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 35 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Dalajlamy](http://twitter.com/search?q=Dalajlamy) | N/A |
-| 38 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
-| 39 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
-| 40 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 41 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
-| 42 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 43 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 44 | [Lizbonie](http://twitter.com/search?q=Lizbonie) | N/A |
+| 20 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 21 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 22 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 23 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 24 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 25 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
+| 26 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 27 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 28 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
+| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 30 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 31 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 32 | [zamach](http://twitter.com/search?q=zamach) | N/A |
+| 33 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 34 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 35 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 36 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
+| 37 | [Arabski](http://twitter.com/search?q=Arabski) | N/A |
+| 38 | [Dalajlamy](http://twitter.com/search?q=Dalajlamy) | N/A |
+| 39 | [Polsatu](http://twitter.com/search?q=Polsatu) | N/A |
+| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 41 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 42 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
+| 43 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 44 | [Baku](http://twitter.com/search?q=Baku) | N/A |
 | 45 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
-| 46 | [biorę udział](http://twitter.com/search?q=bior%c4%99+udzia%c5%82) | N/A |
-| 47 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 48 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
-| 49 | [Leona](http://twitter.com/search?q=Leona) | N/A |
+| 46 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
+| 47 | [biorę udział](http://twitter.com/search?q=bior%c4%99+udzia%c5%82) | N/A |
+| 48 | [Lizbonie](http://twitter.com/search?q=Lizbonie) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-04-11 21:17:08 UTC`
+📆 Last Updated: `2023-04-11 22:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,15 +29,15 @@ This is top 50 for [Russia](</Russia>)
 | 12 | [Cann](http://twitter.com/search?q=Cann) | N/A |
 | 13 | [Employ](http://twitter.com/search?q=Employ) | N/A |
 | 14 | [Alll](http://twitter.com/search?q=Alll) | N/A |
-| 15 | [didd](http://twitter.com/search?q=didd) | N/A |
+| 15 | [DIDD](http://twitter.com/search?q=DIDD) | N/A |
 | 16 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
 | 17 | [onee](http://twitter.com/search?q=onee) | N/A |
 | 18 | [Markets](http://twitter.com/search?q=Markets) | N/A |
-| 19 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 20 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
-| 21 | [Top Team](http://twitter.com/search?q=Top+Team) | N/A |
-| 22 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
-| 23 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 19 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
+| 20 | [Top Team](http://twitter.com/search?q=Top+Team) | N/A |
+| 21 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
+| 22 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 23 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 24 | [#Binancee](http://twitter.com/search?q=%23Binancee) | N/A |
 | 25 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 26 | [Havee](http://twitter.com/search?q=Havee) | N/A |
@@ -46,23 +46,23 @@ This is top 50 for [Russia](</Russia>)
 | 29 | [Neww](http://twitter.com/search?q=Neww) | N/A |
 | 30 | [cryptoo](http://twitter.com/search?q=cryptoo) | N/A |
 | 31 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
-| 32 | [FINALLYY](http://twitter.com/search?q=FINALLYY) | N/A |
+| 32 | [finallyy](http://twitter.com/search?q=finallyy) | N/A |
 | 33 | [Recommend](http://twitter.com/search?q=Recommend) | N/A |
-| 34 | [Weee](http://twitter.com/search?q=Weee) | N/A |
-| 35 | [Logical](http://twitter.com/search?q=Logical) | N/A |
-| 36 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 37 | [Госуслуги](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8) | N/A |
+| 34 | [Госуслуги](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8) | N/A |
+| 35 | [Weee](http://twitter.com/search?q=Weee) | N/A |
+| 36 | [Logical](http://twitter.com/search?q=Logical) | N/A |
+| 37 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 | 38 | [worthh](http://twitter.com/search?q=worthh) | N/A |
 | 39 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
 | 40 | [Шивелуч](http://twitter.com/search?q=%d0%a8%d0%b8%d0%b2%d0%b5%d0%bb%d1%83%d1%87) | N/A |
-| 41 | [forr](http://twitter.com/search?q=forr) | N/A |
-| 42 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
-| 43 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
-| 44 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
+| 41 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 42 | [forr](http://twitter.com/search?q=forr) | N/A |
+| 43 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
+| 44 | [dope xd](http://twitter.com/search?q=dope+xd) | N/A |
 | 45 | [Keepss](http://twitter.com/search?q=Keepss) | N/A |
 | 46 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
-| 47 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 48 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 47 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |
+| 48 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
 
 
 
