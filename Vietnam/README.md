@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-11 06:19:26 UTC`
+📆 Last Updated: `2023-04-11 07:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Vietnam
 | 3 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 4 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
 | 5 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 6 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
-| 7 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
+| 6 | [#BibleIsLoved](http://twitter.com/search?q=%23BibleIsLoved) | N/A |
+| 7 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
 | 8 | [PROTECT YOUR ARTIST](http://twitter.com/search?q=PROTECT+YOUR+ARTIST) | N/A |
 | 9 | [spring romance with xiao zhan](http://twitter.com/search?q=spring+romance+with+xiao+zhan) | N/A |
 | 10 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 11 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Chiến](http://twitter.com/search?q=Chi%e1%ba%bfn) | N/A |
-| 14 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 15 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 16 | [Flaming](http://twitter.com/search?q=Flaming) | N/A |
+| 11 | [DAOs](http://twitter.com/search?q=DAOs) | N/A |
+| 12 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Chiến](http://twitter.com/search?q=Chi%e1%ba%bfn) | N/A |
+| 15 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 16 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
 | 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 18 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
-| 19 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
-| 20 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 21 | [Horror](http://twitter.com/search?q=Horror) | N/A |
-| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 24 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 25 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 26 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 27 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 28 | [thanh](http://twitter.com/search?q=thanh) | N/A |
-| 29 | [đài loan](http://twitter.com/search?q=%c4%91%c3%a0i+loan) | N/A |
-| 30 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 31 | [Motorcycle](http://twitter.com/search?q=Motorcycle) | N/A |
-| 32 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 33 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 18 | [Flaming](http://twitter.com/search?q=Flaming) | N/A |
+| 19 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
+| 20 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
+| 21 | [Floral](http://twitter.com/search?q=Floral) | N/A |
+| 22 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 23 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
+| 24 | [Horror](http://twitter.com/search?q=Horror) | N/A |
+| 25 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 26 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 27 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 28 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 29 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 30 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 31 | [đài loan](http://twitter.com/search?q=%c4%91%c3%a0i+loan) | N/A |
+| 32 | [Motorcycle](http://twitter.com/search?q=Motorcycle) | N/A |
+| 33 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
 | 34 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 35 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 35 | [Hình](http://twitter.com/search?q=H%c3%acnh) | N/A |
 | 36 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 37 | [DAOs](http://twitter.com/search?q=DAOs) | N/A |
-| 38 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
-| 39 | [MetaMask](http://twitter.com/search?q=MetaMask) | N/A |
-| 40 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 41 | [Whitelist](http://twitter.com/search?q=Whitelist) | N/A |
-| 42 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 43 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 44 | [Binance](http://twitter.com/search?q=Binance) | N/A |
-| 45 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
-| 46 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 47 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 48 | [USDT](http://twitter.com/search?q=USDT) | N/A |
-| 49 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 50 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 37 | [Tiền](http://twitter.com/search?q=Ti%e1%bb%81n) | N/A |
+| 38 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 39 | [Thanh](http://twitter.com/search?q=Thanh) | N/A |
+| 40 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 41 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 42 | [Candy](http://twitter.com/search?q=Candy) | N/A |
+| 43 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 44 | [MetaMask](http://twitter.com/search?q=MetaMask) | N/A |
+| 45 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 46 | [Whitelist](http://twitter.com/search?q=Whitelist) | N/A |
+| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 49 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 50 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
 
 
 

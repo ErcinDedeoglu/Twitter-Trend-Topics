@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-11 06:19:05 UTC`
+📆 Last Updated: `2023-04-11 07:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mcyvwel](http://twitter.com/search?q=%23mcyvwel) | N/A |
-| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 3 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 4 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 5 | [Sean](http://twitter.com/search?q=Sean) | N/A |
+| 1 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 2 | [#mcyvwel](http://twitter.com/search?q=%23mcyvwel) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [Sean](http://twitter.com/search?q=Sean) | N/A |
+| 5 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
 | 6 | [Business NZ](http://twitter.com/search?q=Business+NZ) | N/A |
 | 7 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
 | 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 9 | [Helen](http://twitter.com/search?q=Helen) | N/A |
 | 10 | [Dave](http://twitter.com/search?q=Dave) | N/A |
 | 11 | [Northland](http://twitter.com/search?q=Northland) | N/A |
-| 12 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 13 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 14 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
-| 15 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
-| 16 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
-| 17 | [The Platform](http://twitter.com/search?q=The+Platform) | N/A |
-| 18 | [The Herald](http://twitter.com/search?q=The+Herald) | N/A |
+| 12 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
+| 13 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 14 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
+| 15 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 16 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
+| 17 | [Chippy](http://twitter.com/search?q=Chippy) | N/A |
+| 18 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 | 19 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 20 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
-| 21 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 21 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 22 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 23 | [Jacinda Ardern](http://twitter.com/search?q=Jacinda+Ardern) | Jacinda Ardern is the current Prime Minister of New Zealand. She is the 40th Prime Minister of New Zealand and the youngest female head of government in the world. She has been in office since October 2017. Her name is derived from the Māori language and means "peaceful one". |
 | 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 25 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 26 | [Mahuta](http://twitter.com/search?q=Mahuta) | N/A |
+| 25 | [Treasury](http://twitter.com/search?q=Treasury) | N/A |
+| 26 | [Spot](http://twitter.com/search?q=Spot) | N/A |
 | 27 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
 | 28 | [#indiemusic](http://twitter.com/search?q=%23indiemusic) | N/A |
-| 29 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 29 | [Mahuta](http://twitter.com/search?q=Mahuta) | N/A |
 | 30 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
 | 31 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
 | 32 | [Bull](http://twitter.com/search?q=Bull) | N/A |
 | 33 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 34 | [david fisher](http://twitter.com/search?q=david+fisher) | N/A |
-| 35 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 36 | [Genocide](http://twitter.com/search?q=Genocide) | N/A |
-| 37 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 38 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 39 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 40 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 41 | [Aotearoa NZ](http://twitter.com/search?q=Aotearoa+NZ) | N/A |
-| 42 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 43 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 44 | [Simon O'Connor](http://twitter.com/search?q=Simon+O%27Connor) | N/A |
-| 45 | [Hipkins](http://twitter.com/search?q=Hipkins) | N/A |
+| 34 | [Holy](http://twitter.com/search?q=Holy) | N/A |
+| 35 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 36 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 37 | [Genocide](http://twitter.com/search?q=Genocide) | N/A |
+| 38 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 39 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 40 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 41 | [Herald](http://twitter.com/search?q=Herald) | N/A |
+| 42 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 43 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 44 | [aotearoa nz](http://twitter.com/search?q=aotearoa+nz) | N/A |
+| 45 | [simon o'connor](http://twitter.com/search?q=simon+o%27connor) | N/A |
 | 46 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 47 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 48 | [Sanjana](http://twitter.com/search?q=Sanjana) | N/A |
-| 49 | [National and ACT](http://twitter.com/search?q=National+and+ACT) | N/A |
-| 50 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 48 | [False](http://twitter.com/search?q=False) | N/A |
+| 49 | [Sanjana](http://twitter.com/search?q=Sanjana) | N/A |
+| 50 | [Science](http://twitter.com/search?q=Science) | N/A |
 
 
 

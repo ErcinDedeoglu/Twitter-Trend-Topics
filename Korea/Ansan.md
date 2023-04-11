@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ansan
 
-📆 Last Updated: `2023-04-11 06:18:46 UTC`
+📆 Last Updated: `2023-04-11 07:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,45 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 2 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 1 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 2 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
 | 3 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
-| 4 | [강릉 산불](http://twitter.com/search?q=%ea%b0%95%eb%a6%89+%ec%82%b0%eb%b6%88) | N/A |
-| 5 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 6 | [#파판14_트친소](http://twitter.com/search?q=%23%ed%8c%8c%ed%8c%9014_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
-| 7 | [후기채널 인증채널](http://twitter.com/search?q=%ed%9b%84%ea%b8%b0%ec%b1%84%eb%84%90+%ec%9d%b8%ec%a6%9d%ec%b1%84%eb%84%90) | N/A |
-| 8 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 9 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
-| 10 | [재관 10](http://twitter.com/search?q=%ec%9e%ac%ea%b4%80+10) | N/A |
-| 11 | [오프가능한 오빠](http://twitter.com/search?q=%ec%98%a4%ed%94%84%ea%b0%80%eb%8a%a5%ed%95%9c+%ec%98%a4%eb%b9%a0) | N/A |
-| 12 | [경복궁 생과방](http://twitter.com/search?q=%ea%b2%bd%eb%b3%b5%ea%b6%81+%ec%83%9d%ea%b3%bc%eb%b0%a9) | N/A |
-| 13 | [포토라인](http://twitter.com/search?q=%ed%8f%ac%ed%86%a0%eb%9d%bc%ec%9d%b8) | N/A |
-| 14 | [이미지 로딩](http://twitter.com/search?q=%ec%9d%b4%eb%af%b8%ec%a7%80+%eb%a1%9c%eb%94%a9) | N/A |
-| 15 | [사진 로딩](http://twitter.com/search?q=%ec%82%ac%ec%a7%84+%eb%a1%9c%eb%94%a9) | N/A |
-| 16 | [초연티켓](http://twitter.com/search?q=%ec%b4%88%ec%97%b0%ed%8b%b0%ec%bc%93) | N/A |
-| 17 | [최강야구](http://twitter.com/search?q=%ec%b5%9c%ea%b0%95%ec%95%bc%ea%b5%ac) | N/A |
-| 18 | [라벨 스티커 테스트](http://twitter.com/search?q=%eb%9d%bc%eb%b2%a8+%ec%8a%a4%ed%8b%b0%ec%bb%a4+%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
-| 19 | [포타 제목](http://twitter.com/search?q=%ed%8f%ac%ed%83%80+%ec%a0%9c%eb%aa%a9) | N/A |
+| 4 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 5 | [강릉 산불](http://twitter.com/search?q=%ea%b0%95%eb%a6%89+%ec%82%b0%eb%b6%88) | N/A |
+| 6 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 7 | [라벨 스티커](http://twitter.com/search?q=%eb%9d%bc%eb%b2%a8+%ec%8a%a4%ed%8b%b0%ec%bb%a4) | N/A |
+| 8 | [성격 취향캐](http://twitter.com/search?q=%ec%84%b1%ea%b2%a9+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
+| 9 | [외관 취향캐](http://twitter.com/search?q=%ec%99%b8%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
+| 10 | [굳이 생포](http://twitter.com/search?q=%ea%b5%b3%ec%9d%b4+%ec%83%9d%ed%8f%ac) | N/A |
+| 11 | [서사 취향캐](http://twitter.com/search?q=%ec%84%9c%ec%82%ac+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
+| 12 | [가치관 취향캐](http://twitter.com/search?q=%ea%b0%80%ec%b9%98%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
+| 13 | [경복궁 생과방](http://twitter.com/search?q=%ea%b2%bd%eb%b3%b5%ea%b6%81+%ec%83%9d%ea%b3%bc%eb%b0%a9) | N/A |
+| 14 | [블루스카이](http://twitter.com/search?q=%eb%b8%94%eb%a3%a8%ec%8a%a4%ec%b9%b4%ec%9d%b4) | N/A |
+| 15 | [최애 조합](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0+%ec%a1%b0%ed%95%a9) | N/A |
+| 16 | [재관 10](http://twitter.com/search?q=%ec%9e%ac%ea%b4%80+10) | N/A |
+| 17 | [당신의 cp](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+cp) | N/A |
+| 18 | [오프가능한 오빠](http://twitter.com/search?q=%ec%98%a4%ed%94%84%ea%b0%80%eb%8a%a5%ed%95%9c+%ec%98%a4%eb%b9%a0) | N/A |
+| 19 | [세븐틴 멤버와 닮은점](http://twitter.com/search?q=%ec%84%b8%eb%b8%90%ed%8b%b4+%eb%a9%a4%eb%b2%84%ec%99%80+%eb%8b%ae%ec%9d%80%ec%a0%90) | N/A |
 | 20 | [천둥번개](http://twitter.com/search?q=%ec%b2%9c%eb%91%a5%eb%b2%88%ea%b0%9c) | N/A |
-| 21 | [최애 반응](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0+%eb%b0%98%ec%9d%91) | N/A |
+| 21 | [관심있는 여자](http://twitter.com/search?q=%ea%b4%80%ec%8b%ac%ec%9e%88%eb%8a%94+%ec%97%ac%ec%9e%90) | N/A |
 | 22 | [매우 관심](http://twitter.com/search?q=%eb%a7%a4%ec%9a%b0+%ea%b4%80%ec%8b%ac) | N/A |
-| 23 | [아이브 신곡](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%b8%8c+%ec%8b%a0%ea%b3%a1) | N/A |
-| 24 | [바람 장난](http://twitter.com/search?q=%eb%b0%94%eb%9e%8c+%ec%9e%a5%eb%82%9c) | N/A |
-| 25 | [텔레그램 안전딜러](http://twitter.com/search?q=%ed%85%94%eb%a0%88%ea%b7%b8%eb%9e%a8+%ec%95%88%ec%a0%84%eb%94%9c%eb%9f%ac) | N/A |
-| 26 | [대통령실](http://twitter.com/search?q=%eb%8c%80%ed%86%b5%eb%a0%b9%ec%8b%a4) | N/A |
-| 27 | [스콘 2관](http://twitter.com/search?q=%ec%8a%a4%ec%bd%98+2%ea%b4%80) | N/A |
-| 28 | [팬픽제목](http://twitter.com/search?q=%ed%8c%ac%ed%94%bd%ec%a0%9c%eb%aa%a9) | N/A |
-| 29 | [사람 쪽지](http://twitter.com/search?q=%ec%82%ac%eb%9e%8c+%ec%aa%bd%ec%a7%80) | N/A |
-| 30 | [재관할 10](http://twitter.com/search?q=%ec%9e%ac%ea%b4%80%ed%95%a0+10) | N/A |
-| 31 | [외관 취향캐](http://twitter.com/search?q=%ec%99%b8%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
-| 32 | [성격 취향캐](http://twitter.com/search?q=%ec%84%b1%ea%b2%a9+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
-| 33 | [생과방 예약](http://twitter.com/search?q=%ec%83%9d%ea%b3%bc%eb%b0%a9+%ec%98%88%ec%95%bd) | N/A |
-| 34 | [같은 포타](http://twitter.com/search?q=%ea%b0%99%ec%9d%80+%ed%8f%ac%ed%83%80) | N/A |
-| 35 | [꼬들 465](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+465) | N/A |
-| 36 | [뭔가 의미심장](http://twitter.com/search?q=%eb%ad%94%ea%b0%80+%ec%9d%98%eb%af%b8%ec%8b%ac%ec%9e%a5) | N/A |
-| 37 | [천둥소리](http://twitter.com/search?q=%ec%b2%9c%eb%91%a5%ec%86%8c%eb%a6%ac) | N/A |
-| 38 | [가치관 취향캐](http://twitter.com/search?q=%ea%b0%80%ec%b9%98%ea%b4%80+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
-| 39 | [서사 취향캐](http://twitter.com/search?q=%ec%84%9c%ec%82%ac+%ec%b7%a8%ed%96%a5%ec%ba%90) | N/A |
-| 40 | [관심있는 여자](http://twitter.com/search?q=%ea%b4%80%ec%8b%ac%ec%9e%88%eb%8a%94+%ec%97%ac%ec%9e%90) | N/A |
-| 41 | [북산센루](http://twitter.com/search?q=%eb%b6%81%ec%82%b0%ec%84%bc%eb%a3%a8) | N/A |
-| 42 | [바람 너무](http://twitter.com/search?q=%eb%b0%94%eb%9e%8c+%eb%84%88%eb%ac%b4) | N/A |
-| 43 | [아이브 노래](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%b8%8c+%eb%85%b8%eb%9e%98) | N/A |
-| 44 | [음주운전](http://twitter.com/search?q=%ec%9d%8c%ec%a3%bc%ec%9a%b4%ec%a0%84) | N/A |
-| 45 | [해시 총공](http://twitter.com/search?q=%ed%95%b4%ec%8b%9c+%ec%b4%9d%ea%b3%b5) | N/A |
-| 46 | [진겸 그냥](http://twitter.com/search?q=%ec%a7%84%ea%b2%b8+%ea%b7%b8%eb%83%a5) | N/A |
-| 47 | [불안장애](http://twitter.com/search?q=%eb%b6%88%ec%95%88%ec%9e%a5%ec%95%a0) | N/A |
-| 48 | [당신의 최애cp](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%b5%9c%ec%95%a0cp) | N/A |
-| 49 | [가능한사람](http://twitter.com/search?q=%ea%b0%80%eb%8a%a5%ed%95%9c%ec%82%ac%eb%9e%8c) | N/A |
-| 50 | [최애 조합](http://twitter.com/search?q=%ec%b5%9c%ec%95%a0+%ec%a1%b0%ed%95%a9) | N/A |
+| 23 | [천둥소리](http://twitter.com/search?q=%ec%b2%9c%eb%91%a5%ec%86%8c%eb%a6%ac) | N/A |
+| 24 | [언제 공론화가](http://twitter.com/search?q=%ec%96%b8%ec%a0%9c+%ea%b3%b5%eb%a1%a0%ed%99%94%ea%b0%80) | 언제 공론화가 is a Korean phrase that literally translates to "when will it be public?" It is used to ask when something will become publicly available or known. |
+| 25 | [가능한사람](http://twitter.com/search?q=%ea%b0%80%eb%8a%a5%ed%95%9c%ec%82%ac%eb%9e%8c) | N/A |
+| 26 | [바람 너무](http://twitter.com/search?q=%eb%b0%94%eb%9e%8c+%eb%84%88%eb%ac%b4) | N/A |
+| 27 | [인증채널 ok](http://twitter.com/search?q=%ec%9d%b8%ec%a6%9d%ec%b1%84%eb%84%90+ok) | N/A |
+| 28 | [임시정부](http://twitter.com/search?q=%ec%9e%84%ec%8b%9c%ec%a0%95%eb%b6%80) | N/A |
+| 29 | [불안장애](http://twitter.com/search?q=%eb%b6%88%ec%95%88%ec%9e%a5%ec%95%a0) | N/A |
+| 30 | [이미지 로딩](http://twitter.com/search?q=%ec%9d%b4%eb%af%b8%ec%a7%80+%eb%a1%9c%eb%94%a9) | N/A |
+| 31 | [바람때문](http://twitter.com/search?q=%eb%b0%94%eb%9e%8c%eb%95%8c%eb%ac%b8) | N/A |
+| 32 | [같은 날씨](http://twitter.com/search?q=%ea%b0%99%ec%9d%80+%eb%82%a0%ec%94%a8) | N/A |
+| 33 | [바람 장난](http://twitter.com/search?q=%eb%b0%94%eb%9e%8c+%ec%9e%a5%eb%82%9c) | N/A |
+| 34 | [대통령실](http://twitter.com/search?q=%eb%8c%80%ed%86%b5%eb%a0%b9%ec%8b%a4) | N/A |
+| 35 | [때의 최애 반응](http://twitter.com/search?q=%eb%95%8c%ec%9d%98+%ec%b5%9c%ec%95%a0+%eb%b0%98%ec%9d%91) | N/A |
+| 36 | [포토라인](http://twitter.com/search?q=%ed%8f%ac%ed%86%a0%eb%9d%bc%ec%9d%b8) | N/A |
+| 37 | [사진 로딩](http://twitter.com/search?q=%ec%82%ac%ec%a7%84+%eb%a1%9c%eb%94%a9) | N/A |
+| 38 | [#파판14_트친소](http://twitter.com/search?q=%23%ed%8c%8c%ed%8c%9014_%ed%8a%b8%ec%b9%9c%ec%86%8c) | N/A |
+| 39 | [#은광버블](http://twitter.com/search?q=%23%ec%9d%80%ea%b4%91%eb%b2%84%eb%b8%94) | N/A |
 
 
 

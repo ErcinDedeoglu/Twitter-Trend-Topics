@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-11 06:19:23 UTC`
+📆 Last Updated: `2023-04-11 07:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,10 +23,10 @@ This is top 50 for Panama
 | 6 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 7 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
 | 8 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 9 | [Capira](http://twitter.com/search?q=Capira) | N/A |
-| 10 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
-| 11 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 12 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 9 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
+| 10 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 11 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 12 | [Capira](http://twitter.com/search?q=Capira) | N/A |
 | 13 | [Roux](http://twitter.com/search?q=Roux) | N/A |
 | 14 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 15 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
@@ -47,15 +47,15 @@ This is top 50 for Panama
 | 30 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
 | 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 32 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 33 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 34 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
-| 35 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 36 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 37 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 38 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 39 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 40 | [Aguadulce](http://twitter.com/search?q=Aguadulce) | N/A |
-| 41 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 33 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
+| 34 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 36 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
+| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 38 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 39 | [aguadulce](http://twitter.com/search?q=aguadulce) | N/A |
+| 40 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 41 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 42 | [La Prensa](http://twitter.com/search?q=La+Prensa) | N/A |
 | 43 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
 | 44 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |

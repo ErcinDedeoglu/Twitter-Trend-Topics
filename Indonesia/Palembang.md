@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-11 06:18:42 UTC`
+📆 Last Updated: `2023-04-11 07:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,48 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [oppo ramadan 2023](http://twitter.com/search?q=oppo+ramadan+2023) | N/A |
-| 2 | [#GanjarPilihanTerbaik](http://twitter.com/search?q=%23GanjarPilihanTerbaik) | N/A |
-| 3 | [#Welcome_Home_YoungK](http://twitter.com/search?q=%23Welcome_Home_YoungK) | N/A |
-| 4 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
-| 5 | [bri banyak untungnya](http://twitter.com/search?q=bri+banyak+untungnya) | N/A |
-| 6 | [Oatside Mini](http://twitter.com/search?q=Oatside+Mini) | N/A |
-| 7 | [silaturahmi kebangsaan](http://twitter.com/search?q=silaturahmi+kebangsaan) | N/A |
-| 8 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 11 | [oppo reno8 t](http://twitter.com/search?q=oppo+reno8+t) | N/A |
-| 12 | [penuhi hak kesehatan helmut](http://twitter.com/search?q=penuhi+hak+kesehatan+helmut) | N/A |
-| 13 | [partai perindo](http://twitter.com/search?q=partai+perindo) | N/A |
-| 14 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 15 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 16 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 18 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 19 | [Lebaran 2020](http://twitter.com/search?q=Lebaran+2020) | N/A |
-| 20 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
-| 21 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 22 | [Zayed Humanitarian Day](http://twitter.com/search?q=Zayed+Humanitarian+Day) | N/A |
-| 23 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 24 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 25 | [Wira Satya](http://twitter.com/search?q=Wira+Satya) | N/A |
-| 26 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 27 | [Gue 15](http://twitter.com/search?q=Gue+15) | N/A |
-| 28 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
-| 29 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
-| 30 | [QRIS](http://twitter.com/search?q=QRIS) | N/A |
-| 31 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 32 | [Swis-bel Hotel](http://twitter.com/search?q=Swis-bel+Hotel) | N/A |
-| 33 | [Damkar](http://twitter.com/search?q=Damkar) | N/A |
-| 34 | [prabowo menangkan rakyat](http://twitter.com/search?q=prabowo+menangkan+rakyat) | N/A |
-| 35 | [koalisi besar tercapai](http://twitter.com/search?q=koalisi+besar+tercapai) | N/A |
-| 36 | [Hansamu Yama](http://twitter.com/search?q=Hansamu+Yama) | N/A |
-| 37 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
-| 38 | [Pasar Selo](http://twitter.com/search?q=Pasar+Selo) | N/A |
-| 39 | [U GOT IT](http://twitter.com/search?q=U+GOT+IT) | N/A |
-| 40 | [Sage](http://twitter.com/search?q=Sage) | N/A |
-| 41 | [lylyawithrenjun](http://twitter.com/search?q=lylyawithrenjun) | N/A |
-| 42 | [MUDIK AQUA DULU](http://twitter.com/search?q=MUDIK+AQUA+DULU) | N/A |
-| 43 | [Kasrem 163](http://twitter.com/search?q=Kasrem+163) | N/A |
-| 44 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 45 | [Pak Taka](http://twitter.com/search?q=Pak+Taka) | N/A |
-| 46 | [Anas](http://twitter.com/search?q=Anas) | N/A |
-| 47 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 48 | [Ravenclaw](http://twitter.com/search?q=Ravenclaw) | N/A |
+| 1 | [UrusanGue Kerenin Indonesia](http://twitter.com/search?q=UrusanGue+Kerenin+Indonesia) | N/A |
+| 2 | [#MilenialGenZPrabowo](http://twitter.com/search?q=%23MilenialGenZPrabowo) | N/A |
+| 3 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 4 | [#Welcome_Home_YoungK](http://twitter.com/search?q=%23Welcome_Home_YoungK) | N/A |
+| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 6 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
+| 7 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 8 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 9 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 10 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 11 | [Kang Younghyun](http://twitter.com/search?q=Kang+Younghyun) | N/A |
+| 12 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
+| 13 | [Zayed Humanitarian Day](http://twitter.com/search?q=Zayed+Humanitarian+Day) | N/A |
+| 14 | [Sage](http://twitter.com/search?q=Sage) | N/A |
+| 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 16 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 17 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 18 | [Anas](http://twitter.com/search?q=Anas) | N/A |
+| 19 | [Stunting](http://twitter.com/search?q=Stunting) | N/A |
+| 20 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
+| 21 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 22 | [David](http://twitter.com/search?q=David) | N/A |
+| 23 | [Presiden Jokowi](http://twitter.com/search?q=Presiden+Jokowi) | N/A |
+| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 25 | [Ortu](http://twitter.com/search?q=Ortu) | N/A |
+| 26 | [QRIS](http://twitter.com/search?q=QRIS) | N/A |
+| 27 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 28 | [#RENJUNxKnightMagazine](http://twitter.com/search?q=%23RENJUNxKnightMagazine) | N/A |
+| 29 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 30 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 31 | [#GanjarPilihanTerbaik](http://twitter.com/search?q=%23GanjarPilihanTerbaik) | N/A |
+| 32 | [#영케이_전역_축하해](http://twitter.com/search?q=%23%ec%98%81%ec%bc%80%ec%9d%b4_%ec%a0%84%ec%97%ad_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 33 | [#끝까지_안아줄_영케이왔다](http://twitter.com/search?q=%23%eb%81%9d%ea%b9%8c%ec%a7%80_%ec%95%88%ec%95%84%ec%a4%84_%ec%98%81%ec%bc%80%ec%9d%b4%ec%99%94%eb%8b%a4) | N/A |
+| 34 | [#ditjenpas](http://twitter.com/search?q=%23ditjenpas) | N/A |
+| 35 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 36 | [#AwesomePerformance](http://twitter.com/search?q=%23AwesomePerformance) | N/A |
+| 37 | [#SUGAxMarieClaireKorea](http://twitter.com/search?q=%23SUGAxMarieClaireKorea) | N/A |
+| 38 | [#AwesomeNightography](http://twitter.com/search?q=%23AwesomeNightography) | N/A |
+| 39 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
+| 40 | [#AllRounder_Ahyeon_Day](http://twitter.com/search?q=%23AllRounder_Ahyeon_Day) | N/A |
+| 41 | [#아현공주님_생일_축하해](http://twitter.com/search?q=%23%ec%95%84%ed%98%84%ea%b3%b5%ec%a3%bc%eb%8b%98_%ec%83%9d%ec%9d%bc_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 42 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
 
 
 

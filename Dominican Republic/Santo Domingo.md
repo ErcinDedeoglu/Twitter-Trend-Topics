@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-11 06:18:21 UTC`
+📆 Last Updated: `2023-04-11 07:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,10 +37,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 20 | [Boletri](http://twitter.com/search?q=Boletri) | N/A |
 | 21 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
 | 22 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
-| 23 | [Euric](http://twitter.com/search?q=Euric) | N/A |
+| 23 | [euric](http://twitter.com/search?q=euric) | N/A |
 | 24 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
 | 25 | [el ministerio de la mujer](http://twitter.com/search?q=el+ministerio+de+la+mujer) | N/A |
-| 26 | [Ricardo Nieves](http://twitter.com/search?q=Ricardo+Nieves) | N/A |
+| 26 | [ricardo nieves](http://twitter.com/search?q=ricardo+nieves) | N/A |
 | 27 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
 | 28 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
 | 29 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 32 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 33 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
 | 34 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 35 | [Vergolias](http://twitter.com/search?q=Vergolias) | N/A |
+| 35 | [vergolias](http://twitter.com/search?q=vergolias) | N/A |
 | 36 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
 | 37 | [Jensy Graciano](http://twitter.com/search?q=Jensy+Graciano) | N/A |
 | 38 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |

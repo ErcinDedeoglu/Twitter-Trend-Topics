@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-04-11 06:18:43 UTC`
+📆 Last Updated: `2023-04-11 07:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 5 | [#NRLTigersEels](http://twitter.com/search?q=%23NRLTigersEels) | N/A |
 | 6 | [#esctop100](http://twitter.com/search?q=%23esctop100) | N/A |
-| 7 | [Milkrun](http://twitter.com/search?q=Milkrun) | N/A |
-| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 9 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 10 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 11 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
-| 12 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 13 | [#nrlknightswarriors](http://twitter.com/search?q=%23nrlknightswarriors) | N/A |
-| 14 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
-| 15 | [Cincotta](http://twitter.com/search?q=Cincotta) | N/A |
-| 16 | [Sam Docherty](http://twitter.com/search?q=Sam+Docherty) | N/A |
+| 7 | [#afternoonbriefing](http://twitter.com/search?q=%23afternoonbriefing) | N/A |
+| 8 | [Milkrun](http://twitter.com/search?q=Milkrun) | N/A |
+| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 10 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
+| 11 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
+| 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 13 | [#VoteYesAustralia](http://twitter.com/search?q=%23VoteYesAustralia) | N/A |
+| 14 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 15 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 16 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
 | 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 19 | [The Quokka](http://twitter.com/search?q=The+Quokka) | N/A |
-| 20 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 21 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
-| 22 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
-| 23 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 24 | [Labor](http://twitter.com/search?q=Labor) | N/A |
-| 25 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 18 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 19 | [Docherty](http://twitter.com/search?q=Docherty) | N/A |
+| 20 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
+| 21 | [Labor](http://twitter.com/search?q=Labor) | N/A |
+| 22 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 23 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 24 | [Cincotta](http://twitter.com/search?q=Cincotta) | N/A |
+| 25 | [Bells Beach](http://twitter.com/search?q=Bells+Beach) | N/A |
 | 26 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 27 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
-| 28 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 29 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
-| 30 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 31 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 32 | [Dutts](http://twitter.com/search?q=Dutts) | N/A |
-| 33 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 34 | [happy birthday katy](http://twitter.com/search?q=happy+birthday+katy) | N/A |
-| 35 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 36 | [Telly](http://twitter.com/search?q=Telly) | N/A |
-| 37 | [Tim Blair](http://twitter.com/search?q=Tim+Blair) | N/A |
+| 27 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 28 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 29 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 30 | [Simon Birmingham](http://twitter.com/search?q=Simon+Birmingham) | N/A |
+| 31 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 32 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
+| 33 | [Tim Blair](http://twitter.com/search?q=Tim+Blair) | N/A |
+| 34 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
+| 35 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 36 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 37 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
 | 38 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
-| 39 | [Spud](http://twitter.com/search?q=Spud) | N/A |
-| 40 | [Shadow AG](http://twitter.com/search?q=Shadow+AG) | N/A |
-| 41 | [Opposition](http://twitter.com/search?q=Opposition) | N/A |
-| 42 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 43 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 44 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 45 | [Shadow Cabinet](http://twitter.com/search?q=Shadow+Cabinet) | N/A |
-| 46 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
-| 47 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 39 | [Shadow Cabinet](http://twitter.com/search?q=Shadow+Cabinet) | N/A |
+| 40 | [Telly](http://twitter.com/search?q=Telly) | N/A |
+| 41 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 42 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 43 | [Matt Canavan](http://twitter.com/search?q=Matt+Canavan) | N/A |
+| 44 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
+| 45 | [Andrew Bolt](http://twitter.com/search?q=Andrew+Bolt) | N/A |
+| 46 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 47 | [The Quokka](http://twitter.com/search?q=The+Quokka) | N/A |
 | 48 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
-| 49 | [Matt Canavan](http://twitter.com/search?q=Matt+Canavan) | N/A |
-| 50 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 49 | [Round 7](http://twitter.com/search?q=Round+7) | N/A |
+| 50 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
 
 
 

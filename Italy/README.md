@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-11 06:19:20 UTC`
+📆 Last Updated: `2023-04-11 07:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Italy
 | 1 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
 | 2 | [#sanremo2023](http://twitter.com/search?q=%23sanremo2023) | N/A |
 | 3 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
-| 4 | [#EtuttoInsieme](http://twitter.com/search?q=%23EtuttoInsieme) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
-| 7 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
-| 8 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 9 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 10 | [Enea](http://twitter.com/search?q=Enea) | N/A |
-| 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 12 | [#BuongiornoATutti](http://twitter.com/search?q=%23BuongiornoATutti) | N/A |
+| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 5 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
+| 6 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 7 | [#EtuttoInsieme](http://twitter.com/search?q=%23EtuttoInsieme) | N/A |
+| 8 | [Pasqua](http://twitter.com/search?q=Pasqua) | N/A |
+| 9 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
+| 10 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 11 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 13 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
-| 14 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 15 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 16 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 19 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 20 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
-| 21 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
-| 22 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 23 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 14 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 15 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 17 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 18 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
+| 19 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
+| 20 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 21 | [Buongiorno Francesca](http://twitter.com/search?q=Buongiorno+Francesca) | N/A |
+| 22 | [Buongiorno Anna](http://twitter.com/search?q=Buongiorno+Anna) | N/A |
+| 23 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
 | 24 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 25 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 26 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
+| 25 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 26 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
 | 27 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
 | 28 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 29 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
-| 30 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 31 | [Buongiorno Anna](http://twitter.com/search?q=Buongiorno+Anna) | N/A |
-| 32 | [Nicoletta](http://twitter.com/search?q=Nicoletta) | N/A |
-| 33 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
-| 34 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
-| 35 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
+| 29 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 30 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
+| 31 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 32 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
+| 33 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
+| 34 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 35 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
 | 36 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 37 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
-| 38 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 39 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
-| 40 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
-| 41 | [Buongiorno Luca](http://twitter.com/search?q=Buongiorno+Luca) | N/A |
+| 37 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 38 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 39 | [Buongiorno Marco](http://twitter.com/search?q=Buongiorno+Marco) | N/A |
+| 40 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 41 | [Buongiorno Sergio](http://twitter.com/search?q=Buongiorno+Sergio) | N/A |
 | 42 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 43 | [Giuditta](http://twitter.com/search?q=Giuditta) | N/A |
-| 44 | [Livaja](http://twitter.com/search?q=Livaja) | N/A |
-| 45 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 46 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 47 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 48 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
-| 49 | [Moggi](http://twitter.com/search?q=Moggi) | N/A |
-| 50 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 43 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 44 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 45 | [Primo Levi](http://twitter.com/search?q=Primo+Levi) | N/A |
+| 46 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 47 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 48 | [Nicoletta](http://twitter.com/search?q=Nicoletta) | N/A |
+| 49 | [Livaja](http://twitter.com/search?q=Livaja) | N/A |
+| 50 | [Giuditta](http://twitter.com/search?q=Giuditta) | N/A |
 
 
 

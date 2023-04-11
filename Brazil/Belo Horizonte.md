@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-11 06:18:28 UTC`
+📆 Last Updated: `2023-04-11 07:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,39 @@ This is top 50 for [Brazil](</Brazil>)
 | 5 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
 | 6 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
 | 7 | [Omissa](http://twitter.com/search?q=Omissa) | N/A |
-| 8 | [BRUNA INSUPORTÁVEL](http://twitter.com/search?q=BRUNA+INSUPORT%c3%81VEL) | N/A |
+| 8 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
 | 9 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
-| 10 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 10 | [BRUNA INSUPORTÁVEL](http://twitter.com/search?q=BRUNA+INSUPORT%c3%81VEL) | N/A |
 | 11 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
 | 12 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 13 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 14 | [LARISSA BRIFADA](http://twitter.com/search?q=LARISSA+BRIFADA) | N/A |
+| 13 | [LARISSA BRIFADA](http://twitter.com/search?q=LARISSA+BRIFADA) | N/A |
+| 14 | [dr fred](http://twitter.com/search?q=dr+fred) | "Dr Fred" is a nickname for Dr. Frederick Banting, a Canadian medical scientist who was the co-discoverer of insulin. He is credited with saving the lives of millions of people with diabetes. The nickname "Dr Fred" is used to refer to him in a friendly and informal way. |
 | 15 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
-| 16 | [#SenhoraDoDestinoNoVIVA](http://twitter.com/search?q=%23SenhoraDoDestinoNoVIVA) | N/A |
+| 16 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
 | 17 | [Jhony](http://twitter.com/search?q=Jhony) | N/A |
 | 18 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
-| 19 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 19 | [O Alface](http://twitter.com/search?q=O+Alface) | O Alface is a Portuguese expression that literally translates to "Oh, lettuce!" It is used as an exclamation of surprise or astonishment. |
 | 20 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 21 | [MAS CÊ TA BRAVA](http://twitter.com/search?q=MAS+C%c3%8a+TA+BRAVA) | N/A |
-| 22 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 23 | [Arrogante](http://twitter.com/search?q=Arrogante) | N/A |
-| 24 | [Cezar Black](http://twitter.com/search?q=Cezar+Black) | Cezar Black is a Romanian name derived from the Latin name Caesar, which means "emperor". It is also a surname that is used by some families in Romania. In English, Cezar Black can be translated to mean "Emperor Black". |
-| 25 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 26 | [Filipe Toledo](http://twitter.com/search?q=Filipe+Toledo) | N/A |
-| 27 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 28 | [gabi brandt](http://twitter.com/search?q=gabi+brandt) | N/A |
-| 29 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 21 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 22 | [Arrogante](http://twitter.com/search?q=Arrogante) | N/A |
+| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 24 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 25 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 26 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 27 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
+| 28 | [Dia 20](http://twitter.com/search?q=Dia+20) | N/A |
+| 29 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
 | 30 | [Doutor Fred](http://twitter.com/search?q=Doutor+Fred) | N/A |
-| 31 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
-| 32 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
-| 33 | [Palestrinha](http://twitter.com/search?q=Palestrinha) | N/A |
-| 34 | [Dia 20](http://twitter.com/search?q=Dia+20) | N/A |
-| 35 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
-| 36 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
-| 37 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
-| 38 | [Filipinho](http://twitter.com/search?q=Filipinho) | N/A |
-| 39 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
-| 40 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 41 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 42 | [Black e Domitila](http://twitter.com/search?q=Black+e+Domitila) | N/A |
-| 43 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 44 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
-| 45 | [Akira](http://twitter.com/search?q=Akira) | N/A |
-| 46 | [Bolinha](http://twitter.com/search?q=Bolinha) | N/A |
-| 47 | [Helô](http://twitter.com/search?q=Hel%c3%b4) | N/A |
-| 48 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
-| 49 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 50 | [Alok](http://twitter.com/search?q=Alok) | N/A |
+| 31 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
+| 32 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 33 | [Black e Domitila](http://twitter.com/search?q=Black+e+Domitila) | N/A |
+| 34 | [Akira](http://twitter.com/search?q=Akira) | N/A |
+| 35 | [Bolinha](http://twitter.com/search?q=Bolinha) | N/A |
+| 36 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
+| 37 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
+| 38 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 39 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
+| 40 | [Cezar Blacker](http://twitter.com/search?q=Cezar+Blacker) | N/A |
 
 
 

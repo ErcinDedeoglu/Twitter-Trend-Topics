@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-11 06:19:11 UTC`
+📆 Last Updated: `2023-04-11 07:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 3 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 2 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 3 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
 | 4 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 5 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 6 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 9 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 10 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 11 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 12 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 13 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 14 | [nick cannon](http://twitter.com/search?q=nick+cannon) | N/A |
-| 15 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 16 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 17 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 18 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 19 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 20 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 21 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 22 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 23 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 24 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 25 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
-| 26 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 27 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 28 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
-| 29 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 30 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
-| 31 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
-| 32 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
-| 33 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 34 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 35 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 36 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 37 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 38 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 39 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 40 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 41 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
-| 42 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 43 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 44 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 45 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 46 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 47 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 48 | [Durzi](http://twitter.com/search?q=Durzi) | N/A |
-| 49 | [Jared McCann](http://twitter.com/search?q=Jared+McCann) | N/A |
-| 50 | [Nate Eaton](http://twitter.com/search?q=Nate+Eaton) | N/A |
+| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 7 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 8 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 10 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 11 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 12 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
+| 13 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 14 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 15 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 16 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 17 | [#Wordle661](http://twitter.com/search?q=%23Wordle661) | N/A |
+| 18 | [#サンリオキャラクター大賞](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e5%a4%a7%e8%b3%9e) | N/A |
+| 19 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 20 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 21 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 22 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 23 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 24 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
+| 25 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 26 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 27 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 28 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 29 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 30 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 31 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
+| 32 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 33 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 34 | [STAY AWAY FROM HER](http://twitter.com/search?q=STAY+AWAY+FROM+HER) | N/A |
+| 35 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 36 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 37 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 38 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 39 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 40 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 41 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 42 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 43 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
+| 44 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 45 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 46 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 47 | [Jared McCann](http://twitter.com/search?q=Jared+McCann) | N/A |
+| 48 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 49 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 50 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
 
 
 

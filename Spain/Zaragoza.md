@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-04-11 06:18:39 UTC`
+📆 Last Updated: `2023-04-11 07:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 3 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
-| 4 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
+| 3 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
+| 4 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
 | 5 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 6 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 7 | [#conquis13etb](http://twitter.com/search?q=%23conquis13etb) | N/A |
+| 7 | [#DiaMundialDelParkinson](http://twitter.com/search?q=%23DiaMundialDelParkinson) | N/A |
 | 8 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 11 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 12 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 13 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 14 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 15 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 16 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 17 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 18 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 19 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
-| 20 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
-| 21 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
-| 22 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
-| 23 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 24 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 25 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
-| 26 | [Masters de Augusta](http://twitter.com/search?q=Masters+de+Augusta) | N/A |
-| 27 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 28 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 10 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 11 | [460 X](http://twitter.com/search?q=460+X) | N/A |
+| 12 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 13 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 14 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 15 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 16 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 17 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 18 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 19 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 20 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 21 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 22 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 23 | [Jn 20](http://twitter.com/search?q=Jn+20) | N/A |
+| 24 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
+| 25 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
+| 26 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
+| 27 | [Andrés Suárez](http://twitter.com/search?q=Andr%c3%a9s+Su%c3%a1rez) | N/A |
+| 28 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
 | 29 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 30 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 31 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
-| 32 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 33 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 34 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 35 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 36 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 37 | [Don Fernando](http://twitter.com/search?q=Don+Fernando) | N/A |
-| 38 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 39 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
-| 40 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 41 | [Higinio](http://twitter.com/search?q=Higinio) | N/A |
-| 42 | [jartan](http://twitter.com/search?q=jartan) | N/A |
-| 43 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 44 | [Taty Castellanos](http://twitter.com/search?q=Taty+Castellanos) | N/A |
-| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 46 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 47 | [Dani Olmo](http://twitter.com/search?q=Dani+Olmo) | N/A |
-| 48 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 30 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
+| 31 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 32 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
+| 33 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 34 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 35 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 36 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 37 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 38 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 39 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 40 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 41 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 42 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 43 | [Don Fernando](http://twitter.com/search?q=Don+Fernando) | N/A |
+| 44 | [Videoclip Oficial](http://twitter.com/search?q=Videoclip+Oficial) | N/A |
+| 45 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
+| 46 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 47 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
+| 48 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
 
 
 

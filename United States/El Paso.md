@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-11 06:19:08 UTC`
+📆 Last Updated: `2023-04-11 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
-| 2 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 3 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 6 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 7 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 8 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 10 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 11 | [nick cannon](http://twitter.com/search?q=nick+cannon) | N/A |
-| 12 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 13 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 14 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 15 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 16 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 17 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 18 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 19 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 20 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 21 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
-| 22 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 23 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 24 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
-| 25 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 26 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
-| 27 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
-| 28 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
-| 29 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 30 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 31 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 32 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 33 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 34 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 35 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 36 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 37 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
-| 38 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 39 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 40 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 41 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 42 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 43 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 44 | [Durzi](http://twitter.com/search?q=Durzi) | N/A |
-| 45 | [Jared McCann](http://twitter.com/search?q=Jared+McCann) | N/A |
-| 46 | [Nate Eaton](http://twitter.com/search?q=Nate+Eaton) | N/A |
-| 47 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
-| 48 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 1 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 2 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 5 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 6 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 7 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 8 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 9 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
+| 10 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 11 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 12 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 13 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 14 | [#Wordle661](http://twitter.com/search?q=%23Wordle661) | N/A |
+| 15 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 16 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 17 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 18 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 19 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 20 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
+| 21 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 22 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 23 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 24 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 25 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 26 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 27 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
+| 28 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 29 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 30 | [STAY AWAY FROM HER](http://twitter.com/search?q=STAY+AWAY+FROM+HER) | N/A |
+| 31 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 32 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 33 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 34 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 35 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 36 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 37 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 38 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
+| 39 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
+| 40 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 41 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 42 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 43 | [Jared McCann](http://twitter.com/search?q=Jared+McCann) | N/A |
+| 44 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 45 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 46 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 47 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 48 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
 | 49 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
 
 
