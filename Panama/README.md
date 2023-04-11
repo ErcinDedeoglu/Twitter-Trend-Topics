@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-11 16:17:52 UTC`
+📆 Last Updated: `2023-04-11 17:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for Panama
 | 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 5 | [Capira](http://twitter.com/search?q=Capira) | N/A |
 | 6 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 7 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 8 | [San Joaquín](http://twitter.com/search?q=San+Joaqu%c3%adn) | N/A |
-| 9 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 10 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 11 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
-| 12 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 13 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 14 | [Panameño](http://twitter.com/search?q=Paname%c3%b1o) | N/A |
-| 15 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 16 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 17 | [Pedregal](http://twitter.com/search?q=Pedregal) | N/A |
-| 18 | [#Melfi](http://twitter.com/search?q=%23Melfi) | N/A |
+| 7 | [San Joaquín](http://twitter.com/search?q=San+Joaqu%c3%adn) | N/A |
+| 8 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 9 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 10 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 11 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 12 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
+| 13 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
+| 14 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 15 | [Panameño](http://twitter.com/search?q=Paname%c3%b1o) | N/A |
+| 16 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 17 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 18 | [Pedregal](http://twitter.com/search?q=Pedregal) | N/A |
 | 19 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 20 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 21 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 22 | [#figaroabrego](http://twitter.com/search?q=%23figaroabrego) | N/A |
-| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 22 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 23 | [#figaroabrego](http://twitter.com/search?q=%23figaroabrego) | N/A |
 | 24 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 25 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
-| 26 | [Roux](http://twitter.com/search?q=Roux) | N/A |
-| 27 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 25 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
+| 26 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
+| 27 | [#Melfi](http://twitter.com/search?q=%23Melfi) | N/A |
 | 28 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
 | 29 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
 | 30 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
 | 31 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
 | 32 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 33 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
-| 34 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 35 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 36 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 38 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 39 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 40 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 41 | [La Prensa](http://twitter.com/search?q=La+Prensa) | N/A |
-| 42 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
-| 43 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 33 | [Roux](http://twitter.com/search?q=Roux) | N/A |
+| 34 | [#decor](http://twitter.com/search?q=%23decor) | N/A |
+| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 36 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
+| 37 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 38 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 39 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 40 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 41 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 42 | [La Prensa](http://twitter.com/search?q=La+Prensa) | N/A |
+| 43 | [Corte](http://twitter.com/search?q=Corte) | Corte is a Spanish word meaning "cut" or "trim". It is often used in reference to cutting hair, but can also refer to cutting fabric or other materials. |
 | 44 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
 | 45 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
 | 46 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
 | 47 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 48 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 49 | [#decor](http://twitter.com/search?q=%23decor) | N/A |
+| 48 | [Presidente](http://twitter.com/search?q=Presidente) | N/A |
+| 49 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 50 | [Carrizo](http://twitter.com/search?q=Carrizo) | N/A |
 
 

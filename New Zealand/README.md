@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-11 16:17:51 UTC`
+📆 Last Updated: `2023-04-11 17:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 2 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 1 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 4 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 5 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
 | 6 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 7 | [Dave](http://twitter.com/search?q=Dave) | N/A |
 | 8 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
 | 9 | [Sean](http://twitter.com/search?q=Sean) | N/A |
 | 10 | [business nz](http://twitter.com/search?q=business+nz) | N/A |
-| 11 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
+| 11 | [disinformation project](http://twitter.com/search?q=disinformation+project) | N/A |
 | 12 | [Spot](http://twitter.com/search?q=Spot) | N/A |
 | 13 | [OECD](http://twitter.com/search?q=OECD) | N/A |
 | 14 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for New Zealand
 | 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 | 47 | [Incorrect](http://twitter.com/search?q=Incorrect) | N/A |
 | 48 | [the platform](http://twitter.com/search?q=the+platform) | N/A |
-| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 50 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 49 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
+| 50 | [Winston](http://twitter.com/search?q=Winston) | N/A |
 
 
 

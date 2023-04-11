@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-11 16:17:14 UTC`
+📆 Last Updated: `2023-04-11 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 4 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 5 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 6 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
 | 7 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
 | 8 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
 | 9 | [#onweer](http://twitter.com/search?q=%23onweer) | N/A |
@@ -35,9 +35,9 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 18 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
 | 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 20 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 21 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 22 | [Oud-minister van Landbouw](http://twitter.com/search?q=Oud-minister+van+Landbouw) | N/A |
-| 23 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 21 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 22 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
+| 23 | [Oud-minister van Landbouw](http://twitter.com/search?q=Oud-minister+van+Landbouw) | N/A |
 | 24 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
 | 25 | [Oud-landbouwminister Veerman](http://twitter.com/search?q=Oud-landbouwminister+Veerman) | N/A |
 | 26 | [2e paasdag](http://twitter.com/search?q=2e+paasdag) | N/A |
@@ -47,8 +47,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 30 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
 | 31 | [fijne pasen](http://twitter.com/search?q=fijne+pasen) | N/A |
 | 32 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 33 | [joost prinsen](http://twitter.com/search?q=joost+prinsen) | N/A |
-| 34 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
+| 33 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
+| 34 | [joost prinsen](http://twitter.com/search?q=joost+prinsen) | N/A |
 | 35 | [meilandjes](http://twitter.com/search?q=meilandjes) | N/A |
 | 36 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
@@ -58,12 +58,12 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 41 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
 | 42 | [Ciska](http://twitter.com/search?q=Ciska) | N/A |
 | 43 | [Diabetes](http://twitter.com/search?q=Diabetes) | N/A |
-| 44 | [Paasvuren](http://twitter.com/search?q=Paasvuren) | N/A |
-| 45 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 44 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 45 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
 | 46 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 47 | [geert mak](http://twitter.com/search?q=geert+mak) | N/A |
-| 48 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
-| 49 | [Konijn](http://twitter.com/search?q=Konijn) | N/A |
+| 47 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 48 | [geert mak](http://twitter.com/search?q=geert+mak) | N/A |
+| 49 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
 
 
 

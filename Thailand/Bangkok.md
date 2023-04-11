@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-04-11 16:17:25 UTC`
+📆 Last Updated: `2023-04-11 17:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Thailand](</Thailand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#เข้มมุก](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%a1%e0%b8%a1%e0%b8%b8%e0%b8%81) | N/A |
-| 2 | [KEM MOOKDA](http://twitter.com/search?q=KEM+MOOKDA) | N/A |
-| 3 | [#Suzume](http://twitter.com/search?q=%23Suzume) | N/A |
+| 2 | [#Suzume](http://twitter.com/search?q=%23Suzume) | N/A |
+| 3 | [KEM MOOKDA](http://twitter.com/search?q=KEM+MOOKDA) | N/A |
 | 4 | [#bb0un](http://twitter.com/search?q=%23bb0un) | N/A |
 | 5 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
 | 6 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
@@ -26,8 +26,8 @@ This is top 50 for [Thailand](</Thailand>)
 | 9 | [Nene 1st Concert Interview](http://twitter.com/search?q=Nene+1st+Concert+Interview) | N/A |
 | 10 | [Post 2](http://twitter.com/search?q=Post+2) | N/A |
 | 11 | [YORCH 1st Single](http://twitter.com/search?q=YORCH+1st+Single) | N/A |
-| 12 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 13 | [PRAEW X GEMINI FOURTH](http://twitter.com/search?q=PRAEW+X+GEMINI+FOURTH) | N/A |
+| 12 | [PRAEW X GEMINI FOURTH](http://twitter.com/search?q=PRAEW+X+GEMINI+FOURTH) | N/A |
+| 13 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
 | 14 | [MARK LEE WITH WKOREA](http://twitter.com/search?q=MARK+LEE+WITH+WKOREA) | N/A |
 | 15 | [#บอสไลฟ์ติ๊กกะต๊อก](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b9%84%e0%b8%a5%e0%b8%9f%e0%b9%8c%e0%b8%95%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%b0%e0%b8%95%e0%b9%8a%e0%b8%ad%e0%b8%81) | N/A |
 | 16 | [#วันแอสล้มแล้ว](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%ad%e0%b8%aa%e0%b8%a5%e0%b9%89%e0%b8%a1%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for [Thailand](</Thailand>)
 | 20 | [#รักร้ายEP8](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2EP8) | N/A |
 | 21 | [#หมอหลวงep7](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%a1%e0%b8%ad%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87ep7) | N/A |
 | 22 | [#JAYB](http://twitter.com/search?q=%23JAYB) | N/A |
-| 23 | [#PROXIE_ก่อนสถานะจะเบลอ](http://twitter.com/search?q=%23PROXIE_%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%99%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%ad) | N/A |
-| 24 | [#PraewQnA12Boys](http://twitter.com/search?q=%23PraewQnA12Boys) | N/A |
-| 25 | [#ShootingstarconcertD2](http://twitter.com/search?q=%23ShootingstarconcertD2) | N/A |
-| 26 | [#MVบรรเทา](http://twitter.com/search?q=%23MV%e0%b8%9a%e0%b8%a3%e0%b8%a3%e0%b9%80%e0%b8%97%e0%b8%b2) | N/A |
-| 27 | [#ซัพพอร์ตพีพีเสมอ](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%b1%e0%b8%9e%e0%b8%9e%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%80%e0%b8%aa%e0%b8%a1%e0%b8%ad) | N/A |
-| 28 | [#BetweenUsFanmeeting](http://twitter.com/search?q=%23BetweenUsFanmeeting) | N/A |
-| 29 | [#YORCH1stDebutandfanmeet](http://twitter.com/search?q=%23YORCH1stDebutandfanmeet) | N/A |
-| 30 | [#ปิงเปล่านะมีนมาเอง](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%b0%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%ad%e0%b8%87) | N/A |
-| 31 | [#คิดถึงวินนี่สตางค์](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
-| 32 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
-| 33 | [#LUCAS](http://twitter.com/search?q=%23LUCAS) | #LUCAS is an acronym for the Latin phrase "Lux in Caelo Aperuit Scientiam" which translates to "Light in Heaven Opened Knowledge". It is often used as a hashtag on social media to refer to topics related to knowledge, enlightenment, and spiritual growth. |
-| 34 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
-| 35 | [#NetJames](http://twitter.com/search?q=%23NetJames) | N/A |
+| 23 | [#PraewQnA12Boys](http://twitter.com/search?q=%23PraewQnA12Boys) | N/A |
+| 24 | [#ThunderSunwooDay](http://twitter.com/search?q=%23ThunderSunwooDay) | N/A |
+| 25 | [#MVบรรเทา](http://twitter.com/search?q=%23MV%e0%b8%9a%e0%b8%a3%e0%b8%a3%e0%b9%80%e0%b8%97%e0%b8%b2) | N/A |
+| 26 | [#BetweenUsFanmeeting](http://twitter.com/search?q=%23BetweenUsFanmeeting) | N/A |
+| 27 | [#ShootingstarconcertD2](http://twitter.com/search?q=%23ShootingstarconcertD2) | N/A |
+| 28 | [#PROXIE_ก่อนสถานะจะเบลอ](http://twitter.com/search?q=%23PROXIE_%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%99%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%ad) | N/A |
+| 29 | [#ซัพพอร์ตพีพีเสมอ](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%b1%e0%b8%9e%e0%b8%9e%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%80%e0%b8%aa%e0%b8%a1%e0%b8%ad) | N/A |
+| 30 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
+| 31 | [#ปิงเปล่านะมีนมาเอง](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%b0%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%a1%e0%b8%b2%e0%b9%80%e0%b8%ad%e0%b8%87) | N/A |
+| 32 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
+| 33 | [#YORCH1stDebutandfanmeet](http://twitter.com/search?q=%23YORCH1stDebutandfanmeet) | N/A |
+| 34 | [#เจ้าปลาดาวสเปซ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%9b%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%b2%e0%b8%a7%e0%b8%aa%e0%b9%80%e0%b8%9b%e0%b8%8b) | N/A |
+| 35 | [#คิดถึงวินนี่สตางค์](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%94%e0%b8%96%e0%b8%b6%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%95%e0%b8%b2%e0%b8%87%e0%b8%84%e0%b9%8c) | N/A |
 | 36 | [#ราชาวิหคEP9](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b2%e0%b8%8a%e0%b8%b2%e0%b8%a7%e0%b8%b4%e0%b8%ab%e0%b8%84EP9) | N/A |
-| 37 | [#yorch_yongsin](http://twitter.com/search?q=%23yorch_yongsin) | N/A |
-| 38 | [#SevenYORCH](http://twitter.com/search?q=%23SevenYORCH) | N/A |
-| 39 | [#JamesSu](http://twitter.com/search?q=%23JamesSu) | N/A |
-| 40 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 41 | [#TheStandardPOPxNeNe](http://twitter.com/search?q=%23TheStandardPOPxNeNe) | N/A |
-| 42 | [#ทวงคืนมีนจากปิงปิง](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%84%e0%b8%b7%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
-| 43 | [#PROXIE_The4thSingle](http://twitter.com/search?q=%23PROXIE_The4thSingle) | N/A |
-| 44 | [#UnitsMissBarcodeNa](http://twitter.com/search?q=%23UnitsMissBarcodeNa) | N/A |
-| 45 | [#เน็ตเจมส์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%99%e0%b9%87%e0%b8%95%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c) | N/A |
-| 46 | [#BoNohSelfieDay](http://twitter.com/search?q=%23BoNohSelfieDay) | N/A |
-| 47 | [#Jaebeom](http://twitter.com/search?q=%23Jaebeom) | N/A |
-| 48 | [#markford](http://twitter.com/search?q=%23markford) | N/A |
-| 49 | [#BigDebate](http://twitter.com/search?q=%23BigDebate) | N/A |
-| 50 | [#พีพีกฤษฏ์](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b8%81%e0%b8%a4%e0%b8%a9%e0%b8%8f%e0%b9%8c) | N/A |
+| 37 | [#NetJames](http://twitter.com/search?q=%23NetJames) | N/A |
+| 38 | [#yorch_yongsin](http://twitter.com/search?q=%23yorch_yongsin) | N/A |
+| 39 | [#SevenYORCH](http://twitter.com/search?q=%23SevenYORCH) | N/A |
+| 40 | [#BigDebate](http://twitter.com/search?q=%23BigDebate) | N/A |
+| 41 | [#LUCAS](http://twitter.com/search?q=%23LUCAS) | #LUCAS is an acronym for the Latin phrase "Lux in Caelo Aperuit Scientiam" which translates to "Light in Heaven Opened Knowledge". It is often used as a hashtag on social media to refer to topics related to knowledge, enlightenment, and spiritual growth. |
+| 42 | [#TheStandardPOPxNeNe](http://twitter.com/search?q=%23TheStandardPOPxNeNe) | N/A |
+| 43 | [#UnitsMissBarcodeNa](http://twitter.com/search?q=%23UnitsMissBarcodeNa) | N/A |
+| 44 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 45 | [#JamesSu](http://twitter.com/search?q=%23JamesSu) | N/A |
+| 46 | [#ทวงคืนมีนจากปิงปิง](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%84%e0%b8%b7%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%88%e0%b8%b2%e0%b8%81%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
+| 47 | [#เน็ตเจมส์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%99%e0%b9%87%e0%b8%95%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c) | N/A |
+| 48 | [#PROXIE_The4thSingle](http://twitter.com/search?q=%23PROXIE_The4thSingle) | N/A |
+| 49 | [#BoNohSelfieDay](http://twitter.com/search?q=%23BoNohSelfieDay) | N/A |
+| 50 | [#Jaebeom](http://twitter.com/search?q=%23Jaebeom) | N/A |
 
 
 
