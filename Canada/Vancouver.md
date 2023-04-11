@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-11 05:16:46 UTC`
+📆 Last Updated: `2023-04-11 06:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,48 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
 | 3 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
-| 4 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
-| 5 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 4 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 5 | [#Flames](http://twitter.com/search?q=%23Flames) | N/A |
 | 6 | [Toffoli](http://twitter.com/search?q=Toffoli) | N/A |
 | 7 | [Lindholm](http://twitter.com/search?q=Lindholm) | N/A |
 | 8 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
 | 9 | [Kadri](http://twitter.com/search?q=Kadri) | N/A |
-| 10 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 11 | [Saros](http://twitter.com/search?q=Saros) | Saros is a period of approximately 223 synodic months (18 years 11 days 8 hours) in which the relative positions of the Earth, Moon, and Sun repeat. It is used by astronomers to predict eclipses. The word "saros" comes from the Greek word for "repetition". |
-| 12 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
-| 13 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 14 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
-| 15 | [Connor Bedard](http://twitter.com/search?q=Connor+Bedard) | Connor Bedard is a Canadian ice hockey player who currently plays for the Regina Pats of the Western Hockey League. He was selected first overall in the 2020 WHL Bantam Draft. The name Connor Bedard is derived from the Irish surname "O'Bedard," which means "descendant of Bede." |
-| 16 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 17 | [Myers](http://twitter.com/search?q=Myers) | N/A |
-| 18 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 19 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 10 | [Saros](http://twitter.com/search?q=Saros) | Saros is a period of approximately 223 synodic months (18 years 11 days 8 hours) in which the relative positions of the Earth, Moon, and Sun repeat. It is used by astronomers to predict eclipses. The word "saros" comes from the Greek word for "repetition". |
+| 11 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
+| 12 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 13 | [Huberdeau](http://twitter.com/search?q=Huberdeau) | N/A |
+| 14 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 15 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 16 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 17 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 18 | [Connor Bedard](http://twitter.com/search?q=Connor+Bedard) | Connor Bedard is a Canadian ice hockey player who currently plays for the Regina Pats of the Western Hockey League. He was selected first overall in the 2020 WHL Bantam Draft. The name Connor Bedard is derived from the Irish surname "O'Bedard," which means "descendant of Bede." |
+| 19 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
 | 20 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 21 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 22 | [Lucic](http://twitter.com/search?q=Lucic) | N/A |
-| 23 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 24 | [Blades](http://twitter.com/search?q=Blades) | N/A |
-| 25 | [Claude Giroux](http://twitter.com/search?q=Claude+Giroux) | N/A |
-| 26 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
-| 27 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 28 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 29 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 30 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 31 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 32 | [TFSA](http://twitter.com/search?q=TFSA) | N/A |
-| 33 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 34 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 35 | [Saskatoon](http://twitter.com/search?q=Saskatoon) | N/A |
+| 21 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 22 | [Blades](http://twitter.com/search?q=Blades) | N/A |
+| 23 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 24 | [Claude Giroux](http://twitter.com/search?q=Claude+Giroux) | N/A |
+| 25 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 26 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 27 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 28 | [#WomensWorlds](http://twitter.com/search?q=%23WomensWorlds) | N/A |
+| 29 | [TFSA](http://twitter.com/search?q=TFSA) | N/A |
+| 30 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
+| 31 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 32 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 33 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 34 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 35 | [Sportsnet](http://twitter.com/search?q=Sportsnet) | N/A |
 | 36 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 37 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 38 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 39 | [Sportsnet](http://twitter.com/search?q=Sportsnet) | N/A |
-| 40 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 41 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 42 | [Game 7](http://twitter.com/search?q=Game+7) | Game 7 is the seventh and final game of a best-of-seven series in a sports playoff. It is the deciding game that determines which team will win the series. The phrase "Game 7" is used to refer to any situation where the outcome of a single event will determine the winner of a competition. |
-| 43 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
-| 44 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 45 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 46 | [Norris](http://twitter.com/search?q=Norris) | N/A |
-| 47 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 48 | [Saskatchewan](http://twitter.com/search?q=Saskatchewan) | N/A |
-| 49 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
+| 37 | [Saskatoon](http://twitter.com/search?q=Saskatoon) | N/A |
+| 38 | [Game 7](http://twitter.com/search?q=Game+7) | Game 7 is the seventh and final game of a best-of-seven series in a sports playoff. It is the deciding game that determines which team will win the series. The phrase "Game 7" is used to refer to any situation where the outcome of a single event will determine the winner of a competition. |
+| 39 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 40 | [Isles](http://twitter.com/search?q=Isles) | Isles is a term used to refer to islands, or groups of islands. It is derived from the Old English word īegl, which means island. Isles can also be used to refer to a country or region made up of many islands, such as the British Isles. |
+| 41 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 42 | [Norris](http://twitter.com/search?q=Norris) | N/A |
+| 43 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 44 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 45 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
 
 
 

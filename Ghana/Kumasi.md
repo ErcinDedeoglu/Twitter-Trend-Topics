@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-04-11 05:17:13 UTC`
+📆 Last Updated: `2023-04-11 06:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,22 +23,22 @@ This is top 50 for [Ghana](</Ghana>)
 | 6 | [#daterush](http://twitter.com/search?q=%23daterush) | N/A |
 | 7 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
 | 8 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 9 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
-| 10 | [#OwletForBusiness](http://twitter.com/search?q=%23OwletForBusiness) | N/A |
-| 11 | [#hisgrace](http://twitter.com/search?q=%23hisgrace) | N/A |
-| 12 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 13 | [#dnbp](http://twitter.com/search?q=%23dnbp) | N/A |
-| 14 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 15 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
-| 16 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 9 | [#OwletForBusiness](http://twitter.com/search?q=%23OwletForBusiness) | N/A |
+| 10 | [#hisgrace](http://twitter.com/search?q=%23hisgrace) | N/A |
+| 11 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 12 | [#dnbp](http://twitter.com/search?q=%23dnbp) | N/A |
+| 13 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 14 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
+| 15 | [Congratulations Sir](http://twitter.com/search?q=Congratulations+Sir) | N/A |
+| 16 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
 | 17 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
 | 18 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
 | 19 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
 | 20 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 21 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 22 | [TSATSII AND HER SUNRISERS](http://twitter.com/search?q=TSATSII+AND+HER+SUNRISERS) | N/A |
-| 23 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 24 | [MEET AND GREET WITH YEMICREGX](http://twitter.com/search?q=MEET+AND+GREET+WITH+YEMICREGX) | N/A |
+| 21 | [TSATSII AND HER SUNRISERS](http://twitter.com/search?q=TSATSII+AND+HER+SUNRISERS) | N/A |
+| 22 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 23 | [MEET AND GREET WITH YEMICREGX](http://twitter.com/search?q=MEET+AND+GREET+WITH+YEMICREGX) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 25 | [Thor](http://twitter.com/search?q=Thor) | N/A |
 | 26 | [blacko](http://twitter.com/search?q=blacko) | N/A |
 | 27 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
@@ -50,14 +50,14 @@ This is top 50 for [Ghana](</Ghana>)
 | 33 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
 | 34 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 35 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 36 | [Kwadwo Sheldon](http://twitter.com/search?q=Kwadwo+Sheldon) | N/A |
+| 36 | [Kwesi Arthur](http://twitter.com/search?q=Kwesi+Arthur) | N/A |
 | 37 | [Raphina](http://twitter.com/search?q=Raphina) | N/A |
-| 38 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 38 | [Kwadwo Sheldon](http://twitter.com/search?q=Kwadwo+Sheldon) | N/A |
 | 39 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 40 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
 | 41 | [KING KHOSI THE BRAND](http://twitter.com/search?q=KING+KHOSI+THE+BRAND) | N/A |
 | 42 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 43 | [Kwesi Arthur](http://twitter.com/search?q=Kwesi+Arthur) | N/A |
+| 43 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
 | 44 | [KHOSI X GOOD DEEDS](http://twitter.com/search?q=KHOSI+X+GOOD+DEEDS) | N/A |
 | 45 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
 | 46 | [Stonebwoy](http://twitter.com/search?q=Stonebwoy) | N/A |

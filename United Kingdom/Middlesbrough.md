@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-04-11 05:16:48 UTC`
+📆 Last Updated: `2023-04-11 06:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Boro](http://twitter.com/search?q=%23Boro) | N/A |
-| 2 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 3 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 4 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 6 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 7 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 8 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [#WRXNCO](http://twitter.com/search?q=%23WRXNCO) | N/A |
-| 11 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 12 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 13 | [bank holiday monday](http://twitter.com/search?q=bank+holiday+monday) | N/A |
-| 14 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 15 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 16 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 17 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 18 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 1 | [Junior Doctors](http://twitter.com/search?q=Junior+Doctors) | N/A |
+| 2 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 3 | [#Boro](http://twitter.com/search?q=%23Boro) | N/A |
+| 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 5 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 6 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 7 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 8 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 9 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 11 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 12 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 13 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 14 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 15 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 16 | [bank holiday monday](http://twitter.com/search?q=bank+holiday+monday) | N/A |
+| 17 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 19 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 20 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 21 | [john bostock](http://twitter.com/search?q=john+bostock) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [john bostock](http://twitter.com/search?q=john+bostock) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Terry](http://twitter.com/search?q=Terry) | N/A |
 | 23 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 24 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 25 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 26 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 27 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 29 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 30 | [Last 10](http://twitter.com/search?q=Last+10) | N/A |
-| 31 | [Deano](http://twitter.com/search?q=Deano) | N/A |
+| 24 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
+| 25 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [Deano](http://twitter.com/search?q=Deano) | N/A |
+| 29 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 30 | [Moya](http://twitter.com/search?q=Moya) | N/A |
+| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 33 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 34 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 35 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 36 | [Stam](http://twitter.com/search?q=Stam) | N/A |
-| 37 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 38 | [monkfish](http://twitter.com/search?q=monkfish) | N/A |
-| 39 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
-| 40 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 41 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 42 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 43 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
-| 44 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 45 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 46 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
-| 47 | [Moya](http://twitter.com/search?q=Moya) | N/A |
-| 48 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 33 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 34 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 35 | [Stam](http://twitter.com/search?q=Stam) | N/A |
+| 36 | [monkfish](http://twitter.com/search?q=monkfish) | N/A |
+| 37 | [bogle](http://twitter.com/search?q=bogle) | N/A |
+| 38 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 39 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 40 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 41 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 42 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 43 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 44 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 45 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 46 | [warne](http://twitter.com/search?q=warne) | N/A |
+| 47 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 48 | [Orta](http://twitter.com/search?q=Orta) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-11 05:16:57 UTC`
+📆 Last Updated: `2023-04-11 06:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#mieleg](http://twitter.com/search?q=%23mieleg) | N/A |
-| 2 | [#jaglgd](http://twitter.com/search?q=%23jaglgd) | N/A |
-| 3 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
-| 4 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 5 | [#radrcz](http://twitter.com/search?q=%23radrcz) | N/A |
+| 1 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 2 | [#MIELEG](http://twitter.com/search?q=%23MIELEG) | N/A |
+| 3 | [#jaglgd](http://twitter.com/search?q=%23jaglgd) | N/A |
+| 4 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
+| 5 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
 | 6 | [#pamiętamy](http://twitter.com/search?q=%23pami%c4%99tamy) | N/A |
-| 7 | [ZAMACH](http://twitter.com/search?q=ZAMACH) | N/A |
+| 7 | [Zamach](http://twitter.com/search?q=Zamach) | N/A |
 | 8 | [miedzi](http://twitter.com/search?q=miedzi) | N/A |
-| 9 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 10 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
-| 11 | [disneya](http://twitter.com/search?q=disneya) | N/A |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 14 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
-| 15 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 16 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 17 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 18 | [Kaliszu](http://twitter.com/search?q=Kaliszu) | N/A |
-| 19 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 20 | [Lecha Kaczyńskiego](http://twitter.com/search?q=Lecha+Kaczy%c5%84skiego) | N/A |
+| 9 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
+| 10 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
+| 11 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 12 | [disneya](http://twitter.com/search?q=disneya) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 15 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 16 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 17 | [Baku](http://twitter.com/search?q=Baku) | N/A |
+| 18 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
+| 19 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 20 | [kaliszu](http://twitter.com/search?q=kaliszu) | N/A |
 | 21 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
-| 22 | [kaczyńskich](http://twitter.com/search?q=kaczy%c5%84skich) | N/A |
-| 23 | [poniedziałek wielkanocny](http://twitter.com/search?q=poniedzia%c5%82ek+wielkanocny) | N/A |
-| 24 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 22 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 23 | [radomiak](http://twitter.com/search?q=radomiak) | N/A |
+| 24 | [Deer](http://twitter.com/search?q=Deer) | N/A |
 | 25 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
-| 26 | [radomiak](http://twitter.com/search?q=radomiak) | N/A |
-| 27 | [Deer](http://twitter.com/search?q=Deer) | N/A |
+| 26 | [BIORĘ UDZIAŁ](http://twitter.com/search?q=BIOR%c4%98+UDZIA%c5%81) | N/A |
+| 27 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
 | 28 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 29 | [Carlitosa](http://twitter.com/search?q=Carlitosa) | N/A |
-| 30 | [jagi](http://twitter.com/search?q=jagi) | N/A |
-| 31 | [wszołek](http://twitter.com/search?q=wszo%c5%82ek) | N/A |
-| 32 | [Jaga](http://twitter.com/search?q=Jaga) | N/A |
-| 33 | [Dalajlama](http://twitter.com/search?q=Dalajlama) | N/A |
-| 34 | [nawrocki](http://twitter.com/search?q=nawrocki) | N/A |
-| 35 | [familiadzie](http://twitter.com/search?q=familiadzie) | N/A |
-| 36 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 37 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 38 | [baśka](http://twitter.com/search?q=ba%c5%9bka) | N/A |
-| 39 | [kaczyńscy](http://twitter.com/search?q=kaczy%c5%84scy) | N/A |
-| 40 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 41 | [Francja](http://twitter.com/search?q=Francja) | N/A |
-| 42 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
-| 43 | [wesołych](http://twitter.com/search?q=weso%c5%82ych) | N/A |
-| 44 | [pedriego](http://twitter.com/search?q=pedriego) | N/A |
-| 45 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
-| 46 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | N/A |
-| 47 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
-| 48 | [wyrazy](http://twitter.com/search?q=wyrazy) | N/A |
-| 49 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 29 | [Dalajlama](http://twitter.com/search?q=Dalajlama) | N/A |
+| 30 | [wszołek](http://twitter.com/search?q=wszo%c5%82ek) | N/A |
+| 31 | [Jaga](http://twitter.com/search?q=Jaga) | N/A |
+| 32 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 33 | [nawrocki](http://twitter.com/search?q=nawrocki) | N/A |
+| 34 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
+| 35 | [Morawiecki](http://twitter.com/search?q=Morawiecki) | N/A |
+| 36 | [familiadzie](http://twitter.com/search?q=familiadzie) | N/A |
+| 37 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
+| 38 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 39 | [baśka](http://twitter.com/search?q=ba%c5%9bka) | N/A |
+| 40 | [kaczyńscy](http://twitter.com/search?q=kaczy%c5%84scy) | N/A |
+| 41 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 42 | [Francja](http://twitter.com/search?q=Francja) | N/A |
+| 43 | [Stanów Zjednoczonych](http://twitter.com/search?q=Stan%c3%b3w+Zjednoczonych) | N/A |
+| 44 | [Wesołych](http://twitter.com/search?q=Weso%c5%82ych) | N/A |
+| 45 | [pedriego](http://twitter.com/search?q=pedriego) | N/A |
+| 46 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 47 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 48 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 49 | [Anodiny](http://twitter.com/search?q=Anodiny) | N/A |
 
 
 
