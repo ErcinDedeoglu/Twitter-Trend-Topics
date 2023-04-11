@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-10 23:17:22 UTC`
+📆 Last Updated: `2023-04-11 00:29:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 2 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 3 | [Frank Ocean](http://twitter.com/search?q=Frank+Ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his distinctive sound and his emotionally charged lyrics. His music has been described as having a wide range of influences, including soul, hip hop, jazz, funk, and R&B. |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 6 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 7 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 8 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 9 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 10 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 11 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 12 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
-| 13 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 14 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 15 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 16 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 17 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 18 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
-| 19 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 20 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
-| 21 | [Nashville Metro Council](http://twitter.com/search?q=Nashville+Metro+Council) | N/A |
-| 22 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
-| 23 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 24 | [Ryan McKenna](http://twitter.com/search?q=Ryan+McKenna) | N/A |
-| 25 | [Kel'el Ware](http://twitter.com/search?q=Kel%27el+Ware) | N/A |
-| 26 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
-| 27 | [Your First Favorite Wrestler](http://twitter.com/search?q=Your+First+Favorite+Wrestler) | N/A |
-| 28 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
-| 29 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 30 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 31 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
-| 32 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 33 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 34 | [Mike Woodson](http://twitter.com/search?q=Mike+Woodson) | N/A |
-| 35 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 36 | [Evan Gattis](http://twitter.com/search?q=Evan+Gattis) | N/A |
-| 37 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 38 | [Lil Baby](http://twitter.com/search?q=Lil+Baby) | N/A |
-| 39 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 40 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 41 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
-| 42 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 43 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 44 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 45 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 46 | [PRICES INCREASE SUNDAY](http://twitter.com/search?q=PRICES+INCREASE+SUNDAY) | N/A |
-| 47 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
-| 48 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
-| 49 | [Roansy](http://twitter.com/search?q=Roansy) | N/A |
+| 2 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
+| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 4 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 5 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 6 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 9 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 10 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 11 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
+| 12 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 13 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 14 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 15 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 16 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
+| 17 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 18 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 19 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
+| 20 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 21 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 22 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 23 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 24 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
+| 25 | [Colten Brewer](http://twitter.com/search?q=Colten+Brewer) | N/A |
+| 26 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
+| 27 | [Jordan Horston](http://twitter.com/search?q=Jordan+Horston) | N/A |
+| 28 | [Stephanie Soares](http://twitter.com/search?q=Stephanie+Soares) | N/A |
+| 29 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
+| 30 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
+| 31 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 32 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
+| 33 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 34 | [Atlanta Dream](http://twitter.com/search?q=Atlanta+Dream) | N/A |
+| 35 | [Nick Pivetta](http://twitter.com/search?q=Nick+Pivetta) | N/A |
+| 36 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
+| 37 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 38 | [Joe Pavelski](http://twitter.com/search?q=Joe+Pavelski) | N/A |
+| 39 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 40 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
+| 41 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 42 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 43 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
+| 44 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 45 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
+| 46 | [Mystics](http://twitter.com/search?q=Mystics) | N/A |
+| 47 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
+| 48 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 49 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
 
 
 

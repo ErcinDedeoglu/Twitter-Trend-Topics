@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-04-10 23:16:54 UTC`
+📆 Last Updated: `2023-04-11 00:28:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
-| 2 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
-| 3 | [#orielespace](http://twitter.com/search?q=%23orielespace) | N/A |
-| 4 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 5 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 1 | [#orielespace](http://twitter.com/search?q=%23orielespace) | N/A |
+| 2 | [#Sanremo2023](http://twitter.com/search?q=%23Sanremo2023) | N/A |
+| 3 | [Pasquetta](http://twitter.com/search?q=Pasquetta) | N/A |
+| 4 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 5 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
 | 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 7 | [#10aprile](http://twitter.com/search?q=%2310aprile) | N/A |
 | 8 | [#Stramorgan](http://twitter.com/search?q=%23Stramorgan) | N/A |
-| 9 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
-| 10 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 11 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 9 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 10 | [Enea](http://twitter.com/search?q=Enea) | N/A |
+| 11 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
 | 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 13 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
-| 14 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 15 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
-| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 17 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 18 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 19 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
-| 20 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 14 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 16 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
+| 17 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 18 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 19 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 20 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
 | 21 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 22 | [Sansonetti](http://twitter.com/search?q=Sansonetti) | N/A |
-| 23 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 24 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
-| 25 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 26 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 22 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 23 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
+| 24 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 25 | [Angelo](http://twitter.com/search?q=Angelo) | N/A |
+| 26 | [Giorgia](http://twitter.com/search?q=Giorgia) | N/A |
 | 27 | [Amadeus](http://twitter.com/search?q=Amadeus) | N/A |
-| 28 | [Due Vite](http://twitter.com/search?q=Due+Vite) | N/A |
-| 29 | [Buon Lunedì](http://twitter.com/search?q=Buon+Luned%c3%ac) | N/A |
+| 28 | [buon lunedì](http://twitter.com/search?q=buon+luned%c3%ac) | N/A |
+| 29 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
 | 30 | [Elodie](http://twitter.com/search?q=Elodie) | N/A |
-| 31 | [Fusani](http://twitter.com/search?q=Fusani) | N/A |
-| 32 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 33 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
-| 34 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 35 | [Albano](http://twitter.com/search?q=Albano) | N/A |
-| 36 | [Livaja](http://twitter.com/search?q=Livaja) | N/A |
-| 37 | [Lazza](http://twitter.com/search?q=Lazza) | N/A |
-| 38 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 39 | [Niccolò](http://twitter.com/search?q=Niccol%c3%b2) | N/A |
-| 40 | [Wanna Marchi](http://twitter.com/search?q=Wanna+Marchi) | N/A |
-| 41 | [Tananai](http://twitter.com/search?q=Tananai) | N/A |
-| 42 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 43 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 44 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 45 | [Decisamente Comunista](http://twitter.com/search?q=Decisamente+Comunista) | N/A |
+| 31 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
+| 32 | [Trentino](http://twitter.com/search?q=Trentino) | N/A |
+| 33 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 34 | [Giulia](http://twitter.com/search?q=Giulia) | N/A |
+| 35 | [Livaja](http://twitter.com/search?q=Livaja) | N/A |
+| 36 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 37 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 38 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 39 | [Wanna Marchi](http://twitter.com/search?q=Wanna+Marchi) | N/A |
+| 40 | [Markolino](http://twitter.com/search?q=Markolino) | N/A |
+| 41 | [Decisamente Comunista](http://twitter.com/search?q=Decisamente+Comunista) | N/A |
+| 42 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 43 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
+| 44 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 45 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
 | 46 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 47 | [Festival](http://twitter.com/search?q=Festival) | N/A |
-| 48 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 49 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
-| 50 | [Sgarbi](http://twitter.com/search?q=Sgarbi) | N/A |
+| 47 | [DICIAMO NO](http://twitter.com/search?q=DICIAMO+NO) | N/A |
+| 48 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 49 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 50 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 
 
 

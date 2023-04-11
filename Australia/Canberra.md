@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-10 23:17:00 UTC`
+📆 Last Updated: `2023-04-11 00:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#AFLCatsHawks](http://twitter.com/search?q=%23AFLCatsHawks) | N/A |
 | 2 | [#NRLTigersEels](http://twitter.com/search?q=%23NRLTigersEels) | N/A |
 | 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 5 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
-| 6 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
-| 7 | [#esctop100](http://twitter.com/search?q=%23esctop100) | N/A |
-| 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 5 | [#esctop100](http://twitter.com/search?q=%23esctop100) | N/A |
+| 6 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 7 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
 | 9 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 10 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 11 | [harley reid](http://twitter.com/search?q=harley+reid) | N/A |
-| 12 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
-| 13 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
-| 14 | [will day](http://twitter.com/search?q=will+day) | N/A |
-| 15 | [America](http://twitter.com/search?q=America) | N/A |
-| 16 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 17 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 18 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 19 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
-| 20 | [Noeline](http://twitter.com/search?q=Noeline) | N/A |
-| 21 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 22 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 23 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 24 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 25 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
-| 26 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
+| 10 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 11 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 12 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 13 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 14 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 15 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
+| 16 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 17 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 18 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 19 | [Noeline](http://twitter.com/search?q=Noeline) | N/A |
+| 20 | [Kale](http://twitter.com/search?q=Kale) | N/A |
+| 21 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
+| 22 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
+| 23 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 24 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
+| 25 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
+| 26 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
 | 27 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 28 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
-| 29 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 31 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 32 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
-| 33 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 34 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 35 | [Oakbank](http://twitter.com/search?q=Oakbank) | N/A |
-| 36 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 37 | [Sicily](http://twitter.com/search?q=Sicily) | N/A |
-| 38 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
-| 39 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
-| 40 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
-| 41 | [Luke Brooks](http://twitter.com/search?q=Luke+Brooks) | N/A |
-| 42 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
-| 43 | [Dangerfield](http://twitter.com/search?q=Dangerfield) | N/A |
-| 44 | [Staines](http://twitter.com/search?q=Staines) | N/A |
-| 45 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 46 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
-| 47 | [nank](http://twitter.com/search?q=nank) | N/A |
-| 48 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
+| 28 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
+| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 30 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 31 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
+| 32 | [Gary rohan](http://twitter.com/search?q=Gary+rohan) | N/A |
+| 33 | [America](http://twitter.com/search?q=America) | N/A |
+| 34 | [Keath](http://twitter.com/search?q=Keath) | N/A |
+| 35 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 36 | [Oakbank](http://twitter.com/search?q=Oakbank) | N/A |
+| 37 | [Moses](http://twitter.com/search?q=Moses) | N/A |
+| 38 | [Sicily](http://twitter.com/search?q=Sicily) | N/A |
+| 39 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
+| 40 | [meek](http://twitter.com/search?q=meek) | N/A |
+| 41 | [Sarah Snook](http://twitter.com/search?q=Sarah+Snook) | N/A |
+| 42 | [Luke Brooks](http://twitter.com/search?q=Luke+Brooks) | N/A |
+| 43 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
+| 44 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
+| 45 | [Dangerfield](http://twitter.com/search?q=Dangerfield) | N/A |
+| 46 | [Staines](http://twitter.com/search?q=Staines) | N/A |
+| 47 | [Tampax](http://twitter.com/search?q=Tampax) | N/A |
+| 48 | [nank](http://twitter.com/search?q=nank) | N/A |
 | 49 | [Gutho](http://twitter.com/search?q=Gutho) | N/A |
 
 

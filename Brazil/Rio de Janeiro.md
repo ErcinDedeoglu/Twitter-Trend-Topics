@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-10 23:16:48 UTC`
+📆 Last Updated: `2023-04-11 00:28:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CidadeAlertarj](http://twitter.com/search?q=%23CidadeAlertarj) | N/A |
-| 2 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
-| 3 | [Sentiu](http://twitter.com/search?q=Sentiu) | N/A |
+| 2 | [Santo André](http://twitter.com/search?q=Santo+Andr%c3%a9) | Santo André is a municipality in the state of São Paulo, Brazil. The name Santo André is derived from the Portuguese phrase for Saint Andrew, the patron saint of fishermen. In English, Santo André translates to Saint Andrew. |
+| 3 | [Ídolo](http://twitter.com/search?q=%c3%8ddolo) | N/A |
 | 4 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 5 | [Ídolo](http://twitter.com/search?q=%c3%8ddolo) | N/A |
-| 6 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 7 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 8 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
-| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 11 | [#asktoh](http://twitter.com/search?q=%23asktoh) | N/A |
-| 12 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
-| 13 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 14 | [Manaus](http://twitter.com/search?q=Manaus) | N/A |
-| 15 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 16 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 17 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 18 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 19 | [Bradesco](http://twitter.com/search?q=Bradesco) | N/A |
-| 20 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 21 | [Fecha](http://twitter.com/search?q=Fecha) | N/A |
-| 22 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
-| 23 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
-| 24 | [#PriscillaAoVivo](http://twitter.com/search?q=%23PriscillaAoVivo) | N/A |
-| 25 | [POCAHRELLA NO TVZ POCAH](http://twitter.com/search?q=POCAHRELLA+NO+TVZ+POCAH) | N/A |
-| 26 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 27 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 28 | [Basso](http://twitter.com/search?q=Basso) | N/A |
-| 29 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
-| 30 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 31 | [Bia Michelle](http://twitter.com/search?q=Bia+Michelle) | N/A |
-| 32 | [MARI FERNANDEZ](http://twitter.com/search?q=MARI+FERNANDEZ) | N/A |
-| 33 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
-| 34 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 35 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
-| 36 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 5 | [Sentiu](http://twitter.com/search?q=Sentiu) | N/A |
+| 6 | [#foraBRUNAGRIPHAO](http://twitter.com/search?q=%23foraBRUNAGRIPHAO) | N/A |
+| 7 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
+| 8 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
+| 9 | [#VaiHelôPegaElesTudo](http://twitter.com/search?q=%23VaiHel%c3%b4PegaElesTudo) | N/A |
+| 10 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 11 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
+| 12 | [#baforaedastream](http://twitter.com/search?q=%23baforaedastream) | N/A |
+| 13 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 14 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 15 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 16 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
+| 17 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 18 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 19 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
+| 20 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
+| 21 | [Manaus](http://twitter.com/search?q=Manaus) | N/A |
+| 22 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
+| 23 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 24 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
+| 25 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
+| 26 | [MARI FERNANDEZ](http://twitter.com/search?q=MARI+FERNANDEZ) | N/A |
+| 27 | [Bia Michelle](http://twitter.com/search?q=Bia+Michelle) | N/A |
+| 28 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 29 | [Bradesco](http://twitter.com/search?q=Bradesco) | N/A |
+| 30 | [Fecha](http://twitter.com/search?q=Fecha) | N/A |
+| 31 | [Basso](http://twitter.com/search?q=Basso) | N/A |
+| 32 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 33 | [POCAHRELLA NO TVZ POCAH](http://twitter.com/search?q=POCAHRELLA+NO+TVZ+POCAH) | N/A |
+| 34 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
+| 35 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
+| 36 | [Praia Clube](http://twitter.com/search?q=Praia+Clube) | N/A |
 | 37 | [TÔ NEM AÍ](http://twitter.com/search?q=T%c3%94+NEM+A%c3%8d) | N/A |
-| 38 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 39 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 40 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
-| 41 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
-| 42 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
-| 43 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
-| 44 | [Bolinha](http://twitter.com/search?q=Bolinha) | N/A |
-| 45 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 46 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 47 | [Nena](http://twitter.com/search?q=Nena) | N/A |
-| 48 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
-| 49 | [Guto Ferreira](http://twitter.com/search?q=Guto+Ferreira) | N/A |
-| 50 | [Miguel e Helena](http://twitter.com/search?q=Miguel+e+Helena) | N/A |
+| 38 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
+| 39 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
+| 40 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
+| 41 | [Bolinha](http://twitter.com/search?q=Bolinha) | N/A |
+| 42 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 43 | [Atacadão](http://twitter.com/search?q=Atacad%c3%a3o) | N/A |
+| 44 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 45 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 46 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
+| 47 | [Em 100](http://twitter.com/search?q=Em+100) | N/A |
+| 48 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
+| 49 | [Dia 20](http://twitter.com/search?q=Dia+20) | N/A |
+| 50 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
 
 
 

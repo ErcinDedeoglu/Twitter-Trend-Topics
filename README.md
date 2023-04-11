@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-10 23:16:38 UTC`
+📆 Last Updated: `2023-04-11 00:28:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الهلال_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
-| 2 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 3 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 4 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
-| 5 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
-| 6 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 7 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
-| 8 | [#شاركنا_الاجر_ونقفل_حاله](http://twitter.com/search?q=%23%d8%b4%d8%a7%d8%b1%d9%83%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d8%ac%d8%b1_%d9%88%d9%86%d9%82%d9%81%d9%84_%d8%ad%d8%a7%d9%84%d9%87) | N/A |
-| 9 | [باتشيكو](http://twitter.com/search?q=%d8%a8%d8%a7%d8%aa%d8%b4%d9%8a%d9%83%d9%88) | باتشيكو (pronounced "ba-tchee-koh") is a type of traditional Japanese confectionery made from mochi (rice cake) and anko (sweet red bean paste). It is usually served as a dessert or snack. In English, it can be translated as "rice cake with sweet bean paste". |
-| 10 | [#الحمله_الوطنيه_للعمل_الخيري](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d9%85%d9%84%d9%87_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87_%d9%84%d9%84%d8%b9%d9%85%d9%84_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a) | N/A |
-| 11 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
-| 12 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 13 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 14 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 15 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 16 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 17 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 18 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
-| 19 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 20 | [مدحت شلبي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
-| 21 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 22 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 23 | [رمضان صبحي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b5%d8%a8%d8%ad%d9%8a) | N/A |
-| 24 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 25 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 26 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
-| 27 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
-| 28 | [ガッツポーズの日](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%83%84%e3%83%9d%e3%83%bc%e3%82%ba%e3%81%ae%e6%97%a5) | N/A |
-| 29 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 30 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
-| 31 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 32 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 33 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 34 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
-| 35 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
-| 36 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 37 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 38 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 39 | [العمل الخيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a) | N/A |
-| 40 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
-| 41 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 42 | [٢٠ رمضان](http://twitter.com/search?q=%d9%a2%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 43 | [ياسين حمزه](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d9%8a%d9%86+%d8%ad%d9%85%d8%b2%d9%87) | N/A |
-| 44 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 45 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 46 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 47 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 48 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 49 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 50 | [صالح الشهري](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | صالح الشهري is an Arabic phrase that translates to "monthly good deed". It is a phrase used to describe a charitable act or donation that is done on a regular basis. |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 3 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
+| 4 | [#الهلال_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 5 | [#شاركنا_الاجر_ونقفل_حاله](http://twitter.com/search?q=%23%d8%b4%d8%a7%d8%b1%d9%83%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d8%ac%d8%b1_%d9%88%d9%86%d9%82%d9%81%d9%84_%d8%ad%d8%a7%d9%84%d9%87) | N/A |
+| 6 | [#ゴンチャの新作](http://twitter.com/search?q=%23%e3%82%b4%e3%83%b3%e3%83%81%e3%83%a3%e3%81%ae%e6%96%b0%e4%bd%9c) | "#ゴンチャの新作" is a hashtag used on social media to refer to the latest release from the Japanese toy company, GONCHA. In English, it translates to "Goncha's New Release". |
+| 7 | [わんこそば](http://twitter.com/search?q=%e3%82%8f%e3%82%93%e3%81%93%e3%81%9d%e3%81%b0) | N/A |
+| 8 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 9 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
+| 10 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
+| 11 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 12 | [満員電車](http://twitter.com/search?q=%e6%ba%80%e5%93%a1%e9%9b%bb%e8%bb%8a) | 満員電車 (man'in densha) is a Japanese phrase meaning "crowded train". It is used to describe a train that is so full of passengers that it is difficult to find a seat. |
+| 13 | [باتشيكو](http://twitter.com/search?q=%d8%a8%d8%a7%d8%aa%d8%b4%d9%8a%d9%83%d9%88) | باتشيكو (pronounced "ba-tchee-koh") is a type of traditional Japanese confectionery made from mochi (rice cake) and anko (sweet red bean paste). It is usually served as a dessert or snack. In English, it can be translated as "rice cake with sweet bean paste". |
+| 14 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 15 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 16 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 17 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 18 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
+| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 20 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
+| 21 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 22 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
+| 23 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 24 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
+| 25 | [ガッツポーズの日](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%83%84%e3%83%9d%e3%83%bc%e3%82%ba%e3%81%ae%e6%97%a5) | N/A |
+| 26 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 27 | [村上宗隆](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e5%ae%97%e9%9a%86) | N/A |
+| 28 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
+| 29 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
+| 30 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 31 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
+| 32 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
+| 33 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 34 | [٢٠ رمضان](http://twitter.com/search?q=%d9%a2%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 35 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 36 | [セクシーパラディン](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b7%e3%83%bc%e3%83%91%e3%83%a9%e3%83%87%e3%82%a3%e3%83%b3) | N/A |
+| 37 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 38 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 39 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
+| 40 | [مدحت شلبي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
+| 41 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 42 | [رمضان صبحي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b5%d8%a8%d8%ad%d9%8a) | N/A |
+| 43 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
+| 44 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 45 | [生理休暇](http://twitter.com/search?q=%e7%94%9f%e7%90%86%e4%bc%91%e6%9a%87) | N/A |
+| 46 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 47 | [女子ゴルフ原英莉花と真剣交際](http://twitter.com/search?q=%e5%a5%b3%e5%ad%90%e3%82%b4%e3%83%ab%e3%83%95%e5%8e%9f%e8%8b%b1%e8%8e%89%e8%8a%b1%e3%81%a8%e7%9c%9f%e5%89%a3%e4%ba%a4%e9%9a%9b) | N/A |
+| 48 | [密会の鉄壁ガード](http://twitter.com/search?q=%e5%af%86%e4%bc%9a%e3%81%ae%e9%89%84%e5%a3%81%e3%82%ac%e3%83%bc%e3%83%89) | N/A |
+| 49 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
+| 50 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
 
 
 

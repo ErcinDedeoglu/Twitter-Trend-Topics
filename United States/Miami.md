@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-04-10 23:17:23 UTC`
+📆 Last Updated: `2023-04-11 00:29:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 2 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 3 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 4 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 5 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 1 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 4 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
+| 5 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
 | 6 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 7 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 8 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
-| 9 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 10 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 11 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 13 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 14 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
-| 15 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
-| 16 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
-| 17 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 18 | [Nashville Metro Council](http://twitter.com/search?q=Nashville+Metro+Council) | N/A |
-| 19 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
-| 20 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 21 | [Ryan McKenna](http://twitter.com/search?q=Ryan+McKenna) | N/A |
-| 22 | [Kel'el Ware](http://twitter.com/search?q=Kel%27el+Ware) | N/A |
-| 23 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
-| 24 | [Trey Lance](http://twitter.com/search?q=Trey+Lance) | Trey Lance is the name of an American football player. He is a quarterback for the San Francisco 49ers of the National Football League (NFL). The name Trey is derived from the Latin word "tres" meaning "three," and Lance is a French word meaning "lance" or "spear." |
-| 25 | [Your First Favorite Wrestler](http://twitter.com/search?q=Your+First+Favorite+Wrestler) | N/A |
-| 26 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
-| 27 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 28 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 29 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 30 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 31 | [Mike Woodson](http://twitter.com/search?q=Mike+Woodson) | N/A |
-| 32 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 33 | [Evan Gattis](http://twitter.com/search?q=Evan+Gattis) | N/A |
-| 34 | [Jean Segura](http://twitter.com/search?q=Jean+Segura) | N/A |
-| 35 | [Lil Baby](http://twitter.com/search?q=Lil+Baby) | N/A |
-| 36 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 37 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 38 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
-| 39 | [Connor Sturgeon](http://twitter.com/search?q=Connor+Sturgeon) | N/A |
-| 40 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 41 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 42 | [Steve Rogers](http://twitter.com/search?q=Steve+Rogers) | N/A |
-| 43 | [DPOY](http://twitter.com/search?q=DPOY) | N/A |
-| 44 | [PRICES INCREASE SUNDAY](http://twitter.com/search?q=PRICES+INCREASE+SUNDAY) | N/A |
-| 45 | [Tony Stark](http://twitter.com/search?q=Tony+Stark) | N/A |
-| 46 | [Roansy](http://twitter.com/search?q=Roansy) | N/A |
-| 47 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 48 | [Bruce Banner](http://twitter.com/search?q=Bruce+Banner) | N/A |
-| 49 | [WE LOVE YOU CARDI](http://twitter.com/search?q=WE+LOVE+YOU+CARDI) | N/A |
+| 7 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 8 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 9 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 10 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
+| 11 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 12 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 13 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
+| 14 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
+| 15 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
+| 16 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
+| 17 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
+| 18 | [Colten Brewer](http://twitter.com/search?q=Colten+Brewer) | N/A |
+| 19 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
+| 20 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 21 | [Jordan Horston](http://twitter.com/search?q=Jordan+Horston) | N/A |
+| 22 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
+| 23 | [Stephanie Soares](http://twitter.com/search?q=Stephanie+Soares) | N/A |
+| 24 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
+| 25 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
+| 26 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 27 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 28 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 29 | [Atlanta Dream](http://twitter.com/search?q=Atlanta+Dream) | N/A |
+| 30 | [Nick Pivetta](http://twitter.com/search?q=Nick+Pivetta) | N/A |
+| 31 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
+| 32 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 33 | [Joe Pavelski](http://twitter.com/search?q=Joe+Pavelski) | N/A |
+| 34 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
+| 35 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 36 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 37 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 38 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
+| 39 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 40 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
+| 41 | [Mystics](http://twitter.com/search?q=Mystics) | N/A |
+| 42 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
+| 43 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 44 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
+| 45 | [Taylor Mikesell](http://twitter.com/search?q=Taylor+Mikesell) | N/A |
+| 46 | [Drew Smyly](http://twitter.com/search?q=Drew+Smyly) | N/A |
+| 47 | [Holly Rowe](http://twitter.com/search?q=Holly+Rowe) | N/A |
+| 48 | [Austin Hays](http://twitter.com/search?q=Austin+Hays) | N/A |
+| 49 | [Laeticia Amihere](http://twitter.com/search?q=Laeticia+Amihere) | N/A |
 
 
 

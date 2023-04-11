@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Irkutsk
 
-📆 Last Updated: `2023-04-10 23:17:12 UTC`
+📆 Last Updated: `2023-04-11 00:29:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,42 +19,42 @@ This is top 50 for [Russia](</Russia>)
 | 2 | [Thee](http://twitter.com/search?q=Thee) | N/A |
 | 3 | [Users](http://twitter.com/search?q=Users) | N/A |
 | 4 | [Hype](http://twitter.com/search?q=Hype) | N/A |
-| 5 | [Employ](http://twitter.com/search?q=Employ) | N/A |
-| 6 | [#Binance](http://twitter.com/search?q=%23Binance) | N/A |
-| 7 | [Bull](http://twitter.com/search?q=Bull) | N/A |
-| 8 | [Cann](http://twitter.com/search?q=Cann) | N/A |
-| 9 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 10 | [Didd](http://twitter.com/search?q=Didd) | N/A |
+| 5 | [Bull](http://twitter.com/search?q=Bull) | N/A |
+| 6 | [Employ](http://twitter.com/search?q=Employ) | N/A |
+| 7 | [Cann](http://twitter.com/search?q=Cann) | N/A |
+| 8 | [#Binancee](http://twitter.com/search?q=%23Binancee) | N/A |
+| 9 | [Didd](http://twitter.com/search?q=Didd) | N/A |
+| 10 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
 | 11 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
 | 12 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
 | 13 | [Onee](http://twitter.com/search?q=Onee) | N/A |
 | 14 | [Havee](http://twitter.com/search?q=Havee) | N/A |
 | 15 | [TOP TEAM](http://twitter.com/search?q=TOP+TEAM) | N/A |
-| 16 | [Rate](http://twitter.com/search?q=Rate) | N/A |
-| 17 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 16 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 17 | [Rate](http://twitter.com/search?q=Rate) | N/A |
 | 18 | [Howw](http://twitter.com/search?q=Howw) | N/A |
-| 19 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
+| 19 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
 | 20 | [Cryptoo](http://twitter.com/search?q=Cryptoo) | N/A |
-| 21 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
+| 21 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
 | 22 | [Finallyy](http://twitter.com/search?q=Finallyy) | N/A |
-| 23 | [Recommend](http://twitter.com/search?q=Recommend) | N/A |
+| 23 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
 | 24 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 25 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 26 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 27 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
+| 25 | [Recommend](http://twitter.com/search?q=Recommend) | N/A |
+| 26 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 27 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 28 | [Logical](http://twitter.com/search?q=Logical) | N/A |
 | 29 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 30 | [Worthh](http://twitter.com/search?q=Worthh) | N/A |
-| 31 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
-| 32 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
-| 33 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 34 | [Neww](http://twitter.com/search?q=Neww) | N/A |
+| 30 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
+| 31 | [Worthh](http://twitter.com/search?q=Worthh) | N/A |
+| 32 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
+| 33 | [Neww](http://twitter.com/search?q=Neww) | N/A |
+| 34 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
 | 35 | [Alreadyy](http://twitter.com/search?q=Alreadyy) | N/A |
-| 36 | [Forr](http://twitter.com/search?q=Forr) | N/A |
-| 37 | [Keepss](http://twitter.com/search?q=Keepss) | N/A |
+| 36 | [Keepss](http://twitter.com/search?q=Keepss) | N/A |
+| 37 | [Forr](http://twitter.com/search?q=Forr) | N/A |
 | 38 | [Dope xD](http://twitter.com/search?q=Dope+xD) | N/A |
 | 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 40 | [002 ONLY](http://twitter.com/search?q=002+ONLY) | N/A |
+| 40 | [002 only](http://twitter.com/search?q=002+only) | N/A |
 | 41 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
 | 42 | [с днём рождения](http://twitter.com/search?q=%d1%81+%d0%b4%d0%bd%d1%91%d0%bc+%d1%80%d0%be%d0%b6%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
 | 43 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Russia](</Russia>)
 | 45 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 46 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
 | 47 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 48 | [Странно](http://twitter.com/search?q=%d0%a1%d1%82%d1%80%d0%b0%d0%bd%d0%bd%d0%be) | N/A |
-| 49 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
-| 50 | [Gmorning](http://twitter.com/search?q=Gmorning) | N/A |
+| 48 | [Gmorning](http://twitter.com/search?q=Gmorning) | N/A |
+| 49 | [Илон Маск](http://twitter.com/search?q=%d0%98%d0%bb%d0%be%d0%bd+%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 50 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
 
 
 

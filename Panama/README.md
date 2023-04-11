@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-10 23:17:32 UTC`
+📆 Last Updated: `2023-04-11 00:29:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,34 +15,34 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 2 | [Anati](http://twitter.com/search?q=Anati) | N/A |
-| 3 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 4 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 1 | [Anati](http://twitter.com/search?q=Anati) | N/A |
+| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 4 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
 | 5 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 6 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 7 | [rommel fernández](http://twitter.com/search?q=rommel+fern%c3%a1ndez) | N/A |
-| 8 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
-| 9 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 10 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 11 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 12 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 13 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 14 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
-| 15 | [Capira](http://twitter.com/search?q=Capira) | N/A |
-| 16 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 17 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
-| 18 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 19 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 20 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 6 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
+| 7 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 8 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 9 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 10 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 11 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
+| 12 | [Capira](http://twitter.com/search?q=Capira) | N/A |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 16 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 17 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 18 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 19 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 20 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 21 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 23 | [Don Samy](http://twitter.com/search?q=Don+Samy) | N/A |
 | 24 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 25 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 26 | [Mr. Fox](http://twitter.com/search?q=Mr.+Fox) | N/A |
-| 27 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 28 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 25 | [Mr. Fox](http://twitter.com/search?q=Mr.+Fox) | N/A |
+| 26 | [panamá](http://twitter.com/search?q=panam%c3%a1) | N/A |
+| 27 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 28 | [Petro](http://twitter.com/search?q=Petro) | N/A |
 | 29 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
 | 30 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
 | 31 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Panama
 | 35 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 36 | [#cats](http://twitter.com/search?q=%23cats) | N/A |
 | 37 | [Marta Cox](http://twitter.com/search?q=Marta+Cox) | N/A |
-| 38 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 38 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 39 | [Peach](http://twitter.com/search?q=Peach) | N/A |
 | 40 | [$0.01 eth](http://twitter.com/search?q=%240.01+eth) | N/A |
-| 41 | [#EEUU](http://twitter.com/search?q=%23EEUU) | N/A |
-| 42 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 44 | [Super Mario Bros](http://twitter.com/search?q=Super+Mario+Bros) | N/A |
-| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 46 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 47 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 49 | [Lastimosamente](http://twitter.com/search?q=Lastimosamente) | N/A |
-| 50 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 41 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 43 | [Super Mario Bros](http://twitter.com/search?q=Super+Mario+Bros) | N/A |
+| 44 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 45 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 46 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 47 | [Fuente](http://twitter.com/search?q=Fuente) | N/A |
+| 48 | [Lastimosamente](http://twitter.com/search?q=Lastimosamente) | N/A |
+| 49 | [Dominicana](http://twitter.com/search?q=Dominicana) | Dominicana is the Spanish word for Dominican Republic, a Caribbean nation located on the island of Hispaniola. It is bordered by Haiti to the west and the Atlantic Ocean to the north and east. The Dominican Republic is known for its beautiful beaches, lush rainforests, and vibrant culture. |
+| 50 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
 
 
 

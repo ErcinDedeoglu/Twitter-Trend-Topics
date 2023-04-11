@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-10 23:17:27 UTC`
+📆 Last Updated: `2023-04-11 00:29:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
 | 2 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 3 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
-| 4 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 3 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
 | 5 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [#Traumschiff](http://twitter.com/search?q=%23Traumschiff) | N/A |

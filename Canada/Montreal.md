@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-04-10 23:16:38 UTC`
+📆 Last Updated: `2023-04-11 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 3 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 4 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 5 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 6 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 9 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 10 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 11 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 12 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 13 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 15 | [#ItsBudTime](http://twitter.com/search?q=%23ItsBudTime) | N/A |
-| 16 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 17 | [Nick Chenard](http://twitter.com/search?q=Nick+Chenard) | N/A |
-| 18 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 19 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 20 | [Play the ATO](http://twitter.com/search?q=Play+the+ATO) | N/A |
-| 21 | [#lavoixtva](http://twitter.com/search?q=%23lavoixtva) | N/A |
-| 22 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 23 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
-| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 26 | [Ethics Commissioner](http://twitter.com/search?q=Ethics+Commissioner) | N/A |
-| 27 | [Harvinder Singh Dhami](http://twitter.com/search?q=Harvinder+Singh+Dhami) | N/A |
-| 28 | [TFSA](http://twitter.com/search?q=TFSA) | N/A |
-| 29 | [Alberta](http://twitter.com/search?q=Alberta) | N/A |
-| 30 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 31 | [tim mayza](http://twitter.com/search?q=tim+mayza) | N/A |
-| 32 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 33 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
-| 34 | [Trevor Richards](http://twitter.com/search?q=Trevor+Richards) | N/A |
-| 35 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 36 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 37 | [Romano](http://twitter.com/search?q=Romano) | N/A |
-| 38 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 39 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
-| 40 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 41 | [Lametti](http://twitter.com/search?q=Lametti) | N/A |
-| 42 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
-| 43 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 44 | [Go Sens Go](http://twitter.com/search?q=Go+Sens+Go) | N/A |
-| 45 | [Sébastien Potvin](http://twitter.com/search?q=S%c3%a9bastien+Potvin) | N/A |
-| 46 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 47 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 48 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 49 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
-| 50 | [TLMEP](http://twitter.com/search?q=TLMEP) | N/A |
+| 1 | [#leschefs](http://twitter.com/search?q=%23leschefs) | N/A |
+| 2 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [Giroux](http://twitter.com/search?q=Giroux) | N/A |
+| 5 | [#GoSensGo](http://twitter.com/search?q=%23GoSensGo) | N/A |
+| 6 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 8 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 9 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 10 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
+| 11 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 12 | [Craig Simpson](http://twitter.com/search?q=Craig+Simpson) | N/A |
+| 13 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 14 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 15 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 16 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 17 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 18 | [TFSA](http://twitter.com/search?q=TFSA) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 21 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 22 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 23 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 24 | [Play the ATO](http://twitter.com/search?q=Play+the+ATO) | N/A |
+| 25 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 26 | [Barbada](http://twitter.com/search?q=Barbada) | N/A |
+| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 28 | [Ethics Commissioner](http://twitter.com/search?q=Ethics+Commissioner) | N/A |
+| 29 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 30 | [Marc Staal](http://twitter.com/search?q=Marc+Staal) | N/A |
+| 31 | [Sarah Fillier](http://twitter.com/search?q=Sarah+Fillier) | N/A |
+| 32 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 33 | [Laeticia Amihere](http://twitter.com/search?q=Laeticia+Amihere) | N/A |
+| 34 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 35 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 36 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 37 | [tim mayza](http://twitter.com/search?q=tim+mayza) | N/A |
+| 38 | [Wideman](http://twitter.com/search?q=Wideman) | N/A |
+| 39 | [Trevor Richards](http://twitter.com/search?q=Trevor+Richards) | N/A |
+| 40 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 41 | [Harry Bolz](http://twitter.com/search?q=Harry+Bolz) | N/A |
+| 42 | [Gudas](http://twitter.com/search?q=Gudas) | Gudas is a Lithuanian surname. It is derived from the Lithuanian word gudas, which means "woodpecker". |
+| 43 | [Horvat](http://twitter.com/search?q=Horvat) | Horvat is a surname of Croatian origin. It is derived from the Croatian word "horvati", which means "to plow". The name is also found in other Slavic countries, such as Slovenia and Serbia. In English, the meaning of Horvat is "plowman". |
+| 44 | [Nick Chenard](http://twitter.com/search?q=Nick+Chenard) | N/A |
+| 45 | [Reimer](http://twitter.com/search?q=Reimer) | N/A |
+| 46 | [EBUG](http://twitter.com/search?q=EBUG) | N/A |
+| 47 | [Lametti](http://twitter.com/search?q=Lametti) | N/A |
+| 48 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 49 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 50 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
 
 
 

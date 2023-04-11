@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-04-10 23:17:08 UTC`
+📆 Last Updated: `2023-04-11 00:28:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
-| 2 | [#PaidInFullWithLove](http://twitter.com/search?q=%23PaidInFullWithLove) | N/A |
-| 3 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 4 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 5 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 6 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 7 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 8 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 9 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 10 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 11 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 12 | [Femi Adesina](http://twitter.com/search?q=Femi+Adesina) | N/A |
-| 13 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 14 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 15 | [Kernel](http://twitter.com/search?q=Kernel) | N/A |
-| 16 | [#TheDegendsPlan](http://twitter.com/search?q=%23TheDegendsPlan) | N/A |
-| 17 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 18 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 19 | [29th of May](http://twitter.com/search?q=29th+of+May) | N/A |
-| 20 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 21 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 22 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 23 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
-| 24 | [President of Nigeria](http://twitter.com/search?q=President+of+Nigeria) | N/A |
-| 25 | [Adekunle Gold](http://twitter.com/search?q=Adekunle+Gold) | N/A |
-| 26 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 27 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 28 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 29 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 30 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 31 | [Bola Ahmed Tinubu](http://twitter.com/search?q=Bola+Ahmed+Tinubu) | N/A |
-| 32 | [Global](http://twitter.com/search?q=Global) | N/A |
+| 1 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 2 | [Uberfacts](http://twitter.com/search?q=Uberfacts) | N/A |
+| 3 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
+| 4 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [#PaidInFullWithLove](http://twitter.com/search?q=%23PaidInFullWithLove) | N/A |
+| 7 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 8 | [#SamsungGalaxyS23Series](http://twitter.com/search?q=%23SamsungGalaxyS23Series) | N/A |
+| 9 | [$460,000 to the US](http://twitter.com/search?q=%24460%2c000+to+the+US) | N/A |
+| 10 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 11 | [#TheDegendsPlan](http://twitter.com/search?q=%23TheDegendsPlan) | N/A |
+| 12 | [Bola Ahmed Tinubu](http://twitter.com/search?q=Bola+Ahmed+Tinubu) | N/A |
+| 13 | [My Obidients](http://twitter.com/search?q=My+Obidients) | N/A |
+| 14 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 16 | [Toyin Ijakumo](http://twitter.com/search?q=Toyin+Ijakumo) | N/A |
+| 17 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 18 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
+| 19 | [dropshipping guy](http://twitter.com/search?q=dropshipping+guy) | N/A |
+| 20 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 21 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 22 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 23 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 24 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
+| 25 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 26 | [KANAGA JNR X FILMONE](http://twitter.com/search?q=KANAGA+JNR+X+FILMONE) | N/A |
+| 27 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 28 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 29 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
+| 30 | [IT CAME TO PASS](http://twitter.com/search?q=IT+CAME+TO+PASS) | N/A |
+| 31 | [Jet Li](http://twitter.com/search?q=Jet+Li) | N/A |
+| 32 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 33 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 34 | [#DomitillaTheReboot](http://twitter.com/search?q=%23DomitillaTheReboot) | N/A |
-| 35 | [International](http://twitter.com/search?q=International) | N/A |
-| 36 | [Brazilian](http://twitter.com/search?q=Brazilian) | N/A |
-| 37 | [Brotherhood](http://twitter.com/search?q=Brotherhood) | N/A |
-| 38 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
-| 39 | [KANAGA JNR X FILMONE](http://twitter.com/search?q=KANAGA+JNR+X+FILMONE) | N/A |
-| 40 | [#YemiCregx](http://twitter.com/search?q=%23YemiCregx) | N/A |
-| 41 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 34 | [Femi Adesina](http://twitter.com/search?q=Femi+Adesina) | N/A |
+| 35 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
+| 36 | [Pa Adebanjo](http://twitter.com/search?q=Pa+Adebanjo) | N/A |
+| 37 | [Made in Lagos](http://twitter.com/search?q=Made+in+Lagos) | N/A |
+| 38 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 39 | [Rusticated](http://twitter.com/search?q=Rusticated) | N/A |
+| 40 | [Israel Adesanya](http://twitter.com/search?q=Israel+Adesanya) | N/A |
+| 41 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 42 | [Galilee](http://twitter.com/search?q=Galilee) | N/A |
+| 43 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
+| 44 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 45 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 46 | [Kernel](http://twitter.com/search?q=Kernel) | N/A |
+| 47 | [Pa Ayo Adebanjo](http://twitter.com/search?q=Pa+Ayo+Adebanjo) | N/A |
+| 48 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 49 | [AUTHENTIC YVONNE](http://twitter.com/search?q=AUTHENTIC+YVONNE) | N/A |
+| 50 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
 
 
 
