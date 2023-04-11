@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-11 09:17:56 UTC`
+📆 Last Updated: `2023-04-11 10:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 2 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
-| 3 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 4 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 5 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 2 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 4 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 5 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
 | 6 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 7 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 8 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 9 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
 | 10 | [#Wordle661](http://twitter.com/search?q=%23Wordle661) | N/A |
-| 11 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 12 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
-| 13 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 14 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 15 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 16 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 17 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
-| 18 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 19 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 20 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 11 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
+| 12 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 13 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 14 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 15 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
+| 16 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 17 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 18 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 19 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 20 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
 | 21 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 22 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 23 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 24 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 25 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 26 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 27 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 28 | [STAY AWAY FROM HER](http://twitter.com/search?q=STAY+AWAY+FROM+HER) | N/A |
-| 29 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
-| 30 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 31 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 32 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 33 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 34 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 35 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 36 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 37 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 38 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 39 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
-| 40 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
-| 41 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 42 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 43 | [Magneto](http://twitter.com/search?q=Magneto) | N/A |
-| 44 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 45 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
-| 46 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 47 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 48 | [Rapinoe](http://twitter.com/search?q=Rapinoe) | N/A |
-| 49 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 22 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 23 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 24 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 25 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 26 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 27 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 28 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 29 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 30 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 31 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 32 | [Collected](http://twitter.com/search?q=Collected) | N/A |
+| 33 | [Greatly](http://twitter.com/search?q=Greatly) | N/A |
+| 34 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 35 | [Contrasted](http://twitter.com/search?q=Contrasted) | Contrasted is an adjective that means to compare two or more things in order to show how they are different. It can also mean to emphasize the differences between two or more things. |
+| 36 | [Suspicion](http://twitter.com/search?q=Suspicion) | Suspicion is a feeling of doubt or mistrust about someone or something. It is often based on incomplete information or intuition, and can lead to further investigation. |
+| 37 | [Timed](http://twitter.com/search?q=Timed) | N/A |
+| 38 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 39 | [Magneto](http://twitter.com/search?q=Magneto) | N/A |
+| 40 | [Distrusts](http://twitter.com/search?q=Distrusts) | Distrusts is a verb that means to have a lack of trust or confidence in someone or something. It is often used to describe a feeling of suspicion or doubt about someone's intentions or motives. |
+| 41 | [Paige](http://twitter.com/search?q=Paige) | N/A |
+| 42 | [Drift](http://twitter.com/search?q=Drift) | N/A |
+| 43 | [Peter Parker](http://twitter.com/search?q=Peter+Parker) | N/A |
+| 44 | [Sportsman](http://twitter.com/search?q=Sportsman) | N/A |
+| 45 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 46 | [Webb](http://twitter.com/search?q=Webb) | N/A |
+| 47 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 48 | [#NefariousMovie](http://twitter.com/search?q=%23NefariousMovie) | N/A |
+| 49 | [#サンリオキャラクター大賞](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e5%a4%a7%e8%b3%9e) | N/A |
 
 
 

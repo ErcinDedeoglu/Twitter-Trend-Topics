@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-11 09:18:05 UTC`
+📆 Last Updated: `2023-04-11 10:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MilenialGenZPrabowo](http://twitter.com/search?q=%23MilenialGenZPrabowo) | N/A |
-| 2 | [UrusanGue Kerenin Indonesia](http://twitter.com/search?q=UrusanGue+Kerenin+Indonesia) | N/A |
-| 3 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 1 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 2 | [#Hexjuice](http://twitter.com/search?q=%23Hexjuice) | N/A |
+| 3 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 4 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 5 | [#Hexjuice](http://twitter.com/search?q=%23Hexjuice) | N/A |
+| 5 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
 | 6 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
 | 7 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
-| 8 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 11 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
-| 12 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
-| 13 | [CHENLE FOR KNIGHT MAGAZINE](http://twitter.com/search?q=CHENLE+FOR+KNIGHT+MAGAZINE) | N/A |
-| 14 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
-| 15 | [Lapas Sukamiskin](http://twitter.com/search?q=Lapas+Sukamiskin) | N/A |
-| 16 | [CPNS](http://twitter.com/search?q=CPNS) | N/A |
-| 17 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 18 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 19 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
+| 8 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
+| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 10 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 11 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
+| 12 | [CHENLE FOR KNIGHT MAGAZINE](http://twitter.com/search?q=CHENLE+FOR+KNIGHT+MAGAZINE) | N/A |
+| 13 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
+| 14 | [Lapas Sukamiskin](http://twitter.com/search?q=Lapas+Sukamiskin) | N/A |
+| 15 | [CPNS](http://twitter.com/search?q=CPNS) | N/A |
+| 16 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 17 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
+| 18 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 19 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
 | 20 | [Kang Younghyun](http://twitter.com/search?q=Kang+Younghyun) | N/A |
-| 21 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 22 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
-| 23 | [Zayed Humanitarian Day](http://twitter.com/search?q=Zayed+Humanitarian+Day) | N/A |
-| 24 | [Sage](http://twitter.com/search?q=Sage) | N/A |
+| 21 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 22 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 23 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
+| 24 | [Zayed Humanitarian Day](http://twitter.com/search?q=Zayed+Humanitarian+Day) | N/A |
 | 25 | [Presiden Jokowi](http://twitter.com/search?q=Presiden+Jokowi) | N/A |
-| 26 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 27 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 28 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
-| 29 | [Gue 15](http://twitter.com/search?q=Gue+15) | N/A |
-| 30 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 31 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
-| 32 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 33 | [HUANG RENJUN](http://twitter.com/search?q=HUANG+RENJUN) | HUANG RENJUN is the stage name of Huang Renjun, a Chinese singer and member of the South Korean boy band NCT. His name means "bright and generous" in English. |
-| 34 | [#RENJUNxKnightMagazine](http://twitter.com/search?q=%23RENJUNxKnightMagazine) | N/A |
-| 35 | [#AnasUrbaningrum](http://twitter.com/search?q=%23AnasUrbaningrum) | N/A |
+| 26 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
+| 27 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 28 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 29 | [Sage](http://twitter.com/search?q=Sage) | N/A |
+| 30 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
+| 31 | [Mario Dandy](http://twitter.com/search?q=Mario+Dandy) | N/A |
+| 32 | [#ร้อยฤดูหนาวMV](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b8%a4%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7MV) | N/A |
+| 33 | [#RENJUNxKnightMagazine](http://twitter.com/search?q=%23RENJUNxKnightMagazine) | N/A |
+| 34 | [#AnasUrbaningrum](http://twitter.com/search?q=%23AnasUrbaningrum) | N/A |
+| 35 | [#MarkLeexWKOREA](http://twitter.com/search?q=%23MarkLeexWKOREA) | N/A |
 | 36 | [#Welcome_Home_YoungK](http://twitter.com/search?q=%23Welcome_Home_YoungK) | N/A |
-| 37 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 38 | [#GanjarPilihanTerbaik](http://twitter.com/search?q=%23GanjarPilihanTerbaik) | N/A |
-| 39 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 40 | [#5thYearGitroops](http://twitter.com/search?q=%235thYearGitroops) | N/A |
-| 41 | [#Percaya](http://twitter.com/search?q=%23Percaya) | N/A |
-| 42 | [#PesanUntukBerbagi](http://twitter.com/search?q=%23PesanUntukBerbagi) | N/A |
-| 43 | [#영케이_전역_축하해](http://twitter.com/search?q=%23%ec%98%81%ec%bc%80%ec%9d%b4_%ec%a0%84%ec%97%ad_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 37 | [#5thYearGitroops](http://twitter.com/search?q=%235thYearGitroops) | N/A |
+| 38 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
+| 39 | [#Percaya](http://twitter.com/search?q=%23Percaya) | N/A |
+| 40 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 41 | [#PesanUntukBerbagi](http://twitter.com/search?q=%23PesanUntukBerbagi) | N/A |
+| 42 | [#영케이_전역_축하해](http://twitter.com/search?q=%23%ec%98%81%ec%bc%80%ec%9d%b4_%ec%a0%84%ec%97%ad_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 43 | [#NICETOMIXXYOUinJKT](http://twitter.com/search?q=%23NICETOMIXXYOUinJKT) | N/A |
 | 44 | [#끝까지_안아줄_영케이왔다](http://twitter.com/search?q=%23%eb%81%9d%ea%b9%8c%ec%a7%80_%ec%95%88%ec%95%84%ec%a4%84_%ec%98%81%ec%bc%80%ec%9d%b4%ec%99%94%eb%8b%a4) | N/A |
-| 45 | [#NICETOMIXXYOUinJKT](http://twitter.com/search?q=%23NICETOMIXXYOUinJKT) | N/A |
-| 46 | [#KulinerAntiRibet](http://twitter.com/search?q=%23KulinerAntiRibet) | N/A |
-| 47 | [#ditjenpas](http://twitter.com/search?q=%23ditjenpas) | N/A |
-| 48 | [#SUGAxMarieClaireKorea](http://twitter.com/search?q=%23SUGAxMarieClaireKorea) | N/A |
-| 49 | [#AwesomePerformance](http://twitter.com/search?q=%23AwesomePerformance) | N/A |
-| 50 | [#GalaxyA34](http://twitter.com/search?q=%23GalaxyA34) | N/A |
+| 45 | [#KulinerAntiRibet](http://twitter.com/search?q=%23KulinerAntiRibet) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-04-11 09:17:39 UTC`
+📆 Last Updated: `2023-04-11 10:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Thailand](</Thailand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#YORCH1stDebutandfanmeet](http://twitter.com/search?q=%23YORCH1stDebutandfanmeet) | N/A |
-| 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 3 | [#ซัพพอร์ตพีพีเสมอ](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%b1%e0%b8%9e%e0%b8%9e%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%80%e0%b8%aa%e0%b8%a1%e0%b8%ad) | N/A |
+| 2 | [#ซัพพอร์ตพีพีเสมอ](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%b1%e0%b8%9e%e0%b8%9e%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%80%e0%b8%aa%e0%b8%a1%e0%b8%ad) | N/A |
+| 3 | [#ร้อยฤดูหนาวMV](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b8%a4%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7MV) | N/A |
 | 4 | [#เมษาพาปิงเล่นน้ําปะแป้ง](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a1%e0%b8%a9%e0%b8%b2%e0%b8%9e%e0%b8%b2%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%9b%e0%b8%b0%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87) | N/A |
 | 5 | [#TheDriverxTREASURE](http://twitter.com/search?q=%23TheDriverxTREASURE) | N/A |
 | 6 | [Ping In SongKranFest](http://twitter.com/search?q=Ping+In+SongKranFest) | N/A |
 | 7 | [FOURTH TWITTER 400K](http://twitter.com/search?q=FOURTH+TWITTER+400K) | N/A |
-| 8 | [LaysMax x Bright](http://twitter.com/search?q=LaysMax+x+Bright) | N/A |
+| 8 | [MARK LEE WITH WKOREA](http://twitter.com/search?q=MARK+LEE+WITH+WKOREA) | N/A |
 | 9 | [HOLD YOUR HAND11 ENGFA](http://twitter.com/search?q=HOLD+YOUR+HAND11+ENGFA) | N/A |
 | 10 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
 | 11 | [TAWAN ARB DAO RE9](http://twitter.com/search?q=TAWAN+ARB+DAO+RE9) | N/A |
-| 12 | [Nene x Praew 2023](http://twitter.com/search?q=Nene+x+Praew+2023) | N/A |
+| 12 | [KENZO](http://twitter.com/search?q=KENZO) | N/A |
 | 13 | [MELODY OF SCENTS D3](http://twitter.com/search?q=MELODY+OF+SCENTS+D3) | N/A |
-| 14 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 15 | [Same Moon As Nene's Here](http://twitter.com/search?q=Same+Moon+As+Nene%27s+Here) | N/A |
-| 16 | [702 TUESDAY MORNING](http://twitter.com/search?q=702+TUESDAY+MORNING) | N/A |
-| 17 | [STAY WITH CHOMPU 11](http://twitter.com/search?q=STAY+WITH+CHOMPU+11) | N/A |
-| 18 | [Post 2](http://twitter.com/search?q=Post+2) | N/A |
-| 19 | [11 MORNING YANGREBA](http://twitter.com/search?q=11+MORNING+YANGREBA) | N/A |
-| 20 | [SUMMER WITH CHARLOTTE 11](http://twitter.com/search?q=SUMMER+WITH+CHARLOTTE+11) | N/A |
-| 21 | [11 morning dunk](http://twitter.com/search?q=11+morning+dunk) | N/A |
-| 22 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
-| 23 | [DAEBAK SHOW S3 EP4](http://twitter.com/search?q=DAEBAK+SHOW+S3+EP4) | N/A |
-| 24 | [WayV - TEN & YANGYANG](http://twitter.com/search?q=WayV+-+TEN+%26+YANGYANG) | N/A |
-| 25 | [Guess Who is Really Gen-Z](http://twitter.com/search?q=Guess+Who+is+Really+Gen-Z) | N/A |
-| 26 | [#สองล้านสามฟาร์มรักของนุนิว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%ad%e0%b8%87%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 27 | [#แฉxBuaeกันแดดชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%89xBuae%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%94%e0%b8%94%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
-| 28 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
+| 14 | [Nene x Praew 2023](http://twitter.com/search?q=Nene+x+Praew+2023) | N/A |
+| 15 | [LaysMax x Bright](http://twitter.com/search?q=LaysMax+x+Bright) | N/A |
+| 16 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 17 | [star in my mind](http://twitter.com/search?q=star+in+my+mind) | N/A |
+| 18 | [same moon as nene's here](http://twitter.com/search?q=same+moon+as+nene%27s+here) | N/A |
+| 19 | [702 tuesday morning](http://twitter.com/search?q=702+tuesday+morning) | N/A |
+| 20 | [STAY WITH CHOMPU 11](http://twitter.com/search?q=STAY+WITH+CHOMPU+11) | N/A |
+| 21 | [Post 2](http://twitter.com/search?q=Post+2) | N/A |
+| 22 | [11 morning yangreba](http://twitter.com/search?q=11+morning+yangreba) | N/A |
+| 23 | [SUMMER WITH CHARLOTTE 11](http://twitter.com/search?q=SUMMER+WITH+CHARLOTTE+11) | N/A |
+| 24 | [11 morning dunk](http://twitter.com/search?q=11+morning+dunk) | N/A |
+| 25 | [Kem Hussawee](http://twitter.com/search?q=Kem+Hussawee) | N/A |
+| 26 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 27 | [#สองล้านสามฟาร์มรักของนุนิว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%ad%e0%b8%87%e0%b8%a5%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 28 | [#แฉxBuaeกันแดดชาล็อต](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%89xBuae%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%94%e0%b8%94%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95) | N/A |
 | 29 | [#OurSkyy2](http://twitter.com/search?q=%23OurSkyy2) | N/A |
-| 30 | [#ppkritt](http://twitter.com/search?q=%23ppkritt) | N/A |
+| 30 | [#LegendofSRICHANDxMileApo](http://twitter.com/search?q=%23LegendofSRICHANDxMileApo) | N/A |
 | 31 | [#เที่ยวให้สนุกนะซีนุนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%a7%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81%e0%b8%99%e0%b8%b0%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
 | 32 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
 | 33 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
-| 34 | [#ร้อยฤดูหนาวMV](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b8%a4%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7MV) | N/A |
-| 35 | [#เฮียสี่4แสนฟอลเจ้าพ่อY2K](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b8%aa%e0%b8%b5%e0%b9%884%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%9e%e0%b9%88%e0%b8%adY2K) | N/A |
-| 36 | [#DestinyclinicZeeNuNew](http://twitter.com/search?q=%23DestinyclinicZeeNuNew) | N/A |
-| 37 | [#เดทระยะไกลกับซีนุนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%94%e0%b8%97%e0%b8%a3%e0%b8%b0%e0%b8%a2%e0%b8%b0%e0%b9%84%e0%b8%81%e0%b8%a5%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 38 | [#SourandSweet_40M](http://twitter.com/search?q=%23SourandSweet_40M) | N/A |
-| 39 | [#OurSkyyxMySchoolPresident](http://twitter.com/search?q=%23OurSkyyxMySchoolPresident) | N/A |
-| 40 | [#รักร้ายep7](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2ep7) | N/A |
-| 41 | [#CHENLExKNIGHTMAGAZINE](http://twitter.com/search?q=%23CHENLExKNIGHTMAGAZINE) | N/A |
-| 42 | [#เฉโป](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%89%e0%b9%82%e0%b8%9b) | N/A |
-| 43 | [#RENJUNxKnightMagazine](http://twitter.com/search?q=%23RENJUNxKnightMagazine) | N/A |
-| 44 | [#คิงเอื้อTheEndingOfFriend](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%b7%e0%b9%89%e0%b8%adTheEndingOfFriend) | N/A |
-| 45 | [#ดาราแหกซาแซง](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b9%81%e0%b8%ab%e0%b8%81%e0%b8%8b%e0%b8%b2%e0%b9%81%e0%b8%8b%e0%b8%87) | N/A |
+| 34 | [#ppkritt](http://twitter.com/search?q=%23ppkritt) | N/A |
+| 35 | [#MarkLeexWKOREA](http://twitter.com/search?q=%23MarkLeexWKOREA) | N/A |
+| 36 | [#MarkLeexPoloRalphLauren](http://twitter.com/search?q=%23MarkLeexPoloRalphLauren) | N/A |
+| 37 | [#เฮียสี่4แสนฟอลเจ้าพ่อY2K](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ae%e0%b8%b5%e0%b8%a2%e0%b8%aa%e0%b8%b5%e0%b9%884%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b9%80%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%9e%e0%b9%88%e0%b8%adY2K) | N/A |
+| 38 | [#เดทระยะไกลกับซีนุนิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%94%e0%b8%97%e0%b8%a3%e0%b8%b0%e0%b8%a2%e0%b8%b0%e0%b9%84%e0%b8%81%e0%b8%a5%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 39 | [#DestinyclinicZeeNuNew](http://twitter.com/search?q=%23DestinyclinicZeeNuNew) | N/A |
+| 40 | [#ลีน่าจัง](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b5%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
+| 41 | [#ดาราแหกซาแซง](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b9%81%e0%b8%ab%e0%b8%81%e0%b8%8b%e0%b8%b2%e0%b9%81%e0%b8%8b%e0%b8%87) | N/A |
+| 42 | [#คิงเอื้อTheEndingOfFriend](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%b7%e0%b9%89%e0%b8%adTheEndingOfFriend) | N/A |
+| 43 | [#รักร้ายEP7](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%a2EP7) | N/A |
+| 44 | [#อังคารสดใสหัวใจมีนปิง](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%94%e0%b9%83%e0%b8%aa%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
+| 45 | [#น้องวินอยากเป็นพี่วิน](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
 | 46 | [#เขมจิราต้องรอด](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%82%e0%b8%a1%e0%b8%88%e0%b8%b4%e0%b8%a3%e0%b8%b2%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%ad%e0%b8%94) | N/A |
-| 47 | [#ลีน่าจัง](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b5%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%88%e0%b8%b1%e0%b8%87) | N/A |
-| 48 | [#อังคารสดใสหัวใจมีนปิง](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%b2%e0%b8%a3%e0%b8%aa%e0%b8%94%e0%b9%83%e0%b8%aa%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87) | N/A |
-| 49 | [#LaysMaxExclusiveLiveXBright](http://twitter.com/search?q=%23LaysMaxExclusiveLiveXBright) | N/A |
-| 50 | [#ใบเตย](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%9a%e0%b9%80%e0%b8%95%e0%b8%a2) | N/A |
+| 47 | [#ใบเตย](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%9a%e0%b9%80%e0%b8%95%e0%b8%a2) | N/A |
+| 48 | [#พรรคนี้เป็นไงบ้าง](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b9%84%e0%b8%87%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%87) | N/A |
+| 49 | [#CHENLExKNIGHTMAGAZINE](http://twitter.com/search?q=%23CHENLExKNIGHTMAGAZINE) | N/A |
+| 50 | [#XiaoZhanxTasogare](http://twitter.com/search?q=%23XiaoZhanxTasogare) | N/A |
 
 
 

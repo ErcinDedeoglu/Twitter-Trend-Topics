@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-04-11 09:18:04 UTC`
+📆 Last Updated: `2023-04-11 10:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Egypt
 | 12 | [جعفر](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
 | 13 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
 | 14 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 15 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 16 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 17 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
-| 18 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 19 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
-| 20 | [#tagmedia](http://twitter.com/search?q=%23tagmedia) | N/A |
-| 21 | [صوت الجمهور](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
-| 22 | [حمدى فتحى](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%89+%d9%81%d8%aa%d8%ad%d9%89) | حمدى فتحى is an Arabic phrase meaning "praise be to God". It is often used as a way of expressing gratitude or appreciation. |
-| 23 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 24 | [ياسر ابراهيم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 25 | [عبدالله السعيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 26 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 27 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
-| 28 | [بن يوسف](http://twitter.com/search?q=%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 29 | [فخر الدين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 30 | [سيد العمده](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
-| 31 | [شوقي فتح](http://twitter.com/search?q=%d8%b4%d9%88%d9%82%d9%8a+%d9%81%d8%aa%d8%ad) | N/A |
-| 32 | [ابراهيم عادل](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 33 | [علي الطموح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad) | N/A |
-| 34 | [اسامه جلال](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a7%d9%85%d9%87+%d8%ac%d9%84%d8%a7%d9%84) | N/A |
-| 35 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 36 | [التعادل السلبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%b3%d9%84%d8%a8%d9%8a) | N/A |
-| 37 | [رامي ربيعة](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a+%d8%b1%d8%a8%d9%8a%d8%b9%d8%a9) | N/A |
-| 38 | [واشنطن بوست](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86+%d8%a8%d9%88%d8%b3%d8%aa) | N/A |
-| 39 | [التحكيم المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 40 | [الاشواط الاضافيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d9%88%d8%a7%d8%b7+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a%d9%87) | N/A |
-| 41 | [الوقت الاصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d9%8a) | N/A |
-| 42 | [شربت حشيش](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d8%aa+%d8%ad%d8%b4%d9%8a%d8%b4) | N/A |
-| 43 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
-| 44 | [ايهاب توفيق](http://twitter.com/search?q=%d8%a7%d9%8a%d9%87%d8%a7%d8%a8+%d8%aa%d9%88%d9%81%d9%8a%d9%82) | N/A |
-| 45 | [توريه](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 46 | [باسم مرسي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
-| 47 | [دوري السوبر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | N/A |
-| 48 | [نادي الطموح](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad) | N/A |
-| 49 | [علي الكاس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%83%d8%a7%d8%b3) | N/A |
-| 50 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 15 | [٢٠ رمضان](http://twitter.com/search?q=%d9%a2%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 16 | [#عمرو_سعد](http://twitter.com/search?q=%23%d8%b9%d9%85%d8%b1%d9%88_%d8%b3%d8%b9%d8%af) | N/A |
+| 17 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 18 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 19 | [20 رمضان](http://twitter.com/search?q=20+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 20 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 21 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
+| 22 | [#tagmedia](http://twitter.com/search?q=%23tagmedia) | N/A |
+| 23 | [صوت الجمهور](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
+| 24 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 25 | [ياسر ابراهيم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 26 | [حمدى فتحى](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%89+%d9%81%d8%aa%d8%ad%d9%89) | حمدى فتحى is an Arabic phrase meaning "praise be to God". It is often used as a way of expressing gratitude or appreciation. |
+| 27 | [عبدالله السعيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 28 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 29 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 30 | [رمضان بطاطس](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a8%d8%b7%d8%a7%d8%b7%d8%b3) | N/A |
+| 31 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 32 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 33 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
+| 34 | [سيد العمده](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
+| 35 | [مصدر مصري](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 36 | [ابراهيم عادل](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%b9%d8%a7%d8%af%d9%84) | N/A |
+| 37 | [فخر الدين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
+| 38 | [شوقي فتح](http://twitter.com/search?q=%d8%b4%d9%88%d9%82%d9%8a+%d9%81%d8%aa%d8%ad) | N/A |
+| 39 | [19 رمضان](http://twitter.com/search?q=19+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 40 | [شربت حشيش](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d8%aa+%d8%ad%d8%b4%d9%8a%d8%b4) | N/A |
+| 41 | [علي الطموح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad) | N/A |
+| 42 | [التعادل السلبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%b3%d9%84%d8%a8%d9%8a) | N/A |
+| 43 | [بن يوسف](http://twitter.com/search?q=%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 44 | [الاشواط الاضافيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d9%88%d8%a7%d8%b7+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a%d9%87) | N/A |
+| 45 | [رامي ربيعة](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a+%d8%b1%d8%a8%d9%8a%d8%b9%d8%a9) | N/A |
+| 46 | [الوقت الاصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d9%8a) | N/A |
+| 47 | [واشنطن بوست](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86+%d8%a8%d9%88%d8%b3%d8%aa) | N/A |
+| 48 | [دوري السوبر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | N/A |
+| 49 | [توريه](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 50 | [باسم مرسي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d9%85%d8%b1%d8%b3%d9%8a) | N/A |
 
 
 

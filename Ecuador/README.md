@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-11 09:18:04 UTC`
+📆 Last Updated: `2023-04-11 10:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,26 +21,26 @@ This is top 50 for Ecuador
 | 4 | [velasco](http://twitter.com/search?q=velasco) | N/A |
 | 5 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
 | 6 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 7 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 7 | [Janner](http://twitter.com/search?q=Janner) | N/A |
 | 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 10 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
-| 11 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 12 | [Janner](http://twitter.com/search?q=Janner) | N/A |
-| 13 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 14 | [mar en marie claire](http://twitter.com/search?q=mar+en+marie+claire) | N/A |
-| 15 | [Cuero](http://twitter.com/search?q=Cuero) | N/A |
-| 16 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
-| 17 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
-| 18 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 19 | [Ídolo](http://twitter.com/search?q=%c3%8ddolo) | N/A |
-| 20 | [Otero](http://twitter.com/search?q=Otero) | N/A |
-| 21 | [burrai](http://twitter.com/search?q=burrai) | N/A |
-| 22 | [alvarado](http://twitter.com/search?q=alvarado) | N/A |
-| 23 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
-| 24 | [paco rodríguez](http://twitter.com/search?q=paco+rodr%c3%adguez) | N/A |
-| 25 | [Mall del Sol](http://twitter.com/search?q=Mall+del+Sol) | N/A |
-| 26 | [Teodoro Paredes](http://twitter.com/search?q=Teodoro+Paredes) | N/A |
+| 9 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 10 | [mar en marie claire](http://twitter.com/search?q=mar+en+marie+claire) | N/A |
+| 11 | [Cuero](http://twitter.com/search?q=Cuero) | N/A |
+| 12 | [Pineida](http://twitter.com/search?q=Pineida) | N/A |
+| 13 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
+| 14 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 15 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 16 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 17 | [ídolo](http://twitter.com/search?q=%c3%addolo) | N/A |
+| 18 | [Otero](http://twitter.com/search?q=Otero) | N/A |
+| 19 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 20 | [burrai](http://twitter.com/search?q=burrai) | N/A |
+| 21 | [alvarado](http://twitter.com/search?q=alvarado) | N/A |
+| 22 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
+| 23 | [paco rodríguez](http://twitter.com/search?q=paco+rodr%c3%adguez) | N/A |
+| 24 | [mall del sol](http://twitter.com/search?q=mall+del+sol) | N/A |
+| 25 | [Teodoro Paredes](http://twitter.com/search?q=Teodoro+Paredes) | N/A |
+| 26 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 27 | [Cifuentes](http://twitter.com/search?q=Cifuentes) | N/A |
 | 28 | [Bauman](http://twitter.com/search?q=Bauman) | N/A |
 | 29 | [La Libertad](http://twitter.com/search?q=La+Libertad) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for Ecuador
 | 31 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 32 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
 | 33 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 34 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 34 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
 | 35 | [Emelec](http://twitter.com/search?q=Emelec) | N/A |
 | 36 | [guayaquil city](http://twitter.com/search?q=guayaquil+city) | N/A |
 | 37 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Ecuador
 | 47 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
 | 48 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 49 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 50 | [Alerta Naranja](http://twitter.com/search?q=Alerta+Naranja) | N/A |
+| 50 | [alerta naranja](http://twitter.com/search?q=alerta+naranja) | N/A |
 
 
 

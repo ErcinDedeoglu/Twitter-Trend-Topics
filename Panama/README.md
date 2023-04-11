@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-11 09:18:08 UTC`
+📆 Last Updated: `2023-04-11 10:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,12 +40,12 @@ This is top 50 for Panama
 | 23 | [Cero](http://twitter.com/search?q=Cero) | N/A |
 | 24 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
 | 25 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
-| 26 | [romulo](http://twitter.com/search?q=romulo) | N/A |
-| 27 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 28 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 26 | [Romulo](http://twitter.com/search?q=Romulo) | N/A |
+| 27 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 28 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 29 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
 | 30 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 31 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 31 | [Taiwán](http://twitter.com/search?q=Taiw%c3%a1n) | N/A |
 | 32 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
 | 33 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
 | 34 | [Petro](http://twitter.com/search?q=Petro) | N/A |

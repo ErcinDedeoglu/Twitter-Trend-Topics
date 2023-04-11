@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-04-11 09:17:51 UTC`
+📆 Last Updated: `2023-04-11 10:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Meb4İle ŞartsızTayin](http://twitter.com/search?q=Meb4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
-| 2 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 3 | [Doğru Zaman](http://twitter.com/search?q=Do%c4%9fru+Zaman) | N/A |
+| 1 | [Şerefsiz Caner](http://twitter.com/search?q=%c5%9eerefsiz+Caner) | N/A |
+| 2 | [Meb4İle ŞartsızTayin](http://twitter.com/search?q=Meb4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
+| 3 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
 | 4 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
-| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 6 | [#StajaÇözümMayısta](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmMay%c4%b1sta) | N/A |
-| 7 | [#OylarABO5000Kısmiye](http://twitter.com/search?q=%23OylarABO5000K%c4%b1smiye) | N/A |
+| 5 | [#OylarABO5000Kısmiye](http://twitter.com/search?q=%23OylarABO5000K%c4%b1smiye) | N/A |
+| 6 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 7 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
 | 8 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 10 | [Yoksun](http://twitter.com/search?q=Yoksun) | N/A |
-| 11 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 12 | [Yaşasın Urfalılar](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Urfal%c4%b1lar) | N/A |
-| 13 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 14 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
-| 15 | [Türkiye Yüzyılı](http://twitter.com/search?q=T%c3%bcrkiye+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 16 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
-| 17 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
-| 18 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 19 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
-| 20 | [Merkez](http://twitter.com/search?q=Merkez) | N/A |
-| 21 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 22 | [#ElvedaAKP](http://twitter.com/search?q=%23ElvedaAKP) | N/A |
-| 23 | [#TarihOlacak](http://twitter.com/search?q=%23TarihOlacak) | N/A |
-| 24 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
-| 25 | [#HataydaSUYOK](http://twitter.com/search?q=%23HataydaSUYOK) | N/A |
-| 26 | [#HaydiKampanyaya](http://twitter.com/search?q=%23HaydiKampanyaya) | N/A |
-| 27 | [#BenceTarihOlmalı](http://twitter.com/search?q=%23BenceTarihOlmal%c4%b1) | N/A |
-| 28 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 29 | [#Emad2000ler](http://twitter.com/search?q=%23Emad2000ler) | N/A |
-| 30 | [#ÜmitKaftancıoğlu](http://twitter.com/search?q=%23%c3%9cmitKaftanc%c4%b1o%c4%9flu) | N/A |
-| 31 | [#ÖSYMBekletme](http://twitter.com/search?q=%23%c3%96SYMBekletme) | N/A |
-| 32 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
-| 33 | [#GenelAf](http://twitter.com/search?q=%23GenelAf) | N/A |
-| 34 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
-| 35 | [#TetikçininOğlu](http://twitter.com/search?q=%23Tetik%c3%a7ininO%c4%9flu) | N/A |
-| 36 | [#gunaydin](http://twitter.com/search?q=%23gunaydin) | N/A |
-| 37 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
-| 38 | [#antalyatravesti](http://twitter.com/search?q=%23antalyatravesti) | N/A |
-| 39 | [#InadınaStajInadınaÇıraklık](http://twitter.com/search?q=%23Inad%c4%b1naStajInad%c4%b1na%c3%87%c4%b1rakl%c4%b1k) | N/A |
-| 40 | [#hekts](http://twitter.com/search?q=%23hekts) | N/A |
-| 41 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 42 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
-| 43 | [#LaledenGSyeOrtalar](http://twitter.com/search?q=%23LaledenGSyeOrtalar) | N/A |
-| 44 | [#kripto](http://twitter.com/search?q=%23kripto) | N/A |
-| 45 | [#petkm](http://twitter.com/search?q=%23petkm) | N/A |
+| 11 | [Meteoroloji'den 21](http://twitter.com/search?q=Meteoroloji%27den+21) | N/A |
+| 12 | [Türkiye Yüzyılı](http://twitter.com/search?q=T%c3%bcrkiye+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
+| 13 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 14 | [Yaşasın Urfalılar](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Urfal%c4%b1lar) | N/A |
+| 15 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 16 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
+| 17 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
+| 18 | [Ünal](http://twitter.com/search?q=%c3%9cnal) | N/A |
+| 19 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
+| 20 | [Atatürkçü](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bc) | N/A |
+| 21 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
+| 22 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
+| 23 | [Zonguldak](http://twitter.com/search?q=Zonguldak) | N/A |
+| 24 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
+| 25 | [Merkez](http://twitter.com/search?q=Merkez) | N/A |
+| 26 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
+| 27 | [#StajaÇözümMayısta](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmMay%c4%b1sta) | N/A |
+| 28 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 29 | [#BenceTarihOlmalı](http://twitter.com/search?q=%23BenceTarihOlmal%c4%b1) | N/A |
+| 30 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 31 | [#ElvedaAKP](http://twitter.com/search?q=%23ElvedaAKP) | N/A |
+| 32 | [#ÜmitKaftancıoğlu](http://twitter.com/search?q=%23%c3%9cmitKaftanc%c4%b1o%c4%9flu) | N/A |
+| 33 | [#Emad2000ler](http://twitter.com/search?q=%23Emad2000ler) | N/A |
+| 34 | [#TetikçininOğlu](http://twitter.com/search?q=%23Tetik%c3%a7ininO%c4%9flu) | N/A |
+| 35 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 36 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
+| 37 | [#GenelAf](http://twitter.com/search?q=%23GenelAf) | N/A |
+| 38 | [#ÖSYMBekletme](http://twitter.com/search?q=%23%c3%96SYMBekletme) | N/A |
+| 39 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
+| 40 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
+| 41 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
+| 42 | [#antalyatravesti](http://twitter.com/search?q=%23antalyatravesti) | N/A |
+| 43 | [#InadınaStajInadınaÇıraklık](http://twitter.com/search?q=%23Inad%c4%b1naStajInad%c4%b1na%c3%87%c4%b1rakl%c4%b1k) | N/A |
+| 44 | [#hekts](http://twitter.com/search?q=%23hekts) | N/A |
+| 45 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
+| 46 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 47 | [#kripto](http://twitter.com/search?q=%23kripto) | N/A |
+| 48 | [#petkm](http://twitter.com/search?q=%23petkm) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-04-11 09:17:11 UTC`
+📆 Last Updated: `2023-04-11 10:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
-| 2 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 3 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
-| 4 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 5 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
-| 6 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
-| 7 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
-| 8 | [#TemptingFortune](http://twitter.com/search?q=%23TemptingFortune) | N/A |
-| 9 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 10 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 11 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
-| 12 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
-| 13 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 14 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
-| 15 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
-| 16 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 17 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 18 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 1 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 2 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
+| 3 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 4 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
+| 5 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
+| 6 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 7 | [#TemptingFortune](http://twitter.com/search?q=%23TemptingFortune) | N/A |
+| 8 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 9 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 10 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 11 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
+| 12 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
+| 13 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
+| 14 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
+| 15 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
+| 16 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
+| 17 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
+| 18 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
 | 19 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 20 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 21 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 22 | [Chip](http://twitter.com/search?q=Chip) | N/A |
-| 23 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 24 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 25 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 26 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
-| 27 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 28 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 29 | [Deano](http://twitter.com/search?q=Deano) | N/A |
-| 30 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 31 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 32 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 33 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 34 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 35 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 36 | [#ASongOrMovieForFree](http://twitter.com/search?q=%23ASongOrMovieForFree) | N/A |
-| 37 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 38 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
-| 39 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
+| 20 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 21 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 22 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
+| 23 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 24 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 25 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 26 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 27 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 28 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 29 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 30 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 31 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 32 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 33 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
+| 34 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 35 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 36 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
+| 37 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 38 | [#ASongOrMovieForFree](http://twitter.com/search?q=%23ASongOrMovieForFree) | N/A |
+| 39 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
 | 40 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 41 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 42 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 43 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 44 | [#wings](http://twitter.com/search?q=%23wings) | N/A |
-| 45 | [#ToriesOut278](http://twitter.com/search?q=%23ToriesOut278) | N/A |
+| 41 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
+| 42 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
+| 43 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 44 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 45 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
 | 46 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 47 | [#gmsf](http://twitter.com/search?q=%23gmsf) | N/A |
-| 48 | [#KayBurley](http://twitter.com/search?q=%23KayBurley) | N/A |
+| 47 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 48 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
 
 
 
