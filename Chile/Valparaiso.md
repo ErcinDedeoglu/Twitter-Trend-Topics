@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-11 07:16:25 UTC`
+📆 Last Updated: `2023-04-11 08:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Chile](</Chile>)
 | 2 | [Ovimarlixion](http://twitter.com/search?q=Ovimarlixion) | N/A |
 | 3 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
 | 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 6 | [#SecretoBancario](http://twitter.com/search?q=%23SecretoBancario) | N/A |
-| 7 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 8 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 9 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
-| 10 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
-| 11 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
-| 12 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
-| 13 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 14 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 15 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 16 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
-| 17 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 18 | [Dauno](http://twitter.com/search?q=Dauno) | N/A |
-| 19 | [Bansky](http://twitter.com/search?q=Bansky) | N/A |
-| 20 | [Santiago City](http://twitter.com/search?q=Santiago+City) | N/A |
-| 21 | [Arlixon](http://twitter.com/search?q=Arlixon) | N/A |
+| 5 | [#SecretoBancario](http://twitter.com/search?q=%23SecretoBancario) | N/A |
+| 6 | [#LaLeyDeBaltazar](http://twitter.com/search?q=%23LaLeyDeBaltazar) | N/A |
+| 7 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 8 | [#temblor](http://twitter.com/search?q=%23temblor) | N/A |
+| 9 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
+| 10 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
+| 11 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
+| 12 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 13 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 14 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 15 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 16 | [lezcano](http://twitter.com/search?q=lezcano) | N/A |
+| 17 | [Tenía 19](http://twitter.com/search?q=Ten%c3%ada+19) | N/A |
+| 18 | [santiago city](http://twitter.com/search?q=santiago+city) | N/A |
+| 19 | [Dauno](http://twitter.com/search?q=Dauno) | N/A |
+| 20 | [Bansky](http://twitter.com/search?q=Bansky) | N/A |
+| 21 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
 | 22 | [Amparo Noguera](http://twitter.com/search?q=Amparo+Noguera) | N/A |
 | 23 | [Deportes Rengo](http://twitter.com/search?q=Deportes+Rengo) | N/A |
-| 24 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 25 | [Gasco](http://twitter.com/search?q=Gasco) | N/A |
+| 24 | [Gasco](http://twitter.com/search?q=Gasco) | N/A |
+| 25 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
 | 26 | [Checho](http://twitter.com/search?q=Checho) | N/A |
 | 27 | [lucas soto](http://twitter.com/search?q=lucas+soto) | N/A |
-| 28 | [Buleke](http://twitter.com/search?q=Buleke) | N/A |
-| 29 | [Pancho Orrego](http://twitter.com/search?q=Pancho+Orrego) | N/A |
-| 30 | [Ministra Vallejo](http://twitter.com/search?q=Ministra+Vallejo) | N/A |
-| 31 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
-| 32 | [quinta normal](http://twitter.com/search?q=quinta+normal) | N/A |
-| 33 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 28 | [Pancho Orrego](http://twitter.com/search?q=Pancho+Orrego) | N/A |
+| 29 | [Ministra Vallejo](http://twitter.com/search?q=Ministra+Vallejo) | N/A |
+| 30 | [Baby Shower](http://twitter.com/search?q=Baby+Shower) | N/A |
+| 31 | [quinta normal](http://twitter.com/search?q=quinta+normal) | N/A |
+| 32 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 33 | [Evangelion](http://twitter.com/search?q=Evangelion) | N/A |
 | 34 | [Copa Chile](http://twitter.com/search?q=Copa+Chile) | N/A |
-| 35 | [Evangelion](http://twitter.com/search?q=Evangelion) | N/A |
-| 36 | [Paz Suárez](http://twitter.com/search?q=Paz+Su%c3%a1rez) | N/A |
-| 37 | [Curicó Unido](http://twitter.com/search?q=Curic%c3%b3+Unido) | N/A |
+| 35 | [Paz Suárez](http://twitter.com/search?q=Paz+Su%c3%a1rez) | N/A |
+| 36 | [Curicó Unido](http://twitter.com/search?q=Curic%c3%b3+Unido) | N/A |
+| 37 | [Alemparte](http://twitter.com/search?q=Alemparte) | N/A |
 | 38 | [Naya](http://twitter.com/search?q=Naya) | N/A |
 | 39 | [Logan](http://twitter.com/search?q=Logan) | N/A |
 | 40 | [Manhattan](http://twitter.com/search?q=Manhattan) | N/A |
 | 41 | [Feliz Pascua](http://twitter.com/search?q=Feliz+Pascua) | N/A |
-| 42 | [Alemparte](http://twitter.com/search?q=Alemparte) | N/A |
-| 43 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 44 | [bukake](http://twitter.com/search?q=bukake) | N/A |
-| 45 | [saldivia](http://twitter.com/search?q=saldivia) | N/A |
-| 46 | [Feito](http://twitter.com/search?q=Feito) | N/A |
-| 47 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 48 | [Andrés Bobe](http://twitter.com/search?q=Andr%c3%a9s+Bobe) | N/A |
-| 49 | [batuco](http://twitter.com/search?q=batuco) | N/A |
+| 42 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 43 | [Bukake](http://twitter.com/search?q=Bukake) | N/A |
+| 44 | [saldivia](http://twitter.com/search?q=saldivia) | N/A |
+| 45 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 46 | [batuco](http://twitter.com/search?q=batuco) | N/A |
+| 47 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 48 | [Trasandino](http://twitter.com/search?q=Trasandino) | N/A |
+| 49 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 
 
 

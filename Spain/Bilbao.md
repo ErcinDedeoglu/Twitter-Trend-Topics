@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-11 07:16:35 UTC`
+📆 Last Updated: `2023-04-11 08:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 2 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 3 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 4 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
 | 5 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
 | 6 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 7 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 8 | [#DiaMundialDelParkinson](http://twitter.com/search?q=%23DiaMundialDelParkinson) | N/A |
+| 7 | [#DiaMundialDelParkinson](http://twitter.com/search?q=%23DiaMundialDelParkinson) | N/A |
+| 8 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
 | 9 | [#PcComponentesLenovo](http://twitter.com/search?q=%23PcComponentesLenovo) | N/A |
-| 10 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 11 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 12 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 13 | [460 X](http://twitter.com/search?q=460+X) | N/A |
-| 14 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 15 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 16 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 17 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 18 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 19 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 20 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 13 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
+| 14 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
+| 15 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
+| 16 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 17 | [460 X](http://twitter.com/search?q=460+X) | N/A |
+| 18 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 19 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 20 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 21 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
 | 22 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 23 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 24 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 25 | [Jn 20](http://twitter.com/search?q=Jn+20) | N/A |
-| 26 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
-| 27 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
-| 28 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 29 | [Andrés Suárez](http://twitter.com/search?q=Andr%c3%a9s+Su%c3%a1rez) | N/A |
-| 30 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
-| 31 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 32 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
-| 33 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 34 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
-| 35 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 36 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 37 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 38 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 39 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 40 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 41 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 42 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 43 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 44 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 45 | [Don Fernando](http://twitter.com/search?q=Don+Fernando) | N/A |
-| 46 | [Videoclip Oficial](http://twitter.com/search?q=Videoclip+Oficial) | N/A |
-| 47 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
-| 48 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 49 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
-| 50 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 23 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 24 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 25 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 26 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
+| 27 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
+| 28 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
+| 29 | [Jn 20](http://twitter.com/search?q=Jn+20) | N/A |
+| 30 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 31 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
+| 32 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 33 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 34 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
+| 35 | [Guillem Agulló](http://twitter.com/search?q=Guillem+Agull%c3%b3) | N/A |
+| 36 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
+| 37 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 38 | [Andrés Suárez](http://twitter.com/search?q=Andr%c3%a9s+Su%c3%a1rez) | N/A |
+| 39 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 40 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 41 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 42 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 43 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 44 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 45 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
+| 46 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 47 | [jartan](http://twitter.com/search?q=jartan) | N/A |
+| 48 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 49 | [Taty Castellanos](http://twitter.com/search?q=Taty+Castellanos) | N/A |
+| 50 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-11 07:16:29 UTC`
+📆 Last Updated: `2023-04-11 08:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 2 | [#MIELEG](http://twitter.com/search?q=%23MIELEG) | N/A |
-| 3 | [#jaglgd](http://twitter.com/search?q=%23jaglgd) | N/A |
-| 4 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 6 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
-| 7 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 8 | [ZAMACH](http://twitter.com/search?q=ZAMACH) | N/A |
-| 9 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 1 | [#MIELEG](http://twitter.com/search?q=%23MIELEG) | N/A |
+| 2 | [#jaglgd](http://twitter.com/search?q=%23jaglgd) | N/A |
+| 3 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
+| 4 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 5 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 6 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 7 | [Zamach](http://twitter.com/search?q=Zamach) | N/A |
+| 8 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 9 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
 | 10 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
-| 11 | [Katyniu](http://twitter.com/search?q=Katyniu) | N/A |
-| 12 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
-| 13 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
-| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [Baku](http://twitter.com/search?q=Baku) | N/A |
-| 16 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 11 | [Miedzi](http://twitter.com/search?q=Miedzi) | N/A |
+| 12 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
+| 13 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 14 | [Baku](http://twitter.com/search?q=Baku) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 16 | [Lecha Kaczyńskiego](http://twitter.com/search?q=Lecha+Kaczy%c5%84skiego) | N/A |
 | 17 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
-| 18 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
-| 19 | [Świętach](http://twitter.com/search?q=%c5%9awi%c4%99tach) | N/A |
-| 20 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
+| 18 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 19 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 20 | [imaz](http://twitter.com/search?q=imaz) | N/A |
 | 21 | [Disneya](http://twitter.com/search?q=Disneya) | N/A |
-| 22 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 23 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 24 | [Kaliszu](http://twitter.com/search?q=Kaliszu) | N/A |
-| 25 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
-| 26 | [radomiak](http://twitter.com/search?q=radomiak) | N/A |
-| 27 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 28 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
-| 29 | [Dalajlama](http://twitter.com/search?q=Dalajlama) | N/A |
-| 30 | [wszołek](http://twitter.com/search?q=wszo%c5%82ek) | N/A |
-| 31 | [Jaga](http://twitter.com/search?q=Jaga) | N/A |
-| 32 | [Deer](http://twitter.com/search?q=Deer) | N/A |
-| 33 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
-| 34 | [nawrocki](http://twitter.com/search?q=nawrocki) | N/A |
-| 35 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
-| 36 | [BIORĘ UDZIAŁ](http://twitter.com/search?q=BIOR%c4%98+UDZIA%c5%81) | N/A |
-| 37 | [familiadzie](http://twitter.com/search?q=familiadzie) | N/A |
-| 38 | [Stanów Zjednoczonych](http://twitter.com/search?q=Stan%c3%b3w+Zjednoczonych) | N/A |
-| 39 | [J 20](http://twitter.com/search?q=J+20) | N/A |
-| 40 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
-| 41 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 42 | [baśka](http://twitter.com/search?q=ba%c5%9bka) | N/A |
-| 43 | [kaczyńscy](http://twitter.com/search?q=kaczy%c5%84scy) | N/A |
-| 44 | [Nene](http://twitter.com/search?q=Nene) | N/A |
-| 45 | [Wesołych](http://twitter.com/search?q=Weso%c5%82ych) | N/A |
-| 46 | [pedriego](http://twitter.com/search?q=pedriego) | N/A |
-| 47 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 48 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 49 | [Antek](http://twitter.com/search?q=Antek) | N/A |
-| 50 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 22 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 23 | [Kaliszu](http://twitter.com/search?q=Kaliszu) | N/A |
+| 24 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 25 | [Dalajlama](http://twitter.com/search?q=Dalajlama) | N/A |
+| 26 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
+| 27 | [Jaga](http://twitter.com/search?q=Jaga) | N/A |
+| 28 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
+| 29 | [BIORĘ UDZIAŁ](http://twitter.com/search?q=BIOR%c4%98+UDZIA%c5%81) | N/A |
+| 30 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 31 | [Deer](http://twitter.com/search?q=Deer) | N/A |
+| 32 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 33 | [nawrocki](http://twitter.com/search?q=nawrocki) | N/A |
+| 34 | [jagiellonii](http://twitter.com/search?q=jagiellonii) | N/A |
+| 35 | [familiadzie](http://twitter.com/search?q=familiadzie) | N/A |
+| 36 | [Bunny](http://twitter.com/search?q=Bunny) | N/A |
+| 37 | [Tupolewa](http://twitter.com/search?q=Tupolewa) | N/A |
+| 38 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 39 | [Kaczyńskich](http://twitter.com/search?q=Kaczy%c5%84skich) | N/A |
+| 40 | [Baśka](http://twitter.com/search?q=Ba%c5%9bka) | N/A |
+| 41 | [Nene](http://twitter.com/search?q=Nene) | N/A |
+| 42 | [Świętach](http://twitter.com/search?q=%c5%9awi%c4%99tach) | N/A |
+| 43 | [Wesołych](http://twitter.com/search?q=Weso%c5%82ych) | N/A |
+| 44 | [Antek](http://twitter.com/search?q=Antek) | N/A |
+| 45 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
+| 46 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 47 | [Francja](http://twitter.com/search?q=Francja) | N/A |
+| 48 | [Radomiak](http://twitter.com/search?q=Radomiak) | N/A |
+| 49 | [Millera](http://twitter.com/search?q=Millera) | N/A |
+| 50 | [Ukrainie](http://twitter.com/search?q=Ukrainie) | N/A |
 
 
 

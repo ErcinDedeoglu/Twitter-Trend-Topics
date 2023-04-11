@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-11 07:17:02 UTC`
+📆 Last Updated: `2023-04-11 08:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Addison](http://twitter.com/search?q=Addison) | N/A |
-| 2 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 3 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 4 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 8 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 10 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 11 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 12 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 13 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 14 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 15 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 16 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 17 | [#Wordle661](http://twitter.com/search?q=%23Wordle661) | N/A |
-| 18 | [#サンリオキャラクター大賞](http://twitter.com/search?q=%23%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e5%a4%a7%e8%b3%9e) | N/A |
-| 19 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 20 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 21 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 22 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 23 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
-| 24 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
-| 25 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 26 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 27 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 28 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
-| 29 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 30 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 31 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
-| 32 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 33 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 34 | [STAY AWAY FROM HER](http://twitter.com/search?q=STAY+AWAY+FROM+HER) | N/A |
-| 35 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 36 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 37 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 38 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
-| 39 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 40 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 1 | [Faber](http://twitter.com/search?q=Faber) | N/A |
+| 2 | [Addison](http://twitter.com/search?q=Addison) | N/A |
+| 3 | [Johansson](http://twitter.com/search?q=Johansson) | N/A |
+| 4 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
+| 5 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 6 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 7 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 10 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 11 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 12 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 13 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 14 | [#Wordle661](http://twitter.com/search?q=%23Wordle661) | N/A |
+| 15 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
+| 16 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 17 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 18 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 19 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
+| 20 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 21 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 22 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 23 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 24 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 25 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 26 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 27 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 28 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 29 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 30 | [STAY AWAY FROM HER](http://twitter.com/search?q=STAY+AWAY+FROM+HER) | N/A |
+| 31 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 32 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
+| 33 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 34 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 35 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 36 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 37 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 38 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
+| 39 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 40 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
 | 41 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 42 | [Patrick Corbin](http://twitter.com/search?q=Patrick+Corbin) | N/A |
-| 43 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
-| 44 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 45 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 46 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 47 | [Jared McCann](http://twitter.com/search?q=Jared+McCann) | N/A |
-| 48 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 42 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 43 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 44 | [Gallen](http://twitter.com/search?q=Gallen) | N/A |
+| 45 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
+| 46 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 47 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
+| 48 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
 
 
 

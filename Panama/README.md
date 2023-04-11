@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-11 07:17:12 UTC`
+📆 Last Updated: `2023-04-11 08:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,11 +18,11 @@ This is top 50 for Panama
 | 1 | [Anati](http://twitter.com/search?q=Anati) | N/A |
 | 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 3 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
-| 4 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 5 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 6 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 7 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 8 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 4 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 5 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 6 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 7 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 8 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
 | 9 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
 | 10 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
 | 11 | [Australia](http://twitter.com/search?q=Australia) | N/A |
@@ -33,20 +33,20 @@ This is top 50 for Panama
 | 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 17 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 | 18 | [Tigo](http://twitter.com/search?q=Tigo) | N/A |
-| 19 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 20 | [Panameño](http://twitter.com/search?q=Paname%c3%b1o) | N/A |
+| 19 | [Panameño](http://twitter.com/search?q=Paname%c3%b1o) | N/A |
+| 20 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 21 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 23 | [Cero](http://twitter.com/search?q=Cero) | N/A |
 | 24 | [Fede](http://twitter.com/search?q=Fede) | N/A |
 | 25 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
 | 26 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
-| 27 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 28 | [Romulo](http://twitter.com/search?q=Romulo) | N/A |
-| 29 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 30 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 32 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 27 | [Romulo](http://twitter.com/search?q=Romulo) | N/A |
+| 28 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 29 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 31 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 32 | [Peach](http://twitter.com/search?q=Peach) | N/A |
 | 33 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
 | 34 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
 | 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for Panama
 | 44 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
 | 45 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
 | 46 | [#China](http://twitter.com/search?q=%23China) | N/A |
-| 47 | [Moca](http://twitter.com/search?q=Moca) | N/A |
+| 47 | [moca](http://twitter.com/search?q=moca) | N/A |
 | 48 | [Robo](http://twitter.com/search?q=Robo) | N/A |
 | 49 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 50 | [#cats](http://twitter.com/search?q=%23cats) | N/A |
