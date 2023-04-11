@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-11 13:19:31 UTC`
+📆 Last Updated: `2023-04-11 14:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,53 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Sonego](http://twitter.com/search?q=%23Sonego) | N/A |
-| 2 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 3 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 4 | [#Calenda](http://twitter.com/search?q=%23Calenda) | N/A |
-| 5 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
-| 6 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 7 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 8 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 9 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 11 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 12 | [Olivetti](http://twitter.com/search?q=Olivetti) | N/A |
-| 13 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 14 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
-| 15 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
-| 16 | [#terzopolo](http://twitter.com/search?q=%23terzopolo) | N/A |
-| 17 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
-| 18 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 19 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
-| 20 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 21 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 22 | [#Enea](http://twitter.com/search?q=%23Enea) | N/A |
-| 23 | [#RolexMonteCarloMasters](http://twitter.com/search?q=%23RolexMonteCarloMasters) | N/A |
-| 24 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 25 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
-| 26 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 27 | [#EzioGreggio](http://twitter.com/search?q=%23EzioGreggio) | N/A |
-| 28 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
-| 29 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 30 | [#Simeone](http://twitter.com/search?q=%23Simeone) | N/A |
-| 31 | [#paredes](http://twitter.com/search?q=%23paredes) | N/A |
-| 32 | [#DalaiLama](http://twitter.com/search?q=%23DalaiLama) | N/A |
-| 33 | [#vaccini](http://twitter.com/search?q=%23vaccini) | N/A |
-| 34 | [#Trevignano](http://twitter.com/search?q=%23Trevignano) | N/A |
-| 35 | [#assange](http://twitter.com/search?q=%23assange) | N/A |
-| 36 | [#etuttoinsieme](http://twitter.com/search?q=%23etuttoinsieme) | N/A |
-| 37 | [#NellaLontananza](http://twitter.com/search?q=%23NellaLontananza) | N/A |
-| 38 | [#pensioni](http://twitter.com/search?q=%23pensioni) | N/A |
-| 39 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 1 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 2 | [#Calenda](http://twitter.com/search?q=%23Calenda) | N/A |
+| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 4 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 5 | [#terzopolo](http://twitter.com/search?q=%23terzopolo) | N/A |
+| 6 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 7 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
+| 8 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 9 | [#Sonego](http://twitter.com/search?q=%23Sonego) | N/A |
+| 10 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 11 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 12 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 13 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
+| 14 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 15 | [Humbert](http://twitter.com/search?q=Humbert) | N/A |
+| 16 | [Olivetti](http://twitter.com/search?q=Olivetti) | N/A |
+| 17 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 18 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 19 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 20 | [CGIL](http://twitter.com/search?q=CGIL) | N/A |
+| 21 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
+| 24 | [Trevignano](http://twitter.com/search?q=Trevignano) | N/A |
+| 25 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 26 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
+| 27 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
+| 28 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 29 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 30 | [#Osimhen](http://twitter.com/search?q=%23Osimhen) | N/A |
+| 31 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
+| 32 | [#Enea](http://twitter.com/search?q=%23Enea) | N/A |
+| 33 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 34 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 35 | [#RolexMonteCarloMasters](http://twitter.com/search?q=%23RolexMonteCarloMasters) | N/A |
+| 36 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 37 | [#EzioGreggio](http://twitter.com/search?q=%23EzioGreggio) | N/A |
+| 38 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 39 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
+| 40 | [#Simeone](http://twitter.com/search?q=%23Simeone) | N/A |
+| 41 | [#DalaiLama](http://twitter.com/search?q=%23DalaiLama) | N/A |
+| 42 | [#vaccini](http://twitter.com/search?q=%23vaccini) | N/A |
+| 43 | [#Paredes](http://twitter.com/search?q=%23Paredes) | N/A |
+| 44 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 45 | [#Assange](http://twitter.com/search?q=%23Assange) | N/A |
+| 46 | [#NellaLontananza](http://twitter.com/search?q=%23NellaLontananza) | N/A |
+| 47 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
 
 
 

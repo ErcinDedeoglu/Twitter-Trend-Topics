@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-04-11 13:18:57 UTC`
+📆 Last Updated: `2023-04-11 14:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 2 | [TAEJUN ON SUCHWITA](http://twitter.com/search?q=TAEJUN+ON+SUCHWITA) | N/A |
-| 3 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 4 | [#TAEHYUN](http://twitter.com/search?q=%23TAEHYUN) | N/A |
-| 5 | [#OPPOxUCL](http://twitter.com/search?q=%23OPPOxUCL) | N/A |
-| 6 | [#Hexjuice](http://twitter.com/search?q=%23Hexjuice) | N/A |
-| 7 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 8 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
-| 9 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
-| 10 | [GOOD BOY GONE BED](http://twitter.com/search?q=GOOD+BOY+GONE+BED) | N/A |
-| 11 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 12 | [DOUBLE B](http://twitter.com/search?q=DOUBLE+B) | N/A |
-| 13 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 14 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 15 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 16 | [Anas](http://twitter.com/search?q=Anas) | N/A |
-| 17 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
-| 18 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
-| 19 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
-| 20 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 21 | [CHENLE FOR KNIGHT MAGAZINE](http://twitter.com/search?q=CHENLE+FOR+KNIGHT+MAGAZINE) | N/A |
-| 22 | [Cikeas](http://twitter.com/search?q=Cikeas) | N/A |
-| 23 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 24 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
-| 25 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
-| 26 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 27 | [CPNS](http://twitter.com/search?q=CPNS) | N/A |
-| 28 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 29 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
-| 30 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 31 | [#BibleJeffPetDay](http://twitter.com/search?q=%23BibleJeffPetDay) | N/A |
-| 32 | [#MarkLeexWKOREA](http://twitter.com/search?q=%23MarkLeexWKOREA) | N/A |
-| 33 | [#MarkLeexPoloRalphLauren](http://twitter.com/search?q=%23MarkLeexPoloRalphLauren) | N/A |
-| 34 | [#Welcome_Home_YoungK](http://twitter.com/search?q=%23Welcome_Home_YoungK) | N/A |
-| 35 | [#ร้อยฤดูหนาวMV](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b8%a4%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7MV) | N/A |
-| 36 | [#ugdforpss](http://twitter.com/search?q=%23ugdforpss) | N/A |
-| 37 | [#RENJUNxKnightMagazine](http://twitter.com/search?q=%23RENJUNxKnightMagazine) | N/A |
-| 38 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
-| 39 | [#SUGAxMarieClaireKorea](http://twitter.com/search?q=%23SUGAxMarieClaireKorea) | N/A |
-| 40 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 41 | [#MemeCoin](http://twitter.com/search?q=%23MemeCoin) | N/A |
+| 2 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
+| 3 | [#FallenMisfitLost_Photo](http://twitter.com/search?q=%23FallenMisfitLost_Photo) | N/A |
+| 4 | [#FML_D12](http://twitter.com/search?q=%23FML_D12) | N/A |
+| 5 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 6 | [#OPPOxUCL](http://twitter.com/search?q=%23OPPOxUCL) | N/A |
+| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 8 | [TAEJUN ON SUCHWITA](http://twitter.com/search?q=TAEJUN+ON+SUCHWITA) | N/A |
+| 9 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 10 | [#HexjuiceXExtraTimeIndo](http://twitter.com/search?q=%23HexjuiceXExtraTimeIndo) | N/A |
+| 11 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 12 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
+| 13 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
+| 14 | [GOOD BOY GONE BED](http://twitter.com/search?q=GOOD+BOY+GONE+BED) | N/A |
+| 15 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
+| 16 | [Double B](http://twitter.com/search?q=Double+B) | N/A |
+| 17 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 18 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 19 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 20 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 21 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
+| 22 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 23 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
+| 24 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 25 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
+| 26 | [Cikeas](http://twitter.com/search?q=Cikeas) | N/A |
+| 27 | [youngk](http://twitter.com/search?q=youngk) | N/A |
+| 28 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
+| 29 | [CPNS](http://twitter.com/search?q=CPNS) | N/A |
+| 30 | [Dokter](http://twitter.com/search?q=Dokter) | N/A |
+| 31 | [#UnitsMissBarcodeNa](http://twitter.com/search?q=%23UnitsMissBarcodeNa) | N/A |
+| 32 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
+| 33 | [#BibleJeffPetDay](http://twitter.com/search?q=%23BibleJeffPetDay) | N/A |
+| 34 | [#AnasUrbaningrum](http://twitter.com/search?q=%23AnasUrbaningrum) | N/A |
+| 35 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 36 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 37 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
+| 38 | [#SEHUN](http://twitter.com/search?q=%23SEHUN) | N/A |
+| 39 | [#MarkLeexWKOREA](http://twitter.com/search?q=%23MarkLeexWKOREA) | N/A |
+| 40 | [#MarkLeexPoloRalphLauren](http://twitter.com/search?q=%23MarkLeexPoloRalphLauren) | N/A |
+| 41 | [#ร้อยฤดูหนาวMV](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b8%a4%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7MV) | N/A |
+| 42 | [#UGDforPSS](http://twitter.com/search?q=%23UGDforPSS) | N/A |
+| 43 | [#PakaiMolis](http://twitter.com/search?q=%23PakaiMolis) | N/A |
+| 44 | [#zonauangᅠᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0%e1%85%a0) | N/A |
+| 45 | [#SUGAxMarieClaireKorea](http://twitter.com/search?q=%23SUGAxMarieClaireKorea) | N/A |
+| 46 | [#RENJUNxKnightMagazine](http://twitter.com/search?q=%23RENJUNxKnightMagazine) | N/A |
+| 47 | [#MemeCoin](http://twitter.com/search?q=%23MemeCoin) | N/A |
 
 
 

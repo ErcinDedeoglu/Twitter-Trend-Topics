@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-11 13:19:28 UTC`
+📆 Last Updated: `2023-04-11 14:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ATAV2](http://twitter.com/search?q=%23ATAV2) | N/A |
+| 1 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
 | 2 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 3 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 3 | [#ATAV2](http://twitter.com/search?q=%23ATAV2) | N/A |
 | 4 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 5 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 6 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 8 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 12 | [bianca acosta](http://twitter.com/search?q=bianca+acosta) | N/A |
-| 13 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 14 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 15 | [Día Mundial del Parkinson](http://twitter.com/search?q=D%c3%ada+Mundial+del+Parkinson) | N/A |
-| 16 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 17 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 18 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 19 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 20 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 21 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 22 | [MARCOS AL 9009](http://twitter.com/search?q=MARCOS+AL+9009) | N/A |
-| 23 | [Jefe de Gobierno](http://twitter.com/search?q=Jefe+de+Gobierno) | N/A |
-| 24 | [Bahía Blanca](http://twitter.com/search?q=Bah%c3%ada+Blanca) | N/A |
-| 25 | [Milton Casco](http://twitter.com/search?q=Milton+Casco) | N/A |
-| 26 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 27 | [Boleta Única](http://twitter.com/search?q=Boleta+%c3%9anica) | N/A |
-| 28 | [Kaleb Di Masi](http://twitter.com/search?q=Kaleb+Di+Masi) | N/A |
-| 29 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 30 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 31 | [Ducatenzeiler](http://twitter.com/search?q=Ducatenzeiler) | N/A |
+| 5 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 6 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
+| 7 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 8 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 9 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 10 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 12 | [BAFICI](http://twitter.com/search?q=BAFICI) | N/A |
+| 13 | [bianca acosta](http://twitter.com/search?q=bianca+acosta) | N/A |
+| 14 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 15 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 16 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 17 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 18 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
+| 21 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 22 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 23 | [Día Mundial del Parkinson](http://twitter.com/search?q=D%c3%ada+Mundial+del+Parkinson) | N/A |
+| 24 | [Kaleb Di Masi](http://twitter.com/search?q=Kaleb+Di+Masi) | N/A |
+| 25 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 26 | [Milton Casco](http://twitter.com/search?q=Milton+Casco) | N/A |
+| 27 | [1000ton](http://twitter.com/search?q=1000ton) | N/A |
+| 28 | [Jefe de Gobierno](http://twitter.com/search?q=Jefe+de+Gobierno) | N/A |
+| 29 | [Marcos al 9009](http://twitter.com/search?q=Marcos+al+9009) | N/A |
+| 30 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 31 | [Boleta Única](http://twitter.com/search?q=Boleta+%c3%9anica) | N/A |
 | 32 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 33 | [Silvana](http://twitter.com/search?q=Silvana) | N/A |
-| 34 | [Mila](http://twitter.com/search?q=Mila) | N/A |
-| 35 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
-| 36 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 37 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
-| 38 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
-| 39 | [BAFICI](http://twitter.com/search?q=BAFICI) | N/A |
-| 40 | [Enacom](http://twitter.com/search?q=Enacom) | N/A |
-| 41 | [juan gil navarro](http://twitter.com/search?q=juan+gil+navarro) | N/A |
-| 42 | [Marra](http://twitter.com/search?q=Marra) | N/A |
-| 43 | [Villa Soldati](http://twitter.com/search?q=Villa+Soldati) | N/A |
-| 44 | [rondon](http://twitter.com/search?q=rondon) | N/A |
-| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 46 | [Metropol](http://twitter.com/search?q=Metropol) | N/A |
-| 47 | [bernardo houssay](http://twitter.com/search?q=bernardo+houssay) | N/A |
-| 48 | [Wanda](http://twitter.com/search?q=Wanda) | N/A |
-| 49 | [Duka](http://twitter.com/search?q=Duka) | N/A |
-| 50 | [justina bustos](http://twitter.com/search?q=justina+bustos) | N/A |
+| 33 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 34 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
+| 35 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 36 | [Ducatenzeiler](http://twitter.com/search?q=Ducatenzeiler) | N/A |
+| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 38 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 40 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 41 | [Bahía Blanca](http://twitter.com/search?q=Bah%c3%ada+Blanca) | N/A |
+| 42 | [Silvana](http://twitter.com/search?q=Silvana) | N/A |
+| 43 | [Duka](http://twitter.com/search?q=Duka) | N/A |
+| 44 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
+| 45 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | N/A |
+| 46 | [Lucia](http://twitter.com/search?q=Lucia) | N/A |
+| 47 | [Marra](http://twitter.com/search?q=Marra) | N/A |
+| 48 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 49 | [Enacom](http://twitter.com/search?q=Enacom) | N/A |
+| 50 | [Rondon](http://twitter.com/search?q=Rondon) | N/A |
 
 
 

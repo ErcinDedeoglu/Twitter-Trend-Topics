@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-04-11 13:19:36 UTC`
+📆 Last Updated: `2023-04-11 14:19:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DoğrusuAkParti](http://twitter.com/search?q=%23Do%c4%9frusuAkParti) | N/A |
-| 2 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
-| 3 | [#TürkiyeYüzyılı](http://twitter.com/search?q=%23T%c3%bcrkiyeY%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 4 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 5 | [#CBprojeYalanMıydı](http://twitter.com/search?q=%23CBprojeYalanM%c4%b1yd%c4%b1) | N/A |
-| 6 | [10 GB](http://twitter.com/search?q=10+GB) | N/A |
-| 7 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
-| 8 | [#OylarABO5000Kısmiye](http://twitter.com/search?q=%23OylarABO5000K%c4%b1smiye) | N/A |
-| 9 | [Ağrı'da 4.3](http://twitter.com/search?q=A%c4%9fr%c4%b1%27da+4.3) | N/A |
-| 10 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 11 | [Kurban Bayramında](http://twitter.com/search?q=Kurban+Bayram%c4%b1nda) | N/A |
-| 12 | [Meb4İle ŞartsızTayin](http://twitter.com/search?q=Meb4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
-| 13 | [Ankara Spor Salonu](http://twitter.com/search?q=Ankara+Spor+Salonu) | N/A |
-| 14 | [Ankara'dayız](http://twitter.com/search?q=Ankara%27day%c4%b1z) | N/A |
-| 15 | [Kaymaz](http://twitter.com/search?q=Kaymaz) | N/A |
-| 16 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 17 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
-| 18 | [Mauro Icardi](http://twitter.com/search?q=Mauro+Icardi) | N/A |
-| 19 | [aday tanıtım toplantısı](http://twitter.com/search?q=aday+tan%c4%b1t%c4%b1m+toplant%c4%b1s%c4%b1) | N/A |
-| 20 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 21 | [Ayşenur Arslan](http://twitter.com/search?q=Ay%c5%9fenur+Arslan) | N/A |
-| 22 | [Sedat Polat](http://twitter.com/search?q=Sedat+Polat) | N/A |
-| 23 | [Ankara Arena](http://twitter.com/search?q=Ankara+Arena) | N/A |
-| 24 | [Doğru Adımlarla Yola Devam](http://twitter.com/search?q=Do%c4%9fru+Ad%c4%b1mlarla+Yola+Devam) | N/A |
-| 25 | [Süleyman Şah](http://twitter.com/search?q=S%c3%bcleyman+%c5%9eah) | N/A |
-| 26 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 27 | [Halit Tomakin](http://twitter.com/search?q=Halit+Tomakin) | N/A |
-| 28 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
-| 29 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 30 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
-| 31 | [Yoksun](http://twitter.com/search?q=Yoksun) | N/A |
-| 32 | [oyumsenin baykemal](http://twitter.com/search?q=oyumsenin+baykemal) | N/A |
-| 33 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 34 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
-| 35 | [Yaşasın Urfalılar](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Urfal%c4%b1lar) | N/A |
-| 36 | [Ordu'da](http://twitter.com/search?q=Ordu%27da) | N/A |
-| 37 | [Rümeysa](http://twitter.com/search?q=R%c3%bcmeysa) | N/A |
-| 38 | [Prof](http://twitter.com/search?q=Prof) | N/A |
-| 39 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 40 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
-| 41 | [Zonguldak](http://twitter.com/search?q=Zonguldak) | N/A |
-| 42 | [Ünal](http://twitter.com/search?q=%c3%9cnal) | N/A |
-| 43 | [ahmet nur çebi](http://twitter.com/search?q=ahmet+nur+%c3%a7ebi) | N/A |
-| 44 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 45 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 46 | [#Çanakkale](http://twitter.com/search?q=%23%c3%87anakkale) | N/A |
-| 47 | [#StajaÇözümMayısta](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmMay%c4%b1sta) | N/A |
-| 48 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 49 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 50 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 1 | [Naci Görüntü](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcnt%c3%bc) | N/A |
+| 2 | [#DoğrusuAkParti](http://twitter.com/search?q=%23Do%c4%9frusuAkParti) | N/A |
+| 3 | [10 GB](http://twitter.com/search?q=10+GB) | N/A |
+| 4 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
+| 5 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 6 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 7 | [Mülakatı](http://twitter.com/search?q=M%c3%bclakat%c4%b1) | N/A |
+| 8 | [#TürkiyeYüzyılı](http://twitter.com/search?q=%23T%c3%bcrkiyeY%c3%bczy%c4%b1l%c4%b1) | N/A |
+| 9 | [#CBprojeYalanMıydı](http://twitter.com/search?q=%23CBprojeYalanM%c4%b1yd%c4%b1) | N/A |
+| 10 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
+| 11 | [Evlenmek](http://twitter.com/search?q=Evlenmek) | N/A |
+| 12 | [Şimdiye](http://twitter.com/search?q=%c5%9eimdiye) | N/A |
+| 13 | [#kpss2023](http://twitter.com/search?q=%23kpss2023) | N/A |
+| 14 | [Müsvedde](http://twitter.com/search?q=M%c3%bcsvedde) | N/A |
+| 15 | [NisaBölükbaşı İbrahimSelime](http://twitter.com/search?q=NisaB%c3%b6l%c3%bckba%c5%9f%c4%b1+%c4%b0brahimSelime) | N/A |
+| 16 | [Kurban Bayramında](http://twitter.com/search?q=Kurban+Bayram%c4%b1nda) | N/A |
+| 17 | [Çanakkale](http://twitter.com/search?q=%c3%87anakkale) | N/A |
+| 18 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 19 | [Ağrı'da 4.3](http://twitter.com/search?q=A%c4%9fr%c4%b1%27da+4.3) | N/A |
+| 20 | [Profesör](http://twitter.com/search?q=Profes%c3%b6r) | N/A |
+| 21 | [Meb4İle ŞartsızTayin](http://twitter.com/search?q=Meb4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
+| 22 | [Genel Başkanımız](http://twitter.com/search?q=Genel+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 23 | [Mauro Icardi](http://twitter.com/search?q=Mauro+Icardi) | N/A |
+| 24 | [Ankara'dayız](http://twitter.com/search?q=Ankara%27day%c4%b1z) | N/A |
+| 25 | [Doğru Adımlarla Yola Devam](http://twitter.com/search?q=Do%c4%9fru+Ad%c4%b1mlarla+Yola+Devam) | N/A |
+| 26 | [Kaymaz](http://twitter.com/search?q=Kaymaz) | N/A |
+| 27 | [Aday Tanıtım Toplantısı](http://twitter.com/search?q=Aday+Tan%c4%b1t%c4%b1m+Toplant%c4%b1s%c4%b1) | N/A |
+| 28 | [Ankara Spor Salonu](http://twitter.com/search?q=Ankara+Spor+Salonu) | N/A |
+| 29 | [Ayşenur Arslan](http://twitter.com/search?q=Ay%c5%9fenur+Arslan) | N/A |
+| 30 | [Sedat Polat](http://twitter.com/search?q=Sedat+Polat) | N/A |
+| 31 | [Süleyman Şah](http://twitter.com/search?q=S%c3%bcleyman+%c5%9eah) | N/A |
+| 32 | [Ankara Arena](http://twitter.com/search?q=Ankara+Arena) | N/A |
+| 33 | [Gürsel](http://twitter.com/search?q=G%c3%bcrsel) | N/A |
+| 34 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 35 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 36 | [Halit Tomakin](http://twitter.com/search?q=Halit+Tomakin) | N/A |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [anayasa mahkemesi](http://twitter.com/search?q=anayasa+mahkemesi) | N/A |
+| 39 | [Yoksun](http://twitter.com/search?q=Yoksun) | N/A |
+| 40 | [Şampiyonlar Ligi](http://twitter.com/search?q=%c5%9eampiyonlar+Ligi) | N/A |
+| 41 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
+| 42 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 43 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
+| 44 | [Yeşil Sol Parti](http://twitter.com/search?q=Ye%c5%9fil+Sol+Parti) | N/A |
+| 45 | [Yaşasın Urfalılar](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Urfal%c4%b1lar) | N/A |
+| 46 | [Füzyon](http://twitter.com/search?q=F%c3%bczyon) | N/A |
+| 47 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 48 | [Rümeysa](http://twitter.com/search?q=R%c3%bcmeysa) | N/A |
+| 49 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 50 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
 
 
 

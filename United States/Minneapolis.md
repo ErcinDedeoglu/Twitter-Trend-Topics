@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-11 13:19:23 UTC`
+📆 Last Updated: `2023-04-11 14:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,42 @@ This is top 50 for [United States](</United States>)
 | 10 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
 | 11 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
 | 12 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 13 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
-| 14 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 15 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
-| 16 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
-| 17 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
-| 18 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 19 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 20 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 21 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
-| 22 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
-| 23 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 24 | [rick scott](http://twitter.com/search?q=rick+scott) | N/A |
-| 25 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
-| 26 | [Swarn](http://twitter.com/search?q=Swarn) | N/A |
-| 27 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 28 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 29 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 30 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 31 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 32 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
-| 33 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 34 | [Breitbart](http://twitter.com/search?q=Breitbart) | N/A |
-| 35 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 36 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 37 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 38 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 39 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
-| 40 | [Megan Rapinoe](http://twitter.com/search?q=Megan+Rapinoe) | N/A |
-| 41 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 42 | [Crossville](http://twitter.com/search?q=Crossville) | N/A |
-| 43 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 44 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 45 | [X Corp.](http://twitter.com/search?q=X+Corp.) | N/A |
-| 46 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 47 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 48 | [NFT NYC](http://twitter.com/search?q=NFT+NYC) | N/A |
+| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 14 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
+| 15 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 16 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 17 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 18 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
+| 19 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
+| 20 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 21 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
+| 22 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 23 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
+| 24 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 25 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 26 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 27 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
+| 28 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
+| 29 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 30 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
+| 31 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
+| 32 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 33 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
+| 34 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 35 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 36 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 37 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
+| 38 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 39 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
+| 40 | [Nia DaCosta](http://twitter.com/search?q=Nia+DaCosta) | N/A |
+| 41 | [Intergalactic](http://twitter.com/search?q=Intergalactic) | N/A |
+| 42 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 43 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 44 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 45 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 46 | [Nick Fury](http://twitter.com/search?q=Nick+Fury) | N/A |
+| 47 | [GAMEDAY](http://twitter.com/search?q=GAMEDAY) | N/A |
+| 48 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
 
 
 

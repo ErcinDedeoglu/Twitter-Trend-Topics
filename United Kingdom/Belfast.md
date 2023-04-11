@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-04-11 13:18:38 UTC`
+📆 Last Updated: `2023-04-11 14:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 2 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 1 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 2 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
 | 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 4 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
-| 5 | [#fancyamcdonalds](http://twitter.com/search?q=%23fancyamcdonalds) | N/A |
-| 6 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 7 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 8 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 9 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
-| 10 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
-| 13 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
-| 14 | [Rob Edwards](http://twitter.com/search?q=Rob+Edwards) | N/A |
-| 15 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
-| 16 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 17 | [GCHQ](http://twitter.com/search?q=GCHQ) | N/A |
-| 18 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 19 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
-| 20 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
-| 21 | [Robins](http://twitter.com/search?q=Robins) | N/A |
-| 22 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
-| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 24 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 25 | [Grays](http://twitter.com/search?q=Grays) | N/A |
-| 26 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
-| 27 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
-| 28 | [Afro](http://twitter.com/search?q=Afro) | N/A |
-| 29 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 30 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 31 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 32 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 33 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 34 | [Sevco](http://twitter.com/search?q=Sevco) | N/A |
-| 35 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 36 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
-| 37 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 38 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 39 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 40 | [#forgive](http://twitter.com/search?q=%23forgive) | N/A |
-| 41 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
-| 42 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 43 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 44 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 45 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 46 | [#ToriesOut278](http://twitter.com/search?q=%23ToriesOut278) | N/A |
-| 47 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 4 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 5 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 6 | [#fancyamcdonalds](http://twitter.com/search?q=%23fancyamcdonalds) | N/A |
+| 7 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 8 | [Ms Marvel](http://twitter.com/search?q=Ms+Marvel) | N/A |
+| 9 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 10 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 11 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 12 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 15 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 16 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
+| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 18 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
+| 19 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
+| 20 | [Rob Edwards](http://twitter.com/search?q=Rob+Edwards) | N/A |
+| 21 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 22 | [Electoral Commission](http://twitter.com/search?q=Electoral+Commission) | N/A |
+| 23 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
+| 26 | [GCHQ](http://twitter.com/search?q=GCHQ) | N/A |
+| 27 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 28 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 29 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 30 | [Robins](http://twitter.com/search?q=Robins) | N/A |
+| 31 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
+| 32 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 33 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
+| 34 | [Eastern European](http://twitter.com/search?q=Eastern+European) | N/A |
+| 35 | [Afro](http://twitter.com/search?q=Afro) | N/A |
+| 36 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 37 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 38 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
+| 39 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
+| 40 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 41 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 42 | [Julian Assange](http://twitter.com/search?q=Julian+Assange) | N/A |
+| 43 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 44 | [Sevco](http://twitter.com/search?q=Sevco) | N/A |
+| 45 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
+| 46 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
+| 47 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
 
 
 

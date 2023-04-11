@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-11 13:19:05 UTC`
+📆 Last Updated: `2023-04-11 14:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 2 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 3 | [GOOD BOY GONE BED](http://twitter.com/search?q=GOOD+BOY+GONE+BED) | N/A |
-| 4 | [#YEONJUN_TAEHYUN_on_SUCHWITA](http://twitter.com/search?q=%23YEONJUN_TAEHYUN_on_SUCHWITA) | N/A |
-| 5 | [TAEJUN ON SUCHWITA](http://twitter.com/search?q=TAEJUN+ON+SUCHWITA) | N/A |
-| 6 | [ROCKSTA PerformanceVideo](http://twitter.com/search?q=ROCKSTA+PerformanceVideo) | N/A |
-| 7 | [PRESAVE ALEXA SRH-REMIX](http://twitter.com/search?q=PRESAVE+ALEXA+SRH-REMIX) | N/A |
-| 8 | [#StayRightHereSummerRemix](http://twitter.com/search?q=%23StayRightHereSummerRemix) | N/A |
-| 9 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
-| 10 | [TWO CHECKMATE](http://twitter.com/search?q=TWO+CHECKMATE) | N/A |
-| 11 | [DOUBLE B](http://twitter.com/search?q=DOUBLE+B) | N/A |
-| 12 | [youngk](http://twitter.com/search?q=youngk) | N/A |
-| 13 | [Reading Your Heart](http://twitter.com/search?q=Reading+Your+Heart) | N/A |
-| 14 | [TataKD STAR MAGIC](http://twitter.com/search?q=TataKD+STAR+MAGIC) | N/A |
-| 15 | [Filipinas](http://twitter.com/search?q=Filipinas) | Filipinas is the Spanish name for the Philippines, a Southeast Asian country located in the western Pacific Ocean. The English translation of Filipinas is "Philippines". |
-| 16 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 17 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 18 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
-| 19 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 20 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 21 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 22 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 23 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 24 | [D3 KDLEXPETA COMEBACK](http://twitter.com/search?q=D3+KDLEXPETA+COMEBACK) | N/A |
-| 25 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 26 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 27 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 28 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 29 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 30 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
-| 31 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 32 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 33 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 34 | [#UrdujaPagkakasundo](http://twitter.com/search?q=%23UrdujaPagkakasundo) | N/A |
-| 35 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
-| 36 | [#DLSurpriseEncounter](http://twitter.com/search?q=%23DLSurpriseEncounter) | N/A |
-| 37 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
-| 38 | [#TuesdaysWithWINNERBrothers](http://twitter.com/search?q=%23TuesdaysWithWINNERBrothers) | N/A |
-| 39 | [#SummerMMFF2023](http://twitter.com/search?q=%23SummerMMFF2023) | N/A |
-| 40 | [#MMFFSummer2023](http://twitter.com/search?q=%23MMFFSummer2023) | N/A |
-| 41 | [#STELLJUN](http://twitter.com/search?q=%23STELLJUN) | N/A |
-| 42 | [#MusicalKD](http://twitter.com/search?q=%23MusicalKD) | N/A |
-| 43 | [#AmericanMetaverseAwards](http://twitter.com/search?q=%23AmericanMetaverseAwards) | N/A |
-| 44 | [#BGYOxHM](http://twitter.com/search?q=%23BGYOxHM) | N/A |
-| 45 | [#FirstEightWP](http://twitter.com/search?q=%23FirstEightWP) | N/A |
-| 46 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 47 | [#namorntaraaa](http://twitter.com/search?q=%23namorntaraaa) | N/A |
+| 1 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 2 | [#FallenMisfitLost_Photo](http://twitter.com/search?q=%23FallenMisfitLost_Photo) | N/A |
+| 3 | [#FML_D12](http://twitter.com/search?q=%23FML_D12) | N/A |
+| 4 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
+| 5 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 6 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 7 | [GOOD BOY GONE BED](http://twitter.com/search?q=GOOD+BOY+GONE+BED) | N/A |
+| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 9 | [PRESAVE ALEXA SRH-REMIX](http://twitter.com/search?q=PRESAVE+ALEXA+SRH-REMIX) | N/A |
+| 10 | [ROCKSTA PerformanceVideo](http://twitter.com/search?q=ROCKSTA+PerformanceVideo) | N/A |
+| 11 | [BB MOVING DANCEPRACTICE](http://twitter.com/search?q=BB+MOVING+DANCEPRACTICE) | N/A |
+| 12 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 13 | [Double B](http://twitter.com/search?q=Double+B) | N/A |
+| 14 | [reading your heart](http://twitter.com/search?q=reading+your+heart) | N/A |
+| 15 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 16 | [RURU MADRID](http://twitter.com/search?q=RURU+MADRID) | N/A |
+| 17 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 18 | [Filipinas](http://twitter.com/search?q=Filipinas) | Filipinas is the Spanish name for the Philippines, a Southeast Asian country located in the western Pacific Ocean. The English translation of Filipinas is "Philippines". |
+| 19 | [TataKD STAR MAGIC](http://twitter.com/search?q=TataKD+STAR+MAGIC) | N/A |
+| 20 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 21 | [youngk](http://twitter.com/search?q=youngk) | N/A |
+| 22 | [Here Comes The Groom](http://twitter.com/search?q=Here+Comes+The+Groom) | N/A |
+| 23 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 24 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 25 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 26 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 27 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 28 | [D3 KDLEXPETA COMEBACK](http://twitter.com/search?q=D3+KDLEXPETA+COMEBACK) | N/A |
+| 29 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 30 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
+| 31 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 32 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 33 | [Araneta](http://twitter.com/search?q=Araneta) | N/A |
+| 34 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
+| 35 | [#DLSurpriseEncounter](http://twitter.com/search?q=%23DLSurpriseEncounter) | N/A |
+| 36 | [#StayRightHereSummerRemix](http://twitter.com/search?q=%23StayRightHereSummerRemix) | N/A |
+| 37 | [#VXON_BreakingBadMoving](http://twitter.com/search?q=%23VXON_BreakingBadMoving) | N/A |
+| 38 | [#SummerMMFF2023](http://twitter.com/search?q=%23SummerMMFF2023) | N/A |
+| 39 | [#TWOCheckmate](http://twitter.com/search?q=%23TWOCheckmate) | N/A |
+| 40 | [#UnitsMissBarcodeNa](http://twitter.com/search?q=%23UnitsMissBarcodeNa) | N/A |
+| 41 | [#UrdujaPagkakasundo](http://twitter.com/search?q=%23UrdujaPagkakasundo) | N/A |
+| 42 | [#AboutUsButNotAboutUs](http://twitter.com/search?q=%23AboutUsButNotAboutUs) | N/A |
+| 43 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 44 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
+| 45 | [#TuesdaysWithWINNERBrothers](http://twitter.com/search?q=%23TuesdaysWithWINNERBrothers) | N/A |
+| 46 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 47 | [#MMFFSummer2023](http://twitter.com/search?q=%23MMFFSummer2023) | N/A |
 
 
 
