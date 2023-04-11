@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-11 08:17:02 UTC`
+📆 Last Updated: `2023-04-11 09:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,20 +18,20 @@ This is top 50 for [Peru](</Peru>)
 | 1 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
 | 2 | [Richard Acuña](http://twitter.com/search?q=Richard+Acu%c3%b1a) | N/A |
 | 3 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
-| 6 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 7 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 4 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
+| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 6 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
+| 7 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 8 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 9 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
-| 10 | [Katy Ugarte](http://twitter.com/search?q=Katy+Ugarte) | N/A |
-| 11 | [Ampay](http://twitter.com/search?q=Ampay) | N/A |
+| 10 | [katy ugarte](http://twitter.com/search?q=katy+ugarte) | N/A |
+| 11 | [ampay](http://twitter.com/search?q=ampay) | N/A |
 | 12 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 13 | [Camila Ganoza](http://twitter.com/search?q=Camila+Ganoza) | N/A |
+| 13 | [camila ganoza](http://twitter.com/search?q=camila+ganoza) | N/A |
 | 14 | [osores](http://twitter.com/search?q=osores) | N/A |
 | 15 | [Butters](http://twitter.com/search?q=Butters) | N/A |
-| 16 | [#BetoASaber](http://twitter.com/search?q=%23BetoASaber) | N/A |
-| 17 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
+| 16 | [#betoasaber](http://twitter.com/search?q=%23betoasaber) | N/A |
+| 17 | [Jeon Jungkook](http://twitter.com/search?q=Jeon+Jungkook) | N/A |
 | 18 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 19 | [jacintas](http://twitter.com/search?q=jacintas) | N/A |
 | 20 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
@@ -41,18 +41,18 @@ This is top 50 for [Peru](</Peru>)
 | 24 | [#ualangulo](http://twitter.com/search?q=%23ualangulo) | N/A |
 | 25 | [chorri](http://twitter.com/search?q=chorri) | N/A |
 | 26 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 27 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
+| 27 | [betssy chávez](http://twitter.com/search?q=betssy+ch%c3%a1vez) | N/A |
 | 28 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 29 | [Sheput](http://twitter.com/search?q=Sheput) | N/A |
 | 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 31 | [grin](http://twitter.com/search?q=grin) | N/A |
+| 31 | [Grin](http://twitter.com/search?q=Grin) | N/A |
 | 32 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 | 33 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 34 | [Comisión de Ética](http://twitter.com/search?q=Comisi%c3%b3n+de+%c3%89tica) | N/A |
-| 35 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 36 | [Corzo](http://twitter.com/search?q=Corzo) | N/A |
-| 37 | [Polo](http://twitter.com/search?q=Polo) | N/A |
-| 38 | [maritza sánchez](http://twitter.com/search?q=maritza+s%c3%a1nchez) | N/A |
+| 34 | [comisión de ética](http://twitter.com/search?q=comisi%c3%b3n+de+%c3%a9tica) | N/A |
+| 35 | [Corzo](http://twitter.com/search?q=Corzo) | N/A |
+| 36 | [Polo](http://twitter.com/search?q=Polo) | N/A |
+| 37 | [maritza sánchez](http://twitter.com/search?q=maritza+s%c3%a1nchez) | N/A |
+| 38 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
 | 39 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 40 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 41 | [GRACIAS DSMP](http://twitter.com/search?q=GRACIAS+DSMP) | N/A |
@@ -62,8 +62,8 @@ This is top 50 for [Peru](</Peru>)
 | 45 | [Renovación Medieval](http://twitter.com/search?q=Renovaci%c3%b3n+Medieval) | N/A |
 | 46 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
 | 47 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 48 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 49 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 48 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 49 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
 | 50 | [Maritere](http://twitter.com/search?q=Maritere) | N/A |
 
 

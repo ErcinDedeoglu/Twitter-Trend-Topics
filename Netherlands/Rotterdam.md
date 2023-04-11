@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-11 08:17:10 UTC`
+📆 Last Updated: `2023-04-11 09:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 2 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
-| 3 | [#reflectie](http://twitter.com/search?q=%23reflectie) | N/A |
-| 4 | [#spiegeling](http://twitter.com/search?q=%23spiegeling) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [fijne 2e](http://twitter.com/search?q=fijne+2e) | N/A |
-| 7 | [#onweer](http://twitter.com/search?q=%23onweer) | N/A |
-| 8 | [#Manc](http://twitter.com/search?q=%23Manc) | N/A |
-| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 1 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
+| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [fijne 2e](http://twitter.com/search?q=fijne+2e) | N/A |
+| 5 | [#spiegeling](http://twitter.com/search?q=%23spiegeling) | N/A |
+| 6 | [#onweer](http://twitter.com/search?q=%23onweer) | N/A |
+| 7 | [#reflectie](http://twitter.com/search?q=%23reflectie) | N/A |
+| 8 | [#futurecup](http://twitter.com/search?q=%23futurecup) | N/A |
+| 9 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
 | 10 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
 | 11 | [Vragen](http://twitter.com/search?q=Vragen) | N/A |
 | 12 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
-| 13 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 14 | [Laurens Buijs](http://twitter.com/search?q=Laurens+Buijs) | N/A |
-| 15 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 16 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Etten-Leur](http://twitter.com/search?q=Etten-Leur) | N/A |
-| 19 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 20 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 21 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
-| 22 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
-| 23 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 24 | [Joost Prinsen](http://twitter.com/search?q=Joost+Prinsen) | N/A |
-| 25 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 26 | [Meilandjes](http://twitter.com/search?q=Meilandjes) | N/A |
-| 27 | [trijntje](http://twitter.com/search?q=trijntje) | N/A |
-| 28 | [Paasmaandag](http://twitter.com/search?q=Paasmaandag) | N/A |
-| 29 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 15 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 16 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 17 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 18 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 19 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 20 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 21 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 22 | [Etten-Leur](http://twitter.com/search?q=Etten-Leur) | N/A |
+| 23 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 24 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 25 | [Joost Prinsen](http://twitter.com/search?q=Joost+Prinsen) | N/A |
+| 26 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 27 | [Sven Mislintat](http://twitter.com/search?q=Sven+Mislintat) | N/A |
+| 28 | [Meilandjes](http://twitter.com/search?q=Meilandjes) | N/A |
+| 29 | [trijntje](http://twitter.com/search?q=trijntje) | N/A |
 | 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [Hoog](http://twitter.com/search?q=Hoog) | N/A |
-| 32 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 33 | [Dora](http://twitter.com/search?q=Dora) | N/A |
-| 34 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
-| 35 | [Teigetje](http://twitter.com/search?q=Teigetje) | N/A |
-| 36 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
-| 37 | [nordsjaelland](http://twitter.com/search?q=nordsjaelland) | N/A |
-| 38 | [Andries](http://twitter.com/search?q=Andries) | N/A |
-| 39 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
-| 40 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 41 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 42 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 43 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
-| 44 | [Ciska](http://twitter.com/search?q=Ciska) | N/A |
-| 45 | [Geert Mak](http://twitter.com/search?q=Geert+Mak) | N/A |
-| 46 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
-| 47 | [Ninefornews](http://twitter.com/search?q=Ninefornews) | N/A |
-| 48 | [Dinsdag](http://twitter.com/search?q=Dinsdag) | N/A |
-| 49 | [Knorretje](http://twitter.com/search?q=Knorretje) | N/A |
-| 50 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 31 | [Paasmaandag](http://twitter.com/search?q=Paasmaandag) | N/A |
+| 32 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
+| 33 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
+| 34 | [Dinsdag](http://twitter.com/search?q=Dinsdag) | N/A |
+| 35 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 36 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 37 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
+| 38 | [Teigetje](http://twitter.com/search?q=Teigetje) | N/A |
+| 39 | [nordsjaelland](http://twitter.com/search?q=nordsjaelland) | N/A |
+| 40 | [Ciska](http://twitter.com/search?q=Ciska) | N/A |
+| 41 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 42 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 43 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
+| 44 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 45 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
+| 46 | [Konijn](http://twitter.com/search?q=Konijn) | N/A |
+| 47 | [Dora](http://twitter.com/search?q=Dora) | N/A |
+| 48 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
+| 49 | [Ninefornews](http://twitter.com/search?q=Ninefornews) | N/A |
+| 50 | [Zeg Nee](http://twitter.com/search?q=Zeg+Nee) | N/A |
 
 
 

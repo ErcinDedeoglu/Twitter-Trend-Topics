@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-04-11 08:17:12 UTC`
+📆 Last Updated: `2023-04-11 09:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,42 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 1 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
 | 2 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 4 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
-| 5 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 6 | [#DiaMundialDelParkinson](http://twitter.com/search?q=%23DiaMundialDelParkinson) | N/A |
-| 7 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 10 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 11 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 12 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 13 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 14 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 15 | [460 X](http://twitter.com/search?q=460+X) | N/A |
-| 16 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 17 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 18 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 19 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 20 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 21 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 22 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 23 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 24 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
-| 25 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 26 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
-| 27 | [Jn 20](http://twitter.com/search?q=Jn+20) | N/A |
-| 28 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 29 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
-| 30 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 31 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 32 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
-| 33 | [Guillem Agulló](http://twitter.com/search?q=Guillem+Agull%c3%b3) | N/A |
-| 34 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
-| 35 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 36 | [Andrés Suárez](http://twitter.com/search?q=Andr%c3%a9s+Su%c3%a1rez) | N/A |
-| 37 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 38 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 39 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 40 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 41 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 42 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 43 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 44 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 45 | [jartan](http://twitter.com/search?q=jartan) | N/A |
-| 46 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 47 | [Taty Castellanos](http://twitter.com/search?q=Taty+Castellanos) | N/A |
-| 48 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
-| 49 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
+| 3 | [#EstrategiasAdvanceWars](http://twitter.com/search?q=%23EstrategiasAdvanceWars) | N/A |
+| 4 | [#DiaMundialDelParkinson](http://twitter.com/search?q=%23DiaMundialDelParkinson) | N/A |
+| 5 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 6 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 7 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 8 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 10 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 11 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
+| 12 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 13 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 14 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 15 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
+| 16 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
+| 17 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 18 | [Martes 11](http://twitter.com/search?q=Martes+11) | N/A |
+| 19 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 20 | [Sáhara](http://twitter.com/search?q=S%c3%a1hara) | N/A |
+| 21 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 22 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 23 | [#BandoDeLaHuerta](http://twitter.com/search?q=%23BandoDeLaHuerta) | N/A |
+| 24 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 25 | [#Renta2022](http://twitter.com/search?q=%23Renta2022) | N/A |
+| 26 | [#DameMiTiempo](http://twitter.com/search?q=%23DameMiTiempo) | N/A |
+| 27 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 28 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 29 | [#CrisPorta11A](http://twitter.com/search?q=%23CrisPorta11A) | N/A |
+| 30 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 31 | [#APOYOROCIO11A](http://twitter.com/search?q=%23APOYOROCIO11A) | N/A |
+| 32 | [#YoMeRebelo11A](http://twitter.com/search?q=%23YoMeRebelo11A) | N/A |
+| 33 | [#formación](http://twitter.com/search?q=%23formaci%c3%b3n) | N/A |
+| 34 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 35 | [#empresas](http://twitter.com/search?q=%23empresas) | N/A |
+| 36 | [#ciberseguridad](http://twitter.com/search?q=%23ciberseguridad) | N/A |
 
 
 

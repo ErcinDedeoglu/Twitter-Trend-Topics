@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-04-11 08:17:07 UTC`
+📆 Last Updated: `2023-04-11 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,49 @@ This is top 50 for [France](</France>)
 | 1 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
 | 2 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
 | 3 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
-| 4 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
-| 5 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 6 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 4 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 5 | [#MorningDeDifool](http://twitter.com/search?q=%23MorningDeDifool) | N/A |
+| 6 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
 | 7 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
 | 8 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
-| 9 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
-| 10 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 11 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
-| 12 | [Liga NOS](http://twitter.com/search?q=Liga+NOS) | N/A |
-| 13 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 9 | [Nordi Mukiele](http://twitter.com/search?q=Nordi+Mukiele) | N/A |
+| 10 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
+| 11 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
+| 12 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
+| 13 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
 | 14 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 15 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
-| 16 | [Diaprer](http://twitter.com/search?q=Diaprer) | N/A |
-| 17 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 18 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 19 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
-| 20 | [Bonjour Guillaume](http://twitter.com/search?q=Bonjour+Guillaume) | N/A |
+| 15 | [Liga NOS](http://twitter.com/search?q=Liga+NOS) | N/A |
+| 16 | [PSG Bayern](http://twitter.com/search?q=PSG+Bayern) | N/A |
+| 17 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
+| 18 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
+| 19 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 20 | [Jacques Prévert](http://twitter.com/search?q=Jacques+Pr%c3%a9vert) | N/A |
 | 21 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 22 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 23 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 24 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 25 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
-| 26 | [Foix](http://twitter.com/search?q=Foix) | N/A |
-| 27 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
-| 28 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 22 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
+| 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 24 | [Foix](http://twitter.com/search?q=Foix) | N/A |
+| 25 | [Adrien Quatennens](http://twitter.com/search?q=Adrien+Quatennens) | N/A |
+| 26 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
+| 27 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
+| 28 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
 | 29 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 30 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 30 | [Renato Sanches](http://twitter.com/search?q=Renato+Sanches) | N/A |
 | 31 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 32 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 33 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 34 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
-| 35 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 36 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 37 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 38 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 39 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 40 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 41 | [Vitale](http://twitter.com/search?q=Vitale) | N/A |
-| 42 | [Méditerranée](http://twitter.com/search?q=M%c3%a9diterran%c3%a9e) | N/A |
+| 32 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 33 | [Marchais](http://twitter.com/search?q=Marchais) | N/A |
+| 34 | [Lorient](http://twitter.com/search?q=Lorient) | N/A |
+| 35 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
+| 36 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 37 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 38 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 39 | [Vitale](http://twitter.com/search?q=Vitale) | N/A |
+| 40 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
+| 41 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 42 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
 | 43 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 44 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 45 | [Balti](http://twitter.com/search?q=Balti) | N/A |
-| 46 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 44 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 45 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 46 | [Balti](http://twitter.com/search?q=Balti) | N/A |
 | 47 | [Jefferson](http://twitter.com/search?q=Jefferson) | Jefferson is a surname of English origin. It is derived from the personal name Jeffrey, which is derived from the Old French name Jefroi, meaning "God's peace". |
 | 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-04-11 08:16:55 UTC`
+📆 Last Updated: `2023-04-11 09:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
-| 2 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
-| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 4 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 5 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 6 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 7 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 8 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 9 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 13 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
-| 14 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 15 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 16 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 17 | [john bostock](http://twitter.com/search?q=john+bostock) | N/A |
-| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 19 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 20 | [Bank Holiday Monday](http://twitter.com/search?q=Bank+Holiday+Monday) | N/A |
-| 21 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 22 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 23 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 24 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 25 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Andy Robertson](http://twitter.com/search?q=Andy+Robertson) | N/A |
-| 28 | [Deano](http://twitter.com/search?q=Deano) | N/A |
-| 29 | [Gosport](http://twitter.com/search?q=Gosport) | N/A |
-| 30 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
-| 31 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 32 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 33 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 34 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
-| 35 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 36 | [Rapinoe](http://twitter.com/search?q=Rapinoe) | N/A |
-| 37 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 38 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 39 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
-| 40 | [Barbs](http://twitter.com/search?q=Barbs) | N/A |
-| 41 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 43 | [Stam](http://twitter.com/search?q=Stam) | N/A |
-| 44 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
-| 45 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 46 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 47 | [Afro](http://twitter.com/search?q=Afro) | N/A |
-| 48 | [Chip](http://twitter.com/search?q=Chip) | N/A |
-| 49 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 1 | [#Solidarity](http://twitter.com/search?q=%23Solidarity) | N/A |
+| 2 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 3 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
+| 4 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 5 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
+| 6 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
+| 7 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 8 | [#TemptingFortune](http://twitter.com/search?q=%23TemptingFortune) | N/A |
+| 9 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 10 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
+| 11 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
+| 12 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
+| 13 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 14 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
+| 15 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
+| 16 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 17 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 18 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 19 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 20 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 21 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 22 | [Chip](http://twitter.com/search?q=Chip) | N/A |
+| 23 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 24 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 25 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 26 | [Prince Andrew](http://twitter.com/search?q=Prince+Andrew) | N/A |
+| 27 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 28 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 29 | [Deano](http://twitter.com/search?q=Deano) | N/A |
+| 30 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 31 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
+| 32 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 33 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 34 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 35 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 36 | [#ASongOrMovieForFree](http://twitter.com/search?q=%23ASongOrMovieForFree) | N/A |
+| 37 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 38 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
+| 39 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
+| 40 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 41 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 42 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 43 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 44 | [#wings](http://twitter.com/search?q=%23wings) | N/A |
+| 45 | [#ToriesOut278](http://twitter.com/search?q=%23ToriesOut278) | N/A |
+| 46 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 47 | [#gmsf](http://twitter.com/search?q=%23gmsf) | N/A |
+| 48 | [#KayBurley](http://twitter.com/search?q=%23KayBurley) | N/A |
 
 
 

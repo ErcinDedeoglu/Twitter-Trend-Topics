@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-11 08:17:43 UTC`
+📆 Last Updated: `2023-04-11 09:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for Denmark
 | 2 | [#fcnbif](http://twitter.com/search?q=%23fcnbif) | N/A |
 | 3 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 4 | [Randers](http://twitter.com/search?q=Randers) | N/A |
-| 5 | [#aabob](http://twitter.com/search?q=%23aabob) | N/A |
-| 6 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 7 | [Wass](http://twitter.com/search?q=Wass) | N/A |
+| 5 | [Wass](http://twitter.com/search?q=Wass) | N/A |
+| 6 | [#aabob](http://twitter.com/search?q=%23aabob) | N/A |
+| 7 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
 | 8 | [theo sander](http://twitter.com/search?q=theo+sander) | N/A |
 | 9 | [Uber](http://twitter.com/search?q=Uber) | N/A |
 | 10 | [Farum](http://twitter.com/search?q=Farum) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Denmark
 | 30 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
 | 31 | [Norge](http://twitter.com/search?q=Norge) | N/A |
 | 32 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
-| 33 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 34 | [Husk](http://twitter.com/search?q=Husk) | N/A |
-| 35 | [bestemt](http://twitter.com/search?q=bestemt) | N/A |
+| 33 | [Copenhagen](http://twitter.com/search?q=Copenhagen) | N/A |
+| 34 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 35 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 | 36 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
-| 37 | [torben](http://twitter.com/search?q=torben) | N/A |
-| 38 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
-| 39 | [Korrekt](http://twitter.com/search?q=Korrekt) | N/A |
-| 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 37 | [Mads](http://twitter.com/search?q=Mads) | N/A |
+| 38 | [bestemt](http://twitter.com/search?q=bestemt) | N/A |
+| 39 | [Torben](http://twitter.com/search?q=Torben) | N/A |
+| 40 | [Korrekt](http://twitter.com/search?q=Korrekt) | N/A |
 | 41 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 42 | [Sikke](http://twitter.com/search?q=Sikke) | N/A |
 | 43 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 44 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
-| 47 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 48 | [Mette](http://twitter.com/search?q=Mette) | N/A |
-| 49 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
-| 50 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
+| 46 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 47 | [West](http://twitter.com/search?q=West) | N/A |
+| 48 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 50 | [Aalborg](http://twitter.com/search?q=Aalborg) | N/A |
 
 
 

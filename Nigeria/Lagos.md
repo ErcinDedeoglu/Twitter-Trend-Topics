@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-04-11 08:17:22 UTC`
+📆 Last Updated: `2023-04-11 09:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Don Baba](http://twitter.com/search?q=Don+Baba) | N/A |
-| 2 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 3 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 1 | [phyno](http://twitter.com/search?q=phyno) | N/A |
+| 2 | [Don Baba](http://twitter.com/search?q=Don+Baba) | N/A |
+| 3 | [lil kesh](http://twitter.com/search?q=lil+kesh) | N/A |
 | 4 | [#AVRAlteAlbumRelease](http://twitter.com/search?q=%23AVRAlteAlbumRelease) | N/A |
-| 5 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 6 | [Uberfacts](http://twitter.com/search?q=Uberfacts) | N/A |
-| 7 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
-| 8 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
-| 9 | [The Word of the Lord](http://twitter.com/search?q=The+Word+of+the+Lord) | N/A |
-| 10 | [#PaidInFullWithLove](http://twitter.com/search?q=%23PaidInFullWithLove) | N/A |
-| 11 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
-| 12 | [#TinubuTheDrugDealer](http://twitter.com/search?q=%23TinubuTheDrugDealer) | N/A |
-| 13 | [What God](http://twitter.com/search?q=What+God) | N/A |
-| 14 | [#SamsungGalaxyS23Series](http://twitter.com/search?q=%23SamsungGalaxyS23Series) | N/A |
-| 15 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 16 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
-| 17 | [$460,000 to the US](http://twitter.com/search?q=%24460%2c000+to+the+US) | N/A |
-| 18 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 19 | [Femi Adesina](http://twitter.com/search?q=Femi+Adesina) | N/A |
-| 20 | [Toyin Ijakumo](http://twitter.com/search?q=Toyin+Ijakumo) | N/A |
-| 21 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 22 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
-| 23 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 24 | [WOO BRANDS FOR KANAGA JNR](http://twitter.com/search?q=WOO+BRANDS+FOR+KANAGA+JNR) | N/A |
-| 25 | [My Obidients](http://twitter.com/search?q=My+Obidients) | N/A |
-| 26 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
-| 27 | [IT CAME TO PASS](http://twitter.com/search?q=IT+CAME+TO+PASS) | N/A |
-| 28 | [KANAGA JNR X FILMONE](http://twitter.com/search?q=KANAGA+JNR+X+FILMONE) | N/A |
-| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 30 | [The Don](http://twitter.com/search?q=The+Don) | N/A |
-| 31 | [Sanwo-Olu](http://twitter.com/search?q=Sanwo-Olu) | N/A |
-| 32 | [WAEC](http://twitter.com/search?q=WAEC) | N/A |
-| 33 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
-| 34 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 35 | [Mixlr](http://twitter.com/search?q=Mixlr) | N/A |
-| 36 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 37 | [authentic yvonne](http://twitter.com/search?q=authentic+yvonne) | N/A |
-| 38 | [Big Don](http://twitter.com/search?q=Big+Don) | N/A |
-| 39 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
-| 40 | [Jet Li](http://twitter.com/search?q=Jet+Li) | N/A |
-| 41 | [Dropshipping Guy](http://twitter.com/search?q=Dropshipping+Guy) | N/A |
-| 42 | [Rusticated](http://twitter.com/search?q=Rusticated) | N/A |
-| 43 | [my love for bella](http://twitter.com/search?q=my+love+for+bella) | N/A |
-| 44 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
-| 45 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 46 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 47 | [KANAGA JNR X KFORCE](http://twitter.com/search?q=KANAGA+JNR+X+KFORCE) | N/A |
-| 48 | [Pa Adebanjo](http://twitter.com/search?q=Pa+Adebanjo) | N/A |
-| 49 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 50 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 5 | [Local](http://twitter.com/search?q=Local) | N/A |
+| 6 | [Ladi](http://twitter.com/search?q=Ladi) | N/A |
+| 7 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 8 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 9 | [Uberfacts](http://twitter.com/search?q=Uberfacts) | N/A |
+| 10 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
+| 11 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 12 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
+| 13 | [#PaidInFullWithLove](http://twitter.com/search?q=%23PaidInFullWithLove) | N/A |
+| 14 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
+| 15 | [#SamsungGalaxyS23Series](http://twitter.com/search?q=%23SamsungGalaxyS23Series) | N/A |
+| 16 | [Reminisce](http://twitter.com/search?q=Reminisce) | N/A |
+| 17 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 18 | [MEMORIES WITH YVONNE](http://twitter.com/search?q=MEMORIES+WITH+YVONNE) | N/A |
+| 19 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
+| 20 | [The Word of the Lord](http://twitter.com/search?q=The+Word+of+the+Lord) | N/A |
+| 21 | [What God](http://twitter.com/search?q=What+God) | N/A |
+| 22 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [$460,000 to the US](http://twitter.com/search?q=%24460%2c000+to+the+US) | N/A |
+| 25 | [Femi Adesina](http://twitter.com/search?q=Femi+Adesina) | N/A |
+| 26 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 27 | [Reggae](http://twitter.com/search?q=Reggae) | N/A |
+| 28 | [IT CAME TO PASS](http://twitter.com/search?q=IT+CAME+TO+PASS) | N/A |
+| 29 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
+| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 31 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 32 | [Falz](http://twitter.com/search?q=Falz) | N/A |
+| 33 | [Jet Li](http://twitter.com/search?q=Jet+Li) | N/A |
+| 34 | [My Obidients](http://twitter.com/search?q=My+Obidients) | N/A |
+| 35 | [KANAGA JNR X FILMONE](http://twitter.com/search?q=KANAGA+JNR+X+FILMONE) | N/A |
+| 36 | [PUBG](http://twitter.com/search?q=PUBG) | N/A |
+| 37 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 38 | [Sanwo-Olu](http://twitter.com/search?q=Sanwo-Olu) | N/A |
+| 39 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 40 | [Wes Brown](http://twitter.com/search?q=Wes+Brown) | N/A |
+| 41 | [authentic yvonne](http://twitter.com/search?q=authentic+yvonne) | N/A |
+| 42 | [Toyin Ijakumo](http://twitter.com/search?q=Toyin+Ijakumo) | N/A |
+| 43 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 44 | [WOO BRANDS FOR KANAGA JNR](http://twitter.com/search?q=WOO+BRANDS+FOR+KANAGA+JNR) | N/A |
+| 45 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
+| 46 | [Rusticated](http://twitter.com/search?q=Rusticated) | N/A |
+| 47 | [Dropshipping Guy](http://twitter.com/search?q=Dropshipping+Guy) | N/A |
+| 48 | [Gangs of Lagos](http://twitter.com/search?q=Gangs+of+Lagos) | N/A |
+| 49 | [my love for bella](http://twitter.com/search?q=my+love+for+bella) | N/A |
+| 50 | [YVONNE GODSWILL](http://twitter.com/search?q=YVONNE+GODSWILL) | N/A |
 
 
 

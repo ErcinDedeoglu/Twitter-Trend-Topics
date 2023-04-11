@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-11 08:17:47 UTC`
+📆 Last Updated: `2023-04-11 09:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,30 +38,30 @@ This is top 50 for Panama
 | 21 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 23 | [Cero](http://twitter.com/search?q=Cero) | N/A |
-| 24 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 25 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 26 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
-| 27 | [Romulo](http://twitter.com/search?q=Romulo) | N/A |
-| 28 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 29 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 32 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 33 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
-| 34 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 35 | [Petro](http://twitter.com/search?q=Petro) | N/A |
-| 36 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 37 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 38 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 39 | [aguadulce](http://twitter.com/search?q=aguadulce) | N/A |
-| 40 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 41 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 42 | [La Prensa](http://twitter.com/search?q=La+Prensa) | N/A |
-| 43 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
-| 44 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
+| 24 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 25 | [Fentanilo](http://twitter.com/search?q=Fentanilo) | N/A |
+| 26 | [romulo](http://twitter.com/search?q=romulo) | N/A |
+| 27 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 28 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 29 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 30 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 31 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 32 | [don samy](http://twitter.com/search?q=don+samy) | N/A |
+| 33 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 34 | [Petro](http://twitter.com/search?q=Petro) | N/A |
+| 35 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
+| 36 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
+| 37 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 38 | [Aguadulce](http://twitter.com/search?q=Aguadulce) | N/A |
+| 39 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 40 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 41 | [La Prensa](http://twitter.com/search?q=La+Prensa) | N/A |
+| 42 | [melfi nominado x heat](http://twitter.com/search?q=melfi+nominado+x+heat) | N/A |
+| 43 | [Nombe](http://twitter.com/search?q=Nombe) | N/A |
+| 44 | [#Figaroabrego](http://twitter.com/search?q=%23Figaroabrego) | N/A |
 | 45 | [Resucitado](http://twitter.com/search?q=Resucitado) | N/A |
 | 46 | [#China](http://twitter.com/search?q=%23China) | N/A |
-| 47 | [moca](http://twitter.com/search?q=moca) | N/A |
+| 47 | [Moca](http://twitter.com/search?q=Moca) | N/A |
 | 48 | [Robo](http://twitter.com/search?q=Robo) | N/A |
 | 49 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 50 | [#cats](http://twitter.com/search?q=%23cats) | N/A |

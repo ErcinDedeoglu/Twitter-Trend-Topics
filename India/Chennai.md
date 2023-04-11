@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-11 08:17:31 UTC`
+📆 Last Updated: `2023-04-11 09:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#PhotoThaakku](http://twitter.com/search?q=%23PhotoThaakku) | N/A |
 | 2 | [#Ayothi](http://twitter.com/search?q=%23Ayothi) | N/A |
-| 3 | [#JanNayakAshokGehlot](http://twitter.com/search?q=%23JanNayakAshokGehlot) | N/A |
-| 4 | [#VivoT2](http://twitter.com/search?q=%23VivoT2) | N/A |
+| 3 | [#Rudhran](http://twitter.com/search?q=%23Rudhran) | N/A |
+| 4 | [#TNAssembly2023](http://twitter.com/search?q=%23TNAssembly2023) | N/A |
 | 5 | [#RebaseonARB](http://twitter.com/search?q=%23RebaseonARB) | N/A |
-| 6 | [EaseMyTrip Best Travel App](http://twitter.com/search?q=EaseMyTrip+Best+Travel+App) | N/A |
-| 7 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 8 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 10 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 11 | [सामाजिक क्रांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
-| 12 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
-| 13 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
-| 14 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 15 | [सिख धर्म](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%96+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
-| 16 | [Continuous Betrayal InSSRCase](http://twitter.com/search?q=Continuous+Betrayal+InSSRCase) | N/A |
-| 17 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 18 | [IVRI](http://twitter.com/search?q=IVRI) | N/A |
-| 19 | [Muslims in India](http://twitter.com/search?q=Muslims+in+India) | N/A |
-| 20 | [महात्मा फुले](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 21 | [AMOLED](http://twitter.com/search?q=AMOLED) | N/A |
-| 22 | [El Nino](http://twitter.com/search?q=El+Nino) | N/A |
-| 23 | [Madras High Court](http://twitter.com/search?q=Madras+High+Court) | N/A |
-| 24 | [तमिलनाडु सरकार](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 25 | [पार्टी विरोधी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 26 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
-| 27 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 28 | [महिला शिक्षा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 29 | [समाज सेवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 30 | [Achcha](http://twitter.com/search?q=Achcha) | N/A |
-| 31 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
-| 32 | [महान भारतीय](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af) | N/A |
-| 33 | [वसुंधरा सरकार](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 34 | [शहीद स्मारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
-| 35 | [Birth Anniversary](http://twitter.com/search?q=Birth+Anniversary) | N/A |
-| 36 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 37 | [वसुंधरा राजे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%87) | N/A |
-| 38 | [सामाजिक समानता](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
-| 39 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
-| 40 | [Wayanad](http://twitter.com/search?q=Wayanad) | N/A |
-| 41 | [Salman Khan](http://twitter.com/search?q=Salman+Khan) | N/A |
-| 42 | [Shandar](http://twitter.com/search?q=Shandar) | N/A |
-| 43 | [BPSC](http://twitter.com/search?q=BPSC) | N/A |
-| 44 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 45 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 46 | [CTET](http://twitter.com/search?q=CTET) | N/A |
-| 47 | [भारतीय समाज](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 48 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 49 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 50 | [फुले जयंती](http://twitter.com/search?q=%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 6 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 7 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 8 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 9 | [EaseMyTrip Best Travel App](http://twitter.com/search?q=EaseMyTrip+Best+Travel+App) | N/A |
+| 10 | [साबरमती जेल](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ac%e0%a4%b0%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%9c%e0%a5%87%e0%a4%b2) | N/A |
+| 11 | [Neha Kakkar](http://twitter.com/search?q=Neha+Kakkar) | N/A |
+| 12 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 13 | [सामाजिक क्रांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
+| 14 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
+| 15 | [Continuous Betrayal InSSRCase](http://twitter.com/search?q=Continuous+Betrayal+InSSRCase) | N/A |
+| 16 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 17 | [सिख धर्म](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%96+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 18 | [B. 64MP](http://twitter.com/search?q=B.+64MP) | N/A |
+| 19 | [IVRI](http://twitter.com/search?q=IVRI) | N/A |
+| 20 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 21 | [Muslims in India](http://twitter.com/search?q=Muslims+in+India) | N/A |
+| 22 | [महात्मा फुले](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 23 | [AMOLED](http://twitter.com/search?q=AMOLED) | N/A |
+| 24 | [सलमान खान](http://twitter.com/search?q=%e0%a4%b8%e0%a4%b2%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%96%e0%a4%be%e0%a4%a8) | N/A |
+| 25 | [El Nino](http://twitter.com/search?q=El+Nino) | N/A |
+| 26 | [Achcha](http://twitter.com/search?q=Achcha) | N/A |
+| 27 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 28 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 29 | [महिला शिक्षा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 30 | [तमिलनाडु सरकार](http://twitter.com/search?q=%e0%a4%a4%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%a8%e0%a4%be%e0%a4%a1%e0%a5%81+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 31 | [महान भारतीय](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af) | N/A |
+| 32 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 33 | [Laga](http://twitter.com/search?q=Laga) | N/A |
+| 34 | [पार्टी विरोधी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 35 | [समाज सेवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 36 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
+| 37 | [Birth Anniversary](http://twitter.com/search?q=Birth+Anniversary) | N/A |
+| 38 | [Salman Khan](http://twitter.com/search?q=Salman+Khan) | N/A |
+| 39 | [Shandar](http://twitter.com/search?q=Shandar) | N/A |
+| 40 | [शहीद स्मारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 41 | [Chhattisgarh](http://twitter.com/search?q=Chhattisgarh) | N/A |
+| 42 | [वसुंधरा सरकार](http://twitter.com/search?q=%e0%a4%b5%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a7%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 43 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 44 | [Wayanad](http://twitter.com/search?q=Wayanad) | N/A |
+| 45 | [अशोक गहलोत](http://twitter.com/search?q=%e0%a4%85%e0%a4%b6%e0%a5%8b%e0%a4%95+%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4) | N/A |
+| 46 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 47 | [#MasslaSongOutNow](http://twitter.com/search?q=%23MasslaSongOutNow) | N/A |
+| 48 | [#DalaiLamaGoOut](http://twitter.com/search?q=%23DalaiLamaGoOut) | N/A |
+| 49 | [#भूपेश_का_जिहादगढ़](http://twitter.com/search?q=%23%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6_%e0%a4%95%e0%a4%be_%e0%a4%9c%e0%a4%bf%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a4%97%e0%a4%a2%e0%a4%bc) | N/A |
+| 50 | [#NarzoN55LaunchingTomorrow](http://twitter.com/search?q=%23NarzoN55LaunchingTomorrow) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-11 08:17:33 UTC`
+📆 Last Updated: `2023-04-11 09:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 2 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
-| 3 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 6 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 7 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 9 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 10 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 11 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 12 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 13 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 14 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 15 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
-| 16 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 17 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 18 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
-| 19 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 1 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 2 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 3 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 4 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 5 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 6 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 7 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 8 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 10 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 11 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 12 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
+| 13 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
+| 14 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 15 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 16 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 17 | [Rasheeda](http://twitter.com/search?q=Rasheeda) | N/A |
+| 18 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 19 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
 | 20 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 21 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
-| 22 | [Flames](http://twitter.com/search?q=Flames) | N/A |
-| 23 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 24 | [STAY AWAY FROM HER](http://twitter.com/search?q=STAY+AWAY+FROM+HER) | N/A |
-| 25 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 26 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
-| 27 | [Preds](http://twitter.com/search?q=Preds) | N/A |
-| 28 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 29 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 30 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 31 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 32 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
-| 33 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 34 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 35 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 36 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 37 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 38 | [Gallen](http://twitter.com/search?q=Gallen) | N/A |
-| 39 | [Calgary](http://twitter.com/search?q=Calgary) | N/A |
-| 40 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 41 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
-| 42 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
-| 43 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 44 | [Webb](http://twitter.com/search?q=Webb) | N/A |
-| 45 | [Magneto](http://twitter.com/search?q=Magneto) | N/A |
-| 46 | [Gary Harris](http://twitter.com/search?q=Gary+Harris) | N/A |
-| 47 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 48 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 21 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 22 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 23 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 24 | [Let's Go Brandon](http://twitter.com/search?q=Let%27s+Go+Brandon) | N/A |
+| 25 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 26 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 27 | [Flames](http://twitter.com/search?q=Flames) | N/A |
+| 28 | [STAY AWAY FROM HER](http://twitter.com/search?q=STAY+AWAY+FROM+HER) | N/A |
+| 29 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
+| 30 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 31 | [Preds](http://twitter.com/search?q=Preds) | N/A |
+| 32 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 33 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 34 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 35 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 36 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 37 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 38 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 39 | [Imprudence](http://twitter.com/search?q=Imprudence) | Imprudence is a quality of being imprudent, which means to act without thought or caution. It is the opposite of prudence, which is the quality of being careful and sensible in one's actions. |
+| 40 | [Kliff](http://twitter.com/search?q=Kliff) | Kliff is a German word meaning "cliff" or "precipice." It is used to describe a steep, rocky face of a mountain or hill. |
+| 41 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 42 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 43 | [Magneto](http://twitter.com/search?q=Magneto) | N/A |
+| 44 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 45 | [Dbacks](http://twitter.com/search?q=Dbacks) | Dbacks is an abbreviation for the Arizona Diamondbacks, a Major League Baseball team based in Phoenix, Arizona. |
+| 46 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 47 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 48 | [Rapinoe](http://twitter.com/search?q=Rapinoe) | N/A |
 
 
 

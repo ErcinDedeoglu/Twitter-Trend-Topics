@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-11 08:17:11 UTC`
+📆 Last Updated: `2023-04-11 09:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 3 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 5 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
-| 6 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 7 | [#DiaMundialDelParkinson](http://twitter.com/search?q=%23DiaMundialDelParkinson) | N/A |
-| 8 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 9 | [#PcComponentesLenovo](http://twitter.com/search?q=%23PcComponentesLenovo) | N/A |
-| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 11 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 12 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 13 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 14 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 15 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 16 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 17 | [460 X](http://twitter.com/search?q=460+X) | N/A |
-| 18 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 19 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 20 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 21 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 22 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 23 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 24 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 25 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
-| 26 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
-| 27 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 28 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
-| 29 | [Jn 20](http://twitter.com/search?q=Jn+20) | N/A |
-| 30 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 31 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
-| 32 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 33 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 34 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
-| 35 | [Guillem Agulló](http://twitter.com/search?q=Guillem+Agull%c3%b3) | N/A |
-| 36 | [Habidis](http://twitter.com/search?q=Habidis) | N/A |
-| 37 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 38 | [Andrés Suárez](http://twitter.com/search?q=Andr%c3%a9s+Su%c3%a1rez) | N/A |
-| 39 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 40 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 41 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 42 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 43 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 44 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 45 | [Almudena Grandes](http://twitter.com/search?q=Almudena+Grandes) | N/A |
-| 46 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 47 | [jartan](http://twitter.com/search?q=jartan) | N/A |
-| 48 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 49 | [Taty Castellanos](http://twitter.com/search?q=Taty+Castellanos) | N/A |
-| 50 | [Vaporeon](http://twitter.com/search?q=Vaporeon) | N/A |
+| 1 | [#conquis13etb](http://twitter.com/search?q=%23conquis13etb) | N/A |
+| 2 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 3 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
+| 4 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [#EstrategiasAdvanceWars](http://twitter.com/search?q=%23EstrategiasAdvanceWars) | N/A |
+| 6 | [#DiaMundialDelParkinson](http://twitter.com/search?q=%23DiaMundialDelParkinson) | N/A |
+| 7 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 8 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 9 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 10 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 11 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 12 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
+| 13 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
+| 14 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 15 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 16 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 17 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
+| 18 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
+| 19 | [Peach](http://twitter.com/search?q=Peach) | N/A |
+| 20 | [Martes 11](http://twitter.com/search?q=Martes+11) | N/A |
+| 21 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 22 | [Sáhara](http://twitter.com/search?q=S%c3%a1hara) | N/A |
+| 23 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 24 | [Juan Carlos](http://twitter.com/search?q=Juan+Carlos) | N/A |
+| 25 | [#BandoDeLaHuerta](http://twitter.com/search?q=%23BandoDeLaHuerta) | N/A |
+| 26 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 27 | [#Renta2022](http://twitter.com/search?q=%23Renta2022) | N/A |
+| 28 | [#DameMiTiempo](http://twitter.com/search?q=%23DameMiTiempo) | N/A |
+| 29 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 30 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 31 | [#CrisPorta11A](http://twitter.com/search?q=%23CrisPorta11A) | N/A |
+| 32 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 33 | [#APOYOROCIO11A](http://twitter.com/search?q=%23APOYOROCIO11A) | N/A |
+| 34 | [#YoMeRebelo11A](http://twitter.com/search?q=%23YoMeRebelo11A) | N/A |
+| 35 | [#formación](http://twitter.com/search?q=%23formaci%c3%b3n) | N/A |
+| 36 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 37 | [#empresas](http://twitter.com/search?q=%23empresas) | N/A |
+| 38 | [#ciberseguridad](http://twitter.com/search?q=%23ciberseguridad) | N/A |
 
 
 

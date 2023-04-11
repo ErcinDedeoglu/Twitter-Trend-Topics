@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-11 08:17:01 UTC`
+📆 Last Updated: `2023-04-11 09:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 1 | [#BarcelonaSC](http://twitter.com/search?q=%23BarcelonaSC) | N/A |
 | 2 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
 | 3 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
-| 4 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 4 | [velasco](http://twitter.com/search?q=velasco) | N/A |
 | 5 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
 | 6 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
 | 7 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 19 | [Ídolo](http://twitter.com/search?q=%c3%8ddolo) | N/A |
 | 20 | [Otero](http://twitter.com/search?q=Otero) | N/A |
 | 21 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
-| 22 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 22 | [alvarado](http://twitter.com/search?q=alvarado) | N/A |
 | 23 | [Adonis](http://twitter.com/search?q=Adonis) | N/A |
 | 24 | [paco rodríguez](http://twitter.com/search?q=paco+rodr%c3%adguez) | N/A |
 | 25 | [Mall del Sol](http://twitter.com/search?q=Mall+del+Sol) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 43 | [consejo de la judicatura](http://twitter.com/search?q=consejo+de+la+judicatura) | N/A |
 | 44 | [lago agrio](http://twitter.com/search?q=lago+agrio) | N/A |
 | 45 | [portocarrero](http://twitter.com/search?q=portocarrero) | N/A |
-| 46 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 47 | [Acomplejado](http://twitter.com/search?q=Acomplejado) | N/A |
-| 48 | [colón y reina victoria](http://twitter.com/search?q=col%c3%b3n+y+reina+victoria) | N/A |
-| 49 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 50 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 46 | [colón y reina victoria](http://twitter.com/search?q=col%c3%b3n+y+reina+victoria) | N/A |
+| 47 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
+| 48 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 49 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 50 | [Alerta Naranja](http://twitter.com/search?q=Alerta+Naranja) | N/A |
 
 
 
