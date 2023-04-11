@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-11 15:17:58 UTC`
+📆 Last Updated: `2023-04-11 16:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 3 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 4 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 5 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
-| 6 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 7 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 10 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 11 | [#VoltaVP](http://twitter.com/search?q=%23VoltaVP) | N/A |
-| 12 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 13 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
-| 14 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 15 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 1 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 2 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
+| 3 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 4 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
+| 5 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [#VoltaVP](http://twitter.com/search?q=%23VoltaVP) | N/A |
+| 8 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 9 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 10 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 11 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 12 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 14 | [São João de Caruaru](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+de+Caruaru) | N/A |
+| 15 | [Portela](http://twitter.com/search?q=Portela) | N/A |
 | 16 | [JOELMA NO ENCONTRO](http://twitter.com/search?q=JOELMA+NO+ENCONTRO) | N/A |
-| 17 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 18 | [Santa Tereza de Goiás](http://twitter.com/search?q=Santa+Tereza+de+Goi%c3%a1s) | N/A |
-| 19 | [Waldemar](http://twitter.com/search?q=Waldemar) | N/A |
-| 20 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 21 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 22 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 23 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 24 | [São João de Caruaru](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o+de+Caruaru) | N/A |
-| 25 | [Spindel](http://twitter.com/search?q=Spindel) | N/A |
-| 26 | [IPCA](http://twitter.com/search?q=IPCA) | N/A |
-| 27 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 28 | [Lionela](http://twitter.com/search?q=Lionela) | N/A |
-| 29 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 17 | [Santa Tereza de Goiás](http://twitter.com/search?q=Santa+Tereza+de+Goi%c3%a1s) | N/A |
+| 18 | [Waldemar](http://twitter.com/search?q=Waldemar) | N/A |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 20 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 21 | [Injustiça](http://twitter.com/search?q=Injusti%c3%a7a) | N/A |
+| 22 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
+| 23 | [IPCA](http://twitter.com/search?q=IPCA) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 26 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 27 | [Lionela](http://twitter.com/search?q=Lionela) | N/A |
+| 28 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
+| 29 | [O 20](http://twitter.com/search?q=O+20) | N/A |
 | 30 | [PÁ PÁ](http://twitter.com/search?q=P%c3%81+P%c3%81) | N/A |
-| 31 | [Injustiça](http://twitter.com/search?q=Injusti%c3%a7a) | N/A |
-| 32 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 33 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
-| 34 | [Agradece](http://twitter.com/search?q=Agradece) | N/A |
-| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 36 | [O 20](http://twitter.com/search?q=O+20) | N/A |
-| 37 | [POW POW POW](http://twitter.com/search?q=POW+POW+POW) | N/A |
-| 38 | [E o Braz](http://twitter.com/search?q=E+o+Braz) | N/A |
-| 39 | [OBRIGADO MEU DEUS](http://twitter.com/search?q=OBRIGADO+MEU+DEUS) | N/A |
-| 40 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
-| 41 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 42 | [Vítor Pereira](http://twitter.com/search?q=V%c3%adtor+Pereira) | N/A |
+| 31 | [Agradece](http://twitter.com/search?q=Agradece) | N/A |
+| 32 | [Vítor Pereira](http://twitter.com/search?q=V%c3%adtor+Pereira) | N/A |
+| 33 | [Spindel](http://twitter.com/search?q=Spindel) | N/A |
+| 34 | [POW POW](http://twitter.com/search?q=POW+POW) | N/A |
+| 35 | [OBRIGADO MEU DEUS](http://twitter.com/search?q=OBRIGADO+MEU+DEUS) | N/A |
+| 36 | [john mayer](http://twitter.com/search?q=john+mayer) | N/A |
+| 37 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
+| 38 | [Braz](http://twitter.com/search?q=Braz) | N/A |
+| 39 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 40 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 41 | [VP CAIU](http://twitter.com/search?q=VP+CAIU) | N/A |
+| 42 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
 | 43 | [Carol Danvers](http://twitter.com/search?q=Carol+Danvers) | N/A |
 | 44 | [Park Seo Joon](http://twitter.com/search?q=Park+Seo+Joon) | N/A |
-| 45 | [VP CAIU](http://twitter.com/search?q=VP+CAIU) | N/A |
-| 46 | [Dia 11](http://twitter.com/search?q=Dia+11) | N/A |
-| 47 | [Nick Fury](http://twitter.com/search?q=Nick+Fury) | N/A |
-| 48 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
-| 49 | [paulete](http://twitter.com/search?q=paulete) | N/A |
+| 45 | [O 21](http://twitter.com/search?q=O+21) | N/A |
+| 46 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
+| 47 | [Farofa](http://twitter.com/search?q=Farofa) | N/A |
+| 48 | [Dia 11](http://twitter.com/search?q=Dia+11) | N/A |
+| 49 | [Nick Fury](http://twitter.com/search?q=Nick+Fury) | N/A |
+| 50 | [paulete](http://twitter.com/search?q=paulete) | N/A |
 
 
 

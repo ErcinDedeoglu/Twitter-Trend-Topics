@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-11 15:18:05 UTC`
+📆 Last Updated: `2023-04-11 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
 | 2 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 3 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 4 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 4 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
 | 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
-| 7 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
-| 8 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 6 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 7 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
+| 8 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
 | 9 | [#onweer](http://twitter.com/search?q=%23onweer) | N/A |
 | 10 | [#vacature](http://twitter.com/search?q=%23vacature) | N/A |
 | 11 | [#reflectie](http://twitter.com/search?q=%23reflectie) | N/A |
-| 12 | [#spiegeling](http://twitter.com/search?q=%23spiegeling) | N/A |
-| 13 | [Vragen](http://twitter.com/search?q=Vragen) | N/A |
-| 14 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 15 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 16 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 17 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
-| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 13 | [#spiegeling](http://twitter.com/search?q=%23spiegeling) | N/A |
+| 14 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 16 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 17 | [Vragen](http://twitter.com/search?q=Vragen) | N/A |
+| 18 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
 | 19 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 20 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 21 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 22 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
-| 23 | [Oud-minister van Landbouw](http://twitter.com/search?q=Oud-minister+van+Landbouw) | N/A |
-| 24 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 25 | [2e paasdag](http://twitter.com/search?q=2e+paasdag) | N/A |
-| 26 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 27 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
-| 28 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 29 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
-| 30 | [fijne pasen](http://twitter.com/search?q=fijne+pasen) | N/A |
-| 31 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 32 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 33 | [joost prinsen](http://twitter.com/search?q=joost+prinsen) | N/A |
-| 34 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
-| 35 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 21 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
+| 22 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
+| 23 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
+| 24 | [Oud-minister van Landbouw](http://twitter.com/search?q=Oud-minister+van+Landbouw) | N/A |
+| 25 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 26 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
+| 27 | [Oud-landbouwminister Veerman](http://twitter.com/search?q=Oud-landbouwminister+Veerman) | N/A |
+| 28 | [2e paasdag](http://twitter.com/search?q=2e+paasdag) | N/A |
+| 29 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
+| 30 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 31 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
+| 32 | [fijne pasen](http://twitter.com/search?q=fijne+pasen) | N/A |
+| 33 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 34 | [joost prinsen](http://twitter.com/search?q=joost+prinsen) | N/A |
+| 35 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
 | 36 | [meilandjes](http://twitter.com/search?q=meilandjes) | N/A |
 | 37 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Wilma Haan](http://twitter.com/search?q=Wilma+Haan) | N/A |
-| 40 | [zeg nee](http://twitter.com/search?q=zeg+nee) | N/A |
+| 39 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 40 | [Wilma Haan](http://twitter.com/search?q=Wilma+Haan) | N/A |
 | 41 | [Sterkte Gerrit](http://twitter.com/search?q=Sterkte+Gerrit) | N/A |
 | 42 | [etten-leur](http://twitter.com/search?q=etten-leur) | N/A |
-| 43 | [Ciska](http://twitter.com/search?q=Ciska) | N/A |
-| 44 | [Diabetes](http://twitter.com/search?q=Diabetes) | N/A |
-| 45 | [Paasvuren](http://twitter.com/search?q=Paasvuren) | N/A |
-| 46 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 47 | [geert mak](http://twitter.com/search?q=geert+mak) | N/A |
-| 48 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
-| 49 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
-| 50 | [Konijn](http://twitter.com/search?q=Konijn) | N/A |
+| 43 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 44 | [Ciska](http://twitter.com/search?q=Ciska) | N/A |
+| 45 | [Diabetes](http://twitter.com/search?q=Diabetes) | N/A |
+| 46 | [Paasvuren](http://twitter.com/search?q=Paasvuren) | N/A |
+| 47 | [Jaspers](http://twitter.com/search?q=Jaspers) | N/A |
+| 48 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 49 | [geert mak](http://twitter.com/search?q=geert+mak) | N/A |
+| 50 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
 
 
 

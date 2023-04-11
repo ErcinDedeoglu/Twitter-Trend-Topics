@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-11 15:18:42 UTC`
+📆 Last Updated: `2023-04-11 16:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,26 +24,26 @@ This is top 50 for Singapore
 | 7 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
 | 8 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 10 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 10 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
 | 11 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 12 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 13 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 13 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
 | 14 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 15 | [YoungK](http://twitter.com/search?q=YoungK) | N/A |
-| 16 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
-| 17 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 15 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
+| 16 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 17 | [youngk](http://twitter.com/search?q=youngk) | N/A |
 | 18 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 19 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 20 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
 | 21 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
 | 22 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 23 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 24 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 25 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 26 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
-| 27 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 28 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 29 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 23 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 24 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 25 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 26 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 27 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 28 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 29 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 30 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
 | 31 | [Singaporeans](http://twitter.com/search?q=Singaporeans) | N/A |
 | 32 | [Macron](http://twitter.com/search?q=Macron) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Singapore
 | 44 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
 | 45 | [London](http://twitter.com/search?q=London) | N/A |
 | 46 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 47 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 48 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 49 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 50 | [Niki](http://twitter.com/search?q=Niki) | N/A |
+| 47 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 48 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 50 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 
 
 

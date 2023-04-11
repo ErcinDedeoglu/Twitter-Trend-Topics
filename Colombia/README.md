@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-11 15:18:37 UTC`
+📆 Last Updated: `2023-04-11 16:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,22 +28,22 @@ This is top 50 for Colombia
 | 11 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
 | 12 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
 | 13 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 14 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
-| 15 | [Calima](http://twitter.com/search?q=Calima) | N/A |
-| 16 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
-| 17 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
-| 18 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 14 | [Calima](http://twitter.com/search?q=Calima) | N/A |
+| 15 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
+| 16 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 17 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 18 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
 | 19 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 20 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 21 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 20 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 21 | [Alfonso Medina](http://twitter.com/search?q=Alfonso+Medina) | N/A |
 | 22 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 23 | [Alfonso Medina](http://twitter.com/search?q=Alfonso+Medina) | N/A |
-| 24 | [Alex Florez](http://twitter.com/search?q=Alex+Florez) | N/A |
-| 25 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
-| 26 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
-| 27 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 28 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
-| 29 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 23 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
+| 24 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 25 | [Alex Florez](http://twitter.com/search?q=Alex+Florez) | N/A |
+| 26 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
+| 27 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
+| 28 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 29 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
 | 30 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
 | 31 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
 | 32 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Colombia
 | 34 | [kelvin osorio](http://twitter.com/search?q=kelvin+osorio) | N/A |
 | 35 | [Chochó](http://twitter.com/search?q=Choch%c3%b3) | N/A |
 | 36 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 37 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 38 | [Laje](http://twitter.com/search?q=Laje) | N/A |
-| 39 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
+| 37 | [Laje](http://twitter.com/search?q=Laje) | N/A |
+| 38 | [Valle del Cauca](http://twitter.com/search?q=Valle+del+Cauca) | N/A |
+| 39 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
 | 40 | [Pague](http://twitter.com/search?q=Pague) | N/A |
 | 41 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
-| 42 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 42 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
 | 43 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
-| 44 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 45 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
-| 46 | [Patricia Cardozo](http://twitter.com/search?q=Patricia+Cardozo) | N/A |
+| 44 | [Felices Pascuas](http://twitter.com/search?q=Felices+Pascuas) | N/A |
+| 45 | [Patricia Cardozo](http://twitter.com/search?q=Patricia+Cardozo) | N/A |
+| 46 | [Canal Capital](http://twitter.com/search?q=Canal+Capital) | N/A |
 | 47 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 48 | [Marcela García](http://twitter.com/search?q=Marcela+Garc%c3%ada) | N/A |
-| 49 | [Canal Capital](http://twitter.com/search?q=Canal+Capital) | N/A |
-| 50 | [Valle del Cauca](http://twitter.com/search?q=Valle+del+Cauca) | N/A |
+| 49 | [Gamma](http://twitter.com/search?q=Gamma) | N/A |
+| 50 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 
 
 

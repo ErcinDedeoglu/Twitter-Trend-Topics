@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-11 15:18:39 UTC`
+📆 Last Updated: `2023-04-11 16:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,35 +22,35 @@ This is top 50 for Kuwait
 | 5 | [#اكاديميه_اثر_للتدريب](http://twitter.com/search?q=%23%d8%a7%d9%83%d8%a7%d8%af%d9%8a%d9%85%d9%8a%d9%87_%d8%a7%d8%ab%d8%b1_%d9%84%d9%84%d8%aa%d8%af%d8%b1%d9%8a%d8%a8) | N/A |
 | 6 | [#امطار_الكويت](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
 | 7 | [منيره الغانم](http://twitter.com/search?q=%d9%85%d9%86%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 8 | [ليال عشر](http://twitter.com/search?q=%d9%84%d9%8a%d8%a7%d9%84+%d8%b9%d8%b4%d8%b1) | N/A |
-| 9 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 8 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
+| 9 | [ليال عشر](http://twitter.com/search?q=%d9%84%d9%8a%d8%a7%d9%84+%d8%b9%d8%b4%d8%b1) | N/A |
 | 10 | [اليمين الدستوريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%af%d8%b3%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 | 11 | [الفلفل الحار](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%84%d9%81%d9%84+%d8%a7%d9%84%d8%ad%d8%a7%d8%b1) | N/A |
 | 12 | [يابو يوسف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
 | 13 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 14 | [الارصاد الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 15 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 16 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
-| 17 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 18 | [يابو صلاح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b5%d9%84%d8%a7%d8%ad) | N/A |
-| 19 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 20 | [الليالي المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 21 | [يابو عمر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%85%d8%b1) | N/A |
-| 22 | [الشهر الجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
+| 14 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 15 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
+| 16 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 17 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 18 | [الليالي المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 19 | [الارصاد الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 20 | [يابو عمر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%85%d8%b1) | N/A |
+| 21 | [الشهر الجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
+| 22 | [كويت تايمز](http://twitter.com/search?q=%d9%83%d9%88%d9%8a%d8%aa+%d8%aa%d8%a7%d9%8a%d9%85%d8%b2) | N/A |
 | 23 | [الحكومه الجديده](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d9%87) | N/A |
 | 24 | [سالم غانم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%ba%d8%a7%d9%86%d9%85) | N/A |
-| 25 | [كويت تايمز](http://twitter.com/search?q=%d9%83%d9%88%d9%8a%d8%aa+%d8%aa%d8%a7%d9%8a%d9%85%d8%b2) | N/A |
-| 26 | [عشر العتق](http://twitter.com/search?q=%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%b9%d8%aa%d9%82) | N/A |
-| 27 | [فتحي كميل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a+%d9%83%d9%85%d9%8a%d9%84) | N/A |
-| 28 | [منزل السكينه](http://twitter.com/search?q=%d9%85%d9%86%d8%b2%d9%84+%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d9%87) | N/A |
-| 29 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
-| 30 | [ميونخ](http://twitter.com/search?q=%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
+| 25 | [عشر العتق](http://twitter.com/search?q=%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%b9%d8%aa%d9%82) | N/A |
+| 26 | [فتحي كميل](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad%d9%8a+%d9%83%d9%85%d9%8a%d9%84) | N/A |
+| 27 | [منزل السكينه](http://twitter.com/search?q=%d9%85%d9%86%d8%b2%d9%84+%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d9%87) | N/A |
+| 28 | [اليوم التاسع](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d8%b9) | N/A |
+| 29 | [ميونخ](http://twitter.com/search?q=%d9%85%d9%8a%d9%88%d9%86%d8%ae) | N/A |
+| 30 | [الطبقه الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
 | 31 | [العشر الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 32 | [الطبقه الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
-| 33 | [القضاء العادل](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%84) | N/A |
-| 34 | [الديوان الاميري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%8a) | N/A |
-| 35 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
-| 36 | [الاحكام الصادره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d9%87) | N/A |
+| 32 | [القضاء العادل](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%af%d9%84) | N/A |
+| 33 | [الديوان الاميري](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%8a) | N/A |
+| 34 | [رافينيا](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%8a%d8%a7) | N/A |
+| 35 | [الاحكام الصادره](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%83%d8%a7%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d8%b1%d9%87) | N/A |
+| 36 | [يابو صلاح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b5%d9%84%d8%a7%d8%ad) | N/A |
 | 37 | [الموسسات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 38 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 39 | [الفريق الواحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d9%88%d8%a7%d8%ad%d8%af) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Kuwait
 | 46 | [علي بن ابي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
 | 47 | [علم النفس](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%86%d9%81%d8%b3) | N/A |
 | 48 | [عماد النويري](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%af+%d8%a7%d9%84%d9%86%d9%88%d9%8a%d8%b1%d9%8a) | N/A |
-| 49 | [علي التجار](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1) | N/A |
-| 50 | [ابو لولوه المجوسي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d9%88%d9%84%d9%88%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d9%88%d8%b3%d9%8a) | N/A |
+| 49 | [ابو لولوه المجوسي](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%84%d9%88%d9%84%d9%88%d9%87+%d8%a7%d9%84%d9%85%d8%ac%d9%88%d8%b3%d9%8a) | N/A |
+| 50 | [القسايم الصناعيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b3%d8%a7%d9%8a%d9%85+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
 
 
 

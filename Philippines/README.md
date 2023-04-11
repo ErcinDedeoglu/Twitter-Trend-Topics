@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-11 15:18:41 UTC`
+📆 Last Updated: `2023-04-11 16:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Philippines
 | 7 | [#ThunderSunwooDay](http://twitter.com/search?q=%23ThunderSunwooDay) | N/A |
 | 8 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
 | 9 | [UNFORGIVEN 1ST CONCEPT](http://twitter.com/search?q=UNFORGIVEN+1ST+CONCEPT) | N/A |
-| 10 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 11 | [EDI CONGRATS FAIRIES](http://twitter.com/search?q=EDI+CONGRATS+FAIRIES) | N/A |
-| 12 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 10 | [EDI CONGRATS FAIRIES](http://twitter.com/search?q=EDI+CONGRATS+FAIRIES) | N/A |
+| 11 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 12 | [HAPPY 2MONTHS HORI7ON](http://twitter.com/search?q=HAPPY+2MONTHS+HORI7ON) | N/A |
 | 13 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 14 | [BB MOVING DANCEPRACTICE](http://twitter.com/search?q=BB+MOVING+DANCEPRACTICE) | N/A |
-| 15 | [GOOD BOY GONE BED](http://twitter.com/search?q=GOOD+BOY+GONE+BED) | N/A |
-| 16 | [ROCKSTA PerformanceVideo](http://twitter.com/search?q=ROCKSTA+PerformanceVideo) | N/A |
-| 17 | [PRESAVE ALEXA SRH-REMIX](http://twitter.com/search?q=PRESAVE+ALEXA+SRH-REMIX) | N/A |
-| 18 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
-| 19 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 20 | [Double B](http://twitter.com/search?q=Double+B) | N/A |
-| 21 | [Sungjae](http://twitter.com/search?q=Sungjae) | N/A |
-| 22 | [RURU MADRID](http://twitter.com/search?q=RURU+MADRID) | N/A |
-| 23 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 24 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 25 | [Love You Long Time](http://twitter.com/search?q=Love+You+Long+Time) | N/A |
-| 26 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 27 | [YoungK](http://twitter.com/search?q=YoungK) | N/A |
-| 28 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 29 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
-| 30 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 31 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 32 | [TataKD STAR MAGIC](http://twitter.com/search?q=TataKD+STAR+MAGIC) | N/A |
-| 33 | [Here Comes the Groom](http://twitter.com/search?q=Here+Comes+the+Groom) | N/A |
-| 34 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 35 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 36 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
-| 37 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 38 | [#햇살보다_눈부실_선우의_스물넷](http://twitter.com/search?q=%23%ed%96%87%ec%82%b4%eb%b3%b4%eb%8b%a4_%eb%88%88%eb%b6%80%ec%8b%a4_%ec%84%a0%ec%9a%b0%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%84%b7) | N/A |
-| 39 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
-| 40 | [#BTOB_WIND_AND_WISH](http://twitter.com/search?q=%23BTOB_WIND_AND_WISH) | N/A |
-| 41 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 42 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
-| 43 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 44 | [#DLSurpriseEncounter](http://twitter.com/search?q=%23DLSurpriseEncounter) | N/A |
-| 45 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
-| 46 | [#VXON_BreakingBadMoving](http://twitter.com/search?q=%23VXON_BreakingBadMoving) | N/A |
-| 47 | [#SummerMMFF2023](http://twitter.com/search?q=%23SummerMMFF2023) | N/A |
-| 48 | [#FML_SEVENTEEN](http://twitter.com/search?q=%23FML_SEVENTEEN) | N/A |
-| 49 | [#TWOCheckmate](http://twitter.com/search?q=%23TWOCheckmate) | N/A |
-| 50 | [#StayRightHereSummerRemix](http://twitter.com/search?q=%23StayRightHereSummerRemix) | N/A |
+| 14 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 15 | [BB MOVING DANCEPRACTICE](http://twitter.com/search?q=BB+MOVING+DANCEPRACTICE) | N/A |
+| 16 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
+| 17 | [GOOD BOY GONE BED](http://twitter.com/search?q=GOOD+BOY+GONE+BED) | N/A |
+| 18 | [PRESAVE ALEXA SRH-REMIX](http://twitter.com/search?q=PRESAVE+ALEXA+SRH-REMIX) | N/A |
+| 19 | [ROCKSTA PerformanceVideo](http://twitter.com/search?q=ROCKSTA+PerformanceVideo) | N/A |
+| 20 | [Sungjae](http://twitter.com/search?q=Sungjae) | N/A |
+| 21 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 22 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 23 | [Love You Long Time](http://twitter.com/search?q=Love+You+Long+Time) | N/A |
+| 24 | [youngk](http://twitter.com/search?q=youngk) | N/A |
+| 25 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 26 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 27 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 28 | [TataKD STAR MAGIC](http://twitter.com/search?q=TataKD+STAR+MAGIC) | N/A |
+| 29 | [Here Comes the Groom](http://twitter.com/search?q=Here+Comes+the+Groom) | N/A |
+| 30 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 31 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 32 | [giselle](http://twitter.com/search?q=giselle) | N/A |
+| 33 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 34 | [#햇살보다_눈부실_선우의_스물넷](http://twitter.com/search?q=%23%ed%96%87%ec%82%b4%eb%b3%b4%eb%8b%a4_%eb%88%88%eb%b6%80%ec%8b%a4_%ec%84%a0%ec%9a%b0%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%84%b7) | N/A |
+| 35 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
+| 36 | [#BTOB_WIND_AND_WISH](http://twitter.com/search?q=%23BTOB_WIND_AND_WISH) | N/A |
+| 37 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 38 | [#HORI7ON2ndMonthsary](http://twitter.com/search?q=%23HORI7ON2ndMonthsary) | N/A |
+| 39 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
+| 40 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 41 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
+| 42 | [#FML_SEVENTEEN](http://twitter.com/search?q=%23FML_SEVENTEEN) | N/A |
+| 43 | [#VXON_BreakingBadMoving](http://twitter.com/search?q=%23VXON_BreakingBadMoving) | N/A |
+| 44 | [#SummerMMFF2023](http://twitter.com/search?q=%23SummerMMFF2023) | N/A |
+| 45 | [#DLSurpriseEncounter](http://twitter.com/search?q=%23DLSurpriseEncounter) | N/A |
+| 46 | [#StayRightHereSummerRemix](http://twitter.com/search?q=%23StayRightHereSummerRemix) | N/A |
+| 47 | [#UnitsMissBarcodeNa](http://twitter.com/search?q=%23UnitsMissBarcodeNa) | N/A |
+| 48 | [#TWOCheckmate](http://twitter.com/search?q=%23TWOCheckmate) | N/A |
+| 49 | [#AboutUsButNotAboutUs](http://twitter.com/search?q=%23AboutUsButNotAboutUs) | N/A |
+| 50 | [#MMFFSummer2023](http://twitter.com/search?q=%23MMFFSummer2023) | N/A |
 
 
 

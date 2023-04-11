@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Memphis
 
-📆 Last Updated: `2023-04-11 15:18:31 UTC`
+📆 Last Updated: `2023-04-11 16:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Preds](http://twitter.com/search?q=Preds) | N/A |
 | 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 3 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 4 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 4 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
 | 5 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
 | 6 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 7 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
@@ -26,44 +26,44 @@ This is top 50 for [United States](</United States>)
 | 9 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
 | 10 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
 | 11 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
-| 12 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 13 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 14 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 15 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
-| 16 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 17 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
+| 12 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 13 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 15 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 16 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
+| 17 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
 | 18 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 19 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
+| 19 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
 | 20 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
-| 21 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
-| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 23 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 24 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
-| 25 | [Kyle Filipowski](http://twitter.com/search?q=Kyle+Filipowski) | N/A |
-| 26 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
-| 27 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 28 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 29 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
-| 30 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 31 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
-| 32 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 33 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 21 | [Flip](http://twitter.com/search?q=Flip) | N/A |
+| 22 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
+| 23 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 25 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
+| 26 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
+| 27 | [Kyle Filipowski](http://twitter.com/search?q=Kyle+Filipowski) | N/A |
+| 28 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 29 | [Balance and Composure](http://twitter.com/search?q=Balance+and+Composure) | N/A |
+| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 31 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 32 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 33 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
 | 34 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
-| 35 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 36 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
-| 37 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
-| 38 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 35 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
+| 36 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 37 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 38 | [Big 5](http://twitter.com/search?q=Big+5) | N/A |
 | 39 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
-| 40 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 41 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 42 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 43 | [Intergalactic](http://twitter.com/search?q=Intergalactic) | N/A |
-| 44 | [Ken Griffin](http://twitter.com/search?q=Ken+Griffin) | N/A |
-| 45 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 46 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 47 | [Nia DaCosta](http://twitter.com/search?q=Nia+DaCosta) | N/A |
-| 48 | [Breitbart](http://twitter.com/search?q=Breitbart) | N/A |
-| 49 | [DeMarcus Cousins](http://twitter.com/search?q=DeMarcus+Cousins) | N/A |
+| 40 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
+| 41 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
+| 42 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 43 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 44 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
+| 45 | [Intergalactic](http://twitter.com/search?q=Intergalactic) | N/A |
+| 46 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 47 | [Nick Fury](http://twitter.com/search?q=Nick+Fury) | N/A |
+| 48 | [Nia DaCosta](http://twitter.com/search?q=Nia+DaCosta) | N/A |
+| 49 | [Meet Day](http://twitter.com/search?q=Meet+Day) | N/A |
 
 
 
