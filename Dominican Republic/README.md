@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-11 03:17:29 UTC`
+📆 Last Updated: `2023-04-11 04:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for Dominican Republic
 | 13 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
 | 14 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
 | 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 16 | [Blas Peralta](http://twitter.com/search?q=Blas+Peralta) | N/A |
+| 16 | [blas peralta](http://twitter.com/search?q=blas+peralta) | N/A |
 | 17 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 18 | [Sandy Alcántara](http://twitter.com/search?q=Sandy+Alc%c3%a1ntara) | N/A |
 | 19 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
 | 20 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 21 | [Boletri](http://twitter.com/search?q=Boletri) | N/A |
-| 22 | [Neyba](http://twitter.com/search?q=Neyba) | N/A |
-| 23 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 24 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
-| 25 | [Euric](http://twitter.com/search?q=Euric) | N/A |
+| 21 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 22 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
+| 23 | [Boletri](http://twitter.com/search?q=Boletri) | N/A |
+| 24 | [Euric](http://twitter.com/search?q=Euric) | N/A |
+| 25 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
 | 26 | [El Ministerio de la Mujer](http://twitter.com/search?q=El+Ministerio+de+la+Mujer) | N/A |
 | 27 | [Ricardo Nieves](http://twitter.com/search?q=Ricardo+Nieves) | N/A |
 | 28 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
 | 29 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 30 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
-| 31 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
-| 32 | [Balaguer](http://twitter.com/search?q=Balaguer) | N/A |
-| 33 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
-| 34 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 36 | [Jensy Graciano](http://twitter.com/search?q=Jensy+Graciano) | N/A |
-| 37 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 38 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 39 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 40 | [Vergolias](http://twitter.com/search?q=Vergolias) | N/A |
-| 41 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 30 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
+| 31 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
+| 32 | [Corripio](http://twitter.com/search?q=Corripio) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 35 | [Doña](http://twitter.com/search?q=Do%c3%b1a) | N/A |
+| 36 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 37 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 38 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 39 | [Vergolias](http://twitter.com/search?q=Vergolias) | N/A |
+| 40 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 41 | [Jensy Graciano](http://twitter.com/search?q=Jensy+Graciano) | N/A |
 | 42 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 43 | [Doña](http://twitter.com/search?q=Do%c3%b1a) | N/A |
-| 44 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
-| 45 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 46 | [Rafael Solano](http://twitter.com/search?q=Rafael+Solano) | N/A |
-| 47 | [Corripio](http://twitter.com/search?q=Corripio) | N/A |
-| 48 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 49 | [judas de la corrupción](http://twitter.com/search?q=judas+de+la+corrupci%c3%b3n) | N/A |
-| 50 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 43 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
+| 44 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 45 | [Balaguer](http://twitter.com/search?q=Balaguer) | N/A |
+| 46 | [judas de la corrupción](http://twitter.com/search?q=judas+de+la+corrupci%c3%b3n) | N/A |
+| 47 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 48 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 49 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 50 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
 
 
 

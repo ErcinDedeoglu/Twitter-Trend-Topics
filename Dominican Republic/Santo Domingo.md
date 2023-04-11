@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-11 03:16:42 UTC`
+📆 Last Updated: `2023-04-11 04:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
 | 2 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
-| 3 | [Chantal Jiménez](http://twitter.com/search?q=Chantal+Jim%c3%a9nez) | N/A |
-| 4 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 3 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 4 | [Chantal Jiménez](http://twitter.com/search?q=Chantal+Jim%c3%a9nez) | N/A |
 | 5 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
 | 6 | [#RumboADosMillones](http://twitter.com/search?q=%23RumboADosMillones) | N/A |
 | 7 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
 | 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [Boletri](http://twitter.com/search?q=Boletri) | N/A |
-| 10 | [Luis 4](http://twitter.com/search?q=Luis+4) | N/A |
-| 11 | [RCC Media](http://twitter.com/search?q=RCC+Media) | N/A |
-| 12 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 13 | [#FuerzaDelPueblo](http://twitter.com/search?q=%23FuerzaDelPueblo) | N/A |
-| 14 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 15 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
-| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 17 | [Blas Peralta](http://twitter.com/search?q=Blas+Peralta) | N/A |
-| 18 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 19 | [Sandy Alcántara](http://twitter.com/search?q=Sandy+Alc%c3%a1ntara) | N/A |
-| 20 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 21 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 22 | [Neyba](http://twitter.com/search?q=Neyba) | N/A |
-| 23 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 24 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
+| 9 | [Luis 4](http://twitter.com/search?q=Luis+4) | N/A |
+| 10 | [RCC Media](http://twitter.com/search?q=RCC+Media) | N/A |
+| 11 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
+| 12 | [#FuerzaDelPueblo](http://twitter.com/search?q=%23FuerzaDelPueblo) | N/A |
+| 13 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 14 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
+| 15 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 16 | [blas peralta](http://twitter.com/search?q=blas+peralta) | N/A |
+| 17 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 18 | [Sandy Alcántara](http://twitter.com/search?q=Sandy+Alc%c3%a1ntara) | N/A |
+| 19 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
+| 20 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 21 | [Neyba](http://twitter.com/search?q=Neyba) | N/A |
+| 22 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 23 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
+| 24 | [Boletri](http://twitter.com/search?q=Boletri) | N/A |
 | 25 | [Euric](http://twitter.com/search?q=Euric) | N/A |
-| 26 | [El Ministerio de la Mujer](http://twitter.com/search?q=El+Ministerio+de+la+Mujer) | N/A |
-| 27 | [Ricardo Nieves](http://twitter.com/search?q=Ricardo+Nieves) | N/A |
-| 28 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
-| 29 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 30 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
+| 26 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
+| 27 | [El Ministerio de la Mujer](http://twitter.com/search?q=El+Ministerio+de+la+Mujer) | N/A |
+| 28 | [Ricardo Nieves](http://twitter.com/search?q=Ricardo+Nieves) | N/A |
+| 29 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
+| 30 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
 | 31 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
 | 32 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
-| 33 | [Balaguer](http://twitter.com/search?q=Balaguer) | N/A |
-| 34 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 36 | [Jensy Graciano](http://twitter.com/search?q=Jensy+Graciano) | N/A |
-| 37 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 38 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 39 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
-| 40 | [Vergolias](http://twitter.com/search?q=Vergolias) | N/A |
-| 41 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 42 | [Doña](http://twitter.com/search?q=Do%c3%b1a) | N/A |
-| 43 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
-| 44 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 45 | [Rafael Solano](http://twitter.com/search?q=Rafael+Solano) | N/A |
-| 46 | [Corripio](http://twitter.com/search?q=Corripio) | N/A |
-| 47 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 48 | [judas de la corrupción](http://twitter.com/search?q=judas+de+la+corrupci%c3%b3n) | N/A |
-| 49 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 50 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 34 | [Corripio](http://twitter.com/search?q=Corripio) | N/A |
+| 35 | [Jensy Graciano](http://twitter.com/search?q=Jensy+Graciano) | N/A |
+| 36 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 37 | [Doña](http://twitter.com/search?q=Do%c3%b1a) | N/A |
+| 38 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 39 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 40 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 41 | [Vergolias](http://twitter.com/search?q=Vergolias) | N/A |
+| 42 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 43 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 44 | [Méndez](http://twitter.com/search?q=M%c3%a9ndez) | N/A |
+| 45 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 46 | [Balaguer](http://twitter.com/search?q=Balaguer) | N/A |
+| 47 | [judas de la corrupción](http://twitter.com/search?q=judas+de+la+corrupci%c3%b3n) | N/A |
+| 48 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 49 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 50 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-11 03:16:57 UTC`
+📆 Last Updated: `2023-04-11 04:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ostermontag](http://twitter.com/search?q=ostermontag) | N/A |
+| 1 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
 | 2 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 3 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
 | 4 | [Buona Pasquetta](http://twitter.com/search?q=Buona+Pasquetta) | N/A |
@@ -37,14 +37,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 21 | [#srfsport](http://twitter.com/search?q=%23srfsport) | N/A |
 | 22 | [Ganser](http://twitter.com/search?q=Ganser) | N/A |
-| 23 | [rimoldi](http://twitter.com/search?q=rimoldi) | N/A |
-| 24 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
-| 25 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
-| 26 | [Boden](http://twitter.com/search?q=Boden) | N/A |
-| 27 | [Tränen](http://twitter.com/search?q=Tr%c3%a4nen) | N/A |
-| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 29 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
-| 30 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 23 | [Katastrophe](http://twitter.com/search?q=Katastrophe) | N/A |
+| 24 | [#ParisRoubaix](http://twitter.com/search?q=%23ParisRoubaix) | N/A |
+| 25 | [Boden](http://twitter.com/search?q=Boden) | N/A |
+| 26 | [Tränen](http://twitter.com/search?q=Tr%c3%a4nen) | N/A |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [Verfassung](http://twitter.com/search?q=Verfassung) | N/A |
+| 29 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 30 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | N/A |
 | 31 | [Quelle](http://twitter.com/search?q=Quelle) | N/A |
 | 32 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 33 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
@@ -58,11 +58,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 41 | [Umfeld](http://twitter.com/search?q=Umfeld) | N/A |
 | 42 | [Daumen](http://twitter.com/search?q=Daumen) | N/A |
 | 43 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
-| 44 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
-| 45 | [Einfluss](http://twitter.com/search?q=Einfluss) | N/A |
-| 46 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 47 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 48 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 44 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 45 | [Fakten](http://twitter.com/search?q=Fakten) | N/A |
+| 46 | [Bubble](http://twitter.com/search?q=Bubble) | N/A |
+| 47 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 48 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-04-11 03:16:51 UTC`
+📆 Last Updated: `2023-04-11 04:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Ireland](</Ireland>)
 | 13 | [Seve](http://twitter.com/search?q=Seve) | N/A |
 | 14 | [#bitored](http://twitter.com/search?q=%23bitored) | N/A |
 | 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 16 | [#irishgrandnational](http://twitter.com/search?q=%23irishgrandnational) | N/A |
+| 16 | [#IrishGrandNational](http://twitter.com/search?q=%23IrishGrandNational) | N/A |
 | 17 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
 | 18 | [monkfish](http://twitter.com/search?q=monkfish) | N/A |
 | 19 | [John Rahm](http://twitter.com/search?q=John+Rahm) | N/A |
 | 20 | [#fairyhouse](http://twitter.com/search?q=%23fairyhouse) | N/A |
-| 21 | [Shels](http://twitter.com/search?q=Shels) | N/A |
-| 22 | [I Am Maximus](http://twitter.com/search?q=I+Am+Maximus) | N/A |
-| 23 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 24 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 25 | [Lee Chin](http://twitter.com/search?q=Lee+Chin) | N/A |
-| 26 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 27 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 28 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
+| 21 | [shels](http://twitter.com/search?q=shels) | N/A |
+| 22 | [i am maximus](http://twitter.com/search?q=i+am+maximus) | N/A |
+| 23 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 24 | [Lee Chin](http://twitter.com/search?q=Lee+Chin) | N/A |
+| 25 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 26 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
+| 27 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
+| 28 | [Derry](http://twitter.com/search?q=Derry) | N/A |
 | 29 | [Liam Lynch](http://twitter.com/search?q=Liam+Lynch) | N/A |
 | 30 | [Mickelson](http://twitter.com/search?q=Mickelson) | N/A |
-| 31 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 31 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
 | 32 | [turner's cross](http://twitter.com/search?q=turner%27s+cross) | N/A |
 | 33 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
 | 34 | [POTY](http://twitter.com/search?q=POTY) | N/A |
-| 35 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 36 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
-| 37 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 38 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 40 | [Bank Holiday Monday](http://twitter.com/search?q=Bank+Holiday+Monday) | N/A |
-| 41 | [eirgrid munster](http://twitter.com/search?q=eirgrid+munster) | N/A |
-| 42 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 43 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 44 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
-| 45 | [Massive](http://twitter.com/search?q=Massive) | N/A |
-| 46 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 47 | [Neville](http://twitter.com/search?q=Neville) | N/A |
-| 48 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 49 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 50 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
+| 35 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
+| 36 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
+| 37 | [Virgil](http://twitter.com/search?q=Virgil) | Virgil is a Latin name meaning "staff bearer" or "wanderer". It is derived from the Latin word virga, which means "rod" or "staff". The name was popularized by the Roman poet Virgil, who wrote the epic poem The Aeneid. |
+| 38 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 39 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 41 | [bank holiday monday](http://twitter.com/search?q=bank+holiday+monday) | N/A |
+| 42 | [eirgrid munster](http://twitter.com/search?q=eirgrid+munster) | N/A |
+| 43 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 44 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 45 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
+| 46 | [Massive](http://twitter.com/search?q=Massive) | N/A |
+| 47 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
+| 48 | [Neville](http://twitter.com/search?q=Neville) | N/A |
+| 49 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 50 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
 
 
 

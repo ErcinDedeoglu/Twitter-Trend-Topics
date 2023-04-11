@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-11 03:16:57 UTC`
+📆 Last Updated: `2023-04-11 04:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [fotballxtra](http://twitter.com/search?q=fotballxtra) | N/A |
 | 4 | [Viking](http://twitter.com/search?q=Viking) | N/A |
 | 5 | [Fotballkveld](http://twitter.com/search?q=Fotballkveld) | N/A |
-| 6 | [Finne](http://twitter.com/search?q=Finne) | N/A |
+| 6 | [finne](http://twitter.com/search?q=finne) | N/A |
 | 7 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
 | 8 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 9 | [sarpsborg](http://twitter.com/search?q=sarpsborg) | N/A |
@@ -50,13 +50,13 @@ This is top 50 for [Norway](</Norway>)
 | 33 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 35 | [hamkam](http://twitter.com/search?q=hamkam) | N/A |
-| 36 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
-| 37 | [briskeby](http://twitter.com/search?q=briskeby) | N/A |
-| 38 | [Enga](http://twitter.com/search?q=Enga) | N/A |
-| 39 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 40 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
-| 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 42 | [Melløs](http://twitter.com/search?q=Mell%c3%b8s) | N/A |
+| 36 | [briskeby](http://twitter.com/search?q=briskeby) | N/A |
+| 37 | [Enga](http://twitter.com/search?q=Enga) | N/A |
+| 38 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 39 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
+| 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 41 | [melløs](http://twitter.com/search?q=mell%c3%b8s) | N/A |
+| 42 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
 | 43 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
 | 44 | [Kamma](http://twitter.com/search?q=Kamma) | N/A |
 | 45 | [aafk](http://twitter.com/search?q=aafk) | N/A |

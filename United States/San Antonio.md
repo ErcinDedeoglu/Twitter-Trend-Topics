@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-11 03:17:25 UTC`
+📆 Last Updated: `2023-04-11 04:18:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
-| 2 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
-| 3 | [Seager](http://twitter.com/search?q=Seager) | N/A |
-| 4 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 5 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 1 | [EL BOMBI](http://twitter.com/search?q=EL+BOMBI) | N/A |
+| 2 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 3 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 4 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 5 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
 | 6 | [Holly](http://twitter.com/search?q=Holly) | N/A |
-| 7 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 8 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 10 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 7 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 8 | [Dodgers](http://twitter.com/search?q=Dodgers) | Dodgers is a nickname for the Los Angeles Dodgers, a professional baseball team based in Los Angeles, California. The team was founded in 1883 and has won six World Series championships. The name "Dodgers" is derived from the fact that the team originally played in Brooklyn, New York, which was known as "Trolley Dodgers" due to the large number of trolleys in the area. |
+| 9 | [#BEEFNetflix](http://twitter.com/search?q=%23BEEFNetflix) | N/A |
+| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 12 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 13 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 14 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 15 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 16 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 17 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 18 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 19 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 20 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
-| 21 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 22 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
-| 23 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 24 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 25 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 26 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 27 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 28 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 29 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
-| 30 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 31 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 32 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
-| 33 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
-| 34 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 35 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
-| 36 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 37 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
-| 38 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 39 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 40 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
-| 41 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
+| 12 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 13 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 14 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 15 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 16 | [Vesia](http://twitter.com/search?q=Vesia) | N/A |
+| 17 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 18 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 19 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 20 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 21 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 22 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 23 | [Zac Gallen](http://twitter.com/search?q=Zac+Gallen) | N/A |
+| 24 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 25 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 26 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 27 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 28 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
+| 29 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 30 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 31 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 32 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 33 | [Scott Barry](http://twitter.com/search?q=Scott+Barry) | N/A |
+| 34 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 35 | [Johansson](http://twitter.com/search?q=Johansson) | N/A |
+| 36 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 37 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
+| 38 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 39 | [Logan Webb](http://twitter.com/search?q=Logan+Webb) | N/A |
+| 40 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 41 | [Faber](http://twitter.com/search?q=Faber) | N/A |
 | 42 | [Nate Eaton](http://twitter.com/search?q=Nate+Eaton) | N/A |
-| 43 | [Derek Law](http://twitter.com/search?q=Derek+Law) | N/A |
-| 44 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
-| 45 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
-| 46 | [Minter](http://twitter.com/search?q=Minter) | N/A |
-| 47 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 48 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 49 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 50 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 43 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
+| 44 | [Praying for Steve](http://twitter.com/search?q=Praying+for+Steve) | N/A |
+| 45 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 46 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
+| 47 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 48 | [Boldy](http://twitter.com/search?q=Boldy) | Boldy is a slang term used to describe someone who is brave and confident. It can also be used to describe someone who takes risks or stands up for what they believe in. |
+| 49 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 50 | [Derek Law](http://twitter.com/search?q=Derek+Law) | N/A |
 
 
 

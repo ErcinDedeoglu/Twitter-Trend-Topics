@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-11 03:16:51 UTC`
+📆 Last Updated: `2023-04-11 04:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [France](</France>)
 | 1 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
 | 2 | [#MAPR](http://twitter.com/search?q=%23MAPR) | N/A |
 | 3 | [#etsionserencontrait](http://twitter.com/search?q=%23etsionserencontrait) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 6 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
-| 7 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
-| 8 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 9 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
-| 10 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 11 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
-| 12 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
-| 13 | [Liga NOS](http://twitter.com/search?q=Liga+NOS) | N/A |
-| 14 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 15 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 16 | [lorient](http://twitter.com/search?q=lorient) | N/A |
-| 17 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 18 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
-| 19 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
-| 20 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 21 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 22 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 23 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 24 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 25 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 26 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 27 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 28 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
-| 29 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
+| 4 | [#naynayfm](http://twitter.com/search?q=%23naynayfm) | N/A |
+| 5 | [#FCLOM](http://twitter.com/search?q=%23FCLOM) | N/A |
+| 6 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
+| 7 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 8 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
+| 9 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 10 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
+| 11 | [Tudor](http://twitter.com/search?q=Tudor) | Tudor is an English royal dynasty that ruled from 1485 to 1603. The Tudors were a powerful family of Welsh origin who rose to prominence in England during the 15th century. They are best known for their strong rule and for the many influential monarchs they produced, including Henry VIII and Elizabeth I. |
+| 12 | [lorient](http://twitter.com/search?q=lorient) | N/A |
+| 13 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 14 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
+| 15 | [Liga NOS](http://twitter.com/search?q=Liga+NOS) | N/A |
+| 16 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
+| 17 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
+| 18 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 19 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 20 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 21 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 22 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 23 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 24 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 25 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 26 | [Tivoli](http://twitter.com/search?q=Tivoli) | N/A |
+| 27 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 28 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
+| 29 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
 | 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 31 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 32 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 33 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
-| 34 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 35 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
-| 36 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 37 | [Vitale](http://twitter.com/search?q=Vitale) | N/A |
-| 38 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 39 | [Balti](http://twitter.com/search?q=Balti) | N/A |
-| 40 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 41 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 42 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
-| 43 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
-| 44 | [Saizen](http://twitter.com/search?q=Saizen) | N/A |
-| 45 | [Pierre Lacotte](http://twitter.com/search?q=Pierre+Lacotte) | N/A |
-| 46 | [balerdi](http://twitter.com/search?q=balerdi) | N/A |
-| 47 | [clauss](http://twitter.com/search?q=clauss) | N/A |
-| 48 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
-| 49 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
-| 50 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 31 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 32 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 33 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
+| 34 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
+| 35 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 36 | [Balti](http://twitter.com/search?q=Balti) | N/A |
+| 37 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 38 | [Pierre Perret](http://twitter.com/search?q=Pierre+Perret) | N/A |
+| 39 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 40 | [Vitale](http://twitter.com/search?q=Vitale) | N/A |
+| 41 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 42 | [saizen](http://twitter.com/search?q=saizen) | N/A |
+| 43 | [Pierre Lacotte](http://twitter.com/search?q=Pierre+Lacotte) | N/A |
+| 44 | [balerdi](http://twitter.com/search?q=balerdi) | N/A |
+| 45 | [clauss](http://twitter.com/search?q=clauss) | N/A |
+| 46 | [Jordi Alba](http://twitter.com/search?q=Jordi+Alba) | Jordi Alba is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a left back, but can also operate as a left winger. In English, his name translates to George White. |
+| 47 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
+| 48 | [Hossam](http://twitter.com/search?q=Hossam) | N/A |
+| 49 | [Akaza](http://twitter.com/search?q=Akaza) | N/A |
 
 
 

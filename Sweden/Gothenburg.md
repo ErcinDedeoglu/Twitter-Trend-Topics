@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-11 03:16:57 UTC`
+📆 Last Updated: `2023-04-11 04:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for [Sweden](</Sweden>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 2 | [Schulman](http://twitter.com/search?q=Schulman) | N/A |
+| 2 | [schulman](http://twitter.com/search?q=schulman) | N/A |
 | 3 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 4 | [Brännan](http://twitter.com/search?q=Br%c3%a4nnan) | N/A |
-| 5 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 6 | [Peking](http://twitter.com/search?q=Peking) | N/A |
-| 7 | [gnaget](http://twitter.com/search?q=gnaget) | N/A |
-| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [ifk norrköping](http://twitter.com/search?q=ifk+norrk%c3%b6ping) | N/A |
-| 10 | [ceesay](http://twitter.com/search?q=ceesay) | N/A |
+| 5 | [Peking](http://twitter.com/search?q=Peking) | N/A |
+| 6 | [gnaget](http://twitter.com/search?q=gnaget) | N/A |
+| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 8 | [ifk norrköping](http://twitter.com/search?q=ifk+norrk%c3%b6ping) | N/A |
+| 9 | [ceesay](http://twitter.com/search?q=ceesay) | N/A |
+| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 11 | [mjällby](http://twitter.com/search?q=mj%c3%a4llby) | N/A |
 | 12 | [kristoffer karlsson](http://twitter.com/search?q=kristoffer+karlsson) | N/A |
 | 13 | [brännström](http://twitter.com/search?q=br%c3%a4nnstr%c3%b6m) | N/A |
@@ -39,30 +39,30 @@ This is top 50 for [Sweden](</Sweden>)
 | 22 | [Thatcher](http://twitter.com/search?q=Thatcher) | Thatcher is a term used to refer to a person who is an advocate of conservative economic policies, such as those associated with former British Prime Minister Margaret Thatcher. It can also be used to describe someone who is politically conservative and/or holds traditional values. |
 | 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 24 | [nyman](http://twitter.com/search?q=nyman) | N/A |
-| 25 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 26 | [Friends Arena](http://twitter.com/search?q=Friends+Arena) | N/A |
-| 27 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
-| 28 | [durmaz](http://twitter.com/search?q=durmaz) | N/A |
-| 29 | [wessner](http://twitter.com/search?q=wessner) | N/A |
-| 30 | [växjö](http://twitter.com/search?q=v%c3%a4xj%c3%b6) | N/A |
+| 25 | [Friends Arena](http://twitter.com/search?q=Friends+Arena) | N/A |
+| 26 | [durmaz](http://twitter.com/search?q=durmaz) | N/A |
+| 27 | [wessner](http://twitter.com/search?q=wessner) | N/A |
+| 28 | [växjö](http://twitter.com/search?q=v%c3%a4xj%c3%b6) | N/A |
+| 29 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 30 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
 | 31 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 32 | [Bilal](http://twitter.com/search?q=Bilal) | N/A |
 | 33 | [Mild](http://twitter.com/search?q=Mild) | N/A |
 | 34 | [norling](http://twitter.com/search?q=norling) | N/A |
-| 35 | [värnamo](http://twitter.com/search?q=v%c3%a4rnamo) | N/A |
-| 36 | [jimmie åkesson](http://twitter.com/search?q=jimmie+%c3%a5kesson) | N/A |
-| 37 | [sanny](http://twitter.com/search?q=sanny) | N/A |
-| 38 | [Jomshof](http://twitter.com/search?q=Jomshof) | N/A |
-| 39 | [dovin](http://twitter.com/search?q=dovin) | N/A |
-| 40 | [väsby](http://twitter.com/search?q=v%c3%a4sby) | N/A |
-| 41 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 42 | [avgå](http://twitter.com/search?q=avg%c3%a5) | N/A |
-| 43 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 44 | [stahre](http://twitter.com/search?q=stahre) | N/A |
-| 45 | [widar](http://twitter.com/search?q=widar) | N/A |
-| 46 | [gvfö](http://twitter.com/search?q=gvf%c3%b6) | N/A |
-| 47 | [guillou](http://twitter.com/search?q=guillou) | N/A |
-| 48 | [myrenberg](http://twitter.com/search?q=myrenberg) | N/A |
+| 35 | [jimmie åkesson](http://twitter.com/search?q=jimmie+%c3%a5kesson) | N/A |
+| 36 | [SANNY](http://twitter.com/search?q=SANNY) | N/A |
+| 37 | [jomshof](http://twitter.com/search?q=jomshof) | N/A |
+| 38 | [dovin](http://twitter.com/search?q=dovin) | N/A |
+| 39 | [väsby](http://twitter.com/search?q=v%c3%a4sby) | N/A |
+| 40 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 41 | [avgå](http://twitter.com/search?q=avg%c3%a5) | N/A |
+| 42 | [guidetti](http://twitter.com/search?q=guidetti) | N/A |
+| 43 | [stahre](http://twitter.com/search?q=stahre) | N/A |
+| 44 | [widar](http://twitter.com/search?q=widar) | N/A |
+| 45 | [gvfö](http://twitter.com/search?q=gvf%c3%b6) | N/A |
+| 46 | [guillou](http://twitter.com/search?q=guillou) | N/A |
+| 47 | [myrenberg](http://twitter.com/search?q=myrenberg) | N/A |
+| 48 | [Värnamo](http://twitter.com/search?q=V%c3%a4rnamo) | N/A |
 | 49 | [örgryte](http://twitter.com/search?q=%c3%b6rgryte) | N/A |
 | 50 | [#j20sm](http://twitter.com/search?q=%23j20sm) | N/A |
 

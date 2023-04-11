@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-04-11 03:17:18 UTC`
+📆 Last Updated: `2023-04-11 04:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#FKGvFB](http://twitter.com/search?q=%23FKGvFB) | N/A |
 | 2 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 3 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
-| 4 | [#PolisHaftası](http://twitter.com/search?q=%23PolisHaftas%c4%b1) | N/A |
-| 5 | [#TürkiyeTarihYazacak](http://twitter.com/search?q=%23T%c3%bcrkiyeTarihYazacak) | N/A |
-| 6 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 7 | [#DünyaLideri](http://twitter.com/search?q=%23D%c3%bcnyaLideri) | N/A |
+| 3 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 4 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
+| 5 | [#PolisHaftası](http://twitter.com/search?q=%23PolisHaftas%c4%b1) | N/A |
+| 6 | [#TürkiyeTarihYazacak](http://twitter.com/search?q=%23T%c3%bcrkiyeTarihYazacak) | N/A |
+| 7 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
 | 8 | [DexGame](http://twitter.com/search?q=DexGame) | N/A |
 | 9 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 10 | [bileenkazanır yarışması](http://twitter.com/search?q=bileenkazan%c4%b1r+yar%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 11 | [askerkaçağı onuuur](http://twitter.com/search?q=askerka%c3%a7a%c4%9f%c4%b1+onuuur) | N/A |
-| 12 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 13 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
-| 14 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
-| 15 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
-| 16 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 17 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 10 | [askerkaçağı onuuur](http://twitter.com/search?q=askerka%c3%a7a%c4%9f%c4%b1+onuuur) | N/A |
+| 11 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 12 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 13 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
+| 14 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 15 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 16 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 17 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
 | 18 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
-| 19 | [Borini](http://twitter.com/search?q=Borini) | Borini is an Italian surname. It is derived from the Latin word "Borinus", which means "a man of the woods". In English, it can be translated to mean "woodsman". |
-| 20 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 21 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
-| 22 | [levent uysal mersin](http://twitter.com/search?q=levent+uysal+mersin) | N/A |
-| 23 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
-| 24 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
-| 25 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 26 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
-| 27 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 28 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 19 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
+| 20 | [Samet](http://twitter.com/search?q=Samet) | Samet is a Turkish word meaning "same". It is used to describe something that is the same or similar. |
+| 21 | [levent uysal mersin](http://twitter.com/search?q=levent+uysal+mersin) | N/A |
+| 22 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
+| 23 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
+| 24 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
+| 25 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
+| 26 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 27 | [Diagne](http://twitter.com/search?q=Diagne) | N/A |
+| 28 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
 | 29 | [Acun](http://twitter.com/search?q=Acun) | N/A |
-| 30 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
-| 31 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 32 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 30 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 31 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
+| 32 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
 | 33 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
-| 34 | [Arao](http://twitter.com/search?q=Arao) | Arao is a Japanese surname. It is written with the characters 革生, which can be translated to mean "leather life". |
+| 34 | [Kuruluş Yıl Dönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
 | 35 | [Tıpış](http://twitter.com/search?q=T%c4%b1p%c4%b1%c5%9f) | N/A |
-| 36 | [Merve](http://twitter.com/search?q=Merve) | N/A |
-| 37 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
-| 38 | [Kuruluş Yıl Dönümü](http://twitter.com/search?q=Kurulu%c5%9f+Y%c4%b1l+D%c3%b6n%c3%bcm%c3%bc) | N/A |
-| 39 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
-| 40 | [Taşeronİçin SeçimVakti](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+Se%c3%a7imVakti) | N/A |
-| 41 | [Cem Garipoğlu](http://twitter.com/search?q=Cem+Garipo%c4%9flu) | N/A |
-| 42 | [Abdülkadir Bitigen](http://twitter.com/search?q=Abd%c3%bclkadir+Bitigen) | Abdülkadir Bitigen is a Turkish name. It is composed of two parts: Abdülkadir, which means "servant of the powerful one," and Bitigen, which means "the brave one." In English, the name would be translated as "Servant of the Powerful Brave One." |
-| 43 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
-| 44 | [58 Hizbullah](http://twitter.com/search?q=58+Hizbullah) | N/A |
-| 45 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
-| 46 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 47 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 48 | [sözümsöz oyumehliyet](http://twitter.com/search?q=s%c3%b6z%c3%bcms%c3%b6z+oyumehliyet) | N/A |
-| 49 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 50 | [KIZIL ELMAYA](http://twitter.com/search?q=KIZIL+ELMAYA) | N/A |
+| 36 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
+| 37 | [Merve](http://twitter.com/search?q=Merve) | N/A |
+| 38 | [İsmail Saymaz](http://twitter.com/search?q=%c4%b0smail+Saymaz) | İsmail Saymaz is a Turkish name. It is composed of two words: İsmail, which means "God listens," and Saymaz, which means "silent." In English, the name would translate to "God listens silently." |
+| 39 | [Abdülkadir Bitigen](http://twitter.com/search?q=Abd%c3%bclkadir+Bitigen) | Abdülkadir Bitigen is a Turkish name. It is composed of two parts: Abdülkadir, which means "servant of the powerful one," and Bitigen, which means "the brave one." In English, the name would be translated as "Servant of the Powerful Brave One." |
+| 40 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 41 | [58 Hizbullah](http://twitter.com/search?q=58+Hizbullah) | N/A |
+| 42 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
+| 43 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
+| 44 | [sözümsöz oyumehliyet](http://twitter.com/search?q=s%c3%b6z%c3%bcms%c3%b6z+oyumehliyet) | N/A |
+| 45 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 46 | [Taşeronİçin SeçimVakti](http://twitter.com/search?q=Ta%c5%9feron%c4%b0%c3%a7in+Se%c3%a7imVakti) | N/A |
+| 47 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 48 | [KIZIL ELMAYA](http://twitter.com/search?q=KIZIL+ELMAYA) | N/A |
+| 49 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
+| 50 | [Merzifon](http://twitter.com/search?q=Merzifon) | N/A |
 
 
 

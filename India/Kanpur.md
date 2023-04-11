@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kanpur
 
-📆 Last Updated: `2023-04-11 03:17:14 UTC`
+📆 Last Updated: `2023-04-11 04:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RCBvsLSG](http://twitter.com/search?q=%23RCBvsLSG) | N/A |
-| 2 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 1 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 2 | [#JyotibaPhuleJayanti](http://twitter.com/search?q=%23JyotibaPhuleJayanti) | N/A |
 | 3 | [#NationalSafeMotherhoodDay](http://twitter.com/search?q=%23NationalSafeMotherhoodDay) | N/A |
-| 4 | [#JyotibaPhule](http://twitter.com/search?q=%23JyotibaPhule) | N/A |
-| 5 | [सामाजिक क्रांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
-| 6 | [#ज्योतिबा_फुले](http://twitter.com/search?q=%23%e0%a4%9c%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%a4%e0%a4%bf%e0%a4%ac%e0%a4%be_%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 7 | [#KisiKaBhaiKisiKiJaanTrailer](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaanTrailer) | N/A |
-| 8 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 9 | [Continuous Betrayal InSSRCase](http://twitter.com/search?q=Continuous+Betrayal+InSSRCase) | N/A |
-| 10 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 11 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 12 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 4 | [सामाजिक क्रांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
+| 5 | [#ज्योतिबा_फुले](http://twitter.com/search?q=%23%e0%a4%9c%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%a4%e0%a4%bf%e0%a4%ac%e0%a4%be_%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 6 | [Respect Motherhood](http://twitter.com/search?q=Respect+Motherhood) | N/A |
+| 7 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 8 | [Continuous Betrayal InSSRCase](http://twitter.com/search?q=Continuous+Betrayal+InSSRCase) | N/A |
+| 9 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 10 | [महिला शिक्षा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 11 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 12 | [#KasturbaGandhi](http://twitter.com/search?q=%23KasturbaGandhi) | N/A |
 | 13 | [महान भारतीय](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af) | N/A |
-| 14 | [महिला शिक्षा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 15 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 16 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
+| 14 | [पार्टी विरोधी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 15 | [समाज सेवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 16 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
 | 17 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 18 | [yuva matha](http://twitter.com/search?q=yuva+matha) | N/A |
-| 19 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
-| 20 | [महात्मा फुले](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
-| 21 | [समाज सेवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 22 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 23 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 24 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 25 | [पार्टी विरोधी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 26 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
-| 27 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 28 | [पावन प्रेरणा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 29 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 30 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
-| 31 | [swadeshi app easemytrip](http://twitter.com/search?q=swadeshi+app+easemytrip) | N/A |
-| 32 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
-| 33 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
-| 34 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
-| 35 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 36 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
-| 37 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 38 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 39 | [विष्णु प्रभाकर](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a5%81+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%95%e0%a4%b0) | N/A |
-| 40 | [राम लखन सीता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b2%e0%a4%96%e0%a4%a8+%e0%a4%b8%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
-| 41 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 42 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 43 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 44 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 45 | [फुले जयंती](http://twitter.com/search?q=%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 46 | [Mankad](http://twitter.com/search?q=Mankad) | Mankad is a term used in cricket to describe a controversial form of run out. It occurs when the bowler, after entering his delivery stride, stops and breaks the wicket with the batsman out of his crease. The term is named after Vinoo Mankad, an Indian cricketer who was known for this tactic. |
-| 47 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
-| 48 | [Avesh Khan](http://twitter.com/search?q=Avesh+Khan) | N/A |
-| 49 | [श्री बालाजी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
-| 50 | [maxi](http://twitter.com/search?q=maxi) | Maxi is an adjective used to describe a long, loose-fitting garment or dress. It is typically ankle-length or longer and often has a slit up the side. The term is also used to describe a style of skirt that falls below the knee. |
+| 18 | [महात्मा फुले](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 19 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 20 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 21 | [सिख धर्म](http://twitter.com/search?q=%e0%a4%b8%e0%a4%bf%e0%a4%96+%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae) | N/A |
+| 22 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 23 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 24 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 25 | [फुले जयंती](http://twitter.com/search?q=%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 26 | [शहीद स्मारक](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95) | N/A |
+| 27 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 28 | [Harsha](http://twitter.com/search?q=Harsha) | N/A |
+| 29 | [Nandini](http://twitter.com/search?q=Nandini) | N/A |
+| 30 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 31 | [#महात्मा_ज्योतिबा_फूले_जयंती](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be_%e0%a4%9c%e0%a5%8d%e0%a4%af%e0%a5%8b%e0%a4%a4%e0%a4%bf%e0%a4%ac%e0%a4%be_%e0%a4%ab%e0%a5%82%e0%a4%b2%e0%a5%87_%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 32 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 33 | [#GodMorningTuesday](http://twitter.com/search?q=%23GodMorningTuesday) | N/A |
+| 34 | [#SachinPilot](http://twitter.com/search?q=%23SachinPilot) | N/A |
+| 35 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 36 | [#MahatmaPhule](http://twitter.com/search?q=%23MahatmaPhule) | N/A |
+| 37 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 38 | [#पायलट_संग_राजस्थान](http://twitter.com/search?q=%23%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f_%e0%a4%b8%e0%a4%82%e0%a4%97_%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8) | N/A |
+| 39 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 40 | [#NirmalaSitharaman](http://twitter.com/search?q=%23NirmalaSitharaman) | #NirmalaSitharaman is the name of India's current Finance Minister. In English, it means "Goddess of Prosperity". |
+| 41 | [#GautamGambhir](http://twitter.com/search?q=%23GautamGambhir) | N/A |
+| 42 | [#SGXNIFTY](http://twitter.com/search?q=%23SGXNIFTY) | N/A |
+| 43 | [#शुभ_प्रभात_वंदन](http://twitter.com/search?q=%23%e0%a4%b6%e0%a5%81%e0%a4%ad_%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4_%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 44 | [#DCvsMI](http://twitter.com/search?q=%23DCvsMI) | N/A |
+| 45 | [#NiftyBank](http://twitter.com/search?q=%23NiftyBank) | N/A |
+| 46 | [#NicholasPooran](http://twitter.com/search?q=%23NicholasPooran) | N/A |
+| 47 | [#Sensex](http://twitter.com/search?q=%23Sensex) | N/A |
+| 48 | [#GoodMorningTwitterWorld](http://twitter.com/search?q=%23GoodMorningTwitterWorld) | N/A |
+| 49 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
 
 
 
