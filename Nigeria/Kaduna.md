@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-11 19:17:11 UTC`
+📆 Last Updated: `2023-04-11 20:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Don Baba](http://twitter.com/search?q=Don+Baba) | N/A |
-| 2 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 3 | [#PhantomVFold](http://twitter.com/search?q=%23PhantomVFold) | N/A |
-| 4 | [#Jawwar23](http://twitter.com/search?q=%23Jawwar23) | N/A |
-| 5 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
-| 6 | [phyno](http://twitter.com/search?q=phyno) | N/A |
-| 7 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
-| 8 | [Uberfacts](http://twitter.com/search?q=Uberfacts) | N/A |
-| 9 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
-| 10 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
-| 11 | [#4gforeveryone](http://twitter.com/search?q=%234gforeveryone) | N/A |
-| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 13 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
-| 14 | [#RoadtoICC](http://twitter.com/search?q=%23RoadtoICC) | N/A |
-| 15 | [#megaplazarush](http://twitter.com/search?q=%23megaplazarush) | N/A |
-| 16 | [Peak Milk](http://twitter.com/search?q=Peak+Milk) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 19 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
-| 20 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 21 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
-| 22 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 23 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 25 | [my obidients](http://twitter.com/search?q=my+obidients) | N/A |
-| 26 | [Scotch](http://twitter.com/search?q=Scotch) | N/A |
-| 27 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 28 | [kanaga jnr x filmone](http://twitter.com/search?q=kanaga+jnr+x+filmone) | N/A |
-| 29 | [Wikki Tourists](http://twitter.com/search?q=Wikki+Tourists) | N/A |
-| 30 | [Adamu Garba](http://twitter.com/search?q=Adamu+Garba) | N/A |
-| 31 | [Section 77](http://twitter.com/search?q=Section+77) | N/A |
-| 32 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 33 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 34 | [Olamide](http://twitter.com/search?q=Olamide) | N/A |
-| 35 | [Femi Adesina](http://twitter.com/search?q=Femi+Adesina) | N/A |
-| 36 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 37 | [Bola Tinubu](http://twitter.com/search?q=Bola+Tinubu) | N/A |
-| 38 | [Jet Li](http://twitter.com/search?q=Jet+Li) | N/A |
-| 39 | [authentic yvonne](http://twitter.com/search?q=authentic+yvonne) | N/A |
-| 40 | [Alora](http://twitter.com/search?q=Alora) | N/A |
-| 41 | [MEMORIES WITH YVONNE](http://twitter.com/search?q=MEMORIES+WITH+YVONNE) | N/A |
-| 42 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 43 | [toyin ijakumo](http://twitter.com/search?q=toyin+ijakumo) | N/A |
-| 44 | [Lil Kesh](http://twitter.com/search?q=Lil+Kesh) | N/A |
-| 45 | [dropshipping guy](http://twitter.com/search?q=dropshipping+guy) | N/A |
-| 46 | [WOO BRANDS FOR KANAGA JNR](http://twitter.com/search?q=WOO+BRANDS+FOR+KANAGA+JNR) | N/A |
-| 47 | [big don](http://twitter.com/search?q=big+don) | N/A |
-| 48 | [PUBG](http://twitter.com/search?q=PUBG) | N/A |
-| 49 | [Jandor](http://twitter.com/search?q=Jandor) | N/A |
+| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 5 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 6 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 7 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 8 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 9 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 11 | [Phyna](http://twitter.com/search?q=Phyna) | N/A |
+| 12 | [Don Baba](http://twitter.com/search?q=Don+Baba) | N/A |
+| 13 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 14 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 15 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 16 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 17 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 18 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 19 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 20 | [Don Jazzy](http://twitter.com/search?q=Don+Jazzy) | N/A |
+| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 22 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
+| 23 | [Daily Loud](http://twitter.com/search?q=Daily+Loud) | N/A |
+| 24 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
+| 25 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 26 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 27 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 28 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 29 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 30 | [#PhantomVFold](http://twitter.com/search?q=%23PhantomVFold) | N/A |
+| 31 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 32 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 33 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 34 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 35 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
+| 36 | [#4gforeveryone](http://twitter.com/search?q=%234gforeveryone) | N/A |
+| 37 | [Rare](http://twitter.com/search?q=Rare) | N/A |
+| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 39 | [Electoral Act](http://twitter.com/search?q=Electoral+Act) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 41 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 42 | [Peak Milk](http://twitter.com/search?q=Peak+Milk) | N/A |
+| 43 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 44 | [Chimamanda Adichie](http://twitter.com/search?q=Chimamanda+Adichie) | N/A |
+| 45 | [Appeal Court](http://twitter.com/search?q=Appeal+Court) | N/A |
+| 46 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 47 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 48 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 49 | [Yul Edochie](http://twitter.com/search?q=Yul+Edochie) | N/A |
 
 
 

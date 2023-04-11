@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-11 19:17:03 UTC`
+📆 Last Updated: `2023-04-11 20:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
-| 2 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 3 | [#nrltigerseels](http://twitter.com/search?q=%23nrltigerseels) | N/A |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [#aflcatshawks](http://twitter.com/search?q=%23aflcatshawks) | N/A |
-| 6 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 9 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 10 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 11 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 12 | [will day](http://twitter.com/search?q=will+day) | N/A |
-| 13 | [gather round](http://twitter.com/search?q=gather+round) | N/A |
-| 14 | [karen andrews](http://twitter.com/search?q=karen+andrews) | N/A |
-| 15 | [milkrun](http://twitter.com/search?q=milkrun) | N/A |
-| 16 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 17 | [michael christian](http://twitter.com/search?q=michael+christian) | N/A |
-| 18 | [greg sheridan](http://twitter.com/search?q=greg+sheridan) | N/A |
-| 19 | [jacinta price](http://twitter.com/search?q=jacinta+price) | N/A |
-| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 21 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 22 | [Wyatt](http://twitter.com/search?q=Wyatt) | Wyatt is an English surname derived from the Old English given name Wigheard, which means "brave in war". It is also a given name, usually for boys. |
-| 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 24 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 25 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 26 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 1 | [#ENGvAUS](http://twitter.com/search?q=%23ENGvAUS) | N/A |
+| 2 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 3 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 4 | [Leeser](http://twitter.com/search?q=Leeser) | N/A |
+| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 6 | [#nrltigerseels](http://twitter.com/search?q=%23nrltigerseels) | N/A |
+| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 8 | [#aflcatshawks](http://twitter.com/search?q=%23aflcatshawks) | N/A |
+| 9 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 10 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 12 | [#WeAreMatildas](http://twitter.com/search?q=%23WeAreMatildas) | N/A |
+| 13 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 14 | [will day](http://twitter.com/search?q=will+day) | N/A |
+| 15 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
+| 16 | [milkrun](http://twitter.com/search?q=milkrun) | N/A |
+| 17 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 18 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 19 | [Macca](http://twitter.com/search?q=Macca) | N/A |
+| 20 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
+| 21 | [michael christian](http://twitter.com/search?q=michael+christian) | N/A |
+| 22 | [greg sheridan](http://twitter.com/search?q=greg+sheridan) | N/A |
+| 23 | [jacinta price](http://twitter.com/search?q=jacinta+price) | N/A |
+| 24 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 25 | [Wyatt](http://twitter.com/search?q=Wyatt) | Wyatt is an English surname derived from the Old English given name Wigheard, which means "brave in war". It is also a given name, usually for boys. |
+| 26 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
 | 27 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
-| 28 | [matt canavan](http://twitter.com/search?q=matt+canavan) | N/A |
-| 29 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
-| 30 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 31 | [the quokka](http://twitter.com/search?q=the+quokka) | N/A |
-| 32 | [jack crisp](http://twitter.com/search?q=jack+crisp) | N/A |
-| 33 | [tim blair](http://twitter.com/search?q=tim+blair) | N/A |
+| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 29 | [matt canavan](http://twitter.com/search?q=matt+canavan) | N/A |
+| 30 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 31 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
+| 32 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 33 | [jack crisp](http://twitter.com/search?q=jack+crisp) | N/A |
 | 34 | [blicavs](http://twitter.com/search?q=blicavs) | N/A |
 | 35 | [Shadow Cabinet](http://twitter.com/search?q=Shadow+Cabinet) | N/A |
 | 36 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
 | 37 | [simon birmingham](http://twitter.com/search?q=simon+birmingham) | N/A |
-| 38 | [telly](http://twitter.com/search?q=telly) | N/A |
-| 39 | [the mro](http://twitter.com/search?q=the+mro) | N/A |
-| 40 | [sam docherty](http://twitter.com/search?q=sam+docherty) | N/A |
-| 41 | [Cincotta](http://twitter.com/search?q=Cincotta) | N/A |
-| 42 | [John Olsen](http://twitter.com/search?q=John+Olsen) | N/A |
-| 43 | [mitchito](http://twitter.com/search?q=mitchito) | N/A |
-| 44 | [australia institute](http://twitter.com/search?q=australia+institute) | N/A |
-| 45 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
-| 46 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 47 | [Dutts](http://twitter.com/search?q=Dutts) | N/A |
-| 48 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 49 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 38 | [the mro](http://twitter.com/search?q=the+mro) | N/A |
+| 39 | [sam docherty](http://twitter.com/search?q=sam+docherty) | N/A |
+| 40 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
+| 41 | [cincotta](http://twitter.com/search?q=cincotta) | N/A |
+| 42 | [Tim Blair](http://twitter.com/search?q=Tim+Blair) | N/A |
+| 43 | [Andrew Bolt](http://twitter.com/search?q=Andrew+Bolt) | N/A |
+| 44 | [mitchito](http://twitter.com/search?q=mitchito) | N/A |
+| 45 | [australia institute](http://twitter.com/search?q=australia+institute) | N/A |
+| 46 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 47 | [Telly](http://twitter.com/search?q=Telly) | N/A |
+| 48 | [dutts](http://twitter.com/search?q=dutts) | N/A |
+| 49 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
 
 
 

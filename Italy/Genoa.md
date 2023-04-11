@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-04-11 19:16:57 UTC`
+📆 Last Updated: `2023-04-11 20:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
-| 2 | [buona pasquetta](http://twitter.com/search?q=buona+pasquetta) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
-| 5 | [#Enea](http://twitter.com/search?q=%23Enea) | N/A |
-| 6 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 7 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 8 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 9 | [#ItaliaColombia](http://twitter.com/search?q=%23ItaliaColombia) | N/A |
-| 10 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 12 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 13 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 14 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 15 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 16 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 17 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
-| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 19 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 20 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 21 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
-| 22 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
-| 23 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
-| 24 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 25 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 26 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 27 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 28 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 29 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
-| 30 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 31 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 32 | [Gardaland](http://twitter.com/search?q=Gardaland) | N/A |
-| 33 | [Parzialmente Comunista](http://twitter.com/search?q=Parzialmente+Comunista) | N/A |
-| 34 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
-| 35 | [Marika](http://twitter.com/search?q=Marika) | N/A |
-| 36 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
-| 37 | [Humbert](http://twitter.com/search?q=Humbert) | N/A |
-| 38 | [Primo Levi](http://twitter.com/search?q=Primo+Levi) | N/A |
-| 39 | [Santa Gemma Galgani](http://twitter.com/search?q=Santa+Gemma+Galgani) | N/A |
-| 40 | [Lampedusa](http://twitter.com/search?q=Lampedusa) | N/A |
-| 41 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
-| 42 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
-| 43 | [Olivetti](http://twitter.com/search?q=Olivetti) | N/A |
-| 44 | [Gisella](http://twitter.com/search?q=Gisella) | N/A |
-| 45 | [HMGDR](http://twitter.com/search?q=HMGDR) | N/A |
-| 46 | [La CGIL](http://twitter.com/search?q=La+CGIL) | N/A |
-| 47 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 48 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 49 | [Morani](http://twitter.com/search?q=Morani) | N/A |
-| 50 | [Esattamente](http://twitter.com/search?q=Esattamente) | N/A |
+| 1 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
+| 2 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 3 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
+| 4 | [buona pasquetta](http://twitter.com/search?q=buona+pasquetta) | N/A |
+| 5 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
+| 6 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 7 | [#VicenzaJNextGen](http://twitter.com/search?q=%23VicenzaJNextGen) | N/A |
+| 8 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 10 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
+| 11 | [#Enea](http://twitter.com/search?q=%23Enea) | N/A |
+| 12 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 13 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 15 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 16 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
+| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 18 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 19 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 20 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 21 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 22 | [Cocco](http://twitter.com/search?q=Cocco) | N/A |
+| 23 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 24 | [Mkhitaryan](http://twitter.com/search?q=Mkhitaryan) | N/A |
+| 25 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 28 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 29 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 30 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
+| 31 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 32 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
+| 33 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
+| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 35 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 36 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 37 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 38 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
+| 39 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
+| 40 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 41 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 42 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 43 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 44 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 45 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
+| 46 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
+| 47 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 48 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
+| 49 | [Humbert](http://twitter.com/search?q=Humbert) | N/A |
+| 50 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
 
 
 

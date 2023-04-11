@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-11 19:16:55 UTC`
+📆 Last Updated: `2023-04-11 20:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 3 | [#AKWAbschaltung](http://twitter.com/search?q=%23AKWAbschaltung) | N/A |
-| 4 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
-| 5 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
-| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 7 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 8 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 9 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
-| 10 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 11 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
-| 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 13 | [Entfremdung des Menschen](http://twitter.com/search?q=Entfremdung+des+Menschen) | N/A |
-| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 15 | [Visagistin](http://twitter.com/search?q=Visagistin) | N/A |
-| 16 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 17 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 18 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 19 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 20 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 21 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 22 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 23 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
-| 24 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 25 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
-| 26 | [Energie aus Wind und Sonne](http://twitter.com/search?q=Energie+aus+Wind+und+Sonne) | N/A |
-| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 28 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 29 | [Einwanderungsland](http://twitter.com/search?q=Einwanderungsland) | N/A |
-| 30 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Mehrheitlich](http://twitter.com/search?q=Mehrheitlich) | N/A |
-| 33 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 34 | [Antisemiten](http://twitter.com/search?q=Antisemiten) | N/A |
-| 35 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 36 | [Herr Röttgen](http://twitter.com/search?q=Herr+R%c3%b6ttgen) | N/A |
-| 37 | [Kuhmilch](http://twitter.com/search?q=Kuhmilch) | N/A |
-| 38 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
-| 39 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 40 | [Flugzeugträger](http://twitter.com/search?q=Flugzeugtr%c3%a4ger) | N/A |
-| 41 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 42 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 43 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 44 | [Energieversorgung](http://twitter.com/search?q=Energieversorgung) | N/A |
-| 45 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 46 | [anfangsverdacht](http://twitter.com/search?q=anfangsverdacht) | N/A |
-| 47 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
-| 48 | [Helge](http://twitter.com/search?q=Helge) | N/A |
+| 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 2 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 3 | [#Restaurantretter](http://twitter.com/search?q=%23Restaurantretter) | N/A |
+| 4 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 5 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
+| 6 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 7 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 8 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 9 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 11 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 12 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
+| 13 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
+| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 15 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
+| 16 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
+| 17 | [Müller](http://twitter.com/search?q=M%c3%bcller) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [Entfremdung des Menschen](http://twitter.com/search?q=Entfremdung+des+Menschen) | N/A |
+| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 24 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 25 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 26 | [Visagistin](http://twitter.com/search?q=Visagistin) | N/A |
+| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 28 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 29 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 30 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 31 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 32 | [Schuss](http://twitter.com/search?q=Schuss) | N/A |
+| 33 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 34 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
+| 35 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 36 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 37 | [Weltklasse](http://twitter.com/search?q=Weltklasse) | N/A |
+| 38 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
+| 39 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 40 | [Torwart](http://twitter.com/search?q=Torwart) | N/A |
+| 41 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
+| 42 | [Ligt](http://twitter.com/search?q=Ligt) | N/A |
+| 43 | [Einwanderungsland](http://twitter.com/search?q=Einwanderungsland) | N/A |
+| 44 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 46 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 47 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 
 
 

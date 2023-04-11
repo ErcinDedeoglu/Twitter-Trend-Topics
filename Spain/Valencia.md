@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-04-11 19:16:59 UTC`
+📆 Last Updated: `2023-04-11 20:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 2 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 3 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 4 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 5 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
-| 6 | [#Solos11A](http://twitter.com/search?q=%23Solos11A) | N/A |
-| 7 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 8 | [#DeCampingConLidl](http://twitter.com/search?q=%23DeCampingConLidl) | N/A |
-| 9 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 10 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 13 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 14 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
-| 15 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 16 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 17 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 18 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 19 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 20 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 21 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 22 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [#FirstDates11A](http://twitter.com/search?q=%23FirstDates11A) | N/A |
+| 4 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 5 | [#Solos11A](http://twitter.com/search?q=%23Solos11A) | N/A |
+| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 8 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 9 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 10 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 11 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 12 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 13 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 16 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 17 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 18 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 19 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 20 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 23 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 24 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
 | 25 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 26 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 27 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 28 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 29 | [Lucía Méndez](http://twitter.com/search?q=Luc%c3%ada+M%c3%a9ndez) | N/A |
-| 30 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 31 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
-| 32 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 33 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 34 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 35 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
-| 36 | [Sanxenxo](http://twitter.com/search?q=Sanxenxo) | N/A |
-| 37 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 38 | [Bunbury](http://twitter.com/search?q=Bunbury) | N/A |
-| 39 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 40 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 41 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 42 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
-| 43 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
-| 44 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 45 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 46 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
-| 47 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 48 | [García Gallardo](http://twitter.com/search?q=Garc%c3%ada+Gallardo) | N/A |
-| 49 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 26 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 27 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 28 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 29 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
+| 30 | [Logroño](http://twitter.com/search?q=Logro%c3%b1o) | N/A |
+| 31 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 32 | [#DeCampingConLidl](http://twitter.com/search?q=%23DeCampingConLidl) | N/A |
+| 33 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
+| 34 | [#SolosPortaYFrigenti](http://twitter.com/search?q=%23SolosPortaYFrigenti) | N/A |
+| 35 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
+| 36 | [#Adarafobia](http://twitter.com/search?q=%23Adarafobia) | N/A |
+| 37 | [#CrisPortaSolos](http://twitter.com/search?q=%23CrisPortaSolos) | N/A |
+| 38 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 39 | [#CrisPorta11A](http://twitter.com/search?q=%23CrisPorta11A) | N/A |
+| 40 | [#MMOPENELPARKING](http://twitter.com/search?q=%23MMOPENELPARKING) | N/A |
+| 41 | [#AdaraSv11A](http://twitter.com/search?q=%23AdaraSv11A) | N/A |
+| 42 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 43 | [#EstrategiasAdvanceWars](http://twitter.com/search?q=%23EstrategiasAdvanceWars) | N/A |
+| 44 | [#APOYOROCIO11A](http://twitter.com/search?q=%23APOYOROCIO11A) | N/A |
 
 
 

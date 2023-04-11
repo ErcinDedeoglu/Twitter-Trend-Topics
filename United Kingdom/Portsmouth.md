@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-04-11 19:16:42 UTC`
+📆 Last Updated: `2023-04-11 20:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
-| 2 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
-| 3 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 4 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 5 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 6 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 8 | [#AndrewsInSongOrFilm](http://twitter.com/search?q=%23AndrewsInSongOrFilm) | N/A |
-| 9 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 12 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 13 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
-| 14 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 15 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 16 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 17 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 18 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 19 | [Electoral Commission](http://twitter.com/search?q=Electoral+Commission) | N/A |
-| 20 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 21 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 22 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 23 | [Barclay](http://twitter.com/search?q=Barclay) | N/A |
-| 24 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 25 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 26 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 27 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 28 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 29 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 30 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 31 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 32 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
-| 33 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 34 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 35 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 36 | [#ToriesOut278](http://twitter.com/search?q=%23ToriesOut278) | N/A |
-| 37 | [#SNPCorruption](http://twitter.com/search?q=%23SNPCorruption) | N/A |
-| 38 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 3 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 4 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
+| 5 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 6 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 7 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 8 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
+| 9 | [Barclay](http://twitter.com/search?q=Barclay) | N/A |
+| 10 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 11 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 12 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 13 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 14 | [#interiordesignmasters](http://twitter.com/search?q=%23interiordesignmasters) | N/A |
+| 15 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 16 | [Paul Joyce](http://twitter.com/search?q=Paul+Joyce) | N/A |
+| 17 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 18 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 19 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 20 | [Oh Canada](http://twitter.com/search?q=Oh+Canada) | N/A |
+| 21 | [Yann Sommer](http://twitter.com/search?q=Yann+Sommer) | Yann Sommer is a Swiss professional footballer who plays as a goalkeeper for Borussia Mönchengladbach and the Switzerland national team. His name means "summer sun" in English. |
+| 22 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 23 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 24 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 25 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 26 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 27 | [Alphonso Davies](http://twitter.com/search?q=Alphonso+Davies) | N/A |
+| 28 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 29 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 30 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 31 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 32 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 33 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
+| 34 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 35 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 36 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
+| 37 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 38 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
+| 39 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 40 | [Daly](http://twitter.com/search?q=Daly) | N/A |
+| 41 | [Monika](http://twitter.com/search?q=Monika) | N/A |
+| 42 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 43 | [John Stones](http://twitter.com/search?q=John+Stones) | John Stones is a professional English footballer who plays as a centre-back for Premier League club Manchester City and the England national team. He is known for his ability to read the game, passing accuracy, and composure on the ball. |
+| 44 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
+| 45 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 46 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 47 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 48 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 
 
 

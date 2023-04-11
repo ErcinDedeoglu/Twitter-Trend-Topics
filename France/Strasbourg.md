@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-04-11 19:16:55 UTC`
+📆 Last Updated: `2023-04-11 20:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Quatennens](http://twitter.com/search?q=%23Quatennens) | N/A |
-| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 3 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 4 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 5 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 6 | [#mapr](http://twitter.com/search?q=%23mapr) | N/A |
-| 7 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 8 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
-| 9 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
-| 10 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 11 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
-| 12 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 13 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 14 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
-| 15 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
-| 16 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 17 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
-| 18 | [Marchais](http://twitter.com/search?q=Marchais) | N/A |
-| 19 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
-| 20 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
-| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 23 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 24 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
-| 25 | [Jeel](http://twitter.com/search?q=Jeel) | N/A |
-| 26 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 27 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
-| 28 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 29 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
-| 30 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 31 | [Balti](http://twitter.com/search?q=Balti) | N/A |
-| 32 | [Liga Nos](http://twitter.com/search?q=Liga+Nos) | N/A |
-| 33 | [Wakanda](http://twitter.com/search?q=Wakanda) | N/A |
-| 34 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
-| 35 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
-| 36 | [Humbert](http://twitter.com/search?q=Humbert) | N/A |
-| 37 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 38 | [vitale](http://twitter.com/search?q=vitale) | N/A |
-| 39 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 40 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 41 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 42 | [Médine](http://twitter.com/search?q=M%c3%a9dine) | N/A |
-| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 44 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 45 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 46 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 47 | [Elle a 19](http://twitter.com/search?q=Elle+a+19) | N/A |
-| 48 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 1 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 2 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 3 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 6 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 7 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 8 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 9 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 10 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
+| 11 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 12 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 13 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 14 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 15 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 16 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 17 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 19 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 20 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 21 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 22 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 23 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 24 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
+| 25 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 26 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 27 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 28 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 31 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 32 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 33 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 34 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 35 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 36 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 37 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 38 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 39 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
+| 40 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
+| 41 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 42 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
+| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 44 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 45 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 46 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
+| 47 | [#FRACAN](http://twitter.com/search?q=%23FRACAN) | N/A |
+| 48 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 
 
 

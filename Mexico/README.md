@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-11 19:17:37 UTC`
+📆 Last Updated: `2023-04-11 20:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 2 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 4 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 5 | [#PoderosoTemplado](http://twitter.com/search?q=%23PoderosoTemplado) | N/A |
-| 6 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 8 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 9 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 11 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 12 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 13 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 14 | [Gera](http://twitter.com/search?q=Gera) | N/A |
-| 15 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 16 | [Tercer Grado Deportivo](http://twitter.com/search?q=Tercer+Grado+Deportivo) | N/A |
-| 17 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 18 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
-| 19 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 20 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 21 | [Hugo López](http://twitter.com/search?q=Hugo+L%c3%b3pez) | N/A |
-| 22 | [Interjet](http://twitter.com/search?q=Interjet) | N/A |
-| 23 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 24 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [Sheinbaum](http://twitter.com/search?q=Sheinbaum) | Sheinbaum is a Jewish surname derived from the German word "Scheinbaum," which means "shining tree." The name is thought to have originated from a family of Jewish merchants who owned a shop in the city of Frankfurt, Germany. In English, Sheinbaum can be translated to mean "shining tree." |
-| 27 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 28 | [Plaza Condesa](http://twitter.com/search?q=Plaza+Condesa) | N/A |
-| 29 | [Francisco González Bocanegra](http://twitter.com/search?q=Francisco+Gonz%c3%a1lez+Bocanegra) | N/A |
-| 30 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 31 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 32 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 33 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 34 | [Julio Urías](http://twitter.com/search?q=Julio+Ur%c3%adas) | N/A |
-| 35 | [Pan y Circo](http://twitter.com/search?q=Pan+y+Circo) | N/A |
-| 36 | [Gratuito](http://twitter.com/search?q=Gratuito) | N/A |
-| 37 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
-| 38 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 39 | [Peach](http://twitter.com/search?q=Peach) | N/A |
-| 40 | [Cofepris](http://twitter.com/search?q=Cofepris) | N/A |
-| 41 | [Tania Rincón](http://twitter.com/search?q=Tania+Rinc%c3%b3n) | N/A |
-| 42 | [Entrona](http://twitter.com/search?q=Entrona) | N/A |
-| 43 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 45 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 46 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 47 | [leona vicario](http://twitter.com/search?q=leona+vicario) | N/A |
-| 48 | [Rosi](http://twitter.com/search?q=Rosi) | N/A |
-| 49 | [Martes 11](http://twitter.com/search?q=Martes+11) | N/A |
-| 50 | [Jake Bongiovi](http://twitter.com/search?q=Jake+Bongiovi) | N/A |
+| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
+| 4 | [Changoleón](http://twitter.com/search?q=Changole%c3%b3n) | N/A |
+| 5 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 6 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 7 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 9 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 13 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 14 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 15 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
+| 16 | [Solovino](http://twitter.com/search?q=Solovino) | N/A |
+| 17 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 18 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 19 | [Olivia Collins](http://twitter.com/search?q=Olivia+Collins) | N/A |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 23 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 24 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 25 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 26 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
+| 27 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 28 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 29 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 30 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
+| 31 | [#HappySEHUNDay](http://twitter.com/search?q=%23HappySEHUNDay) | N/A |
+| 32 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
+| 33 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 34 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 35 | [#ElTEPJFNoSeToca](http://twitter.com/search?q=%23ElTEPJFNoSeToca) | N/A |
+| 36 | [#COVID19](http://twitter.com/search?q=%23COVID19) | N/A |
+| 37 | [#TalentLand2023](http://twitter.com/search?q=%23TalentLand2023) | N/A |
+| 38 | [#MoratoriaConstitucional](http://twitter.com/search?q=%23MoratoriaConstitucional) | N/A |
 
 
 

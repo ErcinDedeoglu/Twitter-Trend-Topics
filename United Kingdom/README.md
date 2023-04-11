@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-11 19:17:41 UTC`
+📆 Last Updated: `2023-04-11 20:19:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 3 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 4 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 5 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 6 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 8 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 12 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 13 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 14 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 15 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 16 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
-| 19 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 20 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 21 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 24 | [daily quordle 441](http://twitter.com/search?q=daily+quordle+441) | N/A |
-| 25 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 26 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 27 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
-| 28 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
-| 29 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 30 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
-| 31 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 32 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 33 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 34 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
-| 35 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 36 | [Deano](http://twitter.com/search?q=Deano) | N/A |
-| 37 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
-| 38 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
-| 39 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 40 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 41 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 42 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 43 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 44 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 45 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
-| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 47 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
-| 48 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 49 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 50 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 6 | [#FSGOut](http://twitter.com/search?q=%23FSGOut) | N/A |
+| 7 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 8 | [Paul Joyce](http://twitter.com/search?q=Paul+Joyce) | N/A |
+| 9 | [#interiordesignmasters](http://twitter.com/search?q=%23interiordesignmasters) | N/A |
+| 10 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 11 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 13 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 14 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 15 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 16 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 17 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 18 | [Yann Sommer](http://twitter.com/search?q=Yann+Sommer) | Yann Sommer is a Swiss professional footballer who plays as a goalkeeper for Borussia Mönchengladbach and the Switzerland national team. His name means "summer sun" in English. |
+| 19 | [Oh Canada](http://twitter.com/search?q=Oh+Canada) | N/A |
+| 20 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 22 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 23 | [Alphonso Davies](http://twitter.com/search?q=Alphonso+Davies) | N/A |
+| 24 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 25 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
+| 26 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 27 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 28 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 29 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 30 | [Conor Gallagher](http://twitter.com/search?q=Conor+Gallagher) | N/A |
+| 31 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 32 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 33 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 34 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
+| 35 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
+| 36 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 37 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 38 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 39 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
+| 40 | [Daly](http://twitter.com/search?q=Daly) | N/A |
+| 41 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
+| 42 | [Monika](http://twitter.com/search?q=Monika) | N/A |
+| 43 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 44 | [John Stones](http://twitter.com/search?q=John+Stones) | John Stones is a professional English footballer who plays as a centre-back for Premier League club Manchester City and the England national team. He is known for his ability to read the game, passing accuracy, and composure on the ball. |
+| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 46 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 47 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 48 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 49 | [Russo](http://twitter.com/search?q=Russo) | N/A |
+| 50 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
 
 
 

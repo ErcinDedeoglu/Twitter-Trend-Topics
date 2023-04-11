@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-11 19:17:34 UTC`
+📆 Last Updated: `2023-04-11 20:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
+| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
-| 4 | [MAIARA E MARAISA NO NORDESTE](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+NORDESTE) | N/A |
-| 5 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 6 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 9 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 10 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 11 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 12 | [Caruaru](http://twitter.com/search?q=Caruaru) | N/A |
-| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 14 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 15 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 16 | [#voltavp](http://twitter.com/search?q=%23voltavp) | N/A |
-| 17 | [#f90br](http://twitter.com/search?q=%23f90br) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 20 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 21 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 22 | [Santa Tereza de Goiás](http://twitter.com/search?q=Santa+Tereza+de+Goi%c3%a1s) | N/A |
-| 23 | [Waldemar](http://twitter.com/search?q=Waldemar) | N/A |
-| 24 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 25 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 26 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 27 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 28 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 29 | [Injustiça](http://twitter.com/search?q=Injusti%c3%a7a) | N/A |
-| 30 | [IPVA](http://twitter.com/search?q=IPVA) | N/A |
-| 31 | [IPCA](http://twitter.com/search?q=IPCA) | N/A |
-| 32 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 33 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 34 | [john mayer](http://twitter.com/search?q=john+mayer) | N/A |
-| 35 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 36 | [Vítor Pereira](http://twitter.com/search?q=V%c3%adtor+Pereira) | N/A |
-| 37 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
-| 38 | [Turquia](http://twitter.com/search?q=Turquia) | N/A |
-| 39 | [Village](http://twitter.com/search?q=Village) | N/A |
-| 40 | [O 21](http://twitter.com/search?q=O+21) | N/A |
-| 41 | [Se o JJ](http://twitter.com/search?q=Se+o+JJ) | N/A |
-| 42 | [Dia 11](http://twitter.com/search?q=Dia+11) | N/A |
-| 43 | [Djalminha](http://twitter.com/search?q=Djalminha) | N/A |
-| 44 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 45 | [Nota 10](http://twitter.com/search?q=Nota+10) | N/A |
-| 46 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
-| 47 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 48 | [Itaquera](http://twitter.com/search?q=Itaquera) | N/A |
-| 49 | [E o Braz](http://twitter.com/search?q=E+o+Braz) | N/A |
-| 50 | [Volta JJ](http://twitter.com/search?q=Volta+JJ) | N/A |
+| 3 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 4 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 6 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
+| 7 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
+| 8 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 9 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 10 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 11 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 12 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 13 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 14 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 16 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 18 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 19 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 20 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 21 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 22 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 23 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 24 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 25 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 26 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 27 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 28 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
+| 29 | [Everaldo](http://twitter.com/search?q=Everaldo) | Everaldo is a Portuguese given name derived from the Germanic name Eberhard, which means "strong as a boar". In English, Everaldo can be translated to mean "strong and brave". |
+| 30 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 31 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 32 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 33 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 34 | [Zé Trovão](http://twitter.com/search?q=Z%c3%a9+Trov%c3%a3o) | N/A |
+| 35 | [#ChampionsNoSBT](http://twitter.com/search?q=%23ChampionsNoSBT) | N/A |
+| 36 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
+| 37 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 38 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 39 | [MAIARA E MARAISA NO NORDESTE](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+NORDESTE) | N/A |
+| 40 | [Volta Redonda x Bahia](http://twitter.com/search?q=Volta+Redonda+x+Bahia) | N/A |
+| 41 | [Sérgio Coelho](http://twitter.com/search?q=S%c3%a9rgio+Coelho) | N/A |
+| 42 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
+| 43 | [O City](http://twitter.com/search?q=O+City) | N/A |
+| 44 | [Bernadete](http://twitter.com/search?q=Bernadete) | N/A |
+| 45 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 46 | [Caruaru](http://twitter.com/search?q=Caruaru) | N/A |
+| 47 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 48 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 49 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 50 | [Portela](http://twitter.com/search?q=Portela) | N/A |
 
 
 

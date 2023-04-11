@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-04-11 19:17:13 UTC`
+📆 Last Updated: `2023-04-11 20:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DrNandipha](http://twitter.com/search?q=%23DrNandipha) | N/A |
-| 2 | [#ThaboBesterArrested](http://twitter.com/search?q=%23ThaboBesterArrested) | N/A |
-| 3 | [#wooliesbeauty](http://twitter.com/search?q=%23wooliesbeauty) | N/A |
-| 4 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 5 | [#DoThingsBigWithTelkom](http://twitter.com/search?q=%23DoThingsBigWithTelkom) | N/A |
-| 6 | [Hopewell](http://twitter.com/search?q=Hopewell) | N/A |
-| 7 | [Redi](http://twitter.com/search?q=Redi) | N/A |
-| 8 | [#TuesdayCrossword](http://twitter.com/search?q=%23TuesdayCrossword) | N/A |
-| 9 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
-| 10 | [Thapelo](http://twitter.com/search?q=Thapelo) | N/A |
-| 11 | [Dr Pashy](http://twitter.com/search?q=Dr+Pashy) | N/A |
-| 12 | [Spar](http://twitter.com/search?q=Spar) | N/A |
-| 13 | [KHOSI REIGNS SUPREME](http://twitter.com/search?q=KHOSI+REIGNS+SUPREME) | N/A |
-| 14 | [THABANG EFFECT](http://twitter.com/search?q=THABANG+EFFECT) | N/A |
-| 15 | [Block 2](http://twitter.com/search?q=Block+2) | N/A |
-| 16 | [KHOSIREIGNS FOR KHOSI](http://twitter.com/search?q=KHOSIREIGNS+FOR+KHOSI) | N/A |
-| 17 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 18 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
-| 19 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 20 | [JUICY JAY GRADUATION WEEK](http://twitter.com/search?q=JUICY+JAY+GRADUATION+WEEK) | N/A |
-| 21 | [TSATSII AND HER SUNRISERS](http://twitter.com/search?q=TSATSII+AND+HER+SUNRISERS) | N/A |
-| 22 | [Hani](http://twitter.com/search?q=Hani) | N/A |
-| 23 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [ANTICIPATE IPELENG](http://twitter.com/search?q=ANTICIPATE+IPELENG) | N/A |
-| 26 | [bongani fassie](http://twitter.com/search?q=bongani+fassie) | N/A |
-| 27 | [TSATSII IS LOVED](http://twitter.com/search?q=TSATSII+IS+LOVED) | N/A |
-| 28 | [WE LOVE YOU IPELENG](http://twitter.com/search?q=WE+LOVE+YOU+IPELENG) | N/A |
-| 29 | [IPELENG IS OUTSIDE](http://twitter.com/search?q=IPELENG+IS+OUTSIDE) | N/A |
-| 30 | [Sasol Women's League](http://twitter.com/search?q=Sasol+Women%27s+League) | N/A |
-| 31 | [Pretoria East](http://twitter.com/search?q=Pretoria+East) | N/A |
-| 32 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 33 | [Dricus](http://twitter.com/search?q=Dricus) | N/A |
-| 34 | [Senohe Matsoara](http://twitter.com/search?q=Senohe+Matsoara) | N/A |
-| 35 | [Thobi](http://twitter.com/search?q=Thobi) | N/A |
-| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 37 | [Sakina](http://twitter.com/search?q=Sakina) | N/A |
-| 38 | [Venda](http://twitter.com/search?q=Venda) | N/A |
-| 39 | [Joburg](http://twitter.com/search?q=Joburg) | N/A |
-| 40 | [khosi x good deeds](http://twitter.com/search?q=khosi+x+good+deeds) | N/A |
-| 41 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 42 | [Zimbabweans](http://twitter.com/search?q=Zimbabweans) | N/A |
-| 43 | [SANDF](http://twitter.com/search?q=SANDF) | N/A |
-| 44 | [Chamisa](http://twitter.com/search?q=Chamisa) | N/A |
-| 45 | [Hilton](http://twitter.com/search?q=Hilton) | Hilton is a global hospitality company that owns, manages, and franchises a portfolio of hotels and resorts. The company was founded by Conrad Hilton in 1919 and is now one of the largest hotel chains in the world. The name Hilton is derived from the English word "hilt," which means "a handle or grip of a sword." |
-| 46 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 47 | [THABANG JUST ARRIVED](http://twitter.com/search?q=THABANG+JUST+ARRIVED) | N/A |
-| 48 | [Luyanda](http://twitter.com/search?q=Luyanda) | N/A |
-| 49 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 50 | [Mass Country](http://twitter.com/search?q=Mass+Country) | N/A |
+| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 6 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 10 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 11 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 12 | [#GqebherhaTheEmpire](http://twitter.com/search?q=%23GqebherhaTheEmpire) | N/A |
+| 13 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 14 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 15 | [#DrNandipha](http://twitter.com/search?q=%23DrNandipha) | N/A |
+| 16 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 17 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 18 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 19 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 22 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 23 | [Hopewell](http://twitter.com/search?q=Hopewell) | N/A |
+| 24 | [Redi](http://twitter.com/search?q=Redi) | N/A |
+| 25 | [Thulani](http://twitter.com/search?q=Thulani) | N/A |
+| 26 | [Anathi](http://twitter.com/search?q=Anathi) | N/A |
+| 27 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 28 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 29 | [THABANG EFFECT](http://twitter.com/search?q=THABANG+EFFECT) | N/A |
+| 30 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 31 | [Stage 5](http://twitter.com/search?q=Stage+5) | N/A |
+| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 33 | [Dr Pashy](http://twitter.com/search?q=Dr+Pashy) | N/A |
+| 34 | [KHOSI REIGNS SUPREME](http://twitter.com/search?q=KHOSI+REIGNS+SUPREME) | N/A |
+| 35 | [Thapelo](http://twitter.com/search?q=Thapelo) | N/A |
+| 36 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 37 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 38 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 39 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 40 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 41 | [tsatsii and her sunrisers](http://twitter.com/search?q=tsatsii+and+her+sunrisers) | N/A |
+| 42 | [Hani](http://twitter.com/search?q=Hani) | N/A |
+| 43 | [Nontle](http://twitter.com/search?q=Nontle) | N/A |
+| 44 | [Spar](http://twitter.com/search?q=Spar) | N/A |
+| 45 | [WE LOVE YOU IPELENG](http://twitter.com/search?q=WE+LOVE+YOU+IPELENG) | N/A |
+| 46 | [Lawrence](http://twitter.com/search?q=Lawrence) | Lawrence is a masculine given name of English origin. It is derived from the Latin Laurentius, which means "from Laurentum". The name is derived from the Roman city of Laurentum, which was located in Latium near the coast of the Mediterranean Sea. The name Lawrence has been used since at least the 11th century and has been popular in England since the 16th century. |
+| 47 | [ANTICIPATE IPELENG](http://twitter.com/search?q=ANTICIPATE+IPELENG) | N/A |
+| 48 | [IPELENG IS OUTSIDE](http://twitter.com/search?q=IPELENG+IS+OUTSIDE) | N/A |
+| 49 | [bongani fassie](http://twitter.com/search?q=bongani+fassie) | N/A |
+| 50 | [JUICY JAY GRADUATION WEEK](http://twitter.com/search?q=JUICY+JAY+GRADUATION+WEEK) | N/A |
 
 
 

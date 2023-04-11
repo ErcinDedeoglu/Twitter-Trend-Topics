@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-11 19:17:32 UTC`
+📆 Last Updated: `2023-04-11 20:18:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 3 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 4 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
-| 5 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 6 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
-| 7 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
-| 8 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 9 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 10 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 11 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 12 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [#BMHW23](http://twitter.com/search?q=%23BMHW23) | N/A |
-| 15 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 16 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
-| 17 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
-| 18 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 19 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 20 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
-| 21 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 22 | [Witherspoon](http://twitter.com/search?q=Witherspoon) | N/A |
-| 23 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 25 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 26 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
-| 27 | [For a 5th](http://twitter.com/search?q=For+a+5th) | N/A |
-| 28 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 29 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 30 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
-| 31 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
-| 32 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 33 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
-| 34 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
-| 35 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
-| 36 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 37 | [Balance and Composure](http://twitter.com/search?q=Balance+and+Composure) | N/A |
-| 38 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
-| 39 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 40 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 41 | [Boogie](http://twitter.com/search?q=Boogie) | N/A |
-| 42 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
-| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 44 | [All 15](http://twitter.com/search?q=All+15) | N/A |
-| 45 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
-| 46 | [Stephen Miller](http://twitter.com/search?q=Stephen+Miller) | N/A |
-| 47 | [Terrell](http://twitter.com/search?q=Terrell) | N/A |
-| 48 | [Big 5](http://twitter.com/search?q=Big+5) | N/A |
-| 49 | [Ken Griffin](http://twitter.com/search?q=Ken+Griffin) | N/A |
+| 2 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 6 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
+| 7 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 8 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 10 | [Prime Dwight](http://twitter.com/search?q=Prime+Dwight) | N/A |
+| 11 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 13 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 14 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 15 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 16 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 17 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 18 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 19 | [Wrongfully](http://twitter.com/search?q=Wrongfully) | N/A |
+| 20 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 21 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
+| 22 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 24 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 26 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 27 | [Manhattan DA Alvin Bragg](http://twitter.com/search?q=Manhattan+DA+Alvin+Bragg) | N/A |
+| 28 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 29 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 30 | [GOP House Judiciary](http://twitter.com/search?q=GOP+House+Judiciary) | N/A |
+| 31 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 32 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
+| 33 | [Howie Mandel](http://twitter.com/search?q=Howie+Mandel) | N/A |
+| 34 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 35 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 36 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 37 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 38 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 39 | [Stephen Miller](http://twitter.com/search?q=Stephen+Miller) | N/A |
+| 40 | [Tom Sandoval](http://twitter.com/search?q=Tom+Sandoval) | N/A |
+| 41 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 42 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 43 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 44 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 45 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 46 | [Quilly](http://twitter.com/search?q=Quilly) | N/A |
+| 47 | [Witherspoon](http://twitter.com/search?q=Witherspoon) | N/A |
+| 48 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 49 | [Gurley](http://twitter.com/search?q=Gurley) | N/A |
 
 
 

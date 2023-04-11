@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-04-11 19:17:00 UTC`
+📆 Last Updated: `2023-04-11 20:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 2 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 3 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 4 | [#LaIslaDeLasTentaciones12](http://twitter.com/search?q=%23LaIslaDeLasTentaciones12) | N/A |
+| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [#FirstDates11A](http://twitter.com/search?q=%23FirstDates11A) | N/A |
+| 4 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
 | 5 | [#Solos11A](http://twitter.com/search?q=%23Solos11A) | N/A |
-| 6 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 7 | [#DeCampingConLidl](http://twitter.com/search?q=%23DeCampingConLidl) | N/A |
-| 8 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 11 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 12 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
-| 13 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 14 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 15 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 16 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 17 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 18 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 19 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 20 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 22 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 23 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 24 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 25 | [Virgen del Rocío](http://twitter.com/search?q=Virgen+del+Roc%c3%ado) | N/A |
-| 26 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 27 | [Lucía Méndez](http://twitter.com/search?q=Luc%c3%ada+M%c3%a9ndez) | N/A |
-| 28 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 29 | [José Zaragoza](http://twitter.com/search?q=Jos%c3%a9+Zaragoza) | N/A |
-| 30 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
-| 31 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 32 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 33 | [Más Madrid](http://twitter.com/search?q=M%c3%a1s+Madrid) | N/A |
-| 34 | [Sanxenxo](http://twitter.com/search?q=Sanxenxo) | N/A |
-| 35 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 36 | [Bunbury](http://twitter.com/search?q=Bunbury) | N/A |
-| 37 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 38 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 39 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 40 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
-| 41 | [Pederasta](http://twitter.com/search?q=Pederasta) | N/A |
-| 42 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 43 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 44 | [Bulma](http://twitter.com/search?q=Bulma) | N/A |
-| 45 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 46 | [García Gallardo](http://twitter.com/search?q=Garc%c3%ada+Gallardo) | N/A |
-| 47 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 48 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
-| 49 | [Umbreon](http://twitter.com/search?q=Umbreon) | N/A |
+| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 8 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 9 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 10 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 12 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 14 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 15 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 17 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 18 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 19 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 20 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 21 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 22 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 23 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 24 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 25 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 26 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 27 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 28 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
+| 29 | [Logroño](http://twitter.com/search?q=Logro%c3%b1o) | N/A |
+| 30 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 31 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 32 | [#DeCampingConLidl](http://twitter.com/search?q=%23DeCampingConLidl) | N/A |
+| 33 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
+| 34 | [#SolosPortaYFrigenti](http://twitter.com/search?q=%23SolosPortaYFrigenti) | N/A |
+| 35 | [#Adarafobia](http://twitter.com/search?q=%23Adarafobia) | N/A |
+| 36 | [#CrisPortaSolos](http://twitter.com/search?q=%23CrisPortaSolos) | N/A |
+| 37 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
+| 38 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 39 | [#CrisPorta11A](http://twitter.com/search?q=%23CrisPorta11A) | N/A |
+| 40 | [#AdaraSv11A](http://twitter.com/search?q=%23AdaraSv11A) | N/A |
+| 41 | [#MMOPENELPARKING](http://twitter.com/search?q=%23MMOPENELPARKING) | N/A |
+| 42 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 43 | [#EstrategiasAdvanceWars](http://twitter.com/search?q=%23EstrategiasAdvanceWars) | N/A |
+| 44 | [#APOYOROCIO11A](http://twitter.com/search?q=%23APOYOROCIO11A) | N/A |
 
 
 

@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-11 19:16:38 UTC`
+📆 Last Updated: `2023-04-11 20:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 2 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
-| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 4 | [#FallenMisfitLost_Photo](http://twitter.com/search?q=%23FallenMisfitLost_Photo) | N/A |
-| 5 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 6 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
-| 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [İiBFp3ünSesini DuyanVarMı](http://twitter.com/search?q=%c4%b0iBFp3%c3%bcnSesini+DuyanVarM%c4%b1) | N/A |
-| 10 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
-| 11 | [ばらかもんドラマ化](http://twitter.com/search?q=%e3%81%b0%e3%82%89%e3%81%8b%e3%82%82%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e%e5%8c%96) | N/A |
-| 12 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
-| 13 | [精神攻撃](http://twitter.com/search?q=%e7%b2%be%e7%a5%9e%e6%94%bb%e6%92%83) | N/A |
-| 14 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 15 | [落下の悪魔](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
-| 16 | [月のワルツ](http://twitter.com/search?q=%e6%9c%88%e3%81%ae%e3%83%af%e3%83%ab%e3%83%84) | N/A |
-| 17 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
-| 18 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 19 | [藤くん誕生日](http://twitter.com/search?q=%e8%97%a4%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 20 | [フレンチドック](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%83%89%e3%83%83%e3%82%af) | N/A |
-| 21 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
-| 22 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
-| 23 | [デンジくん](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%8f%e3%82%93) | デンジくん is a character from the Japanese manga series, Dengeki Oshioki Musume Gōtaman. The character's name is Denji, and he is a robot created by the protagonist of the series, Gōtaman. In English, his name would be translated as "Denji the Robot". |
-| 24 | [第446回](http://twitter.com/search?q=%e7%ac%ac446%e5%9b%9e) | N/A |
-| 25 | [MAIARA E MARAISA NO NORDESTE](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+NORDESTE) | N/A |
-| 26 | [ヨンジュン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | ヨンジュン is a Korean given name, which is usually written in hanja as 永俊. It is composed of two characters, 永 (yeong) meaning "eternal" and 俊 (jun) meaning "talented". In English, it can be translated to mean "eternally talented". |
-| 27 | [UNFORGIVEN 1ST CONCEPT](http://twitter.com/search?q=UNFORGIVEN+1ST+CONCEPT) | N/A |
-| 28 | [チェンソーマン](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3) | チェンソーマン (Chenso-man) is a Japanese term for a person who is good at making decisions and taking action. It is derived from the words "chenso" (decision) and "man" (person). In English, it can be translated as "decision maker". |
-| 29 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 30 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 31 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 32 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 33 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 34 | [マーベルズ](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%99%e3%83%ab%e3%82%ba) | N/A |
-| 35 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 36 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 37 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 38 | [大橋くん](http://twitter.com/search?q=%e5%a4%a7%e6%a9%8b%e3%81%8f%e3%82%93) | 大橋くん (Ohashi-kun) is a Japanese nickname given to someone who is tall and strong. It literally translates to "Mr. Big Bridge" in English. |
-| 39 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 40 | [الطبقه الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
-| 41 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
-| 42 | [藤原啓治さん](http://twitter.com/search?q=%e8%97%a4%e5%8e%9f%e5%95%93%e6%b2%bb%e3%81%95%e3%82%93) | N/A |
-| 43 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 44 | [下野さん](http://twitter.com/search?q=%e4%b8%8b%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 45 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 46 | [Axar](http://twitter.com/search?q=Axar) | Axar is a Sanskrit word meaning “axis” or “pole.” It is used in Hinduism to refer to the central point of the universe, around which all other things revolve. In modern usage, it can also refer to a person or thing that serves as a focal point for others. |
-| 47 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 48 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 49 | [紀章さん](http://twitter.com/search?q=%e7%b4%80%e7%ab%a0%e3%81%95%e3%82%93) | N/A |
-| 50 | [#FML_D12](http://twitter.com/search?q=%23FML_D12) | N/A |
+| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 5 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [#رمضان_مع_ابوفهد10](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af10) | N/A |
+| 8 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 9 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 10 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 11 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 12 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 13 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 14 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 15 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 16 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 18 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
+| 19 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 20 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 21 | [Yann Sommer](http://twitter.com/search?q=Yann+Sommer) | Yann Sommer is a Swiss professional footballer who plays as a goalkeeper for Borussia Mönchengladbach and the Switzerland national team. His name means "summer sun" in English. |
+| 22 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 23 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 24 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 25 | [Paul Joyce](http://twitter.com/search?q=Paul+Joyce) | N/A |
+| 26 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
+| 27 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 28 | [القدم الضعيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b6%d8%b9%d9%8a%d9%81%d9%87) | N/A |
+| 29 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
+| 30 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
+| 31 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
+| 32 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
+| 33 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 34 | [كومان](http://twitter.com/search?q=%d9%83%d9%88%d9%85%d8%a7%d9%86) | N/A |
+| 35 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 36 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 38 | [Echeverri](http://twitter.com/search?q=Echeverri) | N/A |
+| 39 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 40 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 41 | [アカンジ](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%b3%e3%82%b8) | N/A |
+| 42 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
+| 43 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 44 | [بيت الهدف](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
+| 45 | [Oh Canada](http://twitter.com/search?q=Oh+Canada) | N/A |
+| 46 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 47 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
+| 48 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
+| 49 | [فابيو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
+| 50 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
 
 
 
