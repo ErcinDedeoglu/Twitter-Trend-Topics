@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-11 18:18:14 UTC`
+📆 Last Updated: `2023-04-11 19:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 21 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
 | 22 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 23 | [#indiemusic](http://twitter.com/search?q=%23indiemusic) | N/A |
-| 24 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 25 | [Bull](http://twitter.com/search?q=Bull) | N/A |
+| 24 | [Bull](http://twitter.com/search?q=Bull) | N/A |
+| 25 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
 | 26 | [Jeez](http://twitter.com/search?q=Jeez) | N/A |
 | 27 | [matt king](http://twitter.com/search?q=matt+king) | N/A |
 | 28 | [Genocide](http://twitter.com/search?q=Genocide) | N/A |
-| 29 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
-| 30 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 31 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
-| 32 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 33 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 34 | [Herald](http://twitter.com/search?q=Herald) | N/A |
-| 35 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
-| 36 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 39 | [Overload](http://twitter.com/search?q=Overload) | N/A |
-| 40 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 41 | [False](http://twitter.com/search?q=False) | N/A |
+| 29 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 30 | [national and act](http://twitter.com/search?q=national+and+act) | N/A |
+| 31 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 32 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 33 | [Herald](http://twitter.com/search?q=Herald) | N/A |
+| 34 | [#UFC287](http://twitter.com/search?q=%23UFC287) | N/A |
+| 35 | [Greg](http://twitter.com/search?q=Greg) | N/A |
+| 36 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 37 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 38 | [Overload](http://twitter.com/search?q=Overload) | N/A |
+| 39 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
+| 40 | [False](http://twitter.com/search?q=False) | N/A |
+| 41 | [Izzy](http://twitter.com/search?q=Izzy) | N/A |
 | 42 | [#Australia](http://twitter.com/search?q=%23Australia) | N/A |
 | 43 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 44 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
 | 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 47 | [Incorrect](http://twitter.com/search?q=Incorrect) | N/A |
-| 48 | [the platform](http://twitter.com/search?q=the+platform) | N/A |
-| 49 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
-| 50 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 46 | [Northland](http://twitter.com/search?q=Northland) | N/A |
+| 47 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 48 | [Incorrect](http://twitter.com/search?q=Incorrect) | N/A |
+| 49 | [the platform](http://twitter.com/search?q=the+platform) | N/A |
+| 50 | [Hunter](http://twitter.com/search?q=Hunter) | N/A |
 
 
 

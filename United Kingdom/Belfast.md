@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-04-11 18:17:38 UTC`
+📆 Last Updated: `2023-04-11 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,37 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 3 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
 | 4 | [#AndrewsInSongOrFilm](http://twitter.com/search?q=%23AndrewsInSongOrFilm) | N/A |
 | 5 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 6 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 7 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 8 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
-| 9 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 10 | [Maxine](http://twitter.com/search?q=Maxine) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 13 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 8 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 9 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 10 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
+| 11 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 12 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 14 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 15 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
-| 16 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 18 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 19 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 15 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 16 | [Electoral Commission](http://twitter.com/search?q=Electoral+Commission) | N/A |
+| 17 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 18 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 19 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
 | 20 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
-| 21 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 22 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 23 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 24 | [Replies](http://twitter.com/search?q=Replies) | N/A |
-| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 26 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 27 | [Barclay](http://twitter.com/search?q=Barclay) | N/A |
-| 28 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 29 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
-| 30 | [Eastern European](http://twitter.com/search?q=Eastern+European) | N/A |
-| 31 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
-| 32 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
-| 33 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 34 | [Afro](http://twitter.com/search?q=Afro) | N/A |
-| 35 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 36 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 38 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
-| 39 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
-| 40 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 41 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
-| 42 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 43 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 44 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 45 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 46 | [#Goalscorer365](http://twitter.com/search?q=%23Goalscorer365) | N/A |
-| 47 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 21 | [Barclay](http://twitter.com/search?q=Barclay) | N/A |
+| 22 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 23 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 24 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
+| 25 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 26 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 27 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 28 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 29 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
+| 30 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
+| 31 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 32 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
+| 33 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
+| 34 | [#ToriesOut278](http://twitter.com/search?q=%23ToriesOut278) | N/A |
+| 35 | [#SNPCorruption](http://twitter.com/search?q=%23SNPCorruption) | N/A |
+| 36 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
 
 
 

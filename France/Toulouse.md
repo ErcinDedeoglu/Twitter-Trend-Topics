@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-04-11 18:17:49 UTC`
+📆 Last Updated: `2023-04-11 19:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [France](</France>)
 | 3 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
 | 4 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
 | 5 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 6 | [#BingoUnibet](http://twitter.com/search?q=%23BingoUnibet) | N/A |
-| 7 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
-| 8 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 9 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 6 | [#mapr](http://twitter.com/search?q=%23mapr) | N/A |
+| 7 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 8 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
+| 9 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
 | 10 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 11 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 12 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
+| 11 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 12 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
 | 13 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 14 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
-| 15 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 16 | [ÇA VA ALLER](http://twitter.com/search?q=%c3%87A+VA+ALLER) | N/A |
-| 17 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
-| 18 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
-| 19 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 20 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
-| 21 | [Marchais](http://twitter.com/search?q=Marchais) | N/A |
-| 22 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
-| 23 | [Jeel](http://twitter.com/search?q=Jeel) | N/A |
-| 24 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
-| 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 26 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
-| 27 | [Balti](http://twitter.com/search?q=Balti) | N/A |
+| 14 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
+| 15 | [Baloo](http://twitter.com/search?q=Baloo) | N/A |
+| 16 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
+| 17 | [Françoise Hardy](http://twitter.com/search?q=Fran%c3%a7oise+Hardy) | N/A |
+| 18 | [Marchais](http://twitter.com/search?q=Marchais) | N/A |
+| 19 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
+| 20 | [Playoffs 2023](http://twitter.com/search?q=Playoffs+2023) | N/A |
+| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 22 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 23 | [Nawell Madani](http://twitter.com/search?q=Nawell+Madani) | N/A |
+| 24 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
+| 25 | [Jeel](http://twitter.com/search?q=Jeel) | N/A |
+| 26 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 27 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
 | 28 | [Barilla](http://twitter.com/search?q=Barilla) | N/A |
-| 29 | [Hervé Temime](http://twitter.com/search?q=Herv%c3%a9+Temime) | N/A |
-| 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 32 | [Mayotte](http://twitter.com/search?q=Mayotte) | N/A |
-| 33 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
-| 34 | [Liga Nos](http://twitter.com/search?q=Liga+Nos) | N/A |
-| 35 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
-| 36 | [Raye](http://twitter.com/search?q=Raye) | N/A |
-| 37 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
-| 38 | [Gakhov](http://twitter.com/search?q=Gakhov) | N/A |
-| 39 | [Humbert](http://twitter.com/search?q=Humbert) | N/A |
-| 40 | [Abu Dhabi](http://twitter.com/search?q=Abu+Dhabi) | N/A |
-| 41 | [Wakanda](http://twitter.com/search?q=Wakanda) | N/A |
-| 42 | [Maes](http://twitter.com/search?q=Maes) | N/A |
-| 43 | [Vitale](http://twitter.com/search?q=Vitale) | N/A |
-| 44 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
-| 45 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 46 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 47 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
-| 48 | [Médine](http://twitter.com/search?q=M%c3%a9dine) | N/A |
-| 49 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 29 | [Dalaï Lama](http://twitter.com/search?q=Dala%c3%af+Lama) | N/A |
+| 30 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 31 | [Balti](http://twitter.com/search?q=Balti) | N/A |
+| 32 | [Liga Nos](http://twitter.com/search?q=Liga+Nos) | N/A |
+| 33 | [Wakanda](http://twitter.com/search?q=Wakanda) | N/A |
+| 34 | [Jean Massiet](http://twitter.com/search?q=Jean+Massiet) | N/A |
+| 35 | [Le PCF](http://twitter.com/search?q=Le+PCF) | N/A |
+| 36 | [Humbert](http://twitter.com/search?q=Humbert) | N/A |
+| 37 | [Maes](http://twitter.com/search?q=Maes) | N/A |
+| 38 | [vitale](http://twitter.com/search?q=vitale) | N/A |
+| 39 | [Mukiele](http://twitter.com/search?q=Mukiele) | Mukiele is a name of African origin, derived from the Kikuyu language. It means "God's gift" in English. |
+| 40 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 41 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 42 | [Médine](http://twitter.com/search?q=M%c3%a9dine) | N/A |
+| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 44 | [Paola](http://twitter.com/search?q=Paola) | Paola is a female given name of Italian origin. It is derived from the Latin name Paulus, which means "small" or "humble". In English, Paola can be translated to mean "humble one". |
+| 45 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 46 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 47 | [Elle a 19](http://twitter.com/search?q=Elle+a+19) | N/A |
+| 48 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 49 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 
 
 

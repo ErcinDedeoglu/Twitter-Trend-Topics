@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-11 18:18:21 UTC`
+📆 Last Updated: `2023-04-11 19:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 2 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 3 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 4 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 5 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 6 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 7 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
+| 1 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 3 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 4 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
+| 5 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 6 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 7 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
 | 8 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 9 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
-| 10 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 9 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 10 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
 | 11 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 12 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 12 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
 | 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
-| 15 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 16 | [#BMHW23](http://twitter.com/search?q=%23BMHW23) | N/A |
-| 17 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 14 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 15 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 16 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
+| 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
 | 18 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 19 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 20 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
-| 21 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
-| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 23 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 24 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 25 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
-| 26 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
-| 27 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 28 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
-| 29 | [Balance and Composure](http://twitter.com/search?q=Balance+and+Composure) | N/A |
-| 30 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 31 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 32 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 19 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
+| 20 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 21 | [Witherspoon](http://twitter.com/search?q=Witherspoon) | N/A |
+| 22 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Flip](http://twitter.com/search?q=Flip) | N/A |
+| 25 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
+| 26 | [For a 5th](http://twitter.com/search?q=For+a+5th) | N/A |
+| 27 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 28 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 29 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
+| 30 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
+| 31 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 32 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
 | 33 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
-| 34 | [Rosenhaus](http://twitter.com/search?q=Rosenhaus) | N/A |
-| 35 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
-| 36 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
-| 37 | [Walter Clayton Jr.](http://twitter.com/search?q=Walter+Clayton+Jr.) | N/A |
-| 38 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 39 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
-| 40 | [All 15](http://twitter.com/search?q=All+15) | N/A |
-| 41 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 42 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 43 | [fantagio](http://twitter.com/search?q=fantagio) | N/A |
-| 44 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
-| 45 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
-| 46 | [Boogie](http://twitter.com/search?q=Boogie) | N/A |
-| 47 | [Terrell](http://twitter.com/search?q=Terrell) | N/A |
-| 48 | [Kyle Filipowski](http://twitter.com/search?q=Kyle+Filipowski) | N/A |
-| 49 | [Yankee Stadium](http://twitter.com/search?q=Yankee+Stadium) | N/A |
+| 34 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
+| 35 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 36 | [Balance and Composure](http://twitter.com/search?q=Balance+and+Composure) | N/A |
+| 37 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
+| 38 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 39 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 40 | [Boogie](http://twitter.com/search?q=Boogie) | N/A |
+| 41 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
+| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 43 | [All 15](http://twitter.com/search?q=All+15) | N/A |
+| 44 | [Jon Bon Jovi](http://twitter.com/search?q=Jon+Bon+Jovi) | N/A |
+| 45 | [Stephen Miller](http://twitter.com/search?q=Stephen+Miller) | N/A |
+| 46 | [Terrell](http://twitter.com/search?q=Terrell) | N/A |
+| 47 | [Big 5](http://twitter.com/search?q=Big+5) | N/A |
+| 48 | [Ken Griffin](http://twitter.com/search?q=Ken+Griffin) | N/A |
+| 49 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
 
 
 

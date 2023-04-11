@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-04-11 18:18:22 UTC`
+📆 Last Updated: `2023-04-11 19:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
-| 2 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 3 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 4 | [#nrltigerseels](http://twitter.com/search?q=%23nrltigerseels) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 6 | [#aflcatshawks](http://twitter.com/search?q=%23aflcatshawks) | N/A |
-| 7 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 9 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 10 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 11 | [#LEGOMastersAU](http://twitter.com/search?q=%23LEGOMastersAU) | N/A |
-| 12 | [will day](http://twitter.com/search?q=will+day) | N/A |
-| 13 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 14 | [gather round](http://twitter.com/search?q=gather+round) | N/A |
-| 15 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 16 | [milkrun](http://twitter.com/search?q=milkrun) | N/A |
+| 2 | [#nrltigerseels](http://twitter.com/search?q=%23nrltigerseels) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [#aflcatshawks](http://twitter.com/search?q=%23aflcatshawks) | N/A |
+| 5 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 6 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 7 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 8 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 9 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 10 | [#LEGOMastersAU](http://twitter.com/search?q=%23LEGOMastersAU) | N/A |
+| 11 | [will day](http://twitter.com/search?q=will+day) | N/A |
+| 12 | [gather round](http://twitter.com/search?q=gather+round) | N/A |
+| 13 | [karen andrews](http://twitter.com/search?q=karen+andrews) | N/A |
+| 14 | [#thedrum](http://twitter.com/search?q=%23thedrum) | N/A |
+| 15 | [milkrun](http://twitter.com/search?q=milkrun) | N/A |
+| 16 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 17 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 18 | [Michael Christian](http://twitter.com/search?q=Michael+Christian) | N/A |
-| 19 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 20 | [greg sheridan](http://twitter.com/search?q=greg+sheridan) | N/A |
-| 21 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 23 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 24 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 25 | [Wyatt](http://twitter.com/search?q=Wyatt) | Wyatt is an English surname derived from the Old English given name Wigheard, which means "brave in war". It is also a given name, usually for boys. |
-| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 27 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 28 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 29 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 30 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
-| 31 | [matt canavan](http://twitter.com/search?q=matt+canavan) | N/A |
-| 32 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
-| 33 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 34 | [the quokka](http://twitter.com/search?q=the+quokka) | N/A |
-| 35 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
-| 36 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 37 | [Tim Blair](http://twitter.com/search?q=Tim+Blair) | N/A |
-| 38 | [blicavs](http://twitter.com/search?q=blicavs) | N/A |
-| 39 | [Shadow Cabinet](http://twitter.com/search?q=Shadow+Cabinet) | N/A |
-| 40 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 41 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 42 | [simon birmingham](http://twitter.com/search?q=simon+birmingham) | N/A |
-| 43 | [Telly](http://twitter.com/search?q=Telly) | N/A |
-| 44 | [the mro](http://twitter.com/search?q=the+mro) | N/A |
-| 45 | [Sam Docherty](http://twitter.com/search?q=Sam+Docherty) | N/A |
-| 46 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 47 | [senator price](http://twitter.com/search?q=senator+price) | N/A |
-| 48 | [Cincotta](http://twitter.com/search?q=Cincotta) | N/A |
-| 49 | [John Olsen](http://twitter.com/search?q=John+Olsen) | N/A |
-| 50 | [mitchito](http://twitter.com/search?q=mitchito) | N/A |
+| 18 | [michael christian](http://twitter.com/search?q=michael+christian) | N/A |
+| 19 | [greg sheridan](http://twitter.com/search?q=greg+sheridan) | N/A |
+| 20 | [jacinta price](http://twitter.com/search?q=jacinta+price) | N/A |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 23 | [Wyatt](http://twitter.com/search?q=Wyatt) | Wyatt is an English surname derived from the Old English given name Wigheard, which means "brave in war". It is also a given name, usually for boys. |
+| 24 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 25 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 26 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 27 | [jeremy cameron](http://twitter.com/search?q=jeremy+cameron) | N/A |
+| 28 | [matt canavan](http://twitter.com/search?q=matt+canavan) | N/A |
+| 29 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
+| 30 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 31 | [the quokka](http://twitter.com/search?q=the+quokka) | N/A |
+| 32 | [jack crisp](http://twitter.com/search?q=jack+crisp) | N/A |
+| 33 | [tim blair](http://twitter.com/search?q=tim+blair) | N/A |
+| 34 | [blicavs](http://twitter.com/search?q=blicavs) | N/A |
+| 35 | [Shadow Cabinet](http://twitter.com/search?q=Shadow+Cabinet) | N/A |
+| 36 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 37 | [simon birmingham](http://twitter.com/search?q=simon+birmingham) | N/A |
+| 38 | [telly](http://twitter.com/search?q=telly) | N/A |
+| 39 | [the mro](http://twitter.com/search?q=the+mro) | N/A |
+| 40 | [sam docherty](http://twitter.com/search?q=sam+docherty) | N/A |
+| 41 | [Cincotta](http://twitter.com/search?q=Cincotta) | N/A |
+| 42 | [mitchito](http://twitter.com/search?q=mitchito) | N/A |
+| 43 | [australia institute](http://twitter.com/search?q=australia+institute) | N/A |
+| 44 | [matty healy](http://twitter.com/search?q=matty+healy) | N/A |
+| 45 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 46 | [Dutts](http://twitter.com/search?q=Dutts) | N/A |
+| 47 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 48 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 49 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 50 | [tyler wright](http://twitter.com/search?q=tyler+wright) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-11 18:18:29 UTC`
+📆 Last Updated: `2023-04-11 19:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for United Kingdom
 | ------- | ------------ | ------------ |
 | 1 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
 | 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 3 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 4 | [#AndrewsInSongOrFilm](http://twitter.com/search?q=%23AndrewsInSongOrFilm) | N/A |
-| 5 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
-| 6 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 7 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Maxine](http://twitter.com/search?q=Maxine) | N/A |
-| 10 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 11 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
-| 12 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 13 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 14 | [The Glazers](http://twitter.com/search?q=The+Glazers) | N/A |
-| 15 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 16 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 17 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 18 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 19 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
-| 20 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 21 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
-| 22 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 23 | [Barclay](http://twitter.com/search?q=Barclay) | N/A |
-| 24 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 25 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
-| 26 | [Eastern European](http://twitter.com/search?q=Eastern+European) | N/A |
-| 27 | [Raskin](http://twitter.com/search?q=Raskin) | N/A |
+| 3 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 4 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 5 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 6 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 7 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 8 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
+| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 10 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 11 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 12 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 13 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 14 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 15 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 16 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
+| 19 | [The IMF](http://twitter.com/search?q=The+IMF) | N/A |
+| 20 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 21 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [daily quordle 441](http://twitter.com/search?q=daily+quordle+441) | N/A |
+| 25 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 26 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 27 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
 | 28 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
-| 29 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 30 | [Scholes](http://twitter.com/search?q=Scholes) | N/A |
-| 31 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 32 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
-| 33 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
-| 34 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 35 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 36 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 37 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
-| 38 | [#Goalscorer365](http://twitter.com/search?q=%23Goalscorer365) | N/A |
-| 39 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 40 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 41 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 42 | [#cybersecurity](http://twitter.com/search?q=%23cybersecurity) | N/A |
-| 43 | [#property](http://twitter.com/search?q=%23property) | N/A |
-| 44 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 45 | [#ToriesOut278](http://twitter.com/search?q=%23ToriesOut278) | N/A |
-| 46 | [#SNPCorruption](http://twitter.com/search?q=%23SNPCorruption) | N/A |
-| 47 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
-| 48 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 49 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
-| 50 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 29 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 30 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
+| 31 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 32 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 33 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 34 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
+| 35 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 36 | [Deano](http://twitter.com/search?q=Deano) | N/A |
+| 37 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
+| 38 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
+| 39 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 40 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 41 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
+| 42 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 43 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 44 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 45 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
+| 46 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 47 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 48 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 49 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 50 | [National League](http://twitter.com/search?q=National+League) | N/A |
 
 
 

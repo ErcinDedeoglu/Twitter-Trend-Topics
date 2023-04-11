@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-04-11 18:18:18 UTC`
+📆 Last Updated: `2023-04-11 19:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,45 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 2 | [Faber](http://twitter.com/search?q=Faber) | N/A |
-| 3 | [Addison](http://twitter.com/search?q=Addison) | N/A |
-| 4 | [Johansson](http://twitter.com/search?q=Johansson) | N/A |
-| 5 | [Foligno](http://twitter.com/search?q=Foligno) | N/A |
-| 6 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 7 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 8 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 9 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
-| 10 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 11 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
-| 12 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 13 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 14 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 15 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 16 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
-| 17 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 18 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
-| 19 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 3 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 4 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 5 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
+| 6 | [Falcons](http://twitter.com/search?q=Falcons) | Falcons are birds of prey that belong to the genus Falco. They are known for their speed and agility in flight, and they have long, pointed wings and a hooked beak. Falcons are found on every continent except Antarctica, and they hunt small animals such as rodents, reptiles, and other birds. |
+| 7 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
+| 8 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 9 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 10 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 11 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 12 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 13 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 14 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
+| 15 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 17 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 18 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 19 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
 | 20 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 21 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 22 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
-| 23 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
-| 24 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
-| 25 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 26 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 27 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 21 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
+| 22 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 23 | [Witherspoon](http://twitter.com/search?q=Witherspoon) | N/A |
+| 24 | [Flip](http://twitter.com/search?q=Flip) | N/A |
+| 25 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
+| 26 | [For a 5th](http://twitter.com/search?q=For+a+5th) | N/A |
+| 27 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
 | 28 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
-| 29 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
-| 30 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 31 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
-| 32 | [Balance and Composure](http://twitter.com/search?q=Balance+and+Composure) | N/A |
-| 33 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 34 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 35 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 36 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
-| 37 | [Rosenhaus](http://twitter.com/search?q=Rosenhaus) | N/A |
-| 38 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
-| 39 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
-| 40 | [Walter Clayton Jr.](http://twitter.com/search?q=Walter+Clayton+Jr.) | N/A |
-| 41 | [Todd Golden](http://twitter.com/search?q=Todd+Golden) | N/A |
-| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 43 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
-| 44 | [All 15](http://twitter.com/search?q=All+15) | N/A |
+| 29 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 32 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 33 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
+| 34 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
+| 35 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
+| 36 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
+| 37 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 38 | [Balance and Composure](http://twitter.com/search?q=Balance+and+Composure) | N/A |
+| 39 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
+| 40 | [Boogie](http://twitter.com/search?q=Boogie) | N/A |
 
 
 

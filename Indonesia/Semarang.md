@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-11 18:17:55 UTC`
+📆 Last Updated: `2023-04-11 19:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,37 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 5 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
 | 6 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
 | 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 8 | [Ernando](http://twitter.com/search?q=Ernando) | N/A |
-| 9 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 10 | [UNFORGIVEN 1ST CONCEPT](http://twitter.com/search?q=UNFORGIVEN+1ST+CONCEPT) | N/A |
-| 11 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
-| 12 | [Catur](http://twitter.com/search?q=Catur) | N/A |
-| 13 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 14 | [Park Seo Joon](http://twitter.com/search?q=Park+Seo+Joon) | N/A |
-| 15 | [ETMudikLancar](http://twitter.com/search?q=ETMudikLancar) | N/A |
-| 16 | [Tabungan](http://twitter.com/search?q=Tabungan) | N/A |
-| 17 | [Supri](http://twitter.com/search?q=Supri) | N/A |
-| 18 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
-| 19 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
+| 8 | [UNFORGIVEN 1ST CONCEPT](http://twitter.com/search?q=UNFORGIVEN+1ST+CONCEPT) | N/A |
+| 9 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
+| 10 | [Catur](http://twitter.com/search?q=Catur) | N/A |
+| 11 | [Nando](http://twitter.com/search?q=Nando) | N/A |
+| 12 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 13 | [ETMudikLancar](http://twitter.com/search?q=ETMudikLancar) | N/A |
+| 14 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 15 | [Park Seo Joon](http://twitter.com/search?q=Park+Seo+Joon) | N/A |
+| 16 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 17 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 18 | [Supri](http://twitter.com/search?q=Supri) | N/A |
+| 19 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
 | 20 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 21 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 22 | [TAEJUN ON SUCHWITA](http://twitter.com/search?q=TAEJUN+ON+SUCHWITA) | N/A |
-| 23 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
-| 24 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 25 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
-| 26 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 27 | [Anas](http://twitter.com/search?q=Anas) | N/A |
-| 28 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
-| 29 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
-| 30 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 31 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
-| 32 | [Arema](http://twitter.com/search?q=Arema) | N/A |
-| 33 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
-| 34 | [#햇살보다_눈부실_선우의_스물넷](http://twitter.com/search?q=%23%ed%96%87%ec%82%b4%eb%b3%b4%eb%8b%a4_%eb%88%88%eb%b6%80%ec%8b%a4_%ec%84%a0%ec%9a%b0%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%84%b7) | N/A |
-| 35 | [#ThunderSunwooDay](http://twitter.com/search?q=%23ThunderSunwooDay) | N/A |
-| 36 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
-| 37 | [#BTOB_WIND_AND_WISH](http://twitter.com/search?q=%23BTOB_WIND_AND_WISH) | N/A |
-| 38 | [#FML_SEVENTEEN](http://twitter.com/search?q=%23FML_SEVENTEEN) | N/A |
-| 39 | [#BeyondinRamadan](http://twitter.com/search?q=%23BeyondinRamadan) | N/A |
-| 40 | [#OPPOxUCL](http://twitter.com/search?q=%23OPPOxUCL) | N/A |
-| 41 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 42 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
-| 43 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
-| 44 | [#HexjuiceXExtraTimeIndo](http://twitter.com/search?q=%23HexjuiceXExtraTimeIndo) | N/A |
-| 45 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
-| 46 | [#엑스디너리히어로즈](http://twitter.com/search?q=%23%ec%97%91%ec%8a%a4%eb%94%94%eb%84%88%eb%a6%ac%ed%9e%88%ec%96%b4%eb%a1%9c%ec%a6%88) | N/A |
-| 47 | [#XdinaryHeroes](http://twitter.com/search?q=%23XdinaryHeroes) | N/A |
-| 48 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
-| 49 | [#UGDforPSS](http://twitter.com/search?q=%23UGDforPSS) | N/A |
+| 21 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
+| 22 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 23 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
+| 24 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
+| 25 | [#햇살보다_눈부실_선우의_스물넷](http://twitter.com/search?q=%23%ed%96%87%ec%82%b4%eb%b3%b4%eb%8b%a4_%eb%88%88%eb%b6%80%ec%8b%a4_%ec%84%a0%ec%9a%b0%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%84%b7) | N/A |
+| 26 | [#ThunderSunwooDay](http://twitter.com/search?q=%23ThunderSunwooDay) | N/A |
+| 27 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
+| 28 | [#BTOB_WIND_AND_WISH](http://twitter.com/search?q=%23BTOB_WIND_AND_WISH) | N/A |
+| 29 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 30 | [#FML_SEVENTEEN](http://twitter.com/search?q=%23FML_SEVENTEEN) | N/A |
+| 31 | [#OPPOxUCL](http://twitter.com/search?q=%23OPPOxUCL) | N/A |
+| 32 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
+| 33 | [#PersebayaDay](http://twitter.com/search?q=%23PersebayaDay) | N/A |
+| 34 | [#Hexjuice](http://twitter.com/search?q=%23Hexjuice) | N/A |
+| 35 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
+| 36 | [#AnasUrbaningrum](http://twitter.com/search?q=%23AnasUrbaningrum) | N/A |
+| 37 | [#UGDforPSS](http://twitter.com/search?q=%23UGDforPSS) | N/A |
+| 38 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
 
 
 
