@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-11 17:17:15 UTC`
+📆 Last Updated: `2023-04-11 18:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [United States](</United States>)
 | 2 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
 | 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 4 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 5 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 6 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
-| 7 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
-| 8 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
-| 9 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 10 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
-| 11 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
-| 12 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
-| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
-| 15 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
-| 16 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 17 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
+| 5 | [Okudah](http://twitter.com/search?q=Okudah) | N/A |
+| 6 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 7 | [Sunday Ticket](http://twitter.com/search?q=Sunday+Ticket) | Sunday Ticket is a subscription service offered by the National Football League (NFL) that allows viewers to watch all out-of-market NFL games on Sunday afternoons. It is available through DirecTV in the United States and Canada. The phrase "Sunday Ticket" is used to refer to the service itself, as well as the programming package it provides. |
+| 8 | [DirecTV](http://twitter.com/search?q=DirecTV) | DirecTV is a satellite television service provider in the United States. It offers hundreds of channels of programming, including movies, sports, news, and more. DirecTV also provides access to on-demand content and streaming services. |
+| 9 | [YouTube TV](http://twitter.com/search?q=YouTube+TV) | YouTube TV is a subscription streaming service that provides access to live television from over 70 channels, including local news and sports networks. It also includes access to YouTube's library of on-demand content. The service is available in the United States and Canada. |
+| 10 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [RedZone](http://twitter.com/search?q=RedZone) | N/A |
+| 13 | [Scott Foster](http://twitter.com/search?q=Scott+Foster) | Scott Foster is a British expression meaning to deceive or trick someone. It is derived from the name of a character in the 18th century novel Tom Jones, who was known for his cunning and deceitful ways. |
+| 14 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 15 | [Captain Marvel](http://twitter.com/search?q=Captain+Marvel) | N/A |
+| 16 | [Monica](http://twitter.com/search?q=Monica) | N/A |
+| 17 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 | 18 | [Iman Vellani](http://twitter.com/search?q=Iman+Vellani) | N/A |
-| 19 | [Monica](http://twitter.com/search?q=Monica) | N/A |
-| 20 | [Flip](http://twitter.com/search?q=Flip) | N/A |
-| 21 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
-| 22 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
-| 23 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 24 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
-| 25 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
-| 26 | [Kyle Filipowski](http://twitter.com/search?q=Kyle+Filipowski) | N/A |
-| 27 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 28 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
-| 29 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 30 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
-| 31 | [Balance and Composure](http://twitter.com/search?q=Balance+and+Composure) | N/A |
-| 32 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 33 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
-| 34 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
+| 19 | [Mgbako](http://twitter.com/search?q=Mgbako) | N/A |
+| 20 | [Ms. Marvel](http://twitter.com/search?q=Ms.+Marvel) | N/A |
+| 21 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 22 | [Flip](http://twitter.com/search?q=Flip) | N/A |
+| 23 | [Denji](http://twitter.com/search?q=Denji) | Denji is a Japanese word meaning "electricity". It is derived from the words "den" (電) meaning electricity and "ji" (士) meaning master or expert. |
+| 24 | [Poseidon's Fury](http://twitter.com/search?q=Poseidon%27s+Fury) | N/A |
+| 25 | [Greg Newsome](http://twitter.com/search?q=Greg+Newsome) | N/A |
+| 26 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 27 | [Kamala Khan](http://twitter.com/search?q=Kamala+Khan) | N/A |
+| 28 | [Balance and Composure](http://twitter.com/search?q=Balance+and+Composure) | N/A |
+| 29 | [Nick Cannon](http://twitter.com/search?q=Nick+Cannon) | N/A |
+| 30 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 31 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 32 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
+| 33 | [Rosenhaus](http://twitter.com/search?q=Rosenhaus) | N/A |
+| 34 | [Streameast](http://twitter.com/search?q=Streameast) | N/A |
 | 35 | [Beastie Boys](http://twitter.com/search?q=Beastie+Boys) | N/A |
-| 36 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
-| 37 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
-| 38 | [Fujimoto](http://twitter.com/search?q=Fujimoto) | Fujimoto is a Japanese surname. It is derived from the words "Fuji" (wisteria) and "moto" (base or origin). The name can be translated to mean "origin of the wisteria". |
-| 39 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
-| 40 | [Mel Kiper](http://twitter.com/search?q=Mel+Kiper) | N/A |
-| 41 | [Fantagio](http://twitter.com/search?q=Fantagio) | N/A |
-| 42 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 43 | [Big 5](http://twitter.com/search?q=Big+5) | N/A |
-| 44 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
-| 45 | [Kellyanne](http://twitter.com/search?q=Kellyanne) | N/A |
-| 46 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 47 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 36 | [Walter Clayton Jr.](http://twitter.com/search?q=Walter+Clayton+Jr.) | N/A |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [YTTV](http://twitter.com/search?q=YTTV) | N/A |
+| 39 | [All 15](http://twitter.com/search?q=All+15) | N/A |
+| 40 | [Brie Larson](http://twitter.com/search?q=Brie+Larson) | N/A |
+| 41 | [Rick Scott](http://twitter.com/search?q=Rick+Scott) | N/A |
+| 42 | [fantagio](http://twitter.com/search?q=fantagio) | N/A |
+| 43 | [Brad Holmes](http://twitter.com/search?q=Brad+Holmes) | N/A |
+| 44 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 45 | [Boogie](http://twitter.com/search?q=Boogie) | N/A |
+| 46 | [Terrell](http://twitter.com/search?q=Terrell) | N/A |
+| 47 | [Kyle Filipowski](http://twitter.com/search?q=Kyle+Filipowski) | N/A |
 
 
 

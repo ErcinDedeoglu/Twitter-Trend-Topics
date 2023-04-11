@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-11 17:16:54 UTC`
+📆 Last Updated: `2023-04-11 18:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#swallows](http://twitter.com/search?q=%23swallows) | N/A |
-| 2 | [#コレコレ](http://twitter.com/search?q=%23%e3%82%b3%e3%83%ac%e3%82%b3%e3%83%ac) | N/A |
-| 3 | [愛理ちゃん](http://twitter.com/search?q=%e6%84%9b%e7%90%86%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 4 | [いどみん先生](http://twitter.com/search?q=%e3%81%84%e3%81%a9%e3%81%bf%e3%82%93%e5%85%88%e7%94%9f) | N/A |
-| 5 | [#TAR](http://twitter.com/search?q=%23TAR) | N/A |
+| 2 | [#アルピーdcg](http://twitter.com/search?q=%23%e3%82%a2%e3%83%ab%e3%83%94%e3%83%bcdcg) | N/A |
+| 3 | [#何かおかしい2](http://twitter.com/search?q=%23%e4%bd%95%e3%81%8b%e3%81%8a%e3%81%8b%e3%81%97%e3%81%842) | N/A |
+| 4 | [うさほー](http://twitter.com/search?q=%e3%81%86%e3%81%95%e3%81%bb%e3%83%bc) | N/A |
+| 5 | [関西ジャニーズJr](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%baJr) | N/A |
 | 6 | [楽天チケット](http://twitter.com/search?q=%e6%a5%bd%e5%a4%a9%e3%83%81%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 7 | [#なにわTube](http://twitter.com/search?q=%23%e3%81%aa%e3%81%ab%e3%82%8fTube) | N/A |
-| 8 | [bayfm](http://twitter.com/search?q=bayfm) | N/A |
-| 9 | [関西ジャニーズJr](http://twitter.com/search?q=%e9%96%a2%e8%a5%bf%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%baJr) | N/A |
-| 10 | [#モヤさま](http://twitter.com/search?q=%23%e3%83%a2%e3%83%a4%e3%81%95%e3%81%be) | N/A |
-| 11 | [大野雄大](http://twitter.com/search?q=%e5%a4%a7%e9%87%8e%e9%9b%84%e5%a4%a7) | N/A |
-| 12 | [隅田川花火大会](http://twitter.com/search?q=%e9%9a%85%e7%94%b0%e5%b7%9d%e8%8a%b1%e7%81%ab%e5%a4%a7%e4%bc%9a) | N/A |
-| 13 | [サリマカシー](http://twitter.com/search?q=%e3%82%b5%e3%83%aa%e3%83%9e%e3%82%ab%e3%82%b7%e3%83%bc) | N/A |
-| 14 | [リチャ末](http://twitter.com/search?q=%e3%83%aa%e3%83%81%e3%83%a3%e6%9c%ab) | N/A |
-| 15 | [生首ヘアゴム](http://twitter.com/search?q=%e7%94%9f%e9%a6%96%e3%83%98%e3%82%a2%e3%82%b4%e3%83%a0) | N/A |
-| 16 | [セフンちゃん](http://twitter.com/search?q=%e3%82%bb%e3%83%95%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 17 | [ホラー映画キャラ](http://twitter.com/search?q=%e3%83%9b%e3%83%a9%e3%83%bc%e6%98%a0%e7%94%bb%e3%82%ad%e3%83%a3%e3%83%a9) | N/A |
-| 18 | [精神攻撃](http://twitter.com/search?q=%e7%b2%be%e7%a5%9e%e6%94%bb%e6%92%83) | N/A |
+| 7 | [とっきー](http://twitter.com/search?q=%e3%81%a8%e3%81%a3%e3%81%8d%e3%83%bc) | N/A |
+| 8 | [セフンちゃん](http://twitter.com/search?q=%e3%82%bb%e3%83%95%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 9 | [愛理ちゃん](http://twitter.com/search?q=%e6%84%9b%e7%90%86%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [#レコメン](http://twitter.com/search?q=%23%e3%83%ac%e3%82%b3%e3%83%a1%e3%83%b3) | #レコメン is a hashtag used on Twitter in Japan. It stands for "Recommendation" and is used to share recommendations for books, movies, music, restaurants, and other products or services. |
+| 11 | [#さとみくん](http://twitter.com/search?q=%23%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
+| 12 | [大野雄大](http://twitter.com/search?q=%e5%a4%a7%e9%87%8e%e9%9b%84%e5%a4%a7) | N/A |
+| 13 | [テヒョン](http://twitter.com/search?q=%e3%83%86%e3%83%92%e3%83%a7%e3%83%b3) | N/A |
+| 14 | [いどみん先生](http://twitter.com/search?q=%e3%81%84%e3%81%a9%e3%81%bf%e3%82%93%e5%85%88%e7%94%9f) | N/A |
+| 15 | [隅田川花火大会](http://twitter.com/search?q=%e9%9a%85%e7%94%b0%e5%b7%9d%e8%8a%b1%e7%81%ab%e5%a4%a7%e4%bc%9a) | N/A |
+| 16 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 17 | [精神攻撃](http://twitter.com/search?q=%e7%b2%be%e7%a5%9e%e6%94%bb%e6%92%83) | N/A |
+| 18 | [ばらかもんドラマ化](http://twitter.com/search?q=%e3%81%b0%e3%82%89%e3%81%8b%e3%82%82%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e%e5%8c%96) | N/A |
 | 19 | [月のワルツ](http://twitter.com/search?q=%e6%9c%88%e3%81%ae%e3%83%af%e3%83%ab%e3%83%84) | N/A |
-| 20 | [ヨンジュン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | ヨンジュン is a Korean given name, which is usually written in hanja as 永俊. It is composed of two characters, 永 (yeong) meaning "eternal" and 俊 (jun) meaning "talented". In English, it can be translated to mean "eternally talented". |
-| 21 | [落下の悪魔](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
-| 22 | [ばらかもんドラマ化](http://twitter.com/search?q=%e3%81%b0%e3%82%89%e3%81%8b%e3%82%82%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e%e5%8c%96) | N/A |
-| 23 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 24 | [第446回](http://twitter.com/search?q=%e7%ac%ac446%e5%9b%9e) | N/A |
-| 25 | [藤くん誕生日](http://twitter.com/search?q=%e8%97%a4%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 26 | [マーベルズ](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%99%e3%83%ab%e3%82%ba) | N/A |
+| 20 | [落下の悪魔](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
+| 21 | [ヨンジュン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | ヨンジュン is a Korean given name, which is usually written in hanja as 永俊. It is composed of two characters, 永 (yeong) meaning "eternal" and 俊 (jun) meaning "talented". In English, it can be translated to mean "eternally talented". |
+| 22 | [藤くん誕生日](http://twitter.com/search?q=%e8%97%a4%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 23 | [デンジくん](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%8f%e3%82%93) | デンジくん is a character from the Japanese manga series, Dengeki Oshioki Musume Gōtaman. The character's name is Denji, and he is a robot created by the protagonist of the series, Gōtaman. In English, his name would be translated as "Denji the Robot". |
+| 24 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 25 | [マーベルズ](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%99%e3%83%ab%e3%82%ba) | N/A |
+| 26 | [第446回](http://twitter.com/search?q=%e7%ac%ac446%e5%9b%9e) | N/A |
 | 27 | [大橋くん](http://twitter.com/search?q=%e5%a4%a7%e6%a9%8b%e3%81%8f%e3%82%93) | 大橋くん (Ohashi-kun) is a Japanese nickname given to someone who is tall and strong. It literally translates to "Mr. Big Bridge" in English. |
-| 28 | [デンジくん](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%8f%e3%82%93) | デンジくん is a character from the Japanese manga series, Dengeki Oshioki Musume Gōtaman. The character's name is Denji, and he is a robot created by the protagonist of the series, Gōtaman. In English, his name would be translated as "Denji the Robot". |
-| 29 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
-| 30 | [フレンチドック](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%83%89%e3%83%83%e3%82%af) | N/A |
-| 31 | [リアデラ](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%83%87%e3%83%a9) | N/A |
-| 32 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
-| 33 | [aiko](http://twitter.com/search?q=aiko) | Aiko is a Japanese female given name meaning "beloved child". |
-| 34 | [個人サイト](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e3%82%b5%e3%82%a4%e3%83%88) | 個人サイト (Kojin Saito) is a type of website created by an individual for personal use. It can be used to showcase a portfolio, share information, or provide a platform for self-expression. In English, it is often referred to as a personal website. |
+| 28 | [フレンチドック](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%83%89%e3%83%83%e3%82%af) | N/A |
+| 29 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
+| 30 | [エレメント](http://twitter.com/search?q=%e3%82%a8%e3%83%ac%e3%83%a1%e3%83%b3%e3%83%88) | エレメント is a Japanese word that means "element" in English. It is used to refer to the basic components of something, such as the elements of a chemical compound or the elements of a mathematical equation. |
+| 31 | [藤原啓治さん](http://twitter.com/search?q=%e8%97%a4%e5%8e%9f%e5%95%93%e6%b2%bb%e3%81%95%e3%82%93) | N/A |
+| 32 | [aiko](http://twitter.com/search?q=aiko) | Aiko is a Japanese female given name meaning "beloved child". |
+| 33 | [下野さん](http://twitter.com/search?q=%e4%b8%8b%e9%87%8e%e3%81%95%e3%82%93) | N/A |
+| 34 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
 | 35 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 36 | [たかほー](http://twitter.com/search?q=%e3%81%9f%e3%81%8b%e3%81%bb%e3%83%bc) | N/A |
+| 36 | [リアデラ](http://twitter.com/search?q=%e3%83%aa%e3%82%a2%e3%83%87%e3%83%a9) | N/A |
 | 37 | [黒沢さん](http://twitter.com/search?q=%e9%bb%92%e6%b2%a2%e3%81%95%e3%82%93) | 黒沢さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr. Kurosawa" or "Ms. Kurosawa". |
-| 38 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
+| 38 | [ひなのちゃん](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 | 39 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
-| 40 | [ひなのちゃん](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 41 | [シャーデンフロイデ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%87%e3%83%b3%e3%83%95%e3%83%ad%e3%82%a4%e3%83%87) | N/A |
-| 42 | [真鳥くん](http://twitter.com/search?q=%e7%9c%9f%e9%b3%a5%e3%81%8f%e3%82%93) | N/A |
-| 43 | [高津監督](http://twitter.com/search?q=%e9%ab%98%e6%b4%a5%e7%9b%a3%e7%9d%a3) | 高津監督 is the nickname of Japanese film director Takashi Koizumi. He is known for his work on films such as The Last Samurai, The Grudge, and Godzilla: Final Wars. In English, the phrase "Takatsu Director" is used to refer to him. |
-| 44 | [四季くん](http://twitter.com/search?q=%e5%9b%9b%e5%ad%a3%e3%81%8f%e3%82%93) | N/A |
-| 45 | [コンセプトフォト](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%82%bb%e3%83%97%e3%83%88%e3%83%95%e3%82%a9%e3%83%88) | N/A |
-| 46 | [第126話](http://twitter.com/search?q=%e7%ac%ac126%e8%a9%b1) | N/A |
-| 47 | [モイネロ](http://twitter.com/search?q=%e3%83%a2%e3%82%a4%e3%83%8d%e3%83%ad) | N/A |
-| 48 | [スキップとローファー](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%83%83%e3%83%97%e3%81%a8%e3%83%ad%e3%83%bc%e3%83%95%e3%82%a1%e3%83%bc) | N/A |
-| 49 | [エヴァ最終回](http://twitter.com/search?q=%e3%82%a8%e3%83%b4%e3%82%a1%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
-| 50 | [こたちゃん](http://twitter.com/search?q=%e3%81%93%e3%81%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
+| 41 | [真鳥くん](http://twitter.com/search?q=%e7%9c%9f%e9%b3%a5%e3%81%8f%e3%82%93) | N/A |
+| 42 | [シャーデンフロイデ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%87%e3%83%b3%e3%83%95%e3%83%ad%e3%82%a4%e3%83%87) | N/A |
+| 43 | [モイネロ](http://twitter.com/search?q=%e3%83%a2%e3%82%a4%e3%83%8d%e3%83%ad) | N/A |
+| 44 | [in大阪](http://twitter.com/search?q=in%e5%a4%a7%e9%98%aa) | N/A |
+| 45 | [こっちのもの](http://twitter.com/search?q=%e3%81%93%e3%81%a3%e3%81%a1%e3%81%ae%e3%82%82%e3%81%ae) | N/A |
+| 46 | [個人サイト](http://twitter.com/search?q=%e5%80%8b%e4%ba%ba%e3%82%b5%e3%82%a4%e3%83%88) | 個人サイト (Kojin Saito) is a type of website created by an individual for personal use. It can be used to showcase a portfolio, share information, or provide a platform for self-expression. In English, it is often referred to as a personal website. |
+| 47 | [アンビの楽屋](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%93%e3%81%ae%e6%a5%bd%e5%b1%8b) | N/A |
+| 48 | [コンセプトフォト](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%82%bb%e3%83%97%e3%83%88%e3%83%95%e3%82%a9%e3%83%88) | N/A |
+| 49 | [生首ヘアゴム](http://twitter.com/search?q=%e7%94%9f%e9%a6%96%e3%83%98%e3%82%a2%e3%82%b4%e3%83%a0) | N/A |
+| 50 | [四季くん](http://twitter.com/search?q=%e5%9b%9b%e5%ad%a3%e3%81%8f%e3%82%93) | N/A |
 
 
 

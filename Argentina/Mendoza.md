@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-04-11 17:16:37 UTC`
+📆 Last Updated: `2023-04-11 18:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Argentina](</Argentina>)
 | 6 | [CABA](http://twitter.com/search?q=CABA) | N/A |
 | 7 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
 | 8 | [bianca acosta](http://twitter.com/search?q=bianca+acosta) | N/A |
-| 9 | [BAFICI](http://twitter.com/search?q=BAFICI) | N/A |
-| 10 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 11 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 12 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 13 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 14 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 15 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 9 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 10 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
+| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 12 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 13 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 14 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 15 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
 | 16 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 17 | [Barcia de 4](http://twitter.com/search?q=Barcia+de+4) | N/A |
-| 18 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 20 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 21 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 22 | [Jefe de Gobierno](http://twitter.com/search?q=Jefe+de+Gobierno) | N/A |
-| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 24 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
-| 25 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 26 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 27 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 28 | [Boleta Única](http://twitter.com/search?q=Boleta+%c3%9anica) | N/A |
-| 29 | [Marcos al 9009](http://twitter.com/search?q=Marcos+al+9009) | N/A |
-| 30 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 31 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 32 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 33 | [Duka](http://twitter.com/search?q=Duka) | N/A |
-| 34 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 35 | [LUNA PARK](http://twitter.com/search?q=LUNA+PARK) | N/A |
-| 36 | [Javier Mascherano](http://twitter.com/search?q=Javier+Mascherano) | N/A |
-| 37 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 38 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 39 | [Línea de 5](http://twitter.com/search?q=L%c3%adnea+de+5) | N/A |
-| 40 | [Leandro Stillitano](http://twitter.com/search?q=Leandro+Stillitano) | N/A |
-| 41 | [Giay](http://twitter.com/search?q=Giay) | Giay is a Vietnamese word that means "shoes". |
-| 42 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 43 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 44 | [Milton](http://twitter.com/search?q=Milton) | N/A |
-| 45 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 18 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 19 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 21 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 22 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 23 | [Bafici](http://twitter.com/search?q=Bafici) | N/A |
+| 24 | [Jefe de Gobierno](http://twitter.com/search?q=Jefe+de+Gobierno) | N/A |
+| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 26 | [Día Mundial del Parkinson](http://twitter.com/search?q=D%c3%ada+Mundial+del+Parkinson) | N/A |
+| 27 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
+| 28 | [Milton](http://twitter.com/search?q=Milton) | N/A |
+| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 30 | [LUNA PARK](http://twitter.com/search?q=LUNA+PARK) | N/A |
+| 31 | [Marcos al 9009](http://twitter.com/search?q=Marcos+al+9009) | N/A |
+| 32 | [Línea de 5](http://twitter.com/search?q=L%c3%adnea+de+5) | N/A |
+| 33 | [Boleta Única](http://twitter.com/search?q=Boleta+%c3%9anica) | N/A |
+| 34 | [Duka](http://twitter.com/search?q=Duka) | N/A |
+| 35 | [Javier Mascherano](http://twitter.com/search?q=Javier+Mascherano) | N/A |
+| 36 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 37 | [Leandro Stillitano](http://twitter.com/search?q=Leandro+Stillitano) | N/A |
+| 38 | [Giay](http://twitter.com/search?q=Giay) | Giay is a Vietnamese word that means "shoes". |
+| 39 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 40 | [Morales](http://twitter.com/search?q=Morales) | N/A |
+| 41 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 42 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 43 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 44 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 45 | [Kaleb Di Masi](http://twitter.com/search?q=Kaleb+Di+Masi) | N/A |
 | 46 | [Silvana](http://twitter.com/search?q=Silvana) | N/A |
-| 47 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 48 | [El PRO](http://twitter.com/search?q=El+PRO) | N/A |
-| 49 | [Disney on ice](http://twitter.com/search?q=Disney+on+ice) | N/A |
-| 50 | [Marra](http://twitter.com/search?q=Marra) | N/A |
+| 47 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
+| 48 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 49 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
+| 50 | [El PRO](http://twitter.com/search?q=El+PRO) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-11 17:17:24 UTC`
+📆 Last Updated: `2023-04-11 18:18:27 UTC`
 
 🔧 Updated every 1 hour!
 

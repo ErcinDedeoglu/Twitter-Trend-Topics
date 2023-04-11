@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-11 17:16:58 UTC`
+📆 Last Updated: `2023-04-11 18:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 13 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
 | 14 | [Hanoi](http://twitter.com/search?q=Hanoi) | N/A |
 | 15 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 16 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 17 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 18 | [Tính](http://twitter.com/search?q=T%c3%adnh) | N/A |
-| 19 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
-| 20 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 21 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
-| 22 | [DAOs](http://twitter.com/search?q=DAOs) | N/A |
-| 23 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 24 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
-| 25 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 26 | [Chiến](http://twitter.com/search?q=Chi%e1%ba%bfn) | N/A |
-| 27 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 28 | [Flaming](http://twitter.com/search?q=Flaming) | N/A |
-| 29 | [Grim](http://twitter.com/search?q=Grim) | N/A |
-| 30 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
-| 31 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
-| 32 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
-| 33 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 34 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
-| 35 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 36 | [Floral](http://twitter.com/search?q=Floral) | N/A |
-| 37 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 38 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 39 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 40 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 41 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
-| 42 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
-| 43 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
-| 44 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
-| 45 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
-| 46 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 47 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 48 | [Skeleton](http://twitter.com/search?q=Skeleton) | N/A |
-| 49 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 50 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 18 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
+| 19 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 20 | [Tính](http://twitter.com/search?q=T%c3%adnh) | N/A |
+| 21 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
+| 22 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 23 | [Reaper](http://twitter.com/search?q=Reaper) | N/A |
+| 24 | [DAOs](http://twitter.com/search?q=DAOs) | N/A |
+| 25 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
+| 26 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
+| 27 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 28 | [Chiến](http://twitter.com/search?q=Chi%e1%ba%bfn) | N/A |
+| 29 | [Gothic](http://twitter.com/search?q=Gothic) | N/A |
+| 30 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 31 | [Yeahhh](http://twitter.com/search?q=Yeahhh) | N/A |
+| 32 | [Grim](http://twitter.com/search?q=Grim) | N/A |
+| 33 | [Flaming](http://twitter.com/search?q=Flaming) | N/A |
+| 34 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 35 | [Biết](http://twitter.com/search?q=Bi%e1%ba%bft) | N/A |
+| 36 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
+| 37 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 38 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
+| 39 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 40 | [Floral](http://twitter.com/search?q=Floral) | N/A |
+| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 42 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 43 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
+| 44 | [Halloween](http://twitter.com/search?q=Halloween) | N/A |
+| 45 | [Toàn](http://twitter.com/search?q=To%c3%a0n) | N/A |
+| 46 | [Arbitrum](http://twitter.com/search?q=Arbitrum) | N/A |
+| 47 | [Car Seat Cover](http://twitter.com/search?q=Car+Seat+Cover) | N/A |
+| 48 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 49 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 50 | [MetaMask](http://twitter.com/search?q=MetaMask) | N/A |
 
 
 
