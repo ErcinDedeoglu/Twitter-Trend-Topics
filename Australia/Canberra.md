@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-11 01:44:28 UTC`
+📆 Last Updated: `2023-04-11 02:30:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Australia](</Australia>)
 | 4 | [#NRLTigersEels](http://twitter.com/search?q=%23NRLTigersEels) | N/A |
 | 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 6 | [#esctop100](http://twitter.com/search?q=%23esctop100) | N/A |
-| 7 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 8 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 9 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 7 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 8 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 9 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
 | 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 11 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 14 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
-| 15 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 16 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 12 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 15 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 16 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
 | 17 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
 | 18 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 19 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 20 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 21 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 22 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 23 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
-| 24 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 25 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
+| 19 | [Tim Blair](http://twitter.com/search?q=Tim+Blair) | N/A |
+| 20 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 21 | [Kale](http://twitter.com/search?q=Kale) | N/A |
+| 22 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 23 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 24 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 25 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
 | 26 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
 | 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 28 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
-| 29 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 30 | [gary rohan](http://twitter.com/search?q=gary+rohan) | N/A |
-| 31 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 32 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 33 | [Oakbank](http://twitter.com/search?q=Oakbank) | N/A |
-| 34 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 35 | [Sicily](http://twitter.com/search?q=Sicily) | N/A |
-| 36 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
-| 37 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 38 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
-| 39 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 40 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
-| 41 | [Luke Brooks](http://twitter.com/search?q=Luke+Brooks) | N/A |
-| 42 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
-| 43 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 29 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 30 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
+| 31 | [Keath](http://twitter.com/search?q=Keath) | N/A |
+| 32 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
+| 33 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 34 | [Indigenous Voice](http://twitter.com/search?q=Indigenous+Voice) | N/A |
+| 35 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 36 | [oakbank](http://twitter.com/search?q=oakbank) | N/A |
+| 37 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
+| 38 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
+| 39 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
+| 40 | [Luke Brooks](http://twitter.com/search?q=Luke+Brooks) | N/A |
+| 41 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
+| 42 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 43 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
 | 44 | [Dangerfield](http://twitter.com/search?q=Dangerfield) | N/A |
-| 45 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 45 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
 | 46 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
 | 47 | [nank](http://twitter.com/search?q=nank) | N/A |
-| 48 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 49 | [Blicavs](http://twitter.com/search?q=Blicavs) | N/A |
+| 48 | [Blicavs](http://twitter.com/search?q=Blicavs) | N/A |
+| 49 | [gutho](http://twitter.com/search?q=gutho) | N/A |
 
 
 

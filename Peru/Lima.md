@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-11 01:44:13 UTC`
+📆 Last Updated: `2023-04-11 02:30:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 1 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
 | 2 | [#MagalyTVLaFirme](http://twitter.com/search?q=%23MagalyTVLaFirme) | N/A |
-| 3 | [Katy Ugarte](http://twitter.com/search?q=Katy+Ugarte) | N/A |
-| 4 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
-| 5 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [Katy Ugarte](http://twitter.com/search?q=Katy+Ugarte) | N/A |
+| 5 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
 | 6 | [Butters](http://twitter.com/search?q=Butters) | N/A |
-| 7 | [Osores](http://twitter.com/search?q=Osores) | N/A |
-| 8 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
-| 9 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 10 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
-| 11 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
-| 12 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 13 | [Surco](http://twitter.com/search?q=Surco) | N/A |
-| 14 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 8 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
+| 9 | [Osores](http://twitter.com/search?q=Osores) | N/A |
+| 10 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 11 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 12 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
+| 13 | [#SuccessionHBO](http://twitter.com/search?q=%23SuccessionHBO) | N/A |
+| 14 | [Surco](http://twitter.com/search?q=Surco) | N/A |
 | 15 | [Job 16](http://twitter.com/search?q=Job+16) | N/A |
 | 16 | [JEON JUNGKOOK](http://twitter.com/search?q=JEON+JUNGKOOK) | Jeon Jungkook is the stage name of Jungkook, a South Korean singer, songwriter, and dancer. He is a member of the boy band BTS. The name Jeon Jungkook means "golden nation" in English. |
-| 17 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 18 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 19 | [Sheput](http://twitter.com/search?q=Sheput) | N/A |
-| 20 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
-| 21 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 18 | [Jacintas](http://twitter.com/search?q=Jacintas) | N/A |
+| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 20 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 21 | [Jota](http://twitter.com/search?q=Jota) | N/A |
 | 22 | [#radiocoti](http://twitter.com/search?q=%23radiocoti) | N/A |
-| 23 | [Jacintas](http://twitter.com/search?q=Jacintas) | N/A |
-| 24 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 25 | [Corzo](http://twitter.com/search?q=Corzo) | N/A |
-| 26 | [Grau](http://twitter.com/search?q=Grau) | N/A |
-| 27 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 28 | [#OurSkyy2](http://twitter.com/search?q=%23OurSkyy2) | N/A |
-| 29 | [#LCDLF3](http://twitter.com/search?q=%23LCDLF3) | N/A |
-| 30 | [andy polo](http://twitter.com/search?q=andy+polo) | N/A |
-| 31 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 32 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 33 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 34 | [Grin](http://twitter.com/search?q=Grin) | N/A |
-| 35 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 36 | [Renovación Medieval](http://twitter.com/search?q=Renovaci%c3%b3n+Medieval) | N/A |
-| 37 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 38 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 39 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
-| 40 | [Santiago Contoricón Antúnez](http://twitter.com/search?q=Santiago+Contoric%c3%b3n+Ant%c3%banez) | N/A |
-| 41 | [Sigrid Bazán](http://twitter.com/search?q=Sigrid+Baz%c3%a1n) | N/A |
-| 42 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 43 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
-| 44 | [Comisión de Ética](http://twitter.com/search?q=Comisi%c3%b3n+de+%c3%89tica) | N/A |
-| 45 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
-| 46 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 47 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 48 | [Bowser](http://twitter.com/search?q=Bowser) | N/A |
-| 49 | [GRACIAS DSMP](http://twitter.com/search?q=GRACIAS+DSMP) | N/A |
-| 50 | [Carretera Central](http://twitter.com/search?q=Carretera+Central) | N/A |
+| 23 | [Corzo](http://twitter.com/search?q=Corzo) | N/A |
+| 24 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 25 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 26 | [andy polo](http://twitter.com/search?q=andy+polo) | N/A |
+| 27 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 28 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
+| 29 | [Comisión de Ética](http://twitter.com/search?q=Comisi%c3%b3n+de+%c3%89tica) | N/A |
+| 30 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
+| 31 | [Sheput](http://twitter.com/search?q=Sheput) | N/A |
+| 32 | [Grau](http://twitter.com/search?q=Grau) | N/A |
+| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 34 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 35 | [Grin](http://twitter.com/search?q=Grin) | N/A |
+| 36 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 37 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
+| 38 | [Valera](http://twitter.com/search?q=Valera) | N/A |
+| 39 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 40 | [Renovación Medieval](http://twitter.com/search?q=Renovaci%c3%b3n+Medieval) | N/A |
+| 41 | [Fiscalía de la Nación](http://twitter.com/search?q=Fiscal%c3%ada+de+la+Naci%c3%b3n) | N/A |
+| 42 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
+| 43 | [Santiago Contoricón Antúnez](http://twitter.com/search?q=Santiago+Contoric%c3%b3n+Ant%c3%banez) | N/A |
+| 44 | [Sigrid Bazán](http://twitter.com/search?q=Sigrid+Baz%c3%a1n) | N/A |
+| 45 | [MAIN POP BOY IS COMING](http://twitter.com/search?q=MAIN+POP+BOY+IS+COMING) | N/A |
+| 46 | [GRACIAS DSMP](http://twitter.com/search?q=GRACIAS+DSMP) | N/A |
+| 47 | [Ortiz](http://twitter.com/search?q=Ortiz) | N/A |
+| 48 | [Asqueroso](http://twitter.com/search?q=Asqueroso) | N/A |
+| 49 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 50 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
 
 
 

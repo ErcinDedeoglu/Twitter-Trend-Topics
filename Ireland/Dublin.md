@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-04-11 01:44:17 UTC`
+📆 Last Updated: `2023-04-11 02:30:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Ireland](</Ireland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 1 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 3 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
 | 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 5 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
@@ -30,9 +30,9 @@ This is top 50 for [Ireland](</Ireland>)
 | 13 | [Seve](http://twitter.com/search?q=Seve) | N/A |
 | 14 | [#bitored](http://twitter.com/search?q=%23bitored) | N/A |
 | 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 16 | [#IrishGrandNational](http://twitter.com/search?q=%23IrishGrandNational) | N/A |
+| 16 | [#irishgrandnational](http://twitter.com/search?q=%23irishgrandnational) | N/A |
 | 17 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 18 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 18 | [monkfish](http://twitter.com/search?q=monkfish) | N/A |
 | 19 | [John Rahm](http://twitter.com/search?q=John+Rahm) | N/A |
 | 20 | [#fairyhouse](http://twitter.com/search?q=%23fairyhouse) | N/A |
 | 21 | [Shels](http://twitter.com/search?q=Shels) | N/A |
@@ -41,11 +41,11 @@ This is top 50 for [Ireland](</Ireland>)
 | 24 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
 | 25 | [Lee Chin](http://twitter.com/search?q=Lee+Chin) | N/A |
 | 26 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 27 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 28 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
-| 29 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
-| 30 | [Liam Lynch](http://twitter.com/search?q=Liam+Lynch) | N/A |
-| 31 | [Mickelson](http://twitter.com/search?q=Mickelson) | N/A |
+| 27 | [Bertie](http://twitter.com/search?q=Bertie) | N/A |
+| 28 | [Paul McGrath](http://twitter.com/search?q=Paul+McGrath) | N/A |
+| 29 | [Liam Lynch](http://twitter.com/search?q=Liam+Lynch) | N/A |
+| 30 | [Mickelson](http://twitter.com/search?q=Mickelson) | N/A |
+| 31 | [Derry](http://twitter.com/search?q=Derry) | N/A |
 | 32 | [turner's cross](http://twitter.com/search?q=turner%27s+cross) | N/A |
 | 33 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
 | 34 | [POTY](http://twitter.com/search?q=POTY) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for [Ireland](</Ireland>)
 | 46 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
 | 47 | [Neville](http://twitter.com/search?q=Neville) | N/A |
 | 48 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 49 | [Lotto](http://twitter.com/search?q=Lotto) | N/A |
-| 50 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 49 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 50 | [Ryanair](http://twitter.com/search?q=Ryanair) | N/A |
 
 
 

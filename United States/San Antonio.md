@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-11 01:44:57 UTC`
+📆 Last Updated: `2023-04-11 02:31:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
-| 2 | [Seager](http://twitter.com/search?q=Seager) | N/A |
-| 3 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
-| 4 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 5 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
-| 6 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 7 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 8 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 9 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 10 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 11 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 12 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 13 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 14 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 15 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 16 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 17 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 18 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 19 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
-| 20 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 21 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 22 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 23 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 24 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 25 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 26 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 27 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 28 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 29 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 30 | [Holly](http://twitter.com/search?q=Holly) | N/A |
-| 31 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
-| 32 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 33 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 34 | [Brandon Lowe](http://twitter.com/search?q=Brandon+Lowe) | N/A |
-| 35 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 36 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 37 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 38 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 39 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
-| 40 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 41 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 42 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
-| 43 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 44 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 45 | [Alcantara](http://twitter.com/search?q=Alcantara) | N/A |
-| 46 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
-| 47 | [Erik Karlsson](http://twitter.com/search?q=Erik+Karlsson) | N/A |
-| 48 | [Bryce Elder](http://twitter.com/search?q=Bryce+Elder) | N/A |
-| 49 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 50 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
+| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 2 | [Dubon](http://twitter.com/search?q=Dubon) | N/A |
+| 3 | [#ForTheA](http://twitter.com/search?q=%23ForTheA) | N/A |
+| 4 | [Seager](http://twitter.com/search?q=Seager) | N/A |
+| 5 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 6 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
+| 7 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 8 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 9 | [Cardi](http://twitter.com/search?q=Cardi) | Cardi is short for Cardigan, a type of knitted sweater or jacket that opens down the front. It is usually made of wool or cotton and can be worn as a light jacket or over a shirt. |
+| 10 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 12 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 13 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 14 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 15 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 16 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 17 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 18 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 19 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 20 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 21 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 22 | [Wrestlemania Backlash](http://twitter.com/search?q=Wrestlemania+Backlash) | N/A |
+| 23 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 24 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 25 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 26 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 27 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 28 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 29 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 30 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 31 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 32 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 33 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
+| 34 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
+| 35 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
+| 36 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
+| 37 | [Minter](http://twitter.com/search?q=Minter) | N/A |
+| 38 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
+| 39 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 40 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 41 | [Derek Law](http://twitter.com/search?q=Derek+Law) | N/A |
+| 42 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 43 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 44 | [BRAVES WIN](http://twitter.com/search?q=BRAVES+WIN) | N/A |
+| 45 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 46 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 47 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 48 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
+| 49 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 50 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-04-11 01:44:44 UTC`
+📆 Last Updated: `2023-04-11 02:31:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 8 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
 | 9 | [Iqrar](http://twitter.com/search?q=Iqrar) | N/A |
-| 10 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 11 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 10 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 12 | [Birds](http://twitter.com/search?q=Birds) | N/A |
 | 13 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
 | 14 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 29 | [Simon Doull](http://twitter.com/search?q=Simon+Doull) | N/A |
 | 30 | [Steve Smith](http://twitter.com/search?q=Steve+Smith) | Steve Smith is a common English name. It does not have any particular meaning in English. |
 | 31 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 32 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 33 | [Saad](http://twitter.com/search?q=Saad) | N/A |
-| 34 | [Trueee](http://twitter.com/search?q=Trueee) | N/A |
-| 35 | [Fajr](http://twitter.com/search?q=Fajr) | N/A |
-| 36 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 37 | [Itni](http://twitter.com/search?q=Itni) | N/A |
-| 38 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 39 | [Bestie](http://twitter.com/search?q=Bestie) | N/A |
-| 40 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 41 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 42 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
-| 43 | [Choor](http://twitter.com/search?q=Choor) | N/A |
-| 44 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 45 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 46 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
-| 47 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 48 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 49 | [umeed](http://twitter.com/search?q=umeed) | N/A |
-| 50 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 32 | [Maryam](http://twitter.com/search?q=Maryam) | N/A |
+| 33 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 34 | [Bestie](http://twitter.com/search?q=Bestie) | N/A |
+| 35 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 36 | [Join IMS](http://twitter.com/search?q=Join+IMS) | N/A |
+| 37 | [Ma'am](http://twitter.com/search?q=Ma%27am) | N/A |
+| 38 | [Choor](http://twitter.com/search?q=Choor) | N/A |
+| 39 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
+| 40 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 41 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 42 | [Kenya](http://twitter.com/search?q=Kenya) | N/A |
+| 43 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 45 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 46 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 48 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
+| 49 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 50 | [MashaAllah](http://twitter.com/search?q=MashaAllah) | N/A |
 
 
 

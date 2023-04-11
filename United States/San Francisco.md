@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-11 01:44:58 UTC`
+📆 Last Updated: `2023-04-11 02:31:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 1 | [Mookie](http://twitter.com/search?q=Mookie) | N/A |
 | 2 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
-| 3 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
-| 4 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 5 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
-| 6 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
-| 7 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 8 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 9 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 10 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
-| 11 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 13 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
-| 14 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 15 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 16 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 17 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 18 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 19 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 20 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 21 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 22 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 23 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 24 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 25 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 26 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 27 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 28 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 29 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 30 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 31 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 32 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 33 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 34 | [Holly](http://twitter.com/search?q=Holly) | N/A |
-| 35 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
-| 36 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 37 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 38 | [Brandon Lowe](http://twitter.com/search?q=Brandon+Lowe) | N/A |
-| 39 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 40 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 41 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 42 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 43 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
-| 44 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 45 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 46 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
-| 47 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 48 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 49 | [Alcantara](http://twitter.com/search?q=Alcantara) | N/A |
-| 50 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
+| 3 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 4 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 6 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
+| 7 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 8 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 9 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
+| 10 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
+| 11 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 12 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
+| 13 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 14 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 15 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 16 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 17 | [The FBI](http://twitter.com/search?q=The+FBI) | N/A |
+| 18 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 20 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 21 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 22 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 23 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 24 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 25 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 26 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 27 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 28 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 29 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 30 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 31 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 32 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 33 | [Wrestlemania Backlash](http://twitter.com/search?q=Wrestlemania+Backlash) | N/A |
+| 34 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 35 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 36 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 37 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 38 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 39 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 40 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 41 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 42 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 43 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
+| 44 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
+| 45 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
+| 46 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
+| 47 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
+| 48 | [Minter](http://twitter.com/search?q=Minter) | N/A |
+| 49 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 50 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
 
 
 

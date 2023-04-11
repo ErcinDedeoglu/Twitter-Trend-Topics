@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-04-11 01:44:27 UTC`
+📆 Last Updated: `2023-04-11 02:30:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Australia](</Australia>)
 | 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 6 | [#esctop100](http://twitter.com/search?q=%23esctop100) | N/A |
 | 7 | [#auspol](http://twitter.com/search?q=%23auspol) | N/A |
-| 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 9 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 10 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
-| 11 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 8 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 9 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
+| 10 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 12 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
 | 13 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 14 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
-| 15 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 16 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 17 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
-| 18 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 19 | [Kale](http://twitter.com/search?q=Kale) | N/A |
-| 20 | [Parra](http://twitter.com/search?q=Parra) | N/A |
-| 21 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 22 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 23 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
-| 24 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
-| 25 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
-| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 27 | [Andrew Bolt](http://twitter.com/search?q=Andrew+Bolt) | N/A |
-| 28 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
-| 29 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
-| 30 | [gary rohan](http://twitter.com/search?q=gary+rohan) | N/A |
-| 31 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 32 | [Keath](http://twitter.com/search?q=Keath) | N/A |
-| 33 | [Oakbank](http://twitter.com/search?q=Oakbank) | N/A |
-| 34 | [Moses](http://twitter.com/search?q=Moses) | N/A |
-| 35 | [Sicily](http://twitter.com/search?q=Sicily) | N/A |
-| 36 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
-| 37 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
-| 38 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 39 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
-| 40 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 41 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
-| 42 | [Luke Brooks](http://twitter.com/search?q=Luke+Brooks) | N/A |
-| 43 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
-| 44 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 45 | [Dangerfield](http://twitter.com/search?q=Dangerfield) | N/A |
-| 46 | [Indigenous Voice to Parliament](http://twitter.com/search?q=Indigenous+Voice+to+Parliament) | N/A |
-| 47 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 48 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
-| 49 | [nank](http://twitter.com/search?q=nank) | N/A |
-| 50 | [Blicavs](http://twitter.com/search?q=Blicavs) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 16 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 17 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 18 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 19 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 20 | [Tim Blair](http://twitter.com/search?q=Tim+Blair) | N/A |
+| 21 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 22 | [Kale](http://twitter.com/search?q=Kale) | N/A |
+| 23 | [Bridget Archer](http://twitter.com/search?q=Bridget+Archer) | N/A |
+| 24 | [Parra](http://twitter.com/search?q=Parra) | N/A |
+| 25 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 26 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
+| 27 | [Doueihi](http://twitter.com/search?q=Doueihi) | N/A |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
+| 30 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 31 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 32 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
+| 33 | [Keath](http://twitter.com/search?q=Keath) | N/A |
+| 34 | [Debunking 10](http://twitter.com/search?q=Debunking+10) | N/A |
+| 35 | [Indigenous Voice](http://twitter.com/search?q=Indigenous+Voice) | N/A |
+| 36 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 37 | [oakbank](http://twitter.com/search?q=oakbank) | N/A |
+| 38 | [warwick farm](http://twitter.com/search?q=warwick+farm) | N/A |
+| 39 | [Bill of Rights](http://twitter.com/search?q=Bill+of+Rights) | N/A |
+| 40 | [Harley Reid](http://twitter.com/search?q=Harley+Reid) | N/A |
+| 41 | [Luke Brooks](http://twitter.com/search?q=Luke+Brooks) | N/A |
+| 42 | [Swifts](http://twitter.com/search?q=Swifts) | N/A |
+| 43 | [Lynch](http://twitter.com/search?q=Lynch) | N/A |
+| 44 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 45 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 46 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
+| 47 | [nank](http://twitter.com/search?q=nank) | N/A |
+| 48 | [gutho](http://twitter.com/search?q=gutho) | N/A |
+| 49 | [Andrew Neil](http://twitter.com/search?q=Andrew+Neil) | N/A |
+| 50 | [Bateman](http://twitter.com/search?q=Bateman) | N/A |
 
 
 

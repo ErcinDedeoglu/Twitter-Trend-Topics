@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-11 01:45:03 UTC`
+📆 Last Updated: `2023-04-11 02:31:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,28 +43,28 @@ This is top 50 for Israel
 | 26 | [ארבע שנים](http://twitter.com/search?q=%d7%90%d7%a8%d7%91%d7%a2+%d7%a9%d7%a0%d7%99%d7%9d) | N/A |
 | 27 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
 | 28 | [דניאל עמרם](http://twitter.com/search?q=%d7%93%d7%a0%d7%99%d7%90%d7%9c+%d7%a2%d7%9e%d7%a8%d7%9d) | N/A |
-| 29 | [ראש הממשלה](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 30 | [די הי״ד](http://twitter.com/search?q=%d7%93%d7%99+%d7%94%d7%99%d7%b4%d7%93) | N/A |
-| 31 | [ניר ביטון](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
-| 32 | [טל שניידר](http://twitter.com/search?q=%d7%98%d7%9c+%d7%a9%d7%a0%d7%99%d7%99%d7%93%d7%a8) | N/A |
-| 33 | [גבי לסקי](http://twitter.com/search?q=%d7%92%d7%91%d7%99+%d7%9c%d7%a1%d7%a7%d7%99) | N/A |
-| 34 | [אוהד חיפה](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 35 | [אלי ציפורי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99) | N/A |
-| 36 | [היום ב](http://twitter.com/search?q=%d7%94%d7%99%d7%95%d7%9d+%d7%91) | N/A |
-| 37 | [דן ביטון](http://twitter.com/search?q=%d7%93%d7%9f+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
-| 38 | [ערוץ תעמולה](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%aa%d7%a2%d7%9e%d7%95%d7%9c%d7%94) | N/A |
-| 39 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 40 | [של זהבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%96%d7%94%d7%91%d7%99) | N/A |
-| 41 | [אוהד ביתר](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%91%d7%99%d7%aa%d7%a8) | N/A |
-| 42 | [של הג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%92) | N/A |
-| 43 | [ביבי אמר](http://twitter.com/search?q=%d7%91%d7%99%d7%91%d7%99+%d7%90%d7%9e%d7%a8) | N/A |
-| 44 | [רועי ניומן](http://twitter.com/search?q=%d7%a8%d7%95%d7%a2%d7%99+%d7%a0%d7%99%d7%95%d7%9e%d7%9f) | N/A |
-| 45 | [עובד שם](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%a9%d7%9d) | N/A |
-| 46 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
-| 47 | [ערן זהבי](http://twitter.com/search?q=%d7%a2%d7%a8%d7%9f+%d7%96%d7%94%d7%91%d7%99) | N/A |
-| 48 | [ענק בין](http://twitter.com/search?q=%d7%a2%d7%a0%d7%a7+%d7%91%d7%99%d7%9f) | N/A |
-| 49 | [עם כיפה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9b%d7%99%d7%a4%d7%94) | N/A |
-| 50 | [סר טעם](http://twitter.com/search?q=%d7%a1%d7%a8+%d7%98%d7%a2%d7%9d) | N/A |
+| 29 | [די הי״ד](http://twitter.com/search?q=%d7%93%d7%99+%d7%94%d7%99%d7%b4%d7%93) | N/A |
+| 30 | [ניר ביטון](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
+| 31 | [טל שניידר](http://twitter.com/search?q=%d7%98%d7%9c+%d7%a9%d7%a0%d7%99%d7%99%d7%93%d7%a8) | N/A |
+| 32 | [גבי לסקי](http://twitter.com/search?q=%d7%92%d7%91%d7%99+%d7%9c%d7%a1%d7%a7%d7%99) | N/A |
+| 33 | [אוהד חיפה](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 34 | [אלי ציפורי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99) | N/A |
+| 35 | [היום ב](http://twitter.com/search?q=%d7%94%d7%99%d7%95%d7%9d+%d7%91) | N/A |
+| 36 | [דן ביטון](http://twitter.com/search?q=%d7%93%d7%9f+%d7%91%d7%99%d7%98%d7%95%d7%9f) | N/A |
+| 37 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 38 | [של זהבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%96%d7%94%d7%91%d7%99) | N/A |
+| 39 | [אוהד ביתר](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%91%d7%99%d7%aa%d7%a8) | N/A |
+| 40 | [של הג](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%92) | N/A |
+| 41 | [ביבי אמר](http://twitter.com/search?q=%d7%91%d7%99%d7%91%d7%99+%d7%90%d7%9e%d7%a8) | N/A |
+| 42 | [רועי ניומן](http://twitter.com/search?q=%d7%a8%d7%95%d7%a2%d7%99+%d7%a0%d7%99%d7%95%d7%9e%d7%9f) | N/A |
+| 43 | [ערוץ תעמולה](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%aa%d7%a2%d7%9e%d7%95%d7%9c%d7%94) | N/A |
+| 44 | [עובד שם](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%a9%d7%9d) | N/A |
+| 45 | [משפטים בושה](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a4%d7%98%d7%99%d7%9d+%d7%91%d7%95%d7%a9%d7%94) | N/A |
+| 46 | [ערן זהבי](http://twitter.com/search?q=%d7%a2%d7%a8%d7%9f+%d7%96%d7%94%d7%91%d7%99) | N/A |
+| 47 | [ענק בין](http://twitter.com/search?q=%d7%a2%d7%a0%d7%a7+%d7%91%d7%99%d7%9f) | N/A |
+| 48 | [עם כיפה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9b%d7%99%d7%a4%d7%94) | N/A |
+| 49 | [גנב קולות](http://twitter.com/search?q=%d7%92%d7%a0%d7%91+%d7%a7%d7%95%d7%9c%d7%95%d7%aa) | N/A |
+| 50 | [של חיפה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
 
 
 

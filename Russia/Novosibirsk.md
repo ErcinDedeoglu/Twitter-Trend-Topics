@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Novosibirsk
 
-📆 Last Updated: `2023-04-11 01:44:42 UTC`
+📆 Last Updated: `2023-04-11 02:31:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Russia](</Russia>)
 | ------- | ------------ | ------------ |
 | 1 | [Pretty Coooool](http://twitter.com/search?q=Pretty+Coooool) | Pretty Coooool is an expression of enthusiasm or approval. It is often used to express excitement or admiration for something. In English, it can be translated to mean "very cool" or "awesome". |
 | 2 | [Users](http://twitter.com/search?q=Users) | N/A |
-| 3 | [Thee](http://twitter.com/search?q=Thee) | N/A |
+| 3 | [THEE](http://twitter.com/search?q=THEE) | N/A |
 | 4 | [#Binancee](http://twitter.com/search?q=%23Binancee) | N/A |
 | 5 | [Hype](http://twitter.com/search?q=Hype) | N/A |
 | 6 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
@@ -31,17 +31,17 @@ This is top 50 for [Russia](</Russia>)
 | 14 | [Havee](http://twitter.com/search?q=Havee) | N/A |
 | 15 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
 | 16 | [TOP TEAM](http://twitter.com/search?q=TOP+TEAM) | N/A |
-| 17 | [Boss](http://twitter.com/search?q=Boss) | N/A |
-| 18 | [Howw](http://twitter.com/search?q=Howw) | N/A |
+| 17 | [Howw](http://twitter.com/search?q=Howw) | N/A |
+| 18 | [Boss](http://twitter.com/search?q=Boss) | N/A |
 | 19 | [Rate](http://twitter.com/search?q=Rate) | N/A |
 | 20 | [Cryptoo](http://twitter.com/search?q=Cryptoo) | N/A |
-| 21 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
-| 22 | [Finallyy](http://twitter.com/search?q=Finallyy) | N/A |
-| 23 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
+| 21 | [Finallyy](http://twitter.com/search?q=Finallyy) | N/A |
+| 22 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
+| 23 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
 | 24 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 | 25 | [Recommend](http://twitter.com/search?q=Recommend) | N/A |
-| 26 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 27 | [Logical](http://twitter.com/search?q=Logical) | N/A |
+| 26 | [Logical](http://twitter.com/search?q=Logical) | N/A |
+| 27 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
 | 28 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 29 | [Smart](http://twitter.com/search?q=Smart) | N/A |
 | 30 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Russia](</Russia>)
 | 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 44 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 45 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 46 | [покажи](http://twitter.com/search?q=%d0%bf%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
-| 47 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 46 | [Покажи](http://twitter.com/search?q=%d0%9f%d0%be%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
+| 47 | [видимо](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
 | 48 | [капец](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
 | 49 | [Gmorning](http://twitter.com/search?q=Gmorning) | N/A |
-| 50 | [Илон Маск](http://twitter.com/search?q=%d0%98%d0%bb%d0%be%d0%bd+%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 50 | [ваще](http://twitter.com/search?q=%d0%b2%d0%b0%d1%89%d0%b5) | N/A |
 
 
 

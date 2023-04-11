@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-11 01:45:06 UTC`
+📆 Last Updated: `2023-04-11 02:31:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,26 +16,26 @@ This is top 50 for Portugal
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 2 | [Carlos Pereira](http://twitter.com/search?q=Carlos+Pereira) | N/A |
-| 3 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 4 | [#OsTraidores](http://twitter.com/search?q=%23OsTraidores) | N/A |
-| 5 | [#BruNoTriangulo](http://twitter.com/search?q=%23BruNoTriangulo) | N/A |
-| 6 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 7 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 8 | [Hugo Mendes](http://twitter.com/search?q=Hugo+Mendes) | N/A |
+| 2 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
+| 3 | [#OsTraidores](http://twitter.com/search?q=%23OsTraidores) | N/A |
+| 4 | [#BruNoTriangulo](http://twitter.com/search?q=%23BruNoTriangulo) | N/A |
+| 5 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 6 | [Carlos Pereira](http://twitter.com/search?q=Carlos+Pereira) | N/A |
+| 7 | [Hugo Mendes](http://twitter.com/search?q=Hugo+Mendes) | N/A |
+| 8 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 9 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
 | 10 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | N/A |
-| 11 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 12 | [Daniela Ruah](http://twitter.com/search?q=Daniela+Ruah) | N/A |
-| 13 | [#thevoicept](http://twitter.com/search?q=%23thevoicept) | N/A |
-| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 15 | [#zerolugaresvazios](http://twitter.com/search?q=%23zerolugaresvazios) | N/A |
+| 11 | [Daniela Ruah](http://twitter.com/search?q=Daniela+Ruah) | N/A |
+| 12 | [#thevoicept](http://twitter.com/search?q=%23thevoicept) | N/A |
+| 13 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 14 | [#zerolugaresvazios](http://twitter.com/search?q=%23zerolugaresvazios) | N/A |
+| 15 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
 | 16 | [Tibete](http://twitter.com/search?q=Tibete) | N/A |
 | 17 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
 | 18 | [ristic](http://twitter.com/search?q=ristic) | N/A |
 | 19 | [Red Pass](http://twitter.com/search?q=Red+Pass) | N/A |
-| 20 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 21 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 20 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 21 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
 | 22 | [Coates](http://twitter.com/search?q=Coates) | N/A |
 | 23 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 24 | [Bernardo Blanco](http://twitter.com/search?q=Bernardo+Blanco) | N/A |
@@ -53,12 +53,12 @@ This is top 50 for Portugal
 | 36 | [Portela](http://twitter.com/search?q=Portela) | N/A |
 | 37 | [o zezinho](http://twitter.com/search?q=o+zezinho) | N/A |
 | 38 | [Sport Lisboa](http://twitter.com/search?q=Sport+Lisboa) | N/A |
-| 39 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [2- Não](http://twitter.com/search?q=2-+N%c3%a3o) | N/A |
-| 42 | [8- M](http://twitter.com/search?q=8-+M) | N/A |
-| 43 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 44 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 40 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 41 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 42 | [2- Não](http://twitter.com/search?q=2-+N%c3%a3o) | N/A |
+| 43 | [8- M](http://twitter.com/search?q=8-+M) | N/A |
+| 44 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
 | 45 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
 | 46 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 47 | [Provavelmente](http://twitter.com/search?q=Provavelmente) | N/A |

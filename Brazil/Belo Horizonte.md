@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-11 01:44:14 UTC`
+📆 Last Updated: `2023-04-11 02:30:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Melhoras](http://twitter.com/search?q=Melhoras) | N/A |
 | 2 | [Helena](http://twitter.com/search?q=Helena) | N/A |
 | 3 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 4 | [#VaiHelôPegaElesTudo](http://twitter.com/search?q=%23VaiHel%c3%b4PegaElesTudo) | N/A |
-| 5 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
-| 6 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 7 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 8 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 9 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
-| 10 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 11 | [#TerraEPaixão](http://twitter.com/search?q=%23TerraEPaix%c3%a3o) | N/A |
-| 12 | [#7DiasDeLivramento](http://twitter.com/search?q=%237DiasDeLivramento) | N/A |
-| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
-| 15 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
-| 16 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 17 | [Jhony](http://twitter.com/search?q=Jhony) | N/A |
+| 4 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 5 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 6 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 7 | [BRUNA INSUPORTÁVEL](http://twitter.com/search?q=BRUNA+INSUPORT%c3%81VEL) | N/A |
+| 8 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 9 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
+| 10 | [#VaiHelôPegaElesTudo](http://twitter.com/search?q=%23VaiHel%c3%b4PegaElesTudo) | N/A |
+| 11 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 12 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 13 | [#TerraEPaixão](http://twitter.com/search?q=%23TerraEPaix%c3%a3o) | N/A |
+| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 15 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 16 | [#7DiasDeLivramento](http://twitter.com/search?q=%237DiasDeLivramento) | N/A |
+| 17 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
 | 18 | [gabi brandt](http://twitter.com/search?q=gabi+brandt) | N/A |
-| 19 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
-| 20 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 21 | [MONTEZ](http://twitter.com/search?q=MONTEZ) | N/A |
-| 22 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 23 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
-| 24 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
-| 25 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
-| 26 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
-| 27 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 28 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
-| 29 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 30 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 31 | [Filipe Toledo](http://twitter.com/search?q=Filipe+Toledo) | N/A |
-| 32 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 33 | [Franca](http://twitter.com/search?q=Franca) | N/A |
-| 34 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 35 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 36 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 37 | [Beni](http://twitter.com/search?q=Beni) | N/A |
-| 38 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 39 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 40 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 41 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
-| 42 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
-| 43 | [Alexandre Nero](http://twitter.com/search?q=Alexandre+Nero) | N/A |
-| 44 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 45 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
-| 46 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 47 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
-| 48 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
-| 49 | [taylor lautner](http://twitter.com/search?q=taylor+lautner) | N/A |
-| 50 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 19 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
+| 20 | [Jhony](http://twitter.com/search?q=Jhony) | N/A |
+| 21 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 22 | [Heldes](http://twitter.com/search?q=Heldes) | N/A |
+| 23 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 24 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
+| 25 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 26 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 27 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
+| 28 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 29 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 30 | [MONTEZ](http://twitter.com/search?q=MONTEZ) | N/A |
+| 31 | [Essas 4](http://twitter.com/search?q=Essas+4) | N/A |
+| 32 | [Bruna Gritão](http://twitter.com/search?q=Bruna+Grit%c3%a3o) | N/A |
+| 33 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 34 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
+| 35 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
+| 36 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
+| 37 | [Sesi Bauru](http://twitter.com/search?q=Sesi+Bauru) | N/A |
+| 38 | [Beni](http://twitter.com/search?q=Beni) | N/A |
+| 39 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
+| 40 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
+| 41 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 42 | [Franca](http://twitter.com/search?q=Franca) | N/A |
+| 43 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
+| 44 | [Pague Menos](http://twitter.com/search?q=Pague+Menos) | N/A |
+| 45 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 46 | [Filipe Toledo](http://twitter.com/search?q=Filipe+Toledo) | N/A |
+| 47 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 48 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 49 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 50 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
 
 
 

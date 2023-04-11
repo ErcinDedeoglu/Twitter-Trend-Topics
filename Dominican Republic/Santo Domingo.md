@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-11 01:44:08 UTC`
+📆 Last Updated: `2023-04-11 02:30:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 4 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
 | 5 | [#RumboADosMillones](http://twitter.com/search?q=%23RumboADosMillones) | N/A |
 | 6 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [Sandy Alcántara](http://twitter.com/search?q=Sandy+Alc%c3%a1ntara) | N/A |
-| 9 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
-| 10 | [Luis 4](http://twitter.com/search?q=Luis+4) | N/A |
-| 11 | [RCC Media](http://twitter.com/search?q=RCC+Media) | N/A |
-| 12 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 13 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 7 | [Luis Abinader](http://twitter.com/search?q=Luis+Abinader) | N/A |
+| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 9 | [Sandy Alcántara](http://twitter.com/search?q=Sandy+Alc%c3%a1ntara) | N/A |
+| 10 | [Boletri](http://twitter.com/search?q=Boletri) | N/A |
+| 11 | [Luis 4](http://twitter.com/search?q=Luis+4) | N/A |
+| 12 | [RCC Media](http://twitter.com/search?q=RCC+Media) | N/A |
+| 13 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
 | 14 | [#FuerzaDelPueblo](http://twitter.com/search?q=%23FuerzaDelPueblo) | N/A |
-| 15 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 17 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
-| 18 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
-| 19 | [Blas Peralta](http://twitter.com/search?q=Blas+Peralta) | N/A |
+| 15 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 16 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 17 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
+| 18 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 19 | [Oneil Cruz](http://twitter.com/search?q=Oneil+Cruz) | N/A |
 | 20 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 21 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 22 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 23 | [Ricardo Nieves](http://twitter.com/search?q=Ricardo+Nieves) | N/A |
-| 24 | [Euric](http://twitter.com/search?q=Euric) | N/A |
-| 25 | [El Ministerio de la Mujer](http://twitter.com/search?q=El+Ministerio+de+la+Mujer) | N/A |
-| 26 | [Cristianismo](http://twitter.com/search?q=Cristianismo) | N/A |
-| 27 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 28 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
-| 29 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
+| 21 | [Blas Peralta](http://twitter.com/search?q=Blas+Peralta) | N/A |
+| 22 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 23 | [Neyba](http://twitter.com/search?q=Neyba) | N/A |
+| 24 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
+| 25 | [Ricardo Nieves](http://twitter.com/search?q=Ricardo+Nieves) | N/A |
+| 26 | [El Ministerio de la Mujer](http://twitter.com/search?q=El+Ministerio+de+la+Mujer) | N/A |
+| 27 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 28 | [Cristianismo](http://twitter.com/search?q=Cristianismo) | N/A |
+| 29 | [Euric](http://twitter.com/search?q=Euric) | N/A |
 | 30 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 31 | [Casablanca](http://twitter.com/search?q=Casablanca) | N/A |
-| 32 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
-| 33 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
-| 34 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 35 | [Vergolias](http://twitter.com/search?q=Vergolias) | N/A |
-| 36 | [Jensy Graciano](http://twitter.com/search?q=Jensy+Graciano) | N/A |
-| 37 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 38 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 39 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
-| 40 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
-| 41 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 31 | [Lunes 10](http://twitter.com/search?q=Lunes+10) | N/A |
+| 32 | [Corea del Sur](http://twitter.com/search?q=Corea+del+Sur) | N/A |
+| 33 | [Vergolias](http://twitter.com/search?q=Vergolias) | N/A |
+| 34 | [Jensy Graciano](http://twitter.com/search?q=Jensy+Graciano) | N/A |
+| 35 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 36 | [Aguacate](http://twitter.com/search?q=Aguacate) | N/A |
+| 37 | [Domingo de Resurrección](http://twitter.com/search?q=Domingo+de+Resurrecci%c3%b3n) | N/A |
+| 38 | [Nelson Cruz](http://twitter.com/search?q=Nelson+Cruz) | Nelson Cruz is a professional baseball player from the Dominican Republic who currently plays for the Minnesota Twins. He is a four-time All-Star and has won the Silver Slugger Award three times. He is known for his power hitting and has hit over 300 home runs in his career. |
+| 39 | [Balaguer](http://twitter.com/search?q=Balaguer) | N/A |
+| 40 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
+| 41 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 42 | [Papa](http://twitter.com/search?q=Papa) | N/A |
 | 43 | [Rafael Solano](http://twitter.com/search?q=Rafael+Solano) | N/A |
 | 44 | [Corripio](http://twitter.com/search?q=Corripio) | N/A |
-| 45 | [judas de la corrupción](http://twitter.com/search?q=judas+de+la+corrupci%c3%b3n) | N/A |
-| 46 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
-| 47 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 48 | [Kimetsu](http://twitter.com/search?q=Kimetsu) | N/A |
-| 49 | [El MP](http://twitter.com/search?q=El+MP) | N/A |
-| 50 | [Doña](http://twitter.com/search?q=Do%c3%b1a) | N/A |
+| 45 | [Guillermo Moreno](http://twitter.com/search?q=Guillermo+Moreno) | N/A |
+| 46 | [Doña](http://twitter.com/search?q=Do%c3%b1a) | N/A |
+| 47 | [judas de la corrupción](http://twitter.com/search?q=judas+de+la+corrupci%c3%b3n) | N/A |
+| 48 | [Feliz Pascua de Resurrección](http://twitter.com/search?q=Feliz+Pascua+de+Resurrecci%c3%b3n) | N/A |
+| 49 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
+| 50 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
 
 
 

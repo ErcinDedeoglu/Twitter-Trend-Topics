@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-11 01:44:25 UTC`
+📆 Last Updated: `2023-04-11 02:30:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
+| 1 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
 | 2 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | N/A |
 | 3 | [FotballXtra](http://twitter.com/search?q=FotballXtra) | N/A |
 | 4 | [Viking](http://twitter.com/search?q=Viking) | N/A |
@@ -37,10 +37,10 @@ This is top 50 for [Norway](</Norway>)
 | 20 | [Woke](http://twitter.com/search?q=Woke) | N/A |
 | 21 | [tripic](http://twitter.com/search?q=tripic) | N/A |
 | 22 | [børven](http://twitter.com/search?q=b%c3%b8rven) | N/A |
-| 23 | [Pattynama](http://twitter.com/search?q=Pattynama) | N/A |
+| 23 | [pattynama](http://twitter.com/search?q=pattynama) | N/A |
 | 24 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
 | 25 | [Moss](http://twitter.com/search?q=Moss) | N/A |
-| 26 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
+| 26 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
 | 27 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
 | 28 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
 | 29 | [nadderud](http://twitter.com/search?q=nadderud) | N/A |
@@ -49,10 +49,10 @@ This is top 50 for [Norway](</Norway>)
 | 32 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 33 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 35 | [HamKam](http://twitter.com/search?q=HamKam) | N/A |
+| 35 | [hamkam](http://twitter.com/search?q=hamkam) | N/A |
 | 36 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
 | 37 | [briskeby](http://twitter.com/search?q=briskeby) | N/A |
-| 38 | [Enga](http://twitter.com/search?q=Enga) | N/A |
+| 38 | [enga](http://twitter.com/search?q=enga) | N/A |
 | 39 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 40 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
 | 41 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
@@ -60,7 +60,7 @@ This is top 50 for [Norway](</Norway>)
 | 43 | [salvesen](http://twitter.com/search?q=salvesen) | N/A |
 | 44 | [Kamma](http://twitter.com/search?q=Kamma) | N/A |
 | 45 | [aafk](http://twitter.com/search?q=aafk) | N/A |
-| 46 | [Fredrikstad](http://twitter.com/search?q=Fredrikstad) | N/A |
+| 46 | [fredrikstad](http://twitter.com/search?q=fredrikstad) | N/A |
 | 47 | [øvre øst](http://twitter.com/search?q=%c3%b8vre+%c3%b8st) | N/A |
 | 48 | [ålesund](http://twitter.com/search?q=%c3%a5lesund) | N/A |
 | 49 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |

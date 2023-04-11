@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-11 01:45:05 UTC`
+📆 Last Updated: `2023-04-11 02:31:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lerkendal](http://twitter.com/search?q=Lerkendal) | N/A |
+| 1 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
 | 2 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | N/A |
 | 3 | [FotballXtra](http://twitter.com/search?q=FotballXtra) | N/A |
 | 4 | [Viking](http://twitter.com/search?q=Viking) | N/A |
@@ -37,10 +37,10 @@ This is top 50 for Norway
 | 20 | [Woke](http://twitter.com/search?q=Woke) | N/A |
 | 21 | [tripic](http://twitter.com/search?q=tripic) | N/A |
 | 22 | [børven](http://twitter.com/search?q=b%c3%b8rven) | N/A |
-| 23 | [Pattynama](http://twitter.com/search?q=Pattynama) | N/A |
+| 23 | [pattynama](http://twitter.com/search?q=pattynama) | N/A |
 | 24 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
 | 25 | [Moss](http://twitter.com/search?q=Moss) | N/A |
-| 26 | [Rosenborg](http://twitter.com/search?q=Rosenborg) | N/A |
+| 26 | [rosenborg](http://twitter.com/search?q=rosenborg) | N/A |
 | 27 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
 | 28 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
 | 29 | [nadderud](http://twitter.com/search?q=nadderud) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Norway
 | 32 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 33 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
 | 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 35 | [HamKam](http://twitter.com/search?q=HamKam) | N/A |
+| 35 | [hamkam](http://twitter.com/search?q=hamkam) | N/A |
 | 36 | [støre](http://twitter.com/search?q=st%c3%b8re) | N/A |
 | 37 | [briskeby](http://twitter.com/search?q=briskeby) | N/A |
 | 38 | [Enga](http://twitter.com/search?q=Enga) | N/A |

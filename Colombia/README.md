@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-11 01:45:01 UTC`
+📆 Last Updated: `2023-04-11 02:31:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,44 @@ This is top 50 for Colombia
 | 1 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 2 | [Autuori](http://twitter.com/search?q=Autuori) | N/A |
 | 3 | [Didier](http://twitter.com/search?q=Didier) | N/A |
-| 4 | [#PolloTriste](http://twitter.com/search?q=%23PolloTriste) | N/A |
-| 5 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
-| 6 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 7 | [Viera](http://twitter.com/search?q=Viera) | N/A |
-| 8 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 9 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 10 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
-| 11 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
-| 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 13 | [#NoAlcanzaPara](http://twitter.com/search?q=%23NoAlcanzaPara) | N/A |
-| 14 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
-| 15 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 16 | [Gaitán](http://twitter.com/search?q=Gait%c3%a1n) | N/A |
-| 17 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
-| 18 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
-| 19 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 4 | [Tatay](http://twitter.com/search?q=Tatay) | N/A |
+| 5 | [Viera](http://twitter.com/search?q=Viera) | N/A |
+| 6 | [Candelo](http://twitter.com/search?q=Candelo) | N/A |
+| 7 | [Bolillo](http://twitter.com/search?q=Bolillo) | N/A |
+| 8 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 9 | [#DesafioTheBox2023](http://twitter.com/search?q=%23DesafioTheBox2023) | N/A |
+| 10 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
+| 11 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 12 | [Dorlan](http://twitter.com/search?q=Dorlan) | N/A |
+| 13 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 14 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 15 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 16 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 17 | [Atanasio](http://twitter.com/search?q=Atanasio) | N/A |
+| 18 | [Alfonso Medina](http://twitter.com/search?q=Alfonso+Medina) | N/A |
+| 19 | [Gema](http://twitter.com/search?q=Gema) | N/A |
 | 20 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 21 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 22 | [Berrio](http://twitter.com/search?q=Berrio) | N/A |
-| 23 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 24 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
-| 25 | [MI CAPITÁN](http://twitter.com/search?q=MI+CAPIT%c3%81N) | N/A |
+| 21 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 22 | [Aleja](http://twitter.com/search?q=Aleja) | N/A |
+| 23 | [Sebastián Gómez](http://twitter.com/search?q=Sebasti%c3%a1n+G%c3%b3mez) | N/A |
+| 24 | [Martínez](http://twitter.com/search?q=Mart%c3%adnez) | N/A |
+| 25 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
 | 26 | [Andueza](http://twitter.com/search?q=Andueza) | N/A |
-| 27 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 28 | [Natalia Lafourcade](http://twitter.com/search?q=Natalia+Lafourcade) | N/A |
-| 29 | [Alfonso Medina](http://twitter.com/search?q=Alfonso+Medina) | N/A |
-| 30 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 31 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 32 | [Marcela García](http://twitter.com/search?q=Marcela+Garc%c3%ada) | N/A |
-| 33 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 34 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 35 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
-| 36 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 37 | [espitia](http://twitter.com/search?q=espitia) | N/A |
-| 38 | [Atari](http://twitter.com/search?q=Atari) | N/A |
-| 39 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 40 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 41 | [Sierra](http://twitter.com/search?q=Sierra) | N/A |
-| 42 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 43 | [Patronato](http://twitter.com/search?q=Patronato) | Patronato is a Spanish term that refers to a system of patronage or protection. It is often used to describe the relationship between a patron and a client, in which the patron provides financial or other support to the client in exchange for loyalty and service. In English, it can be translated as "patronage" or "protection". |
-| 44 | [Ocampo](http://twitter.com/search?q=Ocampo) | Ocampo is a Spanish surname derived from the Latin word campus, meaning "field". It is most commonly found in Spain and Latin America. In English, it can be translated to mean "of the field". |
-| 45 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 46 | [kelvin osorio](http://twitter.com/search?q=kelvin+osorio) | N/A |
-| 47 | [Pabón](http://twitter.com/search?q=Pab%c3%b3n) | N/A |
-| 48 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 49 | [Pague](http://twitter.com/search?q=Pague) | N/A |
-| 50 | [Harold Rivera](http://twitter.com/search?q=Harold+Rivera) | N/A |
+| 27 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
+| 28 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 29 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 30 | [Vladimir](http://twitter.com/search?q=Vladimir) | Vladimir is a Slavic name derived from the elements vlad, meaning "rule," and mir, meaning "peace." It is most commonly associated with Vladimir the Great, a 10th-century ruler of Kievan Rus who converted his people to Christianity. The name has been popular in Eastern Europe since the Middle Ages and is now used throughout the world. |
+| 31 | [Pague](http://twitter.com/search?q=Pague) | N/A |
+| 32 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 33 | [Atlético Nacional](http://twitter.com/search?q=Atl%c3%a9tico+Nacional) | N/A |
+| 34 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 35 | [Cesar](http://twitter.com/search?q=Cesar) | N/A |
+| 36 | [Jader](http://twitter.com/search?q=Jader) | N/A |
+| 37 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
+| 38 | [Ángel](http://twitter.com/search?q=%c3%81ngel) | N/A |
+| 39 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 40 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | N/A |
+| 41 | [RTVC](http://twitter.com/search?q=RTVC) | N/A |
 
 
 

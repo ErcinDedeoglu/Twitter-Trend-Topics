@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-04-11 01:44:35 UTC`
+📆 Last Updated: `2023-04-11 02:31:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
 | 4 | [#AskPau](http://twitter.com/search?q=%23AskPau) | N/A |
 | 5 | [d4 kdlexpeta comeback](http://twitter.com/search?q=d4+kdlexpeta+comeback) | N/A |
-| 6 | [#FreeGabrielMagtibay](http://twitter.com/search?q=%23FreeGabrielMagtibay) | N/A |
-| 7 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [jisoo debut stage](http://twitter.com/search?q=jisoo+debut+stage) | N/A |
-| 10 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
-| 11 | [Balikatan](http://twitter.com/search?q=Balikatan) | N/A |
+| 6 | [jisoo debut stage](http://twitter.com/search?q=jisoo+debut+stage) | N/A |
+| 7 | [#Welcome_Home_YoungK](http://twitter.com/search?q=%23Welcome_Home_YoungK) | N/A |
+| 8 | [#USTroopsOutNow](http://twitter.com/search?q=%23USTroopsOutNow) | N/A |
+| 9 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
+| 10 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
+| 11 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
 | 12 | [its tiktoclock time bini](http://twitter.com/search?q=its+tiktoclock+time+bini) | N/A |
-| 13 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 13 | [Balikatan](http://twitter.com/search?q=Balikatan) | N/A |
 | 14 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
 | 15 | [FRANSETH 1M PROMLOVE](http://twitter.com/search?q=FRANSETH+1M+PROMLOVE) | N/A |
 | 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 17 | [Trish](http://twitter.com/search?q=Trish) | N/A |
 | 18 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
 | 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 20 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 21 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 22 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 23 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
-| 24 | [STAND UP](http://twitter.com/search?q=STAND+UP) | N/A |
-| 25 | [sakura moments withkdlex](http://twitter.com/search?q=sakura+moments+withkdlex) | N/A |
-| 26 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 27 | [angela sofa wishbus](http://twitter.com/search?q=angela+sofa+wishbus) | N/A |
-| 28 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
-| 29 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
-| 30 | [maligayang pagdating giselle](http://twitter.com/search?q=maligayang+pagdating+giselle) | N/A |
-| 31 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
-| 32 | [BOARD THE WISHBUS with JC](http://twitter.com/search?q=BOARD+THE+WISHBUS+with+JC) | N/A |
-| 33 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 34 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 35 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
-| 36 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 37 | [aces stronger 2gether](http://twitter.com/search?q=aces+stronger+2gether) | N/A |
-| 38 | [LEGENDARY LIKE BANG CHAN](http://twitter.com/search?q=LEGENDARY+LIKE+BANG+CHAN) | N/A |
-| 39 | [votefilay asiasiconicloveteam](http://twitter.com/search?q=votefilay+asiasiconicloveteam) | N/A |
-| 40 | [ochothebullet on wishbus](http://twitter.com/search?q=ochothebullet+on+wishbus) | N/A |
-| 41 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 42 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 43 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 44 | [mokang](http://twitter.com/search?q=mokang) | N/A |
-| 45 | [Jk x Jb](http://twitter.com/search?q=Jk+x+Jb) | N/A |
-| 46 | [marie claire](http://twitter.com/search?q=marie+claire) | Marie Claire is a French-language women's magazine that was first published in 1937. It is now published in over 30 countries and focuses on fashion, beauty, health, and lifestyle topics. The name Marie Claire translates to "Mary of the Clarity" in English. |
-| 47 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 48 | [Palette](http://twitter.com/search?q=Palette) | N/A |
-| 49 | [MEGAMALL](http://twitter.com/search?q=MEGAMALL) | N/A |
-| 50 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 20 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
+| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 22 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
+| 23 | [STAND UP](http://twitter.com/search?q=STAND+UP) | N/A |
+| 24 | [sakura moments withkdlex](http://twitter.com/search?q=sakura+moments+withkdlex) | N/A |
+| 25 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
+| 26 | [ANGELA SOFA WISHBUS](http://twitter.com/search?q=ANGELA+SOFA+WISHBUS) | N/A |
+| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 28 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
+| 29 | [maligayang pagdating giselle](http://twitter.com/search?q=maligayang+pagdating+giselle) | N/A |
+| 30 | [CELINE BOY V](http://twitter.com/search?q=CELINE+BOY+V) | N/A |
+| 31 | [BOARD THE WISHBUS with JC](http://twitter.com/search?q=BOARD+THE+WISHBUS+with+JC) | N/A |
+| 32 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 33 | [LEGENDARY LIKE BANG CHAN](http://twitter.com/search?q=LEGENDARY+LIKE+BANG+CHAN) | N/A |
+| 34 | [RRADISH FOR PPOP](http://twitter.com/search?q=RRADISH+FOR+PPOP) | N/A |
+| 35 | [aces stronger 2gether](http://twitter.com/search?q=aces+stronger+2gether) | N/A |
+| 36 | [votefilay asiasiconicloveteam](http://twitter.com/search?q=votefilay+asiasiconicloveteam) | N/A |
+| 37 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 38 | [ochothebullet on wishbus](http://twitter.com/search?q=ochothebullet+on+wishbus) | N/A |
+| 39 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
+| 40 | [Jk x Jb](http://twitter.com/search?q=Jk+x+Jb) | N/A |
+| 41 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 42 | [marie claire](http://twitter.com/search?q=marie+claire) | Marie Claire is a French-language women's magazine that was first published in 1937. It is now published in over 30 countries and focuses on fashion, beauty, health, and lifestyle topics. The name Marie Claire translates to "Mary of the Clarity" in English. |
+| 43 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [Palette](http://twitter.com/search?q=Palette) | N/A |
+| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 47 | [megamall](http://twitter.com/search?q=megamall) | N/A |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [Carson](http://twitter.com/search?q=Carson) | N/A |
+| 50 | [LaysMax x Bright](http://twitter.com/search?q=LaysMax+x+Bright) | N/A |
 
 
 

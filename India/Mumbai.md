@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mumbai
 
-📆 Last Updated: `2023-04-11 01:44:46 UTC`
+📆 Last Updated: `2023-04-11 02:31:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#RCBvsLSG](http://twitter.com/search?q=%23RCBvsLSG) | N/A |
 | 2 | [#NationalSafeMotherhoodDay](http://twitter.com/search?q=%23NationalSafeMotherhoodDay) | N/A |
-| 3 | [#KisiKaBhaiKisiKiJaanTrailer](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaanTrailer) | N/A |
+| 3 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
 | 4 | [सामाजिक क्रांति](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf) | N/A |
-| 5 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 6 | [Respect Motherhood](http://twitter.com/search?q=Respect+Motherhood) | N/A |
+| 5 | [#JyotibaPhuleJayanti](http://twitter.com/search?q=%23JyotibaPhuleJayanti) | N/A |
+| 6 | [#KisiKaBhaiKisiKiJaanTrailer](http://twitter.com/search?q=%23KisiKaBhaiKisiKiJaanTrailer) | N/A |
 | 7 | [#GodMorningTuesday](http://twitter.com/search?q=%23GodMorningTuesday) | N/A |
-| 8 | [#RinkuSingh](http://twitter.com/search?q=%23RinkuSingh) | N/A |
-| 9 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 10 | [Amul](http://twitter.com/search?q=Amul) | N/A |
-| 11 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
-| 12 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 13 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 14 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
-| 15 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 16 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
-| 17 | [yuva matha](http://twitter.com/search?q=yuva+matha) | N/A |
-| 18 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
-| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 20 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
-| 21 | [समाज सेवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
-| 22 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 23 | [महान भारतीय](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af) | N/A |
-| 24 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
-| 25 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 26 | [swadeshi app easemytrip](http://twitter.com/search?q=swadeshi+app+easemytrip) | N/A |
-| 27 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
-| 28 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 29 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 30 | [Mankad](http://twitter.com/search?q=Mankad) | Mankad is a term used in cricket to describe a controversial form of run out. It occurs when the bowler, after entering his delivery stride, stops and breaks the wicket with the batsman out of his crease. The term is named after Vinoo Mankad, an Indian cricketer who was known for this tactic. |
-| 31 | [Avesh Khan](http://twitter.com/search?q=Avesh+Khan) | N/A |
-| 32 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
-| 33 | [SHEHNAAZ IN KBKJ TRAILER](http://twitter.com/search?q=SHEHNAAZ+IN+KBKJ+TRAILER) | N/A |
-| 34 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 35 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 36 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 37 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
-| 38 | [पार्टी विरोधी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
-| 39 | [Turning Point](http://twitter.com/search?q=Turning+Point) | N/A |
-| 40 | [मोरारजी देसाई](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%b0%e0%a4%be%e0%a4%b0%e0%a4%9c%e0%a5%80+%e0%a4%a6%e0%a5%87%e0%a4%b8%e0%a4%be%e0%a4%88) | N/A |
-| 41 | [jeevan badal gaya](http://twitter.com/search?q=jeevan+badal+gaya) | N/A |
-| 42 | [Vintage RCB](http://twitter.com/search?q=Vintage+RCB) | N/A |
-| 43 | [फुले जयंती](http://twitter.com/search?q=%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 44 | [Mark Wood](http://twitter.com/search?q=Mark+Wood) | N/A |
-| 45 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 46 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 47 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 48 | [शहीद स्मारक जयपुर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%95+%e0%a4%9c%e0%a4%af%e0%a4%aa%e0%a5%81%e0%a4%b0) | N/A |
-| 49 | [Aam Aadmi Party](http://twitter.com/search?q=Aam+Aadmi+Party) | N/A |
-| 50 | [Gambhir](http://twitter.com/search?q=Gambhir) | N/A |
+| 8 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 9 | [नारी शिक्षा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 10 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 11 | [Amul](http://twitter.com/search?q=Amul) | N/A |
+| 12 | [Continuous Betrayal InSSRCase](http://twitter.com/search?q=Continuous+Betrayal+InSSRCase) | N/A |
+| 13 | [महिला शिक्षा](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be) | N/A |
+| 14 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 15 | [समाज सेवी](http://twitter.com/search?q=%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c+%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a5%80) | N/A |
+| 16 | [Harshal Patel](http://twitter.com/search?q=Harshal+Patel) | Harshal Patel is an Indian surname. It is derived from the Sanskrit words "harsha" meaning joy and "pati" meaning lord or master. The literal translation of the name is "lord of joy". |
+| 17 | [Chinnaswamy](http://twitter.com/search?q=Chinnaswamy) | N/A |
+| 18 | [yuva matha](http://twitter.com/search?q=yuva+matha) | N/A |
+| 19 | [रिंकू सिंह](http://twitter.com/search?q=%e0%a4%b0%e0%a4%bf%e0%a4%82%e0%a4%95%e0%a5%82+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 20 | [महान भारतीय](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af) | N/A |
+| 21 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 22 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 23 | [Stoinis](http://twitter.com/search?q=Stoinis) | N/A |
+| 24 | [राम लखन सीता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b2%e0%a4%96%e0%a4%a8+%e0%a4%b8%e0%a5%80%e0%a4%a4%e0%a4%be) | N/A |
+| 25 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 26 | [गुरु तेग बहादुर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81+%e0%a4%a4%e0%a5%87%e0%a4%97+%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0) | N/A |
+| 27 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 28 | [पार्टी विरोधी](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80+%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80) | N/A |
+| 29 | [पावन प्रेरणा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%be%e0%a4%b5%e0%a4%a8+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 30 | [Pooran](http://twitter.com/search?q=Pooran) | Pooran is a Hindu name derived from the Sanskrit word "purana," which means "old." It is often used as a given name for boys and girls in India. In English, it can be translated to mean "old one" or "ancient one." |
+| 31 | [swadeshi app easemytrip](http://twitter.com/search?q=swadeshi+app+easemytrip) | N/A |
+| 32 | [सामाजिक परिवर्तन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a4%a8) | N/A |
+| 33 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 34 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 35 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 36 | [श्री बालाजी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
+| 37 | [Avesh Khan](http://twitter.com/search?q=Avesh+Khan) | N/A |
+| 38 | [Mankad](http://twitter.com/search?q=Mankad) | Mankad is a term used in cricket to describe a controversial form of run out. It occurs when the bowler, after entering his delivery stride, stops and breaks the wicket with the batsman out of his crease. The term is named after Vinoo Mankad, an Indian cricketer who was known for this tactic. |
+| 39 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 40 | [Bishnoi](http://twitter.com/search?q=Bishnoi) | N/A |
+| 41 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 42 | [SHEHNAAZ IN KBKJ TRAILER](http://twitter.com/search?q=SHEHNAAZ+IN+KBKJ+TRAILER) | N/A |
+| 43 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 44 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
+| 45 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 46 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 47 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
+| 48 | [Happy Morning](http://twitter.com/search?q=Happy+Morning) | N/A |
+| 49 | [महात्मा फुले](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%ab%e0%a5%81%e0%a4%b2%e0%a5%87) | N/A |
+| 50 | [Turning Point](http://twitter.com/search?q=Turning+Point) | N/A |
 
 
 

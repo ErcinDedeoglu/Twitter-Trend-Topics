@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-11 01:45:01 UTC`
+📆 Last Updated: `2023-04-11 02:31:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,8 +38,8 @@ This is top 50 for Denmark
 | 21 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
 | 22 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 23 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 24 | [jens](http://twitter.com/search?q=jens) | N/A |
-| 25 | [FC Nordsjælland](http://twitter.com/search?q=FC+Nordsj%c3%a6lland) | N/A |
+| 24 | [Jens](http://twitter.com/search?q=Jens) | N/A |
+| 25 | [fc nordsjælland](http://twitter.com/search?q=fc+nordsj%c3%a6lland) | N/A |
 | 26 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 | 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 28 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Denmark
 | 32 | [horsens](http://twitter.com/search?q=horsens) | N/A |
 | 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 34 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
-| 35 | [su'en](http://twitter.com/search?q=su%27en) | N/A |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 38 | [bestemt](http://twitter.com/search?q=bestemt) | N/A |
-| 39 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 40 | [torben](http://twitter.com/search?q=torben) | N/A |
-| 41 | [fedt](http://twitter.com/search?q=fedt) | N/A |
-| 42 | [Korrekt](http://twitter.com/search?q=Korrekt) | N/A |
-| 43 | [København](http://twitter.com/search?q=K%c3%b8benhavn) | N/A |
-| 44 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 45 | [mener](http://twitter.com/search?q=mener) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 48 | [Rolf](http://twitter.com/search?q=Rolf) | N/A |
-| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 50 | [lars løkke](http://twitter.com/search?q=lars+l%c3%b8kke) | N/A |
+| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 36 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 37 | [bestemt](http://twitter.com/search?q=bestemt) | N/A |
+| 38 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 39 | [torben](http://twitter.com/search?q=torben) | N/A |
+| 40 | [fedt](http://twitter.com/search?q=fedt) | N/A |
+| 41 | [Korrekt](http://twitter.com/search?q=Korrekt) | N/A |
+| 42 | [københavn](http://twitter.com/search?q=k%c3%b8benhavn) | N/A |
+| 43 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 44 | [mener](http://twitter.com/search?q=mener) | N/A |
+| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 46 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 47 | [Rolf](http://twitter.com/search?q=Rolf) | N/A |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [lars løkke](http://twitter.com/search?q=lars+l%c3%b8kke) | N/A |
+| 50 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
 
 
 

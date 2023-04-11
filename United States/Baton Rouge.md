@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-04-11 01:44:50 UTC`
+📆 Last Updated: `2023-04-11 02:31:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 2 | [Trish](http://twitter.com/search?q=Trish) | N/A |
 | 3 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 4 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 5 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 6 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 7 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 8 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 9 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 10 | [#911onFOX](http://twitter.com/search?q=%23911onFOX) | N/A |
-| 11 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 12 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 13 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 14 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
-| 15 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
-| 16 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 17 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 18 | [Holly](http://twitter.com/search?q=Holly) | N/A |
-| 19 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 20 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 21 | [Brandon Lowe](http://twitter.com/search?q=Brandon+Lowe) | N/A |
-| 22 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 23 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 24 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 25 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 26 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 27 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 28 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
-| 29 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 30 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
-| 31 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
-| 32 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
-| 33 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
-| 34 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 35 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
-| 36 | [Alcantara](http://twitter.com/search?q=Alcantara) | N/A |
-| 37 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
-| 38 | [Erik Karlsson](http://twitter.com/search?q=Erik+Karlsson) | N/A |
-| 39 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 40 | [Bryce Elder](http://twitter.com/search?q=Bryce+Elder) | N/A |
-| 41 | [Devers](http://twitter.com/search?q=Devers) | Devers is a surname of French origin. It is derived from the Old French word devers, meaning "towards" or "in the direction of". |
-| 42 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 43 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 44 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 45 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
-| 46 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
-| 47 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
-| 48 | [Stephanie Soares](http://twitter.com/search?q=Stephanie+Soares) | N/A |
+| 4 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
+| 5 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
+| 6 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 7 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 8 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 9 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 10 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 11 | [Devon Levi](http://twitter.com/search?q=Devon+Levi) | N/A |
+| 12 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 13 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 14 | [Wrestlemania Backlash](http://twitter.com/search?q=Wrestlemania+Backlash) | N/A |
+| 15 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 16 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 17 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 18 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 19 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 20 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 21 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 22 | [Kliff Kingsbury](http://twitter.com/search?q=Kliff+Kingsbury) | Kliff Kingsbury is an American football coach and former player. He is currently the head coach of the Arizona Cardinals of the National Football League (NFL). He previously served as the head coach at Texas Tech University from 2013 to 2018. |
+| 23 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 24 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 25 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
+| 26 | [Alpha Academy](http://twitter.com/search?q=Alpha+Academy) | N/A |
+| 27 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
+| 28 | [Minter](http://twitter.com/search?q=Minter) | N/A |
+| 29 | [Nico Hoerner](http://twitter.com/search?q=Nico+Hoerner) | N/A |
+| 30 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 31 | [CUBS WIN](http://twitter.com/search?q=CUBS+WIN) | N/A |
+| 32 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 33 | [Derek Law](http://twitter.com/search?q=Derek+Law) | N/A |
+| 34 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 35 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 36 | [BRAVES WIN](http://twitter.com/search?q=BRAVES+WIN) | N/A |
+| 37 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 38 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 39 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 40 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
+| 41 | [Panarin](http://twitter.com/search?q=Panarin) | N/A |
+| 42 | [EL BOMBI](http://twitter.com/search?q=EL+BOMBI) | N/A |
+| 43 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 44 | [X Corp](http://twitter.com/search?q=X+Corp) | N/A |
+| 45 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 46 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
+| 47 | [Brandon Lowe](http://twitter.com/search?q=Brandon+Lowe) | N/A |
+| 48 | [Kakko](http://twitter.com/search?q=Kakko) | N/A |
 
 
 

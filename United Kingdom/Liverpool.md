@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Liverpool
 
-📆 Last Updated: `2023-04-11 01:44:06 UTC`
+📆 Last Updated: `2023-04-11 02:30:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,22 +15,22 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 2 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 3 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 4 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 5 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
-| 6 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 7 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 1 | [#twitterclarets](http://twitter.com/search?q=%23twitterclarets) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 4 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 5 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 6 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 7 | [Trish](http://twitter.com/search?q=Trish) | N/A |
 | 8 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
-| 9 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 10 | [#WRXNCO](http://twitter.com/search?q=%23WRXNCO) | N/A |
-| 11 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 12 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 13 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 9 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 11 | [#wrxnco](http://twitter.com/search?q=%23wrxnco) | N/A |
+| 12 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 13 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
 | 14 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 15 | [#Masterchef](http://twitter.com/search?q=%23Masterchef) | N/A |
-| 16 | [#WXMNOT](http://twitter.com/search?q=%23WXMNOT) | N/A |
+| 15 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
+| 16 | [Lita](http://twitter.com/search?q=Lita) | N/A |
 | 17 | [Bank Holiday Monday](http://twitter.com/search?q=Bank+Holiday+Monday) | N/A |
 | 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
 | 19 | [Becky](http://twitter.com/search?q=Becky) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 21 | [Lino](http://twitter.com/search?q=Lino) | N/A |
 | 22 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
 | 23 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 24 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
-| 25 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
+| 24 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
+| 25 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
 | 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 27 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
-| 28 | [National League](http://twitter.com/search?q=National+League) | N/A |
-| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 30 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 28 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 29 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 32 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
 | 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 34 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 35 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 36 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 37 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 34 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 35 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 36 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 37 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
 | 38 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
 | 39 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 40 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
-| 41 | [Stam](http://twitter.com/search?q=Stam) | N/A |
-| 42 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 43 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 40 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 41 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 42 | [Stam](http://twitter.com/search?q=Stam) | N/A |
+| 43 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
 | 44 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
 | 45 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
-| 46 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 46 | [monkfish](http://twitter.com/search?q=monkfish) | N/A |
 | 47 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
-| 48 | [Olay](http://twitter.com/search?q=Olay) | N/A |
-| 49 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 50 | [Ferdinand](http://twitter.com/search?q=Ferdinand) | N/A |
+| 48 | [Backlash](http://twitter.com/search?q=Backlash) | N/A |
+| 49 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 50 | [Olay](http://twitter.com/search?q=Olay) | N/A |
 
 
 

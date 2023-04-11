@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-11 01:44:17 UTC`
+📆 Last Updated: `2023-04-11 02:30:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
+| 1 | [ostermontag](http://twitter.com/search?q=ostermontag) | N/A |
 | 2 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 3 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 3 | [böhmermann](http://twitter.com/search?q=b%c3%b6hmermann) | N/A |
 | 4 | [#Tatort](http://twitter.com/search?q=%23Tatort) | N/A |
 | 5 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
 | 6 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
 | 7 | [#traumschiff](http://twitter.com/search?q=%23traumschiff) | N/A |
 | 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 9 | [Runde](http://twitter.com/search?q=Runde) | N/A |
-| 10 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
-| 11 | [Redaktion](http://twitter.com/search?q=Redaktion) | N/A |
+| 10 | [redaktion](http://twitter.com/search?q=redaktion) | N/A |
+| 11 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
 | 12 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
 | 13 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | N/A |
 | 14 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for [Austria](</Austria>)
 | 20 | [Scholz](http://twitter.com/search?q=Scholz) | N/A |
 | 21 | [Coco](http://twitter.com/search?q=Coco) | N/A |
 | 22 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
-| 23 | [Stockinger](http://twitter.com/search?q=Stockinger) | N/A |
+| 23 | [stockinger](http://twitter.com/search?q=stockinger) | N/A |
 | 24 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 25 | [Christus](http://twitter.com/search?q=Christus) | N/A |
 | 26 | [Hase](http://twitter.com/search?q=Hase) | N/A |
 | 27 | [guten morgen peter](http://twitter.com/search?q=guten+morgen+peter) | N/A |
 | 28 | [Deppen](http://twitter.com/search?q=Deppen) | N/A |
-| 29 | [Ebenfalls](http://twitter.com/search?q=Ebenfalls) | N/A |
+| 29 | [ebenfalls](http://twitter.com/search?q=ebenfalls) | N/A |
 | 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 31 | [Richtungen](http://twitter.com/search?q=Richtungen) | N/A |
-| 32 | [Schafe](http://twitter.com/search?q=Schafe) | N/A |
+| 32 | [schafe](http://twitter.com/search?q=schafe) | N/A |
 | 33 | [netzwerk](http://twitter.com/search?q=netzwerk) | N/A |
 | 34 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 | 35 | [osterfest](http://twitter.com/search?q=osterfest) | N/A |
-| 36 | [Feind](http://twitter.com/search?q=Feind) | N/A |
-| 37 | [Komisch](http://twitter.com/search?q=Komisch) | N/A |
-| 38 | [Integration](http://twitter.com/search?q=Integration) | N/A |
-| 39 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
-| 40 | [Finger](http://twitter.com/search?q=Finger) | N/A |
-| 41 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 42 | [#IranRevolution](http://twitter.com/search?q=%23IranRevolution) | N/A |
-| 43 | [Schuhe](http://twitter.com/search?q=Schuhe) | N/A |
-| 44 | [Planeten](http://twitter.com/search?q=Planeten) | N/A |
-| 45 | [Stärke](http://twitter.com/search?q=St%c3%a4rke) | N/A |
-| 46 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
-| 47 | [exxpress](http://twitter.com/search?q=exxpress) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [Böse](http://twitter.com/search?q=B%c3%b6se) | N/A |
-| 50 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [Feind](http://twitter.com/search?q=Feind) | N/A |
+| 38 | [Komisch](http://twitter.com/search?q=Komisch) | N/A |
+| 39 | [Integration](http://twitter.com/search?q=Integration) | N/A |
+| 40 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
+| 41 | [Finger](http://twitter.com/search?q=Finger) | N/A |
+| 42 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
+| 43 | [#IranRevolution](http://twitter.com/search?q=%23IranRevolution) | N/A |
+| 44 | [schuhe](http://twitter.com/search?q=schuhe) | N/A |
+| 45 | [Planeten](http://twitter.com/search?q=Planeten) | N/A |
+| 46 | [Stärke](http://twitter.com/search?q=St%c3%a4rke) | N/A |
+| 47 | [feiertag](http://twitter.com/search?q=feiertag) | N/A |
+| 48 | [exxpress](http://twitter.com/search?q=exxpress) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [Böse](http://twitter.com/search?q=B%c3%b6se) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-11 01:45:00 UTC`
+📆 Last Updated: `2023-04-11 02:31:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
-| 2 | [#VaiHelôPegaElesTudo](http://twitter.com/search?q=%23VaiHel%c3%b4PegaElesTudo) | N/A |
-| 3 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 4 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
-| 5 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 6 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
-| 7 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 8 | [#TerraEPaixão](http://twitter.com/search?q=%23TerraEPaix%c3%a3o) | N/A |
-| 9 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
-| 10 | [#7DiasDeLivramento](http://twitter.com/search?q=%237DiasDeLivramento) | N/A |
-| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 12 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
-| 13 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
-| 14 | [gabi brandt](http://twitter.com/search?q=gabi+brandt) | N/A |
-| 15 | [Jhony](http://twitter.com/search?q=Jhony) | N/A |
-| 16 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
-| 17 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
-| 18 | [MONTEZ](http://twitter.com/search?q=MONTEZ) | N/A |
-| 19 | [Heldes](http://twitter.com/search?q=Heldes) | N/A |
-| 20 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
-| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 22 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
-| 23 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 24 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
-| 25 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
-| 26 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 27 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
-| 28 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 29 | [Franca](http://twitter.com/search?q=Franca) | N/A |
-| 30 | [Melhoras Alex](http://twitter.com/search?q=Melhoras+Alex) | N/A |
-| 31 | [Filipe Toledo](http://twitter.com/search?q=Filipe+Toledo) | N/A |
-| 32 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 33 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 34 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 35 | [Beni](http://twitter.com/search?q=Beni) | N/A |
-| 36 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
-| 37 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
-| 38 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
-| 39 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 40 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 41 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 42 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 43 | [Alexandre Nero](http://twitter.com/search?q=Alexandre+Nero) | N/A |
-| 44 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 45 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
-| 46 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
-| 47 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
-| 48 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
-| 49 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
-| 50 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
+| 1 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 2 | [#jogodadiscordia](http://twitter.com/search?q=%23jogodadiscordia) | #JogodaDiscordia is a Brazilian game of chance and strategy. It is similar to the card game War, but with a few twists. Players take turns drawing cards from a deck and trying to make the best combination of cards. The goal is to be the first player to reach a certain number of points, which are determined by the value of the cards in each player's hand. The name "JogodaDiscordia" translates to "Game of Discord" in English, referring to the unpredictable nature of the game. |
+| 3 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 4 | [BRUNA INSUPORTÁVEL](http://twitter.com/search?q=BRUNA+INSUPORT%c3%81VEL) | N/A |
+| 5 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 6 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
+| 7 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 8 | [#bbb2023](http://twitter.com/search?q=%23bbb2023) | #bbb2023 is a hashtag used on social media platforms such as Twitter and Instagram. It is typically used to tag posts related to a specific event, topic, or person. In this case, it could be used to tag posts related to a particular event taking place in 2023. |
+| 9 | [#VaiHelôPegaElesTudo](http://twitter.com/search?q=%23VaiHel%c3%b4PegaElesTudo) | N/A |
+| 10 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 11 | [MAS CÊ TÁ BRAVA](http://twitter.com/search?q=MAS+C%c3%8a+T%c3%81+BRAVA) | N/A |
+| 12 | [Dr Fred](http://twitter.com/search?q=Dr+Fred) | Dr Fred is a nickname for Dr. Frederick Banting, a Canadian medical scientist who co-discovered insulin in 1921. He was awarded the Nobel Prize in Physiology or Medicine in 1923 for his work. The nickname "Dr Fred" is used to refer to him as a sign of respect and admiration for his groundbreaking work. |
+| 13 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 14 | [Esse Fred](http://twitter.com/search?q=Esse+Fred) | Esse Fred is a phrase used in Brazilian Portuguese to express surprise or disbelief. It roughly translates to "Oh my goodness!" or "Wow!" |
+| 15 | [OMISSA](http://twitter.com/search?q=OMISSA) | N/A |
+| 16 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 17 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 18 | [#TerraEPaixão](http://twitter.com/search?q=%23TerraEPaix%c3%a3o) | N/A |
+| 19 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 20 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 21 | [gabi brandt](http://twitter.com/search?q=gabi+brandt) | N/A |
+| 22 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
+| 23 | [Jhony](http://twitter.com/search?q=Jhony) | N/A |
+| 24 | [DOUTOR FRED](http://twitter.com/search?q=DOUTOR+FRED) | DOUTOR FRED is a Brazilian television series that aired from 1975 to 1976. It follows the adventures of a doctor, Dr. Fred, who travels around Brazil helping people in need. The show's title translates to "Doctor Fred" in English. |
+| 25 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 26 | [Heldes](http://twitter.com/search?q=Heldes) | N/A |
+| 27 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 28 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
+| 29 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 30 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 31 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
+| 32 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 33 | [MONTEZ](http://twitter.com/search?q=MONTEZ) | N/A |
+| 34 | [Bruna Gritão](http://twitter.com/search?q=Bruna+Grit%c3%a3o) | N/A |
+| 35 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 36 | [Sapatinho](http://twitter.com/search?q=Sapatinho) | N/A |
+| 37 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
+| 38 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
+| 39 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 40 | [Sesi Bauru](http://twitter.com/search?q=Sesi+Bauru) | N/A |
+| 41 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
+| 42 | [Essas 4](http://twitter.com/search?q=Essas+4) | N/A |
+| 43 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
+| 44 | [Beni](http://twitter.com/search?q=Beni) | N/A |
+| 45 | [Franca](http://twitter.com/search?q=Franca) | N/A |
+| 46 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
+| 47 | [Pague Menos](http://twitter.com/search?q=Pague+Menos) | N/A |
+| 48 | [Melhoras Alex](http://twitter.com/search?q=Melhoras+Alex) | N/A |
+| 49 | [Prior](http://twitter.com/search?q=Prior) | Prior is an adjective that means earlier in time, order, or importance. It can also be used as a noun to refer to someone who holds a higher rank or position. |
+| 50 | [Trish](http://twitter.com/search?q=Trish) | N/A |
 
 
 
