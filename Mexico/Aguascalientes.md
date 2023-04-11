@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Aguascalientes
 
-📆 Last Updated: `2023-04-11 20:18:03 UTC`
+📆 Last Updated: `2023-04-11 21:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 2 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 4 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
-| 5 | [Changoleón](http://twitter.com/search?q=Changole%c3%b3n) | N/A |
-| 6 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 7 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 8 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 9 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 10 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 12 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
-| 13 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
-| 14 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 15 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 16 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 18 | [Samuel González Quiroz](http://twitter.com/search?q=Samuel+Gonz%c3%a1lez+Quiroz) | N/A |
-| 19 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 21 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 22 | [Gera](http://twitter.com/search?q=Gera) | N/A |
-| 23 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 24 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 25 | [Joan Sebastian](http://twitter.com/search?q=Joan+Sebastian) | N/A |
-| 26 | [Yann Sommer](http://twitter.com/search?q=Yann+Sommer) | Yann Sommer is a Swiss professional footballer who plays as a goalkeeper for Borussia Mönchengladbach and the Switzerland national team. His name means "summer sun" in English. |
-| 27 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 7 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 8 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 9 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 11 | [Changoleón](http://twitter.com/search?q=Changole%c3%b3n) | N/A |
+| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 13 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 14 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 15 | [Yann Sommer](http://twitter.com/search?q=Yann+Sommer) | Yann Sommer is a Swiss professional footballer who plays as a goalkeeper for Borussia Mönchengladbach and the Switzerland national team. His name means "summer sun" in English. |
+| 16 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 17 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
+| 18 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
+| 19 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 20 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 21 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 22 | [Samuel González Quiroz](http://twitter.com/search?q=Samuel+Gonz%c3%a1lez+Quiroz) | N/A |
+| 23 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 24 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 25 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 26 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 27 | [Julián Álvarez](http://twitter.com/search?q=Juli%c3%a1n+%c3%81lvarez) | N/A |
 | 28 | [Solovino](http://twitter.com/search?q=Solovino) | N/A |
-| 29 | [Olivia Collins](http://twitter.com/search?q=Olivia+Collins) | N/A |
-| 30 | [Tercer Grado Deportivo](http://twitter.com/search?q=Tercer+Grado+Deportivo) | N/A |
-| 31 | [Manu Chao](http://twitter.com/search?q=Manu+Chao) | N/A |
-| 32 | [Emiliano Zapata](http://twitter.com/search?q=Emiliano+Zapata) | N/A |
-| 33 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 34 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 36 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 37 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 38 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 39 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 40 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 41 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 42 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 43 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 44 | [Interjet](http://twitter.com/search?q=Interjet) | N/A |
-| 45 | [Plaza Condesa](http://twitter.com/search?q=Plaza+Condesa) | N/A |
-| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 47 | [Sheinbaum](http://twitter.com/search?q=Sheinbaum) | Sheinbaum is a Jewish surname derived from the German word "Scheinbaum," which means "shining tree." The name is thought to have originated from a family of Jewish merchants who owned a shop in the city of Frankfurt, Germany. In English, Sheinbaum can be translated to mean "shining tree." |
-| 48 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 49 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 29 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 30 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 31 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 32 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 33 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 34 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 35 | [Olivia Collins](http://twitter.com/search?q=Olivia+Collins) | N/A |
+| 36 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 37 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 38 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 39 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 40 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 41 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 42 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
+| 43 | [Cofepris](http://twitter.com/search?q=Cofepris) | N/A |
+| 44 | [Mónica](http://twitter.com/search?q=M%c3%b3nica) | N/A |
+| 45 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
+| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 47 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 48 | [Tribunal](http://twitter.com/search?q=Tribunal) | N/A |
+| 49 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
 
 
 

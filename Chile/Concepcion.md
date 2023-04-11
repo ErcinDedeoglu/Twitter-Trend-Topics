@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-11 20:18:06 UTC`
+📆 Last Updated: `2023-04-11 21:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 2 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 3 | [#Sub17EnTVN](http://twitter.com/search?q=%23Sub17EnTVN) | N/A |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [#la210](http://twitter.com/search?q=%23la210) | N/A |
-| 6 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
-| 7 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 8 | [Ovimarlixion](http://twitter.com/search?q=Ovimarlixion) | N/A |
-| 9 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
-| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 13 | [Felipe Rojas](http://twitter.com/search?q=Felipe+Rojas) | N/A |
-| 14 | [Bansky](http://twitter.com/search?q=Bansky) | N/A |
-| 15 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 16 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 17 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 18 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
-| 19 | [Código del Trabajo](http://twitter.com/search?q=C%c3%b3digo+del+Trabajo) | N/A |
-| 20 | [Dauno](http://twitter.com/search?q=Dauno) | N/A |
-| 21 | [Pancho Orrego](http://twitter.com/search?q=Pancho+Orrego) | N/A |
-| 22 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 23 | [Chicureo](http://twitter.com/search?q=Chicureo) | N/A |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
-| 26 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 27 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 28 | [lucas soto](http://twitter.com/search?q=lucas+soto) | N/A |
-| 29 | [Gasco](http://twitter.com/search?q=Gasco) | N/A |
-| 30 | [En 5](http://twitter.com/search?q=En+5) | N/A |
-| 31 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 32 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 33 | [Naya](http://twitter.com/search?q=Naya) | N/A |
-| 34 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
-| 35 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
-| 36 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
-| 37 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 38 | [Amparo Noguera](http://twitter.com/search?q=Amparo+Noguera) | N/A |
-| 39 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 40 | [Deportes Rengo](http://twitter.com/search?q=Deportes+Rengo) | N/A |
-| 41 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
-| 42 | [Pobrecito](http://twitter.com/search?q=Pobrecito) | N/A |
-| 43 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
-| 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 45 | [Paz Suárez](http://twitter.com/search?q=Paz+Su%c3%a1rez) | N/A |
-| 46 | [Flojos](http://twitter.com/search?q=Flojos) | N/A |
-| 47 | [Curicó Unido](http://twitter.com/search?q=Curic%c3%b3+Unido) | N/A |
-| 48 | [Juvenal Olmos](http://twitter.com/search?q=Juvenal+Olmos) | N/A |
-| 49 | [Joven de 17](http://twitter.com/search?q=Joven+de+17) | N/A |
-| 50 | [Checho](http://twitter.com/search?q=Checho) | N/A |
+| 2 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [#Sub17EnTVN](http://twitter.com/search?q=%23Sub17EnTVN) | N/A |
+| 5 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 6 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
+| 7 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 9 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
+| 10 | [#La210](http://twitter.com/search?q=%23La210) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 13 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
+| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 16 | [Ovimarlixion](http://twitter.com/search?q=Ovimarlixion) | N/A |
+| 17 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 18 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 19 | [Felipe Rojas](http://twitter.com/search?q=Felipe+Rojas) | N/A |
+| 20 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 22 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 23 | [Bansky](http://twitter.com/search?q=Bansky) | N/A |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 26 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 27 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 28 | [Dauno](http://twitter.com/search?q=Dauno) | N/A |
+| 29 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
+| 30 | [Pancho Orrego](http://twitter.com/search?q=Pancho+Orrego) | N/A |
+| 31 | [Código del Trabajo](http://twitter.com/search?q=C%c3%b3digo+del+Trabajo) | N/A |
+| 32 | [Chicureo](http://twitter.com/search?q=Chicureo) | N/A |
+| 33 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 34 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 35 | [lucas soto](http://twitter.com/search?q=lucas+soto) | N/A |
+| 36 | [Caputto](http://twitter.com/search?q=Caputto) | N/A |
+| 37 | [Gasco](http://twitter.com/search?q=Gasco) | N/A |
+| 38 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 39 | [Naya](http://twitter.com/search?q=Naya) | N/A |
+| 40 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 41 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 42 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 43 | [Lampa](http://twitter.com/search?q=Lampa) | N/A |
+| 44 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
+| 45 | [Chimbarongo](http://twitter.com/search?q=Chimbarongo) | N/A |
+| 46 | [Amparo Noguera](http://twitter.com/search?q=Amparo+Noguera) | N/A |
+| 47 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
+| 48 | [Registro Civil](http://twitter.com/search?q=Registro+Civil) | N/A |
+| 49 | [Pobrecito](http://twitter.com/search?q=Pobrecito) | N/A |
+| 50 | [Joven de 17](http://twitter.com/search?q=Joven+de+17) | N/A |
 
 
 

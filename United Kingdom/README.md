@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-11 20:19:01 UTC`
+📆 Last Updated: `2023-04-11 21:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 2 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 6 | [#FSGOut](http://twitter.com/search?q=%23FSGOut) | N/A |
-| 7 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 8 | [Paul Joyce](http://twitter.com/search?q=Paul+Joyce) | N/A |
-| 9 | [#interiordesignmasters](http://twitter.com/search?q=%23interiordesignmasters) | N/A |
-| 10 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 11 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 13 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 14 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 15 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 16 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
-| 17 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 18 | [Yann Sommer](http://twitter.com/search?q=Yann+Sommer) | Yann Sommer is a Swiss professional footballer who plays as a goalkeeper for Borussia Mönchengladbach and the Switzerland national team. His name means "summer sun" in English. |
-| 19 | [Oh Canada](http://twitter.com/search?q=Oh+Canada) | N/A |
-| 20 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 3 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 4 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 5 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 7 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 8 | [John Stones](http://twitter.com/search?q=John+Stones) | John Stones is a professional English footballer who plays as a centre-back for Premier League club Manchester City and the England national team. He is known for his ability to read the game, passing accuracy, and composure on the ball. |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 11 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 12 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 13 | [#FSGOut](http://twitter.com/search?q=%23FSGOut) | N/A |
+| 14 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 15 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 16 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 17 | [#celebrityhunted](http://twitter.com/search?q=%23celebrityhunted) | N/A |
+| 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 19 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 20 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
 | 21 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 22 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 23 | [Alphonso Davies](http://twitter.com/search?q=Alphonso+Davies) | N/A |
-| 24 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 25 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
-| 26 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 27 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 28 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
-| 29 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 30 | [Conor Gallagher](http://twitter.com/search?q=Conor+Gallagher) | N/A |
-| 31 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 32 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 33 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 34 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
-| 35 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
-| 36 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 37 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 22 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 23 | [Gallagher](http://twitter.com/search?q=Gallagher) | Gallagher is a surname of Irish origin. It is an anglicised form of the Gaelic name Ó Gallchobhair, meaning "descendant of Gallchobhar". The name Gallagher is derived from the Irish word gallchóbhir, which means "foreign help". |
+| 24 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 25 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 26 | [Paul Joyce](http://twitter.com/search?q=Paul+Joyce) | N/A |
+| 27 | [Yann Sommer](http://twitter.com/search?q=Yann+Sommer) | Yann Sommer is a Swiss professional footballer who plays as a goalkeeper for Borussia Mönchengladbach and the Switzerland national team. His name means "summer sun" in English. |
+| 28 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 29 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 30 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 31 | [Alphonso Davies](http://twitter.com/search?q=Alphonso+Davies) | N/A |
+| 32 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 33 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
+| 34 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 35 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 36 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 38 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 39 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
-| 40 | [Daly](http://twitter.com/search?q=Daly) | N/A |
-| 41 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
-| 42 | [Monika](http://twitter.com/search?q=Monika) | N/A |
-| 43 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 44 | [John Stones](http://twitter.com/search?q=John+Stones) | John Stones is a professional English footballer who plays as a centre-back for Premier League club Manchester City and the England national team. He is known for his ability to read the game, passing accuracy, and composure on the ball. |
-| 45 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 46 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 47 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 48 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 49 | [Russo](http://twitter.com/search?q=Russo) | N/A |
-| 50 | [Knowles](http://twitter.com/search?q=Knowles) | N/A |
+| 39 | [Sarina](http://twitter.com/search?q=Sarina) | Sarina is a feminine given name of Italian origin. It is derived from the Latin name Sarah, which means "princess". |
+| 40 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 41 | [Tielemans](http://twitter.com/search?q=Tielemans) | N/A |
+| 42 | [Konate](http://twitter.com/search?q=Konate) | Konate is a surname of West African origin. It is derived from the Mandinka language and means "the one who has been chosen". |
+| 43 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 44 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 45 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 46 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 47 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 48 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 49 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 50 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
 
 
 

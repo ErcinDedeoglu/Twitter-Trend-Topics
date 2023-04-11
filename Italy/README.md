@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-11 20:18:56 UTC`
+📆 Last Updated: `2023-04-11 21:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
-| 2 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 3 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
-| 4 | [buona pasquetta](http://twitter.com/search?q=buona+pasquetta) | N/A |
-| 5 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
-| 6 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 7 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 8 | [#VicenzaJNextGen](http://twitter.com/search?q=%23VicenzaJNextGen) | N/A |
-| 9 | [#miliardariaspace](http://twitter.com/search?q=%23miliardariaspace) | N/A |
-| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 11 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
-| 12 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 13 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 14 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 15 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 16 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 17 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
-| 18 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 20 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
-| 21 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 22 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
-| 23 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 24 | [Cocco](http://twitter.com/search?q=Cocco) | N/A |
-| 25 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 26 | [Mkhitaryan](http://twitter.com/search?q=Mkhitaryan) | N/A |
-| 27 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 31 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 32 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 33 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
-| 34 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 35 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
-| 36 | [Mangiagalli](http://twitter.com/search?q=Mangiagalli) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 39 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 41 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
-| 42 | [Grazie Presidente](http://twitter.com/search?q=Grazie+Presidente) | N/A |
-| 43 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 44 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 45 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 46 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 47 | [Raspadori](http://twitter.com/search?q=Raspadori) | N/A |
-| 48 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 49 | [Mikado](http://twitter.com/search?q=Mikado) | N/A |
-| 50 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 2 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 3 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
+| 4 | [#dimartedì](http://twitter.com/search?q=%23dimarted%c3%ac) | N/A |
+| 5 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
+| 6 | [#PrimoAppuntamento](http://twitter.com/search?q=%23PrimoAppuntamento) | N/A |
+| 7 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 8 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 11 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 12 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 13 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 14 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 15 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 16 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 17 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 18 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 19 | [Da Luz](http://twitter.com/search?q=Da+Luz) | N/A |
+| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 21 | [Simone Inzaghi](http://twitter.com/search?q=Simone+Inzaghi) | N/A |
+| 22 | [Trevisani](http://twitter.com/search?q=Trevisani) | N/A |
+| 23 | [Lisbona](http://twitter.com/search?q=Lisbona) | N/A |
+| 24 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
+| 25 | [Angelica](http://twitter.com/search?q=Angelica) | N/A |
+| 26 | [Giusy](http://twitter.com/search?q=Giusy) | N/A |
+| 27 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 28 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 29 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 30 | [Limone](http://twitter.com/search?q=Limone) | N/A |
+| 31 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 32 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 33 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 34 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
+| 35 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 36 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 37 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 38 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
+| 39 | [#miliardariaspace](http://twitter.com/search?q=%23miliardariaspace) | N/A |
+| 40 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
+| 41 | [#VicenzaJNextGen](http://twitter.com/search?q=%23VicenzaJNextGen) | N/A |
+| 42 | [#cartabianca](http://twitter.com/search?q=%23cartabianca) | N/A |
+| 43 | [#ServeSempre](http://twitter.com/search?q=%23ServeSempre) | N/A |
+| 44 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
+| 45 | [#immatataranni2](http://twitter.com/search?q=%23immatataranni2) | N/A |
+| 46 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 47 | [#cineterzopolo](http://twitter.com/search?q=%23cineterzopolo) | N/A |
+| 48 | [#Haaland](http://twitter.com/search?q=%23Haaland) | N/A |
+| 49 | [#leiene](http://twitter.com/search?q=%23leiene) | N/A |
+| 50 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 
 
 

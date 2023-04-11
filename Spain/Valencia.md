@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-04-11 20:18:19 UTC`
+📆 Last Updated: `2023-04-11 21:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [#FirstDates11A](http://twitter.com/search?q=%23FirstDates11A) | N/A |
-| 4 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 5 | [#Solos11A](http://twitter.com/search?q=%23Solos11A) | N/A |
-| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 7 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 8 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 9 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 10 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 11 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 12 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 13 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 15 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 3 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 4 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 7 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 8 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 9 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 11 | [#FirstDates11A](http://twitter.com/search?q=%23FirstDates11A) | N/A |
+| 12 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 13 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 15 | [#Solos11A](http://twitter.com/search?q=%23Solos11A) | N/A |
 | 16 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 17 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 18 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
-| 19 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 20 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 21 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 22 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 23 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
-| 24 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 25 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
-| 26 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 27 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 28 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 29 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 30 | [Logroño](http://twitter.com/search?q=Logro%c3%b1o) | N/A |
-| 31 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 32 | [#DeCampingConLidl](http://twitter.com/search?q=%23DeCampingConLidl) | N/A |
-| 33 | [#ManCity](http://twitter.com/search?q=%23ManCity) | N/A |
-| 34 | [#SolosPortaYFrigenti](http://twitter.com/search?q=%23SolosPortaYFrigenti) | N/A |
-| 35 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
-| 36 | [#Adarafobia](http://twitter.com/search?q=%23Adarafobia) | N/A |
-| 37 | [#CrisPortaSolos](http://twitter.com/search?q=%23CrisPortaSolos) | N/A |
-| 38 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 39 | [#CrisPorta11A](http://twitter.com/search?q=%23CrisPorta11A) | N/A |
-| 40 | [#MMOPENELPARKING](http://twitter.com/search?q=%23MMOPENELPARKING) | N/A |
-| 41 | [#AdaraSv11A](http://twitter.com/search?q=%23AdaraSv11A) | N/A |
-| 42 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 43 | [#EstrategiasAdvanceWars](http://twitter.com/search?q=%23EstrategiasAdvanceWars) | N/A |
-| 44 | [#APOYOROCIO11A](http://twitter.com/search?q=%23APOYOROCIO11A) | N/A |
+| 17 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 18 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 19 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 20 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 21 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 23 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
+| 24 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 25 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
+| 26 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 27 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 28 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 29 | [Julián Álvarez](http://twitter.com/search?q=Juli%c3%a1n+%c3%81lvarez) | N/A |
+| 30 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 31 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 32 | [El Inter](http://twitter.com/search?q=El+Inter) | N/A |
+| 33 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 34 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 35 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 36 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 37 | [Rocío Monasterio](http://twitter.com/search?q=Roc%c3%ado+Monasterio) | N/A |
+| 38 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
+| 39 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 40 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 41 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
+| 42 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 43 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 44 | [American Psycho](http://twitter.com/search?q=American+Psycho) | N/A |
+| 45 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 46 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 47 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 48 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 49 | [Logroño](http://twitter.com/search?q=Logro%c3%b1o) | N/A |
 
 
 

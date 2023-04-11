@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-11 20:18:17 UTC`
+📆 Last Updated: `2023-04-11 21:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 2 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 3 | [#mitchelaandemaas](http://twitter.com/search?q=%23mitchelaandemaas) | N/A |
-| 4 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 5 | [#nietkleintekrijgen](http://twitter.com/search?q=%23nietkleintekrijgen) | N/A |
-| 6 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [#mitchelaandemaas](http://twitter.com/search?q=%23mitchelaandemaas) | N/A |
+| 7 | [#nietkleintekrijgen](http://twitter.com/search?q=%23nietkleintekrijgen) | N/A |
 | 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 9 | [#NEDPOL](http://twitter.com/search?q=%23NEDPOL) | N/A |
-| 10 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 11 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
-| 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 13 | [huub oosterhuis](http://twitter.com/search?q=huub+oosterhuis) | N/A |
-| 14 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
-| 15 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 16 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
-| 17 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 18 | [vragen](http://twitter.com/search?q=vragen) | N/A |
-| 19 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 20 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 21 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
-| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 23 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 24 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
-| 25 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
-| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 27 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
-| 28 | [2e paasdag](http://twitter.com/search?q=2e+paasdag) | N/A |
-| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 30 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
-| 31 | [Oud-landbouwminister Veerman](http://twitter.com/search?q=Oud-landbouwminister+Veerman) | N/A |
-| 32 | [Oud-minister van Landbouw](http://twitter.com/search?q=Oud-minister+van+Landbouw) | N/A |
-| 33 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 34 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
-| 35 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
-| 36 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
-| 37 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Joey](http://twitter.com/search?q=Joey) | N/A |
-| 40 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 41 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
-| 42 | [Wilma Haan](http://twitter.com/search?q=Wilma+Haan) | N/A |
-| 43 | [Sterkte Gerrit](http://twitter.com/search?q=Sterkte+Gerrit) | N/A |
-| 44 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 45 | [ciska](http://twitter.com/search?q=ciska) | N/A |
-| 46 | [Diabetes](http://twitter.com/search?q=Diabetes) | N/A |
-| 47 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 48 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
-| 49 | [Hoog](http://twitter.com/search?q=Hoog) | N/A |
-| 50 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 9 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 10 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
+| 11 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 12 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 13 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 18 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 19 | [De Ligt](http://twitter.com/search?q=De+Ligt) | N/A |
+| 20 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 21 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
+| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 23 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
+| 24 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 25 | [vragen](http://twitter.com/search?q=vragen) | N/A |
+| 26 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
+| 27 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 28 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 29 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 30 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
+| 31 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
+| 32 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 33 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 34 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
+| 35 | [2e paasdag](http://twitter.com/search?q=2e+paasdag) | N/A |
+| 36 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 37 | [Op de Poeh-pathologietest](http://twitter.com/search?q=Op+de+Poeh-pathologietest) | N/A |
+| 38 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 39 | [Van der Sar](http://twitter.com/search?q=Van+der+Sar) | N/A |
+| 40 | [Oud-landbouwminister Veerman](http://twitter.com/search?q=Oud-landbouwminister+Veerman) | N/A |
+| 41 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 42 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
+| 43 | [Oud-minister van Landbouw](http://twitter.com/search?q=Oud-minister+van+Landbouw) | N/A |
+| 44 | [Schimmelpenninck](http://twitter.com/search?q=Schimmelpenninck) | N/A |
+| 45 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 47 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
+| 48 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
+| 49 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 50 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
 
 
 

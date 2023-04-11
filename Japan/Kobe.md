@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-04-11 20:18:24 UTC`
+📆 Last Updated: `2023-04-11 21:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Japan](</Japan>)
 | 2 | [ティアラメンツ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%84) | ティアラメンツ is a Japanese card game similar to the Western game of Go Fish. The name translates to "Tiara Matching" and the goal of the game is to collect sets of cards featuring princesses wearing tiaras. Players take turns asking each other for cards they need to complete their sets, and the first player to collect all four sets wins. |
 | 3 | [#このドキドキ楽しんだもんがち](http://twitter.com/search?q=%23%e3%81%93%e3%81%ae%e3%83%89%e3%82%ad%e3%83%89%e3%82%ad%e6%a5%bd%e3%81%97%e3%82%93%e3%81%a0%e3%82%82%e3%82%93%e3%81%8c%e3%81%a1) | N/A |
 | 4 | [#キャラ大](http://twitter.com/search?q=%23%e3%82%ad%e3%83%a3%e3%83%a9%e5%a4%a7) | N/A |
-| 5 | [アカンジ](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%b3%e3%82%b8) | N/A |
-| 6 | [#HBD藤くん](http://twitter.com/search?q=%23HBD%e8%97%a4%e3%81%8f%e3%82%93) | N/A |
-| 7 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
-| 8 | [ムシアラ](http://twitter.com/search?q=%e3%83%a0%e3%82%b7%e3%82%a2%e3%83%a9) | N/A |
-| 9 | [バレッラ](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%83%e3%83%a9) | N/A |
-| 10 | [エデルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%87%e3%83%ab%e3%82%bd%e3%83%b3) | N/A |
+| 5 | [バイエルン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a8%e3%83%ab%e3%83%b3) | バイエルン is the German state of Bavaria. In English, it is translated as Bavaria. It is located in the southeast of Germany and is the largest state in the country. |
+| 6 | [ハーランド](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%a9%e3%83%b3%e3%83%89) | ハーランド (Hārando) is a Japanese word that means "harbor". It is used to refer to a place where ships can dock and unload cargo. |
+| 7 | [ウパメカノ](http://twitter.com/search?q=%e3%82%a6%e3%83%91%e3%83%a1%e3%82%ab%e3%83%8e) | N/A |
+| 8 | [ベルナルド](http://twitter.com/search?q=%e3%83%99%e3%83%ab%e3%83%8a%e3%83%ab%e3%83%89) | N/A |
+| 9 | [カンセロ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%bb%e3%83%ad) | カンセロ is a type of traditional Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. The lyrics often focus on everyday life and work, as well as love and relationships. In English, it can be translated as "folk song". |
+| 10 | [アルバレス](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ac%e3%82%b9) | N/A |
 | 11 | [ミュラー](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%a9%e3%83%bc) | N/A |
-| 12 | [ニャブリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%96%e3%83%aa) | N/A |
-| 13 | [#メンテの日なのでssを貼る](http://twitter.com/search?q=%23%e3%83%a1%e3%83%b3%e3%83%86%e3%81%ae%e6%97%a5%e3%81%aa%e3%81%ae%e3%81%a7ss%e3%82%92%e8%b2%bc%e3%82%8b) | "#メンテの日なのでssを貼る" is a hashtag used on social media in Japan. It translates to "It's maintenance day, so let's post screenshots". It is used to encourage people to post screenshots of their work or activities on maintenance days. |
-| 14 | [ロドリ砲](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%83%aa%e7%a0%b2) | N/A |
-| 15 | [ばらかもんドラマ化](http://twitter.com/search?q=%e3%81%b0%e3%82%89%e3%81%8b%e3%82%82%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e%e5%8c%96) | N/A |
-| 16 | [デリフト](http://twitter.com/search?q=%e3%83%87%e3%83%aa%e3%83%95%e3%83%88) | N/A |
-| 17 | [ベルナルド](http://twitter.com/search?q=%e3%83%99%e3%83%ab%e3%83%8a%e3%83%ab%e3%83%89) | N/A |
-| 18 | [精神攻撃](http://twitter.com/search?q=%e7%b2%be%e7%a5%9e%e6%94%bb%e6%92%83) | N/A |
-| 19 | [シティ先制](http://twitter.com/search?q=%e3%82%b7%e3%83%86%e3%82%a3%e5%85%88%e5%88%b6) | N/A |
-| 20 | [カンセロ](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%bb%e3%83%ad) | カンセロ is a type of traditional Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. The lyrics often focus on everyday life and work, as well as love and relationships. In English, it can be translated as "folk song". |
-| 21 | [落下の悪魔](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
-| 22 | [第446回](http://twitter.com/search?q=%e7%ac%ac446%e5%9b%9e) | N/A |
-| 23 | [ウパメカノ](http://twitter.com/search?q=%e3%82%a6%e3%83%91%e3%83%a1%e3%82%ab%e3%83%8e) | N/A |
-| 24 | [藤原啓治さん](http://twitter.com/search?q=%e8%97%a4%e5%8e%9f%e5%95%93%e6%b2%bb%e3%81%95%e3%82%93) | N/A |
-| 25 | [月のワルツ](http://twitter.com/search?q=%e6%9c%88%e3%81%ae%e3%83%af%e3%83%ab%e3%83%84) | N/A |
-| 26 | [デンジくん](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%82%b8%e3%81%8f%e3%82%93) | デンジくん is a character from the Japanese manga series, Dengeki Oshioki Musume Gōtaman. The character's name is Denji, and he is a robot created by the protagonist of the series, Gōtaman. In English, his name would be translated as "Denji the Robot". |
-| 27 | [フレンチドッグ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%83%89%e3%83%83%e3%82%b0) | N/A |
-| 28 | [生首ヘアゴム](http://twitter.com/search?q=%e7%94%9f%e9%a6%96%e3%83%98%e3%82%a2%e3%82%b4%e3%83%a0) | N/A |
-| 29 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 30 | [藤くん誕生日](http://twitter.com/search?q=%e8%97%a4%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 31 | [ヨンジュン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | ヨンジュン is a Korean given name, which is usually written in hanja as 永俊. It is composed of two characters, 永 (yeong) meaning "eternal" and 俊 (jun) meaning "talented". In English, it can be translated to mean "eternally talented". |
-| 32 | [マーベルズ](http://twitter.com/search?q=%e3%83%9e%e3%83%bc%e3%83%99%e3%83%ab%e3%82%ba) | N/A |
+| 12 | [デブライネ](http://twitter.com/search?q=%e3%83%87%e3%83%96%e3%83%a9%e3%82%a4%e3%83%8d) | デブライネ is a type of Japanese folk song. It is usually sung in a slow, gentle tempo and often accompanied by shamisen or other traditional instruments. The lyrics typically tell stories of love, loss, and longing. In English, the term translates to "lonely night". |
+| 13 | [エデルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%87%e3%83%ab%e3%82%bd%e3%83%b3) | N/A |
+| 14 | [インテル](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%86%e3%83%ab) | N/A |
+| 15 | [ニャブリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%96%e3%83%aa) | N/A |
+| 16 | [アカンジ](http://twitter.com/search?q=%e3%82%a2%e3%82%ab%e3%83%b3%e3%82%b8) | N/A |
+| 17 | [トゥヘル](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%98%e3%83%ab) | N/A |
+| 18 | [ムシアラ](http://twitter.com/search?q=%e3%83%a0%e3%82%b7%e3%82%a2%e3%83%a9) | N/A |
+| 19 | [ストーンズ](http://twitter.com/search?q=%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3%e3%82%ba) | ストーンズ (Stones) is the name of a popular English rock band formed in London in 1962. The band is composed of Mick Jagger, Keith Richards, Charlie Watts, and Ronnie Wood. The Stones are one of the most successful and influential rock bands of all time, having sold over 200 million records worldwide. In English, the phrase "Stones" can refer to the band or to their music. |
+| 20 | [ナーゲルスマン](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%82%b2%e3%83%ab%e3%82%b9%e3%83%9e%e3%83%b3) | N/A |
+| 21 | [#おは戦50412as](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650412as) | N/A |
+| 22 | [グリーリッシュ](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%aa%e3%83%83%e3%82%b7%e3%83%a5) | グリーリッシュ (Guriirisshu) is a Japanese word that means "gleeful" or "joyful". It is often used to describe someone who is feeling happy and excited. |
+| 23 | [バレッラ](http://twitter.com/search?q=%e3%83%90%e3%83%ac%e3%83%83%e3%83%a9) | N/A |
+| 24 | [#HBD藤くん](http://twitter.com/search?q=%23HBD%e8%97%a4%e3%81%8f%e3%82%93) | N/A |
+| 25 | [セカンドレグ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%b3%e3%83%89%e3%83%ac%e3%82%b0) | N/A |
+| 26 | [ばらかもんドラマ化](http://twitter.com/search?q=%e3%81%b0%e3%82%89%e3%81%8b%e3%82%82%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e%e5%8c%96) | N/A |
+| 27 | [バストーニ](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%88%e3%83%bc%e3%83%8b) | N/A |
+| 28 | [ベンフィカ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%83%95%e3%82%a3%e3%82%ab) | N/A |
+| 29 | [パヴァール](http://twitter.com/search?q=%e3%83%91%e3%83%b4%e3%82%a1%e3%83%bc%e3%83%ab) | N/A |
+| 30 | [第446回](http://twitter.com/search?q=%e7%ac%ac446%e5%9b%9e) | N/A |
+| 31 | [藤原啓治さん](http://twitter.com/search?q=%e8%97%a4%e5%8e%9f%e5%95%93%e6%b2%bb%e3%81%95%e3%82%93) | N/A |
+| 32 | [デリフト](http://twitter.com/search?q=%e3%83%87%e3%83%aa%e3%83%95%e3%83%88) | N/A |
 | 33 | [キミッヒ](http://twitter.com/search?q=%e3%82%ad%e3%83%9f%e3%83%83%e3%83%92) | N/A |
-| 34 | [藤原さん](http://twitter.com/search?q=%e8%97%a4%e5%8e%9f%e3%81%95%e3%82%93) | N/A |
-| 35 | [大橋くん](http://twitter.com/search?q=%e5%a4%a7%e6%a9%8b%e3%81%8f%e3%82%93) | 大橋くん (Ohashi-kun) is a Japanese nickname given to someone who is tall and strong. It literally translates to "Mr. Big Bridge" in English. |
-| 36 | [ベンフィカ](http://twitter.com/search?q=%e3%83%99%e3%83%b3%e3%83%95%e3%82%a3%e3%82%ab) | N/A |
-| 37 | [第126話](http://twitter.com/search?q=%e7%ac%ac126%e8%a9%b1) | N/A |
-| 38 | [ひなのちゃん](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%81%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 39 | [aiko](http://twitter.com/search?q=aiko) | Aiko is a Japanese female given name meaning "beloved child". |
-| 40 | [アキくん](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%81%8f%e3%82%93) | N/A |
-| 41 | [スキップとローファー](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%83%83%e3%83%97%e3%81%a8%e3%83%ad%e3%83%bc%e3%83%95%e3%82%a1%e3%83%bc) | N/A |
-| 42 | [チェンソーマン最新話](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%82%bd%e3%83%bc%e3%83%9e%e3%83%b3%e6%9c%80%e6%96%b0%e8%a9%b1) | N/A |
-| 43 | [程遠い君の星まで](http://twitter.com/search?q=%e7%a8%8b%e9%81%a0%e3%81%84%e5%90%9b%e3%81%ae%e6%98%9f%e3%81%be%e3%81%a7) | N/A |
-| 44 | [シャーデンフロイデ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%bc%e3%83%87%e3%83%b3%e3%83%95%e3%83%ad%e3%82%a4%e3%83%87) | N/A |
-| 45 | [エヴァ最終回](http://twitter.com/search?q=%e3%82%a8%e3%83%b4%e3%82%a1%e6%9c%80%e7%b5%82%e5%9b%9e) | N/A |
-| 46 | [ジャイガ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%ac) | N/A |
-| 47 | [すわほー](http://twitter.com/search?q=%e3%81%99%e3%82%8f%e3%81%bb%e3%83%bc) | N/A |
-| 48 | [こっちのもの](http://twitter.com/search?q=%e3%81%93%e3%81%a3%e3%81%a1%e3%81%ae%e3%82%82%e3%81%ae) | N/A |
+| 34 | [ルベンディアス](http://twitter.com/search?q=%e3%83%ab%e3%83%99%e3%83%b3%e3%83%87%e3%82%a3%e3%82%a2%e3%82%b9) | N/A |
+| 35 | [精神攻撃](http://twitter.com/search?q=%e7%b2%be%e7%a5%9e%e6%94%bb%e6%92%83) | N/A |
+| 36 | [ロドリ砲](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%83%aa%e7%a0%b2) | N/A |
+| 37 | [デイビス](http://twitter.com/search?q=%e3%83%87%e3%82%a4%e3%83%93%e3%82%b9) | N/A |
+| 38 | [フリアン](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%82%a2%e3%83%b3) | N/A |
+| 39 | [ラウタロ](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%82%bf%e3%83%ad) | N/A |
+| 40 | [ギュンドアン](http://twitter.com/search?q=%e3%82%ae%e3%83%a5%e3%83%b3%e3%83%89%e3%82%a2%e3%83%b3) | N/A |
+| 41 | [ホーラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 42 | [シティ先制](http://twitter.com/search?q=%e3%82%b7%e3%83%86%e3%82%a3%e5%85%88%e5%88%b6) | N/A |
+| 43 | [ノイアー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%a2%e3%83%bc) | N/A |
+| 44 | [生首ヘアゴム](http://twitter.com/search?q=%e7%94%9f%e9%a6%96%e3%83%98%e3%82%a2%e3%82%b4%e3%83%a0) | N/A |
+| 45 | [フレンチドッグ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%83%81%e3%83%89%e3%83%83%e3%82%b0) | N/A |
+| 46 | [落下の悪魔](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
+| 47 | [パンの記念日](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%81%ae%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
+| 48 | [週の真ん中水曜日](http://twitter.com/search?q=%e9%80%b1%e3%81%ae%e7%9c%9f%e3%82%93%e4%b8%ad%e6%b0%b4%e6%9b%9c%e6%97%a5) | N/A |
 
 
 
