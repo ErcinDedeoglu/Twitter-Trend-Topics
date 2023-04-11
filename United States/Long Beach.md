@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-04-11 00:29:12 UTC`
+📆 Last Updated: `2023-04-11 01:44:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 2 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
-| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 4 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 5 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 6 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 9 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 10 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 11 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 12 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 13 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 14 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 15 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 16 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 17 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 18 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 19 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
-| 20 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 21 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
-| 22 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 23 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 24 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 25 | [Colten Brewer](http://twitter.com/search?q=Colten+Brewer) | N/A |
-| 26 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
-| 27 | [Jordan Horston](http://twitter.com/search?q=Jordan+Horston) | N/A |
-| 28 | [Stephanie Soares](http://twitter.com/search?q=Stephanie+Soares) | N/A |
-| 29 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
-| 30 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 31 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 32 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
-| 33 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 34 | [Atlanta Dream](http://twitter.com/search?q=Atlanta+Dream) | N/A |
-| 35 | [Nick Pivetta](http://twitter.com/search?q=Nick+Pivetta) | N/A |
-| 36 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
-| 37 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 38 | [Joe Pavelski](http://twitter.com/search?q=Joe+Pavelski) | N/A |
-| 39 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 40 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
-| 41 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 42 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 43 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
-| 44 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 45 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
-| 46 | [Mystics](http://twitter.com/search?q=Mystics) | N/A |
-| 47 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
-| 48 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 49 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
+| 1 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 2 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
+| 3 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
+| 4 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 5 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
+| 6 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
+| 7 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 8 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 9 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 11 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
+| 12 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 13 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 14 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 15 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 16 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 17 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 18 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 19 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 20 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 21 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 22 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 23 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 24 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 25 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 26 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 27 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 28 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 29 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 30 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 31 | [Holly](http://twitter.com/search?q=Holly) | N/A |
+| 32 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 33 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 34 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 35 | [Brandon Lowe](http://twitter.com/search?q=Brandon+Lowe) | N/A |
+| 36 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 37 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
+| 38 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 39 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
+| 40 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 41 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
+| 42 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 43 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
+| 44 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
+| 45 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 46 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 47 | [Alcantara](http://twitter.com/search?q=Alcantara) | N/A |
+| 48 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
+| 49 | [Erik Karlsson](http://twitter.com/search?q=Erik+Karlsson) | N/A |
 
 
 

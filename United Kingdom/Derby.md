@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-11 00:28:31 UTC`
+📆 Last Updated: `2023-04-11 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MAFSAustralia](http://twitter.com/search?q=%23MAFSAustralia) | N/A |
-| 2 | [Luton](http://twitter.com/search?q=Luton) | N/A |
-| 3 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 4 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 5 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
-| 6 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 7 | [#TemptingFortune](http://twitter.com/search?q=%23TemptingFortune) | N/A |
-| 8 | [Deano](http://twitter.com/search?q=Deano) | N/A |
-| 9 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 10 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
-| 11 | [Victor Orta](http://twitter.com/search?q=Victor+Orta) | N/A |
-| 12 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
-| 13 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 14 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 15 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 16 | [Chip](http://twitter.com/search?q=Chip) | N/A |
-| 17 | [Norwood](http://twitter.com/search?q=Norwood) | N/A |
-| 18 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 19 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 20 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 21 | [John Terry](http://twitter.com/search?q=John+Terry) | N/A |
-| 22 | [Sheffield United](http://twitter.com/search?q=Sheffield+United) | Sheffield United is an English professional football club based in Sheffield, South Yorkshire. The club competes in the Premier League, the top division of English football. Sheffield United was founded in 1889 and has won four FA Cups, one League Cup and one Full Members Cup. The club's nickname is "The Blades" due to Sheffield's history of steel production. |
-| 23 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 24 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 25 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 26 | [Leicester City](http://twitter.com/search?q=Leicester+City) | N/A |
-| 27 | [Ryan Reynolds](http://twitter.com/search?q=Ryan+Reynolds) | Ryan Reynolds is a Canadian actor, producer, and entrepreneur. He is best known for his roles in films such as Deadpool, Green Lantern, and The Proposal. He has also starred in television shows such as Two Guys and a Girl and The Amityville Horror. |
-| 28 | [Warne](http://twitter.com/search?q=Warne) | N/A |
-| 29 | [Shakey](http://twitter.com/search?q=Shakey) | N/A |
-| 30 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 31 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 32 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
-| 33 | [Sheff Utd](http://twitter.com/search?q=Sheff+Utd) | N/A |
-| 34 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 35 | [Kenny Miller](http://twitter.com/search?q=Kenny+Miller) | N/A |
-| 36 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 37 | [Turf Moor](http://twitter.com/search?q=Turf+Moor) | N/A |
-| 38 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
-| 39 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 40 | [Damon](http://twitter.com/search?q=Damon) | N/A |
-| 41 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
-| 42 | [League One](http://twitter.com/search?q=League+One) | N/A |
-| 43 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 44 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
-| 45 | [#twitterblades](http://twitter.com/search?q=%23twitterblades) | N/A |
-| 46 | [#MadeInChelsea](http://twitter.com/search?q=%23MadeInChelsea) | N/A |
-| 47 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
-| 48 | [#BlueLights](http://twitter.com/search?q=%23BlueLights) | N/A |
-| 49 | [#MarriedatfirstsightAustralia](http://twitter.com/search?q=%23MarriedatfirstsightAustralia) | N/A |
-| 50 | [#MasterChefUK](http://twitter.com/search?q=%23MasterChefUK) | N/A |
+| 1 | [#dcfc](http://twitter.com/search?q=%23dcfc) | N/A |
+| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 3 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 4 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 5 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 6 | [Ben Foster](http://twitter.com/search?q=Ben+Foster) | N/A |
+| 7 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 8 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
+| 9 | [Easter Monday](http://twitter.com/search?q=Easter+Monday) | N/A |
+| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 11 | [#WRXNCO](http://twitter.com/search?q=%23WRXNCO) | N/A |
+| 12 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 13 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 14 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 15 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 16 | [#Masterchef](http://twitter.com/search?q=%23Masterchef) | N/A |
+| 17 | [Bank Holiday Monday](http://twitter.com/search?q=Bank+Holiday+Monday) | N/A |
+| 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 19 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 20 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 21 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 22 | [Robbo](http://twitter.com/search?q=Robbo) | Robbo is a slang term for a robber or thief. It is derived from the word "robbery" and is often used to refer to someone who commits theft or other criminal activities. |
+| 23 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 24 | [Roy Keane](http://twitter.com/search?q=Roy+Keane) | Roy Keane is an Irish former professional footballer and football manager. He is currently the assistant manager of the Republic of Ireland national team. He is widely regarded as one of the greatest midfielders of his generation, and was known for his aggressive style of play, leadership, and uncompromising attitude. |
+| 25 | [John Bostock](http://twitter.com/search?q=John+Bostock) | N/A |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [Mullin](http://twitter.com/search?q=Mullin) | N/A |
+| 28 | [National League](http://twitter.com/search?q=National+League) | N/A |
+| 29 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 30 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 32 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 33 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 34 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 35 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 36 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 37 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 38 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 39 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 40 | [Robinson](http://twitter.com/search?q=Robinson) | N/A |
+| 41 | [Stam](http://twitter.com/search?q=Stam) | N/A |
+| 42 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 43 | [Huddersfield](http://twitter.com/search?q=Huddersfield) | N/A |
+| 44 | [Sharron](http://twitter.com/search?q=Sharron) | N/A |
+| 45 | [Jamie](http://twitter.com/search?q=Jamie) | N/A |
+| 46 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 47 | [Monkfish](http://twitter.com/search?q=Monkfish) | N/A |
+| 48 | [Bogle](http://twitter.com/search?q=Bogle) | N/A |
+| 49 | [Olay](http://twitter.com/search?q=Olay) | N/A |
+| 50 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 
 
 

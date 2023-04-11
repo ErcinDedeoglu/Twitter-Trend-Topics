@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-11 00:29:18 UTC`
+📆 Last Updated: `2023-04-11 01:45:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
 | 2 | [#VaiHelôPegaElesTudo](http://twitter.com/search?q=%23VaiHel%c3%b4PegaElesTudo) | N/A |
-| 3 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 4 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 5 | [#VoleiNoSportTV](http://twitter.com/search?q=%23VoleiNoSportTV) | N/A |
-| 6 | [#baforaedastream](http://twitter.com/search?q=%23baforaedastream) | N/A |
-| 7 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
-| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [#jornalnacional](http://twitter.com/search?q=%23jornalnacional) | N/A |
-| 10 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 11 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
-| 12 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
-| 13 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
-| 14 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
-| 15 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
-| 16 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
-| 17 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
-| 18 | [Manaus](http://twitter.com/search?q=Manaus) | N/A |
-| 19 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
-| 20 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
-| 21 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 22 | [MARI FERNANDEZ](http://twitter.com/search?q=MARI+FERNANDEZ) | N/A |
-| 23 | [Bia Michelle](http://twitter.com/search?q=Bia+Michelle) | N/A |
-| 24 | [Bradesco](http://twitter.com/search?q=Bradesco) | N/A |
-| 25 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 26 | [Fecha](http://twitter.com/search?q=Fecha) | N/A |
-| 27 | [Basso](http://twitter.com/search?q=Basso) | N/A |
-| 28 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 29 | [TÔ NEM AÍ](http://twitter.com/search?q=T%c3%94+NEM+A%c3%8d) | N/A |
-| 30 | [POCAHRELLA NO TVZ POCAH](http://twitter.com/search?q=POCAHRELLA+NO+TVZ+POCAH) | N/A |
-| 31 | [Mantuan](http://twitter.com/search?q=Mantuan) | Mantuan is an adjective used to describe something that is related to the city of Mantua in Italy. It can also refer to the dialect spoken in Mantua, which is a variant of the Lombard language. In English, it means "of or pertaining to Mantua". |
-| 32 | [TAYLOR LAUTNER](http://twitter.com/search?q=TAYLOR+LAUTNER) | N/A |
-| 33 | [Praia Clube](http://twitter.com/search?q=Praia+Clube) | N/A |
-| 34 | [Atacadão](http://twitter.com/search?q=Atacad%c3%a3o) | N/A |
-| 35 | [Bolinha](http://twitter.com/search?q=Bolinha) | N/A |
-| 36 | [Midnight Rain](http://twitter.com/search?q=Midnight+Rain) | N/A |
-| 37 | [Santo André](http://twitter.com/search?q=Santo+Andr%c3%a9) | Santo André is a municipality in the state of São Paulo, Brazil. The name Santo André is derived from the Portuguese phrase for Saint Andrew, the patron saint of fishermen. In English, Santo André translates to Saint Andrew. |
-| 38 | [Zenit](http://twitter.com/search?q=Zenit) | Zenit is a Russian word that means "zenith" or the highest point. It is often used to refer to the highest point of achievement or success. |
-| 39 | [CPTM](http://twitter.com/search?q=CPTM) | N/A |
-| 40 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 41 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
-| 42 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 43 | [Fase Sul-americana](http://twitter.com/search?q=Fase+Sul-americana) | N/A |
-| 44 | [Fase Copa](http://twitter.com/search?q=Fase+Copa) | N/A |
-| 45 | [Kim Kardashian](http://twitter.com/search?q=Kim+Kardashian) | N/A |
-| 46 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
-| 47 | [Dia 20](http://twitter.com/search?q=Dia+20) | N/A |
-| 48 | [Umbro](http://twitter.com/search?q=Umbro) | N/A |
-| 49 | [Alex Teixeira](http://twitter.com/search?q=Alex+Teixeira) | Alex Teixeira is a Brazilian professional footballer who plays as an attacking midfielder for Chinese club Jiangsu Suning. His name is derived from the Portuguese word "teixeira", which means "woodcutter". |
-| 50 | [Nena](http://twitter.com/search?q=Nena) | N/A |
+| 3 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 4 | [Kisy](http://twitter.com/search?q=Kisy) | N/A |
+| 5 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
+| 6 | [Pri Souza](http://twitter.com/search?q=Pri+Souza) | N/A |
+| 7 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 8 | [#TerraEPaixão](http://twitter.com/search?q=%23TerraEPaix%c3%a3o) | N/A |
+| 9 | [Thaisa](http://twitter.com/search?q=Thaisa) | N/A |
+| 10 | [#7DiasDeLivramento](http://twitter.com/search?q=%237DiasDeLivramento) | N/A |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [SMOKE CHARTS](http://twitter.com/search?q=SMOKE+CHARTS) | N/A |
+| 13 | [Giovanna Antonelli](http://twitter.com/search?q=Giovanna+Antonelli) | N/A |
+| 14 | [gabi brandt](http://twitter.com/search?q=gabi+brandt) | N/A |
+| 15 | [Jhony](http://twitter.com/search?q=Jhony) | N/A |
+| 16 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 17 | [Stenio](http://twitter.com/search?q=Stenio) | N/A |
+| 18 | [MONTEZ](http://twitter.com/search?q=MONTEZ) | N/A |
+| 19 | [Heldes](http://twitter.com/search?q=Heldes) | N/A |
+| 20 | [Cidália](http://twitter.com/search?q=Cid%c3%a1lia) | N/A |
+| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 22 | [Pilar](http://twitter.com/search?q=Pilar) | N/A |
+| 23 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 24 | [Sambô](http://twitter.com/search?q=Samb%c3%b4) | N/A |
+| 25 | [Jean Dias](http://twitter.com/search?q=Jean+Dias) | N/A |
+| 26 | [Lugar Brasileirão](http://twitter.com/search?q=Lugar+Brasileir%c3%a3o) | N/A |
+| 27 | [Paulo Bracks](http://twitter.com/search?q=Paulo+Bracks) | N/A |
+| 28 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 29 | [Franca](http://twitter.com/search?q=Franca) | N/A |
+| 30 | [Melhoras Alex](http://twitter.com/search?q=Melhoras+Alex) | N/A |
+| 31 | [Filipe Toledo](http://twitter.com/search?q=Filipe+Toledo) | N/A |
+| 32 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 33 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 34 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 35 | [Beni](http://twitter.com/search?q=Beni) | N/A |
+| 36 | [Carpini](http://twitter.com/search?q=Carpini) | N/A |
+| 37 | [Peña](http://twitter.com/search?q=Pe%c3%b1a) | N/A |
+| 38 | [São Conrado](http://twitter.com/search?q=S%c3%a3o+Conrado) | N/A |
+| 39 | [FIFTY FIFTY](http://twitter.com/search?q=FIFTY+FIFTY) | N/A |
+| 40 | [Quadrado](http://twitter.com/search?q=Quadrado) | N/A |
+| 41 | [Purple Kiss](http://twitter.com/search?q=Purple+Kiss) | N/A |
+| 42 | [LE SSERAFIM](http://twitter.com/search?q=LE+SSERAFIM) | LE SSERAFIM is a French phrase meaning "the seraphim." In Christianity, seraphim are angels of the highest order, often depicted with six wings and a fiery presence. |
+| 43 | [Alexandre Nero](http://twitter.com/search?q=Alexandre+Nero) | N/A |
+| 44 | [Barueri](http://twitter.com/search?q=Barueri) | N/A |
+| 45 | [Destaque](http://twitter.com/search?q=Destaque) | N/A |
+| 46 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
+| 47 | [WNBA](http://twitter.com/search?q=WNBA) | WNBA stands for Women's National Basketball Association. It is a professional basketball league in the United States for female players. |
+| 48 | [Bauru](http://twitter.com/search?q=Bauru) | N/A |
+| 49 | [Dani Lins](http://twitter.com/search?q=Dani+Lins) | N/A |
+| 50 | [ProUni](http://twitter.com/search?q=ProUni) | N/A |
 
 
 

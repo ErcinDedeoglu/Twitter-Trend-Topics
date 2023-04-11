@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-11 00:29:16 UTC`
+📆 Last Updated: `2023-04-11 01:44:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
-| 2 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
-| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 4 | [Astros](http://twitter.com/search?q=Astros) | N/A |
-| 5 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
-| 6 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 7 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 10 | [#WNBADraft](http://twitter.com/search?q=%23WNBADraft) | N/A |
-| 11 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
-| 12 | [#peachinu](http://twitter.com/search?q=%23peachinu) | N/A |
-| 13 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 14 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
-| 15 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
-| 16 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 17 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 18 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
-| 19 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
-| 20 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
-| 21 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
-| 22 | [Grace Berger](http://twitter.com/search?q=Grace+Berger) | N/A |
-| 23 | [Diamond Miller](http://twitter.com/search?q=Diamond+Miller) | N/A |
-| 24 | [Sandy Alcantara](http://twitter.com/search?q=Sandy+Alcantara) | N/A |
-| 25 | [Domingo German](http://twitter.com/search?q=Domingo+German) | N/A |
-| 26 | [Colten Brewer](http://twitter.com/search?q=Colten+Brewer) | N/A |
-| 27 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
-| 28 | [Jordan Horston](http://twitter.com/search?q=Jordan+Horston) | N/A |
-| 29 | [Stephanie Soares](http://twitter.com/search?q=Stephanie+Soares) | N/A |
-| 30 | [Abby Meyers](http://twitter.com/search?q=Abby+Meyers) | N/A |
-| 31 | [Matt Strahm](http://twitter.com/search?q=Matt+Strahm) | N/A |
-| 32 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
-| 33 | [Jake Cave](http://twitter.com/search?q=Jake+Cave) | N/A |
-| 34 | [Scherzer](http://twitter.com/search?q=Scherzer) | N/A |
-| 35 | [Atlanta Dream](http://twitter.com/search?q=Atlanta+Dream) | N/A |
-| 36 | [Nick Pivetta](http://twitter.com/search?q=Nick+Pivetta) | N/A |
-| 37 | [Bieber](http://twitter.com/search?q=Bieber) | N/A |
-| 38 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 39 | [Joe Pavelski](http://twitter.com/search?q=Joe+Pavelski) | N/A |
-| 40 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 41 | [Maddy Siegrist](http://twitter.com/search?q=Maddy+Siegrist) | N/A |
-| 42 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 43 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 44 | [Jeff McNeil](http://twitter.com/search?q=Jeff+McNeil) | Jeff McNeil is an American professional baseball player who currently plays for the New York Mets of Major League Baseball (MLB). He is primarily a second baseman, but has also played third base and left field. |
-| 45 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 46 | [Finn Balor](http://twitter.com/search?q=Finn+Balor) | N/A |
-| 47 | [Mystics](http://twitter.com/search?q=Mystics) | N/A |
-| 48 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
-| 49 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 1 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 2 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
+| 3 | [Sparks](http://twitter.com/search?q=Sparks) | N/A |
+| 4 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 5 | [#NationalSiblingsDay](http://twitter.com/search?q=%23NationalSiblingsDay) | N/A |
+| 6 | [#MassShooting](http://twitter.com/search?q=%23MassShooting) | N/A |
+| 7 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 8 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 9 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 10 | [Ted Cruz](http://twitter.com/search?q=Ted+Cruz) | N/A |
+| 11 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [#GunReformNOW](http://twitter.com/search?q=%23GunReformNOW) | N/A |
+| 14 | [Astros](http://twitter.com/search?q=Astros) | N/A |
+| 15 | [Ben Shapiro](http://twitter.com/search?q=Ben+Shapiro) | N/A |
+| 16 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 17 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 18 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 19 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 20 | [Brea Beal](http://twitter.com/search?q=Brea+Beal) | N/A |
+| 21 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 22 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 23 | [Zia Cooke](http://twitter.com/search?q=Zia+Cooke) | N/A |
+| 24 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 25 | [Andrew Heaney](http://twitter.com/search?q=Andrew+Heaney) | N/A |
+| 26 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 27 | [Alexis Morris](http://twitter.com/search?q=Alexis+Morris) | N/A |
+| 28 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 29 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 30 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 31 | [Justin Jones](http://twitter.com/search?q=Justin+Jones) | N/A |
+| 32 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 33 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 34 | [Holly](http://twitter.com/search?q=Holly) | N/A |
+| 35 | [John Tavares](http://twitter.com/search?q=John+Tavares) | N/A |
+| 36 | [Alec Bohm](http://twitter.com/search?q=Alec+Bohm) | N/A |
+| 37 | [Aliyah Boston](http://twitter.com/search?q=Aliyah+Boston) | N/A |
+| 38 | [Brandon Lowe](http://twitter.com/search?q=Brandon+Lowe) | N/A |
+| 39 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 40 | [Mad Magazine](http://twitter.com/search?q=Mad+Magazine) | N/A |
+| 41 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
+| 42 | [Karinchak](http://twitter.com/search?q=Karinchak) | N/A |
+| 43 | [Dallas Wings](http://twitter.com/search?q=Dallas+Wings) | N/A |
+| 44 | [Whole Foods](http://twitter.com/search?q=Whole+Foods) | N/A |
+| 45 | [Smyly](http://twitter.com/search?q=Smyly) | N/A |
+| 46 | [Indiana Fever](http://twitter.com/search?q=Indiana+Fever) | N/A |
+| 47 | [Darvish](http://twitter.com/search?q=Darvish) | N/A |
+| 48 | [Zunino](http://twitter.com/search?q=Zunino) | N/A |
+| 49 | [Alcantara](http://twitter.com/search?q=Alcantara) | N/A |
+| 50 | [Luis Guillorme](http://twitter.com/search?q=Luis+Guillorme) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Alexandria
 
-📆 Last Updated: `2023-04-11 00:28:59 UTC`
+📆 Last Updated: `2023-04-11 01:44:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Egypt](</Egypt>)
 | 7 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
 | 8 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
 | 9 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
-| 10 | [رمضان صبحي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b5%d8%a8%d8%ad%d9%8a) | N/A |
-| 11 | [مدحت شلبي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
-| 12 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
-| 13 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 14 | [٢٠ رمضان](http://twitter.com/search?q=%d9%a2%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 15 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
-| 16 | [دوري السوبر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | N/A |
-| 17 | [ياسر ابراهيم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 18 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
-| 19 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 10 | [٢٠ رمضان](http://twitter.com/search?q=%d9%a2%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 11 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 12 | [رمضان صبحي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b5%d8%a8%d8%ad%d9%8a) | N/A |
+| 13 | [20 رمضان](http://twitter.com/search?q=20+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 14 | [مدحت شلبي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
+| 15 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 16 | [#يلا_يا_اهلي](http://twitter.com/search?q=%23%d9%8a%d9%84%d8%a7_%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 17 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 18 | [علي معلول](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%b9%d9%84%d9%88%d9%84) | "علي معلول" is an Arabic phrase that translates to "on the disabled" in English. It is used to refer to someone who is physically or mentally disabled. |
+| 19 | [دوري السوبر](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%b3%d9%88%d8%a8%d8%b1) | N/A |
 | 20 | [محمود الخطيب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
-| 21 | [رجل المباراه](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
-| 22 | [رمضان بطاطس](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a8%d8%b7%d8%a7%d8%b7%d8%b3) | N/A |
-| 23 | [20 رمضان](http://twitter.com/search?q=20+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 21 | [حمدى فتحى](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%89+%d9%81%d8%aa%d8%ad%d9%89) | حمدى فتحى is an Arabic phrase meaning "praise be to God". It is often used as a way of expressing gratitude or appreciation. |
+| 22 | [ياسر ابراهيم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 23 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
 | 24 | [علي الطموح](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad) | N/A |
-| 25 | [حمدى فتحى](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%89+%d9%81%d8%aa%d8%ad%d9%89) | حمدى فتحى is an Arabic phrase meaning "praise be to God". It is often used as a way of expressing gratitude or appreciation. |
-| 26 | [ممدوح عيد](http://twitter.com/search?q=%d9%85%d9%85%d8%af%d9%88%d8%ad+%d8%b9%d9%8a%d8%af) | N/A |
-| 27 | [بن يوسف](http://twitter.com/search?q=%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 25 | [بن يوسف](http://twitter.com/search?q=%d8%a8%d9%86+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 26 | [اليوم الحلو](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d9%84%d9%88) | N/A |
+| 27 | [مصدر السعاده](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
 | 28 | [نادي القرن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86) | N/A |
-| 29 | [مصدر السعاده](http://twitter.com/search?q=%d9%85%d8%b5%d8%af%d8%b1+%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87) | N/A |
-| 30 | [اليوم الحلو](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ad%d9%84%d9%88) | N/A |
-| 31 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 32 | [نادي الطموح](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad) | N/A |
+| 29 | [نادي الطموح](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b7%d9%85%d9%88%d8%ad) | N/A |
+| 30 | [رمضان بطاطس](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%a8%d8%b7%d8%a7%d8%b7%d8%b3) | N/A |
+| 31 | [رجل المباراه](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
+| 32 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
 | 33 | [فخر الدين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d8%af%d9%8a%d9%86) | N/A |
-| 34 | [الاشواط الاضافيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d9%88%d8%a7%d8%b7+%d8%a7%d9%84%d8%a7%d8%b6%d8%a7%d9%81%d9%8a%d9%87) | N/A |
-| 35 | [علي الاسيوطي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d8%b7%d9%8a) | N/A |
+| 34 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
+| 35 | [فؤاد](http://twitter.com/search?q=%d9%81%d8%a4%d8%a7%d8%af) | N/A |
 | 36 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
-| 37 | [علي لطفي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%84%d8%b7%d9%81%d9%8a) | N/A |
+| 37 | [بيت جعفر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
 | 38 | [علي الفوز](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
-| 39 | [صوت الجمهور](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1) | N/A |
-| 40 | [المارد الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d8%b1%d8%af+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 41 | [عبدالله السعيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 42 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
-| 43 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 44 | [التحكيم المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
-| 45 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
-| 46 | [اسامه جلال](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a7%d9%85%d9%87+%d8%ac%d9%84%d8%a7%d9%84) | N/A |
-| 47 | [ليفاندوفسكي](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7%d9%86%d8%af%d9%88%d9%81%d8%b3%d9%83%d9%8a) | N/A |
-| 48 | [صانع العاب](http://twitter.com/search?q=%d8%b5%d8%a7%d9%86%d8%b9+%d8%a7%d9%84%d8%b9%d8%a7%d8%a8) | N/A |
-| 49 | [بيرسي تاو](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d8%b3%d9%8a+%d8%aa%d8%a7%d9%88) | بيرسي تاو is a phrase in Arabic that translates to "Be careful". It is used as a warning or cautionary statement. |
-| 50 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
+| 39 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
+| 40 | [محمد شريف](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b4%d8%b1%d9%8a%d9%81) | محمد شريف is an Arabic name meaning "Mohammed the Noble". |
+| 41 | [السولية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%84%d9%8a%d8%a9) | السولية is an Arabic word that means "solitude" or "loneliness". It is used to describe a feeling of being alone or isolated. |
+| 42 | [#الهلال_الطايي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
+| 43 | [عبدالله السعيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 44 | [علي الماتش](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a7%d8%aa%d8%b4) | N/A |
+| 45 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 46 | [التحكيم المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d9%83%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | N/A |
+| 47 | [توريه](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 48 | [الكوره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 49 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 50 | [رامي ربيعة](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a+%d8%b1%d8%a8%d9%8a%d8%b9%d8%a9) | N/A |
 
 
 
