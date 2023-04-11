@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Perth
 
-📆 Last Updated: `2023-04-11 10:18:31 UTC`
+📆 Last Updated: `2023-04-11 11:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
-| 2 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
-| 3 | [#TheDrum](http://twitter.com/search?q=%23TheDrum) | N/A |
-| 4 | [#AFLCatsHawks](http://twitter.com/search?q=%23AFLCatsHawks) | N/A |
-| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 1 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 2 | [Julian Leeser](http://twitter.com/search?q=Julian+Leeser) | N/A |
+| 3 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 4 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
+| 5 | [#abc730](http://twitter.com/search?q=%23abc730) | N/A |
 | 6 | [#NRLTigersEels](http://twitter.com/search?q=%23NRLTigersEels) | N/A |
-| 7 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 8 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 9 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
-| 10 | [Michael Christian](http://twitter.com/search?q=Michael+Christian) | N/A |
-| 11 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 12 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
-| 13 | [#ImACelebrityAU](http://twitter.com/search?q=%23ImACelebrityAU) | N/A |
-| 14 | [Milkrun](http://twitter.com/search?q=Milkrun) | N/A |
-| 15 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 16 | [Will Day](http://twitter.com/search?q=Will+Day) | N/A |
-| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 18 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
-| 19 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 20 | [The MRO](http://twitter.com/search?q=The+MRO) | N/A |
-| 21 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
-| 22 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 7 | [#AFLCatsHawks](http://twitter.com/search?q=%23AFLCatsHawks) | N/A |
+| 8 | [#LEGOMastersAU](http://twitter.com/search?q=%23LEGOMastersAU) | N/A |
+| 9 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 10 | [Ken Wyatt](http://twitter.com/search?q=Ken+Wyatt) | N/A |
+| 11 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 12 | [Michael Christian](http://twitter.com/search?q=Michael+Christian) | N/A |
+| 13 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 14 | [Will Day](http://twitter.com/search?q=Will+Day) | N/A |
+| 15 | [Karen Andrews](http://twitter.com/search?q=Karen+Andrews) | N/A |
+| 16 | [Gather Round](http://twitter.com/search?q=Gather+Round) | N/A |
+| 17 | [Milkrun](http://twitter.com/search?q=Milkrun) | N/A |
+| 18 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 21 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
+| 22 | [McKay](http://twitter.com/search?q=McKay) | N/A |
 | 23 | [Jeremy Cameron](http://twitter.com/search?q=Jeremy+Cameron) | N/A |
-| 24 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 25 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
-| 26 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 28 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 29 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
-| 30 | [Tim Blair](http://twitter.com/search?q=Tim+Blair) | N/A |
-| 31 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
-| 32 | [Matt Canavan](http://twitter.com/search?q=Matt+Canavan) | N/A |
-| 33 | [Happy Birthday Katy](http://twitter.com/search?q=Happy+Birthday+Katy) | N/A |
+| 24 | [Jack Crisp](http://twitter.com/search?q=Jack+Crisp) | N/A |
+| 25 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 26 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 27 | [John Farnham](http://twitter.com/search?q=John+Farnham) | N/A |
+| 28 | [Tim Blair](http://twitter.com/search?q=Tim+Blair) | N/A |
+| 29 | [The MRO](http://twitter.com/search?q=The+MRO) | N/A |
+| 30 | [Greg Sheridan](http://twitter.com/search?q=Greg+Sheridan) | N/A |
+| 31 | [Matt Canavan](http://twitter.com/search?q=Matt+Canavan) | N/A |
+| 32 | [happy birthday katy](http://twitter.com/search?q=happy+birthday+katy) | N/A |
+| 33 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 34 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
-| 35 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
-| 36 | [Victorians](http://twitter.com/search?q=Victorians) | N/A |
-| 37 | [Cincotta](http://twitter.com/search?q=Cincotta) | N/A |
-| 38 | [Greg Sheridan](http://twitter.com/search?q=Greg+Sheridan) | N/A |
+| 35 | [Cincotta](http://twitter.com/search?q=Cincotta) | N/A |
+| 36 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 37 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 38 | [Shadow Cabinet](http://twitter.com/search?q=Shadow+Cabinet) | N/A |
 | 39 | [The Quokka](http://twitter.com/search?q=The+Quokka) | N/A |
-| 40 | [Shadow Cabinet](http://twitter.com/search?q=Shadow+Cabinet) | N/A |
-| 41 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 42 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 43 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 44 | [Mitchito](http://twitter.com/search?q=Mitchito) | N/A |
-| 45 | [Telly](http://twitter.com/search?q=Telly) | N/A |
-| 46 | [Tyler Wright](http://twitter.com/search?q=Tyler+Wright) | N/A |
+| 40 | [Telly](http://twitter.com/search?q=Telly) | N/A |
+| 41 | [Tibetan](http://twitter.com/search?q=Tibetan) | N/A |
+| 42 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 43 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 44 | [Pauline](http://twitter.com/search?q=Pauline) | N/A |
+| 45 | [Mitchito](http://twitter.com/search?q=Mitchito) | N/A |
+| 46 | [Simon Birmingham](http://twitter.com/search?q=Simon+Birmingham) | N/A |
 | 47 | [Blicavs](http://twitter.com/search?q=Blicavs) | N/A |
-| 48 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 49 | [Jezza](http://twitter.com/search?q=Jezza) | N/A |
-| 50 | [Sam Docherty](http://twitter.com/search?q=Sam+Docherty) | N/A |
+| 48 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 49 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 50 | [Andrew Bolt](http://twitter.com/search?q=Andrew+Bolt) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-04-11 10:18:42 UTC`
+📆 Last Updated: `2023-04-11 11:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Kenya](</Kenya>)
 | 2 | [Akothee](http://twitter.com/search?q=Akothee) | N/A |
 | 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 4 | [#ImminencyOfRapture](http://twitter.com/search?q=%23ImminencyOfRapture) | N/A |
-| 5 | [#MakeChaguoSmartaNaAirtel](http://twitter.com/search?q=%23MakeChaguoSmartaNaAirtel) | N/A |
-| 6 | [10gb extra](http://twitter.com/search?q=10gb+extra) | N/A |
-| 7 | [dabo data](http://twitter.com/search?q=dabo+data) | N/A |
-| 8 | [#PerformanceContractingKE](http://twitter.com/search?q=%23PerformanceContractingKE) | N/A |
-| 9 | [My Airtel App](http://twitter.com/search?q=My+Airtel+App) | N/A |
-| 10 | [Musalia Mudavadi](http://twitter.com/search?q=Musalia+Mudavadi) | N/A |
-| 11 | [Office of the Prime CS](http://twitter.com/search?q=Office+of+the+Prime+CS) | N/A |
-| 12 | [#MondayReport](http://twitter.com/search?q=%23MondayReport) | N/A |
-| 13 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 14 | [Taifa-1](http://twitter.com/search?q=Taifa-1) | N/A |
-| 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 16 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
-| 17 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
+| 5 | [10gb extra](http://twitter.com/search?q=10gb+extra) | N/A |
+| 6 | [dabo data](http://twitter.com/search?q=dabo+data) | N/A |
+| 7 | [#PerformanceContractingKE](http://twitter.com/search?q=%23PerformanceContractingKE) | N/A |
+| 8 | [#MakeChaguoSmartaNaAirtel](http://twitter.com/search?q=%23MakeChaguoSmartaNaAirtel) | N/A |
+| 9 | [my airtel app](http://twitter.com/search?q=my+airtel+app) | N/A |
+| 10 | [#mondayreport](http://twitter.com/search?q=%23mondayreport) | N/A |
+| 11 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 12 | [Taifa-1](http://twitter.com/search?q=Taifa-1) | N/A |
+| 13 | [Office of the Prime CS](http://twitter.com/search?q=Office+of+the+Prime+CS) | N/A |
+| 14 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 15 | [Musalia Mudavadi](http://twitter.com/search?q=Musalia+Mudavadi) | N/A |
+| 16 | [Citizen TV](http://twitter.com/search?q=Citizen+TV) | N/A |
+| 17 | [Winnie Odinga](http://twitter.com/search?q=Winnie+Odinga) | N/A |
 | 18 | [Ruto and Gachagua](http://twitter.com/search?q=Ruto+and+Gachagua) | N/A |
 | 19 | [Waziri Moses Kuria](http://twitter.com/search?q=Waziri+Moses+Kuria) | N/A |
 | 20 | [Kenya Kwanza](http://twitter.com/search?q=Kenya+Kwanza) | N/A |
 | 21 | [get unliminet 1,000](http://twitter.com/search?q=get+unliminet+1%2c000) | N/A |
 | 22 | [Sarah Mwaura](http://twitter.com/search?q=Sarah+Mwaura) | N/A |
-| 23 | [400mins to all networks](http://twitter.com/search?q=400mins+to+all+networks) | N/A |
-| 24 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 23 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 24 | [400mins to all networks](http://twitter.com/search?q=400mins+to+all+networks) | N/A |
 | 25 | [Kasarani](http://twitter.com/search?q=Kasarani) | N/A |
-| 26 | [deputy minority whip](http://twitter.com/search?q=deputy+minority+whip) | N/A |
-| 27 | [Iten](http://twitter.com/search?q=Iten) | N/A |
-| 28 | [twende choral fest](http://twitter.com/search?q=twende+choral+fest) | N/A |
-| 29 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 30 | [The President](http://twitter.com/search?q=The+President) | N/A |
+| 26 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 27 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 28 | [deputy minority whip](http://twitter.com/search?q=deputy+minority+whip) | N/A |
+| 29 | [Iten](http://twitter.com/search?q=Iten) | N/A |
+| 30 | [twende choral fest](http://twitter.com/search?q=twende+choral+fest) | N/A |
 | 31 | [Shaffie](http://twitter.com/search?q=Shaffie) | N/A |
-| 32 | [Macadamia](http://twitter.com/search?q=Macadamia) | N/A |
+| 32 | [Toto](http://twitter.com/search?q=Toto) | N/A |
 | 33 | [Bomet](http://twitter.com/search?q=Bomet) | N/A |
-| 34 | [Tubonge Tuesday](http://twitter.com/search?q=Tubonge+Tuesday) | N/A |
-| 35 | [Kibaki](http://twitter.com/search?q=Kibaki) | N/A |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [nairobi choirs](http://twitter.com/search?q=nairobi+choirs) | N/A |
-| 38 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
-| 39 | [Johnson Sakaja](http://twitter.com/search?q=Johnson+Sakaja) | N/A |
-| 40 | [Mama Ngina](http://twitter.com/search?q=Mama+Ngina) | N/A |
+| 34 | [Macadamia](http://twitter.com/search?q=Macadamia) | N/A |
+| 35 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 36 | [Kibaki](http://twitter.com/search?q=Kibaki) | N/A |
+| 37 | [Mama Ngina](http://twitter.com/search?q=Mama+Ngina) | N/A |
+| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 39 | [nairobi choirs](http://twitter.com/search?q=nairobi+choirs) | N/A |
+| 40 | [Johnson Sakaja](http://twitter.com/search?q=Johnson+Sakaja) | N/A |
 | 41 | [NCBA](http://twitter.com/search?q=NCBA) | N/A |
-| 42 | [50 CAS](http://twitter.com/search?q=50+CAS) | N/A |
-| 43 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 42 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 43 | [50 CAS](http://twitter.com/search?q=50+CAS) | N/A |
 | 44 | [Torres](http://twitter.com/search?q=Torres) | N/A |
 | 45 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 46 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 47 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 48 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
-| 49 | [Zambia](http://twitter.com/search?q=Zambia) | N/A |
-| 50 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 46 | [Dean Smith](http://twitter.com/search?q=Dean+Smith) | N/A |
+| 47 | [Azimio](http://twitter.com/search?q=Azimio) | N/A |
+| 48 | [Zambia](http://twitter.com/search?q=Zambia) | N/A |
+| 49 | [Jerry](http://twitter.com/search?q=Jerry) | N/A |
+| 50 | [Wasteful](http://twitter.com/search?q=Wasteful) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-04-11 10:18:06 UTC`
+📆 Last Updated: `2023-04-11 11:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 2 | [Deano](http://twitter.com/search?q=Deano) | N/A |
-| 3 | [#Succession](http://twitter.com/search?q=%23Succession) | N/A |
-| 4 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 5 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 6 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
-| 7 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 8 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
-| 9 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
+| 1 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 2 | [#fancyamcdonalds](http://twitter.com/search?q=%23fancyamcdonalds) | N/A |
+| 3 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 4 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 5 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
+| 6 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 7 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
+| 8 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
+| 9 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
 | 10 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
-| 11 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
-| 12 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
+| 11 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
+| 12 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
 | 13 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
-| 14 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
-| 15 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 16 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 17 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 18 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 19 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
-| 20 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 21 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 22 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 14 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
+| 15 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
+| 16 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 17 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 18 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
+| 19 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 20 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 21 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 22 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
 | 23 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 24 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 25 | [Chip](http://twitter.com/search?q=Chip) | N/A |
-| 26 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 27 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 28 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 29 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 30 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 31 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 24 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 25 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 26 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 27 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 28 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 29 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 30 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 31 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 32 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 33 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 34 | [#ASongOrMovieForFree](http://twitter.com/search?q=%23ASongOrMovieForFree) | N/A |
-| 35 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 36 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 37 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 38 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
-| 39 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 40 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 41 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 42 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 45 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 46 | [#wings](http://twitter.com/search?q=%23wings) | N/A |
-| 47 | [#GMSF](http://twitter.com/search?q=%23GMSF) | N/A |
-| 48 | [#KayBurley](http://twitter.com/search?q=%23KayBurley) | N/A |
+| 33 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 34 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
+| 35 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
+| 36 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 37 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 38 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 39 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 40 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 41 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 42 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 43 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 44 | [#ASongOrMovieForFree](http://twitter.com/search?q=%23ASongOrMovieForFree) | N/A |
+| 45 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
+| 46 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 47 | [#wings](http://twitter.com/search?q=%23wings) | N/A |
+| 48 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
 
 
 

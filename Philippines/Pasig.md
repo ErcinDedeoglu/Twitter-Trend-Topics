@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pasig
 
-📆 Last Updated: `2023-04-11 10:18:38 UTC`
+📆 Last Updated: `2023-04-11 11:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 2 | [TataKD STAR MAGIC](http://twitter.com/search?q=TataKD+STAR+MAGIC) | N/A |
-| 3 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
-| 4 | [#MusicalKD](http://twitter.com/search?q=%23MusicalKD) | N/A |
-| 5 | [#FreenBeckyWithLove](http://twitter.com/search?q=%23FreenBeckyWithLove) | N/A |
-| 6 | [#AmericanMetaverseAwards](http://twitter.com/search?q=%23AmericanMetaverseAwards) | N/A |
-| 7 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 8 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 9 | [D3 KDLEXPETA COMEBACK](http://twitter.com/search?q=D3+KDLEXPETA+COMEBACK) | N/A |
-| 10 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 11 | [its tiktoclock time bini](http://twitter.com/search?q=its+tiktoclock+time+bini) | N/A |
-| 12 | [franseth 1m promlove](http://twitter.com/search?q=franseth+1m+promlove) | N/A |
-| 13 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
-| 14 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 16 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 17 | [Balikatan](http://twitter.com/search?q=Balikatan) | N/A |
-| 18 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
-| 19 | [BIG WINS](http://twitter.com/search?q=BIG+WINS) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [D-3 TO PARAISO](http://twitter.com/search?q=D-3+TO+PARAISO) | N/A |
-| 22 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
-| 23 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
-| 24 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
-| 25 | [sakura moments withkdlex](http://twitter.com/search?q=sakura+moments+withkdlex) | N/A |
-| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 27 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
-| 28 | [SCSO](http://twitter.com/search?q=SCSO) | N/A |
-| 29 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 30 | [Willow](http://twitter.com/search?q=Willow) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [votefilay asiasiconicloveteam](http://twitter.com/search?q=votefilay+asiasiconicloveteam) | N/A |
-| 33 | [ochothebullet on wishbus](http://twitter.com/search?q=ochothebullet+on+wishbus) | N/A |
-| 34 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
-| 35 | [Pulse Asia](http://twitter.com/search?q=Pulse+Asia) | N/A |
-| 36 | [Kagitingan](http://twitter.com/search?q=Kagitingan) | N/A |
-| 37 | [BOARD THE WISHBUS with JC](http://twitter.com/search?q=BOARD+THE+WISHBUS+with+JC) | N/A |
-| 38 | [LEGENDARY LIKE BANG CHAN](http://twitter.com/search?q=LEGENDARY+LIKE+BANG+CHAN) | N/A |
-| 39 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
-| 40 | [3DAYS TO PARAISO](http://twitter.com/search?q=3DAYS+TO+PARAISO) | N/A |
-| 41 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
-| 42 | [Milano](http://twitter.com/search?q=Milano) | Milano is the Italian name for the city of Milan, which is the second-largest city in Italy and the capital of Lombardy. In English, it is simply referred to as Milan. |
-| 43 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
-| 44 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 45 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
-| 46 | [Perugia](http://twitter.com/search?q=Perugia) | N/A |
-| 47 | [rradish for ppop](http://twitter.com/search?q=rradish+for+ppop) | N/A |
-| 48 | [LRT-1](http://twitter.com/search?q=LRT-1) | N/A |
-| 49 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 50 | [PBBM GOOD NEWS](http://twitter.com/search?q=PBBM+GOOD+NEWS) | N/A |
+| 1 | [Saan](http://twitter.com/search?q=Saan) | N/A |
+| 2 | [#KDEstrada](http://twitter.com/search?q=%23KDEstrada) | N/A |
+| 3 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 4 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 5 | [#KVersePH](http://twitter.com/search?q=%23KVersePH) | N/A |
+| 6 | [TataKD STAR MAGIC](http://twitter.com/search?q=TataKD+STAR+MAGIC) | N/A |
+| 7 | [youngk](http://twitter.com/search?q=youngk) | N/A |
+| 8 | [#Welcome_to_MyKarina](http://twitter.com/search?q=%23Welcome_to_MyKarina) | N/A |
+| 9 | [#지민아_마이의_푸른봄은_너야](http://twitter.com/search?q=%23%ec%a7%80%eb%af%bc%ec%95%84_%eb%a7%88%ec%9d%b4%ec%9d%98_%ed%91%b8%eb%a5%b8%eb%b4%84%ec%9d%80_%eb%84%88%ec%95%bc) | N/A |
+| 10 | [D3 KDLEXPETA COMEBACK](http://twitter.com/search?q=D3+KDLEXPETA+COMEBACK) | N/A |
+| 11 | [PRESAVE ALEXA SRH-REMIX](http://twitter.com/search?q=PRESAVE+ALEXA+SRH-REMIX) | N/A |
+| 12 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 13 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 14 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 15 | [its tiktoclock time bini](http://twitter.com/search?q=its+tiktoclock+time+bini) | N/A |
+| 16 | [DOUBLE B](http://twitter.com/search?q=DOUBLE+B) | N/A |
+| 17 | [franseth 1m promlove](http://twitter.com/search?q=franseth+1m+promlove) | N/A |
+| 18 | [Reading Your Heart](http://twitter.com/search?q=Reading+Your+Heart) | N/A |
+| 19 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 20 | [TWELVE YEARS WITH LISA](http://twitter.com/search?q=TWELVE+YEARS+WITH+LISA) | N/A |
+| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 22 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 23 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 24 | [Willow](http://twitter.com/search?q=Willow) | N/A |
+| 25 | [MY YOONMIN](http://twitter.com/search?q=MY+YOONMIN) | N/A |
+| 26 | [Balikatan](http://twitter.com/search?q=Balikatan) | N/A |
+| 27 | [US Embassy](http://twitter.com/search?q=US+Embassy) | N/A |
+| 28 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 29 | [good works and giving](http://twitter.com/search?q=good+works+and+giving) | N/A |
+| 30 | [D-3 TO PARAISO](http://twitter.com/search?q=D-3+TO+PARAISO) | N/A |
+| 31 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
+| 32 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 33 | [sakura moments withkdlex](http://twitter.com/search?q=sakura+moments+withkdlex) | N/A |
+| 34 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 35 | [BIG WINS](http://twitter.com/search?q=BIG+WINS) | N/A |
+| 36 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
+| 37 | [Melbourne](http://twitter.com/search?q=Melbourne) | N/A |
+| 38 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 39 | [Pulse Asia](http://twitter.com/search?q=Pulse+Asia) | N/A |
+| 40 | [votefilay asiasiconicloveteam](http://twitter.com/search?q=votefilay+asiasiconicloveteam) | N/A |
+| 41 | [ochothebullet on wishbus](http://twitter.com/search?q=ochothebullet+on+wishbus) | N/A |
+| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 43 | [EDCA](http://twitter.com/search?q=EDCA) | N/A |
+| 44 | [kagitingan](http://twitter.com/search?q=kagitingan) | N/A |
+| 45 | [board the wishbus with jc](http://twitter.com/search?q=board+the+wishbus+with+jc) | N/A |
+| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 47 | [Kirara](http://twitter.com/search?q=Kirara) | N/A |
+| 48 | [RISE BISEXUAL WARRIOR](http://twitter.com/search?q=RISE+BISEXUAL+WARRIOR) | N/A |
+| 49 | [Tighnari](http://twitter.com/search?q=Tighnari) | N/A |
+| 50 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
 
 
 

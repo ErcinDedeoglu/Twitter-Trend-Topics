@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-04-11 10:18:51 UTC`
+📆 Last Updated: `2023-04-11 11:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Şerefsiz Caner](http://twitter.com/search?q=%c5%9eerefsiz+Caner) | N/A |
-| 2 | [Meb4İle ŞartsızTayin](http://twitter.com/search?q=Meb4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
-| 3 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 4 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
+| 2 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
+| 3 | [Meb4İle ŞartsızTayin](http://twitter.com/search?q=Meb4%c4%b0le+%c5%9earts%c4%b1zTayin) | N/A |
+| 4 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
 | 5 | [#OylarABO5000Kısmiye](http://twitter.com/search?q=%23OylarABO5000K%c4%b1smiye) | N/A |
-| 6 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 7 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 8 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 9 | [Yoksun](http://twitter.com/search?q=Yoksun) | N/A |
-| 10 | [Meteoroloji'den 21](http://twitter.com/search?q=Meteoroloji%27den+21) | N/A |
-| 11 | [Türkiye Yüzyılı](http://twitter.com/search?q=T%c3%bcrkiye+Y%c3%bczy%c4%b1l%c4%b1) | N/A |
-| 12 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 13 | [Yaşasın Urfalılar](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Urfal%c4%b1lar) | N/A |
-| 14 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 15 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
-| 16 | [Ahmet Şık](http://twitter.com/search?q=Ahmet+%c5%9e%c4%b1k) | N/A |
-| 17 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
-| 18 | [Atatürkçü](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bc) | N/A |
-| 19 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 20 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
-| 21 | [Zonguldak](http://twitter.com/search?q=Zonguldak) | N/A |
-| 22 | [Ordu](http://twitter.com/search?q=Ordu) | N/A |
-| 23 | [Merkez](http://twitter.com/search?q=Merkez) | N/A |
-| 24 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 25 | [#StajaÇözümMayısta](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmMay%c4%b1sta) | N/A |
-| 26 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 27 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
-| 28 | [#BenceTarihOlmalı](http://twitter.com/search?q=%23BenceTarihOlmal%c4%b1) | N/A |
-| 29 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 30 | [#ElvedaAKP](http://twitter.com/search?q=%23ElvedaAKP) | N/A |
-| 31 | [#ÜmitKaftancıoğlu](http://twitter.com/search?q=%23%c3%9cmitKaftanc%c4%b1o%c4%9flu) | N/A |
-| 32 | [#Emad2000ler](http://twitter.com/search?q=%23Emad2000ler) | N/A |
-| 33 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
-| 34 | [#TetikçininOğlu](http://twitter.com/search?q=%23Tetik%c3%a7ininO%c4%9flu) | N/A |
-| 35 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
+| 6 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 7 | [Seçim Beyannamesi](http://twitter.com/search?q=Se%c3%a7im+Beyannamesi) | N/A |
+| 8 | [Halit Tomakin](http://twitter.com/search?q=Halit+Tomakin) | N/A |
+| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 10 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 11 | [Meteoroloji'den 21](http://twitter.com/search?q=Meteoroloji%27den+21) | N/A |
+| 12 | [Anayasa Mahkemesi](http://twitter.com/search?q=Anayasa+Mahkemesi) | Anayasa Mahkemesi is the Constitutional Court of Turkey. It is the highest court in the country and is responsible for ensuring that laws passed by the government are in line with the Turkish Constitution. The English translation of Anayasa Mahkemesi is Constitutional Court. |
+| 13 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 14 | [Yoksun](http://twitter.com/search?q=Yoksun) | N/A |
+| 15 | [Yaşasın Urfalılar](http://twitter.com/search?q=Ya%c5%9fas%c4%b1n+Urfal%c4%b1lar) | N/A |
+| 16 | [Ordu'da](http://twitter.com/search?q=Ordu%27da) | N/A |
+| 17 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 18 | [Ünal](http://twitter.com/search?q=%c3%9cnal) | N/A |
+| 19 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
+| 20 | [Atatürkçü](http://twitter.com/search?q=Atat%c3%bcrk%c3%a7%c3%bc) | N/A |
+| 21 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
+| 22 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
+| 23 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 24 | [12 Nisan Çarşamba](http://twitter.com/search?q=12+Nisan+%c3%87ar%c5%9famba) | N/A |
+| 25 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 26 | [ahmet şık](http://twitter.com/search?q=ahmet+%c5%9f%c4%b1k) | N/A |
+| 27 | [Zonguldak](http://twitter.com/search?q=Zonguldak) | N/A |
+| 28 | [Takla](http://twitter.com/search?q=Takla) | N/A |
+| 29 | [OyumSenin BayKemal](http://twitter.com/search?q=OyumSenin+BayKemal) | N/A |
+| 30 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 31 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 32 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
+| 33 | [#TürkiyeYüzyılı](http://twitter.com/search?q=%23T%c3%bcrkiyeY%c3%bczy%c4%b1l%c4%b1) | N/A |
+| 34 | [#StajaÇözümMayısta](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmMay%c4%b1sta) | N/A |
+| 35 | [#ÜmitKaftancıoğlu](http://twitter.com/search?q=%23%c3%9cmitKaftanc%c4%b1o%c4%9flu) | N/A |
 | 36 | [#GenelAf](http://twitter.com/search?q=%23GenelAf) | N/A |
-| 37 | [#ÖSYMBekletme](http://twitter.com/search?q=%23%c3%96SYMBekletme) | N/A |
-| 38 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
-| 39 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
-| 40 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
-| 41 | [#antalyatravesti](http://twitter.com/search?q=%23antalyatravesti) | N/A |
-| 42 | [#InadınaStajInadınaÇıraklık](http://twitter.com/search?q=%23Inad%c4%b1naStajInad%c4%b1na%c3%87%c4%b1rakl%c4%b1k) | N/A |
-| 43 | [#hekts](http://twitter.com/search?q=%23hekts) | N/A |
-| 44 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
-| 45 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
-| 46 | [#kripto](http://twitter.com/search?q=%23kripto) | N/A |
-| 47 | [#petkm](http://twitter.com/search?q=%23petkm) | N/A |
+| 37 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
+| 38 | [#ÖSYMBekletme](http://twitter.com/search?q=%23%c3%96SYMBekletme) | N/A |
+| 39 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 40 | [#Emad2000ler](http://twitter.com/search?q=%23Emad2000ler) | N/A |
+| 41 | [#TetikçininOğlu](http://twitter.com/search?q=%23Tetik%c3%a7ininO%c4%9flu) | N/A |
+| 42 | [#Çanakkale](http://twitter.com/search?q=%23%c3%87anakkale) | N/A |
+| 43 | [#ElvedaAKP](http://twitter.com/search?q=%23ElvedaAKP) | N/A |
+| 44 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 45 | [#ulusalkonutprojesi](http://twitter.com/search?q=%23ulusalkonutprojesi) | N/A |
+| 46 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
+| 47 | [#DoğruAdımlarlaYolaDevam](http://twitter.com/search?q=%23Do%c4%9fruAd%c4%b1mlarlaYolaDevam) | N/A |
+| 48 | [#Şanlıurfa](http://twitter.com/search?q=%23%c5%9eanl%c4%b1urfa) | N/A |
 
 
 

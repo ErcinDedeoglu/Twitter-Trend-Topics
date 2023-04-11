@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-04-11 10:18:07 UTC`
+📆 Last Updated: `2023-04-11 11:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
 | 2 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 3 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
-| 4 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
-| 5 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 6 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
-| 7 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 8 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
+| 3 | [#FancyAMcDonalds](http://twitter.com/search?q=%23FancyAMcDonalds) | N/A |
+| 4 | [millie bobby brown](http://twitter.com/search?q=millie+bobby+brown) | N/A |
+| 5 | [#JuniorDoctorsStrike](http://twitter.com/search?q=%23JuniorDoctorsStrike) | N/A |
+| 6 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 7 | [Paul Ince](http://twitter.com/search?q=Paul+Ince) | Paul Ince is a former English professional footballer who played as a midfielder from 1988 to 2007. He is best known for his time at Manchester United, where he won two Premier League titles and the FA Cup. He also played for Inter Milan, Liverpool, Middlesbrough, Wolverhampton Wanderers and Macclesfield Town. He was the first black British player to captain the England national team. |
+| 8 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
 | 9 | [Tony Danker](http://twitter.com/search?q=Tony+Danker) | N/A |
-| 10 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
-| 11 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
-| 12 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
-| 13 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
-| 14 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 15 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 16 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 17 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
-| 18 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 19 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 20 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 21 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 22 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 23 | [Chip](http://twitter.com/search?q=Chip) | N/A |
-| 24 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 25 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 26 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
-| 27 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 28 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 29 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 30 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
-| 31 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 32 | [#ASongOrMovieForFree](http://twitter.com/search?q=%23ASongOrMovieForFree) | N/A |
-| 33 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 34 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 10 | [Noel Hunt](http://twitter.com/search?q=Noel+Hunt) | N/A |
+| 11 | [Tia Michelle](http://twitter.com/search?q=Tia+Michelle) | N/A |
+| 12 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 13 | [The NHS](http://twitter.com/search?q=The+NHS) | N/A |
+| 14 | [Dreams](http://twitter.com/search?q=Dreams) | N/A |
+| 15 | [Steve Barclay](http://twitter.com/search?q=Steve+Barclay) | N/A |
+| 16 | [Silverstone](http://twitter.com/search?q=Silverstone) | N/A |
+| 17 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 18 | [Daily Quordle 442](http://twitter.com/search?q=Daily+Quordle+442) | N/A |
+| 19 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 20 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 21 | [New Elite](http://twitter.com/search?q=New+Elite) | N/A |
+| 22 | [Morning Steve](http://twitter.com/search?q=Morning+Steve) | N/A |
+| 23 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 24 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 25 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 26 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 27 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 28 | [Goodwin](http://twitter.com/search?q=Goodwin) | Goodwin is a surname of English origin. It is derived from the Old English words "god" and "wine," meaning "friend of God." The name was originally used to denote someone who was pious or devoted to God. |
+| 29 | [#ITV7GrandNational](http://twitter.com/search?q=%23ITV7GrandNational) | N/A |
+| 30 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 31 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 32 | [#WorldParkinsonsDay](http://twitter.com/search?q=%23WorldParkinsonsDay) | N/A |
+| 33 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 34 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
 | 35 | [#PayRestoration](http://twitter.com/search?q=%23PayRestoration) | N/A |
-| 36 | [#nhsstrikes](http://twitter.com/search?q=%23nhsstrikes) | N/A |
+| 36 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
 | 37 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 38 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 39 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 40 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 41 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 42 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 43 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
-| 44 | [#wings](http://twitter.com/search?q=%23wings) | N/A |
-| 45 | [#GMSF](http://twitter.com/search?q=%23GMSF) | N/A |
-| 46 | [#KayBurley](http://twitter.com/search?q=%23KayBurley) | N/A |
+| 38 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 39 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 40 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 41 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 42 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 43 | [#ASongOrMovieForFree](http://twitter.com/search?q=%23ASongOrMovieForFree) | N/A |
+| 44 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
+| 45 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 46 | [#wings](http://twitter.com/search?q=%23wings) | N/A |
 
 
 

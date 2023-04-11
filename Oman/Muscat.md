@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-04-11 10:18:48 UTC`
+📆 Last Updated: `2023-04-11 11:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Oman](</Oman>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#شهر_العطاء](http://twitter.com/search?q=%23%d8%b4%d9%87%d8%b1_%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
-| 2 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 1 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 2 | [#شهر_العطاء](http://twitter.com/search?q=%23%d8%b4%d9%87%d8%b1_%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
 | 3 | [#مكبرات_المساجد_حاجه_وطمانينه](http://twitter.com/search?q=%23%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa_%d8%a7%d9%84%d9%85%d8%b3%d8%a7%d8%ac%d8%af_%d8%ad%d8%a7%d8%ac%d9%87_%d9%88%d8%b7%d9%85%d8%a7%d9%86%d9%8a%d9%86%d9%87) | N/A |
 | 4 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
 | 5 | [#خيرك_مشكور](http://twitter.com/search?q=%23%d8%ae%d9%8a%d8%b1%d9%83_%d9%85%d8%b4%d9%83%d9%88%d8%b1) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [Oman](</Oman>)
 | 11 | [وزير الاوقاف](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%82%d8%a7%d9%81) | N/A |
 | 12 | [صوت الاذان](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d8%b0%d8%a7%d9%86) | N/A |
 | 13 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 14 | [صوت القران](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
-| 15 | [الصوت الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 14 | [الصوت الخارجيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 15 | [صوت القران](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d9%86) | N/A |
 | 16 | [صوت الامام](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
 | 17 | [جابر بن زيد الوقفيه](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a8%d9%86+%d8%b2%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d9%82%d9%81%d9%8a%d9%87) | N/A |
-| 18 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
-| 19 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 20 | [الانماء المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 18 | [الانماء المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 19 | [قدم الاستاذ](http://twitter.com/search?q=%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%a7%d8%b0) | N/A |
+| 20 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
 | 21 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 22 | [محمود الخاطري](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%a7%d8%b7%d8%b1%d9%8a) | N/A |
 | 23 | [نصر بن محمد الطايي](http://twitter.com/search?q=%d9%86%d8%b5%d8%b1+%d8%a8%d9%86+%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b7%d8%a7%d9%8a%d9%8a) | N/A |
 | 24 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 25 | [حقل الطماطم](http://twitter.com/search?q=%d8%ad%d9%82%d9%84+%d8%a7%d9%84%d8%b7%d9%85%d8%a7%d8%b7%d9%85) | N/A |
-| 26 | [احمد بن ماجد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
-| 27 | [المكبرات الصوتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d9%87) | N/A |
-| 28 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 29 | [المجال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 30 | [حصن الحمام](http://twitter.com/search?q=%d8%ad%d8%b5%d9%86+%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85) | N/A |
-| 31 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 32 | [بلاد الاسلام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 33 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |
-| 34 | [المهارات الحياتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
-| 35 | [الايرادات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 36 | [التعلم النشط](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%86%d8%b4%d8%b7) | N/A |
-| 37 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 38 | [سواريز](http://twitter.com/search?q=%d8%b3%d9%88%d8%a7%d8%b1%d9%8a%d8%b2) | N/A |
-| 39 | [بلد مسلم](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 40 | [الحديد المختزل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b2%d9%84) | N/A |
-| 41 | [الدراسه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 42 | [الاخصايي الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
-| 43 | [سماحة الشيخ](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 44 | [بني بوعلي](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a8%d9%88%d8%b9%d9%84%d9%8a) | N/A |
-| 45 | [المعلم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 46 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 47 | [العلوم التطبيقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d9%8a%d9%87) | N/A |
-| 48 | [مازن بن](http://twitter.com/search?q=%d9%85%d8%a7%d8%b2%d9%86+%d8%a8%d9%86) | N/A |
-| 49 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
-| 50 | [نفط عمان](http://twitter.com/search?q=%d9%86%d9%81%d8%b7+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 25 | [المكبرات الصوتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%a8%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b5%d9%88%d8%aa%d9%8a%d9%87) | N/A |
+| 26 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 27 | [حصن الحمام](http://twitter.com/search?q=%d8%ad%d8%b5%d9%86+%d8%a7%d9%84%d8%ad%d9%85%d8%a7%d9%85) | N/A |
+| 28 | [رييس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 29 | [بلاد الاسلام](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 30 | [القبول الموحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d9%85%d9%88%d8%ad%d8%af) | N/A |
+| 31 | [وزارة المالية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d8%a9) | N/A |
+| 32 | [المهارات الحياتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%87%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d8%aa%d9%8a%d9%87) | N/A |
+| 33 | [الايرادات العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d8%af%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 34 | [التعلم النشط](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%86%d8%b4%d8%b7) | N/A |
+| 35 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 36 | [المعلم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 37 | [بلد مسلم](http://twitter.com/search?q=%d8%a8%d9%84%d8%af+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 38 | [الحديد المختزل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%b2%d9%84) | N/A |
+| 39 | [المجال الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 40 | [الدراسه الدوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%87+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 41 | [الاخصايي الاجتماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
+| 42 | [سماحة الشيخ](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7%d8%ad%d8%a9+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 43 | [بني بوعلي](http://twitter.com/search?q=%d8%a8%d9%86%d9%8a+%d8%a8%d9%88%d8%b9%d9%84%d9%8a) | N/A |
+| 44 | [العلوم التطبيقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%88%d9%85+%d8%a7%d9%84%d8%aa%d8%b7%d8%a8%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 45 | [مازن بن](http://twitter.com/search?q=%d9%85%d8%a7%d8%b2%d9%86+%d8%a8%d9%86) | N/A |
+| 46 | [احمد بن ماجد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 47 | [نفط عمان](http://twitter.com/search?q=%d9%86%d9%81%d8%b7+%d8%b9%d9%85%d8%a7%d9%86) | N/A |
+| 48 | [أفريقيا](http://twitter.com/search?q=%d8%a3%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 49 | [طلبه المدرسه](http://twitter.com/search?q=%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 50 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
 
 
 
