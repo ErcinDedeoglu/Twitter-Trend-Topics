@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-12 03:17:36 UTC`
+📆 Last Updated: `2023-04-12 04:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -46,10 +46,10 @@ This is top 50 for Denmark
 | 29 | [neestrup](http://twitter.com/search?q=neestrup) | N/A |
 | 30 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
 | 31 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 32 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
+| 32 | [horsens](http://twitter.com/search?q=horsens) | N/A |
 | 33 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
 | 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 35 | [slimane](http://twitter.com/search?q=slimane) | N/A |
+| 35 | [Slimane](http://twitter.com/search?q=Slimane) | N/A |
 | 36 | [Dane](http://twitter.com/search?q=Dane) | N/A |
 | 37 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -60,8 +60,8 @@ This is top 50 for Denmark
 | 43 | [herning](http://twitter.com/search?q=herning) | N/A |
 | 44 | [troede](http://twitter.com/search?q=troede) | N/A |
 | 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 46 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 48 | [Black](http://twitter.com/search?q=Black) | N/A |
 | 49 | [undskyld](http://twitter.com/search?q=undskyld) | N/A |
 | 50 | [Greve](http://twitter.com/search?q=Greve) | N/A |

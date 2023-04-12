@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-12 03:17:39 UTC`
+📆 Last Updated: `2023-04-12 04:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | N/A |
-| 2 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 1 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 2 | [Pīlēnu](http://twitter.com/search?q=P%c4%abl%c4%93nu) | N/A |
 | 3 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 4 | [Levitu](http://twitter.com/search?q=Levitu) | N/A |
 | 5 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for Latvia
 | 23 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 24 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 25 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
-| 26 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 27 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 28 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 29 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 30 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 26 | [Kariņš](http://twitter.com/search?q=Kari%c5%86%c5%a1) | N/A |
+| 27 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 28 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
+| 29 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 30 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 31 | [nekad](http://twitter.com/search?q=nekad) | N/A |
 | 32 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 33 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | N/A |
 | 34 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
 | 35 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
-| 36 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
-| 37 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 38 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
-| 39 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 40 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 41 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
-| 42 | [daudz](http://twitter.com/search?q=daudz) | N/A |
-| 43 | [Mans](http://twitter.com/search?q=Mans) | N/A |
-| 44 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
-| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 49 | [laikam](http://twitter.com/search?q=laikam) | N/A |
-| 50 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
+| 36 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 37 | [ukrainu](http://twitter.com/search?q=ukrainu) | N/A |
+| 38 | [labāk](http://twitter.com/search?q=lab%c4%81k) | N/A |
+| 39 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 40 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | N/A |
+| 41 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
+| 42 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 43 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 44 | [daudz](http://twitter.com/search?q=daudz) | N/A |
+| 45 | [Mans](http://twitter.com/search?q=Mans) | N/A |
+| 46 | [nevajag](http://twitter.com/search?q=nevajag) | N/A |
+| 47 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-12 03:17:05 UTC`
+📆 Last Updated: `2023-04-12 04:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
 | 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 7 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 7 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 8 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 9 | [Session](http://twitter.com/search?q=Session) | N/A |
 | 10 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
 | 16 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
 | 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 18 | [kapitalismus](http://twitter.com/search?q=kapitalismus) | N/A |
 | 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 20 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
 | 21 | [züge](http://twitter.com/search?q=z%c3%bcge) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 26 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
 | 27 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 28 | [Landes](http://twitter.com/search?q=Landes) | N/A |
-| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 30 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 31 | [Idem](http://twitter.com/search?q=Idem) | N/A |
-| 32 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 29 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 30 | [Idem](http://twitter.com/search?q=Idem) | N/A |
+| 31 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 32 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
 | 33 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 34 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
 | 35 | [Ehre](http://twitter.com/search?q=Ehre) | N/A |
 | 36 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 37 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 38 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 39 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 40 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
-| 41 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 42 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
-| 43 | [ostermontag](http://twitter.com/search?q=ostermontag) | N/A |
-| 44 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 45 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 46 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 47 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 48 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 49 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
-| 50 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 37 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
+| 38 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 39 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 40 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 41 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 42 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 43 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
+| 44 | [ostermontag](http://twitter.com/search?q=ostermontag) | N/A |
+| 45 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 46 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 47 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 48 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 49 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 50 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
 
 
 

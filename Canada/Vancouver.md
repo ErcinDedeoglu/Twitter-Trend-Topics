@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-12 03:16:46 UTC`
+📆 Last Updated: `2023-04-12 04:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 2 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 3 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 4 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 5 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 6 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 7 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 8 | [Kiermaier](http://twitter.com/search?q=Kiermaier) | Kiermaier is a German surname. It is derived from the Old High German words "kirm" (church) and "mar" (famous). The literal translation of the name is "famous in the church". |
-| 9 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 10 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 11 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
-| 12 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
-| 13 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
-| 14 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 15 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 16 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
-| 17 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 18 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 19 | [Kucherov](http://twitter.com/search?q=Kucherov) | Kucherov is a Russian surname. It is derived from the word "kuchka," which means "little group" or "cluster." In English, the name Kucherov can be translated to mean "little group of people." |
-| 20 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
-| 21 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 22 | [Zach Pop](http://twitter.com/search?q=Zach+Pop) | N/A |
-| 23 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 24 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 25 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 26 | [Geddy Lee](http://twitter.com/search?q=Geddy+Lee) | N/A |
-| 27 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 28 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 29 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 30 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 31 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 32 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 33 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 34 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
-| 35 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
-| 36 | [Alejandro Kirk](http://twitter.com/search?q=Alejandro+Kirk) | N/A |
-| 37 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 38 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 39 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
-| 40 | [Skydome](http://twitter.com/search?q=Skydome) | N/A |
-| 41 | [Bolts](http://twitter.com/search?q=Bolts) | N/A |
-| 42 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 43 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 44 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 3 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 4 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 5 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
+| 6 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 7 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
+| 8 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 9 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 10 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
+| 11 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 12 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 13 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 14 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 15 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
+| 16 | [Demelo](http://twitter.com/search?q=Demelo) | N/A |
+| 17 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 18 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 19 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 20 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 21 | [Pionk](http://twitter.com/search?q=Pionk) | N/A |
+| 22 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 23 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 24 | [Petey](http://twitter.com/search?q=Petey) | N/A |
+| 25 | [Zach Pop](http://twitter.com/search?q=Zach+Pop) | N/A |
+| 26 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 27 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 28 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 29 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 30 | [Kucherov](http://twitter.com/search?q=Kucherov) | Kucherov is a Russian surname. It is derived from the word "kuchka," which means "little group" or "cluster." In English, the name Kucherov can be translated to mean "little group of people." |
+| 31 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 32 | [Helle](http://twitter.com/search?q=Helle) | N/A |
+| 33 | [Hirose](http://twitter.com/search?q=Hirose) | N/A |
+| 34 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 35 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 36 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
+| 37 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 38 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 39 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 40 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 41 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 42 | [Alejandro Kirk](http://twitter.com/search?q=Alejandro+Kirk) | N/A |
+| 43 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 44 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
 | 45 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 46 | [Hazel](http://twitter.com/search?q=Hazel) | N/A |
-| 47 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 48 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 49 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 46 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
+| 47 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
+| 48 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 49 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
 
 
 

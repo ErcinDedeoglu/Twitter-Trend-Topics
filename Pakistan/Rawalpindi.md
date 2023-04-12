@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-04-12 03:17:21 UTC`
+📆 Last Updated: `2023-04-12 04:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 17 | [Mansoor](http://twitter.com/search?q=Mansoor) | N/A |
 | 18 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 19 | [golden jubilee](http://twitter.com/search?q=golden+jubilee) | N/A |
-| 20 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
-| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 22 | [O Ali](http://twitter.com/search?q=O+Ali) | N/A |
-| 23 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
-| 24 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
+| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 21 | [O Ali](http://twitter.com/search?q=O+Ali) | N/A |
+| 22 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
+| 23 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
+| 24 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
 | 25 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 26 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
-| 27 | [ajk high court](http://twitter.com/search?q=ajk+high+court) | N/A |
-| 28 | [benazir kafaalat](http://twitter.com/search?q=benazir+kafaalat) | N/A |
+| 26 | [ajk high court](http://twitter.com/search?q=ajk+high+court) | N/A |
+| 27 | [benazir kafaalat](http://twitter.com/search?q=benazir+kafaalat) | N/A |
+| 28 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 29 | [Heavy Industries Taxila](http://twitter.com/search?q=Heavy+Industries+Taxila) | N/A |
-| 30 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
-| 31 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 32 | [Ameer ul Momineen](http://twitter.com/search?q=Ameer+ul+Momineen) | N/A |
-| 33 | [Ameer ul Momineen](http://twitter.com/search?q=Ameer+ul+Momineen) | N/A |
-| 34 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 35 | [hepatitis](http://twitter.com/search?q=hepatitis) | N/A |
-| 36 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 37 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 38 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 39 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 40 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
+| 30 | [Ameer ul Momineen](http://twitter.com/search?q=Ameer+ul+Momineen) | N/A |
+| 31 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 32 | [hepatitis](http://twitter.com/search?q=hepatitis) | N/A |
+| 33 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
+| 34 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 35 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 36 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
+| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 38 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
+| 39 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
+| 40 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 | 41 | [Maula Ali](http://twitter.com/search?q=Maula+Ali) | N/A |
-| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 43 | [Aitzaz Ahsan](http://twitter.com/search?q=Aitzaz+Ahsan) | N/A |
-| 44 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 45 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 46 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 47 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 48 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 49 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 50 | [Khush](http://twitter.com/search?q=Khush) | N/A |
+| 42 | [Aitzaz Ahsan](http://twitter.com/search?q=Aitzaz+Ahsan) | N/A |
+| 43 | [When Allah](http://twitter.com/search?q=When+Allah) | N/A |
+| 44 | [Noor](http://twitter.com/search?q=Noor) | N/A |
+| 45 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 46 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 47 | [Basically](http://twitter.com/search?q=Basically) | N/A |
+| 48 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 49 | [Mere](http://twitter.com/search?q=Mere) | N/A |
+| 50 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
 
 
 

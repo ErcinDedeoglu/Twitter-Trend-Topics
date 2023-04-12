@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-12 03:17:36 UTC`
+📆 Last Updated: `2023-04-12 04:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,8 +32,9 @@ This is top 50 for Belarus
 | 15 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
 | 16 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
 | 17 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 18 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 19 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 18 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 19 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 20 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 
 
 
