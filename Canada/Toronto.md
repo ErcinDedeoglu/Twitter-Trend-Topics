@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-04-12 08:17:43 UTC`
+📆 Last Updated: `2023-04-12 09:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Canada](</Canada>)
 | 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 3 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
 | 4 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 5 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 6 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 7 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
+| 5 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 6 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
+| 7 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
 | 8 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 9 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 10 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 11 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 12 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 9 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 10 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 12 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
 | 13 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 14 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 16 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 19 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 20 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 21 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 22 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 23 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 24 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 25 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
-| 26 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 27 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 28 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
-| 29 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 30 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 31 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
-| 32 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 33 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 34 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 36 | [Knies](http://twitter.com/search?q=Knies) | N/A |
-| 37 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 38 | [Kucherov](http://twitter.com/search?q=Kucherov) | Kucherov is a Russian surname. It is derived from the word "kuchka," which means "little group" or "cluster." In English, the name Kucherov can be translated to mean "little group of people." |
-| 39 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 40 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 41 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
-| 42 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 43 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 44 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
-| 45 | [DeMelo](http://twitter.com/search?q=DeMelo) | N/A |
-| 46 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 47 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 48 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 49 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 50 | [Geddy Lee](http://twitter.com/search?q=Geddy+Lee) | N/A |
+| 15 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 17 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 18 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 19 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 20 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 21 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 22 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 23 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
+| 24 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 25 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
+| 26 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 27 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 28 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 29 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 30 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 31 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 32 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 33 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 34 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 35 | [Kucherov](http://twitter.com/search?q=Kucherov) | Kucherov is a Russian surname. It is derived from the word "kuchka," which means "little group" or "cluster." In English, the name Kucherov can be translated to mean "little group of people." |
+| 36 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 37 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
+| 38 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 39 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 40 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 41 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
+| 42 | [Demelo](http://twitter.com/search?q=Demelo) | N/A |
+| 43 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 44 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 45 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 46 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 47 | [Geddy Lee](http://twitter.com/search?q=Geddy+Lee) | N/A |
+| 48 | ["Charities"](http://twitter.com/search?q=%22Charities%22) | N/A |
+| 49 | [Fred McGriff](http://twitter.com/search?q=Fred+McGriff) | N/A |
+| 50 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
 
 
 

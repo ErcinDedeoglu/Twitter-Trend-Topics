@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-12 08:18:00 UTC`
+📆 Last Updated: `2023-04-12 09:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,45 @@ This is top 50 for [Germany](</Germany>)
 | 6 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
 | 7 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
 | 8 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 9 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 11 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
-| 12 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
-| 13 | [Frohe Ostern](http://twitter.com/search?q=Frohe+Ostern) | N/A |
-| 14 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 9 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 10 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
+| 11 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
+| 12 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 13 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 14 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
 | 15 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 16 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
-| 17 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 18 | [Gassen](http://twitter.com/search?q=Gassen) | N/A |
-| 19 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 17 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 18 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 19 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
 | 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 22 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 23 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
+| 21 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
+| 22 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 23 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 24 | [Visagistin](http://twitter.com/search?q=Visagistin) | N/A |
-| 25 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 26 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 26 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
 | 27 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 28 | [Entfremdung des Menschen](http://twitter.com/search?q=Entfremdung+des+Menschen) | N/A |
-| 29 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 30 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 31 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
-| 32 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 33 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 34 | [Weltklasse](http://twitter.com/search?q=Weltklasse) | N/A |
-| 35 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 38 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 39 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 40 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 41 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 42 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
-| 43 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
-| 44 | [Guten Morgen Ingo](http://twitter.com/search?q=Guten+Morgen+Ingo) | N/A |
-| 45 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
-| 46 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 47 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 48 | [Trainerwechsel](http://twitter.com/search?q=Trainerwechsel) | N/A |
+| 29 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 30 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 31 | [Weltklasse](http://twitter.com/search?q=Weltklasse) | N/A |
+| 32 | [Dieter](http://twitter.com/search?q=Dieter) | N/A |
+| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 34 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
+| 35 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 36 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 37 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 40 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 41 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 42 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 43 | [Kohle](http://twitter.com/search?q=Kohle) | N/A |
+| 44 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 45 | [Brennstäbe](http://twitter.com/search?q=Brennst%c3%a4be) | N/A |
+| 46 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
+| 47 | [Trainerwechsel](http://twitter.com/search?q=Trainerwechsel) | N/A |
 
 
 

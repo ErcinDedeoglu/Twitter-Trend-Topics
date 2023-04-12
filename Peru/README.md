@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-12 08:18:49 UTC`
+📆 Last Updated: `2023-04-12 09:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,7 +37,7 @@ This is top 50 for Peru
 | 20 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 21 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
 | 22 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 23 | [Camila Ganoza](http://twitter.com/search?q=Camila+Ganoza) | N/A |
+| 23 | [camila ganoza](http://twitter.com/search?q=camila+ganoza) | N/A |
 | 24 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
 | 25 | [Millie](http://twitter.com/search?q=Millie) | N/A |
 | 26 | [job 17](http://twitter.com/search?q=job+17) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Peru
 | 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 44 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 45 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 46 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
-| 47 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
-| 48 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
-| 49 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 50 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 46 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
+| 47 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
+| 48 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 49 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
+| 50 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
 
 
 

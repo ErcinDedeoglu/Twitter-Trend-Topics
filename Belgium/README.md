@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-12 08:18:43 UTC`
+📆 Last Updated: `2023-04-12 09:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Belgium
 | 3 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 4 | [Brugge](http://twitter.com/search?q=Brugge) | N/A |
 | 5 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 6 | [#LiefdeVoorMuziek](http://twitter.com/search?q=%23LiefdeVoorMuziek) | N/A |
-| 7 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
-| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 9 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 10 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 11 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 12 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 15 | [#terzaketv](http://twitter.com/search?q=%23terzaketv) | N/A |
-| 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 18 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 19 | [Goeiemorgen](http://twitter.com/search?q=Goeiemorgen) | N/A |
-| 20 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 21 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 22 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 23 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 6 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
+| 7 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 8 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 9 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 11 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 12 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
+| 13 | [#terzaketv](http://twitter.com/search?q=%23terzaketv) | N/A |
+| 14 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 16 | [#LiefdeVoorMuziek](http://twitter.com/search?q=%23LiefdeVoorMuziek) | N/A |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 19 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 20 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 21 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 22 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 23 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 24 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 25 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 26 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
-| 27 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 28 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 26 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 27 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
+| 28 | [Goedemorgen Anita](http://twitter.com/search?q=Goedemorgen+Anita) | N/A |
 | 29 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 30 | [Bart De Wever](http://twitter.com/search?q=Bart+De+Wever) | N/A |
-| 31 | [tielt-winge](http://twitter.com/search?q=tielt-winge) | N/A |
-| 32 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 33 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 34 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 30 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 31 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 32 | [tielt-winge](http://twitter.com/search?q=tielt-winge) | N/A |
+| 33 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 34 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 35 | [Gims](http://twitter.com/search?q=Gims) | N/A |
 | 36 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 37 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 38 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 39 | [Ongelooflijk](http://twitter.com/search?q=Ongelooflijk) | N/A |
-| 40 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 41 | [Commission](http://twitter.com/search?q=Commission) | N/A |
-| 42 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 43 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 44 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 45 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
-| 46 | [Brusselse](http://twitter.com/search?q=Brusselse) | N/A |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 48 | [Dante Vanzeir](http://twitter.com/search?q=Dante+Vanzeir) | N/A |
-| 49 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 50 | [NMBS](http://twitter.com/search?q=NMBS) | N/A |
+| 37 | [Afrikaanse](http://twitter.com/search?q=Afrikaanse) | N/A |
+| 38 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 39 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 40 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 41 | [Ongelooflijk](http://twitter.com/search?q=Ongelooflijk) | N/A |
+| 42 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 43 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 44 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 45 | [Dante Vanzeir](http://twitter.com/search?q=Dante+Vanzeir) | N/A |
+| 46 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 47 | [Brabantse Pijl](http://twitter.com/search?q=Brabantse+Pijl) | N/A |
+| 48 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 50 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
 
 
 

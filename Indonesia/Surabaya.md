@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-04-12 08:18:07 UTC`
+📆 Last Updated: `2023-04-12 09:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
+| 1 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
 | 2 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
-| 3 | [#UrusanNegaraPrabowoAja](http://twitter.com/search?q=%23UrusanNegaraPrabowoAja) | N/A |
-| 4 | [#RestartForChange](http://twitter.com/search?q=%23RestartForChange) | N/A |
-| 5 | [Jakarta Butuh Cuti](http://twitter.com/search?q=Jakarta+Butuh+Cuti) | N/A |
-| 6 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
-| 7 | [UrusanGue Kerenin Indonesia](http://twitter.com/search?q=UrusanGue+Kerenin+Indonesia) | N/A |
-| 8 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 9 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
-| 10 | [#GanjarBawaPerubahan](http://twitter.com/search?q=%23GanjarBawaPerubahan) | N/A |
-| 11 | [Hukuman](http://twitter.com/search?q=Hukuman) | N/A |
-| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 14 | [Pengadilan Tinggi DKI Jakarta](http://twitter.com/search?q=Pengadilan+Tinggi+DKI+Jakarta) | N/A |
-| 15 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 16 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 17 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 18 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
-| 19 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 20 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 21 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 22 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
-| 23 | [Miskin](http://twitter.com/search?q=Miskin) | N/A |
-| 24 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 25 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 26 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
-| 27 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 28 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 29 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
-| 30 | [Tabungan](http://twitter.com/search?q=Tabungan) | N/A |
-| 31 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
-| 32 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
-| 33 | [#JeffSatur1MillionSub](http://twitter.com/search?q=%23JeffSatur1MillionSub) | N/A |
-| 34 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
-| 35 | [#OOLIinJKT](http://twitter.com/search?q=%23OOLIinJKT) | N/A |
-| 36 | [#TAEYANG](http://twitter.com/search?q=%23TAEYANG) | #TAEYANG is a hashtag used to refer to the South Korean singer and songwriter, Taeyang. It is often used on social media platforms such as Twitter and Instagram to share news, photos, and videos related to the artist. The English translation of #TAEYANG is "Taeyang". |
-| 37 | [#ENHYPEN5thComeback](http://twitter.com/search?q=%23ENHYPEN5thComeback) | N/A |
-| 38 | [#PapuaIndonesia](http://twitter.com/search?q=%23PapuaIndonesia) | N/A |
-| 39 | [#KulinerAntiRibet](http://twitter.com/search?q=%23KulinerAntiRibet) | N/A |
-| 40 | [#65MovieID](http://twitter.com/search?q=%2365MovieID) | N/A |
-| 41 | [#LISA](http://twitter.com/search?q=%23LISA) | N/A |
-| 42 | [#WOODZ](http://twitter.com/search?q=%23WOODZ) | N/A |
-| 43 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
-| 44 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 45 | [#HappyRamadan](http://twitter.com/search?q=%23HappyRamadan) | N/A |
-| 46 | [#NICETOMIXXYOUinJKT](http://twitter.com/search?q=%23NICETOMIXXYOUinJKT) | N/A |
-| 47 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 48 | [#kemenkumhamri](http://twitter.com/search?q=%23kemenkumhamri) | N/A |
-| 49 | [#BeyondinRamadan](http://twitter.com/search?q=%23BeyondinRamadan) | N/A |
-| 50 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
+| 3 | [#AsuransiWasit](http://twitter.com/search?q=%23AsuransiWasit) | N/A |
+| 4 | [Kualitas Pengadil Lapangan](http://twitter.com/search?q=Kualitas+Pengadil+Lapangan) | N/A |
+| 5 | [#RestartForChange](http://twitter.com/search?q=%23RestartForChange) | N/A |
+| 6 | [Jakarta Butuh Cuti](http://twitter.com/search?q=Jakarta+Butuh+Cuti) | N/A |
+| 7 | [#UrusanNegaraPrabowoAja](http://twitter.com/search?q=%23UrusanNegaraPrabowoAja) | N/A |
+| 8 | [UrusanGue Kerenin Indonesia](http://twitter.com/search?q=UrusanGue+Kerenin+Indonesia) | N/A |
+| 9 | [Tisha](http://twitter.com/search?q=Tisha) | N/A |
+| 10 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 11 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
+| 12 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
+| 13 | [Liptint](http://twitter.com/search?q=Liptint) | N/A |
+| 14 | [RICKY AT MCOUNTDOWN](http://twitter.com/search?q=RICKY+AT+MCOUNTDOWN) | N/A |
+| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 16 | [Hukuman](http://twitter.com/search?q=Hukuman) | N/A |
+| 17 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 18 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
+| 19 | [Pengadilan Tinggi DKI Jakarta](http://twitter.com/search?q=Pengadilan+Tinggi+DKI+Jakarta) | N/A |
+| 20 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 21 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 22 | [Redmi Note 12](http://twitter.com/search?q=Redmi+Note+12) | N/A |
+| 23 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 24 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 25 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 26 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 27 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 28 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
+| 29 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
+| 30 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
+| 31 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 32 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
+| 33 | [Idul Fitri](http://twitter.com/search?q=Idul+Fitri) | N/A |
+| 34 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 35 | [#우리의_기적_리키](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac%ec%9d%98_%ea%b8%b0%ec%a0%81_%eb%a6%ac%ed%82%a4) | N/A |
+| 36 | [#私達の_奇跡_リッキー](http://twitter.com/search?q=%23%e7%a7%81%e9%81%94%e3%81%ae_%e5%a5%87%e8%b7%a1_%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
+| 37 | [#OUR_MIRACLE_RICKY](http://twitter.com/search?q=%23OUR_MIRACLE_RICKY) | N/A |
+| 38 | [#100xGem](http://twitter.com/search?q=%23100xGem) | N/A |
+| 39 | [#BuildOnBase](http://twitter.com/search?q=%23BuildOnBase) | N/A |
+| 40 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
+| 41 | [#YumYum](http://twitter.com/search?q=%23YumYum) | N/A |
+| 42 | [#MemeCoin](http://twitter.com/search?q=%23MemeCoin) | N/A |
+| 43 | [#JeffSatur1MillionSub](http://twitter.com/search?q=%23JeffSatur1MillionSub) | N/A |
+| 44 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 45 | [#OOLIinJKT](http://twitter.com/search?q=%23OOLIinJKT) | N/A |
+| 46 | [#KulinerAntiRibet](http://twitter.com/search?q=%23KulinerAntiRibet) | N/A |
+| 47 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
+| 48 | [#WOODZ](http://twitter.com/search?q=%23WOODZ) | N/A |
+| 49 | [#LISA](http://twitter.com/search?q=%23LISA) | N/A |
+| 50 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 
 
 

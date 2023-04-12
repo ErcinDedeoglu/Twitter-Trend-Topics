@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-12 08:18:51 UTC`
+📆 Last Updated: `2023-04-12 09:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 4 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 6 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 7 | [461 X](http://twitter.com/search?q=461+X) | N/A |
-| 8 | [#DeCampingConLidl](http://twitter.com/search?q=%23DeCampingConLidl) | N/A |
-| 9 | [#Solos11A](http://twitter.com/search?q=%23Solos11A) | N/A |
-| 10 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 12 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 13 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 14 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 15 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
-| 16 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 17 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 18 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 19 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 20 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 21 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 22 | [Batet](http://twitter.com/search?q=Batet) | N/A |
-| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 24 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 25 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 29 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 30 | [Lc 24](http://twitter.com/search?q=Lc+24) | N/A |
-| 31 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
-| 32 | [Daniel Sanabria](http://twitter.com/search?q=Daniel+Sanabria) | N/A |
-| 33 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 34 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 35 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 36 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 37 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 38 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 39 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 40 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 41 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 42 | [De Prada](http://twitter.com/search?q=De+Prada) | N/A |
-| 43 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 44 | [Govern](http://twitter.com/search?q=Govern) | N/A |
-| 45 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 46 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 47 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 48 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 49 | [Yuri Gagarin](http://twitter.com/search?q=Yuri+Gagarin) | N/A |
-| 50 | [American Psycho](http://twitter.com/search?q=American+Psycho) | N/A |
+| 1 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 2 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 3 | [#Solos12A](http://twitter.com/search?q=%23Solos12A) | N/A |
+| 4 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 5 | [461 X](http://twitter.com/search?q=461+X) | N/A |
+| 6 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 7 | [Batet](http://twitter.com/search?q=Batet) | N/A |
+| 8 | [#AtenciónPrimaria](http://twitter.com/search?q=%23Atenci%c3%b3nPrimaria) | N/A |
+| 9 | [#CrisPorta12A](http://twitter.com/search?q=%23CrisPorta12A) | N/A |
+| 10 | [#APOYOROCIO12A](http://twitter.com/search?q=%23APOYOROCIO12A) | N/A |
+| 11 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 12 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 14 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
+| 15 | [Govern](http://twitter.com/search?q=Govern) | N/A |
+| 16 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 17 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 18 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 19 | [Buenísimos](http://twitter.com/search?q=Buen%c3%adsimos) | N/A |
+| 20 | [Logroño](http://twitter.com/search?q=Logro%c3%b1o) | N/A |
+| 21 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 22 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 23 | [Jueves 13](http://twitter.com/search?q=Jueves+13) | N/A |
+| 24 | [American Psycho](http://twitter.com/search?q=American+Psycho) | N/A |
+| 25 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 26 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 27 | [Agencia Tributaria](http://twitter.com/search?q=Agencia+Tributaria) | N/A |
+| 28 | [Monedero](http://twitter.com/search?q=Monedero) | N/A |
+| 29 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 30 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 31 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 32 | [La España](http://twitter.com/search?q=La+Espa%c3%b1a) | N/A |
+| 33 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 34 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 35 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
+| 36 | [#YoMeRebelo12A](http://twitter.com/search?q=%23YoMeRebelo12A) | N/A |
+| 37 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
+| 38 | [#BuenosDías](http://twitter.com/search?q=%23BuenosD%c3%adas) | N/A |
+| 39 | [#TalDiaComoHoy](http://twitter.com/search?q=%23TalDiaComoHoy) | N/A |
+| 40 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 41 | [#SolosPortaYFrigenti](http://twitter.com/search?q=%23SolosPortaYFrigenti) | N/A |
+| 42 | [#ciberseguridad](http://twitter.com/search?q=%23ciberseguridad) | N/A |
+| 43 | [#formación](http://twitter.com/search?q=%23formaci%c3%b3n) | N/A |
 
 
 

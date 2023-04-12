@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-04-12 08:18:21 UTC`
+📆 Last Updated: `2023-04-12 09:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [الطبقه الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
-| 2 | [#عيديه_كارديال](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d9%87_%d9%83%d8%a7%d8%b1%d8%af%d9%8a%d8%a7%d9%84) | N/A |
-| 3 | [#القبض_علي_سنافي_مطلب](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a8%d8%b6_%d8%b9%d9%84%d9%8a_%d8%b3%d9%86%d8%a7%d9%81%d9%8a_%d9%85%d8%b7%d9%84%d8%a8) | N/A |
-| 4 | [#عبدالسلام_الحارثي](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85_%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%ab%d9%8a) | N/A |
-| 5 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 6 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 7 | [#تعاونوا_علي_البر](http://twitter.com/search?q=%23%d8%aa%d8%b9%d8%a7%d9%88%d9%86%d9%88%d8%a7_%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d8%a8%d8%b1) | N/A |
-| 8 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
-| 9 | [عيسي المحياني](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
-| 10 | [مشروع الرياض الخضراء](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1) | N/A |
-| 11 | [ممفيس](http://twitter.com/search?q=%d9%85%d9%85%d9%81%d9%8a%d8%b3) | N/A |
-| 12 | [21 رمضان](http://twitter.com/search?q=21+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 13 | [٢١ رمضان](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 14 | [سير العمليه التعليميه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 15 | [علي صوت المطر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | "علي صوت المطر" is an Arabic phrase that translates to "to the sound of the rain". It is often used as a metaphor for something that is calming and peaceful. |
-| 16 | [توفي ابو](http://twitter.com/search?q=%d8%aa%d9%88%d9%81%d9%8a+%d8%a7%d8%a8%d9%88) | N/A |
-| 17 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 18 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 19 | [تركي الميزاني](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
-| 20 | [الطبقه المخمليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%ae%d9%85%d9%84%d9%8a%d9%87) | N/A |
-| 21 | [الطبقه المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
-| 22 | [ابو نايف](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%86%d8%a7%d9%8a%d9%81) | N/A |
-| 23 | [#امطار_المدينه_المنوره](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d9%87_%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d9%87) | N/A |
-| 24 | [#ليله_21](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_21) | N/A |
-| 25 | [#مسابقه_المربع_نت21](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa21) | N/A |
-| 26 | [#العشر_lلاواخر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_l%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 27 | [#مسابقه_طرق_الرياض21](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b621) | N/A |
-| 28 | [#ابشري_ياسديم](http://twitter.com/search?q=%23%d8%a7%d8%a8%d8%b4%d8%b1%d9%8a_%d9%8a%d8%a7%d8%b3%d8%af%d9%8a%d9%85) | N/A |
-| 29 | [#فريق_مشاري](http://twitter.com/search?q=%23%d9%81%d8%b1%d9%8a%d9%82_%d9%85%d8%b4%d8%a7%d8%b1%d9%8a) | N/A |
-| 30 | [#فوازير_غازي_الذيابي](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a) | N/A |
-| 31 | [#منصه_مدرستي](http://twitter.com/search?q=%23%d9%85%d9%86%d8%b5%d9%87_%d9%85%d8%af%d8%b1%d8%b3%d8%aa%d9%8a) | N/A |
-| 32 | [#احمد_رحيم](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
-| 33 | [#محمد_بن_سلمان](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 34 | [#تركي_بن_طلال](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a_%d8%a8%d9%86_%d8%b7%d9%84%d8%a7%d9%84) | N/A |
-| 35 | [#عبدالعزيز_بن_فهد_الحارثي](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2_%d8%a8%d9%86_%d9%81%d9%87%d8%af_%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%ab%d9%8a) | N/A |
-| 36 | [#صباح_المجد](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d9%85%d8%ac%d8%af) | N/A |
-| 37 | [#رمضان_مع_ابوفهد١٠](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af%d9%a1%d9%a0) | N/A |
-| 38 | [#مشاري_العتيبي](http://twitter.com/search?q=%23%d9%85%d8%b4%d8%a7%d8%b1%d9%8a_%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | N/A |
-| 39 | [#الهلال_النصر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 40 | [#تعليم_الخرج](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d8%ae%d8%b1%d8%ac) | N/A |
-| 41 | [#مراحل_تركي_الميزاني](http://twitter.com/search?q=%23%d9%85%d8%b1%d8%a7%d8%ad%d9%84_%d8%aa%d8%b1%d9%83%d9%8a_%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
-| 42 | [#مسابقه_السلامه_المروريه20](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8720) | N/A |
-| 43 | [#خلف_القحطاني_بالمجد](http://twitter.com/search?q=%23%d8%ae%d9%84%d9%81_%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a_%d8%a8%d8%a7%d9%84%d9%85%d8%ac%d8%af) | N/A |
-| 44 | [#فارس_البشيري](http://twitter.com/search?q=%23%d9%81%d8%a7%d8%b1%d8%b3_%d8%a7%d9%84%d8%a8%d8%b4%d9%8a%d8%b1%d9%8a) | N/A |
-| 45 | [#المطانيخ20](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d9%86%d9%8a%d8%ae20) | N/A |
-| 46 | [#حايل_الان](http://twitter.com/search?q=%23%d8%ad%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
-| 47 | [#الروشن20](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8620) | N/A |
+| 1 | [سير العمليه التعليميه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 2 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 3 | [#عيديه_كارديال](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d9%87_%d9%83%d8%a7%d8%b1%d8%af%d9%8a%d8%a7%d9%84) | N/A |
+| 4 | [#ليله_21](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_21) | N/A |
+| 5 | [#رمضان_مع_ابوفهد10](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af10) | N/A |
+| 6 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
+| 7 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 8 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 9 | [#عبدالسلام_الحارثي](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85_%d8%a7%d9%84%d8%ad%d8%a7%d8%b1%d8%ab%d9%8a) | N/A |
+| 10 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 11 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 12 | [الطبقه الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
+| 13 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 14 | [٢١ رمضان](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 15 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
+| 16 | [الطبقه الغنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d9%86%d9%8a%d9%87) | N/A |
+| 17 | [هالاند الثالث](http://twitter.com/search?q=%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 18 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
+| 19 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 20 | [21 رمضان](http://twitter.com/search?q=21+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 21 | [العشر المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 22 | [عيسي المحياني](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
+| 23 | [الطبقه المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
+| 24 | [القدم الضعيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b6%d8%b9%d9%8a%d9%81%d9%87) | N/A |
+| 25 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 26 | [ممفيس](http://twitter.com/search?q=%d9%85%d9%85%d9%81%d9%8a%d8%b3) | N/A |
+| 27 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 28 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 29 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
+| 30 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
+| 31 | [عبدالله السبع](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
+| 32 | [غنابري](http://twitter.com/search?q=%d8%ba%d9%86%d8%a7%d8%a8%d8%b1%d9%8a) | N/A |
+| 33 | [الليالي المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 34 | [بيت الهدف](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
+| 35 | [فابيو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
+| 36 | [العشر الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
+| 37 | [سعيد السريحي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%ad%d9%8a) | N/A |
+| 38 | [مديري المشتريات](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
+| 39 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 40 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
+| 41 | [ليال عشر](http://twitter.com/search?q=%d9%84%d9%8a%d8%a7%d9%84+%d8%b9%d8%b4%d8%b1) | N/A |
+| 42 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 43 | [الطبقه المخمليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%ae%d9%85%d9%84%d9%8a%d9%87) | N/A |
+| 44 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 45 | [روسو](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%88) | N/A |
+| 46 | [توفي ابو](http://twitter.com/search?q=%d8%aa%d9%88%d9%81%d9%8a+%d8%a7%d8%a8%d9%88) | N/A |
+| 47 | [الاتحاد الافضل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%81%d8%b6%d9%84) | N/A |
+| 48 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 49 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
+| 50 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-12 08:18:49 UTC`
+📆 Last Updated: `2023-04-12 09:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,12 +16,12 @@ This is top 50 for Panama
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 4 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
 | 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 6 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
-| 7 | [#vamoscontodoPRD](http://twitter.com/search?q=%23vamoscontodoPRD) | N/A |
+| 7 | [#vamoscontodoprd](http://twitter.com/search?q=%23vamoscontodoprd) | N/A |
 | 8 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 | 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 10 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |

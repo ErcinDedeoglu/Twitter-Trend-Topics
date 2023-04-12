@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-12 08:18:03 UTC`
+📆 Last Updated: `2023-04-12 09:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [LAKS](http://twitter.com/search?q=LAKS) | N/A |
 | 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 3 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 4 | [#woke](http://twitter.com/search?q=%23woke) | N/A |
-| 5 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 6 | [#sperma](http://twitter.com/search?q=%23sperma) | N/A |
+| 4 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 5 | [#woke](http://twitter.com/search?q=%23woke) | N/A |
+| 6 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 7 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
-| 8 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 9 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 10 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 9 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 10 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 12 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
 | 13 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
 | 14 | [Taalpolitie](http://twitter.com/search?q=Taalpolitie) | N/A |
-| 15 | [Marjon](http://twitter.com/search?q=Marjon) | N/A |
-| 16 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 17 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 15 | [Joseph Oosting](http://twitter.com/search?q=Joseph+Oosting) | N/A |
+| 16 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 17 | [FC Groningen](http://twitter.com/search?q=FC+Groningen) | N/A |
+| 18 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
 | 19 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 20 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 21 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
-| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 23 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 24 | [2e Paasdag](http://twitter.com/search?q=2e+Paasdag) | N/A |
-| 25 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 26 | [op de poeh-pathologietest](http://twitter.com/search?q=op+de+poeh-pathologietest) | N/A |
-| 27 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 28 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 29 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 30 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
-| 31 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 32 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
-| 33 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 34 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 35 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 36 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
-| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 38 | [Oud-minister van Landbouw](http://twitter.com/search?q=Oud-minister+van+Landbouw) | N/A |
-| 39 | [Knettergek](http://twitter.com/search?q=Knettergek) | N/A |
-| 40 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
-| 41 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 42 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 21 | [Marjon](http://twitter.com/search?q=Marjon) | N/A |
+| 22 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
+| 23 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 24 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
+| 25 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 26 | [FC Twente](http://twitter.com/search?q=FC+Twente) | N/A |
+| 27 | [2e Paasdag](http://twitter.com/search?q=2e+Paasdag) | N/A |
+| 28 | [Jongens](http://twitter.com/search?q=Jongens) | N/A |
+| 29 | [op de poeh-pathologietest](http://twitter.com/search?q=op+de+poeh-pathologietest) | N/A |
+| 30 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 31 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 32 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
+| 33 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 34 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 35 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 36 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
+| 37 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
+| 38 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
+| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 40 | [Oud-minister van Landbouw](http://twitter.com/search?q=Oud-minister+van+Landbouw) | N/A |
+| 41 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 42 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
 | 43 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 44 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
-| 45 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
-| 46 | [Succes](http://twitter.com/search?q=Succes) | N/A |
-| 47 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
-| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 49 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
-| 50 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 44 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
+| 45 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 46 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
+| 47 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 48 | [Vrouwen](http://twitter.com/search?q=Vrouwen) | N/A |
+| 49 | [Brussels](http://twitter.com/search?q=Brussels) | N/A |
+| 50 | [Huub Oosterhuis](http://twitter.com/search?q=Huub+Oosterhuis) | N/A |
 
 
 

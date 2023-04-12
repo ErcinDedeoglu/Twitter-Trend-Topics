@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-12 08:17:52 UTC`
+📆 Last Updated: `2023-04-12 09:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,10 +33,10 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 16 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
 | 17 | [Cuero](http://twitter.com/search?q=Cuero) | N/A |
 | 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [Bermúdez](http://twitter.com/search?q=Berm%c3%badez) | N/A |
+| 19 | [bermúdez](http://twitter.com/search?q=berm%c3%badez) | N/A |
 | 20 | [#LassoFuera](http://twitter.com/search?q=%23LassoFuera) | N/A |
-| 21 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
-| 22 | [Olímpico Atahualpa](http://twitter.com/search?q=Ol%c3%admpico+Atahualpa) | N/A |
+| 21 | [cumbayá](http://twitter.com/search?q=cumbay%c3%a1) | N/A |
+| 22 | [olímpico atahualpa](http://twitter.com/search?q=ol%c3%admpico+atahualpa) | N/A |
 | 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 24 | [Obando](http://twitter.com/search?q=Obando) | N/A |
 | 25 | [Senescyt](http://twitter.com/search?q=Senescyt) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 30 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 31 | [Gabita](http://twitter.com/search?q=Gabita) | N/A |
 | 32 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 33 | [Collahuazo](http://twitter.com/search?q=Collahuazo) | N/A |
+| 33 | [collahuazo](http://twitter.com/search?q=collahuazo) | N/A |
 | 34 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 35 | [El City](http://twitter.com/search?q=El+City) | N/A |
 | 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 37 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 38 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 39 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 40 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
-| 41 | [vamos ecuador](http://twitter.com/search?q=vamos+ecuador) | N/A |
-| 42 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 43 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 44 | [Davis](http://twitter.com/search?q=Davis) | N/A |
-| 45 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
-| 46 | [Boscán](http://twitter.com/search?q=Bosc%c3%a1n) | N/A |
-| 47 | [Puerto](http://twitter.com/search?q=Puerto) | N/A |
-| 48 | [janner corozo](http://twitter.com/search?q=janner+corozo) | N/A |
-| 49 | [Kendry](http://twitter.com/search?q=Kendry) | N/A |
-| 50 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 40 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 41 | [Cortez](http://twitter.com/search?q=Cortez) | N/A |
+| 42 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 43 | [Davis](http://twitter.com/search?q=Davis) | N/A |
+| 44 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 45 | [boscán](http://twitter.com/search?q=bosc%c3%a1n) | N/A |
+| 46 | [Puerto](http://twitter.com/search?q=Puerto) | N/A |
+| 47 | [janner corozo](http://twitter.com/search?q=janner+corozo) | N/A |
+| 48 | [Kendry](http://twitter.com/search?q=Kendry) | N/A |
+| 49 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 50 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
 
 
 

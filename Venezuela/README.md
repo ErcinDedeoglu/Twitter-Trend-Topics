@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-12 08:18:52 UTC`
+📆 Last Updated: `2023-04-12 09:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,41 +28,41 @@ This is top 50 for Venezuela
 | 11 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 12 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
 | 13 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 14 | [Luis Arráez](http://twitter.com/search?q=Luis+Arr%c3%a1ez) | N/A |
-| 15 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 16 | [Hace 21](http://twitter.com/search?q=Hace+21) | N/A |
-| 17 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 14 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 15 | [Hace 21](http://twitter.com/search?q=Hace+21) | N/A |
+| 16 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 17 | [batalla de san félix](http://twitter.com/search?q=batalla+de+san+f%c3%a9lix) | N/A |
 | 18 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 19 | [batalla de san félix](http://twitter.com/search?q=batalla+de+san+f%c3%a9lix) | N/A |
-| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Zelle](http://twitter.com/search?q=Zelle) | N/A |
-| 23 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [feliz martes](http://twitter.com/search?q=feliz+martes) | N/A |
-| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 27 | [El 11](http://twitter.com/search?q=El+11) | N/A |
-| 28 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 29 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 30 | [Mamón](http://twitter.com/search?q=Mam%c3%b3n) | N/A |
-| 31 | [Puente Llaguno](http://twitter.com/search?q=Puente+Llaguno) | N/A |
-| 32 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 33 | [Daniel Sarcos](http://twitter.com/search?q=Daniel+Sarcos) | N/A |
-| 34 | [Reserve](http://twitter.com/search?q=Reserve) | N/A |
-| 35 | [Pido Lido](http://twitter.com/search?q=Pido+Lido) | N/A |
-| 36 | [provincia de guayana](http://twitter.com/search?q=provincia+de+guayana) | N/A |
-| 37 | [Baduel](http://twitter.com/search?q=Baduel) | N/A |
-| 38 | [campaña de guayana](http://twitter.com/search?q=campa%c3%b1a+de+guayana) | N/A |
-| 39 | [Ciudad Tiuna](http://twitter.com/search?q=Ciudad+Tiuna) | N/A |
+| 19 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 21 | [Zelle](http://twitter.com/search?q=Zelle) | N/A |
+| 22 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
+| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 24 | [feliz martes](http://twitter.com/search?q=feliz+martes) | N/A |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 26 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 27 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 28 | [Mamón](http://twitter.com/search?q=Mam%c3%b3n) | N/A |
+| 29 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 30 | [Daniel Sarcos](http://twitter.com/search?q=Daniel+Sarcos) | N/A |
+| 31 | [Reserve](http://twitter.com/search?q=Reserve) | N/A |
+| 32 | [Pido Lido](http://twitter.com/search?q=Pido+Lido) | N/A |
+| 33 | [puente Llaguno](http://twitter.com/search?q=puente+Llaguno) | N/A |
+| 34 | [El 11](http://twitter.com/search?q=El+11) | N/A |
+| 35 | [provincia de guayana](http://twitter.com/search?q=provincia+de+guayana) | N/A |
+| 36 | [Baduel](http://twitter.com/search?q=Baduel) | N/A |
+| 37 | [campaña de guayana](http://twitter.com/search?q=campa%c3%b1a+de+guayana) | N/A |
+| 38 | [Ciudad Tiuna](http://twitter.com/search?q=Ciudad+Tiuna) | N/A |
+| 39 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
 | 40 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
-| 41 | [Raquel Castaño](http://twitter.com/search?q=Raquel+Casta%c3%b1o) | N/A |
+| 41 | [raquel castaño](http://twitter.com/search?q=raquel+casta%c3%b1o) | N/A |
 | 42 | [PROHIBIDO OLVIDAR](http://twitter.com/search?q=PROHIBIDO+OLVIDAR) | N/A |
-| 43 | [Lavadora](http://twitter.com/search?q=Lavadora) | N/A |
-| 44 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 45 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 46 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 47 | [lupita ferrer](http://twitter.com/search?q=lupita+ferrer) | N/A |
-| 48 | [Colinas de Bello Monte](http://twitter.com/search?q=Colinas+de+Bello+Monte) | N/A |
+| 43 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 44 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 45 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 46 | [lupita ferrer](http://twitter.com/search?q=lupita+ferrer) | N/A |
+| 47 | [Colinas de Bello Monte](http://twitter.com/search?q=Colinas+de+Bello+Monte) | N/A |
+| 48 | [Conde](http://twitter.com/search?q=Conde) | N/A |
 | 49 | [Pablo López](http://twitter.com/search?q=Pablo+L%c3%b3pez) | N/A |
 | 50 | [Gema](http://twitter.com/search?q=Gema) | N/A |
 
