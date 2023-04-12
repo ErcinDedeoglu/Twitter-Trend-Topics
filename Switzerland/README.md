@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-12 20:18:42 UTC`
+📆 Last Updated: `2023-04-12 21:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Switzerland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 2 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 3 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 6 | [#Nationalrat](http://twitter.com/search?q=%23Nationalrat) | N/A |
+| 2 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 5 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 6 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 7 | [#Kohlanta](http://twitter.com/search?q=%23Kohlanta) | N/A |
 | 8 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 9 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 11 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 12 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 14 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 16 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
-| 19 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 20 | [Ständerat](http://twitter.com/search?q=St%c3%a4nderat) | N/A |
+| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 10 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
+| 11 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 12 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 13 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 14 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 15 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 16 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 17 | [Aussagen](http://twitter.com/search?q=Aussagen) | N/A |
+| 18 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 19 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 20 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
 | 21 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
-| 22 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 23 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 24 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 25 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 26 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
+| 22 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 23 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 24 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 25 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
+| 26 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 27 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 28 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 29 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 31 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 28 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 29 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 30 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 32 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
 | 33 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 34 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 35 | [Zunge](http://twitter.com/search?q=Zunge) | N/A |
-| 36 | [Grossbanken](http://twitter.com/search?q=Grossbanken) | N/A |
-| 37 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 40 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
-| 41 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 42 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
-| 43 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 44 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
-| 45 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 46 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 47 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 49 | [Soldaten](http://twitter.com/search?q=Soldaten) | N/A |
-| 50 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 34 | [Zunge](http://twitter.com/search?q=Zunge) | N/A |
+| 35 | [Grossbanken](http://twitter.com/search?q=Grossbanken) | N/A |
+| 36 | [Organisationen](http://twitter.com/search?q=Organisationen) | N/A |
+| 37 | [Symbolpolitik](http://twitter.com/search?q=Symbolpolitik) | N/A |
+| 38 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 39 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 41 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 42 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 43 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 44 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
+| 45 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 46 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
+| 47 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 48 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 49 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-12 20:17:46 UTC`
+📆 Last Updated: `2023-04-12 21:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 5 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 6 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 7 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 9 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
-| 10 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 11 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
-| 12 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 13 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 14 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 15 | [#TheEighthSenseEp6](http://twitter.com/search?q=%23TheEighthSenseEp6) | N/A |
-| 16 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 17 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 18 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 19 | [Farias Brito](http://twitter.com/search?q=Farias+Brito) | N/A |
-| 20 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 21 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
-| 22 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 23 | [Vinicius Júnior](http://twitter.com/search?q=Vinicius+J%c3%banior) | N/A |
-| 24 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 25 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 26 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 27 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 28 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 29 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 30 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 31 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 32 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 33 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 34 | [Luara](http://twitter.com/search?q=Luara) | N/A |
-| 35 | [Desfazendo o L](http://twitter.com/search?q=Desfazendo+o+L) | N/A |
-| 36 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
-| 37 | [Renner](http://twitter.com/search?q=Renner) | N/A |
-| 38 | [Aliexpress](http://twitter.com/search?q=Aliexpress) | N/A |
-| 39 | [CNPJ](http://twitter.com/search?q=CNPJ) | N/A |
-| 40 | [Receita](http://twitter.com/search?q=Receita) | N/A |
-| 41 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 42 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
-| 43 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 44 | [Shopee](http://twitter.com/search?q=Shopee) | N/A |
-| 45 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
-| 46 | [#chicopinheironoicl](http://twitter.com/search?q=%23chicopinheironoicl) | N/A |
-| 47 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 48 | [Lombroso](http://twitter.com/search?q=Lombroso) | N/A |
+| 1 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 2 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 3 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
+| 4 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 8 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 11 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 12 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 13 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 14 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 16 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 17 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 18 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 19 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 20 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 21 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 22 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 23 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
+| 24 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 25 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 26 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 27 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 28 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 29 | [Rudiger](http://twitter.com/search?q=Rudiger) | Rudiger is a German name derived from the Germanic elements hrod, meaning "fame," and ger, meaning "spear." It is a masculine name that can also be spelled Rudiger or Rudigar. In English, it means "famous spear." |
+| 30 | [#TheEighthSenseEp6](http://twitter.com/search?q=%23TheEighthSenseEp6) | N/A |
+| 31 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 32 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 33 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 34 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 35 | [DARF](http://twitter.com/search?q=DARF) | N/A |
+| 36 | [Theo Hernandez](http://twitter.com/search?q=Theo+Hernandez) | N/A |
+| 37 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 38 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 39 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 40 | [Enzo Fernandes](http://twitter.com/search?q=Enzo+Fernandes) | N/A |
+| 41 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 42 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 43 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 44 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 45 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
+| 46 | [Farias Brito](http://twitter.com/search?q=Farias+Brito) | N/A |
+| 47 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 48 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 49 | [Luara](http://twitter.com/search?q=Luara) | N/A |
 
 
 

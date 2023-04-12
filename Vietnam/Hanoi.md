@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-04-12 20:18:08 UTC`
+📆 Last Updated: `2023-04-12 21:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,10 +21,10 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 4 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
 | 5 | [#폭풍전야](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc) | N/A |
 | 6 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
-| 7 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
-| 8 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 9 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 10 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
+| 7 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
+| 8 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 9 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 11 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 12 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
 | 13 | [Rose Skull](http://twitter.com/search?q=Rose+Skull) | N/A |
@@ -32,8 +32,8 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 15 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
 | 16 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 | 17 | [Sugar Skull Girl](http://twitter.com/search?q=Sugar+Skull+Girl) | N/A |
-| 18 | [Day of the Dead](http://twitter.com/search?q=Day+of+the+Dead) | N/A |
-| 19 | [FlokiCeo](http://twitter.com/search?q=FlokiCeo) | N/A |
+| 18 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
+| 19 | [Flokiceo](http://twitter.com/search?q=Flokiceo) | N/A |
 | 20 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 21 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
 | 22 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
@@ -49,15 +49,15 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 32 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
 | 33 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
 | 34 | [thương](http://twitter.com/search?q=th%c6%b0%c6%a1ng) | N/A |
-| 35 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 35 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
 | 36 | [XP and Suiswap Points](http://twitter.com/search?q=XP+and+Suiswap+Points) | N/A |
 | 37 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 38 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 39 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 40 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 41 | [Candy](http://twitter.com/search?q=Candy) | N/A |
-| 42 | [Join Suiswap Crew3](http://twitter.com/search?q=Join+Suiswap+Crew3) | N/A |
-| 43 | [Flaming](http://twitter.com/search?q=Flaming) | N/A |
+| 38 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 39 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 40 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 41 | [dApp](http://twitter.com/search?q=dApp) | N/A |
+| 42 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
+| 43 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 44 | [#bikerskullcarseatcushioncover](http://twitter.com/search?q=%23bikerskullcarseatcushioncover) | N/A |
 | 45 | [#tpst_난장_mv_teaser](http://twitter.com/search?q=%23tpst_%eb%82%9c%ec%9e%a5_mv_teaser) | N/A |
 | 46 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |

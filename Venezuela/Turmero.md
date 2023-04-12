@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-04-12 20:17:44 UTC`
+📆 Last Updated: `2023-04-12 21:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 2 | [#12Abr](http://twitter.com/search?q=%2312Abr) | N/A |
-| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 5 | [#RebeldíaComunicacional](http://twitter.com/search?q=%23Rebeld%c3%adaComunicacional) | N/A |
-| 6 | [#NoPudieronNiPodrán](http://twitter.com/search?q=%23NoPudieronNiPodr%c3%a1n) | N/A |
-| 7 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 6 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 7 | [#NoPudieronNipodrán](http://twitter.com/search?q=%23NoPudieronNipodr%c3%a1n) | N/A |
 | 8 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
-| 9 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 10 | [Harold Sosa](http://twitter.com/search?q=Harold+Sosa) | N/A |
-| 11 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 12 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 9 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 10 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 11 | [Harold Sosa](http://twitter.com/search?q=Harold+Sosa) | N/A |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 13 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 14 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 15 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
-| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 17 | [Consejo Nacional Electoral](http://twitter.com/search?q=Consejo+Nacional+Electoral) | N/A |
-| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 19 | [Luis Arráez](http://twitter.com/search?q=Luis+Arr%c3%a1ez) | N/A |
-| 20 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 21 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 24 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 25 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 15 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 16 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
+| 17 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 18 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 19 | [Consejo Nacional Electoral](http://twitter.com/search?q=Consejo+Nacional+Electoral) | N/A |
+| 20 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 21 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 22 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 23 | [Luis Arráez](http://twitter.com/search?q=Luis+Arr%c3%a1ez) | N/A |
+| 24 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 25 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
 | 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 27 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 28 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 29 | [Infierno](http://twitter.com/search?q=Infierno) | N/A |
-| 30 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 31 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 32 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 33 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 34 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 35 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
-| 36 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 37 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
-| 38 | [Ciudad Tiuna](http://twitter.com/search?q=Ciudad+Tiuna) | N/A |
-| 39 | [provincia de guayana](http://twitter.com/search?q=provincia+de+guayana) | N/A |
-| 40 | [campaña de guayana](http://twitter.com/search?q=campa%c3%b1a+de+guayana) | N/A |
-| 41 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 42 | [Mamón](http://twitter.com/search?q=Mam%c3%b3n) | N/A |
-| 43 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 44 | [Hace 21](http://twitter.com/search?q=Hace+21) | N/A |
-| 45 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 46 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 47 | [Daniel Sarcos](http://twitter.com/search?q=Daniel+Sarcos) | N/A |
-| 48 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 49 | [Justicia Divina](http://twitter.com/search?q=Justicia+Divina) | N/A |
+| 27 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 29 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
+| 30 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 32 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 33 | [Infierno](http://twitter.com/search?q=Infierno) | N/A |
+| 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 35 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 36 | [Buque Escuela](http://twitter.com/search?q=Buque+Escuela) | N/A |
+| 37 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 38 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 39 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 40 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 41 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 42 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 43 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 44 | [Justicia Divina](http://twitter.com/search?q=Justicia+Divina) | N/A |
+| 45 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
+| 46 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
+| 47 | [provincia de guayana](http://twitter.com/search?q=provincia+de+guayana) | N/A |
+| 48 | [campaña de guayana](http://twitter.com/search?q=campa%c3%b1a+de+guayana) | N/A |
+| 49 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
 
 
 
