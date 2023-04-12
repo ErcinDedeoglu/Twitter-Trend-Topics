@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-12 15:17:59 UTC`
+📆 Last Updated: `2023-04-12 16:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 2 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 3 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 8 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 9 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 10 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 12 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 13 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 14 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
-| 15 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 16 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
-| 17 | [Session](http://twitter.com/search?q=Session) | N/A |
-| 18 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 20 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 21 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 22 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 23 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 24 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
-| 25 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 26 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 27 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 29 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 30 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 31 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 32 | [Organisationen](http://twitter.com/search?q=Organisationen) | N/A |
-| 33 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 34 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 35 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
-| 36 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
-| 37 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 38 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 40 | [ostermontag](http://twitter.com/search?q=ostermontag) | N/A |
-| 41 | [Quatsch](http://twitter.com/search?q=Quatsch) | N/A |
-| 42 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 43 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
-| 44 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 45 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 4 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 5 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 6 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 8 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 9 | [boni](http://twitter.com/search?q=boni) | N/A |
+| 10 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 11 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 12 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [Inhalte](http://twitter.com/search?q=Inhalte) | N/A |
+| 15 | [Ständerat](http://twitter.com/search?q=St%c3%a4nderat) | N/A |
+| 16 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 17 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 19 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 20 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 21 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 22 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 23 | [Grossbanken](http://twitter.com/search?q=Grossbanken) | N/A |
+| 24 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 26 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
+| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 28 | [Symbolpolitik](http://twitter.com/search?q=Symbolpolitik) | N/A |
+| 29 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 30 | [Ebene](http://twitter.com/search?q=Ebene) | N/A |
+| 31 | [Gier](http://twitter.com/search?q=Gier) | N/A |
+| 32 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 34 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
+| 35 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
+| 36 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 37 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 38 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
+| 39 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 40 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 41 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
+| 42 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
+| 43 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 44 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 45 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 46 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 47 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 
 
 

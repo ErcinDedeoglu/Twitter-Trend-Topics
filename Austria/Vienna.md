@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-12 15:17:52 UTC`
+📆 Last Updated: `2023-04-12 16:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 2 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 3 | [#Babler](http://twitter.com/search?q=%23Babler) | N/A |
-| 4 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
-| 5 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
-| 6 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 7 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 9 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
+| 2 | [#Babler](http://twitter.com/search?q=%23Babler) | N/A |
+| 3 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 4 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 5 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 6 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
+| 7 | [klavier](http://twitter.com/search?q=klavier) | N/A |
+| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 9 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
 | 10 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 14 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 15 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
-| 16 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 19 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
-| 20 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
-| 21 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 22 | [Steyr](http://twitter.com/search?q=Steyr) | N/A |
-| 23 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 24 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 26 | [Screenshot](http://twitter.com/search?q=Screenshot) | N/A |
-| 27 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
-| 28 | [Härte](http://twitter.com/search?q=H%c3%a4rte) | N/A |
-| 29 | [Meter](http://twitter.com/search?q=Meter) | N/A |
-| 30 | [Einschätzung](http://twitter.com/search?q=Einsch%c3%a4tzung) | N/A |
-| 31 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | N/A |
-| 32 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
-| 33 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 34 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
-| 35 | [Verdacht](http://twitter.com/search?q=Verdacht) | N/A |
-| 36 | [Migration](http://twitter.com/search?q=Migration) | N/A |
-| 37 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 38 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
-| 39 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
-| 40 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
-| 41 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 42 | [Begründung](http://twitter.com/search?q=Begr%c3%bcndung) | N/A |
-| 43 | [Angeblich](http://twitter.com/search?q=Angeblich) | N/A |
-| 44 | [Aufregung](http://twitter.com/search?q=Aufregung) | N/A |
-| 45 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
-| 46 | [Heimat](http://twitter.com/search?q=Heimat) | N/A |
-| 47 | [Können Sie](http://twitter.com/search?q=K%c3%b6nnen+Sie) | N/A |
-| 48 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 49 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 50 | [Schäden](http://twitter.com/search?q=Sch%c3%a4den) | N/A |
+| 11 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
+| 12 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 13 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 14 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
+| 15 | [Tagespresse](http://twitter.com/search?q=Tagespresse) | N/A |
+| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 17 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 18 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
+| 19 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 20 | [sobotka](http://twitter.com/search?q=sobotka) | N/A |
+| 21 | [Livestream](http://twitter.com/search?q=Livestream) | N/A |
+| 22 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 23 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
+| 24 | [Meter](http://twitter.com/search?q=Meter) | N/A |
+| 25 | [Härte](http://twitter.com/search?q=H%c3%a4rte) | N/A |
+| 26 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 27 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 28 | [Gehälter](http://twitter.com/search?q=Geh%c3%a4lter) | N/A |
+| 29 | [Eierpecken](http://twitter.com/search?q=Eierpecken) | N/A |
+| 30 | [Konzert](http://twitter.com/search?q=Konzert) | N/A |
+| 31 | [Wissens](http://twitter.com/search?q=Wissens) | N/A |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 33 | [Medizin](http://twitter.com/search?q=Medizin) | N/A |
+| 34 | [Auge](http://twitter.com/search?q=Auge) | N/A |
+| 35 | [unterstützungserklärungen](http://twitter.com/search?q=unterst%c3%bctzungserkl%c3%a4rungen) | N/A |
+| 36 | [Steyr](http://twitter.com/search?q=Steyr) | N/A |
+| 37 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
+| 38 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
+| 39 | [Millionen Euro](http://twitter.com/search?q=Millionen+Euro) | N/A |
+| 40 | [Unrecht](http://twitter.com/search?q=Unrecht) | N/A |
+| 41 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 42 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
+| 43 | [Karner](http://twitter.com/search?q=Karner) | N/A |
+| 44 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 45 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 46 | [Veranstaltungen](http://twitter.com/search?q=Veranstaltungen) | N/A |
+| 47 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 48 | [Zweck](http://twitter.com/search?q=Zweck) | N/A |
+| 49 | [Befragung](http://twitter.com/search?q=Befragung) | N/A |
+| 50 | [Tieren](http://twitter.com/search?q=Tieren) | N/A |
 
 
 

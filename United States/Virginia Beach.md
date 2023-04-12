@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-04-12 15:18:36 UTC`
+📆 Last Updated: `2023-04-12 16:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 2 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
-| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 6 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 8 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 10 | [#Wordle662](http://twitter.com/search?q=%23Wordle662) | N/A |
-| 11 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
-| 12 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 13 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 14 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
-| 15 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 16 | [Fort Sumter](http://twitter.com/search?q=Fort+Sumter) | N/A |
-| 17 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 18 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 19 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 20 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 21 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 22 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 23 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
-| 24 | [Red Flag Warning](http://twitter.com/search?q=Red+Flag+Warning) | N/A |
-| 25 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
-| 26 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 27 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 28 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
-| 29 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 30 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
-| 31 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 32 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
-| 33 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 34 | [Grizz in 5](http://twitter.com/search?q=Grizz+in+5) | N/A |
-| 35 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 36 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
-| 37 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 38 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 39 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 40 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 41 | [Woodstock](http://twitter.com/search?q=Woodstock) | N/A |
-| 42 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
-| 43 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 44 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 45 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 46 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
-| 47 | [Baki](http://twitter.com/search?q=Baki) | N/A |
-| 48 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
-| 49 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
-| 50 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 3 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 5 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 6 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 8 | [Saquon](http://twitter.com/search?q=Saquon) | Saquon is a given name of Arabic origin, meaning "lion". |
+| 9 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 10 | [#412Day](http://twitter.com/search?q=%23412Day) | N/A |
+| 11 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 12 | [#IStandWithEvan](http://twitter.com/search?q=%23IStandWithEvan) | N/A |
+| 13 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 14 | [Kena](http://twitter.com/search?q=Kena) | N/A |
+| 15 | [Delay](http://twitter.com/search?q=Delay) | N/A |
+| 16 | [The Continental](http://twitter.com/search?q=The+Continental) | N/A |
+| 17 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 18 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
+| 19 | [Jenny Jones](http://twitter.com/search?q=Jenny+Jones) | N/A |
+| 20 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 21 | [Rolling Loud](http://twitter.com/search?q=Rolling+Loud) | N/A |
+| 22 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 23 | [Government-funded Media](http://twitter.com/search?q=Government-funded+Media) | N/A |
+| 24 | [VOLPE LEADOFF](http://twitter.com/search?q=VOLPE+LEADOFF) | N/A |
+| 25 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 26 | [Good for NPR](http://twitter.com/search?q=Good+for+NPR) | N/A |
+| 27 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
+| 28 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 29 | [Defund NPR](http://twitter.com/search?q=Defund+NPR) | N/A |
+| 30 | [Turnstile](http://twitter.com/search?q=Turnstile) | N/A |
+| 31 | [National Public Radio](http://twitter.com/search?q=National+Public+Radio) | N/A |
+| 32 | [Go Elon](http://twitter.com/search?q=Go+Elon) | N/A |
+| 33 | [Josh Bailey](http://twitter.com/search?q=Josh+Bailey) | N/A |
+| 34 | [F--- Catholics](http://twitter.com/search?q=F---+Catholics) | N/A |
+| 35 | [David Letterman](http://twitter.com/search?q=David+Letterman) | N/A |
+| 36 | [Happy Birthday Jordan](http://twitter.com/search?q=Happy+Birthday+Jordan) | N/A |
+| 37 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 38 | [Warren Buffett](http://twitter.com/search?q=Warren+Buffett) | N/A |
+| 39 | [Happy 412](http://twitter.com/search?q=Happy+412) | N/A |
+| 40 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 41 | [National Propaganda Radio](http://twitter.com/search?q=National+Propaganda+Radio) | N/A |
+| 42 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 43 | [Series X](http://twitter.com/search?q=Series+X) | N/A |
+| 44 | [NPRs](http://twitter.com/search?q=NPRs) | N/A |
+| 45 | [Prince Archie](http://twitter.com/search?q=Prince+Archie) | N/A |
+| 46 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 47 | [happy birthday david](http://twitter.com/search?q=happy+birthday+david) | N/A |
+| 48 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 49 | [Wordle 662 X](http://twitter.com/search?q=Wordle+662+X) | N/A |
+| 50 | [Ragavan](http://twitter.com/search?q=Ragavan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-04-12 15:18:22 UTC`
+📆 Last Updated: `2023-04-12 16:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Nifty](http://twitter.com/search?q=%23Nifty) | N/A |
-| 2 | [#GehlotKaMehngaiRahatCamp](http://twitter.com/search?q=%23GehlotKaMehngaiRahatCamp) | N/A |
-| 3 | [#realmenarzoN55OnAmazon](http://twitter.com/search?q=%23realmenarzoN55OnAmazon) | N/A |
-| 4 | [#CSKvsRR](http://twitter.com/search?q=%23CSKvsRR) | N/A |
-| 5 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 6 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 7 | [सोनू सूद](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%b8%e0%a5%82%e0%a4%a6) | N/A |
-| 8 | [ANNA BRINGS DISCO DANCER](http://twitter.com/search?q=ANNA+BRINGS+DISCO+DANCER) | N/A |
-| 9 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 10 | [INSAS](http://twitter.com/search?q=INSAS) | N/A |
-| 11 | [Ghee](http://twitter.com/search?q=Ghee) | N/A |
-| 12 | [Prime Blue](http://twitter.com/search?q=Prime+Blue) | N/A |
-| 13 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
-| 14 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 15 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 16 | [CBI Answerable InSSRCase](http://twitter.com/search?q=CBI+Answerable+InSSRCase) | N/A |
-| 17 | [राणा सांगा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 18 | [She is 19](http://twitter.com/search?q=She+is+19) | N/A |
-| 19 | [महाराणा संग्राम सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 20 | [प्रशिक्षण कार्यक्रम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 21 | [Sonu](http://twitter.com/search?q=Sonu) | N/A |
-| 22 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 23 | [दिल्ली कैंट](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%9f) | N/A |
-| 24 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 25 | [मल्लिकार्जुन खड़गे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a5%81%e0%a4%a8+%e0%a4%96%e0%a4%a1%e0%a4%bc%e0%a4%97%e0%a5%87) | N/A |
-| 26 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 27 | [बठिंडा मिलिट्री स्टेशन](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a0%e0%a4%bf%e0%a4%82%e0%a4%a1%e0%a4%be+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 28 | [पूर्व लोकसभा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 29 | [लालजी टंडन](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%82%e0%a4%a1%e0%a4%a8) | N/A |
-| 30 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 31 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 32 | [श्रीमती सुमित्रा महाजन](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%81%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%9c%e0%a4%a8) | N/A |
-| 33 | [#SK21](http://twitter.com/search?q=%23SK21) | N/A |
-| 34 | [#SanjayDutt](http://twitter.com/search?q=%23SanjayDutt) | N/A |
-| 35 | [#NitishKumar](http://twitter.com/search?q=%23NitishKumar) | N/A |
-| 36 | [#AnanyaBirla](http://twitter.com/search?q=%23AnanyaBirla) | N/A |
-| 37 | [#हेमंत_यादव_को_न्याय_दो](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%a6%e0%a5%8b) | N/A |
-| 38 | [#Jawan](http://twitter.com/search?q=%23Jawan) | N/A |
-| 39 | [#EDModiKaTortureChamber](http://twitter.com/search?q=%23EDModiKaTortureChamber) | N/A |
-| 40 | [#शिक्षक_नियमावली_वापस_लो](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%ae%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a5%80_%e0%a4%b5%e0%a4%be%e0%a4%aa%e0%a4%b8_%e0%a4%b2%e0%a5%8b) | N/A |
-| 41 | [#Thala200](http://twitter.com/search?q=%23Thala200) | N/A |
-| 42 | [#PatnaAirport](http://twitter.com/search?q=%23PatnaAirport) | N/A |
-| 43 | [#BombThreat](http://twitter.com/search?q=%23BombThreat) | N/A |
-| 44 | [#MallikarjunKharge](http://twitter.com/search?q=%23MallikarjunKharge) | N/A |
-| 45 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 46 | [#AmbedkarJayanti2023](http://twitter.com/search?q=%23AmbedkarJayanti2023) | N/A |
-| 47 | [#BoostPeoplePt2](http://twitter.com/search?q=%23BoostPeoplePt2) | N/A |
-| 48 | [#BoostLikeCrazy](http://twitter.com/search?q=%23BoostLikeCrazy) | N/A |
-| 49 | [#IndiaWithModiJi](http://twitter.com/search?q=%23IndiaWithModiJi) | N/A |
+| 1 | [#UnstoppableJioStudios](http://twitter.com/search?q=%23UnstoppableJioStudios) | N/A |
+| 2 | [#CSKvsRR](http://twitter.com/search?q=%23CSKvsRR) | N/A |
+| 3 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 4 | [Buttler](http://twitter.com/search?q=Buttler) | N/A |
+| 5 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
+| 6 | [Zampa](http://twitter.com/search?q=Zampa) | Zampa is a term used in Italian to describe someone who is clumsy or awkward. It can also be used to describe someone who is clumsy or foolish in their actions. In English, it could be translated as "clumsy" or "bumbling". |
+| 7 | [ABD Villiers](http://twitter.com/search?q=ABD+Villiers) | N/A |
+| 8 | [Chepauk](http://twitter.com/search?q=Chepauk) | N/A |
+| 9 | [Akash Singh](http://twitter.com/search?q=Akash+Singh) | N/A |
+| 10 | [#BloodyDaddy](http://twitter.com/search?q=%23BloodyDaddy) | N/A |
+| 11 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
+| 12 | [Hetmyer](http://twitter.com/search?q=Hetmyer) | N/A |
+| 13 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 14 | [Padikkal](http://twitter.com/search?q=Padikkal) | N/A |
+| 15 | [Theekshana](http://twitter.com/search?q=Theekshana) | N/A |
+| 16 | [#ShahidKapoor](http://twitter.com/search?q=%23ShahidKapoor) | N/A |
+| 17 | [Ash anna](http://twitter.com/search?q=Ash+anna) | Ash anna is a term used in the Indian state of Tamil Nadu to refer to an elder brother or a respected male figure. It is derived from the Tamil words "anna" (elder brother) and "ash" (respect). In English, it can be translated as "respected elder brother". |
+| 18 | [#Thala200](http://twitter.com/search?q=%23Thala200) | N/A |
+| 19 | [Vicky Kaushal Career Drops](http://twitter.com/search?q=Vicky+Kaushal+Career+Drops) | N/A |
+| 20 | [Magala](http://twitter.com/search?q=Magala) | N/A |
+| 21 | [Jaddu](http://twitter.com/search?q=Jaddu) | N/A |
+| 22 | [Chahal](http://twitter.com/search?q=Chahal) | N/A |
+| 23 | [deshpande](http://twitter.com/search?q=deshpande) | N/A |
+| 24 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 25 | [Ghee](http://twitter.com/search?q=Ghee) | N/A |
+| 26 | [Boult](http://twitter.com/search?q=Boult) | N/A |
+| 27 | [INSAS](http://twitter.com/search?q=INSAS) | N/A |
+| 28 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 29 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 30 | [Momos](http://twitter.com/search?q=Momos) | N/A |
+| 31 | [राजस्थान रॉयल्स](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%b0%e0%a5%89%e0%a4%af%e0%a4%b2%e0%a5%8d%e0%a4%b8) | N/A |
+| 32 | [Chennai Super Kings](http://twitter.com/search?q=Chennai+Super+Kings) | N/A |
+| 33 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 34 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 35 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 36 | [CBI Answerable InSSRCase](http://twitter.com/search?q=CBI+Answerable+InSSRCase) | N/A |
+| 37 | [Rajasthan Royals](http://twitter.com/search?q=Rajasthan+Royals) | N/A |
+| 38 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
+| 39 | [Udupi](http://twitter.com/search?q=Udupi) | N/A |
+| 40 | [#SanjuSamson](http://twitter.com/search?q=%23SanjuSamson) | N/A |
+| 41 | [#SanjayDutt](http://twitter.com/search?q=%23SanjayDutt) | N/A |
+| 42 | [#SK21](http://twitter.com/search?q=%23SK21) | N/A |
+| 43 | [#NitishKumar](http://twitter.com/search?q=%23NitishKumar) | N/A |
+| 44 | [#Jadeja](http://twitter.com/search?q=%23Jadeja) | N/A |
+| 45 | [#BoostLikeCrazy](http://twitter.com/search?q=%23BoostLikeCrazy) | N/A |
+| 46 | [#BoostPeoplePt2](http://twitter.com/search?q=%23BoostPeoplePt2) | N/A |
+| 47 | [#AliAbbasZafar](http://twitter.com/search?q=%23AliAbbasZafar) | N/A |
+| 48 | [#हेमंत_यादव_को_न्याय_दो](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%a6%e0%a5%8b) | N/A |
+| 49 | [#KolkataMetro](http://twitter.com/search?q=%23KolkataMetro) | N/A |
+| 50 | [#TeamMots7](http://twitter.com/search?q=%23TeamMots7) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-04-12 15:17:50 UTC`
+📆 Last Updated: `2023-04-12 16:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [Argentina](</Argentina>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 2 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 3 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 4 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 5 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 6 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
-| 7 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
-| 8 | [#ATAV2](http://twitter.com/search?q=%23ATAV2) | N/A |
-| 9 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 10 | [Maratea](http://twitter.com/search?q=Maratea) | N/A |
-| 11 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 14 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 15 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 16 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 17 | [Grindetti](http://twitter.com/search?q=Grindetti) | N/A |
-| 18 | [La Perlita](http://twitter.com/search?q=La+Perlita) | N/A |
-| 19 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 20 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 21 | [Duka](http://twitter.com/search?q=Duka) | N/A |
-| 22 | [Macri](http://twitter.com/search?q=Macri) | N/A |
-| 23 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 25 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
-| 26 | [Duca](http://twitter.com/search?q=Duca) | N/A |
-| 27 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 28 | [bianca acosta](http://twitter.com/search?q=bianca+acosta) | N/A |
-| 29 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
-| 30 | [Florentin](http://twitter.com/search?q=Florentin) | N/A |
-| 31 | [AVALOS](http://twitter.com/search?q=AVALOS) | N/A |
-| 32 | [La Matanza](http://twitter.com/search?q=La+Matanza) | N/A |
-| 33 | [Marcelito](http://twitter.com/search?q=Marcelito) | N/A |
-| 34 | [Tarjeta Alimentar](http://twitter.com/search?q=Tarjeta+Alimentar) | N/A |
-| 35 | [Chilavert](http://twitter.com/search?q=Chilavert) | N/A |
-| 36 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 37 | [Bochi](http://twitter.com/search?q=Bochi) | N/A |
-| 38 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
-| 39 | [Diana](http://twitter.com/search?q=Diana) | N/A |
-| 40 | [Wado de Pedro](http://twitter.com/search?q=Wado+de+Pedro) | N/A |
-| 41 | [Xime](http://twitter.com/search?q=Xime) | N/A |
-| 42 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 43 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 44 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 45 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 46 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 47 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
-| 48 | [Mon Laferte](http://twitter.com/search?q=Mon+Laferte) | Mon Laferte is the stage name of Chilean singer-songwriter and actress, María Luisa Landaeta. The name translates to "My Lighthouse" in English, which reflects her desire to be a beacon of hope for her fans. |
-| 49 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 50 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [#dukixyoy](http://twitter.com/search?q=%23dukixyoy) | N/A |
+| 3 | [#JuegoFootballManager](http://twitter.com/search?q=%23JuegoFootballManager) | N/A |
+| 4 | [De Felippe](http://twitter.com/search?q=De+Felippe) | N/A |
+| 5 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 6 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 7 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
+| 8 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 9 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 10 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 11 | [skrillex](http://twitter.com/search?q=skrillex) | N/A |
+| 12 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 13 | [Chilavert](http://twitter.com/search?q=Chilavert) | N/A |
+| 14 | [Agüero](http://twitter.com/search?q=Ag%c3%bcero) | N/A |
+| 15 | [Blas](http://twitter.com/search?q=Blas) | N/A |
+| 16 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
+| 17 | [Yatra](http://twitter.com/search?q=Yatra) | N/A |
+| 18 | [Tarjeta Alimentar](http://twitter.com/search?q=Tarjeta+Alimentar) | N/A |
+| 19 | [Yanina](http://twitter.com/search?q=Yanina) | N/A |
+| 20 | [Dipy](http://twitter.com/search?q=Dipy) | N/A |
+| 21 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 22 | [La Perlita](http://twitter.com/search?q=La+Perlita) | N/A |
+| 23 | [Amilcar](http://twitter.com/search?q=Amilcar) | N/A |
+| 24 | [Milito](http://twitter.com/search?q=Milito) | N/A |
+| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 26 | [Senasa](http://twitter.com/search?q=Senasa) | N/A |
+| 27 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 28 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 29 | [De Paoli](http://twitter.com/search?q=De+Paoli) | De Paoli is a surname of Italian origin. It is derived from the Latin word "paulus," which means "small." The name is most commonly found in northern Italy, particularly in the regions of Lombardy and Veneto. In English, it can be translated to mean "of the small one." |
+| 30 | [Mariquita](http://twitter.com/search?q=Mariquita) | N/A |
+| 31 | [Metropol](http://twitter.com/search?q=Metropol) | N/A |
+| 32 | [El Gobierno](http://twitter.com/search?q=El+Gobierno) | N/A |
+| 33 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 34 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 36 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 37 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 38 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
+| 39 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 40 | [Nancy](http://twitter.com/search?q=Nancy) | N/A |
+| 41 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
+| 42 | [#sociosdelespectaculo](http://twitter.com/search?q=%23sociosdelespectaculo) | N/A |
+| 43 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 44 | [#DesayunoAmericano](http://twitter.com/search?q=%23DesayunoAmericano) | N/A |
+| 45 | [#LanataSinFiltro](http://twitter.com/search?q=%23LanataSinFiltro) | N/A |
+| 46 | [#navarro2023](http://twitter.com/search?q=%23navarro2023) | N/A |
+| 47 | [#Elecciones2023](http://twitter.com/search?q=%23Elecciones2023) | N/A |
+| 48 | [#AntesQueNadie](http://twitter.com/search?q=%23AntesQueNadie) | N/A |
 
 
 

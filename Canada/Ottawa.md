@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-04-12 15:17:36 UTC`
+📆 Last Updated: `2023-04-12 16:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 3 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 4 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 5 | [#DayOfPink](http://twitter.com/search?q=%23DayOfPink) | N/A |
+| 1 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 4 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
+| 5 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
 | 6 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 7 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 8 | [KEVIN KIERMAIER](http://twitter.com/search?q=KEVIN+KIERMAIER) | N/A |
-| 9 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 10 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 13 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 14 | [c1y vba](http://twitter.com/search?q=c1y+vba) | N/A |
-| 15 | [#tfpredict](http://twitter.com/search?q=%23tfpredict) | N/A |
-| 16 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
-| 17 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 18 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 19 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 20 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 21 | [Terry Fox](http://twitter.com/search?q=Terry+Fox) | N/A |
-| 22 | [La Presse](http://twitter.com/search?q=La+Presse) | N/A |
-| 23 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 24 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 25 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 26 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
-| 27 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 28 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 29 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 30 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 31 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
-| 32 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 7 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 8 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
+| 9 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 10 | [#DayOfPink](http://twitter.com/search?q=%23DayOfPink) | N/A |
+| 11 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 12 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 13 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 14 | [#tfpredict](http://twitter.com/search?q=%23tfpredict) | N/A |
+| 15 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 16 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 21 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
+| 22 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 23 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
+| 24 | [Governor General](http://twitter.com/search?q=Governor+General) | N/A |
+| 25 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 26 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 27 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 28 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 29 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
+| 30 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 31 | [MLSE](http://twitter.com/search?q=MLSE) | N/A |
+| 32 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
 | 33 | [LUKE SCHENN](http://twitter.com/search?q=LUKE+SCHENN) | N/A |
-| 34 | [nick ritchie](http://twitter.com/search?q=nick+ritchie) | N/A |
-| 35 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 36 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 37 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
-| 38 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 39 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 40 | [brandon belt](http://twitter.com/search?q=brandon+belt) | N/A |
-| 41 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 42 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 43 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 44 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
-| 45 | [Kucherov](http://twitter.com/search?q=Kucherov) | Kucherov is a Russian surname. It is derived from the word "kuchka," which means "little group" or "cluster." In English, the name Kucherov can be translated to mean "little group of people." |
-| 46 | [Charities](http://twitter.com/search?q=Charities) | N/A |
-| 47 | [DeMelo](http://twitter.com/search?q=DeMelo) | N/A |
-| 48 | [Fred McGriff](http://twitter.com/search?q=Fred+McGriff) | N/A |
-| 49 | [Wordle 662 X](http://twitter.com/search?q=Wordle+662+X) | N/A |
-| 50 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 34 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 35 | [BIXI](http://twitter.com/search?q=BIXI) | N/A |
+| 36 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 37 | [DeMelo](http://twitter.com/search?q=DeMelo) | N/A |
+| 38 | [Charities](http://twitter.com/search?q=Charities) | N/A |
+| 39 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 40 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
+| 41 | [Lametti](http://twitter.com/search?q=Lametti) | N/A |
+| 42 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 43 | [PSAC](http://twitter.com/search?q=PSAC) | N/A |
+| 44 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 45 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 46 | [Arcand](http://twitter.com/search?q=Arcand) | N/A |
+| 47 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 48 | [Zach Pop](http://twitter.com/search?q=Zach+Pop) | N/A |
+| 49 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 50 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
 
 
 

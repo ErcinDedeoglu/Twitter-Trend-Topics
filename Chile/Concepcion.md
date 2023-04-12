@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-12 15:17:45 UTC`
+📆 Last Updated: `2023-04-12 16:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 2 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 3 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 2 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 3 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 4 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
-| 5 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 6 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
-| 9 | [Alexei Popyrin](http://twitter.com/search?q=Alexei+Popyrin) | N/A |
-| 10 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
-| 11 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 12 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 13 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 5 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
+| 6 | [#MuchoGustoMega](http://twitter.com/search?q=%23MuchoGustoMega) | N/A |
+| 7 | [#LaSuperAutopiZta](http://twitter.com/search?q=%23LaSuperAutopiZta) | N/A |
+| 8 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
+| 9 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 10 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 11 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 12 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 13 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
 | 14 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
-| 15 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 17 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 18 | [Felipe Rojas](http://twitter.com/search?q=Felipe+Rojas) | N/A |
-| 19 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
-| 20 | [Av. La Paz](http://twitter.com/search?q=Av.+La+Paz) | N/A |
-| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 22 | [ovimarlixion](http://twitter.com/search?q=ovimarlixion) | N/A |
-| 23 | [Bansky](http://twitter.com/search?q=Bansky) | N/A |
-| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 25 | [Montecarlo](http://twitter.com/search?q=Montecarlo) | N/A |
-| 26 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 27 | [Pancho Orrego](http://twitter.com/search?q=Pancho+Orrego) | N/A |
-| 28 | [DAVIS](http://twitter.com/search?q=DAVIS) | N/A |
-| 29 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 31 | [los 4 más votados](http://twitter.com/search?q=los+4+m%c3%a1s+votados) | N/A |
-| 32 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 33 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
-| 34 | [amparo noguera](http://twitter.com/search?q=amparo+noguera) | N/A |
-| 35 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 36 | [Chicureo](http://twitter.com/search?q=Chicureo) | N/A |
-| 37 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 38 | [Flojos](http://twitter.com/search?q=Flojos) | N/A |
-| 39 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 40 | [dauno totoro](http://twitter.com/search?q=dauno+totoro) | N/A |
-| 41 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 42 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 43 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 44 | [Código del Trabajo](http://twitter.com/search?q=C%c3%b3digo+del+Trabajo) | N/A |
-| 45 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 46 | [gasco](http://twitter.com/search?q=gasco) | N/A |
-| 47 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 48 | [Moai](http://twitter.com/search?q=Moai) | N/A |
-| 49 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 50 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 17 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 18 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 19 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
+| 20 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
+| 21 | [Felipe Rojas](http://twitter.com/search?q=Felipe+Rojas) | N/A |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [bansky](http://twitter.com/search?q=bansky) | N/A |
+| 24 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 25 | [Avanzamos](http://twitter.com/search?q=Avanzamos) | N/A |
+| 26 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 27 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 28 | [NO AL SECRETO BANCARIO](http://twitter.com/search?q=NO+AL+SECRETO+BANCARIO) | N/A |
+| 29 | [Davis](http://twitter.com/search?q=Davis) | N/A |
+| 30 | [Flojos](http://twitter.com/search?q=Flojos) | N/A |
+| 31 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 32 | [Maite Orsini](http://twitter.com/search?q=Maite+Orsini) | N/A |
+| 33 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 34 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 35 | [Pancho Orrego](http://twitter.com/search?q=Pancho+Orrego) | N/A |
+| 36 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
+| 37 | [En 5](http://twitter.com/search?q=En+5) | N/A |
+| 38 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 39 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 40 | [los 4 más votados](http://twitter.com/search?q=los+4+m%c3%a1s+votados) | N/A |
+| 41 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
+| 42 | [Moai](http://twitter.com/search?q=Moai) | N/A |
+| 43 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 44 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
+| 45 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 46 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 47 | [Chicureo](http://twitter.com/search?q=Chicureo) | N/A |
+| 48 | [dauno](http://twitter.com/search?q=dauno) | N/A |
+| 49 | [ley de 40](http://twitter.com/search?q=ley+de+40) | N/A |
+| 50 | [Código del Trabajo](http://twitter.com/search?q=C%c3%b3digo+del+Trabajo) | N/A |
 
 
 
