@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-04-12 01:44:42 UTC`
+📆 Last Updated: `2023-04-12 02:31:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 2 | [Ryan Weathers](http://twitter.com/search?q=Ryan+Weathers) | N/A |
-| 3 | [#KleinOut](http://twitter.com/search?q=%23KleinOut) | N/A |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 6 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [Senator](http://twitter.com/search?q=Senator) | N/A |
-| 9 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 10 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 11 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 12 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 13 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 14 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
-| 15 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 16 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 17 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 18 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 19 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
-| 20 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
-| 21 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 22 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 23 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 24 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 1 | [Xander](http://twitter.com/search?q=Xander) | N/A |
+| 2 | [Bogaerts](http://twitter.com/search?q=Bogaerts) | N/A |
+| 3 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 4 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 5 | [Ryan Weathers](http://twitter.com/search?q=Ryan+Weathers) | N/A |
+| 6 | [Campy](http://twitter.com/search?q=Campy) | N/A |
+| 7 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 8 | [Klein](http://twitter.com/search?q=Klein) | N/A |
+| 9 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 10 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 11 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 12 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
+| 13 | [#Overwatch2](http://twitter.com/search?q=%23Overwatch2) | N/A |
+| 14 | [Senator](http://twitter.com/search?q=Senator) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 17 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 18 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
+| 19 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 20 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 21 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
+| 22 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 23 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 24 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
 | 25 | [Capela](http://twitter.com/search?q=Capela) | N/A |
-| 26 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 27 | [JI HWAN](http://twitter.com/search?q=JI+HWAN) | N/A |
-| 28 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 29 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 30 | [Flexen](http://twitter.com/search?q=Flexen) | N/A |
-| 31 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
-| 32 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
-| 33 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 34 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
-| 35 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
-| 36 | [Voth](http://twitter.com/search?q=Voth) | N/A |
-| 37 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 38 | [Haslem](http://twitter.com/search?q=Haslem) | N/A |
-| 39 | [Strus](http://twitter.com/search?q=Strus) | N/A |
-| 40 | [Pablo Lopez](http://twitter.com/search?q=Pablo+Lopez) | Pablo Lopez is a Spanish name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "little Paul". |
-| 41 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
-| 42 | [Mrazek](http://twitter.com/search?q=Mrazek) | N/A |
-| 43 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 44 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 45 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 46 | [Nelson Velazquez](http://twitter.com/search?q=Nelson+Velazquez) | N/A |
-| 47 | [Okongwu](http://twitter.com/search?q=Okongwu) | N/A |
-| 48 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 49 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
-| 50 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
+| 26 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 27 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 28 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 29 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
+| 30 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 31 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 32 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 33 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 34 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
+| 35 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 36 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 37 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
+| 38 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
+| 39 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 40 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 41 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 42 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 43 | [Hader](http://twitter.com/search?q=Hader) | N/A |
+| 44 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
+| 45 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 46 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 47 | [JI HWAN](http://twitter.com/search?q=JI+HWAN) | N/A |
+| 48 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 49 | [Celtics in 5](http://twitter.com/search?q=Celtics+in+5) | N/A |
+| 50 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-04-12 01:44:44 UTC`
+📆 Last Updated: `2023-04-12 02:31:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Bahrain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ياعلي](http://twitter.com/search?q=%23%d9%8a%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 2 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 3 | [#استشهاد_الامام_علي](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85_%d8%b9%d9%84%d9%8a) | N/A |
+| 2 | [#استشهاد_الامام_علي](http://twitter.com/search?q=%23%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af_%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85_%d8%b9%d9%84%d9%8a) | N/A |
+| 3 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
 | 4 | [امير المومنين](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%d9%8a%d9%86) | N/A |
 | 5 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
 | 6 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
@@ -25,25 +25,25 @@ This is top 50 for Bahrain
 | 8 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 9 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 10 | [محلي الابو](http://twitter.com/search?q=%d9%85%d8%ad%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d9%88) | N/A |
-| 11 | [#تهدمت_والله_اركان_الهدي](http://twitter.com/search?q=%23%d8%aa%d9%87%d8%af%d9%85%d8%aa_%d9%88%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d8%b1%d9%83%d8%a7%d9%86_%d8%a7%d9%84%d9%87%d8%af%d9%8a) | N/A |
+| 11 | [#واعلياه](http://twitter.com/search?q=%23%d9%88%d8%a7%d8%b9%d9%84%d9%8a%d8%a7%d9%87) | N/A |
 | 12 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 13 | [استشهاد الامام](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
-| 14 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 15 | [٢٠ رمضان](http://twitter.com/search?q=%d9%a2%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 16 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
-| 17 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 18 | [احمد الساعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%8a) | N/A |
-| 19 | [ابو حسين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 13 | [ابو حسين](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 14 | [استشهاد الامام](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
+| 15 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 16 | [٢٠ رمضان](http://twitter.com/search?q=%d9%a2%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 17 | [مجلس النواب](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%86%d9%88%d8%a7%d8%a8) | N/A |
+| 18 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 19 | [احمد الساعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%8a) | N/A |
 | 20 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 21 | [ابن ملجم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%85%d9%84%d8%ac%d9%85) | N/A |
-| 22 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 23 | [علي الشيخ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 24 | [عمل المراه](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 25 | [تركيا](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 26 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 27 | [منزل السكينه](http://twitter.com/search?q=%d9%85%d9%86%d8%b2%d9%84+%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d9%87) | N/A |
-| 28 | [قلب زينب](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%b2%d9%8a%d9%86%d8%a8) | N/A |
-| 29 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 21 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 22 | [ابن ملجم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%85%d9%84%d8%ac%d9%85) | N/A |
+| 23 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 24 | [علي الشيخ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 25 | [عمل المراه](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 26 | [تركيا](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 27 | [ولي العهد](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 28 | [منزل السكينه](http://twitter.com/search?q=%d9%85%d9%86%d8%b2%d9%84+%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d9%87) | N/A |
+| 29 | [قلب زينب](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%b2%d9%8a%d9%86%d8%a8) | N/A |
 | 30 | [الليالي العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
 | 31 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 32 | [علي المنبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%86%d8%a8%d8%b1) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Bahrain
 | 46 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
 | 47 | [الامام الصادق](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d8%af%d9%82) | N/A |
 | 48 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 49 | [السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 50 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 49 | [رجل دين](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%8a%d9%86) | N/A |
+| 50 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
 
 
 

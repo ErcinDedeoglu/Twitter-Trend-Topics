@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-04-12 01:44:24 UTC`
+📆 Last Updated: `2023-04-12 02:30:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,9 +21,9 @@ This is top 50 for [Ghana](</Ghana>)
 | 4 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 5 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 6 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 8 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 9 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 7 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 8 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 10 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 12 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Ghana](</Ghana>)
 | 35 | [Sheggz](http://twitter.com/search?q=Sheggz) | N/A |
 | 36 | [King Promise](http://twitter.com/search?q=King+Promise) | King Promise is a Ghanaian singer, songwriter, and record producer. The phrase "King Promise" is a metaphor for the promise of greatness that comes with being a king. It is also a reference to the artist's commitment to delivering quality music and creating an impact in the music industry. |
 | 37 | [accra sports stadium](http://twitter.com/search?q=accra+sports+stadium) | N/A |
-| 38 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
+| 38 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
 | 39 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 40 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 41 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
-| 42 | [Stephen Appiah](http://twitter.com/search?q=Stephen+Appiah) | N/A |
-| 43 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 44 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
-| 45 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 46 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 47 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
-| 48 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 49 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
-| 50 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 40 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
+| 41 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 42 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 43 | [Stephen Appiah](http://twitter.com/search?q=Stephen+Appiah) | N/A |
+| 44 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
+| 45 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 46 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
+| 47 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 48 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
+| 49 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 50 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
 
 
 

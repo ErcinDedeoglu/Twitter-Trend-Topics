@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-12 01:44:03 UTC`
+📆 Last Updated: `2023-04-12 02:30:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,46 @@ This is top 50 for [Chile](</Chile>)
 | 5 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
 | 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 7 | [Fernanda Maciel](http://twitter.com/search?q=Fernanda+Maciel) | N/A |
-| 8 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 9 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 8 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 9 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 10 | [Felipe Rojas](http://twitter.com/search?q=Felipe+Rojas) | N/A |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [Ovimarlixion](http://twitter.com/search?q=Ovimarlixion) | N/A |
-| 13 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 15 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
-| 16 | [Bansky](http://twitter.com/search?q=Bansky) | N/A |
-| 17 | [Presidente Gabriel Boric](http://twitter.com/search?q=Presidente+Gabriel+Boric) | N/A |
-| 18 | [Pancho Orrego](http://twitter.com/search?q=Pancho+Orrego) | N/A |
-| 19 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 21 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 22 | [Chicureo](http://twitter.com/search?q=Chicureo) | N/A |
-| 23 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
-| 24 | [Grau](http://twitter.com/search?q=Grau) | N/A |
-| 25 | [Código del Trabajo](http://twitter.com/search?q=C%c3%b3digo+del+Trabajo) | N/A |
-| 26 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
-| 27 | [Dauno](http://twitter.com/search?q=Dauno) | N/A |
-| 28 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 30 | [LOS 4 MÁS VOTADOS](http://twitter.com/search?q=LOS+4+M%c3%81S+VOTADOS) | N/A |
-| 31 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
-| 32 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 33 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 34 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 35 | [amparo noguera](http://twitter.com/search?q=amparo+noguera) | N/A |
-| 36 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
-| 37 | [Moai](http://twitter.com/search?q=Moai) | N/A |
-| 38 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
-| 39 | [En 5](http://twitter.com/search?q=En+5) | N/A |
-| 40 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 41 | [Gasco](http://twitter.com/search?q=Gasco) | N/A |
-| 42 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
-| 43 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 44 | [Girardi](http://twitter.com/search?q=Girardi) | Girardi is an Italian surname. It is derived from the Latin word "girardus," which means "brave spearman." The name is most commonly associated with former New York Yankees manager Joe Girardi. |
+| 11 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 13 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
+| 14 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
+| 15 | [Ovimarlixion](http://twitter.com/search?q=Ovimarlixion) | N/A |
+| 16 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 17 | [Bansky](http://twitter.com/search?q=Bansky) | N/A |
+| 18 | [Cristina](http://twitter.com/search?q=Cristina) | N/A |
+| 19 | [Pancho Orrego](http://twitter.com/search?q=Pancho+Orrego) | N/A |
+| 20 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 21 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 22 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 23 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
+| 24 | [Chicureo](http://twitter.com/search?q=Chicureo) | N/A |
+| 25 | [Paulsen](http://twitter.com/search?q=Paulsen) | N/A |
+| 26 | [Código del Trabajo](http://twitter.com/search?q=C%c3%b3digo+del+Trabajo) | N/A |
+| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 29 | [Dauno](http://twitter.com/search?q=Dauno) | N/A |
+| 30 | [Flojos](http://twitter.com/search?q=Flojos) | N/A |
+| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 32 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 34 | [LOS 4 MÁS VOTADOS](http://twitter.com/search?q=LOS+4+M%c3%81S+VOTADOS) | N/A |
+| 35 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
+| 36 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 37 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 38 | [amparo noguera](http://twitter.com/search?q=amparo+noguera) | N/A |
+| 39 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 40 | [Gabriel Boric](http://twitter.com/search?q=Gabriel+Boric) | N/A |
+| 41 | [Grau](http://twitter.com/search?q=Grau) | N/A |
+| 42 | [Gasco](http://twitter.com/search?q=Gasco) | N/A |
+| 43 | [Luis Lugo Machado](http://twitter.com/search?q=Luis+Lugo+Machado) | N/A |
+| 44 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 45 | [El City](http://twitter.com/search?q=El+City) | N/A |
 | 46 | [deportes rengo](http://twitter.com/search?q=deportes+rengo) | N/A |
-| 47 | [Joven de 17](http://twitter.com/search?q=Joven+de+17) | N/A |
+| 47 | [Pobrecito](http://twitter.com/search?q=Pobrecito) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-04-12 01:44:15 UTC`
+📆 Last Updated: `2023-04-12 02:30:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [Greece](</Greece>)
 | 7 | [#takaliteramasxronia](http://twitter.com/search?q=%23takaliteramasxronia) | N/A |
 | 8 | [Καλη Ανασταση](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7+%ce%91%ce%bd%ce%b1%cf%83%cf%84%ce%b1%cf%83%ce%b7) | N/A |
 | 9 | [κασσιανης](http://twitter.com/search?q=%ce%ba%ce%b1%cf%83%cf%83%ce%b9%ce%b1%ce%bd%ce%b7%cf%82) | N/A |
-| 10 | [Αντωναρο](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%cf%89%ce%bd%ce%b1%cf%81%ce%bf) | N/A |
-| 11 | [Καλο Πασχα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf+%ce%a0%ce%b1%cf%83%cf%87%ce%b1) | N/A |
-| 12 | [μπαγερν](http://twitter.com/search?q=%ce%bc%cf%80%ce%b1%ce%b3%ce%b5%cf%81%ce%bd) | N/A |
-| 13 | [γιωργος μπομπολας](http://twitter.com/search?q=%ce%b3%ce%b9%cf%89%cf%81%ce%b3%ce%bf%cf%82+%ce%bc%cf%80%ce%bf%ce%bc%cf%80%ce%bf%ce%bb%ce%b1%cf%82) | N/A |
-| 14 | [#Βουλη](http://twitter.com/search?q=%23%ce%92%ce%bf%cf%85%ce%bb%ce%b7) | N/A |
-| 15 | [Ατζουν](http://twitter.com/search?q=%ce%91%cf%84%ce%b6%ce%bf%cf%85%ce%bd) | N/A |
+| 10 | [μπαγερν](http://twitter.com/search?q=%ce%bc%cf%80%ce%b1%ce%b3%ce%b5%cf%81%ce%bd) | N/A |
+| 11 | [γιωργος μπομπολας](http://twitter.com/search?q=%ce%b3%ce%b9%cf%89%cf%81%ce%b3%ce%bf%cf%82+%ce%bc%cf%80%ce%bf%ce%bc%cf%80%ce%bf%ce%bb%ce%b1%cf%82) | N/A |
+| 12 | [Αντωναρο](http://twitter.com/search?q=%ce%91%ce%bd%cf%84%cf%89%ce%bd%ce%b1%cf%81%ce%bf) | N/A |
+| 13 | [Ατζουν](http://twitter.com/search?q=%ce%91%cf%84%ce%b6%ce%bf%cf%85%ce%bd) | N/A |
+| 14 | [Καλο Πασχα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%bf+%ce%a0%ce%b1%cf%83%cf%87%ce%b1) | N/A |
+| 15 | [#Βουλη](http://twitter.com/search?q=%23%ce%92%ce%bf%cf%85%ce%bb%ce%b7) | N/A |
 | 16 | [Στελλα](http://twitter.com/search?q=%ce%a3%cf%84%ce%b5%ce%bb%ce%bb%ce%b1) | N/A |
 | 17 | [μοτο](http://twitter.com/search?q=%ce%bc%ce%bf%cf%84%ce%bf) | N/A |
-| 18 | [Αφροδιτη](http://twitter.com/search?q=%ce%91%cf%86%cf%81%ce%bf%ce%b4%ce%b9%cf%84%ce%b7) | N/A |
-| 19 | [κλειμαν](http://twitter.com/search?q=%ce%ba%ce%bb%ce%b5%ce%b9%ce%bc%ce%b1%ce%bd) | N/A |
-| 20 | [λουτσεσκου](http://twitter.com/search?q=%ce%bb%ce%bf%cf%85%cf%84%cf%83%ce%b5%cf%83%ce%ba%ce%bf%cf%85) | N/A |
-| 21 | [χρυσης αυγης](http://twitter.com/search?q=%cf%87%cf%81%cf%85%cf%83%ce%b7%cf%82+%ce%b1%cf%85%ce%b3%ce%b7%cf%82) | N/A |
-| 22 | [μαρτινς](http://twitter.com/search?q=%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bd%cf%82) | N/A |
-| 23 | [ανδρεα](http://twitter.com/search?q=%ce%b1%ce%bd%ce%b4%cf%81%ce%b5%ce%b1) | N/A |
-| 24 | [βολου](http://twitter.com/search?q=%ce%b2%ce%bf%ce%bb%ce%bf%cf%85) | N/A |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [Βανα](http://twitter.com/search?q=%ce%92%ce%b1%ce%bd%ce%b1) | N/A |
-| 27 | [Μπεη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%b7) | N/A |
-| 28 | [ειδικου δικαστηριου](http://twitter.com/search?q=%ce%b5%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf%cf%85+%ce%b4%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 29 | [Νικολ](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%ce%bb) | N/A |
-| 30 | [Λιακο](http://twitter.com/search?q=%ce%9b%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
-| 31 | [Ιντερ](http://twitter.com/search?q=%ce%99%ce%bd%cf%84%ce%b5%cf%81) | N/A |
-| 32 | [Ιλιον](http://twitter.com/search?q=%ce%99%ce%bb%ce%b9%ce%bf%ce%bd) | N/A |
-| 33 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
-| 34 | [χρηστος μπιρος](http://twitter.com/search?q=%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82+%ce%bc%cf%80%ce%b9%cf%81%ce%bf%cf%82) | N/A |
+| 18 | [κλειμαν](http://twitter.com/search?q=%ce%ba%ce%bb%ce%b5%ce%b9%ce%bc%ce%b1%ce%bd) | N/A |
+| 19 | [λουτσεσκου](http://twitter.com/search?q=%ce%bb%ce%bf%cf%85%cf%84%cf%83%ce%b5%cf%83%ce%ba%ce%bf%cf%85) | N/A |
+| 20 | [χρυσης αυγης](http://twitter.com/search?q=%cf%87%cf%81%cf%85%cf%83%ce%b7%cf%82+%ce%b1%cf%85%ce%b3%ce%b7%cf%82) | N/A |
+| 21 | [μαρτινς](http://twitter.com/search?q=%ce%bc%ce%b1%cf%81%cf%84%ce%b9%ce%bd%cf%82) | N/A |
+| 22 | [ανδρεα](http://twitter.com/search?q=%ce%b1%ce%bd%ce%b4%cf%81%ce%b5%ce%b1) | N/A |
+| 23 | [βολου](http://twitter.com/search?q=%ce%b2%ce%bf%ce%bb%ce%bf%cf%85) | N/A |
+| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 25 | [Μπεη](http://twitter.com/search?q=%ce%9c%cf%80%ce%b5%ce%b7) | N/A |
+| 26 | [ειδικου δικαστηριου](http://twitter.com/search?q=%ce%b5%ce%b9%ce%b4%ce%b9%ce%ba%ce%bf%cf%85+%ce%b4%ce%b9%ce%ba%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 27 | [Νικολ](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%ce%bb) | N/A |
+| 28 | [Βανα](http://twitter.com/search?q=%ce%92%ce%b1%ce%bd%ce%b1) | N/A |
+| 29 | [λιακο](http://twitter.com/search?q=%ce%bb%ce%b9%ce%b1%ce%ba%ce%bf) | N/A |
+| 30 | [ιντερ](http://twitter.com/search?q=%ce%b9%ce%bd%cf%84%ce%b5%cf%81) | N/A |
+| 31 | [Ιλιον](http://twitter.com/search?q=%ce%99%ce%bb%ce%b9%ce%bf%ce%bd) | N/A |
+| 32 | [Super League](http://twitter.com/search?q=Super+League) | N/A |
+| 33 | [χρηστος μπιρος](http://twitter.com/search?q=%cf%87%cf%81%ce%b7%cf%83%cf%84%ce%bf%cf%82+%ce%bc%cf%80%ce%b9%cf%81%ce%bf%cf%82) | N/A |
+| 34 | [Βοριδη](http://twitter.com/search?q=%ce%92%ce%bf%cf%81%ce%b9%ce%b4%ce%b7) | N/A |
 | 35 | [Παππα](http://twitter.com/search?q=%ce%a0%ce%b1%cf%80%cf%80%ce%b1) | N/A |
-| 36 | [Βοριδη](http://twitter.com/search?q=%ce%92%ce%bf%cf%81%ce%b9%ce%b4%ce%b7) | N/A |
+| 36 | [Αφροδιτη](http://twitter.com/search?q=%ce%91%cf%86%cf%81%ce%bf%ce%b4%ce%b9%cf%84%ce%b7) | N/A |
 | 37 | [τσαβουσογλου](http://twitter.com/search?q=%cf%84%cf%83%ce%b1%ce%b2%ce%bf%cf%85%cf%83%ce%bf%ce%b3%ce%bb%ce%bf%cf%85) | N/A |
 | 38 | [αστερης](http://twitter.com/search?q=%ce%b1%cf%83%cf%84%ce%b5%cf%81%ce%b7%cf%82) | N/A |
-| 39 | [Ηλια](http://twitter.com/search?q=%ce%97%ce%bb%ce%b9%ce%b1) | N/A |
-| 40 | [Κολωνακι](http://twitter.com/search?q=%ce%9a%ce%bf%ce%bb%cf%89%ce%bd%ce%b1%ce%ba%ce%b9) | N/A |
-| 41 | [σιτι](http://twitter.com/search?q=%cf%83%ce%b9%cf%84%ce%b9) | N/A |
-| 42 | [μωραιτη](http://twitter.com/search?q=%ce%bc%cf%89%cf%81%ce%b1%ce%b9%cf%84%ce%b7) | N/A |
-| 43 | [μαριε](http://twitter.com/search?q=%ce%bc%ce%b1%cf%81%ce%b9%ce%b5) | N/A |
-| 44 | [Φυσσα](http://twitter.com/search?q=%ce%a6%cf%85%cf%83%cf%83%ce%b1) | N/A |
-| 45 | [βουλτεψη](http://twitter.com/search?q=%ce%b2%ce%bf%cf%85%ce%bb%cf%84%ce%b5%cf%88%ce%b7) | N/A |
-| 46 | [Χριστιανα](http://twitter.com/search?q=%ce%a7%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
-| 47 | [σλουκας](http://twitter.com/search?q=%cf%83%ce%bb%ce%bf%cf%85%ce%ba%ce%b1%cf%82) | N/A |
-| 48 | [ναξου](http://twitter.com/search?q=%ce%bd%ce%b1%ce%be%ce%bf%cf%85) | N/A |
-| 49 | [intercity](http://twitter.com/search?q=intercity) | N/A |
-| 50 | [ευτυχια](http://twitter.com/search?q=%ce%b5%cf%85%cf%84%cf%85%cf%87%ce%b9%ce%b1) | N/A |
+| 39 | [Κολωνακι](http://twitter.com/search?q=%ce%9a%ce%bf%ce%bb%cf%89%ce%bd%ce%b1%ce%ba%ce%b9) | N/A |
+| 40 | [σιτι](http://twitter.com/search?q=%cf%83%ce%b9%cf%84%ce%b9) | N/A |
+| 41 | [μωραιτη](http://twitter.com/search?q=%ce%bc%cf%89%cf%81%ce%b1%ce%b9%cf%84%ce%b7) | N/A |
+| 42 | [μαριε](http://twitter.com/search?q=%ce%bc%ce%b1%cf%81%ce%b9%ce%b5) | N/A |
+| 43 | [Φυσσα](http://twitter.com/search?q=%ce%a6%cf%85%cf%83%cf%83%ce%b1) | N/A |
+| 44 | [βουλτεψη](http://twitter.com/search?q=%ce%b2%ce%bf%cf%85%ce%bb%cf%84%ce%b5%cf%88%ce%b7) | N/A |
+| 45 | [Χριστιανα](http://twitter.com/search?q=%ce%a7%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
+| 46 | [σλουκας](http://twitter.com/search?q=%cf%83%ce%bb%ce%bf%cf%85%ce%ba%ce%b1%cf%82) | N/A |
+| 47 | [ναξου](http://twitter.com/search?q=%ce%bd%ce%b1%ce%be%ce%bf%cf%85) | N/A |
+| 48 | [intercity](http://twitter.com/search?q=intercity) | N/A |
+| 49 | [ευτυχια](http://twitter.com/search?q=%ce%b5%cf%85%cf%84%cf%85%cf%87%ce%b9%ce%b1) | N/A |
+| 50 | [μαθιος](http://twitter.com/search?q=%ce%bc%ce%b1%ce%b8%ce%b9%ce%bf%cf%82) | N/A |
 
 
 

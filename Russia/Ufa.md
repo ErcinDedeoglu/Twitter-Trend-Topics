@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ufa
 
-📆 Last Updated: `2023-04-12 01:44:30 UTC`
+📆 Last Updated: `2023-04-12 02:31:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [Thisss](http://twitter.com/search?q=Thisss) | N/A |
 | 2 | [Rally](http://twitter.com/search?q=Rally) | N/A |
 | 3 | [Realy](http://twitter.com/search?q=Realy) | N/A |
-| 4 | [pretty coooool](http://twitter.com/search?q=pretty+coooool) | N/A |
-| 5 | [Users](http://twitter.com/search?q=Users) | N/A |
-| 6 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 7 | [Rate](http://twitter.com/search?q=Rate) | N/A |
-| 8 | [HOWWW](http://twitter.com/search?q=HOWWW) | N/A |
-| 9 | [Heee](http://twitter.com/search?q=Heee) | N/A |
-| 10 | [#BTCC](http://twitter.com/search?q=%23BTCC) | N/A |
-| 11 | [Employ](http://twitter.com/search?q=Employ) | N/A |
-| 12 | [Alll](http://twitter.com/search?q=Alll) | N/A |
-| 13 | [Markets](http://twitter.com/search?q=Markets) | N/A |
-| 14 | [Thankss](http://twitter.com/search?q=Thankss) | N/A |
-| 15 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
-| 16 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 17 | [#Binancee](http://twitter.com/search?q=%23Binancee) | N/A |
-| 18 | [HAVEE](http://twitter.com/search?q=HAVEE) | N/A |
-| 19 | [THEE](http://twitter.com/search?q=THEE) | N/A |
-| 20 | [alreadyyy](http://twitter.com/search?q=alreadyyy) | N/A |
-| 21 | [neww](http://twitter.com/search?q=neww) | N/A |
-| 22 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
-| 23 | [Recommend](http://twitter.com/search?q=Recommend) | N/A |
-| 24 | [nice boss](http://twitter.com/search?q=nice+boss) | N/A |
-| 25 | [Госуслуги](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8) | N/A |
-| 26 | [Weee](http://twitter.com/search?q=Weee) | N/A |
-| 27 | [Logical](http://twitter.com/search?q=Logical) | N/A |
-| 28 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 29 | [Everythingg](http://twitter.com/search?q=Everythingg) | N/A |
-| 30 | [шивелуч](http://twitter.com/search?q=%d1%88%d0%b8%d0%b2%d0%b5%d0%bb%d1%83%d1%87) | N/A |
-| 31 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
-| 32 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
-| 33 | [keepss](http://twitter.com/search?q=keepss) | N/A |
-| 34 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 35 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 36 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 37 | [кавеха](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 38 | [поэтому](http://twitter.com/search?q=%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 39 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 40 | [киева](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
-| 41 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 42 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 43 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [выздоравливай](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
-| 47 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 48 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 49 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
-| 50 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | N/A |
+| 4 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
+| 5 | [Rate](http://twitter.com/search?q=Rate) | N/A |
+| 6 | [HOWWW](http://twitter.com/search?q=HOWWW) | N/A |
+| 7 | [Heee](http://twitter.com/search?q=Heee) | N/A |
+| 8 | [#BTCC](http://twitter.com/search?q=%23BTCC) | N/A |
+| 9 | [ALLL](http://twitter.com/search?q=ALLL) | N/A |
+| 10 | [Markets](http://twitter.com/search?q=Markets) | N/A |
+| 11 | [#BNBB](http://twitter.com/search?q=%23BNBB) | N/A |
+| 12 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 13 | [#Binancee](http://twitter.com/search?q=%23Binancee) | N/A |
+| 14 | [HAVEE](http://twitter.com/search?q=HAVEE) | N/A |
+| 15 | [THEE](http://twitter.com/search?q=THEE) | N/A |
+| 16 | [alreadyyy](http://twitter.com/search?q=alreadyyy) | N/A |
+| 17 | [neww](http://twitter.com/search?q=neww) | N/A |
+| 18 | [Theyy](http://twitter.com/search?q=Theyy) | N/A |
+| 19 | [Recommend](http://twitter.com/search?q=Recommend) | N/A |
+| 20 | [Госуслуги](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8) | N/A |
+| 21 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 22 | [Weee](http://twitter.com/search?q=Weee) | N/A |
+| 23 | [everythingg](http://twitter.com/search?q=everythingg) | N/A |
+| 24 | [шивелуч](http://twitter.com/search?q=%d1%88%d0%b8%d0%b2%d0%b5%d0%bb%d1%83%d1%87) | N/A |
+| 25 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
+| 26 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
+| 27 | [keepss](http://twitter.com/search?q=keepss) | N/A |
+| 28 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 29 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 30 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 31 | [кавеха](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 32 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 33 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 34 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 35 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 36 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 37 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 38 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 40 | [выздоравливай](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
+| 41 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 42 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 43 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
+| 44 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
+| 45 | [Насколько](http://twitter.com/search?q=%d0%9d%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
+| 46 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 47 | [Сочи](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d0%b8) | N/A |
+| 48 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 49 | [питере](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 50 | [пасху](http://twitter.com/search?q=%d0%bf%d0%b0%d1%81%d1%85%d1%83) | N/A |
 
 
 

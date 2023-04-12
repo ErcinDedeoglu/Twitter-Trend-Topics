@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-12 01:44:44 UTC`
+📆 Last Updated: `2023-04-12 02:31:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -55,7 +55,7 @@ This is top 50 for Austria
 | 38 | [Migration](http://twitter.com/search?q=Migration) | N/A |
 | 39 | [sozialdemokrat](http://twitter.com/search?q=sozialdemokrat) | N/A |
 | 40 | [Zunge](http://twitter.com/search?q=Zunge) | N/A |
-| 41 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
+| 41 | [innenminister](http://twitter.com/search?q=innenminister) | N/A |
 | 42 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 43 | [angeblich](http://twitter.com/search?q=angeblich) | N/A |
 | 44 | [Indien](http://twitter.com/search?q=Indien) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-12 01:44:50 UTC`
+📆 Last Updated: `2023-04-12 02:31:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Sweden
 | 1 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 | 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 4 | [Schulman](http://twitter.com/search?q=Schulman) | N/A |
+| 4 | [schulman](http://twitter.com/search?q=schulman) | N/A |
 | 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 6 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
@@ -60,11 +60,11 @@ This is top 50 for Sweden
 | 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 44 | [Absolut Vodka](http://twitter.com/search?q=Absolut+Vodka) | N/A |
 | 45 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 46 | [Sätt](http://twitter.com/search?q=S%c3%a4tt) | N/A |
-| 47 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 48 | [gnaget](http://twitter.com/search?q=gnaget) | N/A |
-| 49 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 50 | [widar](http://twitter.com/search?q=widar) | N/A |
+| 46 | [sätt](http://twitter.com/search?q=s%c3%a4tt) | N/A |
+| 47 | [gnaget](http://twitter.com/search?q=gnaget) | N/A |
+| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 49 | [widar](http://twitter.com/search?q=widar) | N/A |
+| 50 | [ceesay](http://twitter.com/search?q=ceesay) | N/A |
 
 
 

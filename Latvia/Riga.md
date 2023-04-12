@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-12 01:44:14 UTC`
+📆 Last Updated: `2023-04-12 02:30:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 2 | [pīlēnu](http://twitter.com/search?q=p%c4%abl%c4%93nu) | N/A |
+| 2 | [Pīlēnu](http://twitter.com/search?q=P%c4%abl%c4%93nu) | N/A |
 | 3 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
 | 4 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 5 | [levitu](http://twitter.com/search?q=levitu) | N/A |
+| 5 | [Levitu](http://twitter.com/search?q=Levitu) | N/A |
 | 6 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
 | 7 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
 | 8 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |

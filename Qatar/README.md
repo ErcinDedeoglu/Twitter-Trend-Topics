@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-12 01:44:49 UTC`
+📆 Last Updated: `2023-04-12 02:31:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Qatar
 | 18 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
 | 19 | [#ام_صلال](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%b5%d9%84%d8%a7%d9%84) | N/A |
 | 20 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 21 | [علي الدحيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
-| 22 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
-| 23 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 24 | [الصحابي الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
-| 25 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 26 | [قوات الاحتلال الاسراييلي](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 28 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 29 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 30 | [الصفاقسي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d9%82%d8%b3%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
-| 31 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 32 | [ابي بنت](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%a8%d9%86%d8%aa) | N/A |
-| 33 | [تحدي التغيير](http://twitter.com/search?q=%d8%aa%d8%ad%d8%af%d9%8a+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
-| 34 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 35 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
-| 36 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 37 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
-| 38 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
-| 39 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 42 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 43 | [الصلوات الخمس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%85%d8%b3) | N/A |
-| 44 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
-| 45 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 46 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 47 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 48 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
-| 49 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 50 | [منصور](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 21 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
+| 22 | [الصحابي الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
+| 23 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 24 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 25 | [قوات الاحتلال الاسراييلي](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 26 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 27 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 28 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 29 | [الصفاقسي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d9%82%d8%b3%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
+| 30 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [ابي بنت](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%a8%d9%86%d8%aa) | N/A |
+| 32 | [تحدي التغيير](http://twitter.com/search?q=%d8%aa%d8%ad%d8%af%d9%8a+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
+| 33 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 34 | [صاحب السمو](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b3%d9%85%d9%88) | N/A |
+| 35 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
+| 36 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
+| 37 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
+| 38 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 39 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 40 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 41 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 42 | [الصلوات الخمس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%85%d8%b3) | N/A |
+| 43 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
+| 44 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 45 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 46 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 47 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | N/A |
+| 48 | [منصور](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 49 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 50 | [باريس](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%8a%d8%b3) | N/A |
 
 
 

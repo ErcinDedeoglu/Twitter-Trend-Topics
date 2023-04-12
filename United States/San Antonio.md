@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-12 01:44:42 UTC`
+📆 Last Updated: `2023-04-12 02:31:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
+| 1 | [Seager](http://twitter.com/search?q=Seager) | N/A |
 | 2 | [deGrom](http://twitter.com/search?q=deGrom) | N/A |
-| 3 | [#StrosTuesday](http://twitter.com/search?q=%23StrosTuesday) | N/A |
-| 4 | [Javier](http://twitter.com/search?q=Javier) | N/A |
-| 5 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 6 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 7 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 10 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 11 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 12 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
-| 13 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 14 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 15 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 16 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 17 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
-| 18 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 19 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
-| 20 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 21 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 22 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 23 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 24 | [JI HWAN](http://twitter.com/search?q=JI+HWAN) | N/A |
-| 25 | [Capela](http://twitter.com/search?q=Capela) | N/A |
-| 26 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 27 | [Flexen](http://twitter.com/search?q=Flexen) | N/A |
-| 28 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 29 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
-| 30 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
+| 3 | [Chas](http://twitter.com/search?q=Chas) | N/A |
+| 4 | [#StrosTuesday](http://twitter.com/search?q=%23StrosTuesday) | N/A |
+| 5 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
+| 6 | [Javier](http://twitter.com/search?q=Javier) | N/A |
+| 7 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 8 | [Pirates](http://twitter.com/search?q=Pirates) | Pirates are people who attack and steal from ships at sea. They are often seen as criminals who take what they want without regard for the law. The term "pirate" is derived from the Latin word "pirata," which means "one who plunders." |
+| 9 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 13 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 14 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
+| 15 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 16 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 17 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 18 | [Capela](http://twitter.com/search?q=Capela) | N/A |
+| 19 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 20 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 21 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 22 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
+| 23 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 24 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 25 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 26 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 27 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
+| 28 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 29 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 30 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
 | 31 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
-| 32 | [Voth](http://twitter.com/search?q=Voth) | N/A |
-| 33 | [Haslem](http://twitter.com/search?q=Haslem) | N/A |
-| 34 | [Strus](http://twitter.com/search?q=Strus) | N/A |
-| 35 | [Pablo Lopez](http://twitter.com/search?q=Pablo+Lopez) | Pablo Lopez is a Spanish name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "little Paul". |
-| 36 | [Mrazek](http://twitter.com/search?q=Mrazek) | N/A |
-| 37 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 38 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
-| 39 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
-| 40 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 41 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 42 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 43 | [Nelson Velazquez](http://twitter.com/search?q=Nelson+Velazquez) | N/A |
-| 44 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 45 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
-| 46 | [Wesneski](http://twitter.com/search?q=Wesneski) | N/A |
-| 47 | [Pressly](http://twitter.com/search?q=Pressly) | N/A |
-| 48 | [Okongwu](http://twitter.com/search?q=Okongwu) | N/A |
-| 49 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 32 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 33 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 34 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 35 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 36 | [Hader](http://twitter.com/search?q=Hader) | N/A |
+| 37 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
+| 38 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 39 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 40 | [JI HWAN](http://twitter.com/search?q=JI+HWAN) | N/A |
+| 41 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 42 | [Celtics in 5](http://twitter.com/search?q=Celtics+in+5) | N/A |
+| 43 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 44 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
+| 45 | [Flexen](http://twitter.com/search?q=Flexen) | N/A |
+| 46 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 47 | [Okongwu](http://twitter.com/search?q=Okongwu) | N/A |
+| 48 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 49 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
 
 
 
