@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-04-12 09:16:47 UTC`
+📆 Last Updated: `2023-04-12 10:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,27 +42,27 @@ This is top 50 for [Mexico](</Mexico>)
 | 25 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
 | 26 | [Julián Figueroa](http://twitter.com/search?q=Juli%c3%a1n+Figueroa) | N/A |
 | 27 | [Solovino](http://twitter.com/search?q=Solovino) | N/A |
-| 28 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 29 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 30 | [Gera](http://twitter.com/search?q=Gera) | N/A |
-| 31 | [Olivia Collins](http://twitter.com/search?q=Olivia+Collins) | N/A |
-| 32 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 33 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 34 | [Zote](http://twitter.com/search?q=Zote) | N/A |
-| 35 | [Secretario de Estado](http://twitter.com/search?q=Secretario+de+Estado) | N/A |
-| 36 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 37 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [amilcar](http://twitter.com/search?q=amilcar) | N/A |
+| 29 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 30 | [facundo](http://twitter.com/search?q=facundo) | N/A |
+| 31 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 33 | [Zote](http://twitter.com/search?q=Zote) | N/A |
+| 34 | [Secretario de Estado](http://twitter.com/search?q=Secretario+de+Estado) | N/A |
+| 35 | [Olivia Collins](http://twitter.com/search?q=Olivia+Collins) | N/A |
+| 36 | [Gera](http://twitter.com/search?q=Gera) | N/A |
+| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 38 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 39 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 40 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 41 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 39 | [Violette](http://twitter.com/search?q=Violette) | N/A |
+| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 41 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
 | 42 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 43 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 44 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
-| 45 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 47 | [FINAL GALEONA](http://twitter.com/search?q=FINAL+GALEONA) | N/A |
-| 48 | [Tercer Grado Deportivo](http://twitter.com/search?q=Tercer+Grado+Deportivo) | N/A |
+| 43 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 44 | [FINAL GALEONA](http://twitter.com/search?q=FINAL+GALEONA) | N/A |
+| 45 | [Tercer Grado Deportivo](http://twitter.com/search?q=Tercer+Grado+Deportivo) | N/A |
+| 46 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 47 | [Metro](http://twitter.com/search?q=Metro) | Metro is short for metropolitan, which means relating to a large city or urban area. It is often used to refer to public transportation systems in large cities, such as the subway or underground railway. |
+| 48 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 
 
 

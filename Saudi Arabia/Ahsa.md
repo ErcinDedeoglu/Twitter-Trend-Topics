@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-04-12 09:17:36 UTC`
+📆 Last Updated: `2023-04-12 10:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 11 | [الطبقه الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
 | 12 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
 | 13 | [٢١ رمضان](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 14 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
-| 15 | [الطبقه الغنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d9%86%d9%8a%d9%87) | N/A |
-| 16 | [هالاند الثالث](http://twitter.com/search?q=%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 14 | [الطبقه الغنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d9%86%d9%8a%d9%87) | N/A |
+| 15 | [هالاند الثالث](http://twitter.com/search?q=%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 16 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 17 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
-| 18 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 19 | [21 رمضان](http://twitter.com/search?q=21+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 20 | [العشر المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 21 | [عيسي المحياني](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [القدم الضعيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b6%d8%b9%d9%8a%d9%81%d9%87) | N/A |
-| 23 | [الطبقه المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
-| 24 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 25 | [ممفيس](http://twitter.com/search?q=%d9%85%d9%85%d9%81%d9%8a%d8%b3) | N/A |
-| 26 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 27 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 28 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 29 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 30 | [عبدالله السبع](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
-| 31 | [غنابري](http://twitter.com/search?q=%d8%ba%d9%86%d8%a7%d8%a8%d8%b1%d9%8a) | N/A |
-| 32 | [الليالي المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 33 | [بيت الهدف](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
-| 34 | [فابيو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
-| 35 | [العشر الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 36 | [سعيد السريحي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%ad%d9%8a) | N/A |
-| 37 | [مديري المشتريات](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
-| 38 | [سير العمليه التعليميه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 39 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 40 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
-| 41 | [ليال عشر](http://twitter.com/search?q=%d9%84%d9%8a%d8%a7%d9%84+%d8%b9%d8%b4%d8%b1) | N/A |
-| 42 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
-| 43 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 44 | [روسو](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%88) | N/A |
-| 45 | [توفي ابو](http://twitter.com/search?q=%d8%aa%d9%88%d9%81%d9%8a+%d8%a7%d8%a8%d9%88) | N/A |
+| 18 | [21 رمضان](http://twitter.com/search?q=21+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 19 | [العشر المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 20 | [عيسي المحياني](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%8a%d8%a7%d9%86%d9%8a) | N/A |
+| 21 | [القدم الضعيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b6%d8%b9%d9%8a%d9%81%d9%87) | N/A |
+| 22 | [الطبقه المتوسطه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%87) | N/A |
+| 23 | [تمويل الاولي](http://twitter.com/search?q=%d8%aa%d9%85%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 24 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 25 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 26 | [عبدالله السبع](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%a8%d8%b9) | N/A |
+| 27 | [غنابري](http://twitter.com/search?q=%d8%ba%d9%86%d8%a7%d8%a8%d8%b1%d9%8a) | N/A |
+| 28 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
+| 29 | [الليالي المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 30 | [بيت الهدف](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%87%d8%af%d9%81) | N/A |
+| 31 | [فابيو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
+| 32 | [العشر الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
+| 33 | [سعيد السريحي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%ad%d9%8a) | N/A |
+| 34 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
+| 35 | [مديري المشتريات](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
+| 36 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
+| 37 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 38 | [ليال عشر](http://twitter.com/search?q=%d9%84%d9%8a%d8%a7%d9%84+%d8%b9%d8%b4%d8%b1) | N/A |
+| 39 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 40 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 41 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
+| 42 | [روسو](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%88) | N/A |
+| 43 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 44 | [توفي ابو](http://twitter.com/search?q=%d8%aa%d9%88%d9%81%d9%8a+%d8%a7%d8%a8%d9%88) | N/A |
+| 45 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
 | 46 | [الطبقه المخمليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%ae%d9%85%d9%84%d9%8a%d9%87) | N/A |
-| 47 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 48 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
-| 49 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 47 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
+| 48 | [العمليه التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84%d9%8a%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 49 | [تركي العمار](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d8%b1) | N/A |
 | 50 | [الاتحاد الافضل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%81%d8%b6%d9%84) | N/A |
 
 

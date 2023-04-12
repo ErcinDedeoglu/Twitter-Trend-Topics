@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-12 09:17:33 UTC`
+📆 Last Updated: `2023-04-12 10:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for New Zealand
 | 9 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
 | 10 | [Rats](http://twitter.com/search?q=Rats) | N/A |
 | 11 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 12 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 14 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 15 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
-| 16 | [California](http://twitter.com/search?q=California) | N/A |
-| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 18 | [North](http://twitter.com/search?q=North) | N/A |
-| 19 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
-| 20 | [#toomanycows](http://twitter.com/search?q=%23toomanycows) | N/A |
-| 21 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 23 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 24 | [Council](http://twitter.com/search?q=Council) | N/A |
-| 25 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
-| 26 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
-| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 12 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 13 | [California](http://twitter.com/search?q=California) | N/A |
+| 14 | [Disinformation Project](http://twitter.com/search?q=Disinformation+Project) | N/A |
+| 15 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
+| 16 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 17 | [North](http://twitter.com/search?q=North) | N/A |
+| 18 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
+| 19 | [#toomanycows](http://twitter.com/search?q=%23toomanycows) | N/A |
+| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 22 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 23 | [Council](http://twitter.com/search?q=Council) | N/A |
+| 24 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
+| 25 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
+| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 27 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
 | 28 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
-| 29 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
+| 29 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 30 | [The Spinoff](http://twitter.com/search?q=The+Spinoff) | N/A |
-| 31 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 32 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 33 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 34 | [Aucklanders](http://twitter.com/search?q=Aucklanders) | N/A |
-| 35 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 36 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 37 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 38 | [business nz](http://twitter.com/search?q=business+nz) | N/A |
-| 39 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 40 | [Matt King](http://twitter.com/search?q=Matt+King) | N/A |
-| 41 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
-| 42 | [Wanaka](http://twitter.com/search?q=Wanaka) | N/A |
-| 43 | [Te Reo](http://twitter.com/search?q=Te+Reo) | N/A |
-| 44 | [helen clark](http://twitter.com/search?q=helen+clark) | N/A |
-| 45 | [Democracy NZ](http://twitter.com/search?q=Democracy+NZ) | N/A |
-| 46 | [Sean](http://twitter.com/search?q=Sean) | N/A |
-| 47 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 48 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
-| 49 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 50 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
+| 31 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 32 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 33 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
+| 34 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 35 | [Aucklanders](http://twitter.com/search?q=Aucklanders) | N/A |
+| 36 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 37 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 38 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 39 | [Te Reo](http://twitter.com/search?q=Te+Reo) | N/A |
+| 40 | [business nz](http://twitter.com/search?q=business+nz) | N/A |
+| 41 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 42 | [Democracy NZ](http://twitter.com/search?q=Democracy+NZ) | N/A |
+| 43 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 44 | [Wanaka](http://twitter.com/search?q=Wanaka) | N/A |
+| 45 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 46 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 47 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 48 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
+| 49 | [Daddy](http://twitter.com/search?q=Daddy) | N/A |
+| 50 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 
 
 

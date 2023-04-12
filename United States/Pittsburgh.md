@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-12 09:17:26 UTC`
+📆 Last Updated: `2023-04-12 10:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Pens](http://twitter.com/search?q=Pens) | N/A |
 | 2 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
 | 3 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 4 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 5 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
 | 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 8 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
-| 9 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 10 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 11 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 12 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 13 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 14 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 9 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 10 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 11 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 12 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 13 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 14 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
 | 15 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
 | 16 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 17 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
-| 18 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
-| 19 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 20 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 21 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 22 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
+| 17 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
+| 18 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
+| 19 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 20 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
+| 21 | [#Wordle662](http://twitter.com/search?q=%23Wordle662) | N/A |
+| 22 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
 | 23 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 24 | [#MINvsLAL](http://twitter.com/search?q=%23MINvsLAL) | N/A |
-| 25 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
-| 26 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 27 | [DeGods NYC](http://twitter.com/search?q=DeGods+NYC) | N/A |
-| 28 | [Towns](http://twitter.com/search?q=Towns) | N/A |
-| 29 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
-| 30 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 31 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 32 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 33 | [Finch](http://twitter.com/search?q=Finch) | N/A |
-| 34 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 35 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 36 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
-| 37 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 38 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 39 | [4th and OT](http://twitter.com/search?q=4th+and+OT) | N/A |
-| 40 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 41 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 42 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 43 | [Ant Man](http://twitter.com/search?q=Ant+Man) | N/A |
-| 44 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 45 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
-| 46 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 47 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 48 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 49 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 50 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 24 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
+| 25 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 26 | [DeGods NYC](http://twitter.com/search?q=DeGods+NYC) | N/A |
+| 27 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 28 | [Vando](http://twitter.com/search?q=Vando) | N/A |
+| 29 | [Towns](http://twitter.com/search?q=Towns) | N/A |
+| 30 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 31 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 32 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
+| 33 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
+| 34 | [4th and ot](http://twitter.com/search?q=4th+and+ot) | N/A |
+| 35 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 36 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 37 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 38 | [Ant Man](http://twitter.com/search?q=Ant+Man) | N/A |
+| 39 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 40 | [Darvin](http://twitter.com/search?q=Darvin) | N/A |
+| 41 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 42 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 43 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 44 | [Spaces](http://twitter.com/search?q=Spaces) | N/A |
+| 45 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 46 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 47 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
+| 48 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
+| 49 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
+| 50 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
 
 
 

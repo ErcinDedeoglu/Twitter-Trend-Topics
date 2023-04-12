@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-12 09:16:46 UTC`
+📆 Last Updated: `2023-04-12 10:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,18 +15,18 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 3 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
-| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 5 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 6 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 7 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 8 | [Davis](http://twitter.com/search?q=Davis) | N/A |
-| 9 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 1 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
+| 4 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 5 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 6 | [Davis](http://twitter.com/search?q=Davis) | N/A |
+| 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 8 | [día nacional del café](http://twitter.com/search?q=d%c3%ada+nacional+del+caf%c3%a9) | N/A |
+| 9 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
 | 10 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 11 | [día nacional del café](http://twitter.com/search?q=d%c3%ada+nacional+del+caf%c3%a9) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
 | 13 | [Faride](http://twitter.com/search?q=Faride) | N/A |
 | 14 | [Towns](http://twitter.com/search?q=Towns) | N/A |
 | 15 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 33 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
 | 34 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
 | 35 | [Interesante](http://twitter.com/search?q=Interesante) | N/A |
-| 36 | [Centroamérica](http://twitter.com/search?q=Centroam%c3%a9rica) | N/A |
-| 37 | [Casals](http://twitter.com/search?q=Casals) | N/A |
-| 38 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 39 | [#PlayIn](http://twitter.com/search?q=%23PlayIn) | N/A |
-| 40 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 41 | [La Menina Caribeña](http://twitter.com/search?q=La+Menina+Caribe%c3%b1a) | N/A |
-| 42 | [autopista duarte](http://twitter.com/search?q=autopista+duarte) | N/A |
-| 43 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
-| 44 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 45 | [Nieves](http://twitter.com/search?q=Nieves) | N/A |
-| 46 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 47 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 48 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 49 | [euric](http://twitter.com/search?q=euric) | N/A |
-| 50 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 36 | [Casals](http://twitter.com/search?q=Casals) | N/A |
+| 37 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 38 | [#PlayIn](http://twitter.com/search?q=%23PlayIn) | N/A |
+| 39 | [La Menina Caribeña](http://twitter.com/search?q=La+Menina+Caribe%c3%b1a) | N/A |
+| 40 | [autopista duarte](http://twitter.com/search?q=autopista+duarte) | N/A |
+| 41 | [Acevedo](http://twitter.com/search?q=Acevedo) | N/A |
+| 42 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 43 | [Nieves](http://twitter.com/search?q=Nieves) | N/A |
+| 44 | [Centroamérica](http://twitter.com/search?q=Centroam%c3%a9rica) | N/A |
+| 45 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 46 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
+| 47 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 48 | [euric](http://twitter.com/search?q=euric) | N/A |
+| 49 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 50 | [mateo aquino febrillet](http://twitter.com/search?q=mateo+aquino+febrillet) | N/A |
 
 
 

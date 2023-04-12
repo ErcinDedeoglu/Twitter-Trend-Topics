@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cairo
 
-📆 Last Updated: `2023-04-12 09:17:10 UTC`
+📆 Last Updated: `2023-04-12 10:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Egypt](</Egypt>)
 | 2 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
 | 3 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 4 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 5 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 6 | [#حياه_كريمه_الخير_خيرين](http://twitter.com/search?q=%23%d8%ad%d9%8a%d8%a7%d9%87_%d9%83%d8%b1%d9%8a%d9%85%d9%87_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d8%ae%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
+| 5 | [#حياه_كريمه_الخير_خيرين](http://twitter.com/search?q=%23%d8%ad%d9%8a%d8%a7%d9%87_%d9%83%d8%b1%d9%8a%d9%85%d9%87_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d8%ae%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
+| 6 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
 | 7 | [جوارديولا](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
 | 8 | [٢١ رمضان](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 9 | [جعفر](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
-| 10 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 10 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
 | 11 | [الاهلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | الاهلي is a professional football club based in Cairo, Egypt. It is one of the most successful clubs in the country, having won the Egyptian Premier League title a record 39 times. In English, it translates to "The Family". |
-| 12 | [#تغيير_جو](http://twitter.com/search?q=%23%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1_%d8%ac%d9%88) | N/A |
-| 13 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 12 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 13 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
 | 14 | [الليله الوتريه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%aa%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 15 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 16 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 17 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 18 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
-| 19 | [الليالي الوتريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%aa%d8%b1%d9%8a%d9%87) | N/A |
-| 20 | [ليبرون](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d8%b1%d9%88%d9%86) | N/A |
+| 15 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 16 | [21 رمضان](http://twitter.com/search?q=21+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 17 | [الليالي الوتريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%aa%d8%b1%d9%8a%d9%87) | N/A |
+| 18 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
+| 19 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
+| 20 | [باتشيكو](http://twitter.com/search?q=%d8%a8%d8%a7%d8%aa%d8%b4%d9%8a%d9%83%d9%88) | باتشيكو (pronounced "ba-tchee-koh") is a type of traditional Japanese confectionery made from mochi (rice cake) and anko (sweet red bean paste). It is usually served as a dessert or snack. In English, it can be translated as "rice cake with sweet bean paste". |
 | 21 | [الشناوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | N/A |
-| 22 | [21 رمضان](http://twitter.com/search?q=21+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 23 | [باتشيكو](http://twitter.com/search?q=%d8%a8%d8%a7%d8%aa%d8%b4%d9%8a%d9%83%d9%88) | باتشيكو (pronounced "ba-tchee-koh") is a type of traditional Japanese confectionery made from mochi (rice cake) and anko (sweet red bean paste). It is usually served as a dessert or snack. In English, it can be translated as "rice cake with sweet bean paste". |
-| 24 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
-| 25 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 26 | [رمضان صبحي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b5%d8%a8%d8%ad%d9%8a) | N/A |
-| 27 | [كريم حليم](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%ad%d9%84%d9%8a%d9%85) | N/A |
-| 28 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 29 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 30 | [مدحت شلبي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
-| 31 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
-| 32 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
-| 33 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 34 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 35 | [الليالي المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 36 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
-| 37 | [الرباط الصليبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8%d9%8a) | N/A |
-| 38 | [البيت الفجر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
-| 39 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
+| 22 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 23 | [حمدي فتحي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d9%8a+%d9%81%d8%aa%d8%ad%d9%8a) | حمدي فتحي is an Arabic phrase that translates to "Praise be to God". It is a common expression of gratitude and appreciation for God's blessings. |
+| 24 | [كريم حليم](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d9%85+%d8%ad%d9%84%d9%8a%d9%85) | N/A |
+| 25 | [رمضان صبحي](http://twitter.com/search?q=%d8%b1%d9%85%d8%b6%d8%a7%d9%86+%d8%b5%d8%a8%d8%ad%d9%8a) | N/A |
+| 26 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
+| 27 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 28 | [#الحياه_تجارب](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ad%d9%8a%d8%a7%d9%87_%d8%aa%d8%ac%d8%a7%d8%b1%d8%a8) | N/A |
+| 29 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
+| 30 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
+| 31 | [كاس مصر](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d9%85%d8%b5%d8%b1) | N/A |
+| 32 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 33 | [مدحت شلبي](http://twitter.com/search?q=%d9%85%d8%af%d8%ad%d8%aa+%d8%b4%d9%84%d8%a8%d9%8a) | N/A |
+| 34 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
+| 35 | [الرباط الصليبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%a7%d8%b7+%d8%a7%d9%84%d8%b5%d9%84%d9%8a%d8%a8%d9%8a) | N/A |
+| 36 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 37 | [صاعد علي المدي القصير](http://twitter.com/search?q=%d8%b5%d8%a7%d8%b9%d8%af+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d8%b1) | N/A |
+| 38 | [عبد المنعم](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d9%85%d9%86%d8%b9%d9%85) | N/A |
+| 39 | [البيت الفجر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%81%d8%ac%d8%b1) | N/A |
 | 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 41 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 42 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
-| 43 | [شربت حشيش](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d8%aa+%d8%ad%d8%b4%d9%8a%d8%b4) | N/A |
-| 44 | [بيت العويل](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d9%84) | N/A |
-| 45 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
-| 46 | [غير قدري](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%82%d8%af%d8%b1%d9%8a) | N/A |
-| 47 | [برا لحد الساعه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d9%84%d8%ad%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
+| 41 | [انتر](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d8%b1) | N/A |
+| 42 | [شربت حشيش](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d8%aa+%d8%ad%d8%b4%d9%8a%d8%b4) | N/A |
+| 43 | [بيت العويل](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d9%84) | N/A |
+| 44 | [غير قدري](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%82%d8%af%d8%b1%d9%8a) | N/A |
+| 45 | [امين عمر](http://twitter.com/search?q=%d8%a7%d9%85%d9%8a%d9%86+%d8%b9%d9%85%d8%b1) | N/A |
+| 46 | [برا لحد الساعه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d9%84%d8%ad%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
+| 47 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
 | 48 | [عبدالله السعيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
 | 49 | [الحكم السوداني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a) | N/A |
 | 50 | [واشنطن بوست](http://twitter.com/search?q=%d9%88%d8%a7%d8%b4%d9%86%d8%b7%d9%86+%d8%a8%d9%88%d8%b3%d8%aa) | N/A |

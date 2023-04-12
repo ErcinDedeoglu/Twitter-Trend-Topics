@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-12 09:17:31 UTC`
+📆 Last Updated: `2023-04-12 10:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Guatemala
 | 5 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
 | 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 8 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
+| 8 | [virginia laparra](http://twitter.com/search?q=virginia+laparra) | N/A |
 | 9 | [fríos](http://twitter.com/search?q=fr%c3%ados) | N/A |
 | 10 | [isaiah steen](http://twitter.com/search?q=isaiah+steen) | N/A |
 | 11 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
@@ -48,20 +48,20 @@ This is top 50 for Guatemala
 | 31 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
 | 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 33 | [Propuesta](http://twitter.com/search?q=Propuesta) | N/A |
-| 34 | [Nahualá](http://twitter.com/search?q=Nahual%c3%a1) | N/A |
+| 34 | [nahualá](http://twitter.com/search?q=nahual%c3%a1) | N/A |
 | 35 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 36 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 37 | [fuerza aérea guatemalteca](http://twitter.com/search?q=fuerza+a%c3%a9rea+guatemalteca) | N/A |
 | 38 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 39 | [Neto Bran](http://twitter.com/search?q=Neto+Bran) | N/A |
+| 39 | [neto bran](http://twitter.com/search?q=neto+bran) | N/A |
 | 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 41 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
 | 42 | [cnco regresa a guate](http://twitter.com/search?q=cnco+regresa+a+guate) | N/A |
 | 43 | [roberto arzú](http://twitter.com/search?q=roberto+arz%c3%ba) | N/A |
-| 44 | [Acuerdo Nacional](http://twitter.com/search?q=Acuerdo+Nacional) | N/A |
+| 44 | [acuerdo nacional](http://twitter.com/search?q=acuerdo+nacional) | N/A |
 | 45 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 46 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 47 | [Sandra Torres](http://twitter.com/search?q=Sandra+Torres) | N/A |
+| 47 | [sandra torres](http://twitter.com/search?q=sandra+torres) | N/A |
 | 48 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
 | 49 | [Aguas](http://twitter.com/search?q=Aguas) | N/A |
 | 50 | [Mario](http://twitter.com/search?q=Mario) | N/A |

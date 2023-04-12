@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-12 09:17:18 UTC`
+📆 Last Updated: `2023-04-12 10:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DoğrusuAkParti](http://twitter.com/search?q=%23Do%c4%9frusuAkParti) | N/A |
-| 2 | [#NeKadarDoğru](http://twitter.com/search?q=%23NeKadarDo%c4%9fru) | N/A |
-| 3 | [#Emad2000ler](http://twitter.com/search?q=%23Emad2000ler) | N/A |
-| 4 | [#reisailedekiekdersliyemüjde](http://twitter.com/search?q=%23reisailedekiekdersliyem%c3%bcjde) | N/A |
-| 5 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 6 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
-| 7 | [şerefsiz caner](http://twitter.com/search?q=%c5%9ferefsiz+caner) | N/A |
-| 8 | [dexgame](http://twitter.com/search?q=dexgame) | N/A |
-| 9 | [10 GB](http://twitter.com/search?q=10+GB) | N/A |
-| 10 | [Mülakatı](http://twitter.com/search?q=M%c3%bclakat%c4%b1) | N/A |
-| 11 | [iibfp3ünsesini duyanvarmı](http://twitter.com/search?q=iibfp3%c3%bcnsesini+duyanvarm%c4%b1) | N/A |
-| 12 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 13 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 14 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 15 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
-| 16 | [Naci Görüntü](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcnt%c3%bc) | N/A |
-| 17 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 18 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
-| 19 | [Pire](http://twitter.com/search?q=Pire) | N/A |
-| 20 | [ŞoförüDuy SeçimiKazan](http://twitter.com/search?q=%c5%9eof%c3%b6r%c3%bcDuy+Se%c3%a7imiKazan) | N/A |
-| 21 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 22 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
-| 23 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 24 | [İlker Bey](http://twitter.com/search?q=%c4%b0lker+Bey) | N/A |
-| 25 | [Namazı](http://twitter.com/search?q=Namaz%c4%b1) | N/A |
-| 26 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
-| 27 | [24 Nisan'da](http://twitter.com/search?q=24+Nisan%27da) | N/A |
-| 28 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 29 | [Okan Buruk](http://twitter.com/search?q=Okan+Buruk) | Okan Buruk is a Turkish phrase that translates to "bad luck". It is used to express sympathy or commiserate with someone who has experienced misfortune. |
-| 30 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 31 | [Urfi Çetinkaya](http://twitter.com/search?q=Urfi+%c3%87etinkaya) | N/A |
-| 32 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 33 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 34 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
-| 35 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
-| 36 | [Hırsızın](http://twitter.com/search?q=H%c4%b1rs%c4%b1z%c4%b1n) | N/A |
-| 37 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
-| 38 | [Süper Lig'de 2023-2024](http://twitter.com/search?q=S%c3%bcper+Lig%27de+2023-2024) | N/A |
-| 39 | [Serhan](http://twitter.com/search?q=Serhan) | N/A |
-| 40 | [Burak Kızılhan](http://twitter.com/search?q=Burak+K%c4%b1z%c4%b1lhan) | N/A |
-| 41 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
-| 42 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 43 | [Şimdiye](http://twitter.com/search?q=%c5%9eimdiye) | N/A |
-| 44 | [Deniz Harp Okulu](http://twitter.com/search?q=Deniz+Harp+Okulu) | N/A |
-| 45 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 47 | [jagerile sahuradogru](http://twitter.com/search?q=jagerile+sahuradogru) | N/A |
-| 48 | [Dosta](http://twitter.com/search?q=Dosta) | N/A |
-| 49 | [oyumsenin baykemal](http://twitter.com/search?q=oyumsenin+baykemal) | N/A |
-| 50 | [Çocuklarİçin Adaletİstiyoruz](http://twitter.com/search?q=%c3%87ocuklar%c4%b0%c3%a7in+Adalet%c4%b0stiyoruz) | N/A |
+| 1 | [#NeKadarDoğru](http://twitter.com/search?q=%23NeKadarDo%c4%9fru) | N/A |
+| 2 | [#EytÇözülmüşGibiYapılıyor](http://twitter.com/search?q=%23Eyt%c3%87%c3%b6z%c3%bclm%c3%bc%c5%9fGibiYap%c4%b1l%c4%b1yor) | N/A |
+| 3 | [#OYistiyorsanKCP](http://twitter.com/search?q=%23OYistiyorsanKCP) | N/A |
+| 4 | [#carsamba](http://twitter.com/search?q=%23carsamba) | N/A |
+| 5 | [ŞoförüDuy SeçimiKazan](http://twitter.com/search?q=%c5%9eof%c3%b6r%c3%bcDuy+Se%c3%a7imiKazan) | N/A |
+| 6 | [Serhan](http://twitter.com/search?q=Serhan) | N/A |
+| 7 | [Pire](http://twitter.com/search?q=Pire) | N/A |
+| 8 | [Namazı](http://twitter.com/search?q=Namaz%c4%b1) | N/A |
+| 9 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 10 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
+| 11 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 12 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
+| 13 | [Dosta](http://twitter.com/search?q=Dosta) | N/A |
+| 14 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 15 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 16 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 17 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 18 | [İlker](http://twitter.com/search?q=%c4%b0lker) | N/A |
+| 19 | [Kızılayın](http://twitter.com/search?q=K%c4%b1z%c4%b1lay%c4%b1n) | N/A |
+| 20 | [Urfi Çetinkaya](http://twitter.com/search?q=Urfi+%c3%87etinkaya) | N/A |
+| 21 | [Kuduz](http://twitter.com/search?q=Kuduz) | N/A |
+| 22 | [Özdağ](http://twitter.com/search?q=%c3%96zda%c4%9f) | N/A |
+| 23 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
+| 24 | [Mülakat](http://twitter.com/search?q=M%c3%bclakat) | N/A |
+| 25 | [Yılmaz Özdil](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%96zdil) | N/A |
+| 26 | [#TogetherforTürkiye](http://twitter.com/search?q=%23TogetherforT%c3%bcrkiye) | N/A |
+| 27 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
+| 28 | [#20Yılda](http://twitter.com/search?q=%2320Y%c4%b1lda) | N/A |
+| 29 | [#EUPWR](http://twitter.com/search?q=%23EUPWR) | N/A |
+| 30 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 31 | [#StajyerÇırakSeçimiBelirler](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakSe%c3%a7imiBelirler) | N/A |
+| 32 | [#SerenaySarıkaya](http://twitter.com/search?q=%23SerenaySar%c4%b1kaya) | N/A |
+| 33 | [#DogrusuAkParti](http://twitter.com/search?q=%23DogrusuAkParti) | N/A |
+| 34 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
+| 35 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
+| 36 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
+| 37 | [#guenaydin](http://twitter.com/search?q=%23guenaydin) | N/A |
+| 38 | [#Emad2000ler](http://twitter.com/search?q=%23Emad2000ler) | N/A |
+| 39 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
+| 40 | [#EvlilikTeklifi](http://twitter.com/search?q=%23EvlilikTeklifi) | N/A |
+| 41 | [#Galatasaraybilet](http://twitter.com/search?q=%23Galatasaraybilet) | N/A |
+| 42 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
+| 43 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
 
 
 
