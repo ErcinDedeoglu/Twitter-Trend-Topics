@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-12 13:19:03 UTC`
+📆 Last Updated: `2023-04-12 14:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AloneAustralia](http://twitter.com/search?q=%23AloneAustralia) | N/A |
-| 2 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 1 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 3 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
 | 4 | [Leeser](http://twitter.com/search?q=Leeser) | N/A |
-| 5 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
+| 5 | [#AloneAustralia](http://twitter.com/search?q=%23AloneAustralia) | N/A |
 | 6 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
 | 7 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
 | 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
@@ -30,39 +30,39 @@ This is top 50 for [Australia](</Australia>)
 | 13 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 14 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 15 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 18 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 19 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 21 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
-| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 23 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 24 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 25 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
-| 26 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 16 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 17 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 18 | [Port Arthur](http://twitter.com/search?q=Port+Arthur) | N/A |
+| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 20 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
+| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 22 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 23 | [Rohan](http://twitter.com/search?q=Rohan) | N/A |
+| 24 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 25 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
+| 26 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 27 | [Catherine Bennett](http://twitter.com/search?q=Catherine+Bennett) | N/A |
 | 28 | [Wyatt](http://twitter.com/search?q=Wyatt) | Wyatt is an English surname derived from the Old English given name Wigheard, which means "brave in war". It is also a given name, usually for boys. |
 | 29 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 30 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 31 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 32 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 33 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 34 | [Milkrun](http://twitter.com/search?q=Milkrun) | N/A |
-| 35 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 36 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
-| 37 | [NIMBY](http://twitter.com/search?q=NIMBY) | N/A |
-| 38 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 39 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 40 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
-| 41 | [Tarryn Thomas](http://twitter.com/search?q=Tarryn+Thomas) | N/A |
-| 42 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 43 | [Australia Institute](http://twitter.com/search?q=Australia+Institute) | N/A |
-| 44 | [Wong](http://twitter.com/search?q=Wong) | N/A |
-| 45 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 46 | [England](http://twitter.com/search?q=England) | N/A |
-| 47 | [Greg Sheridan](http://twitter.com/search?q=Greg+Sheridan) | N/A |
-| 48 | [Splendour](http://twitter.com/search?q=Splendour) | N/A |
+| 30 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 31 | [Darren](http://twitter.com/search?q=Darren) | N/A |
+| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Sarah Ferguson](http://twitter.com/search?q=Sarah+Ferguson) | N/A |
+| 34 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 35 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 36 | [Milkrun](http://twitter.com/search?q=Milkrun) | N/A |
+| 37 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
+| 38 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
+| 39 | [NIMBY](http://twitter.com/search?q=NIMBY) | N/A |
+| 40 | [Tarryn Thomas](http://twitter.com/search?q=Tarryn+Thomas) | N/A |
+| 41 | [Wong](http://twitter.com/search?q=Wong) | N/A |
+| 42 | [Sam Kerr](http://twitter.com/search?q=Sam+Kerr) | Sam Kerr is an Australian professional soccer player who currently plays for the Chicago Red Stars in the National Women's Soccer League. She is a two-time AFC Women's Player of the Year and was named the 2019 FIFA Best Women's Player. She is known for her prolific goal-scoring ability and has scored more goals than any other player in NWSL history. |
+| 43 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
+| 44 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 45 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 46 | [Australia Institute](http://twitter.com/search?q=Australia+Institute) | N/A |
+| 47 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 48 | [England](http://twitter.com/search?q=England) | N/A |
 
 
 

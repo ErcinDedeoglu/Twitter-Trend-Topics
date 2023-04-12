@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-12 13:19:01 UTC`
+📆 Last Updated: `2023-04-12 14:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 8 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 9 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 9 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 10 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
 | 11 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
 | 12 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
@@ -34,36 +34,36 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
 | 18 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
 | 19 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 20 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 20 | [Session](http://twitter.com/search?q=Session) | N/A |
 | 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 22 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
 | 23 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 24 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
-| 25 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 26 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 24 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 25 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 26 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
 | 27 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 29 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 31 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 33 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 35 | [Organisationen](http://twitter.com/search?q=Organisationen) | N/A |
-| 36 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 37 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 38 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
-| 39 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 40 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
-| 41 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
-| 42 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
-| 43 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 44 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 45 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 46 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 47 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
-| 48 | [Toten](http://twitter.com/search?q=Toten) | N/A |
-| 49 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 30 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 32 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 33 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 34 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 36 | [Organisationen](http://twitter.com/search?q=Organisationen) | N/A |
+| 37 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 38 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 39 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 40 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 41 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
+| 42 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
+| 43 | [ostermontag](http://twitter.com/search?q=ostermontag) | N/A |
+| 44 | [Quatsch](http://twitter.com/search?q=Quatsch) | N/A |
+| 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 46 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
+| 47 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 48 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-12 13:18:54 UTC`
+📆 Last Updated: `2023-04-12 14:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,9 +29,9 @@ This is top 50 for [Austria](</Austria>)
 | 12 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 14 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 15 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
-| 16 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 17 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 15 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 16 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 17 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
 | 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 19 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
 | 20 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Austria](</Austria>)
 | 25 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
 | 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 27 | [Screenshot](http://twitter.com/search?q=Screenshot) | N/A |
-| 28 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 28 | [Härte](http://twitter.com/search?q=H%c3%a4rte) | N/A |
 | 29 | [Einschätzung](http://twitter.com/search?q=Einsch%c3%a4tzung) | N/A |
 | 30 | [Traiskirchen](http://twitter.com/search?q=Traiskirchen) | N/A |
-| 31 | [Sozialdemokrat](http://twitter.com/search?q=Sozialdemokrat) | N/A |
-| 32 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 33 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
-| 34 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
-| 35 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
-| 36 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
-| 37 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
-| 38 | [Schäden](http://twitter.com/search?q=Sch%c3%a4den) | N/A |
-| 39 | [Angeblich](http://twitter.com/search?q=Angeblich) | N/A |
-| 40 | [Aufregung](http://twitter.com/search?q=Aufregung) | N/A |
-| 41 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 42 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 43 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 44 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 45 | [Können Sie](http://twitter.com/search?q=K%c3%b6nnen+Sie) | N/A |
-| 46 | [Bundesland](http://twitter.com/search?q=Bundesland) | N/A |
-| 47 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 48 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 49 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 50 | [Material](http://twitter.com/search?q=Material) | N/A |
+| 31 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 32 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
+| 33 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 34 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
+| 35 | [Band](http://twitter.com/search?q=Band) | Band is a group of musicians who play music together. It can also refer to a group of people who are connected by a common interest or purpose. The word is derived from the Old French word "bande", which means "a company of persons". |
+| 36 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
+| 37 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
+| 38 | [Verkehr](http://twitter.com/search?q=Verkehr) | N/A |
+| 39 | [Schäden](http://twitter.com/search?q=Sch%c3%a4den) | N/A |
+| 40 | [Angeblich](http://twitter.com/search?q=Angeblich) | N/A |
+| 41 | [Aufregung](http://twitter.com/search?q=Aufregung) | N/A |
+| 42 | [Können Sie](http://twitter.com/search?q=K%c3%b6nnen+Sie) | N/A |
+| 43 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 44 | [Presse](http://twitter.com/search?q=Presse) | N/A |
+| 45 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 46 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 47 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 48 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 49 | [Material](http://twitter.com/search?q=Material) | N/A |
+| 50 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 
 
 

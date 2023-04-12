@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-04-12 13:18:58 UTC`
+📆 Last Updated: `2023-04-12 14:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Italy](</Italy>)
 | 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 12 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
 | 13 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 14 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 15 | [Fiocco](http://twitter.com/search?q=Fiocco) | N/A |
-| 16 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 17 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
-| 18 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 19 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 21 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 22 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 23 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
-| 24 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 25 | [Pietro Orlandi](http://twitter.com/search?q=Pietro+Orlandi) | N/A |
-| 26 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
-| 27 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 28 | [Benatia](http://twitter.com/search?q=Benatia) | N/A |
-| 29 | [Nardi](http://twitter.com/search?q=Nardi) | N/A |
-| 30 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 14 | [Fiocco](http://twitter.com/search?q=Fiocco) | N/A |
+| 15 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
+| 16 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 18 | [Nardi](http://twitter.com/search?q=Nardi) | N/A |
+| 19 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
+| 20 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 21 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 22 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 23 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 24 | [Pietro Orlandi](http://twitter.com/search?q=Pietro+Orlandi) | N/A |
+| 25 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 26 | [Benatia](http://twitter.com/search?q=Benatia) | N/A |
+| 27 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 28 | [Lippi](http://twitter.com/search?q=Lippi) | N/A |
+| 29 | [mRNA](http://twitter.com/search?q=mRNA) | N/A |
+| 30 | [Turris](http://twitter.com/search?q=Turris) | N/A |
 | 31 | [Lisbona](http://twitter.com/search?q=Lisbona) | N/A |
-| 32 | [Marattin](http://twitter.com/search?q=Marattin) | N/A |
-| 33 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 34 | [Turris](http://twitter.com/search?q=Turris) | N/A |
-| 35 | [Lippi](http://twitter.com/search?q=Lippi) | N/A |
-| 36 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 37 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 38 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 39 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
-| 40 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 41 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 44 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
-| 45 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 46 | [Sacchi](http://twitter.com/search?q=Sacchi) | N/A |
-| 47 | [Dragoni](http://twitter.com/search?q=Dragoni) | N/A |
-| 48 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 49 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 32 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 33 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 34 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 35 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 36 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 37 | [Marattin](http://twitter.com/search?q=Marattin) | N/A |
+| 38 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 39 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 40 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
+| 41 | [Dragoni](http://twitter.com/search?q=Dragoni) | N/A |
+| 42 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 43 | [Sacchi](http://twitter.com/search?q=Sacchi) | N/A |
+| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 45 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 46 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 47 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 48 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 49 | [Lille](http://twitter.com/search?q=Lille) | N/A |
 | 50 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 
 

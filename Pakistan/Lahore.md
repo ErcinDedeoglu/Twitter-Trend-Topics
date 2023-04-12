@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-04-12 13:19:15 UTC`
+📆 Last Updated: `2023-04-12 14:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 7 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
 | 8 | [Nikkah](http://twitter.com/search?q=Nikkah) | N/A |
-| 9 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
-| 10 | [Iddat](http://twitter.com/search?q=Iddat) | N/A |
-| 11 | [BOL Network](http://twitter.com/search?q=BOL+Network) | N/A |
+| 9 | [Iddat](http://twitter.com/search?q=Iddat) | N/A |
+| 10 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
+| 11 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
 | 12 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 13 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
-| 14 | [Akash](http://twitter.com/search?q=Akash) | N/A |
-| 15 | [Molana Ahmed Ludhyanvi](http://twitter.com/search?q=Molana+Ahmed+Ludhyanvi) | N/A |
-| 16 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 17 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 13 | [Akash](http://twitter.com/search?q=Akash) | N/A |
+| 14 | [Molana Ahmed Ludhyanvi](http://twitter.com/search?q=Molana+Ahmed+Ludhyanvi) | N/A |
+| 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 16 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 17 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
 | 18 | [Liars](http://twitter.com/search?q=Liars) | N/A |
 | 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 21 | [O Ali](http://twitter.com/search?q=O+Ali) | N/A |
 | 22 | [benazir kafaalat](http://twitter.com/search?q=benazir+kafaalat) | N/A |
-| 23 | [heavy industries taxila](http://twitter.com/search?q=heavy+industries+taxila) | N/A |
-| 24 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 25 | [Junaid Hafeez](http://twitter.com/search?q=Junaid+Hafeez) | N/A |
+| 23 | [Junaid Hafeez](http://twitter.com/search?q=Junaid+Hafeez) | N/A |
+| 24 | [heavy industries taxila](http://twitter.com/search?q=heavy+industries+taxila) | N/A |
+| 25 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
 | 26 | [Ali Ibn Abi Talib](http://twitter.com/search?q=Ali+Ibn+Abi+Talib) | N/A |
 | 27 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 28 | [Hussain Haqqani](http://twitter.com/search?q=Hussain+Haqqani) | N/A |
 | 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 30 | [Toot](http://twitter.com/search?q=Toot) | N/A |
-| 31 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 32 | [Ameer ul Momineen](http://twitter.com/search?q=Ameer+ul+Momineen) | N/A |
-| 33 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
-| 34 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 35 | [When Allah](http://twitter.com/search?q=When+Allah) | N/A |
-| 36 | [Gilgit](http://twitter.com/search?q=Gilgit) | N/A |
-| 37 | [Canva](http://twitter.com/search?q=Canva) | N/A |
-| 38 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
-| 39 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
-| 40 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 31 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 32 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 33 | [Ameer ul Momineen](http://twitter.com/search?q=Ameer+ul+Momineen) | N/A |
+| 34 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
+| 35 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 36 | [KING AI](http://twitter.com/search?q=KING+AI) | N/A |
+| 37 | [When Allah](http://twitter.com/search?q=When+Allah) | N/A |
+| 38 | [Canva](http://twitter.com/search?q=Canva) | N/A |
+| 39 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 40 | [Gilgit](http://twitter.com/search?q=Gilgit) | N/A |
 | 41 | [Context](http://twitter.com/search?q=Context) | N/A |
-| 42 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 42 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
 | 43 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
-| 44 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
-| 45 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 46 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 47 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
-| 48 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 49 | [Thankyouu](http://twitter.com/search?q=Thankyouu) | N/A |
-| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 44 | [Shukria](http://twitter.com/search?q=Shukria) | N/A |
+| 45 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 46 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 47 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 48 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 49 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
+| 50 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
 
 
 

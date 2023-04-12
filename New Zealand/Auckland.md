@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-12 13:19:20 UTC`
+📆 Last Updated: `2023-04-12 14:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 2 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 4 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 2 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 3 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 4 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 5 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
 | 6 | [Brown](http://twitter.com/search?q=Brown) | N/A |
 | 7 | [Judith](http://twitter.com/search?q=Judith) | N/A |
 | 8 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 34 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 35 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 36 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 37 | [Te Reo](http://twitter.com/search?q=Te+Reo) | N/A |
+| 37 | [te reo](http://twitter.com/search?q=te+reo) | N/A |
 | 38 | [business nz](http://twitter.com/search?q=business+nz) | N/A |
-| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 40 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 41 | [Democracy NZ](http://twitter.com/search?q=Democracy+NZ) | N/A |
-| 42 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 43 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
-| 44 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 45 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 46 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 47 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 48 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 49 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
-| 50 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 39 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 40 | [democracy nz](http://twitter.com/search?q=democracy+nz) | N/A |
+| 41 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 42 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
+| 43 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 44 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 45 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 46 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 47 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 48 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
+| 49 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 50 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
 
 
 

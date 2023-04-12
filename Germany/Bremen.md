@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-12 13:18:56 UTC`
+📆 Last Updated: `2023-04-12 14:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,45 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 2 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
-| 3 | [#AKWAbschaltung](http://twitter.com/search?q=%23AKWAbschaltung) | N/A |
-| 4 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 5 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 6 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 7 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 8 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 9 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 10 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
-| 11 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 12 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 13 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 14 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
-| 15 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 1 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
+| 2 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
+| 3 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 4 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 5 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 6 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 7 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
+| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 9 | [Sommerpause](http://twitter.com/search?q=Sommerpause) | N/A |
+| 10 | [#Weedmob](http://twitter.com/search?q=%23Weedmob) | N/A |
+| 11 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
+| 12 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 13 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 14 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
+| 15 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
 | 16 | [Grenzwerte](http://twitter.com/search?q=Grenzwerte) | N/A |
-| 17 | [Sommerpause](http://twitter.com/search?q=Sommerpause) | N/A |
-| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 19 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 20 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
-| 21 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 22 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 23 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
-| 24 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 25 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
-| 26 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 27 | [Visagistin](http://twitter.com/search?q=Visagistin) | N/A |
-| 28 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
-| 29 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
-| 30 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 31 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 32 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 33 | [Gramm](http://twitter.com/search?q=Gramm) | N/A |
-| 34 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 35 | [Fukushima](http://twitter.com/search?q=Fukushima) | N/A |
-| 36 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
-| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 38 | [Modellregionen](http://twitter.com/search?q=Modellregionen) | N/A |
-| 39 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 40 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 41 | [Entfremdung des Menschen](http://twitter.com/search?q=Entfremdung+des+Menschen) | N/A |
-| 42 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 43 | [Brennstäbe](http://twitter.com/search?q=Brennst%c3%a4be) | N/A |
-| 44 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 45 | [Weltklasse](http://twitter.com/search?q=Weltklasse) | N/A |
-| 46 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 47 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 17 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 18 | [Clubs](http://twitter.com/search?q=Clubs) | N/A |
+| 19 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 20 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 21 | [Gramm](http://twitter.com/search?q=Gramm) | N/A |
+| 22 | [Entkriminalisierung](http://twitter.com/search?q=Entkriminalisierung) | N/A |
+| 23 | [Besitz](http://twitter.com/search?q=Besitz) | N/A |
+| 24 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
+| 25 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
+| 26 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 27 | [Fukushima](http://twitter.com/search?q=Fukushima) | N/A |
+| 28 | [Brennstäbe](http://twitter.com/search?q=Brennst%c3%a4be) | N/A |
+| 29 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 30 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
+| 31 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
+| 32 | [Standards](http://twitter.com/search?q=Standards) | N/A |
+| 33 | [#Mützenich](http://twitter.com/search?q=%23M%c3%bctzenich) | N/A |
+| 34 | [#Gassen](http://twitter.com/search?q=%23Gassen) | N/A |
+| 35 | [#Lauterbach](http://twitter.com/search?q=%23Lauterbach) | N/A |
+| 36 | [#ArmUkraineNow](http://twitter.com/search?q=%23ArmUkraineNow) | N/A |
+| 37 | [#AKWAbschaltung](http://twitter.com/search?q=%23AKWAbschaltung) | N/A |
+| 38 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
+| 39 | [#Atomkraft](http://twitter.com/search?q=%23Atomkraft) | N/A |
 
 
 

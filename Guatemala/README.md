@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-12 13:19:31 UTC`
+📆 Last Updated: `2023-04-12 14:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,20 +51,20 @@ This is top 50 for Guatemala
 | 34 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 35 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 36 | [fuerza aérea guatemalteca](http://twitter.com/search?q=fuerza+a%c3%a9rea+guatemalteca) | N/A |
-| 37 | [Nahualá](http://twitter.com/search?q=Nahual%c3%a1) | N/A |
-| 38 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 39 | [neto bran](http://twitter.com/search?q=neto+bran) | N/A |
-| 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 41 | [cnco regresa a guate](http://twitter.com/search?q=cnco+regresa+a+guate) | N/A |
-| 42 | [roberto arzú](http://twitter.com/search?q=roberto+arz%c3%ba) | N/A |
+| 37 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 38 | [neto bran](http://twitter.com/search?q=neto+bran) | N/A |
+| 39 | [Nahualá](http://twitter.com/search?q=Nahual%c3%a1) | N/A |
+| 40 | [cnco regresa a guate](http://twitter.com/search?q=cnco+regresa+a+guate) | N/A |
+| 41 | [roberto arzú](http://twitter.com/search?q=roberto+arz%c3%ba) | N/A |
+| 42 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
 | 43 | [acuerdo nacional](http://twitter.com/search?q=acuerdo+nacional) | N/A |
 | 44 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 45 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 46 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
 | 47 | [Aguas](http://twitter.com/search?q=Aguas) | N/A |
 | 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 49 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 50 | [Quiñónez](http://twitter.com/search?q=Qui%c3%b1%c3%b3nez) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
 
 
 

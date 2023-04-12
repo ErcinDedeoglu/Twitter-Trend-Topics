@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-12 13:19:03 UTC`
+📆 Last Updated: `2023-04-12 14:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
-| 2 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 1 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 2 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
 | 3 | [#SATUkebersamaan](http://twitter.com/search?q=%23SATUkebersamaan) | N/A |
-| 4 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
-| 5 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 4 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 5 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 7 | [Kualitas Pengadil Lapangan](http://twitter.com/search?q=Kualitas+Pengadil+Lapangan) | N/A |
-| 8 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
+| 7 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
+| 8 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
 | 9 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
-| 10 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 11 | [Tisha](http://twitter.com/search?q=Tisha) | N/A |
-| 12 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 13 | [Liptint](http://twitter.com/search?q=Liptint) | N/A |
-| 14 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
-| 15 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 16 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
-| 17 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
-| 18 | [RICKY AT MCOUNTDOWN](http://twitter.com/search?q=RICKY+AT+MCOUNTDOWN) | N/A |
-| 19 | [Tanah Abang](http://twitter.com/search?q=Tanah+Abang) | N/A |
-| 20 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 21 | [Jakarta Pusat](http://twitter.com/search?q=Jakarta+Pusat) | N/A |
-| 22 | [Pengadilan Tinggi DKI Jakarta](http://twitter.com/search?q=Pengadilan+Tinggi+DKI+Jakarta) | N/A |
-| 23 | [Hukuman](http://twitter.com/search?q=Hukuman) | N/A |
-| 24 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 25 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 26 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 27 | [Panas](http://twitter.com/search?q=Panas) | N/A |
-| 28 | [#AsuransiWasit](http://twitter.com/search?q=%23AsuransiWasit) | N/A |
-| 29 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
-| 30 | [#FLOWER2ndWin](http://twitter.com/search?q=%23FLOWER2ndWin) | N/A |
-| 31 | [#SiamParagonSummer2023xGF](http://twitter.com/search?q=%23SiamParagonSummer2023xGF) | N/A |
-| 32 | [#HexjuiceXExtraTimeIndo](http://twitter.com/search?q=%23HexjuiceXExtraTimeIndo) | N/A |
-| 33 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
-| 34 | [#JISOO2ndWin](http://twitter.com/search?q=%23JISOO2ndWin) | N/A |
-| 35 | [#RestartForChange](http://twitter.com/search?q=%23RestartForChange) | N/A |
-| 36 | [#KNOCKforLEECHAEYEON](http://twitter.com/search?q=%23KNOCKforLEECHAEYEON) | N/A |
-| 37 | [#OurSkyyxNeverLetMeGo](http://twitter.com/search?q=%23OurSkyyxNeverLetMeGo) | N/A |
-| 38 | [#우리의_기적_리키](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac%ec%9d%98_%ea%b8%b0%ec%a0%81_%eb%a6%ac%ed%82%a4) | N/A |
-| 39 | [#私達の_奇跡_リッキー](http://twitter.com/search?q=%23%e7%a7%81%e9%81%94%e3%81%ae_%e5%a5%87%e8%b7%a1_%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 40 | [#OUR_MIRACLE_RICKY](http://twitter.com/search?q=%23OUR_MIRACLE_RICKY) | N/A |
-| 41 | [#KulinerAntiRibet](http://twitter.com/search?q=%23KulinerAntiRibet) | N/A |
-| 42 | [#OPPOxUCL](http://twitter.com/search?q=%23OPPOxUCL) | N/A |
-| 43 | [#100xGem](http://twitter.com/search?q=%23100xGem) | N/A |
-| 44 | [#BuildOnBase](http://twitter.com/search?q=%23BuildOnBase) | N/A |
-| 45 | [#OOLIinJKT](http://twitter.com/search?q=%23OOLIinJKT) | N/A |
-| 46 | [#YumYum](http://twitter.com/search?q=%23YumYum) | N/A |
-| 47 | [#TAEYANG](http://twitter.com/search?q=%23TAEYANG) | #TAEYANG is a hashtag used to refer to the South Korean singer and songwriter, Taeyang. It is often used on social media platforms such as Twitter and Instagram to share news, photos, and videos related to the artist. The English translation of #TAEYANG is "Taeyang". |
-| 48 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 10 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
+| 11 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
+| 12 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
+| 13 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 14 | [Tisha](http://twitter.com/search?q=Tisha) | N/A |
+| 15 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
+| 16 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 17 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 18 | [Tanah Abang](http://twitter.com/search?q=Tanah+Abang) | N/A |
+| 19 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 20 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
+| 21 | [RICKY AT MCOUNTDOWN](http://twitter.com/search?q=RICKY+AT+MCOUNTDOWN) | N/A |
+| 22 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 23 | [Jakarta Pusat](http://twitter.com/search?q=Jakarta+Pusat) | N/A |
+| 24 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
+| 25 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 26 | [Pengadilan Tinggi DKI Jakarta](http://twitter.com/search?q=Pengadilan+Tinggi+DKI+Jakarta) | N/A |
+| 27 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 28 | [Hukuman](http://twitter.com/search?q=Hukuman) | N/A |
+| 29 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 30 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 31 | [Panas](http://twitter.com/search?q=Panas) | N/A |
+| 32 | [#RisingActorJunhoe](http://twitter.com/search?q=%23RisingActorJunhoe) | N/A |
+| 33 | [#TrueToLove_Junhoe](http://twitter.com/search?q=%23TrueToLove_Junhoe) | N/A |
+| 34 | [#보라데보라_EP1_withJunhoe](http://twitter.com/search?q=%23%eb%b3%b4%eb%9d%bc%eb%8d%b0%eb%b3%b4%eb%9d%bc_EP1_withJunhoe) | N/A |
+| 35 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
+| 36 | [#AsuransiWasit](http://twitter.com/search?q=%23AsuransiWasit) | N/A |
+| 37 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 38 | [#GOSE_ChaseTheMafia](http://twitter.com/search?q=%23GOSE_ChaseTheMafia) | N/A |
+| 39 | [#SiamParagonSummer2023xGF](http://twitter.com/search?q=%23SiamParagonSummer2023xGF) | N/A |
+| 40 | [#TriMantabBanget](http://twitter.com/search?q=%23TriMantabBanget) | N/A |
+| 41 | [#FLOWER2ndWin](http://twitter.com/search?q=%23FLOWER2ndWin) | N/A |
+| 42 | [#Hexjuice](http://twitter.com/search?q=%23Hexjuice) | N/A |
+| 43 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
+| 44 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
+| 45 | [#JISOO2ndWin](http://twitter.com/search?q=%23JISOO2ndWin) | N/A |
+| 46 | [#KNOCKforLEECHAEYEON](http://twitter.com/search?q=%23KNOCKforLEECHAEYEON) | N/A |
+| 47 | [#OurSkyyxNeverLetMeGo](http://twitter.com/search?q=%23OurSkyyxNeverLetMeGo) | N/A |
+| 48 | [#우리의_기적_리키](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac%ec%9d%98_%ea%b8%b0%ec%a0%81_%eb%a6%ac%ed%82%a4) | N/A |
 
 
 
