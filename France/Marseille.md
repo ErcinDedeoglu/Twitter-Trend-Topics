@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-12 12:19:45 UTC`
+📆 Last Updated: `2023-04-12 13:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,46 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
 | 2 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 3 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
-| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 3 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 4 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
 | 5 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 7 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 6 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 7 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 8 | [Cyclades](http://twitter.com/search?q=Cyclades) | N/A |
-| 9 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
-| 10 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 11 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 12 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 13 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 14 | [Disneyland Paris](http://twitter.com/search?q=Disneyland+Paris) | N/A |
-| 15 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 16 | [Pays Bas](http://twitter.com/search?q=Pays+Bas) | N/A |
+| 9 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [Carlito](http://twitter.com/search?q=Carlito) | N/A |
+| 12 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 13 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 14 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 15 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 16 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
 | 17 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 18 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
-| 19 | [Daesh](http://twitter.com/search?q=Daesh) | N/A |
-| 20 | [Jeudi 13](http://twitter.com/search?q=Jeudi+13) | N/A |
-| 21 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 22 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
-| 23 | [Edouard Philippe](http://twitter.com/search?q=Edouard+Philippe) | N/A |
-| 24 | [Le Figaro](http://twitter.com/search?q=Le+Figaro) | N/A |
-| 25 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 26 | [L'Europe](http://twitter.com/search?q=L%27Europe) | N/A |
-| 27 | [Marion](http://twitter.com/search?q=Marion) | N/A |
-| 28 | [Balti](http://twitter.com/search?q=Balti) | N/A |
-| 29 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 30 | [#DrahiLeaks](http://twitter.com/search?q=%23DrahiLeaks) | N/A |
-| 31 | [#GIMS](http://twitter.com/search?q=%23GIMS) | N/A |
-| 32 | [#DevoxxFR](http://twitter.com/search?q=%23DevoxxFR) | N/A |
-| 33 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
-| 34 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 18 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 19 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
+| 20 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
+| 21 | [Daesh](http://twitter.com/search?q=Daesh) | N/A |
+| 22 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
+| 23 | [Jeudi 13](http://twitter.com/search?q=Jeudi+13) | N/A |
+| 24 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
+| 25 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 26 | [Edouard Philippe](http://twitter.com/search?q=Edouard+Philippe) | N/A |
+| 27 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
+| 28 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 29 | [Le Figaro](http://twitter.com/search?q=Le+Figaro) | N/A |
+| 30 | [L'Europe](http://twitter.com/search?q=L%27Europe) | N/A |
+| 31 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 32 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 33 | [#DrahiLeaks](http://twitter.com/search?q=%23DrahiLeaks) | N/A |
+| 34 | [#DevoxxFR](http://twitter.com/search?q=%23DevoxxFR) | N/A |
 | 35 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 36 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
-| 37 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
-| 38 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 39 | [#recrutement](http://twitter.com/search?q=%23recrutement) | N/A |
-| 40 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
+| 36 | [#DisneylandParis](http://twitter.com/search?q=%23DisneylandParis) | N/A |
+| 37 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 38 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 39 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
+| 40 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 41 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
+| 42 | [#recrutement](http://twitter.com/search?q=%23recrutement) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-04-12 12:20:20 UTC`
+📆 Last Updated: `2023-04-12 13:19:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
 | 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 4 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 5 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 6 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 7 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 8 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
-| 9 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 10 | [#Wordle662](http://twitter.com/search?q=%23Wordle662) | N/A |
-| 11 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 12 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 13 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 3 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 4 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 5 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 8 | [#Wordle662](http://twitter.com/search?q=%23Wordle662) | N/A |
+| 9 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 10 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 11 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 12 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 13 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
 | 14 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 15 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 16 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
-| 17 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 18 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
-| 19 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 20 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
-| 21 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 22 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 23 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 24 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 25 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 26 | [Towns](http://twitter.com/search?q=Towns) | N/A |
-| 27 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 28 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 29 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 30 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 31 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 32 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 33 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 34 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
-| 35 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 36 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 15 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 16 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 17 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
+| 18 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 19 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 20 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
+| 21 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 22 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 23 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 24 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
+| 25 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
+| 26 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 27 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 28 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 29 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 30 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 31 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 32 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 33 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 34 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 35 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
+| 36 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
 | 37 | [Finch](http://twitter.com/search?q=Finch) | N/A |
 | 38 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 39 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 39 | [Chester](http://twitter.com/search?q=Chester) | N/A |
 | 40 | [Twitter Spaces](http://twitter.com/search?q=Twitter+Spaces) | N/A |
-| 41 | [Ant Man](http://twitter.com/search?q=Ant+Man) | N/A |
-| 42 | [Baki](http://twitter.com/search?q=Baki) | N/A |
-| 43 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 44 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
-| 45 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 46 | [Adam silver](http://twitter.com/search?q=Adam+silver) | N/A |
-| 47 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 41 | [Baki](http://twitter.com/search?q=Baki) | N/A |
+| 42 | [Ant Man](http://twitter.com/search?q=Ant+Man) | N/A |
+| 43 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 44 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 45 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
+| 46 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 47 | [Adam silver](http://twitter.com/search?q=Adam+silver) | N/A |
 | 48 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 49 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 50 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
+| 49 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 50 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
 
 
 

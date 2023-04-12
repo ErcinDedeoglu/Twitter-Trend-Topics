@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-12 12:20:39 UTC`
+📆 Last Updated: `2023-04-12 13:19:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Ukraine
 | 11 | [#ATACMS](http://twitter.com/search?q=%23ATACMS) | N/A |
 | 12 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
 | 13 | [Чечне](http://twitter.com/search?q=%d0%a7%d0%b5%d1%87%d0%bd%d0%b5) | N/A |
-| 14 | [Спартак](http://twitter.com/search?q=%d0%a1%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%ba) | N/A |
+| 14 | [спартак](http://twitter.com/search?q=%d1%81%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%ba) | N/A |
 | 15 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
-| 16 | [#Decentralization](http://twitter.com/search?q=%23Decentralization) | N/A |
-| 17 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 18 | [Трамп](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf) | N/A |
-| 19 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 20 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 21 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 22 | [$tfs](http://twitter.com/search?q=%24tfs) | N/A |
-| 23 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 16 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 17 | [Трамп](http://twitter.com/search?q=%d0%a2%d1%80%d0%b0%d0%bc%d0%bf) | N/A |
+| 18 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 19 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 20 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 21 | [$tfs](http://twitter.com/search?q=%24tfs) | N/A |
+| 22 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 23 | [#Decentralization](http://twitter.com/search?q=%23Decentralization) | N/A |
 | 24 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
 | 25 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 26 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 27 | [535% apr](http://twitter.com/search?q=535%25+apr) | N/A |
-| 28 | [Россияне](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
-| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 30 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 31 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
-| 32 | [мариуполь](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
-| 33 | [Crypto Twitter](http://twitter.com/search?q=Crypto+Twitter) | N/A |
-| 34 | [Така](http://twitter.com/search?q=%d0%a2%d0%b0%d0%ba%d0%b0) | N/A |
-| 35 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 36 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 37 | [Одессу](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d1%83) | N/A |
-| 38 | [The Washington Post](http://twitter.com/search?q=The+Washington+Post) | N/A |
-| 39 | [блакитний](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%ba%d0%b8%d1%82%d0%bd%d0%b8%d0%b9) | N/A |
-| 40 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 41 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
-| 42 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 43 | [Exciting](http://twitter.com/search?q=Exciting) | N/A |
-| 44 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 45 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
-| 46 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
-| 47 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 48 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
-| 49 | [Китаем](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b5%d0%bc) | N/A |
-| 50 | [Пентагона](http://twitter.com/search?q=%d0%9f%d0%b5%d0%bd%d1%82%d0%b0%d0%b3%d0%be%d0%bd%d0%b0) | N/A |
+| 26 | [535% apr](http://twitter.com/search?q=535%25+apr) | N/A |
+| 27 | [Россияне](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d1%8f%d0%bd%d0%b5) | N/A |
+| 28 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 29 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
+| 30 | [мариуполь](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
+| 31 | [Crypto Twitter](http://twitter.com/search?q=Crypto+Twitter) | N/A |
+| 32 | [така](http://twitter.com/search?q=%d1%82%d0%b0%d0%ba%d0%b0) | N/A |
+| 33 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 34 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 35 | [Одессу](http://twitter.com/search?q=%d0%9e%d0%b4%d0%b5%d1%81%d1%81%d1%83) | N/A |
+| 36 | [The Washington Post](http://twitter.com/search?q=The+Washington+Post) | N/A |
+| 37 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 38 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
+| 39 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 40 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 41 | [ранку](http://twitter.com/search?q=%d1%80%d0%b0%d0%bd%d0%ba%d1%83) | N/A |
+| 42 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 43 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
+| 44 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
+| 45 | [Китаем](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b5%d0%bc) | N/A |
+| 46 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 47 | [Пентагона](http://twitter.com/search?q=%d0%9f%d0%b5%d0%bd%d1%82%d0%b0%d0%b3%d0%be%d0%bd%d0%b0) | N/A |
+| 48 | [Exciting](http://twitter.com/search?q=Exciting) | N/A |
+| 49 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 50 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 
 
 

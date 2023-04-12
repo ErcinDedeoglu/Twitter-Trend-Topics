@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-04-12 12:20:29 UTC`
+📆 Last Updated: `2023-04-12 13:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KarnatakaElections2023](http://twitter.com/search?q=%23KarnatakaElections2023) | N/A |
-| 2 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
+| 1 | [#ElonMusk](http://twitter.com/search?q=%23ElonMusk) | N/A |
+| 2 | [#KarnatakaElections2023](http://twitter.com/search?q=%23KarnatakaElections2023) | N/A |
 | 3 | [Rajasthan](http://twitter.com/search?q=Rajasthan) | N/A |
-| 4 | [#AshokGehlot](http://twitter.com/search?q=%23AshokGehlot) | N/A |
-| 5 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 6 | [#realmenarzoN55OnAmazon](http://twitter.com/search?q=%23realmenarzoN55OnAmazon) | N/A |
-| 7 | [#GehlotKaMehngaiRahatCamp](http://twitter.com/search?q=%23GehlotKaMehngaiRahatCamp) | N/A |
+| 4 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 5 | [#realmenarzoN55OnAmazon](http://twitter.com/search?q=%23realmenarzoN55OnAmazon) | N/A |
+| 6 | [#GehlotKaMehngaiRahatCamp](http://twitter.com/search?q=%23GehlotKaMehngaiRahatCamp) | N/A |
+| 7 | [#AnanyaBirla](http://twitter.com/search?q=%23AnanyaBirla) | N/A |
 | 8 | [ANNA BRINGS DISCO DANCER](http://twitter.com/search?q=ANNA+BRINGS+DISCO+DANCER) | N/A |
 | 9 | [सोनू सूद](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%b8%e0%a5%82%e0%a4%a6) | N/A |
 | 10 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 11 | [राणा सांगा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 12 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 11 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 12 | [राणा सांगा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
 | 13 | [Prime Blue](http://twitter.com/search?q=Prime+Blue) | N/A |
-| 14 | [Bharat's Renaissance](http://twitter.com/search?q=Bharat%27s+Renaissance) | N/A |
-| 15 | [Sab Gazab](http://twitter.com/search?q=Sab+Gazab) | N/A |
-| 16 | [She is 19](http://twitter.com/search?q=She+is+19) | N/A |
-| 17 | [CBI Answerable InSSRCase](http://twitter.com/search?q=CBI+Answerable+InSSRCase) | N/A |
-| 18 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 19 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 20 | [मल्लिकार्जुन खड़गे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a5%81%e0%a4%a8+%e0%a4%96%e0%a4%a1%e0%a4%bc%e0%a4%97%e0%a5%87) | N/A |
-| 21 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 22 | [केशब महिंद्रा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%ac+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 23 | [पूर्व लोकसभा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 14 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 15 | [She is 19](http://twitter.com/search?q=She+is+19) | N/A |
+| 16 | [Bharat's Renaissance](http://twitter.com/search?q=Bharat%27s+Renaissance) | N/A |
+| 17 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 18 | [Sab Gazab](http://twitter.com/search?q=Sab+Gazab) | N/A |
+| 19 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 20 | [CBI Answerable InSSRCase](http://twitter.com/search?q=CBI+Answerable+InSSRCase) | N/A |
+| 21 | [Sonu](http://twitter.com/search?q=Sonu) | N/A |
+| 22 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 23 | [बठिंडा मिलिट्री स्टेशन](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a0%e0%a4%bf%e0%a4%82%e0%a4%a1%e0%a4%be+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
 | 24 | [तेजस्वी यादव](http://twitter.com/search?q=%e0%a4%a4%e0%a5%87%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
 | 25 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 26 | [बठिंडा मिलिट्री स्टेशन](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a0%e0%a4%bf%e0%a4%82%e0%a4%a1%e0%a4%be+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 27 | [लालजी टंडन](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%82%e0%a4%a1%e0%a4%a8) | N/A |
-| 28 | [महाराणा संग्राम सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 29 | [Delhi Cantt](http://twitter.com/search?q=Delhi+Cantt) | N/A |
-| 30 | [Chennai Super Kings](http://twitter.com/search?q=Chennai+Super+Kings) | N/A |
-| 31 | [दिल्ली कैंट](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%9f) | N/A |
-| 32 | [श्रीमती सुमित्रा महाजन](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%81%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%9c%e0%a4%a8) | N/A |
-| 33 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 26 | [पूर्व लोकसभा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 27 | [Chennai Super Kings](http://twitter.com/search?q=Chennai+Super+Kings) | N/A |
+| 28 | [मल्लिकार्जुन खड़गे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a5%81%e0%a4%a8+%e0%a4%96%e0%a4%a1%e0%a4%bc%e0%a4%97%e0%a5%87) | N/A |
+| 29 | [महाराणा संग्राम सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 30 | [Delhi Cantt](http://twitter.com/search?q=Delhi+Cantt) | N/A |
+| 31 | [लालजी टंडन](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%82%e0%a4%a1%e0%a4%a8) | N/A |
+| 32 | [दिल्ली कैंट](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%9f) | N/A |
+| 33 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 34 | [OnePlus](http://twitter.com/search?q=OnePlus) | N/A |
-| 35 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 35 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
 | 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 38 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 39 | [Bandipur](http://twitter.com/search?q=Bandipur) | N/A |
-| 40 | [#AnanyaBirla](http://twitter.com/search?q=%23AnanyaBirla) | N/A |
-| 41 | [#CSKvsRR](http://twitter.com/search?q=%23CSKvsRR) | N/A |
+| 37 | [श्रीमती सुमित्रा महाजन](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%81%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%9c%e0%a4%a8) | N/A |
+| 38 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
+| 39 | [#CSKvsRR](http://twitter.com/search?q=%23CSKvsRR) | N/A |
+| 40 | [#NitishKumar](http://twitter.com/search?q=%23NitishKumar) | N/A |
+| 41 | [#शिक्षक_नियमावली_वापस_लो](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%ae%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a5%80_%e0%a4%b5%e0%a4%be%e0%a4%aa%e0%a4%b8_%e0%a4%b2%e0%a5%8b) | N/A |
 | 42 | [#EDModiKaTortureChamber](http://twitter.com/search?q=%23EDModiKaTortureChamber) | N/A |
-| 43 | [#शिक्षक_नियमावली_वापस_लो](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95_%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%ae%e0%a4%be%e0%a4%b5%e0%a4%b2%e0%a5%80_%e0%a4%b5%e0%a4%be%e0%a4%aa%e0%a4%b8_%e0%a4%b2%e0%a5%8b) | N/A |
-| 44 | [#IndiaWithModiJi](http://twitter.com/search?q=%23IndiaWithModiJi) | N/A |
-| 45 | [#NitishKumar](http://twitter.com/search?q=%23NitishKumar) | N/A |
-| 46 | [#हेमंत_यादव_को_न्याय_दो](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%a6%e0%a5%8b) | N/A |
-| 47 | [#MallikarjunKharge](http://twitter.com/search?q=%23MallikarjunKharge) | N/A |
-| 48 | [#BombThreat](http://twitter.com/search?q=%23BombThreat) | N/A |
-| 49 | [#KeshubMahindra](http://twitter.com/search?q=%23KeshubMahindra) | N/A |
-| 50 | [#PatnaAirport](http://twitter.com/search?q=%23PatnaAirport) | N/A |
+| 43 | [#हेमंत_यादव_को_न्याय_दो](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%a6%e0%a5%8b) | N/A |
+| 44 | [#BombThreat](http://twitter.com/search?q=%23BombThreat) | N/A |
+| 45 | [#IndiaWithModiJi](http://twitter.com/search?q=%23IndiaWithModiJi) | N/A |
+| 46 | [#MallikarjunKharge](http://twitter.com/search?q=%23MallikarjunKharge) | N/A |
+| 47 | [#SanjayDutt](http://twitter.com/search?q=%23SanjayDutt) | N/A |
+| 48 | [#PatnaAirport](http://twitter.com/search?q=%23PatnaAirport) | N/A |
+| 49 | [#Jawan](http://twitter.com/search?q=%23Jawan) | N/A |
+| 50 | [#TejashwiYadav](http://twitter.com/search?q=%23TejashwiYadav) | N/A |
 
 
 

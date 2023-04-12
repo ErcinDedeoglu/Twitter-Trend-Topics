@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-04-12 12:19:56 UTC`
+📆 Last Updated: `2023-04-12 13:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#jefunited](http://twitter.com/search?q=%23jefunited) | N/A |
-| 2 | [#阪神タイガース](http://twitter.com/search?q=%23%e9%98%aa%e7%a5%9e%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9) | N/A |
+| 1 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
+| 2 | [#jefunited](http://twitter.com/search?q=%23jefunited) | N/A |
 | 3 | [ポランコ](http://twitter.com/search?q=%e3%83%9d%e3%83%a9%e3%83%b3%e3%82%b3) | N/A |
-| 4 | [#SnowMan](http://twitter.com/search?q=%23SnowMan) | #SnowMan is a hashtag used on social media to refer to posts related to snowmen, such as pictures of snowmen, stories about snowmen, or anything else related to the wintery figure. |
+| 4 | [#千葉ジェッツ](http://twitter.com/search?q=%23%e5%8d%83%e8%91%89%e3%82%b8%e3%82%a7%e3%83%83%e3%83%84) | N/A |
 | 5 | [#sbhawks](http://twitter.com/search?q=%23sbhawks) | N/A |
-| 6 | [ユニット](http://twitter.com/search?q=%e3%83%a6%e3%83%8b%e3%83%83%e3%83%88) | N/A |
+| 6 | [#seibulions](http://twitter.com/search?q=%23seibulions) | N/A |
 | 7 | [すり抜け](http://twitter.com/search?q=%e3%81%99%e3%82%8a%e6%8a%9c%e3%81%91) | すり抜け is a Japanese phrase that literally translates to "slip through". It is used to describe the act of escaping or avoiding something, usually by using cunning or skill. In English, it could be translated as "slip away" or "slip through the cracks". |
 | 8 | [完全試合](http://twitter.com/search?q=%e5%ae%8c%e5%85%a8%e8%a9%a6%e5%90%88) | 完全試合 is a Japanese term that translates to "full match" in English. It is used to refer to a complete game or match, usually in the context of sports. |
 | 9 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 10 | [アルモンテ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%a2%e3%83%b3%e3%83%86) | N/A |
-| 11 | [パーフェクト](http://twitter.com/search?q=%e3%83%91%e3%83%bc%e3%83%95%e3%82%a7%e3%82%af%e3%83%88) | N/A |
-| 12 | [メンデス](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
+| 10 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 11 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
+| 12 | [パーフェクト](http://twitter.com/search?q=%e3%83%91%e3%83%bc%e3%83%95%e3%82%a7%e3%82%af%e3%83%88) | N/A |
 | 13 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
-| 14 | [ステロイド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
-| 15 | [岡田監督](http://twitter.com/search?q=%e5%b2%a1%e7%94%b0%e7%9b%a3%e7%9d%a3) | N/A |
-| 16 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 17 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
+| 14 | [岡田監督](http://twitter.com/search?q=%e5%b2%a1%e7%94%b0%e7%9b%a3%e7%9d%a3) | N/A |
+| 15 | [ステロイド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
+| 16 | [阿闍梨餅](http://twitter.com/search?q=%e9%98%bf%e9%97%8d%e6%a2%a8%e9%a4%85) | N/A |
+| 17 | [メンデス](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
 | 18 | [村上交代](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e4%ba%a4%e4%bb%a3) | N/A |
-| 19 | [カムラの里](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%a9%e3%81%ae%e9%87%8c) | N/A |
-| 20 | [ノーノー](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%8e%e3%83%bc) | N/A |
-| 21 | [宇野ちゃん](http://twitter.com/search?q=%e5%ae%87%e9%87%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 22 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
-| 23 | [村上投手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e6%8a%95%e6%89%8b) | N/A |
-| 24 | [ターシャ](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%82%b7%e3%83%a3) | ターシャ is a Japanese female given name. It is derived from the English name Tasha, which is a diminutive of Natasha. In English, it can be translated to mean "born on Christmas Day". |
-| 25 | [ニィロウ](http://twitter.com/search?q=%e3%83%8b%e3%82%a3%e3%83%ad%e3%82%a6) | N/A |
-| 26 | [メロンフラペチーノ](http://twitter.com/search?q=%e3%83%a1%e3%83%ad%e3%83%b3%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 19 | [エスコバー](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%90%e3%83%bc) | N/A |
+| 20 | [ピッチャー](http://twitter.com/search?q=%e3%83%94%e3%83%83%e3%83%81%e3%83%a3%e3%83%bc) | N/A |
+| 21 | [ノーノー](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%8e%e3%83%bc) | N/A |
+| 22 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
+| 23 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
+| 24 | [アドゥワ](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%82%a5%e3%83%af) | N/A |
+| 25 | [村上投手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e6%8a%95%e6%89%8b) | N/A |
+| 26 | [頓宮大丈夫](http://twitter.com/search?q=%e9%a0%93%e5%ae%ae%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
 | 27 | [阪神の村上](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e3%81%ae%e6%9d%91%e4%b8%8a) | N/A |
-| 28 | [アドゥワ](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%82%a5%e3%83%af) | N/A |
-| 29 | [マリーンカップ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 30 | [FC動画](http://twitter.com/search?q=FC%e5%8b%95%e7%94%bb) | FC動画 (FC dōga) is a Japanese term for "Famicom video," referring to videos related to the Nintendo Family Computer (Famicom) console. It can refer to either videos of gameplay or other content related to the console, such as reviews, interviews, and documentaries. |
-| 31 | [推しの幸せ](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%b9%b8%e3%81%9b) | 推しの幸せ is a Japanese phrase that literally translates to "happiness of one's favorite". It is used to refer to the joy and satisfaction one feels when their favorite celebrity, artist, or other public figure succeeds or achieves something. |
-| 32 | [阿闍梨餅](http://twitter.com/search?q=%e9%98%bf%e9%97%8d%e6%a2%a8%e9%a4%85) | N/A |
-| 33 | [見守り型](http://twitter.com/search?q=%e8%a6%8b%e5%ae%88%e3%82%8a%e5%9e%8b) | 見守り型 (Mimamori-gata) is a Japanese term that refers to a type of monitoring system. It is used to refer to systems that monitor and track the health and safety of people, such as elderly people living alone or those with disabilities. The system can be used to detect changes in behavior or health, alerting caregivers or family members if something is wrong. In English, it can be translated as "monitoring system". |
-| 34 | [石井大智](http://twitter.com/search?q=%e7%9f%b3%e4%ba%95%e5%a4%a7%e6%99%ba) | N/A |
-| 35 | [ベーコンポテトパイ](http://twitter.com/search?q=%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88%e3%83%91%e3%82%a4) | N/A |
-| 36 | [アマツマガツチ](http://twitter.com/search?q=%e3%82%a2%e3%83%9e%e3%83%84%e3%83%9e%e3%82%ac%e3%83%84%e3%83%81) | N/A |
-| 37 | [紙ストロー](http://twitter.com/search?q=%e7%b4%99%e3%82%b9%e3%83%88%e3%83%ad%e3%83%bc) | 紙ストロー (Kami Sutorō) is a Japanese term for a paper straw. It is a type of drinking straw made from paper, and is often used as an environmentally friendly alternative to plastic straws. In English, it can be translated as "paper straw". |
-| 38 | [黄砂のせい](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 39 | [スタバのメロン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%b3) | N/A |
-| 40 | [公開範囲](http://twitter.com/search?q=%e5%85%ac%e9%96%8b%e7%af%84%e5%9b%b2) | N/A |
-| 41 | [量産型オタク](http://twitter.com/search?q=%e9%87%8f%e7%94%a3%e5%9e%8b%e3%82%aa%e3%82%bf%e3%82%af) | 量産型オタク is a Japanese term that refers to someone who is an obsessive fan of a particular genre or type of media, such as anime, manga, or video games. It literally translates to "mass-produced otaku," implying that these fans are not unique or special in any way. |
-| 42 | [熱愛報道](http://twitter.com/search?q=%e7%86%b1%e6%84%9b%e5%a0%b1%e9%81%93) | 熱愛報道 is a Japanese term that refers to news reports about celebrity couples who are in a romantic relationship. It literally translates to "hot love report". |
-| 43 | [ザ・陰キャ](http://twitter.com/search?q=%e3%82%b6%e3%83%bb%e9%99%b0%e3%82%ad%e3%83%a3) | ザ・陰キャ is a Japanese slang term that literally translates to "the shady character." It is used to describe someone who is suspicious or untrustworthy. |
-| 44 | [チー牛型](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e7%89%9b%e5%9e%8b) | チー牛型 (Chii-gyuukata) is a type of Japanese beef cattle. It is a crossbreed between the Japanese Black and Japanese Brown breeds, and is known for its high quality marbling and tenderness. In English, it can be translated as "Chii-gyu Cattle". |
-| 45 | [温玉付き](http://twitter.com/search?q=%e6%b8%a9%e7%8e%89%e4%bb%98%e3%81%8d) | 温玉付き is a Japanese phrase that literally translates to "with warm balls". It is used to describe a type of food or drink that is served with hot, cooked balls of rice, usually in a soup or broth. In English, it could be translated as "served with hot rice balls". |
-| 46 | [三色チーズ牛丼の特盛](http://twitter.com/search?q=%e4%b8%89%e8%89%b2%e3%83%81%e3%83%bc%e3%82%ba%e7%89%9b%e4%b8%bc%e3%81%ae%e7%89%b9%e7%9b%9b) | 三色チーズ牛丼の特盛 is a type of Japanese dish. It is a bowl of rice topped with beef, three types of cheese, and a special sauce. In English, it would be called "Triple Cheese Beef Bowl Special". |
-| 47 | [ペルアア](http://twitter.com/search?q=%e3%83%9a%e3%83%ab%e3%82%a2%e3%82%a2) | N/A |
-| 48 | [尾仲くん](http://twitter.com/search?q=%e5%b0%be%e4%bb%b2%e3%81%8f%e3%82%93) | N/A |
+| 28 | [カムラの里](http://twitter.com/search?q=%e3%82%ab%e3%83%a0%e3%83%a9%e3%81%ae%e9%87%8c) | N/A |
+| 29 | [石井大智](http://twitter.com/search?q=%e7%9f%b3%e4%ba%95%e5%a4%a7%e6%99%ba) | N/A |
+| 30 | [サトテル](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%83%86%e3%83%ab) | サトテル is a Japanese word that means "to be satisfied". It is often used to express contentment or satisfaction with something. |
+| 31 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
+| 32 | [ニィロウ](http://twitter.com/search?q=%e3%83%8b%e3%82%a3%e3%83%ad%e3%82%a6) | N/A |
+| 33 | [村上かわいそう](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8b%e3%82%8f%e3%81%84%e3%81%9d%e3%81%86) | N/A |
+| 34 | [村上可哀想](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e5%8f%af%e5%93%80%e6%83%b3) | N/A |
+| 35 | [宇野ちゃん](http://twitter.com/search?q=%e5%ae%87%e9%87%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 36 | [マリーンカップ](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 37 | [頭部死球](http://twitter.com/search?q=%e9%a0%ad%e9%83%a8%e6%ad%bb%e7%90%83) | N/A |
+| 38 | [メロンフラペチーノ](http://twitter.com/search?q=%e3%83%a1%e3%83%ad%e3%83%b3%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 39 | [エスキー](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%ad%e3%83%bc) | N/A |
+| 40 | [阪神ファン](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 41 | [リード曲](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%83%89%e6%9b%b2) | N/A |
+| 42 | [ジャムーティー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%a0%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 43 | [FC動画](http://twitter.com/search?q=FC%e5%8b%95%e7%94%bb) | FC動画 (FC dōga) is a Japanese term for "Famicom video," referring to videos related to the Nintendo Family Computer (Famicom) console. It can refer to either videos of gameplay or other content related to the console, such as reviews, interviews, and documentaries. |
+| 44 | [岡田采配](http://twitter.com/search?q=%e5%b2%a1%e7%94%b0%e9%87%87%e9%85%8d) | N/A |
+| 45 | [ノーヒットノーラン](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%92%e3%83%83%e3%83%88%e3%83%8e%e3%83%bc%e3%83%a9%e3%83%b3) | N/A |
+| 46 | [推しの幸せ](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%b9%b8%e3%81%9b) | 推しの幸せ is a Japanese phrase that literally translates to "happiness of one's favorite". It is used to refer to the joy and satisfaction one feels when their favorite celebrity, artist, or other public figure succeeds or achieves something. |
+| 47 | [キノタク](http://twitter.com/search?q=%e3%82%ad%e3%83%8e%e3%82%bf%e3%82%af) | N/A |
+| 48 | [村上の勝ち](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%ae%e5%8b%9d%e3%81%a1) | N/A |
 
 
 

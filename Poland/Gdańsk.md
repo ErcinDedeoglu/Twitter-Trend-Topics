@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-12 12:19:43 UTC`
+📆 Last Updated: `2023-04-12 13:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [Poland](</Poland>)
 | 7 | [Rzepie](http://twitter.com/search?q=Rzepie) | N/A |
 | 8 | [Rzepa](http://twitter.com/search?q=Rzepa) | N/A |
 | 9 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 10 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 11 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 12 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
-| 13 | [Płyta](http://twitter.com/search?q=P%c5%82yta) | N/A |
-| 14 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 15 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 16 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
-| 17 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 18 | [Rzeczpospolitej](http://twitter.com/search?q=Rzeczpospolitej) | N/A |
-| 19 | [biorę udział](http://twitter.com/search?q=bior%c4%99+udzia%c5%82) | N/A |
-| 20 | [Kierowca](http://twitter.com/search?q=Kierowca) | N/A |
-| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 22 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
-| 23 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 24 | [Ordo Iuris](http://twitter.com/search?q=Ordo+Iuris) | N/A |
-| 25 | [Liga Mistrzów](http://twitter.com/search?q=Liga+Mistrz%c3%b3w) | N/A |
-| 26 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 27 | [Arabski](http://twitter.com/search?q=Arabski) | N/A |
-| 28 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
-| 29 | [Tuchela](http://twitter.com/search?q=Tuchela) | N/A |
-| 30 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
-| 31 | [Sakowskiego](http://twitter.com/search?q=Sakowskiego) | N/A |
-| 32 | [Robaki](http://twitter.com/search?q=Robaki) | N/A |
-| 33 | [dalajlamy](http://twitter.com/search?q=dalajlamy) | N/A |
-| 34 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 36 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
-| 37 | [Dzień Czekolady](http://twitter.com/search?q=Dzie%c5%84+Czekolady) | N/A |
-| 38 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [Sommera](http://twitter.com/search?q=Sommera) | N/A |
-| 41 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
-| 42 | [Budapesztu](http://twitter.com/search?q=Budapesztu) | N/A |
-| 43 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 44 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 45 | [Sobonia](http://twitter.com/search?q=Sobonia) | N/A |
-| 46 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 47 | [Białym Domu](http://twitter.com/search?q=Bia%c5%82ym+Domu) | N/A |
-| 48 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 11 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
+| 12 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 13 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
+| 14 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
+| 15 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 16 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 17 | [biorę udział](http://twitter.com/search?q=bior%c4%99+udzia%c5%82) | N/A |
+| 18 | [Kierowca](http://twitter.com/search?q=Kierowca) | N/A |
+| 19 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
+| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 21 | [Sakowskiego](http://twitter.com/search?q=Sakowskiego) | N/A |
+| 22 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 23 | [Płyta](http://twitter.com/search?q=P%c5%82yta) | N/A |
+| 24 | [Liga Mistrzów](http://twitter.com/search?q=Liga+Mistrz%c3%b3w) | N/A |
+| 25 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 26 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
+| 27 | [Tuchela](http://twitter.com/search?q=Tuchela) | N/A |
+| 28 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
+| 29 | [Robaki](http://twitter.com/search?q=Robaki) | N/A |
+| 30 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 31 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 32 | [Rzeczpospolitej](http://twitter.com/search?q=Rzeczpospolitej) | N/A |
+| 33 | [Dzień Czekolady](http://twitter.com/search?q=Dzie%c5%84+Czekolady) | N/A |
+| 34 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 36 | [Arabski](http://twitter.com/search?q=Arabski) | N/A |
+| 37 | [Sommera](http://twitter.com/search?q=Sommera) | N/A |
+| 38 | [Budapesztu](http://twitter.com/search?q=Budapesztu) | N/A |
+| 39 | [Bellinghama](http://twitter.com/search?q=Bellinghama) | N/A |
+| 40 | [Sobonia](http://twitter.com/search?q=Sobonia) | N/A |
+| 41 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 42 | [Hrubieszowie](http://twitter.com/search?q=Hrubieszowie) | N/A |
+| 43 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 44 | [Pucharu Polski](http://twitter.com/search?q=Pucharu+Polski) | N/A |
+| 45 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
+| 46 | [zamówiona](http://twitter.com/search?q=zam%c3%b3wiona) | N/A |
+| 47 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 48 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 
 
 
