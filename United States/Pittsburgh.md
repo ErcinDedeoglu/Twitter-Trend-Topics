@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-12 14:18:49 UTC`
+📆 Last Updated: `2023-04-12 15:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 2 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 3 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
-| 4 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 9 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 2 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 3 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
+| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 7 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 9 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
 | 10 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 12 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 13 | [#Wednesdayvibe](http://twitter.com/search?q=%23Wednesdayvibe) | N/A |
+| 11 | [#Wordle662](http://twitter.com/search?q=%23Wordle662) | N/A |
+| 12 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
+| 13 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
 | 14 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 15 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 16 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
-| 17 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 18 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
-| 19 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
-| 20 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 21 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 22 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 23 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 24 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 25 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 15 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
+| 16 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 17 | [Fort Sumter](http://twitter.com/search?q=Fort+Sumter) | N/A |
+| 18 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 19 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 20 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 21 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 22 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 23 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 24 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
+| 25 | [Red Flag Warning](http://twitter.com/search?q=Red+Flag+Warning) | N/A |
 | 26 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
 | 27 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 28 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 29 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
-| 30 | [Red Flag Warning](http://twitter.com/search?q=Red+Flag+Warning) | N/A |
-| 31 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
-| 32 | [Grizz in 5](http://twitter.com/search?q=Grizz+in+5) | N/A |
-| 33 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 34 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
-| 35 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 36 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 37 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 38 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 39 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
+| 28 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 29 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
+| 30 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 31 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
+| 32 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 33 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 34 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 35 | [Grizz in 5](http://twitter.com/search?q=Grizz+in+5) | N/A |
+| 36 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 37 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
+| 38 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 39 | [INEC](http://twitter.com/search?q=INEC) | N/A |
 | 40 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 41 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 42 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
-| 43 | [Reggie miller](http://twitter.com/search?q=Reggie+miller) | N/A |
-| 44 | [Baki](http://twitter.com/search?q=Baki) | N/A |
-| 45 | [Finch](http://twitter.com/search?q=Finch) | N/A |
-| 46 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 47 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 48 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 49 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 50 | [TAUREAN PRINCE](http://twitter.com/search?q=TAUREAN+PRINCE) | N/A |
+| 41 | [Milley](http://twitter.com/search?q=Milley) | N/A |
+| 42 | [Woodstock](http://twitter.com/search?q=Woodstock) | N/A |
+| 43 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
+| 44 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 45 | [Chester](http://twitter.com/search?q=Chester) | N/A |
+| 46 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 47 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
+| 48 | [Baki](http://twitter.com/search?q=Baki) | N/A |
 
 
 

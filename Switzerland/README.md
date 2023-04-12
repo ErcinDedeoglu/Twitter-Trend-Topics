@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-12 14:18:59 UTC`
+📆 Last Updated: `2023-04-12 15:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,38 +25,38 @@ This is top 50 for Switzerland
 | 8 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 9 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 10 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
-| 11 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 12 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 15 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 16 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 17 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 11 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 12 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 13 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 14 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 16 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 18 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
-| 19 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 20 | [Session](http://twitter.com/search?q=Session) | N/A |
+| 19 | [Session](http://twitter.com/search?q=Session) | N/A |
+| 20 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
 | 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 22 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 23 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 23 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 24 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
 | 25 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 26 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
-| 27 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 28 | [Polen](http://twitter.com/search?q=Polen) | N/A |
 | 29 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 30 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 31 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 32 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 33 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 34 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 36 | [Organisationen](http://twitter.com/search?q=Organisationen) | N/A |
-| 37 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 38 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 39 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
-| 40 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 31 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 32 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 33 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 34 | [Organisationen](http://twitter.com/search?q=Organisationen) | N/A |
+| 35 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 36 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 37 | [Wahlen](http://twitter.com/search?q=Wahlen) | N/A |
+| 38 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 39 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 40 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
 | 41 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 42 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 43 | [ostermontag](http://twitter.com/search?q=ostermontag) | N/A |
 | 44 | [Quatsch](http://twitter.com/search?q=Quatsch) | N/A |
 | 45 | [Elon](http://twitter.com/search?q=Elon) | N/A |

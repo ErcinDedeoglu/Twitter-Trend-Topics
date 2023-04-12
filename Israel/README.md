@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-12 14:18:55 UTC`
+📆 Last Updated: `2023-04-12 15:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,28 +38,28 @@ This is top 50 for Israel
 | 21 | [ניר אורבך](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%90%d7%95%d7%a8%d7%91%d7%9a) | N/A |
 | 22 | [שלומי רייזמן](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95%d7%9e%d7%99+%d7%a8%d7%99%d7%99%d7%96%d7%9e%d7%9f) | N/A |
 | 23 | [של לוסי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%a1%d7%99) | N/A |
-| 24 | [של סיטי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%98%d7%99) | N/A |
-| 25 | [ימי מילואים](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
-| 26 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 27 | [סגן אלוף](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%90%d7%9c%d7%95%d7%a3) | N/A |
-| 28 | [שר התרבות](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%aa%d7%a8%d7%91%d7%95%d7%aa) | N/A |
-| 29 | [די הי](http://twitter.com/search?q=%d7%93%d7%99+%d7%94%d7%99) | N/A |
-| 30 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 31 | [של שלומי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%9c%d7%95%d7%9e%d7%99) | N/A |
-| 32 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 33 | [מדירה שינה](http://twitter.com/search?q=%d7%9e%d7%93%d7%99%d7%a8%d7%94+%d7%a9%d7%99%d7%a0%d7%94) | N/A |
-| 34 | [ציר ישראל](http://twitter.com/search?q=%d7%a6%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 35 | [כרטיס אדי](http://twitter.com/search?q=%d7%9b%d7%a8%d7%98%d7%99%d7%a1+%d7%90%d7%93%d7%99) | N/A |
-| 36 | [דני ב](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%91) | N/A |
-| 37 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
-| 38 | [טל שניידר](http://twitter.com/search?q=%d7%98%d7%9c+%d7%a9%d7%a0%d7%99%d7%99%d7%93%d7%a8) | N/A |
-| 39 | [אוהד בית](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%91%d7%99%d7%aa) | N/A |
-| 40 | [ארגון לה](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%9c%d7%94) | N/A |
-| 41 | [ענק בין](http://twitter.com/search?q=%d7%a2%d7%a0%d7%a7+%d7%91%d7%99%d7%9f) | N/A |
-| 42 | [ים סוף](http://twitter.com/search?q=%d7%99%d7%9d+%d7%a1%d7%95%d7%a3) | N/A |
-| 43 | [סמל ראשון](http://twitter.com/search?q=%d7%a1%d7%9e%d7%9c+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
-| 44 | [רוח חיים](http://twitter.com/search?q=%d7%a8%d7%95%d7%97+%d7%97%d7%99%d7%99%d7%9d) | N/A |
-| 45 | [עובד תחזוקה](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94) | N/A |
+| 24 | [ימי מילואים](http://twitter.com/search?q=%d7%99%d7%9e%d7%99+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
+| 25 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 26 | [סגן אלוף](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%90%d7%9c%d7%95%d7%a3) | N/A |
+| 27 | [שר התרבות](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%aa%d7%a8%d7%91%d7%95%d7%aa) | N/A |
+| 28 | [די הי](http://twitter.com/search?q=%d7%93%d7%99+%d7%94%d7%99) | N/A |
+| 29 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 30 | [של שלומי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%9c%d7%95%d7%9e%d7%99) | N/A |
+| 31 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
+| 32 | [מדירה שינה](http://twitter.com/search?q=%d7%9e%d7%93%d7%99%d7%a8%d7%94+%d7%a9%d7%99%d7%a0%d7%94) | N/A |
+| 33 | [ציר ישראל](http://twitter.com/search?q=%d7%a6%d7%99%d7%a8+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 34 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 35 | [דני ב](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%91) | N/A |
+| 36 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
+| 37 | [טל שניידר](http://twitter.com/search?q=%d7%98%d7%9c+%d7%a9%d7%a0%d7%99%d7%99%d7%93%d7%a8) | N/A |
+| 38 | [אוהד בית](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%91%d7%99%d7%aa) | N/A |
+| 39 | [ארגון לה](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%9c%d7%94) | N/A |
+| 40 | [ענק בין](http://twitter.com/search?q=%d7%a2%d7%a0%d7%a7+%d7%91%d7%99%d7%9f) | N/A |
+| 41 | [ים סוף](http://twitter.com/search?q=%d7%99%d7%9d+%d7%a1%d7%95%d7%a3) | N/A |
+| 42 | [סמל ראשון](http://twitter.com/search?q=%d7%a1%d7%9e%d7%9c+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
+| 43 | [רוח חיים](http://twitter.com/search?q=%d7%a8%d7%95%d7%97+%d7%97%d7%99%d7%99%d7%9d) | N/A |
+| 44 | [עובד תחזוקה](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%aa%d7%97%d7%96%d7%95%d7%a7%d7%94) | N/A |
+| 45 | [כרטיס אדי](http://twitter.com/search?q=%d7%9b%d7%a8%d7%98%d7%99%d7%a1+%d7%90%d7%93%d7%99) | N/A |
 | 46 | [מזרחי עם כיפה](http://twitter.com/search?q=%d7%9e%d7%96%d7%a8%d7%97%d7%99+%d7%a2%d7%9d+%d7%9b%d7%99%d7%a4%d7%94) | N/A |
 | 47 | [זוגות אחים](http://twitter.com/search?q=%d7%96%d7%95%d7%92%d7%95%d7%aa+%d7%90%d7%97%d7%99%d7%9d) | N/A |
 | 48 | [צלב קרס](http://twitter.com/search?q=%d7%a6%d7%9c%d7%91+%d7%a7%d7%a8%d7%a1) | N/A |

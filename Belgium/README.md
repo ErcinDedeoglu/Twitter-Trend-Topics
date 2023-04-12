@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-12 14:18:52 UTC`
+📆 Last Updated: `2023-04-12 15:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for Belgium
 | 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 8 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 9 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 10 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 11 | [#DBP23](http://twitter.com/search?q=%23DBP23) | N/A |
-| 12 | [#liefdevoormuziek](http://twitter.com/search?q=%23liefdevoormuziek) | N/A |
-| 13 | [#terzaketv](http://twitter.com/search?q=%23terzaketv) | N/A |
+| 10 | [#DBP23](http://twitter.com/search?q=%23DBP23) | N/A |
+| 11 | [#liefdevoormuziek](http://twitter.com/search?q=%23liefdevoormuziek) | N/A |
+| 12 | [#terzaketv](http://twitter.com/search?q=%23terzaketv) | N/A |
+| 13 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 14 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 15 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
 | 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
@@ -39,32 +39,32 @@ This is top 50 for Belgium
 | 22 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 23 | [Gims](http://twitter.com/search?q=Gims) | N/A |
 | 24 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
-| 25 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 28 | [Nederlands](http://twitter.com/search?q=Nederlands) | N/A |
+| 25 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 26 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 29 | [tielt-winge](http://twitter.com/search?q=tielt-winge) | N/A |
-| 30 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
-| 31 | [Brusselse](http://twitter.com/search?q=Brusselse) | N/A |
+| 30 | [Brusselse](http://twitter.com/search?q=Brusselse) | N/A |
+| 31 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
 | 32 | [Dalle](http://twitter.com/search?q=Dalle) | N/A |
-| 33 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
-| 34 | [Afrikaanse](http://twitter.com/search?q=Afrikaanse) | N/A |
-| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 36 | [Joden](http://twitter.com/search?q=Joden) | N/A |
-| 37 | [STEM](http://twitter.com/search?q=STEM) | N/A |
-| 38 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 39 | [SANÉ](http://twitter.com/search?q=SAN%c3%89) | N/A |
-| 40 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 41 | [Dante Vanzeir](http://twitter.com/search?q=Dante+Vanzeir) | N/A |
-| 42 | [De Wever](http://twitter.com/search?q=De+Wever) | N/A |
-| 43 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 44 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 45 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 33 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 34 | [Joden](http://twitter.com/search?q=Joden) | N/A |
+| 35 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 36 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 37 | [De Wever](http://twitter.com/search?q=De+Wever) | N/A |
+| 38 | [Bruxellois](http://twitter.com/search?q=Bruxellois) | N/A |
+| 39 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 40 | [Apparemment](http://twitter.com/search?q=Apparemment) | N/A |
+| 41 | [STEM](http://twitter.com/search?q=STEM) | N/A |
+| 42 | [Flanders](http://twitter.com/search?q=Flanders) | N/A |
+| 43 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 44 | [Dante Vanzeir](http://twitter.com/search?q=Dante+Vanzeir) | N/A |
+| 45 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
 | 46 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 47 | [NMBS](http://twitter.com/search?q=NMBS) | N/A |
 | 48 | [Proximus](http://twitter.com/search?q=Proximus) | N/A |
-| 49 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 50 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
+| 49 | [paul furlan](http://twitter.com/search?q=paul+furlan) | N/A |
+| 50 | [Davies](http://twitter.com/search?q=Davies) | N/A |
 
 
 

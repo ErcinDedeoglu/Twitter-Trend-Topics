@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-04-12 14:18:38 UTC`
+📆 Last Updated: `2023-04-12 15:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#شہادتِ_امیرالمومنین_امام_علیؑ](http://twitter.com/search?q=%23%d8%b4%db%81%d8%a7%d8%af%d8%aa%d9%90_%d8%a7%d9%85%db%8c%d8%b1%d8%a7%d9%84%d9%85%d9%88%d9%85%d9%86%db%8c%d9%86_%d8%a7%d9%85%d8%a7%d9%85_%d8%b9%d9%84%db%8c%d8%91) | N/A |
 | 2 | [#عدت_میں_نکاح_والا_فتنہ](http://twitter.com/search?q=%23%d8%b9%d8%af%d8%aa_%d9%85%db%8c%da%ba_%d9%86%da%a9%d8%a7%d8%ad_%d9%88%d8%a7%d9%84%d8%a7_%d9%81%d8%aa%d9%86%db%81) | N/A |
-| 3 | [#محافظ_پاکستان_احمد_لدھیانوی](http://twitter.com/search?q=%23%d9%85%d8%ad%d8%a7%d9%81%d8%b8_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%a7%d8%ad%d9%85%d8%af_%d9%84%d8%af%da%be%db%8c%d8%a7%d9%86%d9%88%db%8c) | N/A |
+| 3 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
 | 4 | [#امپوررٹڈ_حکومت_نامنظور](http://twitter.com/search?q=%23%d8%a7%d9%85%d9%be%d9%88%d8%b1%d8%b1%d9%b9%da%88_%d8%ad%da%a9%d9%88%d9%85%d8%aa_%d9%86%d8%a7%d9%85%d9%86%d8%b8%d9%88%d8%b1) | N/A |
-| 5 | [#قاضی_چوروں_کا_ساتھی](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%b6%db%8c_%da%86%d9%88%d8%b1%d9%88%da%ba_%da%a9%d8%a7_%d8%b3%d8%a7%d8%aa%da%be%db%8c) | N/A |
+| 5 | [#محافظ_پاکستان_احمد_لدھیانوی](http://twitter.com/search?q=%23%d9%85%d8%ad%d8%a7%d9%81%d8%b8_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86_%d8%a7%d8%ad%d9%85%d8%af_%d9%84%d8%af%da%be%db%8c%d8%a7%d9%86%d9%88%db%8c) | N/A |
 | 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 7 | [Imam Ali](http://twitter.com/search?q=Imam+Ali) | N/A |
 | 8 | [Nikkah](http://twitter.com/search?q=Nikkah) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 11 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
 | 12 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 13 | [Akash](http://twitter.com/search?q=Akash) | N/A |
-| 14 | [Molana Ahmed Ludhyanvi](http://twitter.com/search?q=Molana+Ahmed+Ludhyanvi) | N/A |
+| 14 | [molana ahmed ludhyanvi](http://twitter.com/search?q=molana+ahmed+ludhyanvi) | N/A |
 | 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 16 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 17 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
-| 18 | [Liars](http://twitter.com/search?q=Liars) | N/A |
-| 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [O Ali](http://twitter.com/search?q=O+Ali) | N/A |
-| 22 | [benazir kafaalat](http://twitter.com/search?q=benazir+kafaalat) | N/A |
-| 23 | [Junaid Hafeez](http://twitter.com/search?q=Junaid+Hafeez) | N/A |
-| 24 | [heavy industries taxila](http://twitter.com/search?q=heavy+industries+taxila) | N/A |
-| 25 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 26 | [Ali Ibn Abi Talib](http://twitter.com/search?q=Ali+Ibn+Abi+Talib) | N/A |
-| 27 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 28 | [Hussain Haqqani](http://twitter.com/search?q=Hussain+Haqqani) | N/A |
-| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [Toot](http://twitter.com/search?q=Toot) | N/A |
-| 31 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 32 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 18 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 20 | [O Ali](http://twitter.com/search?q=O+Ali) | N/A |
+| 21 | [Junaid Hafeez](http://twitter.com/search?q=Junaid+Hafeez) | N/A |
+| 22 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 23 | [heavy industries taxila](http://twitter.com/search?q=heavy+industries+taxila) | N/A |
+| 24 | [Ali Ibn Abi Talib](http://twitter.com/search?q=Ali+Ibn+Abi+Talib) | N/A |
+| 25 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
+| 26 | [Hussain Haqqani](http://twitter.com/search?q=Hussain+Haqqani) | N/A |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [Toot](http://twitter.com/search?q=Toot) | N/A |
+| 29 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
+| 30 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 31 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 32 | [Liars](http://twitter.com/search?q=Liars) | N/A |
 | 33 | [Ameer ul Momineen](http://twitter.com/search?q=Ameer+ul+Momineen) | N/A |
-| 34 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
-| 35 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 36 | [KING AI](http://twitter.com/search?q=KING+AI) | N/A |
-| 37 | [When Allah](http://twitter.com/search?q=When+Allah) | N/A |
-| 38 | [Canva](http://twitter.com/search?q=Canva) | N/A |
-| 39 | [Bandial](http://twitter.com/search?q=Bandial) | N/A |
-| 40 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 41 | [Gilgit](http://twitter.com/search?q=Gilgit) | N/A |
-| 42 | [Context](http://twitter.com/search?q=Context) | N/A |
-| 43 | [Article 6](http://twitter.com/search?q=Article+6) | N/A |
-| 44 | [Kamran](http://twitter.com/search?q=Kamran) | N/A |
-| 45 | [Shukria](http://twitter.com/search?q=Shukria) | N/A |
-| 46 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 47 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
-| 48 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 49 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 50 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 34 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 35 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
+| 36 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 37 | [KING AI](http://twitter.com/search?q=KING+AI) | N/A |
+| 38 | [When Allah](http://twitter.com/search?q=When+Allah) | N/A |
+| 39 | [Canva](http://twitter.com/search?q=Canva) | N/A |
+| 40 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 41 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 42 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 43 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 44 | [Shukria](http://twitter.com/search?q=Shukria) | N/A |
+| 45 | [IIOJK](http://twitter.com/search?q=IIOJK) | N/A |
+| 46 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 47 | [Jana](http://twitter.com/search?q=Jana) | Jana is a feminine given name of Slavic origin. It is derived from the Hebrew name Yohanan, meaning "God is gracious". In English, Jana can be translated to mean "God's gracious gift". |
+| 48 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 49 | [England](http://twitter.com/search?q=England) | N/A |
+| 50 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 
 
 

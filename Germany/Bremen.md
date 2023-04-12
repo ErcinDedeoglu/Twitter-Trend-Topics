@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-12 14:18:15 UTC`
+📆 Last Updated: `2023-04-12 15:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,45 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
-| 2 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 3 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 4 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 5 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 6 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 2 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 3 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
+| 4 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 5 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 6 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
 | 7 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
-| 8 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 9 | [Sommerpause](http://twitter.com/search?q=Sommerpause) | N/A |
-| 10 | [#Weedmob](http://twitter.com/search?q=%23Weedmob) | N/A |
-| 11 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
-| 12 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 13 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 14 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
-| 15 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
-| 16 | [Grenzwerte](http://twitter.com/search?q=Grenzwerte) | N/A |
-| 17 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
-| 18 | [Clubs](http://twitter.com/search?q=Clubs) | N/A |
-| 19 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 20 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
-| 21 | [Gramm](http://twitter.com/search?q=Gramm) | N/A |
-| 22 | [Entkriminalisierung](http://twitter.com/search?q=Entkriminalisierung) | N/A |
-| 23 | [Besitz](http://twitter.com/search?q=Besitz) | N/A |
+| 8 | [Sommerpause](http://twitter.com/search?q=Sommerpause) | N/A |
+| 9 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
+| 10 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 11 | [Oktoberfest](http://twitter.com/search?q=Oktoberfest) | N/A |
+| 12 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
+| 13 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 14 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 15 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 16 | [#Weedmob](http://twitter.com/search?q=%23Weedmob) | N/A |
+| 17 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
+| 18 | [Grenzwerte](http://twitter.com/search?q=Grenzwerte) | N/A |
+| 19 | [Clubs](http://twitter.com/search?q=Clubs) | N/A |
+| 20 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 21 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
+| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 23 | [Entkriminalisierung](http://twitter.com/search?q=Entkriminalisierung) | N/A |
 | 24 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
-| 25 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
-| 26 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 27 | [Fukushima](http://twitter.com/search?q=Fukushima) | N/A |
-| 28 | [Brennstäbe](http://twitter.com/search?q=Brennst%c3%a4be) | N/A |
+| 25 | [Özdemir](http://twitter.com/search?q=%c3%96zdemir) | N/A |
+| 26 | [Gramm](http://twitter.com/search?q=Gramm) | N/A |
+| 27 | [Besitz](http://twitter.com/search?q=Besitz) | N/A |
+| 28 | [Verkauf](http://twitter.com/search?q=Verkauf) | N/A |
 | 29 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 30 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
-| 31 | [Tschernobyl](http://twitter.com/search?q=Tschernobyl) | N/A |
-| 32 | [Standards](http://twitter.com/search?q=Standards) | N/A |
-| 33 | [#Mützenich](http://twitter.com/search?q=%23M%c3%bctzenich) | N/A |
-| 34 | [#Gassen](http://twitter.com/search?q=%23Gassen) | N/A |
-| 35 | [#Lauterbach](http://twitter.com/search?q=%23Lauterbach) | N/A |
-| 36 | [#ArmUkraineNow](http://twitter.com/search?q=%23ArmUkraineNow) | N/A |
-| 37 | [#AKWAbschaltung](http://twitter.com/search?q=%23AKWAbschaltung) | N/A |
-| 38 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
-| 39 | [#Atomkraft](http://twitter.com/search?q=%23Atomkraft) | N/A |
+| 30 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
+| 31 | [Fukushima](http://twitter.com/search?q=Fukushima) | N/A |
+| 32 | [Brennstäbe](http://twitter.com/search?q=Brennst%c3%a4be) | N/A |
+| 33 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
+| 34 | [Standards](http://twitter.com/search?q=Standards) | N/A |
+| 35 | [#Mützenich](http://twitter.com/search?q=%23M%c3%bctzenich) | N/A |
+| 36 | [#AKWAbschaltung](http://twitter.com/search?q=%23AKWAbschaltung) | N/A |
+| 37 | [#Lauterbach](http://twitter.com/search?q=%23Lauterbach) | N/A |
+| 38 | [#Gassen](http://twitter.com/search?q=%23Gassen) | N/A |
+| 39 | [#ArmUkraineNow](http://twitter.com/search?q=%23ArmUkraineNow) | N/A |
+| 40 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
 
 
 
