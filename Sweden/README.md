@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-12 02:31:27 UTC`
+📆 Last Updated: `2023-04-12 03:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,30 +41,30 @@ This is top 50 for Sweden
 | 24 | [#skeaik](http://twitter.com/search?q=%23skeaik) | N/A |
 | 25 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 26 | [Pernod Ricard](http://twitter.com/search?q=Pernod+Ricard) | N/A |
-| 27 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 29 | [Erik Karlsson](http://twitter.com/search?q=Erik+Karlsson) | N/A |
-| 30 | [poya](http://twitter.com/search?q=poya) | N/A |
-| 31 | [romina pourmokhtari](http://twitter.com/search?q=romina+pourmokhtari) | N/A |
-| 32 | [Magnus Billing](http://twitter.com/search?q=Magnus+Billing) | N/A |
-| 33 | [aiks](http://twitter.com/search?q=aiks) | N/A |
-| 34 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 35 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 36 | [jomshof](http://twitter.com/search?q=jomshof) | N/A |
-| 37 | [baudin](http://twitter.com/search?q=baudin) | N/A |
-| 38 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 39 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
-| 40 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 41 | [norra](http://twitter.com/search?q=norra) | N/A |
-| 42 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 44 | [Absolut Vodka](http://twitter.com/search?q=Absolut+Vodka) | N/A |
-| 45 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 46 | [sätt](http://twitter.com/search?q=s%c3%a4tt) | N/A |
-| 47 | [gnaget](http://twitter.com/search?q=gnaget) | N/A |
-| 48 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
-| 49 | [widar](http://twitter.com/search?q=widar) | N/A |
-| 50 | [ceesay](http://twitter.com/search?q=ceesay) | N/A |
+| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 28 | [Erik Karlsson](http://twitter.com/search?q=Erik+Karlsson) | N/A |
+| 29 | [poya](http://twitter.com/search?q=poya) | N/A |
+| 30 | [romina pourmokhtari](http://twitter.com/search?q=romina+pourmokhtari) | N/A |
+| 31 | [Magnus Billing](http://twitter.com/search?q=Magnus+Billing) | N/A |
+| 32 | [aiks](http://twitter.com/search?q=aiks) | N/A |
+| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 34 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 35 | [jomshof](http://twitter.com/search?q=jomshof) | N/A |
+| 36 | [baudin](http://twitter.com/search?q=baudin) | N/A |
+| 37 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 38 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
+| 39 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 40 | [norra](http://twitter.com/search?q=norra) | N/A |
+| 41 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 42 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 43 | [Absolut Vodka](http://twitter.com/search?q=Absolut+Vodka) | N/A |
+| 44 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 45 | [sätt](http://twitter.com/search?q=s%c3%a4tt) | N/A |
+| 46 | [gnaget](http://twitter.com/search?q=gnaget) | N/A |
+| 47 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 48 | [widar](http://twitter.com/search?q=widar) | N/A |
+| 49 | [ceesay](http://twitter.com/search?q=ceesay) | N/A |
+| 50 | [förr](http://twitter.com/search?q=f%c3%b6rr) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-12 02:30:39 UTC`
+📆 Last Updated: `2023-04-12 03:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#otpwarszawa](http://twitter.com/search?q=%23otpwarszawa) | N/A |
 | 2 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 3 | [#Disney100](http://twitter.com/search?q=%23Disney100) | N/A |
-| 4 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 6 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
 | 7 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 8 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
@@ -60,7 +60,7 @@ This is top 50 for [Poland](</Poland>)
 | 43 | [wipasz](http://twitter.com/search?q=wipasz) | N/A |
 | 44 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
 | 45 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 46 | [Lech Kaczyński](http://twitter.com/search?q=Lech+Kaczy%c5%84ski) | N/A |
+| 46 | [lech kaczyński](http://twitter.com/search?q=lech+kaczy%c5%84ski) | N/A |
 | 47 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 | 48 | [łęcznej](http://twitter.com/search?q=%c5%82%c4%99cznej) | N/A |
 | 49 | [kowalczyk](http://twitter.com/search?q=kowalczyk) | N/A |

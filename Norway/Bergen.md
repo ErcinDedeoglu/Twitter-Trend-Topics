@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-12 02:30:47 UTC`
+📆 Last Updated: `2023-04-12 03:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,19 +51,19 @@ This is top 50 for [Norway](</Norway>)
 | 34 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
 | 35 | [trenger](http://twitter.com/search?q=trenger) | N/A |
 | 36 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
-| 37 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 38 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 39 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
-| 40 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
-| 41 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 42 | [problemet](http://twitter.com/search?q=problemet) | N/A |
-| 43 | [dessverre](http://twitter.com/search?q=dessverre) | N/A |
-| 44 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 45 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
-| 46 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 47 | [melløs](http://twitter.com/search?q=mell%c3%b8s) | N/A |
-| 48 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 37 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 38 | [tv 2](http://twitter.com/search?q=tv+2) | N/A |
+| 39 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
+| 40 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 41 | [problemet](http://twitter.com/search?q=problemet) | N/A |
+| 42 | [dessverre](http://twitter.com/search?q=dessverre) | N/A |
+| 43 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 44 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
+| 45 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
+| 46 | [melløs](http://twitter.com/search?q=mell%c3%b8s) | N/A |
+| 47 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 49 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 
 
 

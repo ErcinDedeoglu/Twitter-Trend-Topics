@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-12 02:31:21 UTC`
+📆 Last Updated: `2023-04-12 03:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for Denmark
 | 3 | [#fcnbif](http://twitter.com/search?q=%23fcnbif) | N/A |
 | 4 | [randers](http://twitter.com/search?q=randers) | N/A |
 | 5 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
-| 8 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 6 | [#dkøko](http://twitter.com/search?q=%23dk%c3%b8ko) | N/A |
+| 7 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 9 | [Mensah](http://twitter.com/search?q=Mensah) | Mensah is a surname of Ghanaian origin. It is derived from the Akan language and means "third born child". |
 | 10 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 11 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Denmark
 | 29 | [neestrup](http://twitter.com/search?q=neestrup) | N/A |
 | 30 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
 | 31 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 32 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 33 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
-| 34 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 35 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 36 | [slimane](http://twitter.com/search?q=slimane) | N/A |
-| 37 | [Dane](http://twitter.com/search?q=Dane) | N/A |
-| 38 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 40 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 41 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 42 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 43 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 44 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 45 | [herning](http://twitter.com/search?q=herning) | N/A |
-| 46 | [troede](http://twitter.com/search?q=troede) | N/A |
-| 47 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 48 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 49 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 50 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 32 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
+| 33 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 35 | [slimane](http://twitter.com/search?q=slimane) | N/A |
+| 36 | [Dane](http://twitter.com/search?q=Dane) | N/A |
+| 37 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 38 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 39 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 40 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 41 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 42 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 43 | [herning](http://twitter.com/search?q=herning) | N/A |
+| 44 | [troede](http://twitter.com/search?q=troede) | N/A |
+| 45 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 47 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 48 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 49 | [undskyld](http://twitter.com/search?q=undskyld) | N/A |
+| 50 | [Greve](http://twitter.com/search?q=Greve) | N/A |
 
 
 

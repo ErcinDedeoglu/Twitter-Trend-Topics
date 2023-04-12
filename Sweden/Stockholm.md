@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-04-12 02:30:47 UTC`
+📆 Last Updated: `2023-04-12 03:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -56,7 +56,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 39 | [Al Jaffee](http://twitter.com/search?q=Al+Jaffee) | N/A |
 | 40 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
 | 41 | [norra](http://twitter.com/search?q=norra) | N/A |
-| 42 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 42 | [Millie](http://twitter.com/search?q=Millie) | N/A |
 | 43 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 44 | [Absolut Vodka](http://twitter.com/search?q=Absolut+Vodka) | N/A |
 | 45 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |

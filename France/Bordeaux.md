@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-04-12 02:30:40 UTC`
+📆 Last Updated: `2023-04-12 03:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [France](</France>)
 | 6 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 7 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
 | 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 9 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 10 | [#Quatennens](http://twitter.com/search?q=%23Quatennens) | N/A |
+| 9 | [#Quatennens](http://twitter.com/search?q=%23Quatennens) | N/A |
+| 10 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 11 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
 | 12 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
 | 13 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
 | 14 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 15 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 16 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 17 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 15 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 16 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 17 | [Gims](http://twitter.com/search?q=Gims) | N/A |
 | 18 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
-| 19 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 19 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 21 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 22 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 23 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 24 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 25 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 26 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
-| 27 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 28 | [Capela](http://twitter.com/search?q=Capela) | N/A |
-| 29 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 30 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 31 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 23 | [Capela](http://twitter.com/search?q=Capela) | N/A |
+| 24 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 25 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 26 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
+| 27 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
+| 28 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 29 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 30 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 31 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 32 | [Pavard](http://twitter.com/search?q=Pavard) | Pavard is a French surname. It is derived from the Latin word pavo, meaning peacock. In English, the name Pavard can be translated to mean "peacock". |
-| 33 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 34 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 35 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 36 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
-| 37 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 38 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 39 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 40 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 41 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 42 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
-| 43 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 44 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 45 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 46 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 47 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 48 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 49 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 33 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
+| 34 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 35 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 36 | [Adebayo](http://twitter.com/search?q=Adebayo) | N/A |
+| 37 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 39 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 40 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 41 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 42 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 43 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 44 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
+| 45 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 46 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 47 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 48 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 49 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
 
 
 

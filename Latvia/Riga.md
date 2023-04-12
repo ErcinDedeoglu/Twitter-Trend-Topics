@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-12 02:30:47 UTC`
+📆 Last Updated: `2023-04-12 03:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,11 +15,11 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 2 | [Pīlēnu](http://twitter.com/search?q=P%c4%abl%c4%93nu) | N/A |
-| 3 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 4 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 5 | [Levitu](http://twitter.com/search?q=Levitu) | N/A |
+| 1 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | N/A |
+| 2 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 3 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 4 | [Levitu](http://twitter.com/search?q=Levitu) | N/A |
+| 5 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
 | 6 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
 | 7 | [staķis](http://twitter.com/search?q=sta%c4%b7is) | N/A |
 | 8 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
@@ -35,15 +35,15 @@ This is top 50 for [Latvia](</Latvia>)
 | 18 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
 | 19 | [lieldienas](http://twitter.com/search?q=lieldienas) | N/A |
 | 20 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 21 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 23 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 24 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
-| 25 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 26 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
-| 27 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 28 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
-| 29 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 22 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
+| 23 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
+| 24 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
+| 25 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
+| 26 | [Neko](http://twitter.com/search?q=Neko) | N/A |
+| 27 | [kurā](http://twitter.com/search?q=kur%c4%81) | N/A |
+| 28 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 29 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 30 | [латвии](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
 | 31 | [nekad](http://twitter.com/search?q=nekad) | N/A |
 | 32 | [neviens](http://twitter.com/search?q=neviens) | N/A |

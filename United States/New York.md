@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-12 02:31:15 UTC`
+📆 Last Updated: `2023-04-12 03:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#NFTNYC2023](http://twitter.com/search?q=%23NFTNYC2023) | N/A |
 | 2 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
-| 3 | [Canha](http://twitter.com/search?q=Canha) | N/A |
-| 4 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
-| 5 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 6 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 7 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 8 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
-| 9 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
-| 10 | [Levi](http://twitter.com/search?q=Levi) | N/A |
-| 11 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Times Square](http://twitter.com/search?q=Times+Square) | N/A |
-| 14 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 15 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 16 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 17 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 18 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
-| 19 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 20 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 21 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 22 | [Capela](http://twitter.com/search?q=Capela) | N/A |
-| 23 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 24 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
-| 25 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 26 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
-| 27 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
-| 28 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 29 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 30 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 31 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
-| 32 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 33 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 34 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 35 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
-| 36 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 37 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 38 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 39 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 40 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 41 | [Hader](http://twitter.com/search?q=Hader) | N/A |
-| 42 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
-| 43 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 44 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 45 | [JI HWAN](http://twitter.com/search?q=JI+HWAN) | N/A |
-| 46 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
-| 47 | [Celtics in 5](http://twitter.com/search?q=Celtics+in+5) | N/A |
-| 48 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
-| 49 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
-| 50 | [Flexen](http://twitter.com/search?q=Flexen) | N/A |
+| 3 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 4 | [Pham](http://twitter.com/search?q=Pham) | N/A |
+| 5 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 6 | [Canha](http://twitter.com/search?q=Canha) | N/A |
+| 7 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 8 | [Joki](http://twitter.com/search?q=Joki) | N/A |
+| 9 | [Santana](http://twitter.com/search?q=Santana) | N/A |
+| 10 | [Peterson](http://twitter.com/search?q=Peterson) | N/A |
+| 11 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 12 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 13 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
+| 14 | [Levi](http://twitter.com/search?q=Levi) | N/A |
+| 15 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
+| 16 | [Jennifer](http://twitter.com/search?q=Jennifer) | N/A |
+| 17 | [#WWHL](http://twitter.com/search?q=%23WWHL) | N/A |
+| 18 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 19 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 20 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 21 | [Times Square](http://twitter.com/search?q=Times+Square) | N/A |
+| 22 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 24 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 25 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 26 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 27 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 28 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 29 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 30 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 31 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 32 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
+| 33 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 34 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 35 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 36 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 37 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 38 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 39 | [Capela](http://twitter.com/search?q=Capela) | N/A |
+| 40 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 41 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 42 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 43 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 44 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 45 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 46 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 47 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 48 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
+| 49 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
+| 50 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
 
 
 

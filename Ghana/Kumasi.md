@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-04-12 02:30:57 UTC`
+📆 Last Updated: `2023-04-12 03:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Ghana](</Ghana>)
 | 4 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 5 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 6 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 7 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 8 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 7 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 8 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
 | 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 10 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 11 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 12 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 11 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 12 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 13 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 14 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 15 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 16 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 17 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 19 | [#maddymaznaz](http://twitter.com/search?q=%23maddymaznaz) | N/A |
-| 20 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 21 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 22 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 23 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 24 | [#BisaKdeiXGRAMMYs](http://twitter.com/search?q=%23BisaKdeiXGRAMMYs) | N/A |
-| 25 | [#owletforbusiness](http://twitter.com/search?q=%23owletforbusiness) | N/A |
-| 26 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 27 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
-| 28 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
-| 29 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 30 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 31 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 32 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 33 | [Rare](http://twitter.com/search?q=Rare) | N/A |
-| 34 | [wanna hold back](http://twitter.com/search?q=wanna+hold+back) | N/A |
-| 35 | [Sheggz](http://twitter.com/search?q=Sheggz) | N/A |
-| 36 | [King Promise](http://twitter.com/search?q=King+Promise) | King Promise is a Ghanaian singer, songwriter, and record producer. The phrase "King Promise" is a metaphor for the promise of greatness that comes with being a king. It is also a reference to the artist's commitment to delivering quality music and creating an impact in the music industry. |
-| 37 | [accra sports stadium](http://twitter.com/search?q=accra+sports+stadium) | N/A |
-| 38 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 39 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 40 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
-| 41 | [Terry](http://twitter.com/search?q=Terry) | N/A |
-| 42 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 43 | [Stephen Appiah](http://twitter.com/search?q=Stephen+Appiah) | N/A |
-| 44 | [CONGRATULATIONS OLIVIA](http://twitter.com/search?q=CONGRATULATIONS+OLIVIA) | N/A |
-| 45 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 46 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
-| 47 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 48 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
-| 49 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 50 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 18 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 20 | [#maddymaznaz](http://twitter.com/search?q=%23maddymaznaz) | N/A |
+| 21 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 22 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 23 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
+| 24 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 25 | [#BisaKdeiXGRAMMYs](http://twitter.com/search?q=%23BisaKdeiXGRAMMYs) | N/A |
+| 26 | [#owletforbusiness](http://twitter.com/search?q=%23owletforbusiness) | N/A |
+| 27 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 28 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
+| 29 | [Pep Guardiola](http://twitter.com/search?q=Pep+Guardiola) | N/A |
+| 30 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 31 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 32 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 33 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 34 | [Rare](http://twitter.com/search?q=Rare) | N/A |
+| 35 | [wanna hold back](http://twitter.com/search?q=wanna+hold+back) | N/A |
+| 36 | [Sheggz](http://twitter.com/search?q=Sheggz) | N/A |
+| 37 | [King Promise](http://twitter.com/search?q=King+Promise) | King Promise is a Ghanaian singer, songwriter, and record producer. The phrase "King Promise" is a metaphor for the promise of greatness that comes with being a king. It is also a reference to the artist's commitment to delivering quality music and creating an impact in the music industry. |
+| 38 | [accra sports stadium](http://twitter.com/search?q=accra+sports+stadium) | N/A |
+| 39 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 40 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 41 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
+| 42 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 43 | [Terry](http://twitter.com/search?q=Terry) | N/A |
+| 44 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 45 | [Stephen Appiah](http://twitter.com/search?q=Stephen+Appiah) | N/A |
+| 46 | [congratulations olivia](http://twitter.com/search?q=congratulations+olivia) | N/A |
+| 47 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 48 | [Nathan Ake](http://twitter.com/search?q=Nathan+Ake) | Nathan Ake is a Dutch professional footballer who plays as a defender for Premier League club Manchester City and the Netherlands national team. His name is pronounced "NAH-tahn AH-keh". The English translation of his name is "Nathan Oak". |
+| 49 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 50 | [Stones](http://twitter.com/search?q=Stones) | Stones is a slang term used to refer to money, usually in the form of coins. It is often used in the phrase "throw stones," which means to spend money. |
 
 
 
