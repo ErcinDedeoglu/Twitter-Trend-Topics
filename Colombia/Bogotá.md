@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-04-12 05:16:57 UTC`
+📆 Last Updated: `2023-04-12 06:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,49 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Asprilla](http://twitter.com/search?q=Asprilla) | N/A |
-| 2 | [Neiva](http://twitter.com/search?q=Neiva) | N/A |
-| 3 | [Banco de la República](http://twitter.com/search?q=Banco+de+la+Rep%c3%bablica) | N/A |
+| 1 | [#ChileEnMalEstado](http://twitter.com/search?q=%23ChileEnMalEstado) | N/A |
+| 2 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 3 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
 | 4 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
 | 5 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
-| 6 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 7 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 8 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 11 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 12 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 13 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
-| 14 | [Arrieta](http://twitter.com/search?q=Arrieta) | N/A |
+| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 7 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 8 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 9 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 10 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 11 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 12 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Davis](http://twitter.com/search?q=Davis) | N/A |
 | 15 | [Falque](http://twitter.com/search?q=Falque) | N/A |
-| 16 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 17 | [Lucas González](http://twitter.com/search?q=Lucas+Gonz%c3%a1lez) | N/A |
+| 16 | [Arrieta](http://twitter.com/search?q=Arrieta) | N/A |
+| 17 | [#DesafioTheBox2023](http://twitter.com/search?q=%23DesafioTheBox2023) | N/A |
 | 18 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
-| 19 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
-| 20 | [Beto Coral](http://twitter.com/search?q=Beto+Coral) | N/A |
-| 21 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 22 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 23 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 19 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 20 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 21 | [Lucas González](http://twitter.com/search?q=Lucas+Gonz%c3%a1lez) | N/A |
+| 22 | [Leys](http://twitter.com/search?q=Leys) | N/A |
+| 23 | [Beto Coral](http://twitter.com/search?q=Beto+Coral) | N/A |
+| 24 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
 | 25 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 26 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 27 | [#LaTeleLetal](http://twitter.com/search?q=%23LaTeleLetal) | N/A |
-| 28 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 29 | [Leys](http://twitter.com/search?q=Leys) | N/A |
-| 30 | [Pascual](http://twitter.com/search?q=Pascual) | N/A |
-| 31 | [Daniel Coronell](http://twitter.com/search?q=Daniel+Coronell) | N/A |
-| 32 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 33 | [Kevin Castaño](http://twitter.com/search?q=Kevin+Casta%c3%b1o) | N/A |
-| 34 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 35 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 36 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
-| 37 | [Álvaro Uribe](http://twitter.com/search?q=%c3%81lvaro+Uribe) | N/A |
-| 38 | [Huila](http://twitter.com/search?q=Huila) | N/A |
-| 39 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 40 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 41 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 42 | [Tulio](http://twitter.com/search?q=Tulio) | N/A |
-| 43 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 44 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
+| 26 | [#LaTeleLetal](http://twitter.com/search?q=%23LaTeleLetal) | N/A |
+| 27 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
+| 28 | [Pascual](http://twitter.com/search?q=Pascual) | N/A |
+| 29 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 30 | [Daniel Coronell](http://twitter.com/search?q=Daniel+Coronell) | N/A |
+| 31 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 32 | [Suárez](http://twitter.com/search?q=Su%c3%a1rez) | Suárez is a Spanish surname. It is derived from the Latin word "suarius," which means "of the swineherd." In English, it can be translated to mean "swineherd." |
+| 33 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 34 | [Quintero](http://twitter.com/search?q=Quintero) | Quintero is a Spanish surname derived from the Latin word quintarius, meaning "fifth." It is also a place name in Spain, referring to a small town in the province of Huelva. In English, the name Quintero can be translated to mean "of the fifth." |
+| 35 | [Álvaro Uribe](http://twitter.com/search?q=%c3%81lvaro+Uribe) | N/A |
+| 36 | [Neiva](http://twitter.com/search?q=Neiva) | N/A |
+| 37 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 38 | [Iván Duque](http://twitter.com/search?q=Iv%c3%a1n+Duque) | N/A |
+| 39 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 40 | [Asprilla](http://twitter.com/search?q=Asprilla) | N/A |
+| 41 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
+| 42 | [Banco de la República](http://twitter.com/search?q=Banco+de+la+Rep%c3%bablica) | N/A |
+| 43 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
 
 
 

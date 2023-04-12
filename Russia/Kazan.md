@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kazan
 
-📆 Last Updated: `2023-04-12 05:17:23 UTC`
+📆 Last Updated: `2023-04-12 06:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for [Russia](</Russia>)
 | 9 | [ALLL](http://twitter.com/search?q=ALLL) | N/A |
 | 10 | [Markets](http://twitter.com/search?q=Markets) | N/A |
 | 11 | [#bnbb](http://twitter.com/search?q=%23bnbb) | N/A |
-| 12 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 13 | [#binancee](http://twitter.com/search?q=%23binancee) | N/A |
-| 14 | [HAVEE](http://twitter.com/search?q=HAVEE) | N/A |
+| 12 | [#binancee](http://twitter.com/search?q=%23binancee) | N/A |
+| 13 | [#Bitcoinn](http://twitter.com/search?q=%23Bitcoinn) | N/A |
+| 14 | [Havee](http://twitter.com/search?q=Havee) | N/A |
 | 15 | [THEE](http://twitter.com/search?q=THEE) | N/A |
 | 16 | [Alreadyyy](http://twitter.com/search?q=Alreadyyy) | N/A |
 | 17 | [neww](http://twitter.com/search?q=neww) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for [Russia](</Russia>)
 | 22 | [Weee](http://twitter.com/search?q=Weee) | N/A |
 | 23 | [everythingg](http://twitter.com/search?q=everythingg) | N/A |
 | 24 | [шивелуч](http://twitter.com/search?q=%d1%88%d0%b8%d0%b2%d0%b5%d0%bb%d1%83%d1%87) | N/A |
-| 25 | [WHYY](http://twitter.com/search?q=WHYY) | N/A |
+| 25 | [Whyy](http://twitter.com/search?q=Whyy) | N/A |
 | 26 | [ЗНАЮ](http://twitter.com/search?q=%d0%97%d0%9d%d0%90%d0%ae) | N/A |
 | 27 | [keepss](http://twitter.com/search?q=keepss) | N/A |
-| 28 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 29 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
-| 30 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 31 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 28 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 29 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 30 | [Здоровья](http://twitter.com/search?q=%d0%97%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 31 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
 | 32 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 34 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 35 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
-| 36 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 37 | [реально](http://twitter.com/search?q=%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 38 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 39 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [выздоравливай](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
-| 42 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 43 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
-| 44 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
-| 45 | [Насколько](http://twitter.com/search?q=%d0%9d%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
-| 46 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 47 | [Сочи](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d0%b8) | N/A |
-| 48 | [Получается](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | N/A |
-| 49 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 50 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 33 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 34 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 35 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 36 | [реально](http://twitter.com/search?q=%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 37 | [понятно](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 38 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 40 | [выздоравливай](http://twitter.com/search?q=%d0%b2%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
+| 41 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 42 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 43 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 44 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 45 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | N/A |
+| 46 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | N/A |
+| 47 | [Насколько](http://twitter.com/search?q=%d0%9d%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
+| 48 | [Грузии](http://twitter.com/search?q=%d0%93%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 49 | [сочи](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d0%b8) | N/A |
+| 50 | [Получается](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | N/A |
 
 
 

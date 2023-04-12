@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-12 05:17:44 UTC`
+📆 Last Updated: `2023-04-12 06:19:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Qatar
 | ------- | ------------ | ------------ |
 | 1 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
 | 2 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 3 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 4 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 3 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 4 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
 | 5 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 6 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
 | 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 8 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
 | 9 | [#القادسيه_كاظميه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87_%d9%83%d8%a7%d8%b8%d9%85%d9%8a%d9%87) | N/A |
 | 10 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 11 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 11 | [٢١ رمضان](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 12 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
 | 13 | [بنت احمد بن علي المحمود](http://twitter.com/search?q=%d8%a8%d9%86%d8%aa+%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%ad%d9%85%d9%88%d8%af) | N/A |
 | 14 | [الهييه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 15 | [٢٠ رمضان](http://twitter.com/search?q=%d9%a2%d9%a0+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 16 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 17 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 15 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 16 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 17 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
 | 18 | [#ام_صلال](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%b5%d9%84%d8%a7%d9%84) | N/A |
 | 19 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
 | 20 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
 | 21 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
 | 22 | [ليال عشر](http://twitter.com/search?q=%d9%84%d9%8a%d8%a7%d9%84+%d8%b9%d8%b4%d8%b1) | N/A |
 | 23 | [الصحابي الجليل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%a7%d8%a8%d9%8a+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
-| 24 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 25 | [قوات الاحتلال الاسراييلي](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 26 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 27 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 28 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 29 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 30 | [الصفاقسي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d9%82%d8%b3%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
-| 31 | [ابي بنت](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%a8%d9%86%d8%aa) | N/A |
-| 32 | [تحدي التغيير](http://twitter.com/search?q=%d8%aa%d8%ad%d8%af%d9%8a+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
-| 33 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
-| 34 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 35 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
-| 36 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 24 | [قوات الاحتلال الاسراييلي](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 25 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 26 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 27 | [الهدف الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 28 | [الصفاقسي التونسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%81%d8%a7%d9%82%d8%b3%d9%8a+%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a) | N/A |
+| 29 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 30 | [ابي بنت](http://twitter.com/search?q=%d8%a7%d8%a8%d9%8a+%d8%a8%d9%86%d8%aa) | N/A |
+| 31 | [تحدي التغيير](http://twitter.com/search?q=%d8%aa%d8%ad%d8%af%d9%8a+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
+| 32 | [اليوم العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
+| 33 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 34 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 35 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 36 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
 | 37 | [تميم بن حمد](http://twitter.com/search?q=%d8%aa%d9%85%d9%8a%d9%85+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
-| 40 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 41 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 42 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 43 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 44 | [الصلوات الخمس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%85%d8%b3) | N/A |
-| 45 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
-| 46 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 47 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 48 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 49 | [منصور](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
-| 50 | [الخليج](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 38 | [مكة المكرمة](http://twitter.com/search?q=%d9%85%d9%83%d8%a9+%d8%a7%d9%84%d9%85%d9%83%d8%b1%d9%85%d8%a9) | N/A |
+| 39 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 40 | [١٩ رمضان](http://twitter.com/search?q=%d9%a1%d9%a9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 41 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 42 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 43 | [الصلوات الخمس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%84%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d9%85%d8%b3) | N/A |
+| 44 | [شهر ابريل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%a7%d8%a8%d8%b1%d9%8a%d9%84) | N/A |
+| 45 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 46 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 47 | [الفريق الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 48 | [منصور](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1) | N/A |
+| 49 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
+| 50 | [علي الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
 
 
 

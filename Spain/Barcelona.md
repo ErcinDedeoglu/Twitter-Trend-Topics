@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-12 05:17:07 UTC`
+📆 Last Updated: `2023-04-12 06:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 6 | [#FelizMiércoles](http://twitter.com/search?q=%23FelizMi%c3%a9rcoles) | N/A |
-| 7 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 8 | [#solos11a](http://twitter.com/search?q=%23solos11a) | N/A |
-| 9 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 10 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
-| 11 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 13 | [#dormiresdecobardes](http://twitter.com/search?q=%23dormiresdecobardes) | N/A |
-| 14 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 15 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 16 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 18 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 19 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 20 | [gil manzano](http://twitter.com/search?q=gil+manzano) | N/A |
-| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 22 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 23 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 24 | [Atlanta](http://twitter.com/search?q=Atlanta) | Atlanta is the capital and most populous city in the U.S. state of Georgia. The name Atlanta is derived from that of the Western and Atlantic Railroad, which was built in 1837 to connect the city to far-off points westward. The literal meaning of Atlanta is "the city at the end of the railroad." |
-| 25 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 26 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 27 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 28 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 29 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 30 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 31 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 32 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
-| 33 | [melilla](http://twitter.com/search?q=melilla) | N/A |
-| 34 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 35 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 36 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 37 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 2 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 4 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 7 | [461 X](http://twitter.com/search?q=461+X) | N/A |
+| 8 | [#dormiresdecobardes](http://twitter.com/search?q=%23dormiresdecobardes) | N/A |
+| 9 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 11 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 12 | [#solos11a](http://twitter.com/search?q=%23solos11a) | N/A |
+| 13 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 14 | [#MasterChef](http://twitter.com/search?q=%23MasterChef) | N/A |
+| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 16 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
+| 17 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 18 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 19 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 20 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 21 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 23 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 24 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 25 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 26 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 27 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 28 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 29 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 30 | [Batet](http://twitter.com/search?q=Batet) | N/A |
+| 31 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 33 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
+| 34 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 35 | [Melilla](http://twitter.com/search?q=Melilla) | N/A |
+| 36 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 37 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
 | 38 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 39 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 40 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 41 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
-| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 43 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 44 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
-| 45 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 46 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 47 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 48 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 49 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 50 | [Kamala](http://twitter.com/search?q=Kamala) | N/A |
+| 39 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 40 | [Pedro Águeda](http://twitter.com/search?q=Pedro+%c3%81gueda) | N/A |
+| 41 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 42 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 43 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 44 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
+| 45 | [Govern](http://twitter.com/search?q=Govern) | N/A |
+| 46 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 47 | [Towns](http://twitter.com/search?q=Towns) | N/A |
+| 48 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 49 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 50 | [IRPF](http://twitter.com/search?q=IRPF) | N/A |
 
 
 
