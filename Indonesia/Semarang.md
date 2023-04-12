@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-04-12 16:18:05 UTC`
+📆 Last Updated: `2023-04-12 17:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
-| 2 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
-| 3 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
-| 4 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 5 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 6 | [#DOJAEJUNG_Intimacy](http://twitter.com/search?q=%23DOJAEJUNG_Intimacy) | N/A |
-| 7 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 10 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
-| 11 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 12 | [Sungjin](http://twitter.com/search?q=Sungjin) | N/A |
-| 13 | [First Oshi](http://twitter.com/search?q=First+Oshi) | N/A |
-| 14 | [Fav MV](http://twitter.com/search?q=Fav+MV) | N/A |
-| 15 | [Ult Oshi](http://twitter.com/search?q=Ult+Oshi) | N/A |
-| 16 | [Yati](http://twitter.com/search?q=Yati) | N/A |
-| 17 | [Fav Setlist](http://twitter.com/search?q=Fav+Setlist) | N/A |
-| 18 | [Fav Song](http://twitter.com/search?q=Fav+Song) | N/A |
-| 19 | [Fav Sub-unit](http://twitter.com/search?q=Fav+Sub-unit) | N/A |
-| 20 | [heejin](http://twitter.com/search?q=heejin) | N/A |
-| 21 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 22 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
-| 23 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 24 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
-| 25 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
-| 26 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 27 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 28 | [Tanah Abang](http://twitter.com/search?q=Tanah+Abang) | N/A |
-| 29 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 30 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 31 | [$CGPT](http://twitter.com/search?q=%24CGPT) | N/A |
-| 32 | [Aqua](http://twitter.com/search?q=Aqua) | N/A |
-| 33 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 34 | [jakarta pusat](http://twitter.com/search?q=jakarta+pusat) | N/A |
-| 35 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 36 | [#JoyfulJiwooDay](http://twitter.com/search?q=%23JoyfulJiwooDay) | N/A |
-| 37 | [#쮸랑단대장님_생일쮸카해](http://twitter.com/search?q=%23%ec%ae%b8%eb%9e%91%eb%8b%a8%eb%8c%80%ec%9e%a5%eb%8b%98_%ec%83%9d%ec%9d%bc%ec%ae%b8%ec%b9%b4%ed%95%b4) | N/A |
-| 38 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
-| 39 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 40 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
-| 41 | [#RisingActorJunhoe](http://twitter.com/search?q=%23RisingActorJunhoe) | N/A |
-| 42 | [#avocadochees](http://twitter.com/search?q=%23avocadochees) | N/A |
-| 43 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
-| 44 | [#FxckMyLife](http://twitter.com/search?q=%23FxckMyLife) | N/A |
-| 45 | [#AzarineSPFWeek](http://twitter.com/search?q=%23AzarineSPFWeek) | N/A |
-| 46 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
-| 47 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
-| 48 | [#JeffBarcode](http://twitter.com/search?q=%23JeffBarcode) | N/A |
-| 49 | [#pakaimolis](http://twitter.com/search?q=%23pakaimolis) | N/A |
+| 1 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
+| 2 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 3 | [#SATUkebersamaan](http://twitter.com/search?q=%23SATUkebersamaan) | N/A |
+| 4 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
+| 5 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 6 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
+| 9 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
+| 10 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
+| 11 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
+| 12 | [Tanah Abang](http://twitter.com/search?q=Tanah+Abang) | N/A |
+| 13 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
+| 14 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
+| 15 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
+| 16 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 17 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 18 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
+| 19 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 20 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 21 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
+| 22 | [Jakarta Pusat](http://twitter.com/search?q=Jakarta+Pusat) | N/A |
+| 23 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 24 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 25 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 26 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 27 | [Luhut](http://twitter.com/search?q=Luhut) | N/A |
+| 28 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
+| 29 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
+| 30 | [#TrueToLove_Junhoe](http://twitter.com/search?q=%23TrueToLove_Junhoe) | N/A |
+| 31 | [#RisingActorJunhoe](http://twitter.com/search?q=%23RisingActorJunhoe) | N/A |
+| 32 | [#보라데보라_EP1_withJunhoe](http://twitter.com/search?q=%23%eb%b3%b4%eb%9d%bc%eb%8d%b0%eb%b3%b4%eb%9d%bc_EP1_withJunhoe) | N/A |
+| 33 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
+| 34 | [#GOSE_ChaseTheMafia](http://twitter.com/search?q=%23GOSE_ChaseTheMafia) | N/A |
+| 35 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
+| 36 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 37 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
+| 38 | [#Hexjuice](http://twitter.com/search?q=%23Hexjuice) | N/A |
+| 39 | [#SUGAxMARIECLAIRE](http://twitter.com/search?q=%23SUGAxMARIECLAIRE) | N/A |
+| 40 | [#TriMantabBanget](http://twitter.com/search?q=%23TriMantabBanget) | N/A |
+| 41 | [#SiamParagonSummer2023xGF](http://twitter.com/search?q=%23SiamParagonSummer2023xGF) | N/A |
+| 42 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
+| 43 | [#AsuransiWasit](http://twitter.com/search?q=%23AsuransiWasit) | N/A |
+| 44 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
+| 45 | [#JUNKYU](http://twitter.com/search?q=%23JUNKYU) | N/A |
+| 46 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
+| 47 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
+| 48 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
+| 49 | [#OurSkyyxNeverLetMeGo](http://twitter.com/search?q=%23OurSkyyxNeverLetMeGo) | N/A |
 
 
 

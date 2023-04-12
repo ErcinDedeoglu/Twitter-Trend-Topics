@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seville
 
-📆 Last Updated: `2023-04-12 16:18:02 UTC`
+📆 Last Updated: `2023-04-12 17:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Solos12A](http://twitter.com/search?q=%23Solos12A) | N/A |
-| 2 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 3 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 4 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 5 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
-| 6 | [Santiago Segura](http://twitter.com/search?q=Santiago+Segura) | N/A |
-| 7 | [#LaPromesa](http://twitter.com/search?q=%23LaPromesa) | N/A |
-| 8 | [CGPJ](http://twitter.com/search?q=CGPJ) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
-| 11 | [#CrisPorta12A](http://twitter.com/search?q=%23CrisPorta12A) | N/A |
-| 12 | [Inútil](http://twitter.com/search?q=In%c3%batil) | N/A |
-| 13 | [#DBP23](http://twitter.com/search?q=%23DBP23) | N/A |
-| 14 | [Batet](http://twitter.com/search?q=Batet) | N/A |
-| 15 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
-| 16 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 17 | [Género](http://twitter.com/search?q=G%c3%a9nero) | N/A |
-| 18 | [Jimena](http://twitter.com/search?q=Jimena) | N/A |
-| 19 | [Lofi Girl](http://twitter.com/search?q=Lofi+Girl) | N/A |
-| 20 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
-| 21 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
-| 22 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
-| 23 | [Roig](http://twitter.com/search?q=Roig) | N/A |
-| 24 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
-| 25 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 26 | [La APM](http://twitter.com/search?q=La+APM) | N/A |
-| 27 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
-| 28 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 29 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
-| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 31 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
-| 32 | [Anabel](http://twitter.com/search?q=Anabel) | N/A |
-| 33 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
-| 34 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 35 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 36 | [Monasterio](http://twitter.com/search?q=Monasterio) | N/A |
-| 37 | [Inda](http://twitter.com/search?q=Inda) | N/A |
-| 38 | [Argelia](http://twitter.com/search?q=Argelia) | N/A |
-| 39 | [Viernes 14](http://twitter.com/search?q=Viernes+14) | N/A |
-| 40 | [#ZeldaTearsOfTheKingdom](http://twitter.com/search?q=%23ZeldaTearsOfTheKingdom) | N/A |
-| 41 | [#EsperanzaDeIndias](http://twitter.com/search?q=%23EsperanzaDeIndias) | N/A |
-| 42 | [#IreneMonteroDimision](http://twitter.com/search?q=%23IreneMonteroDimision) | N/A |
-| 43 | [#LaCasaDelFútbol](http://twitter.com/search?q=%23LaCasaDelF%c3%batbol) | N/A |
-| 44 | [#DiadelaAtencionPrimaria](http://twitter.com/search?q=%23DiadelaAtencionPrimaria) | N/A |
-| 45 | [#YoMeRebelo12A](http://twitter.com/search?q=%23YoMeRebelo12A) | N/A |
-| 46 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
-| 47 | [#APOYOROCIO12A](http://twitter.com/search?q=%23APOYOROCIO12A) | N/A |
-| 48 | [#emprendimiento](http://twitter.com/search?q=%23emprendimiento) | N/A |
-| 49 | [#empresas](http://twitter.com/search?q=%23empresas) | N/A |
-| 50 | [#sanidad](http://twitter.com/search?q=%23sanidad) | N/A |
+| 2 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 4 | [#CrisPorta12A](http://twitter.com/search?q=%23CrisPorta12A) | N/A |
+| 5 | [#LaCasaDelFútbol](http://twitter.com/search?q=%23LaCasaDelF%c3%batbol) | N/A |
+| 6 | [#EsperanzaDeIndias](http://twitter.com/search?q=%23EsperanzaDeIndias) | N/A |
+| 7 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 8 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 9 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
+| 10 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
+| 11 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
+| 12 | [La APM](http://twitter.com/search?q=La+APM) | N/A |
+| 13 | [Batet](http://twitter.com/search?q=Batet) | N/A |
+| 14 | [Roig](http://twitter.com/search?q=Roig) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
+| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 18 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 19 | [Ministerio de Sanidad](http://twitter.com/search?q=Ministerio+de+Sanidad) | N/A |
+| 20 | [Ana Rosa Quintana](http://twitter.com/search?q=Ana+Rosa+Quintana) | N/A |
+| 21 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 22 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 23 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 24 | [Govern](http://twitter.com/search?q=Govern) | N/A |
+| 25 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 26 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 27 | [461 X](http://twitter.com/search?q=461+X) | N/A |
+| 28 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
+| 29 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 30 | [Ferreras](http://twitter.com/search?q=Ferreras) | N/A |
+| 31 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 32 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
+| 33 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 34 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
+| 35 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 36 | [Viernes 14](http://twitter.com/search?q=Viernes+14) | N/A |
+| 37 | [American Psycho](http://twitter.com/search?q=American+Psycho) | N/A |
+| 38 | [Sábado 15](http://twitter.com/search?q=S%c3%a1bado+15) | N/A |
+| 39 | [#laruletadelasuerte](http://twitter.com/search?q=%23laruletadelasuerte) | N/A |
+| 40 | [#AtenciónPrimaria](http://twitter.com/search?q=%23Atenci%c3%b3nPrimaria) | N/A |
+| 41 | [#APOYOROCIO12A](http://twitter.com/search?q=%23APOYOROCIO12A) | N/A |
+| 42 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 43 | [#YoMeRebelo12A](http://twitter.com/search?q=%23YoMeRebelo12A) | N/A |
+| 44 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 45 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
+| 46 | [#empresas](http://twitter.com/search?q=%23empresas) | N/A |
+| 47 | [#Vigo](http://twitter.com/search?q=%23Vigo) | N/A |
+| 48 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
+| 49 | [#innovación](http://twitter.com/search?q=%23innovaci%c3%b3n) | N/A |
+| 50 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 
 
 

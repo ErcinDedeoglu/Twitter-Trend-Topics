@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-12 16:18:41 UTC`
+📆 Last Updated: `2023-04-12 17:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
-| 2 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 3 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 4 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
-| 5 | [Tibisay](http://twitter.com/search?q=Tibisay) | N/A |
-| 6 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
+| 2 | [Job 18](http://twitter.com/search?q=Job+18) | N/A |
+| 3 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 4 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 5 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 6 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
 | 7 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 8 | [Richard Acuña](http://twitter.com/search?q=Richard+Acu%c3%b1a) | N/A |
+| 8 | [#rpsp](http://twitter.com/search?q=%23rpsp) | N/A |
 | 9 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 10 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
-| 13 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 14 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 15 | [Gerardo](http://twitter.com/search?q=Gerardo) | N/A |
-| 16 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
-| 17 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 18 | [#ENHYPEN5thComeback](http://twitter.com/search?q=%23ENHYPEN5thComeback) | N/A |
-| 19 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 22 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 23 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
-| 24 | [Job 18](http://twitter.com/search?q=Job+18) | N/A |
-| 25 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
-| 26 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 27 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 28 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
-| 29 | [Pablo Lavandeira](http://twitter.com/search?q=Pablo+Lavandeira) | N/A |
-| 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 31 | [Camila Ganoza](http://twitter.com/search?q=Camila+Ganoza) | N/A |
-| 32 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 33 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
-| 34 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 35 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 37 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 38 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
-| 39 | [Dos de Mayo](http://twitter.com/search?q=Dos+de+Mayo) | N/A |
-| 40 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 41 | [Héctor Chumpitaz](http://twitter.com/search?q=H%c3%a9ctor+Chumpitaz) | N/A |
-| 42 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
-| 43 | [Juan Reynoso](http://twitter.com/search?q=Juan+Reynoso) | N/A |
-| 44 | [Lolo](http://twitter.com/search?q=Lolo) | N/A |
-| 45 | [La República](http://twitter.com/search?q=La+Rep%c3%bablica) | N/A |
+| 10 | [Richard Acuña](http://twitter.com/search?q=Richard+Acu%c3%b1a) | N/A |
+| 11 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
+| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 15 | [#ENHYPEN5thComeback](http://twitter.com/search?q=%23ENHYPEN5thComeback) | N/A |
+| 16 | [Alberto Otárola](http://twitter.com/search?q=Alberto+Ot%c3%a1rola) | N/A |
+| 17 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 18 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
+| 19 | [Gerardo](http://twitter.com/search?q=Gerardo) | N/A |
+| 20 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 22 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
+| 23 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 26 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 28 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 29 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
+| 30 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [Dafonseka](http://twitter.com/search?q=Dafonseka) | N/A |
+| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 34 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 35 | [Camila Ganoza](http://twitter.com/search?q=Camila+Ganoza) | N/A |
+| 36 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 37 | [Pablo Lavandeira](http://twitter.com/search?q=Pablo+Lavandeira) | N/A |
+| 38 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
+| 39 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 41 | [Pirata](http://twitter.com/search?q=Pirata) | N/A |
+| 42 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 43 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
+| 44 | [Montesinos](http://twitter.com/search?q=Montesinos) | N/A |
+| 45 | [Secretario General](http://twitter.com/search?q=Secretario+General) | N/A |
 | 46 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 47 | [Chika](http://twitter.com/search?q=Chika) | N/A |
-| 48 | [Nazca](http://twitter.com/search?q=Nazca) | N/A |
+| 47 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 48 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
 | 49 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 50 | [AFPs](http://twitter.com/search?q=AFPs) | N/A |
+| 50 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
 
 
 

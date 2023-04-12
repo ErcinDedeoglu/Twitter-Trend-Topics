@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-04-12 16:17:54 UTC`
+📆 Last Updated: `2023-04-12 17:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 2 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 3 | [Renner](http://twitter.com/search?q=Renner) | N/A |
-| 4 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [ARTHURPICOLI NO ENCONTRO](http://twitter.com/search?q=ARTHURPICOLI+NO+ENCONTRO) | N/A |
+| 3 | [#ChicoPinheiroNoICL](http://twitter.com/search?q=%23ChicoPinheiroNoICL) | N/A |
+| 4 | [Shein](http://twitter.com/search?q=Shein) | N/A |
 | 5 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 6 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
-| 7 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 8 | [taxação](http://twitter.com/search?q=taxa%c3%a7%c3%a3o) | N/A |
-| 9 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
-| 10 | [Desfazendo o L](http://twitter.com/search?q=Desfazendo+o+L) | N/A |
-| 11 | [heejin](http://twitter.com/search?q=heejin) | N/A |
-| 12 | [Rebaixados](http://twitter.com/search?q=Rebaixados) | N/A |
-| 13 | [#ChicoPinheiroNoICL](http://twitter.com/search?q=%23ChicoPinheiroNoICL) | N/A |
-| 14 | [CNPJ](http://twitter.com/search?q=CNPJ) | N/A |
-| 15 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
-| 16 | [Empresas](http://twitter.com/search?q=Empresas) | N/A |
-| 17 | [ARTHURPICOLI NO ENCONTRO](http://twitter.com/search?q=ARTHURPICOLI+NO+ENCONTRO) | N/A |
-| 18 | [60 FPS](http://twitter.com/search?q=60+FPS) | N/A |
-| 19 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 20 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 21 | [Lombroso](http://twitter.com/search?q=Lombroso) | N/A |
-| 22 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 23 | [Maquiné](http://twitter.com/search?q=Maquin%c3%a9) | N/A |
-| 24 | [#LiveShowRebecca](http://twitter.com/search?q=%23LiveShowRebecca) | N/A |
-| 25 | [Receita Federal](http://twitter.com/search?q=Receita+Federal) | N/A |
-| 26 | [Xurrasca](http://twitter.com/search?q=Xurrasca) | N/A |
-| 27 | [Starfield](http://twitter.com/search?q=Starfield) | Starfield is a term used to describe a night sky filled with stars. It is often used to refer to the beauty of the night sky, and its ability to evoke feelings of awe and wonder. |
-| 28 | [Bethesda](http://twitter.com/search?q=Bethesda) | N/A |
-| 29 | [#ForaAline](http://twitter.com/search?q=%23ForaAline) | N/A |
-| 30 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
-| 31 | [Luiz Mello](http://twitter.com/search?q=Luiz+Mello) | N/A |
-| 32 | [U$50](http://twitter.com/search?q=U%2450) | N/A |
-| 33 | [Véio da Havan](http://twitter.com/search?q=V%c3%a9io+da+Havan) | N/A |
-| 34 | [PCdoB](http://twitter.com/search?q=PCdoB) | N/A |
-| 35 | [Palácio](http://twitter.com/search?q=Pal%c3%a1cio) | N/A |
-| 36 | [Katie](http://twitter.com/search?q=Katie) | N/A |
-| 37 | [Real Madrid x Chelsea](http://twitter.com/search?q=Real+Madrid+x+Chelsea) | N/A |
-| 38 | [Conselho de Ética](http://twitter.com/search?q=Conselho+de+%c3%89tica) | N/A |
-| 39 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 40 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 42 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 43 | [Arkane](http://twitter.com/search?q=Arkane) | Arkane is a French word meaning “secret” or “mysterious.” It is often used to describe something that is hidden or unknown. It can also refer to a type of magic or occult practice that involves the use of secret knowledge and rituals. |
-| 44 | [Imposto](http://twitter.com/search?q=Imposto) | N/A |
-| 45 | [CONSUMIDOR](http://twitter.com/search?q=CONSUMIDOR) | N/A |
-| 46 | [Cassação](http://twitter.com/search?q=Cassa%c3%a7%c3%a3o) | N/A |
-| 47 | [Luciano Hang](http://twitter.com/search?q=Luciano+Hang) | N/A |
-| 48 | [Multilaser](http://twitter.com/search?q=Multilaser) | N/A |
-| 49 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 50 | [Planalto](http://twitter.com/search?q=Planalto) | Planalto is a Portuguese word meaning "high plain" or "plateau." It is often used to refer to the Brazilian Central Plateau, which is a large area of highlands located in the central part of Brazil. |
+| 6 | [Renner](http://twitter.com/search?q=Renner) | N/A |
+| 7 | [Desfazendo o L](http://twitter.com/search?q=Desfazendo+o+L) | N/A |
+| 8 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 10 | [#LiveShowRebecca](http://twitter.com/search?q=%23LiveShowRebecca) | N/A |
+| 11 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 12 | [Lombroso](http://twitter.com/search?q=Lombroso) | N/A |
+| 13 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 14 | [#ForaAline](http://twitter.com/search?q=%23ForaAline) | N/A |
+| 15 | [Aliexpress](http://twitter.com/search?q=Aliexpress) | N/A |
+| 16 | [Palácio](http://twitter.com/search?q=Pal%c3%a1cio) | N/A |
+| 17 | [Véio da Havan](http://twitter.com/search?q=V%c3%a9io+da+Havan) | N/A |
+| 18 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 19 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
+| 20 | [Chaeyeon](http://twitter.com/search?q=Chaeyeon) | N/A |
+| 21 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
+| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 23 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
+| 26 | [SEM ANISTIA](http://twitter.com/search?q=SEM+ANISTIA) | SEM ANISTIA is a Portuguese phrase meaning "no amnesty" or "no pardon". It is often used to express a strong stance against amnesty for those who have committed crimes. |
+| 27 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
+| 28 | [Planalto](http://twitter.com/search?q=Planalto) | Planalto is a Portuguese word meaning "high plain" or "plateau." It is often used to refer to the Brazilian Central Plateau, which is a large area of highlands located in the central part of Brazil. |
+| 29 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 30 | [Fujão](http://twitter.com/search?q=Fuj%c3%a3o) | N/A |
+| 31 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 32 | [União](http://twitter.com/search?q=Uni%c3%a3o) | N/A |
+| 33 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 34 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 35 | [Zé Trovão](http://twitter.com/search?q=Z%c3%a9+Trov%c3%a3o) | N/A |
+| 36 | [Couto](http://twitter.com/search?q=Couto) | N/A |
+| 37 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 38 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 39 | [Fies](http://twitter.com/search?q=Fies) | N/A |
+| 40 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
+| 41 | [Casas Bahia](http://twitter.com/search?q=Casas+Bahia) | N/A |
+| 42 | [Rogério](http://twitter.com/search?q=Rog%c3%a9rio) | N/A |
+| 43 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 44 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 45 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
+| 46 | [#ForaBlack](http://twitter.com/search?q=%23ForaBlack) | N/A |
+| 47 | [#Bomdia](http://twitter.com/search?q=%23Bomdia) | N/A |
+| 48 | [#ForaCezarBlack](http://twitter.com/search?q=%23ForaCezarBlack) | N/A |
+| 49 | [#FicaBlack](http://twitter.com/search?q=%23FicaBlack) | N/A |
+| 50 | [#FicaAmanda](http://twitter.com/search?q=%23FicaAmanda) | N/A |
 
 
 

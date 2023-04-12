@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-12 16:18:41 UTC`
+📆 Last Updated: `2023-04-12 17:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Netherlands
 | 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 5 | [#woke](http://twitter.com/search?q=%23woke) | N/A |
 | 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 7 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
-| 8 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 9 | [#PCST2023](http://twitter.com/search?q=%23PCST2023) | N/A |
-| 10 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 11 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
+| 7 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 8 | [#PCST2023](http://twitter.com/search?q=%23PCST2023) | N/A |
+| 9 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 10 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
+| 11 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
 | 12 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 13 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 14 | [taalpolitie](http://twitter.com/search?q=taalpolitie) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 17 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
-| 18 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 19 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
-| 20 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 21 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 22 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
-| 23 | [berlijn](http://twitter.com/search?q=berlijn) | N/A |
-| 24 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 25 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
-| 26 | [Valentijn](http://twitter.com/search?q=Valentijn) | N/A |
+| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 15 | [taalpolitie](http://twitter.com/search?q=taalpolitie) | N/A |
+| 16 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 17 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 18 | [Flikker](http://twitter.com/search?q=Flikker) | N/A |
+| 19 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 20 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
+| 21 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
+| 22 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
+| 23 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
+| 24 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
+| 25 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
+| 26 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
 | 27 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 28 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
-| 29 | [Sofascore](http://twitter.com/search?q=Sofascore) | N/A |
-| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 31 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
-| 32 | [Franse](http://twitter.com/search?q=Franse) | N/A |
-| 33 | [Livescore](http://twitter.com/search?q=Livescore) | N/A |
-| 34 | [Máxima](http://twitter.com/search?q=M%c3%a1xima) | N/A |
-| 35 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 36 | [Kamerleden](http://twitter.com/search?q=Kamerleden) | N/A |
-| 37 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 38 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
-| 39 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
-| 40 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 41 | [Joseph Oosting](http://twitter.com/search?q=Joseph+Oosting) | N/A |
-| 42 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
-| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 44 | [Landal](http://twitter.com/search?q=Landal) | N/A |
-| 45 | [Wine](http://twitter.com/search?q=Wine) | N/A |
-| 46 | [thialf](http://twitter.com/search?q=thialf) | N/A |
-| 47 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 48 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 49 | [Flashscore](http://twitter.com/search?q=Flashscore) | N/A |
-| 50 | [De Tweede Kamer](http://twitter.com/search?q=De+Tweede+Kamer) | N/A |
+| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 29 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
+| 30 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
+| 31 | [Sofascore](http://twitter.com/search?q=Sofascore) | N/A |
+| 32 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 33 | [Kamerlid](http://twitter.com/search?q=Kamerlid) | N/A |
+| 34 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
+| 35 | [Joseph Oosting](http://twitter.com/search?q=Joseph+Oosting) | N/A |
+| 36 | [Henk Veldmate](http://twitter.com/search?q=Henk+Veldmate) | N/A |
+| 37 | [Flashscore](http://twitter.com/search?q=Flashscore) | N/A |
+| 38 | [Meisjes](http://twitter.com/search?q=Meisjes) | N/A |
+| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 40 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 41 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 42 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
+| 43 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 44 | [Gestoord](http://twitter.com/search?q=Gestoord) | N/A |
+| 45 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 46 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
+| 47 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 48 | [Livescore](http://twitter.com/search?q=Livescore) | N/A |
+| 49 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
+| 50 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-12 16:17:58 UTC`
+📆 Last Updated: `2023-04-12 17:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,48 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 1 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
 | 2 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
 | 3 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 4 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 5 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 6 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 7 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 8 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 9 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 10 | [Oktoberfest](http://twitter.com/search?q=Oktoberfest) | N/A |
-| 11 | ["Freiheitsenergie"](http://twitter.com/search?q=%22Freiheitsenergie%22) | N/A |
-| 12 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 4 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 5 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 6 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
+| 7 | [Oktoberfest](http://twitter.com/search?q=Oktoberfest) | N/A |
+| 8 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
+| 9 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
+| 10 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 11 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 12 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
 | 13 | [Die Mehrheit der Deutschen](http://twitter.com/search?q=Die+Mehrheit+der+Deutschen) | N/A |
-| 14 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
-| 15 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
-| 16 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 17 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
-| 18 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
-| 19 | [Rundfunkbeitrag](http://twitter.com/search?q=Rundfunkbeitrag) | N/A |
-| 20 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 21 | [Samen](http://twitter.com/search?q=Samen) | N/A |
-| 22 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
-| 23 | [Kriminalität](http://twitter.com/search?q=Kriminalit%c3%a4t) | N/A |
-| 24 | [Gramm](http://twitter.com/search?q=Gramm) | N/A |
-| 25 | [Clubs](http://twitter.com/search?q=Clubs) | N/A |
-| 26 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 27 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
-| 28 | [Gassen](http://twitter.com/search?q=Gassen) | N/A |
-| 29 | [Zigaretten](http://twitter.com/search?q=Zigaretten) | N/A |
-| 30 | [#Lauterbach](http://twitter.com/search?q=%23Lauterbach) | N/A |
-| 31 | [Entkriminalisierung](http://twitter.com/search?q=Entkriminalisierung) | N/A |
-| 32 | [Hanf](http://twitter.com/search?q=Hanf) | N/A |
-| 33 | [Irrweg](http://twitter.com/search?q=Irrweg) | N/A |
-| 34 | [Abgabe](http://twitter.com/search?q=Abgabe) | N/A |
-| 35 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 36 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
-| 37 | [Sommerpause](http://twitter.com/search?q=Sommerpause) | N/A |
-| 38 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 39 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
-| 40 | [Tod Israel](http://twitter.com/search?q=Tod+Israel) | N/A |
-| 41 | [Verkauf](http://twitter.com/search?q=Verkauf) | N/A |
-| 42 | [Besitz](http://twitter.com/search?q=Besitz) | N/A |
-| 43 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
-| 44 | [Fukushima](http://twitter.com/search?q=Fukushima) | N/A |
-| 45 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
-| 46 | [#AKWAbschaltung](http://twitter.com/search?q=%23AKWAbschaltung) | N/A |
-| 47 | [#Weedmob](http://twitter.com/search?q=%23Weedmob) | N/A |
-| 48 | [#DGKJahrestagung](http://twitter.com/search?q=%23DGKJahrestagung) | N/A |
+| 14 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 15 | [Verkauf](http://twitter.com/search?q=Verkauf) | N/A |
+| 16 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 17 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 18 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 19 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
+| 20 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
+| 21 | [Sommerpause](http://twitter.com/search?q=Sommerpause) | N/A |
+| 22 | [#Weedmob](http://twitter.com/search?q=%23Weedmob) | N/A |
+| 23 | [Entkriminalisierung](http://twitter.com/search?q=Entkriminalisierung) | N/A |
+| 24 | [Tod Israel](http://twitter.com/search?q=Tod+Israel) | N/A |
+| 25 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 26 | [Clubs](http://twitter.com/search?q=Clubs) | N/A |
+| 27 | [Besitz](http://twitter.com/search?q=Besitz) | N/A |
+| 28 | [Rundfunkbeitrag](http://twitter.com/search?q=Rundfunkbeitrag) | N/A |
+| 29 | [Samen](http://twitter.com/search?q=Samen) | N/A |
+| 30 | [Abgabe](http://twitter.com/search?q=Abgabe) | N/A |
+| 31 | [Gramm](http://twitter.com/search?q=Gramm) | N/A |
+| 32 | [Gesetzesentwurf](http://twitter.com/search?q=Gesetzesentwurf) | N/A |
+| 33 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
+| 34 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | N/A |
+| 35 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 36 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 37 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
+| 38 | [Fukushima](http://twitter.com/search?q=Fukushima) | N/A |
+| 39 | [#Lauterbach](http://twitter.com/search?q=%23Lauterbach) | N/A |
+| 40 | [#ArmUkraineNow](http://twitter.com/search?q=%23ArmUkraineNow) | N/A |
+| 41 | [#RussiaisATerroistState](http://twitter.com/search?q=%23RussiaisATerroistState) | N/A |
+| 42 | [#AKWAbschaltung](http://twitter.com/search?q=%23AKWAbschaltung) | N/A |
 
 
 
