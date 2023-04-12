@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-04-12 19:17:20 UTC`
+📆 Last Updated: `2023-04-12 20:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
-| 2 | [#DoğrusuAkParti](http://twitter.com/search?q=%23Do%c4%9frusuAkParti) | N/A |
-| 3 | [#DavetsizMisafir](http://twitter.com/search?q=%23DavetsizMisafir) | N/A |
-| 4 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
-| 5 | [#Emad2000ler](http://twitter.com/search?q=%23Emad2000ler) | N/A |
-| 6 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
-| 7 | [dexgame](http://twitter.com/search?q=dexgame) | N/A |
-| 8 | [iibfp3ünsesini duyanvarmı](http://twitter.com/search?q=iibfp3%c3%bcnsesini+duyanvarm%c4%b1) | N/A |
-| 9 | [10 GB](http://twitter.com/search?q=10+GB) | N/A |
-| 10 | [Uğurcan Çakır](http://twitter.com/search?q=U%c4%9furcan+%c3%87ak%c4%b1r) | N/A |
-| 11 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 12 | [naci görüntü](http://twitter.com/search?q=naci+g%c3%b6r%c3%bcnt%c3%bc) | N/A |
-| 13 | [Mülakatı](http://twitter.com/search?q=M%c3%bclakat%c4%b1) | N/A |
-| 14 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 15 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 16 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 17 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 18 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 19 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 20 | [DemetÖzdemir FarahErşadi](http://twitter.com/search?q=Demet%c3%96zdemir+FarahEr%c5%9fadi) | N/A |
-| 21 | [Ak Parti Seçim Beyannamesi](http://twitter.com/search?q=Ak+Parti+Se%c3%a7im+Beyannamesi) | N/A |
-| 22 | [Asrın Büyük Türkiyesi](http://twitter.com/search?q=Asr%c4%b1n+B%c3%bcy%c3%bck+T%c3%bcrkiyesi) | N/A |
-| 23 | [Yugoslav](http://twitter.com/search?q=Yugoslav) | N/A |
-| 24 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 25 | [Urfi Çetinkaya](http://twitter.com/search?q=Urfi+%c3%87etinkaya) | N/A |
-| 26 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
-| 27 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
-| 28 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
-| 29 | [ŞoförüDuy SeçimiKazan](http://twitter.com/search?q=%c5%9eof%c3%b6r%c3%bcDuy+Se%c3%a7imiKazan) | N/A |
-| 30 | [Bankalardan 70](http://twitter.com/search?q=Bankalardan+70) | N/A |
-| 31 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
-| 32 | [Siha](http://twitter.com/search?q=Siha) | N/A |
-| 33 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
-| 34 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
-| 35 | [Ali Dursun](http://twitter.com/search?q=Ali+Dursun) | N/A |
-| 36 | [jagerile sahuradogru](http://twitter.com/search?q=jagerile+sahuradogru) | N/A |
-| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 38 | [çocuklariçin adaletistiyoruz](http://twitter.com/search?q=%c3%a7ocuklari%c3%a7in+adaletistiyoruz) | N/A |
-| 39 | [EnginAkyürek TahirLekesiz](http://twitter.com/search?q=EnginAky%c3%bcrek+TahirLekesiz) | N/A |
-| 40 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 41 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
-| 42 | [Şimdiye](http://twitter.com/search?q=%c5%9eimdiye) | N/A |
-| 43 | [Pire](http://twitter.com/search?q=Pire) | N/A |
-| 44 | [13 Nisan Perşembe](http://twitter.com/search?q=13+Nisan+Per%c5%9fembe) | N/A |
-| 45 | [meb4ile şartsıztayin](http://twitter.com/search?q=meb4ile+%c5%9farts%c4%b1ztayin) | N/A |
-| 46 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
-| 47 | [Deniz Harp Okulu](http://twitter.com/search?q=Deniz+Harp+Okulu) | N/A |
-| 48 | [Ekrem İmamoğlu](http://twitter.com/search?q=Ekrem+%c4%b0mamo%c4%9flu) | N/A |
-| 49 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 1 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
+| 2 | [Ak Parti Afyonkarahisar](http://twitter.com/search?q=Ak+Parti+Afyonkarahisar) | N/A |
+| 3 | [#MemurdaOyKullanacak](http://twitter.com/search?q=%23MemurdaOyKullanacak) | N/A |
+| 4 | [Dijital Sandık](http://twitter.com/search?q=Dijital+Sand%c4%b1k) | N/A |
+| 5 | [#CesaretinTeknolojisi](http://twitter.com/search?q=%23CesaretinTeknolojisi) | N/A |
+| 6 | [#DİByedekleredestekReis](http://twitter.com/search?q=%23D%c4%b0ByedekleredestekReis) | N/A |
+| 7 | [Cumhurbaşkanı Özel](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+%c3%96zel) | N/A |
+| 8 | [Süper Lig'e](http://twitter.com/search?q=S%c3%bcper+Lig%27e) | N/A |
+| 9 | [CNN Türk-Kanal D](http://twitter.com/search?q=CNN+T%c3%bcrk-Kanal+D) | N/A |
+| 10 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 11 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
+| 12 | [Tebrikler Beşiktaş'ım](http://twitter.com/search?q=Tebrikler+Be%c5%9fikta%c5%9f%27%c4%b1m) | "Tebrikler Beşiktaş'ım" is a Turkish phrase that translates to "Congratulations, my Beşiktaş!" It is a phrase of encouragement and support for the Turkish football team Beşiktaş. |
+| 13 | [Koudou](http://twitter.com/search?q=Koudou) | N/A |
+| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 15 | [MEMURU YOK SAYMA](http://twitter.com/search?q=MEMURU+YOK+SAYMA) | N/A |
+| 16 | [Büyük Altay](http://twitter.com/search?q=B%c3%bcy%c3%bck+Altay) | N/A |
+| 17 | [Saati 12](http://twitter.com/search?q=Saati+12) | N/A |
+| 18 | [Atatürk'lü](http://twitter.com/search?q=Atat%c3%bcrk%27l%c3%bc) | N/A |
+| 19 | [Candaş](http://twitter.com/search?q=Canda%c5%9f) | N/A |
+| 20 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 21 | [Muleka](http://twitter.com/search?q=Muleka) | Muleka is a Swahili word that means "child" or "offspring". It is often used as a term of endearment for a young person. |
+| 22 | [Sakaryaspor](http://twitter.com/search?q=Sakaryaspor) | N/A |
+| 23 | [Gençlerbirliği](http://twitter.com/search?q=Gen%c3%a7lerbirli%c4%9fi) | N/A |
+| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 26 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 27 | [Eyüp](http://twitter.com/search?q=Ey%c3%bcp) | N/A |
+| 28 | [Kanal İstanbul](http://twitter.com/search?q=Kanal+%c4%b0stanbul) | N/A |
+| 29 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 31 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 32 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 33 | [Balkan](http://twitter.com/search?q=Balkan) | N/A |
+| 34 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 35 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
+| 36 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 37 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 38 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
+| 39 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 40 | [#ÖğretmeneMüjde55Binİlave](http://twitter.com/search?q=%23%c3%96%c4%9fretmeneM%c3%bcjde55Bin%c4%b0lave) | N/A |
+| 41 | [#BJKvATM](http://twitter.com/search?q=%23BJKvATM) | N/A |
+| 42 | [#TogetherforTürkiye](http://twitter.com/search?q=%23TogetherforT%c3%bcrkiye) | N/A |
+| 43 | [#YaparsaBayKemalYapar](http://twitter.com/search?q=%23YaparsaBayKemalYapar) | N/A |
+| 44 | [#BeşiktaşAtleti](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9fAtleti) | N/A |
+| 45 | [#YeterliğeTabiGelirUzmanı](http://twitter.com/search?q=%23Yeterli%c4%9feTabiGelirUzman%c4%b1) | N/A |
+| 46 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 47 | [#besiktasinmacivar](http://twitter.com/search?q=%23besiktasinmacivar) | N/A |
+| 48 | [#KingOfTheNorth](http://twitter.com/search?q=%23KingOfTheNorth) | N/A |
 
 
 

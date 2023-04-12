@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-12 19:17:36 UTC`
+📆 Last Updated: `2023-04-12 20:18:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
-| 2 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 3 | [#Solos12A](http://twitter.com/search?q=%23Solos12A) | N/A |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 7 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 8 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
-| 9 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 10 | [#DeCampingConLidl](http://twitter.com/search?q=%23DeCampingConLidl) | N/A |
-| 11 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
-| 12 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 13 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 15 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 16 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 17 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
-| 18 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 19 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 20 | [Batet](http://twitter.com/search?q=Batet) | N/A |
-| 21 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 22 | [461 X](http://twitter.com/search?q=461+X) | N/A |
-| 23 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 24 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 25 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 26 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 27 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 29 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 31 | [Dragó](http://twitter.com/search?q=Drag%c3%b3) | N/A |
-| 32 | [American Psycho](http://twitter.com/search?q=American+Psycho) | N/A |
-| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 34 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
-| 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 36 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 39 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
-| 40 | [La APM](http://twitter.com/search?q=La+APM) | N/A |
-| 41 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 42 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 43 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
-| 44 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 45 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
-| 46 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
-| 47 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 48 | [Pedro Águeda](http://twitter.com/search?q=Pedro+%c3%81gueda) | N/A |
-| 49 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
-| 50 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 1 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 5 | [#firstdates12a](http://twitter.com/search?q=%23firstdates12a) | N/A |
+| 6 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 7 | [#intedragon](http://twitter.com/search?q=%23intedragon) | N/A |
+| 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 9 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 10 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 11 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
+| 12 | [Joao Félix](http://twitter.com/search?q=Joao+F%c3%a9lix) | N/A |
+| 13 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 14 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 15 | [#Solos12A](http://twitter.com/search?q=%23Solos12A) | N/A |
+| 16 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 17 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 20 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 21 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 23 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 24 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 25 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 26 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 27 | [Thibaut](http://twitter.com/search?q=Thibaut) | N/A |
+| 28 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 29 | [Tibu](http://twitter.com/search?q=Tibu) | N/A |
+| 30 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 31 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 32 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 33 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 34 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 35 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 36 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 37 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
+| 38 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 39 | [Brahim Díaz](http://twitter.com/search?q=Brahim+D%c3%adaz) | N/A |
+| 40 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 41 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 42 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 43 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 44 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 45 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
+| 46 | [Vincent Cassel](http://twitter.com/search?q=Vincent+Cassel) | N/A |
+| 47 | [Cafú](http://twitter.com/search?q=Caf%c3%ba) | N/A |
+| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 49 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 50 | [Batet](http://twitter.com/search?q=Batet) | N/A |
 
 
 

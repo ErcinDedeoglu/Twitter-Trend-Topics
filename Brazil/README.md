@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-04-12 19:17:30 UTC`
+📆 Last Updated: `2023-04-12 20:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ForaAline](http://twitter.com/search?q=%23ForaAline) | N/A |
-| 2 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [#ForaBlack](http://twitter.com/search?q=%23ForaBlack) | N/A |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 6 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 7 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 8 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 9 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 10 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 11 | [alan patrick](http://twitter.com/search?q=alan+patrick) | N/A |
-| 12 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 13 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 15 | [ARTHURPICOLI NO ENCONTRO](http://twitter.com/search?q=ARTHURPICOLI+NO+ENCONTRO) | N/A |
-| 16 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 17 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 18 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
-| 19 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 20 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 21 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 22 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 24 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 25 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
-| 26 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 27 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 28 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 29 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
-| 30 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 31 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 32 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 33 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 34 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
-| 35 | [Lombroso](http://twitter.com/search?q=Lombroso) | N/A |
-| 36 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 37 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 38 | [Rogério](http://twitter.com/search?q=Rog%c3%a9rio) | N/A |
-| 39 | [LATAM](http://twitter.com/search?q=LATAM) | N/A |
-| 40 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 41 | [MAIARA E MARAISA NO NORDESTE](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+NORDESTE) | N/A |
-| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 43 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 44 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 45 | [Fujão](http://twitter.com/search?q=Fuj%c3%a3o) | N/A |
-| 46 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 47 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 48 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 49 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
-| 50 | [Renner](http://twitter.com/search?q=Renner) | N/A |
+| 1 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 5 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 6 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 7 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 8 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 9 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 10 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 11 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 12 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 13 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 14 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 15 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 16 | [#TheEighthSenseEp6](http://twitter.com/search?q=%23TheEighthSenseEp6) | N/A |
+| 17 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 18 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 19 | [Farias Brito](http://twitter.com/search?q=Farias+Brito) | N/A |
+| 20 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 21 | [Vinicius Júnior](http://twitter.com/search?q=Vinicius+J%c3%banior) | N/A |
+| 22 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
+| 23 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 24 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 25 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 26 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 27 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 28 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 29 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 30 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 31 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 32 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 34 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 35 | [Luara](http://twitter.com/search?q=Luara) | N/A |
+| 36 | [Desfazendo o L](http://twitter.com/search?q=Desfazendo+o+L) | N/A |
+| 37 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
+| 38 | [Renner](http://twitter.com/search?q=Renner) | N/A |
+| 39 | [Aliexpress](http://twitter.com/search?q=Aliexpress) | N/A |
+| 40 | [Receita](http://twitter.com/search?q=Receita) | N/A |
+| 41 | [CNPJ](http://twitter.com/search?q=CNPJ) | N/A |
+| 42 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 43 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 44 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
+| 45 | [Shopee](http://twitter.com/search?q=Shopee) | N/A |
+| 46 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
+| 47 | [#chicopinheironoicl](http://twitter.com/search?q=%23chicopinheironoicl) | N/A |
+| 48 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 49 | [Lombroso](http://twitter.com/search?q=Lombroso) | N/A |
 
 
 

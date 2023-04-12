@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-04-12 19:17:01 UTC`
+📆 Last Updated: `2023-04-12 20:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
-| 2 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
-| 3 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 1 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 2 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
+| 3 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
 | 4 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
-| 5 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 6 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 7 | [#DOJAEJUNG_Intimacy](http://twitter.com/search?q=%23DOJAEJUNG_Intimacy) | N/A |
-| 8 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 11 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
-| 12 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
-| 13 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
-| 14 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
-| 15 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 16 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
-| 17 | [Tanah Abang](http://twitter.com/search?q=Tanah+Abang) | N/A |
-| 18 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
-| 19 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 20 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 21 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 22 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 23 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 24 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 25 | [Jakarta Pusat](http://twitter.com/search?q=Jakarta+Pusat) | N/A |
-| 26 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 27 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 28 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 29 | [#보라데보라_EP1_withJunhoe](http://twitter.com/search?q=%23%eb%b3%b4%eb%9d%bc%eb%8d%b0%eb%b3%b4%eb%9d%bc_EP1_withJunhoe) | N/A |
-| 30 | [#TrueToLove_Junhoe](http://twitter.com/search?q=%23TrueToLove_Junhoe) | N/A |
-| 31 | [#RisingActorJunhoe](http://twitter.com/search?q=%23RisingActorJunhoe) | N/A |
-| 32 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
-| 33 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
-| 34 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
-| 35 | [#RamadandiBliblixOPPO](http://twitter.com/search?q=%23RamadandiBliblixOPPO) | N/A |
-| 36 | [#HexjuiceXExtraTimeIndo](http://twitter.com/search?q=%23HexjuiceXExtraTimeIndo) | N/A |
-| 37 | [#BlibliRamadhan](http://twitter.com/search?q=%23BlibliRamadhan) | N/A |
-| 38 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
-| 39 | [#GOSE_ChaseTheMafia](http://twitter.com/search?q=%23GOSE_ChaseTheMafia) | N/A |
-| 40 | [#JeffBarcode](http://twitter.com/search?q=%23JeffBarcode) | N/A |
-| 41 | [#SiamParagonSummer2023xGF](http://twitter.com/search?q=%23SiamParagonSummer2023xGF) | N/A |
-| 42 | [#TriMantabBanget](http://twitter.com/search?q=%23TriMantabBanget) | N/A |
-| 43 | [#JUNKYU](http://twitter.com/search?q=%23JUNKYU) | N/A |
-| 44 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
-| 45 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
-| 46 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
-| 47 | [#PakaiMolis](http://twitter.com/search?q=%23PakaiMolis) | N/A |
-| 48 | [#OPPOxUCL](http://twitter.com/search?q=%23OPPOxUCL) | N/A |
-| 49 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 5 | [urusangue kerenin indonesia](http://twitter.com/search?q=urusangue+kerenin+indonesia) | N/A |
+| 6 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 7 | [#urusannegaraprabowoaja](http://twitter.com/search?q=%23urusannegaraprabowoaja) | N/A |
+| 8 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 9 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 11 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 12 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 13 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 14 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 15 | [kualitas pengadil lapangan](http://twitter.com/search?q=kualitas+pengadil+lapangan) | N/A |
+| 16 | [Jakarta Butuh Cuti](http://twitter.com/search?q=Jakarta+Butuh+Cuti) | N/A |
+| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 18 | [Wak Haji](http://twitter.com/search?q=Wak+Haji) | N/A |
+| 19 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 20 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 21 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 23 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 24 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 25 | [Anas](http://twitter.com/search?q=Anas) | N/A |
+| 26 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
+| 27 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 28 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
+| 29 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 31 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 32 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 34 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
+| 35 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 36 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
+| 37 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 38 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 39 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 40 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 41 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
+| 42 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
+| 43 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
+| 44 | [Tisha](http://twitter.com/search?q=Tisha) | N/A |
+| 45 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 46 | [Celsi](http://twitter.com/search?q=Celsi) | N/A |
+| 47 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 48 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
+| 49 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 50 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
 
 
 

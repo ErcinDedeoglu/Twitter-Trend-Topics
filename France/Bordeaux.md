@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-04-12 19:16:54 UTC`
+📆 Last Updated: `2023-04-12 20:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,46 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 2 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 3 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 4 | [#Kohlanta](http://twitter.com/search?q=%23Kohlanta) | N/A |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 6 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 7 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 8 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 9 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 10 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
-| 11 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 12 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 14 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 16 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 17 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 18 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 19 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 20 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
-| 21 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 22 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
-| 23 | [Cyclades](http://twitter.com/search?q=Cyclades) | N/A |
-| 24 | [RUBEN DIAS](http://twitter.com/search?q=RUBEN+DIAS) | N/A |
-| 25 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 26 | [Corteiz](http://twitter.com/search?q=Corteiz) | N/A |
-| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 28 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
-| 29 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 30 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 31 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 32 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 33 | [Boris Ravignon](http://twitter.com/search?q=Boris+Ravignon) | N/A |
-| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 35 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 37 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 38 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 39 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
-| 40 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 41 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
-| 42 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 43 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 44 | [Patrick Drahi](http://twitter.com/search?q=Patrick+Drahi) | N/A |
-| 45 | [ARMY Révolution](http://twitter.com/search?q=ARMY+R%c3%a9volution) | N/A |
-| 46 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 47 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 48 | [Paul Mirabel](http://twitter.com/search?q=Paul+Mirabel) | N/A |
-| 49 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 1 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 2 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 5 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 6 | [Demain 19h](http://twitter.com/search?q=Demain+19h) | N/A |
+| 7 | [#topchef](http://twitter.com/search?q=%23topchef) | N/A |
+| 8 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 9 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 11 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 12 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 13 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 14 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 15 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 16 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 17 | [Kanté](http://twitter.com/search?q=Kant%c3%a9) | N/A |
+| 18 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 19 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 20 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 21 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 23 | [Le Real](http://twitter.com/search?q=Le+Real) | N/A |
+| 24 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 25 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 26 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 27 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 28 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
+| 29 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 30 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 31 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 32 | [#CatchRaw](http://twitter.com/search?q=%23CatchRaw) | N/A |
+| 33 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 34 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 35 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
+| 36 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 37 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 38 | [#GIMS](http://twitter.com/search?q=%23GIMS) | N/A |
+| 39 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 40 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 
 
 

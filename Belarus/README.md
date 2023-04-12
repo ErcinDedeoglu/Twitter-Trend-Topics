@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-12 19:17:30 UTC`
+📆 Last Updated: `2023-04-12 20:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,30 +18,30 @@ This is top 50 for Belarus
 | 1 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
 | 2 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
 | 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 4 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 5 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 6 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 7 | [Радио Мир в Беларуси](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b8%d0%be+%d0%9c%d0%b8%d1%80+%d0%b2+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 8 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 9 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
-| 10 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 11 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 12 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 4 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 5 | [Радио Мир в Беларуси](http://twitter.com/search?q=%d0%a0%d0%b0%d0%b4%d0%b8%d0%be+%d0%9c%d0%b8%d1%80+%d0%b2+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 6 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
+| 7 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 8 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 9 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 10 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 11 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 12 | [#Минск](http://twitter.com/search?q=%23%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 13 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
 | 14 | [Хэ Сюань](http://twitter.com/search?q=%d0%a5%d1%8d+%d0%a1%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
 | 15 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
 | 16 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 17 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 18 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
-| 19 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
-| 20 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 21 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 22 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 23 | [#Минск](http://twitter.com/search?q=%23%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
-| 24 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 25 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 26 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 27 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 17 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 18 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
+| 19 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 20 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 21 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 22 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 23 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 24 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 25 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 26 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 27 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
 
 
 

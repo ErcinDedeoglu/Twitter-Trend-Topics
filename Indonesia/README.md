@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-12 19:17:32 UTC`
+📆 Last Updated: `2023-04-12 20:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
-| 2 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 3 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
-| 4 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
+| 1 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 2 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
+| 3 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
+| 4 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
 | 5 | [urusangue kerenin indonesia](http://twitter.com/search?q=urusangue+kerenin+indonesia) | N/A |
-| 6 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 6 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
 | 7 | [#urusannegaraprabowoaja](http://twitter.com/search?q=%23urusannegaraprabowoaja) | N/A |
-| 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 9 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 10 | [kualitas pengadil lapangan](http://twitter.com/search?q=kualitas+pengadil+lapangan) | N/A |
-| 11 | [Jakarta Butuh Cuti](http://twitter.com/search?q=Jakarta+Butuh+Cuti) | N/A |
-| 12 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 13 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
-| 14 | [Anas](http://twitter.com/search?q=Anas) | N/A |
-| 15 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 16 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
-| 17 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
-| 18 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 19 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
-| 20 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 22 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 23 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
-| 24 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 25 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 26 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
-| 27 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 28 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
-| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 30 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
-| 31 | [Tisha](http://twitter.com/search?q=Tisha) | N/A |
-| 32 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 33 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 34 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
-| 35 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 36 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 37 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 38 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
-| 39 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
-| 40 | [Pengadilan Tinggi DKI Jakarta](http://twitter.com/search?q=Pengadilan+Tinggi+DKI+Jakarta) | N/A |
-| 41 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 44 | [welcome back youngk](http://twitter.com/search?q=welcome+back+youngk) | N/A |
-| 45 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 46 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
-| 47 | [choi hyunsuk](http://twitter.com/search?q=choi+hyunsuk) | N/A |
-| 48 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 49 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 50 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 8 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 9 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 10 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 12 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 13 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 14 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 15 | [kualitas pengadil lapangan](http://twitter.com/search?q=kualitas+pengadil+lapangan) | N/A |
+| 16 | [Jakarta Butuh Cuti](http://twitter.com/search?q=Jakarta+Butuh+Cuti) | N/A |
+| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 18 | [Wak Haji](http://twitter.com/search?q=Wak+Haji) | N/A |
+| 19 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 20 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 21 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 23 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 24 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 25 | [Anas](http://twitter.com/search?q=Anas) | N/A |
+| 26 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
+| 27 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 28 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
+| 29 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 30 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 31 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 32 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 34 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
+| 35 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 36 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
+| 37 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 38 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 39 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 40 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 41 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
+| 42 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
+| 43 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
+| 44 | [Tisha](http://twitter.com/search?q=Tisha) | N/A |
+| 45 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 46 | [Celsi](http://twitter.com/search?q=Celsi) | N/A |
+| 47 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 48 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
+| 49 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 50 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
 
 
 

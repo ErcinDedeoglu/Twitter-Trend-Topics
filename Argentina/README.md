@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-12 19:17:30 UTC`
+📆 Last Updated: `2023-04-12 20:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 2 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 3 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 4 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 5 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 6 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
-| 7 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 8 | [#ATAV2](http://twitter.com/search?q=%23ATAV2) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 11 | [Maratea](http://twitter.com/search?q=Maratea) | N/A |
-| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
-| 14 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 15 | [Grindetti](http://twitter.com/search?q=Grindetti) | N/A |
-| 16 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
-| 17 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 18 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 19 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 20 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 21 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 22 | [Duka](http://twitter.com/search?q=Duka) | N/A |
-| 23 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 24 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
-| 25 | [Duca](http://twitter.com/search?q=Duca) | N/A |
-| 26 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
-| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 28 | [Tarjeta Alimentar](http://twitter.com/search?q=Tarjeta+Alimentar) | N/A |
-| 29 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 30 | [Avalos](http://twitter.com/search?q=Avalos) | N/A |
-| 31 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 32 | [Jorge Macri](http://twitter.com/search?q=Jorge+Macri) | N/A |
-| 33 | [bianca acosta](http://twitter.com/search?q=bianca+acosta) | N/A |
-| 34 | [Florentin](http://twitter.com/search?q=Florentin) | N/A |
-| 35 | [skrillex](http://twitter.com/search?q=skrillex) | N/A |
-| 36 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 37 | [Avellaneda](http://twitter.com/search?q=Avellaneda) | N/A |
-| 38 | [Bochi](http://twitter.com/search?q=Bochi) | N/A |
-| 39 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 40 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 41 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 42 | [Unión](http://twitter.com/search?q=Uni%c3%b3n) | N/A |
-| 43 | [Chilavert](http://twitter.com/search?q=Chilavert) | N/A |
-| 44 | [HOY JUEGA BOCA](http://twitter.com/search?q=HOY+JUEGA+BOCA) | N/A |
-| 45 | [Metropol](http://twitter.com/search?q=Metropol) | N/A |
-| 46 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 47 | [MON LAFERTE](http://twitter.com/search?q=MON+LAFERTE) | N/A |
-| 48 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 49 | [De Paoli](http://twitter.com/search?q=De+Paoli) | De Paoli is a surname of Italian origin. It is derived from the Latin word "paulus," which means "small." The name is most commonly found in northern Italy, particularly in the regions of Lombardy and Veneto. In English, it can be translated to mean "of the small one." |
-| 50 | [Gardel](http://twitter.com/search?q=Gardel) | N/A |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 3 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 4 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 5 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 6 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 8 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 9 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
+| 10 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 11 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 12 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 13 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
+| 14 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 17 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
+| 18 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 20 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 21 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 22 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 23 | [#ATAV2](http://twitter.com/search?q=%23ATAV2) | N/A |
+| 24 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 25 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 26 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 27 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 28 | [Maratea](http://twitter.com/search?q=Maratea) | N/A |
+| 29 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
+| 30 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 31 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 32 | [Lousteau](http://twitter.com/search?q=Lousteau) | N/A |
+| 33 | [Grindetti](http://twitter.com/search?q=Grindetti) | N/A |
+| 34 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 35 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 36 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 37 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 38 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 39 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 40 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 41 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 42 | [Duka](http://twitter.com/search?q=Duka) | N/A |
+| 43 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 44 | [CABA](http://twitter.com/search?q=CABA) | N/A |
+| 45 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 46 | [Cacho Garay](http://twitter.com/search?q=Cacho+Garay) | N/A |
+| 47 | [Tarjeta Alimentar](http://twitter.com/search?q=Tarjeta+Alimentar) | N/A |
+| 48 | [Ritondo](http://twitter.com/search?q=Ritondo) | N/A |
+| 49 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 50 | [Chapa](http://twitter.com/search?q=Chapa) | N/A |
 
 
 

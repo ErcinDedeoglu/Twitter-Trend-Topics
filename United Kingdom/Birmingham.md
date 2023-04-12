@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-04-12 19:16:42 UTC`
+📆 Last Updated: `2023-04-12 20:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DefundTheBBC](http://twitter.com/search?q=%23DefundTheBBC) | N/A |
-| 2 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 3 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 4 | [#BCFC](http://twitter.com/search?q=%23BCFC) | N/A |
-| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 7 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 8 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
-| 9 | [#sustainability](http://twitter.com/search?q=%23sustainability) | N/A |
-| 10 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 11 | [Happy Anniversary](http://twitter.com/search?q=Happy+Anniversary) | N/A |
-| 12 | [Wordle 662 X](http://twitter.com/search?q=Wordle+662+X) | N/A |
-| 13 | [#BuildingsInMoviesOrSongs](http://twitter.com/search?q=%23BuildingsInMoviesOrSongs) | N/A |
-| 14 | [Euro 2028](http://twitter.com/search?q=Euro+2028) | N/A |
-| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 16 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
-| 17 | [Dorah](http://twitter.com/search?q=Dorah) | N/A |
-| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 19 | [Jah Shaka](http://twitter.com/search?q=Jah+Shaka) | N/A |
-| 20 | [Scotland Act](http://twitter.com/search?q=Scotland+Act) | N/A |
-| 21 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 22 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 23 | [Section 35](http://twitter.com/search?q=Section+35) | Section 35 of the Canadian Constitution is a provision that recognizes and affirms the existing Aboriginal and treaty rights of the Aboriginal peoples of Canada. It states that these rights are recognized and affirmed as being “existing aboriginal and treaty rights”, including the right to self-government. This section also allows for the federal government to pass laws in relation to these rights, as long as they are consistent with the Constitution. |
-| 24 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 25 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 26 | [Carly](http://twitter.com/search?q=Carly) | N/A |
-| 27 | [Sammy Wilson](http://twitter.com/search?q=Sammy+Wilson) | N/A |
-| 28 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 29 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
-| 30 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
-| 31 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
-| 32 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 33 | [James Clayton](http://twitter.com/search?q=James+Clayton) | N/A |
-| 34 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
-| 35 | [Arlene](http://twitter.com/search?q=Arlene) | N/A |
-| 36 | [Ulster University](http://twitter.com/search?q=Ulster+University) | N/A |
-| 37 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 38 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 39 | [Scottish Government](http://twitter.com/search?q=Scottish+Government) | N/A |
-| 40 | [UK Government](http://twitter.com/search?q=UK+Government) | UK Government is the government of the United Kingdom, a constitutional monarchy in Europe. It is responsible for the governance of England, Scotland, Wales and Northern Ireland. The UK Government is headed by the Prime Minister and is made up of ministers from the ruling party or coalition. Its primary role is to make laws and policies that affect all citizens of the UK. |
-| 41 | [Britain First](http://twitter.com/search?q=Britain+First) | N/A |
-| 42 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 43 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 44 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 45 | [Madeley](http://twitter.com/search?q=Madeley) | N/A |
-| 46 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 47 | [US President](http://twitter.com/search?q=US+President) | N/A |
-| 48 | [Kate Andrews](http://twitter.com/search?q=Kate+Andrews) | N/A |
+| 1 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 2 | [Rice](http://twitter.com/search?q=Rice) | Rice is a type of grain that is a staple food for many cultures around the world. It is a cereal grain that is the most widely consumed staple food for a large part of the world's human population, especially in Asia. Rice can be cooked and served in a variety of ways, including boiled, steamed, fried, and as part of soups and stews. |
+| 3 | [#BCFC](http://twitter.com/search?q=%23BCFC) | N/A |
+| 4 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 5 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 6 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 7 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 10 | [#Corrie](http://twitter.com/search?q=%23Corrie) | N/A |
+| 11 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 12 | [#ROHcinderella](http://twitter.com/search?q=%23ROHcinderella) | N/A |
+| 13 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 14 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 15 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 16 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 17 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 18 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 20 | [#MAFSAUS](http://twitter.com/search?q=%23MAFSAUS) | N/A |
+| 21 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 22 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 23 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 24 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 25 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 26 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 27 | [Layton](http://twitter.com/search?q=Layton) | N/A |
+| 28 | [Rufus](http://twitter.com/search?q=Rufus) | N/A |
+| 29 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 30 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 31 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 32 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 33 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 34 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 35 | [Dorah](http://twitter.com/search?q=Dorah) | N/A |
+| 36 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 37 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 38 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 39 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 40 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 41 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 42 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 43 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 44 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 45 | [Ross Wilson](http://twitter.com/search?q=Ross+Wilson) | N/A |
+| 46 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 47 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 48 | [Prince Harry](http://twitter.com/search?q=Prince+Harry) | Prince Harry is the younger son of Charles, Prince of Wales, and Diana, Princess of Wales. He is sixth in line to the British throne and is known for his charity work and military service. The name "Harry" is a diminutive form of Henry or Harold, derived from the Germanic name Heimirich meaning "ruler of the home". |
 
 
 

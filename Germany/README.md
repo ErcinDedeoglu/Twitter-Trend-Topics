@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-04-12 19:17:32 UTC`
+📆 Last Updated: `2023-04-12 20:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 1 | [#kampfderrealitystars](http://twitter.com/search?q=%23kampfderrealitystars) | N/A |
 | 2 | [#aktenzeichenxy](http://twitter.com/search?q=%23aktenzeichenxy) | N/A |
-| 3 | [#kampfderrealitystars](http://twitter.com/search?q=%23kampfderrealitystars) | N/A |
+| 3 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 4 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
-| 5 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
-| 6 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 7 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 8 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 9 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 10 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 5 | [Lens Airdrop](http://twitter.com/search?q=Lens+Airdrop) | N/A |
+| 6 | [#bachelor](http://twitter.com/search?q=%23bachelor) | N/A |
+| 7 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 8 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 9 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 10 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
 | 11 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 12 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 13 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
-| 14 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 15 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 16 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 17 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 18 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 19 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
-| 20 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 22 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
-| 23 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 12 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 13 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 14 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 17 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 18 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 19 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 20 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
+| 21 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 22 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 23 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
 | 24 | [Entkriminalisierung](http://twitter.com/search?q=Entkriminalisierung) | N/A |
-| 25 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 25 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
 | 26 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
-| 27 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
-| 28 | [GNABRY](http://twitter.com/search?q=GNABRY) | N/A |
+| 27 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
+| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 29 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
-| 30 | [Sommerpause](http://twitter.com/search?q=Sommerpause) | N/A |
-| 31 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 32 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
-| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 34 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 35 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
-| 36 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
-| 37 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 38 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
-| 39 | [Visagistin](http://twitter.com/search?q=Visagistin) | N/A |
-| 40 | [Fukushima](http://twitter.com/search?q=Fukushima) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 43 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
-| 44 | [Oktoberfest](http://twitter.com/search?q=Oktoberfest) | N/A |
-| 45 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
-| 46 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 47 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 48 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 49 | [Gramm](http://twitter.com/search?q=Gramm) | N/A |
-| 50 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 30 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 31 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
+| 32 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 33 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 34 | [Sommerpause](http://twitter.com/search?q=Sommerpause) | N/A |
+| 35 | [Oktoberfest](http://twitter.com/search?q=Oktoberfest) | N/A |
+| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 37 | [Kernkraft](http://twitter.com/search?q=Kernkraft) | N/A |
+| 38 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
+| 39 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 40 | [Brazzo](http://twitter.com/search?q=Brazzo) | N/A |
+| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 42 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
+| 43 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 44 | [Matthias](http://twitter.com/search?q=Matthias) | N/A |
+| 45 | [Visagistin](http://twitter.com/search?q=Visagistin) | N/A |
+| 46 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
+| 47 | [Fukushima](http://twitter.com/search?q=Fukushima) | N/A |
+| 48 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 49 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 50 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
 
 
 

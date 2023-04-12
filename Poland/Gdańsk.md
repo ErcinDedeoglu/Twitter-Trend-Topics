@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-12 19:16:53 UTC`
+📆 Last Updated: `2023-04-12 20:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#5sosgliwice](http://twitter.com/search?q=%235sosgliwice) | N/A |
-| 2 | [#RobalewChlebie](http://twitter.com/search?q=%23RobalewChlebie) | N/A |
-| 3 | [#otpwarszawa](http://twitter.com/search?q=%23otpwarszawa) | N/A |
-| 4 | [Jacek Kurski](http://twitter.com/search?q=Jacek+Kurski) | N/A |
-| 5 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
-| 6 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 7 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 10 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
-| 11 | [Dudek](http://twitter.com/search?q=Dudek) | N/A |
-| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 13 | [Kierowca](http://twitter.com/search?q=Kierowca) | N/A |
-| 14 | [Sakowskiego](http://twitter.com/search?q=Sakowskiego) | N/A |
-| 15 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 16 | [Rzepy](http://twitter.com/search?q=Rzepy) | N/A |
-| 17 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
-| 18 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
-| 19 | [Rzepie](http://twitter.com/search?q=Rzepie) | N/A |
-| 20 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 21 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
-| 22 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 24 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 25 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
-| 26 | [Liga Mistrzów](http://twitter.com/search?q=Liga+Mistrz%c3%b3w) | N/A |
-| 27 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 28 | [SolPol](http://twitter.com/search?q=SolPol) | N/A |
+| 1 | [#famemma18](http://twitter.com/search?q=%23famemma18) | N/A |
+| 2 | [#5sosgliwice](http://twitter.com/search?q=%235sosgliwice) | N/A |
+| 3 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 4 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 5 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 7 | [Jacek Kurski](http://twitter.com/search?q=Jacek+Kurski) | N/A |
+| 8 | [Felixa](http://twitter.com/search?q=Felixa) | N/A |
+| 9 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 10 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
+| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 12 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 13 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 14 | [Rzepa](http://twitter.com/search?q=Rzepa) | N/A |
+| 15 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 16 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 17 | [Realu](http://twitter.com/search?q=Realu) | N/A |
+| 18 | [Sakowskiego](http://twitter.com/search?q=Sakowskiego) | N/A |
+| 19 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 20 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
+| 21 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
+| 22 | [Kierowca](http://twitter.com/search?q=Kierowca) | N/A |
+| 23 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 24 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 25 | [Rzepie](http://twitter.com/search?q=Rzepie) | N/A |
+| 26 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
 | 29 | [Płyta](http://twitter.com/search?q=P%c5%82yta) | N/A |
-| 30 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 31 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 32 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 33 | [arabski](http://twitter.com/search?q=arabski) | N/A |
-| 34 | [Lasy](http://twitter.com/search?q=Lasy) | N/A |
+| 30 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
+| 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 32 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 33 | [SolPol](http://twitter.com/search?q=SolPol) | N/A |
+| 34 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
 | 35 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 36 | [Bellinghama](http://twitter.com/search?q=Bellinghama) | N/A |
-| 37 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 37 | [Mediolanie](http://twitter.com/search?q=Mediolanie) | N/A |
+| 38 | [Dzień Czekolady](http://twitter.com/search?q=Dzie%c5%84+Czekolady) | N/A |
 | 39 | [Harris](http://twitter.com/search?q=Harris) | N/A |
-| 40 | [Hrubieszowie](http://twitter.com/search?q=Hrubieszowie) | N/A |
-| 41 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 40 | [Liga Mistrzów](http://twitter.com/search?q=Liga+Mistrz%c3%b3w) | N/A |
+| 41 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
 | 42 | [Budapesztu](http://twitter.com/search?q=Budapesztu) | N/A |
-| 43 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 44 | [Robaki](http://twitter.com/search?q=Robaki) | N/A |
-| 45 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 46 | [Dzień Czekolady](http://twitter.com/search?q=Dzie%c5%84+Czekolady) | N/A |
-| 47 | [Pucharu Polski](http://twitter.com/search?q=Pucharu+Polski) | N/A |
-| 48 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
+| 43 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 44 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 45 | [Lasy](http://twitter.com/search?q=Lasy) | N/A |
+| 46 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 47 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 48 | [Pucharu Polski](http://twitter.com/search?q=Pucharu+Polski) | N/A |
 
 
 

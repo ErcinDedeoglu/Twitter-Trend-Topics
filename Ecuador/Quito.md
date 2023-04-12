@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-12 19:16:49 UTC`
+📆 Last Updated: `2023-04-12 20:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 2 | [#Cuenca](http://twitter.com/search?q=%23Cuenca) | N/A |
-| 3 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 4 | [#MuseoCarondelet](http://twitter.com/search?q=%23MuseoCarondelet) | N/A |
-| 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 6 | [#LoDestruyeronTodo](http://twitter.com/search?q=%23LoDestruyeronTodo) | N/A |
-| 7 | [Penitenciaría del Litoral](http://twitter.com/search?q=Penitenciar%c3%ada+del+Litoral) | N/A |
+| 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 3 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 5 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 8 | [Diego Ordóñez](http://twitter.com/search?q=Diego+Ord%c3%b3%c3%b1ez) | N/A |
 | 9 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
 | 10 | [daleona un amor invencible](http://twitter.com/search?q=daleona+un+amor+invencible) | N/A |
-| 11 | [Atenas del Ecuador](http://twitter.com/search?q=Atenas+del+Ecuador) | N/A |
-| 12 | [Atenas del Ecuador](http://twitter.com/search?q=Atenas+del+Ecuador) | N/A |
-| 13 | [#andreycesiaunlive](http://twitter.com/search?q=%23andreycesiaunlive) | N/A |
-| 14 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 17 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 18 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
-| 19 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 20 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
-| 21 | [Santa Ana](http://twitter.com/search?q=Santa+Ana) | N/A |
-| 22 | [Bermúdez](http://twitter.com/search?q=Berm%c3%badez) | N/A |
-| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 24 | [Cuero](http://twitter.com/search?q=Cuero) | N/A |
-| 25 | [olímpico atahualpa](http://twitter.com/search?q=ol%c3%admpico+atahualpa) | N/A |
-| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 11 | [#andreycesiaunlive](http://twitter.com/search?q=%23andreycesiaunlive) | N/A |
+| 12 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 13 | [Fundación](http://twitter.com/search?q=Fundaci%c3%b3n) | N/A |
+| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 15 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 16 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
+| 17 | [#LassoRenuncia](http://twitter.com/search?q=%23LassoRenuncia) | N/A |
+| 18 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 19 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 20 | [Bermúdez](http://twitter.com/search?q=Berm%c3%badez) | N/A |
+| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 22 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [olímpico atahualpa](http://twitter.com/search?q=ol%c3%admpico+atahualpa) | N/A |
+| 25 | [Cuero](http://twitter.com/search?q=Cuero) | N/A |
+| 26 | [#ManchesterCity](http://twitter.com/search?q=%23ManchesterCity) | N/A |
 | 27 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
-| 28 | [buenos diaz](http://twitter.com/search?q=buenos+diaz) | N/A |
-| 29 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 30 | [Secretaría de Seguridad](http://twitter.com/search?q=Secretar%c3%ada+de+Seguridad) | N/A |
-| 31 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
-| 32 | [Senescyt](http://twitter.com/search?q=Senescyt) | N/A |
-| 33 | [Gabita](http://twitter.com/search?q=Gabita) | N/A |
-| 34 | [Collahuazo](http://twitter.com/search?q=Collahuazo) | N/A |
-| 35 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 36 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 38 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 39 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
-| 40 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 41 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 42 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
-| 43 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
-| 44 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 45 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 46 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 47 | [Obando](http://twitter.com/search?q=Obando) | N/A |
-| 48 | [Davis](http://twitter.com/search?q=Davis) | N/A |
-| 49 | [NARCOGOBIERNO](http://twitter.com/search?q=NARCOGOBIERNO) | N/A |
-| 50 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 28 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 29 | [Gaibor](http://twitter.com/search?q=Gaibor) | N/A |
+| 30 | [Senescyt](http://twitter.com/search?q=Senescyt) | N/A |
+| 31 | [gabita](http://twitter.com/search?q=gabita) | N/A |
+| 32 | [Collahuazo](http://twitter.com/search?q=Collahuazo) | N/A |
+| 33 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 35 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 36 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 37 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 38 | [Penitenciaría del Litoral](http://twitter.com/search?q=Penitenciar%c3%ada+del+Litoral) | N/A |
+| 39 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
+| 40 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
+| 41 | [Santa Ana](http://twitter.com/search?q=Santa+Ana) | N/A |
+| 42 | [obando](http://twitter.com/search?q=obando) | N/A |
+| 43 | [damián díaz](http://twitter.com/search?q=dami%c3%a1n+d%c3%adaz) | N/A |
+| 44 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 45 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 46 | [Davis](http://twitter.com/search?q=Davis) | N/A |
+| 47 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 48 | [janner corozo](http://twitter.com/search?q=janner+corozo) | N/A |
+| 49 | [Secretaría de Seguridad](http://twitter.com/search?q=Secretar%c3%ada+de+Seguridad) | N/A |
+| 50 | [kendry](http://twitter.com/search?q=kendry) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-04-12 19:16:52 UTC`
+📆 Last Updated: `2023-04-12 20:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,51 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 3 | [ARTHURPICOLI NO ENCONTRO](http://twitter.com/search?q=ARTHURPICOLI+NO+ENCONTRO) | N/A |
-| 4 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 5 | [Renner](http://twitter.com/search?q=Renner) | N/A |
-| 6 | [#ChicoPinheiroNoICL](http://twitter.com/search?q=%23ChicoPinheiroNoICL) | N/A |
-| 7 | [#MaisVoce](http://twitter.com/search?q=%23MaisVoce) | N/A |
-| 8 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 9 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 10 | [Desfazendo o L](http://twitter.com/search?q=Desfazendo+o+L) | N/A |
-| 11 | [#LiveShowRebecca](http://twitter.com/search?q=%23LiveShowRebecca) | N/A |
-| 12 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 13 | [Aliexpress](http://twitter.com/search?q=Aliexpress) | N/A |
-| 14 | [taxação](http://twitter.com/search?q=taxa%c3%a7%c3%a3o) | N/A |
-| 15 | [Rebaixados](http://twitter.com/search?q=Rebaixados) | N/A |
-| 16 | [Lombroso](http://twitter.com/search?q=Lombroso) | N/A |
-| 17 | [Mario Jorge](http://twitter.com/search?q=Mario+Jorge) | N/A |
-| 18 | [CNPJ](http://twitter.com/search?q=CNPJ) | N/A |
-| 19 | [Maquiné](http://twitter.com/search?q=Maquin%c3%a9) | N/A |
-| 20 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
-| 21 | [US$50](http://twitter.com/search?q=US%2450) | N/A |
-| 22 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
-| 23 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 24 | [Palácio](http://twitter.com/search?q=Pal%c3%a1cio) | N/A |
-| 25 | [Véio da Havan](http://twitter.com/search?q=V%c3%a9io+da+Havan) | N/A |
-| 26 | [Fies](http://twitter.com/search?q=Fies) | N/A |
-| 27 | [SEM ANISTIA](http://twitter.com/search?q=SEM+ANISTIA) | SEM ANISTIA is a Portuguese phrase meaning "no amnesty" or "no pardon". It is often used to express a strong stance against amnesty for those who have committed crimes. |
-| 28 | [Receita](http://twitter.com/search?q=Receita) | N/A |
-| 29 | [AstraZeneca](http://twitter.com/search?q=AstraZeneca) | N/A |
-| 30 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 31 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 32 | [Taxar](http://twitter.com/search?q=Taxar) | N/A |
-| 33 | [Fujão](http://twitter.com/search?q=Fuj%c3%a3o) | N/A |
-| 34 | [HOJE TEM CORINTHIANS](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS) | N/A |
-| 35 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
-| 36 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
-| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 38 | [Luly](http://twitter.com/search?q=Luly) | N/A |
-| 39 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
-| 40 | [Ministério da Justiça](http://twitter.com/search?q=Minist%c3%a9rio+da+Justi%c3%a7a) | N/A |
-| 41 | [Planalto](http://twitter.com/search?q=Planalto) | Planalto is a Portuguese word meaning "high plain" or "plateau." It is often used to refer to the Brazilian Central Plateau, which is a large area of highlands located in the central part of Brazil. |
-| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 43 | [Vitão](http://twitter.com/search?q=Vit%c3%a3o) | N/A |
-| 44 | [Zé Trovão](http://twitter.com/search?q=Z%c3%a9+Trov%c3%a3o) | N/A |
-| 45 | [Couto](http://twitter.com/search?q=Couto) | N/A |
-| 46 | [União](http://twitter.com/search?q=Uni%c3%a3o) | N/A |
-| 47 | [Unesp](http://twitter.com/search?q=Unesp) | N/A |
+| 2 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 6 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 7 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 8 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 9 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 10 | [Rafael Leão](http://twitter.com/search?q=Rafael+Le%c3%a3o) | N/A |
+| 11 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 12 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 13 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 14 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
+| 15 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 16 | [#TheEighthSenseEp6](http://twitter.com/search?q=%23TheEighthSenseEp6) | N/A |
+| 17 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 18 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 19 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 20 | [Farias Brito](http://twitter.com/search?q=Farias+Brito) | N/A |
+| 21 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 22 | [Dumbledore](http://twitter.com/search?q=Dumbledore) | N/A |
+| 23 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 24 | [Vinicius Júnior](http://twitter.com/search?q=Vinicius+J%c3%banior) | N/A |
+| 25 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 26 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 27 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 28 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 29 | [Havertz](http://twitter.com/search?q=Havertz) | Havertz is a German surname. It is derived from the German word "haver" which means oats. The name is often associated with people who are hardworking and reliable. In English, Havertz can be translated to mean "oats worker". |
+| 30 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 31 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 32 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 34 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 35 | [Luara](http://twitter.com/search?q=Luara) | N/A |
+| 36 | [Desfazendo o L](http://twitter.com/search?q=Desfazendo+o+L) | N/A |
+| 37 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
+| 38 | [Renner](http://twitter.com/search?q=Renner) | N/A |
+| 39 | [Aliexpress](http://twitter.com/search?q=Aliexpress) | N/A |
+| 40 | [CNPJ](http://twitter.com/search?q=CNPJ) | N/A |
+| 41 | [Receita](http://twitter.com/search?q=Receita) | N/A |
+| 42 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 43 | [Pitbull](http://twitter.com/search?q=Pitbull) | N/A |
+| 44 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 45 | [Shopee](http://twitter.com/search?q=Shopee) | N/A |
+| 46 | [Juventude](http://twitter.com/search?q=Juventude) | Juventude is a Portuguese word that translates to "youth" in English. It is often used to refer to the young people of a particular country or region. |
 
 
 

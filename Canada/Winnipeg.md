@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-04-12 19:16:41 UTC`
+📆 Last Updated: `2023-04-12 20:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 4 | [#DayOfPink](http://twitter.com/search?q=%23DayOfPink) | N/A |
-| 5 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 6 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 7 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 8 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
-| 9 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 10 | [KEVIN KIERMAIER](http://twitter.com/search?q=KEVIN+KIERMAIER) | N/A |
-| 11 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 12 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 13 | [MLSE](http://twitter.com/search?q=MLSE) | N/A |
-| 14 | [#tfpredict](http://twitter.com/search?q=%23tfpredict) | N/A |
-| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 16 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 17 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 18 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 19 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 20 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 21 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 22 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 23 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
-| 24 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 25 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 26 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 27 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 28 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
-| 29 | [Terry Fox](http://twitter.com/search?q=Terry+Fox) | N/A |
-| 30 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 31 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 32 | [LUKE SCHENN](http://twitter.com/search?q=LUKE+SCHENN) | N/A |
-| 33 | [Leader of the Opposition](http://twitter.com/search?q=Leader+of+the+Opposition) | N/A |
-| 34 | [DeMelo](http://twitter.com/search?q=DeMelo) | N/A |
-| 35 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 37 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 38 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 39 | [Fred McGriff](http://twitter.com/search?q=Fred+McGriff) | N/A |
-| 40 | [Charities](http://twitter.com/search?q=Charities) | N/A |
-| 41 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 42 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 43 | [Charity](http://twitter.com/search?q=Charity) | N/A |
-| 44 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 45 | [Zach Pop](http://twitter.com/search?q=Zach+Pop) | N/A |
-| 46 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 47 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
-| 48 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
-| 49 | [Butts](http://twitter.com/search?q=Butts) | N/A |
+| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 4 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 5 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 6 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 8 | [Most Improved](http://twitter.com/search?q=Most+Improved) | N/A |
+| 9 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 11 | [Most Disappointing](http://twitter.com/search?q=Most+Disappointing) | N/A |
+| 12 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 13 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 14 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 15 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 16 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
+| 17 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 18 | [KEVIN KIERMAIER](http://twitter.com/search?q=KEVIN+KIERMAIER) | N/A |
+| 19 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 20 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 21 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 22 | [CONLEY](http://twitter.com/search?q=CONLEY) | N/A |
+| 23 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 24 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 25 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 26 | [#DayOfPink](http://twitter.com/search?q=%23DayOfPink) | N/A |
+| 27 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 30 | [woll](http://twitter.com/search?q=woll) | N/A |
+| 31 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 32 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 34 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 35 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 36 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 38 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 39 | [Diaz](http://twitter.com/search?q=Diaz) | N/A |
+| 40 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 41 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 42 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 44 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 45 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 47 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
+| 48 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
+| 49 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
 
 
 
