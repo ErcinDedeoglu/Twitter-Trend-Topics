@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-04-12 11:17:51 UTC`
+📆 Last Updated: `2023-04-12 12:20:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
 | 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 7 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 8 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 9 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 10 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 11 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 12 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 13 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 14 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
-| 15 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 16 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 17 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 18 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
-| 19 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 20 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
-| 21 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 22 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 9 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 10 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 11 | [#TheMandolarian](http://twitter.com/search?q=%23TheMandolarian) | N/A |
+| 12 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 13 | [#Wordle662](http://twitter.com/search?q=%23Wordle662) | N/A |
+| 14 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 15 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 16 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 17 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 18 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 19 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
+| 20 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 21 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
+| 22 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 23 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
 | 24 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 25 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 26 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 25 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 26 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
 | 27 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 28 | [Towns](http://twitter.com/search?q=Towns) | N/A |
-| 29 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 30 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 31 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 32 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
-| 33 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 28 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 29 | [Towns](http://twitter.com/search?q=Towns) | N/A |
+| 30 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 32 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 33 | [Assange](http://twitter.com/search?q=Assange) | N/A |
 | 34 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 35 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 36 | [Reggie](http://twitter.com/search?q=Reggie) | N/A |
-| 37 | [Finch](http://twitter.com/search?q=Finch) | N/A |
-| 38 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 39 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 40 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 41 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 42 | [Spaces](http://twitter.com/search?q=Spaces) | N/A |
-| 43 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
-| 44 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 45 | [Keeley](http://twitter.com/search?q=Keeley) | N/A |
-| 46 | [Baki](http://twitter.com/search?q=Baki) | N/A |
-| 47 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 48 | [Antman](http://twitter.com/search?q=Antman) | N/A |
-| 49 | [Lifeweaver](http://twitter.com/search?q=Lifeweaver) | N/A |
-| 50 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 35 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 36 | [Prince](http://twitter.com/search?q=Prince) | N/A |
+| 37 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
+| 38 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 39 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 40 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 41 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 42 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 43 | [Twitter Spaces](http://twitter.com/search?q=Twitter+Spaces) | N/A |
+| 44 | [Ant Man](http://twitter.com/search?q=Ant+Man) | N/A |
+| 45 | [Baki](http://twitter.com/search?q=Baki) | N/A |
+| 46 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 47 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
+| 48 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 49 | [Adam silver](http://twitter.com/search?q=Adam+silver) | N/A |
+| 50 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
 
 
 

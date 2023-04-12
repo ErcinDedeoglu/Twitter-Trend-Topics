@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-04-12 11:17:18 UTC`
+📆 Last Updated: `2023-04-12 12:19:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,46 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 2 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
-| 3 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 1 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
+| 2 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 3 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
 | 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 5 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 6 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 7 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 8 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
-| 9 | [Cyclades](http://twitter.com/search?q=Cyclades) | N/A |
-| 10 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 11 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 12 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 5 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 6 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 7 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 8 | [Cyclades](http://twitter.com/search?q=Cyclades) | N/A |
+| 9 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
+| 10 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 11 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 12 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
 | 13 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 | 14 | [Disneyland Paris](http://twitter.com/search?q=Disneyland+Paris) | N/A |
-| 15 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 16 | [Joffrin](http://twitter.com/search?q=Joffrin) | N/A |
-| 17 | [André Bercoff](http://twitter.com/search?q=Andr%c3%a9+Bercoff) | N/A |
-| 18 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 20 | [Depardieu](http://twitter.com/search?q=Depardieu) | N/A |
-| 21 | [Edouard Philippe](http://twitter.com/search?q=Edouard+Philippe) | N/A |
-| 22 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 23 | [Pays Bas](http://twitter.com/search?q=Pays+Bas) | N/A |
-| 24 | [Abad](http://twitter.com/search?q=Abad) | N/A |
-| 25 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
-| 26 | [Jeudi 13](http://twitter.com/search?q=Jeudi+13) | N/A |
-| 27 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
-| 28 | [Le Figaro](http://twitter.com/search?q=Le+Figaro) | N/A |
-| 29 | [L'Europe](http://twitter.com/search?q=L%27Europe) | N/A |
-| 30 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 31 | [Marion](http://twitter.com/search?q=Marion) | N/A |
-| 32 | [Balti](http://twitter.com/search?q=Balti) | N/A |
-| 33 | [#DrahiLeaks](http://twitter.com/search?q=%23DrahiLeaks) | N/A |
-| 34 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
-| 35 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
-| 36 | [#DevoxxFR](http://twitter.com/search?q=%23DevoxxFR) | N/A |
-| 37 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
-| 38 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
+| 15 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
+| 16 | [Pays Bas](http://twitter.com/search?q=Pays+Bas) | N/A |
+| 17 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 18 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
+| 19 | [Daesh](http://twitter.com/search?q=Daesh) | N/A |
+| 20 | [Jeudi 13](http://twitter.com/search?q=Jeudi+13) | N/A |
+| 21 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 22 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
+| 23 | [Edouard Philippe](http://twitter.com/search?q=Edouard+Philippe) | N/A |
+| 24 | [Le Figaro](http://twitter.com/search?q=Le+Figaro) | N/A |
+| 25 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 26 | [L'Europe](http://twitter.com/search?q=L%27Europe) | N/A |
+| 27 | [Marion](http://twitter.com/search?q=Marion) | N/A |
+| 28 | [Balti](http://twitter.com/search?q=Balti) | N/A |
+| 29 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
+| 30 | [#DrahiLeaks](http://twitter.com/search?q=%23DrahiLeaks) | N/A |
+| 31 | [#GIMS](http://twitter.com/search?q=%23GIMS) | N/A |
+| 32 | [#DevoxxFR](http://twitter.com/search?q=%23DevoxxFR) | N/A |
+| 33 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
+| 34 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 35 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
+| 36 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 37 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
+| 38 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
 | 39 | [#recrutement](http://twitter.com/search?q=%23recrutement) | N/A |
-| 40 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 41 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 40 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
 
 
 

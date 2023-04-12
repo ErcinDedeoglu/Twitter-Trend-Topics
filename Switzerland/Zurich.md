@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-12 11:17:22 UTC`
+📆 Last Updated: `2023-04-12 12:19:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,43 +27,43 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 11 | [Boni](http://twitter.com/search?q=Boni) | N/A |
 | 12 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 13 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 15 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
-| 16 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 15 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 16 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
 | 17 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
-| 18 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 19 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 20 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 21 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 22 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 18 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 19 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 20 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 22 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 23 | [Polen](http://twitter.com/search?q=Polen) | N/A |
 | 24 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
 | 25 | [Gold](http://twitter.com/search?q=Gold) | N/A |
 | 26 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 30 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 27 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 29 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 31 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
 | 32 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
 | 33 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 34 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 35 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 36 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 37 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 38 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 39 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
-| 40 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 41 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
-| 42 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 36 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 37 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 38 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 39 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
+| 40 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
+| 41 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 42 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
 | 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 44 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 45 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 46 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
-| 47 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 48 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 49 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 44 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 45 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
+| 46 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
+| 47 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 48 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 49 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
 
 
 

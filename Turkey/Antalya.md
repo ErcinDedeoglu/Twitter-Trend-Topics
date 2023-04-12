@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-12 11:17:43 UTC`
+📆 Last Updated: `2023-04-12 12:20:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FetöİleUluslararasıMücadele](http://twitter.com/search?q=%23Fet%c3%b6%c4%b0leUluslararas%c4%b1M%c3%bccadele) | N/A |
-| 2 | [#EytÇözülmüşGibiYapılıyor](http://twitter.com/search?q=%23Eyt%c3%87%c3%b6z%c3%bclm%c3%bc%c5%9fGibiYap%c4%b1l%c4%b1yor) | N/A |
-| 3 | [#NeKadarDoğru](http://twitter.com/search?q=%23NeKadarDo%c4%9fru) | N/A |
-| 4 | [ŞoförüDuy SeçimiKazan](http://twitter.com/search?q=%c5%9eof%c3%b6r%c3%bcDuy+Se%c3%a7imiKazan) | N/A |
-| 5 | [#OYistiyorsanKCP](http://twitter.com/search?q=%23OYistiyorsanKCP) | N/A |
-| 6 | [Serhan](http://twitter.com/search?q=Serhan) | N/A |
-| 7 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
-| 8 | [Pire](http://twitter.com/search?q=Pire) | N/A |
-| 9 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
-| 10 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 11 | [Namazı](http://twitter.com/search?q=Namaz%c4%b1) | N/A |
-| 12 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
-| 13 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
-| 14 | [Hırsızın](http://twitter.com/search?q=H%c4%b1rs%c4%b1z%c4%b1n) | N/A |
-| 15 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 16 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
-| 17 | [Dosta](http://twitter.com/search?q=Dosta) | N/A |
-| 18 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 19 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 20 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 21 | [Ligi](http://twitter.com/search?q=Ligi) | N/A |
-| 22 | [Atletico Madrid](http://twitter.com/search?q=Atletico+Madrid) | N/A |
-| 23 | [İlker](http://twitter.com/search?q=%c4%b0lker) | N/A |
-| 24 | [Kuduz](http://twitter.com/search?q=Kuduz) | N/A |
-| 25 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 26 | [Süper Lig](http://twitter.com/search?q=S%c3%bcper+Lig) | N/A |
-| 27 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
-| 28 | [Özdağ](http://twitter.com/search?q=%c3%96zda%c4%9f) | N/A |
-| 29 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
-| 30 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 31 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
-| 32 | [#TOKİ](http://twitter.com/search?q=%23TOK%c4%b0) | N/A |
-| 33 | [#TogetherforTürkiye](http://twitter.com/search?q=%23TogetherforT%c3%bcrkiye) | N/A |
-| 34 | [#EUPWR](http://twitter.com/search?q=%23EUPWR) | N/A |
-| 35 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
-| 36 | [#DogrusuAkParti](http://twitter.com/search?q=%23DogrusuAkParti) | N/A |
-| 37 | [#EvlilikTeklifi](http://twitter.com/search?q=%23EvlilikTeklifi) | N/A |
-| 38 | [#StajyerÇırakSeçimiBelirler](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakSe%c3%a7imiBelirler) | N/A |
-| 39 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
-| 40 | [#kızılay](http://twitter.com/search?q=%23k%c4%b1z%c4%b1lay) | N/A |
-| 41 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
-| 42 | [#20Yılda](http://twitter.com/search?q=%2320Y%c4%b1lda) | N/A |
-| 43 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
-| 44 | [#SerenaySarıkaya](http://twitter.com/search?q=%23SerenaySar%c4%b1kaya) | N/A |
-| 45 | [#guenaydin](http://twitter.com/search?q=%23guenaydin) | N/A |
-| 46 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 47 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
-| 48 | [#Galatasaraybilet](http://twitter.com/search?q=%23Galatasaraybilet) | N/A |
+| 1 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
+| 2 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
+| 3 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 4 | [#FetöİleUluslararasıMücadele](http://twitter.com/search?q=%23Fet%c3%b6%c4%b0leUluslararas%c4%b1M%c3%bccadele) | N/A |
+| 5 | [#EytÇözülmüşGibiYapılıyor](http://twitter.com/search?q=%23Eyt%c3%87%c3%b6z%c3%bclm%c3%bc%c5%9fGibiYap%c4%b1l%c4%b1yor) | N/A |
+| 6 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 7 | [Yugoslav](http://twitter.com/search?q=Yugoslav) | N/A |
+| 8 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 9 | [#camda](http://twitter.com/search?q=%23camda) | N/A |
+| 10 | [ŞoförüDuy SeçimiKazan](http://twitter.com/search?q=%c5%9eof%c3%b6r%c3%bcDuy+Se%c3%a7imiKazan) | N/A |
+| 11 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 12 | [Serhan](http://twitter.com/search?q=Serhan) | N/A |
+| 13 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
+| 14 | [Pire](http://twitter.com/search?q=Pire) | N/A |
+| 15 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
+| 16 | [Hırsızın](http://twitter.com/search?q=H%c4%b1rs%c4%b1z%c4%b1n) | N/A |
+| 17 | [Bankalardan 70](http://twitter.com/search?q=Bankalardan+70) | N/A |
+| 18 | [Balkan](http://twitter.com/search?q=Balkan) | N/A |
+| 19 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
+| 20 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
+| 21 | [Dosta](http://twitter.com/search?q=Dosta) | N/A |
+| 22 | [Namazı](http://twitter.com/search?q=Namaz%c4%b1) | N/A |
+| 23 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 24 | [Ligi](http://twitter.com/search?q=Ligi) | N/A |
+| 25 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 26 | [Atletico Madrid](http://twitter.com/search?q=Atletico+Madrid) | N/A |
+| 27 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 28 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 29 | [İlker](http://twitter.com/search?q=%c4%b0lker) | N/A |
+| 30 | [Kuduz](http://twitter.com/search?q=Kuduz) | N/A |
+| 31 | [Faşist](http://twitter.com/search?q=Fa%c5%9fist) | N/A |
+| 32 | [13 Nisan Perşembe](http://twitter.com/search?q=13+Nisan+Per%c5%9fembe) | N/A |
+| 33 | [Süper Lig](http://twitter.com/search?q=S%c3%bcper+Lig) | N/A |
+| 34 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
+| 35 | [Erzincan](http://twitter.com/search?q=Erzincan) | N/A |
+| 36 | [#OYistiyorsanKCP](http://twitter.com/search?q=%23OYistiyorsanKCP) | N/A |
+| 37 | [#AKPyeOyYok](http://twitter.com/search?q=%23AKPyeOyYok) | N/A |
+| 38 | [#TOKİ](http://twitter.com/search?q=%23TOK%c4%b0) | N/A |
+| 39 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 40 | [#NeKadarDoğru](http://twitter.com/search?q=%23NeKadarDo%c4%9fru) | N/A |
+| 41 | [#TogetherforTürkiye](http://twitter.com/search?q=%23TogetherforT%c3%bcrkiye) | N/A |
+| 42 | [#BeşiktaşınMaçıVar](http://twitter.com/search?q=%23Be%c5%9fikta%c5%9f%c4%b1nMa%c3%a7%c4%b1Var) | N/A |
+| 43 | [#EUPWR](http://twitter.com/search?q=%23EUPWR) | N/A |
+| 44 | [#StajyerÇırakSeçimiBelirler](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakSe%c3%a7imiBelirler) | N/A |
+| 45 | [#EvlilikTeklifi](http://twitter.com/search?q=%23EvlilikTeklifi) | N/A |
+| 46 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
+| 47 | [#DogrusuAkParti](http://twitter.com/search?q=%23DogrusuAkParti) | N/A |
+| 48 | [#kızılay](http://twitter.com/search?q=%23k%c4%b1z%c4%b1lay) | N/A |
+| 49 | [#tjktvyariszamani](http://twitter.com/search?q=%23tjktvyariszamani) | N/A |
 
 
 

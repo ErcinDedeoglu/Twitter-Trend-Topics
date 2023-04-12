@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quezon City
 
-📆 Last Updated: `2023-04-12 11:17:32 UTC`
+📆 Last Updated: `2023-04-12 12:20:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 2 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
-| 3 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
-| 4 | [#WeAreWithYouANGGE](http://twitter.com/search?q=%23WeAreWithYouANGGE) | N/A |
-| 5 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
-| 6 | [#ManilaBoyHomecoming](http://twitter.com/search?q=%23ManilaBoyHomecoming) | N/A |
-| 7 | [#FallenMisfitLost_Photo](http://twitter.com/search?q=%23FallenMisfitLost_Photo) | N/A |
-| 8 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
-| 9 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 1 | [#AskPLUUS](http://twitter.com/search?q=%23AskPLUUS) | N/A |
+| 2 | [#WeAreWithYouANGGE](http://twitter.com/search?q=%23WeAreWithYouANGGE) | N/A |
+| 3 | [#ManilaBoyHomecoming](http://twitter.com/search?q=%23ManilaBoyHomecoming) | N/A |
+| 4 | [#ManilaBoyJeongwoo](http://twitter.com/search?q=%23ManilaBoyJeongwoo) | N/A |
+| 5 | [WELCOME BACK OUR MANILA BOY](http://twitter.com/search?q=WELCOME+BACK+OUR+MANILA+BOY) | N/A |
+| 6 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
+| 7 | [#FLOWER2ndWin](http://twitter.com/search?q=%23FLOWER2ndWin) | N/A |
+| 8 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
+| 9 | [RALPHGAIL THELIARLOVETEAM](http://twitter.com/search?q=RALPHGAIL+THELIARLOVETEAM) | N/A |
+| 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 11 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
 | 12 | [D2 KDLEXPETA COMEBACK](http://twitter.com/search?q=D2+KDLEXPETA+COMEBACK) | N/A |
-| 13 | [Congrats NU](http://twitter.com/search?q=Congrats+NU) | N/A |
-| 14 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 15 | [tatakd star magic](http://twitter.com/search?q=tatakd+star+magic) | N/A |
-| 16 | [RALPHGAIL THELIARLOVETEAM](http://twitter.com/search?q=RALPHGAIL+THELIARLOVETEAM) | N/A |
-| 17 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
-| 18 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 19 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 20 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 21 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 22 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 23 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 24 | [DANIEL FOR HANA SHAMPOO](http://twitter.com/search?q=DANIEL+FOR+HANA+SHAMPOO) | N/A |
-| 25 | [VXON BREAKING KUMU](http://twitter.com/search?q=VXON+BREAKING+KUMU) | N/A |
-| 26 | [wind and wish coming soon](http://twitter.com/search?q=wind+and+wish+coming+soon) | N/A |
-| 27 | [bgyoxhm won ama2023](http://twitter.com/search?q=bgyoxhm+won+ama2023) | N/A |
-| 28 | [HAPPY 2MONTHS HORI7ON](http://twitter.com/search?q=HAPPY+2MONTHS+HORI7ON) | N/A |
-| 29 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 30 | [Alinsug](http://twitter.com/search?q=Alinsug) | N/A |
-| 31 | [mami heng](http://twitter.com/search?q=mami+heng) | N/A |
-| 32 | [UNFORGIVEN 1ST CONCEPT](http://twitter.com/search?q=UNFORGIVEN+1ST+CONCEPT) | N/A |
-| 33 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 34 | [D-2 TO PARAISO](http://twitter.com/search?q=D-2+TO+PARAISO) | N/A |
-| 35 | [presave alexa srh-remix](http://twitter.com/search?q=presave+alexa+srh-remix) | N/A |
-| 36 | [edi congrats fairies](http://twitter.com/search?q=edi+congrats+fairies) | N/A |
-| 37 | [happy birthday danielle](http://twitter.com/search?q=happy+birthday+danielle) | N/A |
-| 38 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 39 | [TAEJUN ON SUCHWITA](http://twitter.com/search?q=TAEJUN+ON+SUCHWITA) | N/A |
-| 40 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 41 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 42 | [Ring Ring](http://twitter.com/search?q=Ring+Ring) | N/A |
-| 43 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 44 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
-| 45 | [rocksta performancevideo](http://twitter.com/search?q=rocksta+performancevideo) | N/A |
-| 46 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 47 | [RICKY AT MCOUNTDOWN](http://twitter.com/search?q=RICKY+AT+MCOUNTDOWN) | N/A |
-| 48 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 49 | [Good boy gone bed](http://twitter.com/search?q=Good+boy+gone+bed) | N/A |
-| 50 | [Joyme](http://twitter.com/search?q=Joyme) | N/A |
+| 13 | [BRENT MANALO KATROPIE](http://twitter.com/search?q=BRENT+MANALO+KATROPIE) | N/A |
+| 14 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 15 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 16 | [D-2 TO PARAISO](http://twitter.com/search?q=D-2+TO+PARAISO) | N/A |
+| 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 18 | [Camarines Sur](http://twitter.com/search?q=Camarines+Sur) | N/A |
+| 19 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 20 | [DANIEL FOR HANA SHAMPOO](http://twitter.com/search?q=DANIEL+FOR+HANA+SHAMPOO) | N/A |
+| 21 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 22 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
+| 23 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
+| 24 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 25 | [#JISOO2ndWin](http://twitter.com/search?q=%23JISOO2ndWin) | N/A |
+| 26 | [#OVERPASSinMNL_Baekhyun](http://twitter.com/search?q=%23OVERPASSinMNL_Baekhyun) | N/A |
+| 27 | [#KNOCKforLEECHAEYEON](http://twitter.com/search?q=%23KNOCKforLEECHAEYEON) | N/A |
+| 28 | [#마음을두드리는이채연의_KNOCK](http://twitter.com/search?q=%23%eb%a7%88%ec%9d%8c%ec%9d%84%eb%91%90%eb%93%9c%eb%a6%ac%eb%8a%94%ec%9d%b4%ec%b1%84%ec%97%b0%ec%9d%98_KNOCK) | N/A |
+| 29 | [#OurSkyyxNeverLetMeGo](http://twitter.com/search?q=%23OurSkyyxNeverLetMeGo) | N/A |
+| 30 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 31 | [#TAEYANG_DownToEarth](http://twitter.com/search?q=%23TAEYANG_DownToEarth) | N/A |
+| 32 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
+| 33 | [#햇살보다_눈부실_선우의_스물넷](http://twitter.com/search?q=%23%ed%96%87%ec%82%b4%eb%b3%b4%eb%8b%a4_%eb%88%88%eb%b6%80%ec%8b%a4_%ec%84%a0%ec%9a%b0%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%84%b7) | N/A |
+| 34 | [#ThunderSunwooDay](http://twitter.com/search?q=%23ThunderSunwooDay) | N/A |
+| 35 | [#PARKJIHOON](http://twitter.com/search?q=%23PARKJIHOON) | N/A |
+| 36 | [#VXON](http://twitter.com/search?q=%23VXON) | N/A |
+| 37 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
+| 38 | [#DJPxHanaShampoo](http://twitter.com/search?q=%23DJPxHanaShampoo) | N/A |
+| 39 | [#BarDa](http://twitter.com/search?q=%23BarDa) | N/A |
+| 40 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 41 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 42 | [#SKZinMNL2023](http://twitter.com/search?q=%23SKZinMNL2023) | N/A |
+| 43 | [#OVERPASS2023](http://twitter.com/search?q=%23OVERPASS2023) | N/A |
 
 
 

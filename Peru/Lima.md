@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-12 11:17:13 UTC`
+📆 Last Updated: `2023-04-12 12:19:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Peru](</Peru>)
 | 12 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
 | 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 14 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
-| 15 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
-| 16 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
+| 15 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
+| 16 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
 | 17 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
 | 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 19 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 20 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 21 | [betssy chávez](http://twitter.com/search?q=betssy+ch%c3%a1vez) | N/A |
-| 22 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 23 | [camila ganoza](http://twitter.com/search?q=camila+ganoza) | N/A |
-| 24 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 25 | [job 17](http://twitter.com/search?q=job+17) | N/A |
-| 26 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 27 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
-| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 31 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [betssy chávez](http://twitter.com/search?q=betssy+ch%c3%a1vez) | N/A |
+| 21 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 22 | [camila ganoza](http://twitter.com/search?q=camila+ganoza) | N/A |
+| 23 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 24 | [job 17](http://twitter.com/search?q=job+17) | N/A |
+| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 27 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
+| 28 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 29 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 30 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 31 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 32 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 33 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 34 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 35 | [dafonseka](http://twitter.com/search?q=dafonseka) | N/A |
+| 35 | [Dafonseka](http://twitter.com/search?q=Dafonseka) | N/A |
 | 36 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 37 | [pirata](http://twitter.com/search?q=pirata) | N/A |
+| 37 | [Pirata](http://twitter.com/search?q=Pirata) | N/A |
 | 38 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
 | 39 | [El City](http://twitter.com/search?q=El+City) | N/A |
 | 40 | [pablo lavandeira](http://twitter.com/search?q=pablo+lavandeira) | N/A |
-| 41 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
-| 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 43 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 44 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 45 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
-| 46 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
-| 47 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
-| 48 | [Sigrid Bazán](http://twitter.com/search?q=Sigrid+Baz%c3%a1n) | N/A |
-| 49 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 50 | [Tumbes](http://twitter.com/search?q=Tumbes) | N/A |
+| 41 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 42 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
+| 43 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 44 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 45 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 46 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
+| 47 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
+| 48 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
+| 49 | [Sigrid Bazán](http://twitter.com/search?q=Sigrid+Baz%c3%a1n) | N/A |
+| 50 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
 
 
 

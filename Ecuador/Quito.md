@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-12 11:17:11 UTC`
+📆 Last Updated: `2023-04-12 12:19:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,18 +26,18 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 10 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
 | 11 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 12 | [Diego Ordóñez](http://twitter.com/search?q=Diego+Ord%c3%b3%c3%b1ez) | N/A |
-| 13 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 14 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 15 | [#revocatoriaasamblea](http://twitter.com/search?q=%23revocatoriaasamblea) | N/A |
-| 16 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
-| 17 | [cuero](http://twitter.com/search?q=cuero) | N/A |
+| 12 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 13 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 14 | [Diego Ordóñez](http://twitter.com/search?q=Diego+Ord%c3%b3%c3%b1ez) | N/A |
+| 15 | [Kitu](http://twitter.com/search?q=Kitu) | N/A |
+| 16 | [Cuero](http://twitter.com/search?q=Cuero) | N/A |
+| 17 | [#RevocatoriaAsamblea](http://twitter.com/search?q=%23RevocatoriaAsamblea) | N/A |
 | 18 | [Bermúdez](http://twitter.com/search?q=Berm%c3%badez) | N/A |
 | 19 | [#lassofuera](http://twitter.com/search?q=%23lassofuera) | N/A |
-| 20 | [cumbayá](http://twitter.com/search?q=cumbay%c3%a1) | N/A |
+| 20 | [Cumbayá](http://twitter.com/search?q=Cumbay%c3%a1) | N/A |
 | 21 | [olímpico atahualpa](http://twitter.com/search?q=ol%c3%admpico+atahualpa) | N/A |
 | 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 23 | [obando](http://twitter.com/search?q=obando) | N/A |
+| 23 | [Obando](http://twitter.com/search?q=Obando) | N/A |
 | 24 | [buenos diaz](http://twitter.com/search?q=buenos+diaz) | N/A |
 | 25 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 26 | [gaibor](http://twitter.com/search?q=gaibor) | N/A |

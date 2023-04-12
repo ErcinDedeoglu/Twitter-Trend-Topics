@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-12 11:17:21 UTC`
+📆 Last Updated: `2023-04-12 12:19:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 6 | [#woke](http://twitter.com/search?q=%23woke) | N/A |
 | 7 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 8 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 9 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 10 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
-| 11 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 9 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
+| 10 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 11 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
 | 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 13 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 14 | [Joseph Oosting](http://twitter.com/search?q=Joseph+Oosting) | N/A |
-| 15 | [Taalpolitie](http://twitter.com/search?q=Taalpolitie) | N/A |
-| 16 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 17 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
-| 18 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 19 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 20 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 22 | [op de poeh-pathologietest](http://twitter.com/search?q=op+de+poeh-pathologietest) | N/A |
-| 23 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 24 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
-| 25 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 26 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 27 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
+| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 14 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 15 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 16 | [Taalpolitie](http://twitter.com/search?q=Taalpolitie) | N/A |
+| 17 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
+| 18 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
+| 19 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 20 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 21 | [op de poeh-pathologietest](http://twitter.com/search?q=op+de+poeh-pathologietest) | N/A |
+| 22 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 23 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 24 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 25 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
+| 26 | [Henk Veldmate](http://twitter.com/search?q=Henk+Veldmate) | N/A |
+| 27 | [Jongens](http://twitter.com/search?q=Jongens) | N/A |
 | 28 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 29 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
+| 29 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
 | 30 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 31 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
-| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 33 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
-| 34 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 35 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 36 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
-| 37 | [Henk Veldmate](http://twitter.com/search?q=Henk+Veldmate) | N/A |
-| 38 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
-| 39 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
-| 40 | [Marjon](http://twitter.com/search?q=Marjon) | N/A |
-| 41 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
+| 31 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
+| 32 | [Erisman](http://twitter.com/search?q=Erisman) | N/A |
+| 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 34 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
+| 35 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
+| 36 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
+| 37 | [Joseph Oosting](http://twitter.com/search?q=Joseph+Oosting) | N/A |
+| 38 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
+| 39 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 40 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
+| 41 | [Marjon](http://twitter.com/search?q=Marjon) | N/A |
 | 42 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 43 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 45 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
-| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 47 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
+| 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 44 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
+| 45 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 46 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 47 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
 | 48 | [FC Twente](http://twitter.com/search?q=FC+Twente) | N/A |
 
 

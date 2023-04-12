@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-12 11:17:59 UTC`
+📆 Last Updated: `2023-04-12 12:20:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Poland
 | 2 | [#RobalewChlebie](http://twitter.com/search?q=%23RobalewChlebie) | N/A |
 | 3 | [#otpwarszawa](http://twitter.com/search?q=%23otpwarszawa) | N/A |
 | 4 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
-| 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 6 | [Jacek Kurski](http://twitter.com/search?q=Jacek+Kurski) | N/A |
+| 5 | [Jacek Kurski](http://twitter.com/search?q=Jacek+Kurski) | N/A |
+| 6 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 7 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
 | 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 10 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 11 | [Rzepa](http://twitter.com/search?q=Rzepa) | N/A |
-| 12 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 13 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
-| 14 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 9 | [Rzepie](http://twitter.com/search?q=Rzepie) | N/A |
+| 10 | [Rzepa](http://twitter.com/search?q=Rzepa) | N/A |
+| 11 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 12 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
+| 13 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 14 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
 | 15 | [Płyta](http://twitter.com/search?q=P%c5%82yta) | N/A |
-| 16 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
-| 17 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [Gratulacje](http://twitter.com/search?q=Gratulacje) | N/A |
+| 16 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 17 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
+| 18 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 19 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
 | 20 | [biorę udział](http://twitter.com/search?q=bior%c4%99+udzia%c5%82) | N/A |
 | 21 | [Kierowca](http://twitter.com/search?q=Kierowca) | N/A |
 | 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 23 | [legię](http://twitter.com/search?q=legi%c4%99) | N/A |
+| 23 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
 | 24 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 25 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 26 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
-| 27 | [Ordo Iuris](http://twitter.com/search?q=Ordo+Iuris) | N/A |
-| 28 | [Liga Mistrzów](http://twitter.com/search?q=Liga+Mistrz%c3%b3w) | N/A |
-| 29 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 30 | [Arabski](http://twitter.com/search?q=Arabski) | N/A |
-| 31 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
-| 32 | [Tuchela](http://twitter.com/search?q=Tuchela) | N/A |
-| 33 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
-| 34 | [Robaki](http://twitter.com/search?q=Robaki) | N/A |
-| 35 | [dalajlamy](http://twitter.com/search?q=dalajlamy) | N/A |
-| 36 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 25 | [Sakowskiego](http://twitter.com/search?q=Sakowskiego) | N/A |
+| 26 | [Liga Mistrzów](http://twitter.com/search?q=Liga+Mistrz%c3%b3w) | N/A |
+| 27 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 28 | [Arabski](http://twitter.com/search?q=Arabski) | N/A |
+| 29 | [Rzeczpospolitej](http://twitter.com/search?q=Rzeczpospolitej) | N/A |
+| 30 | [Macierewicza](http://twitter.com/search?q=Macierewicza) | N/A |
+| 31 | [Tuchela](http://twitter.com/search?q=Tuchela) | N/A |
+| 32 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
+| 33 | [Robaki](http://twitter.com/search?q=Robaki) | N/A |
+| 34 | [dalajlamy](http://twitter.com/search?q=dalajlamy) | N/A |
+| 35 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 37 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
 | 38 | [Dzień Czekolady](http://twitter.com/search?q=Dzie%c5%84+Czekolady) | N/A |
 | 39 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 40 | [Sommera](http://twitter.com/search?q=Sommera) | N/A |
-| 41 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 41 | [Sommera](http://twitter.com/search?q=Sommera) | N/A |
 | 42 | [Budapesztu](http://twitter.com/search?q=Budapesztu) | N/A |
-| 43 | [Sakowskiego](http://twitter.com/search?q=Sakowskiego) | N/A |
-| 44 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 45 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 46 | [Schetyna](http://twitter.com/search?q=Schetyna) | N/A |
-| 47 | [Sobonia](http://twitter.com/search?q=Sobonia) | N/A |
-| 48 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 49 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 50 | [Białym Domu](http://twitter.com/search?q=Bia%c5%82ym+Domu) | N/A |
+| 43 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 44 | [Sobonia](http://twitter.com/search?q=Sobonia) | N/A |
+| 45 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 46 | [Białym Domu](http://twitter.com/search?q=Bia%c5%82ym+Domu) | N/A |
+| 47 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 48 | [Lewicę](http://twitter.com/search?q=Lewic%c4%99) | N/A |
+| 49 | [Ślązaków](http://twitter.com/search?q=%c5%9al%c4%85zak%c3%b3w) | N/A |
+| 50 | [pani magdo](http://twitter.com/search?q=pani+magdo) | N/A |
 
 
 
