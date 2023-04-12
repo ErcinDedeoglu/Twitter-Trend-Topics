@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-04-12 07:17:02 UTC`
+📆 Last Updated: `2023-04-12 08:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,42 @@ This is top 50 for [Mexico](</Mexico>)
 | 2 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
 | 3 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
 | 4 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 5 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 7 | [#MHA385](http://twitter.com/search?q=%23MHA385) | N/A |
+| 5 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 6 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
+| 7 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
 | 8 | [#CarreraPorMedallas](http://twitter.com/search?q=%23CarreraPorMedallas) | N/A |
-| 9 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 10 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 9 | [#DelfinaSeDesploma](http://twitter.com/search?q=%23DelfinaSeDesploma) | N/A |
+| 10 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
 | 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 12 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 13 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 14 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 15 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 16 | [Carlos Vela](http://twitter.com/search?q=Carlos+Vela) | N/A |
-| 17 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 18 | [Zote](http://twitter.com/search?q=Zote) | N/A |
-| 19 | [Pésima](http://twitter.com/search?q=P%c3%a9sima) | N/A |
-| 20 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 21 | [LAFC](http://twitter.com/search?q=LAFC) | LAFC stands for Los Angeles Football Club, which is a professional soccer team based in Los Angeles, California. The team competes in Major League Soccer (MLS) and was founded in 2014. |
-| 22 | [Monclova](http://twitter.com/search?q=Monclova) | N/A |
-| 23 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 24 | [Leona](http://twitter.com/search?q=Leona) | N/A |
-| 25 | [Escoba](http://twitter.com/search?q=Escoba) | N/A |
-| 26 | [Secretario de Estado](http://twitter.com/search?q=Secretario+de+Estado) | N/A |
-| 27 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 28 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 29 | [Violette](http://twitter.com/search?q=Violette) | N/A |
-| 30 | [Elena Poniatowska](http://twitter.com/search?q=Elena+Poniatowska) | N/A |
-| 31 | [Solovino](http://twitter.com/search?q=Solovino) | N/A |
-| 32 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 33 | [Mónica](http://twitter.com/search?q=M%c3%b3nica) | N/A |
-| 34 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 35 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 36 | [Noroña](http://twitter.com/search?q=Noro%c3%b1a) | N/A |
-| 37 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 38 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 39 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
-| 40 | [Chapoy](http://twitter.com/search?q=Chapoy) | N/A |
-| 41 | [Ventaneando](http://twitter.com/search?q=Ventaneando) | N/A |
-| 42 | [Bon Jovi](http://twitter.com/search?q=Bon+Jovi) | N/A |
-| 43 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 44 | [#talentmatchtl](http://twitter.com/search?q=%23talentmatchtl) | N/A |
-| 45 | [#MHASpoilers](http://twitter.com/search?q=%23MHASpoilers) | N/A |
-| 46 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 47 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 48 | [#CHAEUNWOO_GRISDIOR_Exhibit](http://twitter.com/search?q=%23CHAEUNWOO_GRISDIOR_Exhibit) | N/A |
-| 49 | [#DareInGrisDior](http://twitter.com/search?q=%23DareInGrisDior) | N/A |
+| 12 | [Davis](http://twitter.com/search?q=Davis) | N/A |
+| 13 | [Monclova](http://twitter.com/search?q=Monclova) | N/A |
+| 14 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
+| 15 | [Zote](http://twitter.com/search?q=Zote) | N/A |
+| 16 | [Pésima](http://twitter.com/search?q=P%c3%a9sima) | N/A |
+| 17 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 18 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 19 | [Escoba](http://twitter.com/search?q=Escoba) | N/A |
+| 20 | [FINAL GALEONA](http://twitter.com/search?q=FINAL+GALEONA) | N/A |
+| 21 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 22 | [Secretario de Estado](http://twitter.com/search?q=Secretario+de+Estado) | N/A |
+| 23 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
+| 24 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 25 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 26 | [Mónica](http://twitter.com/search?q=M%c3%b3nica) | N/A |
+| 27 | [Solovino](http://twitter.com/search?q=Solovino) | N/A |
+| 28 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 29 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 30 | [#MHA385](http://twitter.com/search?q=%23MHA385) | N/A |
+| 31 | [#talentmatchtl](http://twitter.com/search?q=%23talentmatchtl) | N/A |
+| 32 | [#MHASpoilers](http://twitter.com/search?q=%23MHASpoilers) | N/A |
+| 33 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 34 | [#27AñosPorSiempre](http://twitter.com/search?q=%2327A%c3%b1osPorSiempre) | N/A |
+| 35 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
+| 36 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 37 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
+| 38 | [#ENHYPEN5thComeback](http://twitter.com/search?q=%23ENHYPEN5thComeback) | N/A |
+| 39 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
+| 40 | [#PiensoEnTi](http://twitter.com/search?q=%23PiensoEnTi) | N/A |
 
 
 

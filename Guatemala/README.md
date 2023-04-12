@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-12 07:17:47 UTC`
+📆 Last Updated: `2023-04-12 08:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 4 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 5 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 6 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 2 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 3 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 4 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 5 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 8 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
 | 9 | [fríos](http://twitter.com/search?q=fr%c3%ados) | N/A |
@@ -33,8 +33,8 @@ This is top 50 for Guatemala
 | 16 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 17 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
 | 18 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 20 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 19 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 21 | [#TodoElMundoHablaDeJamie](http://twitter.com/search?q=%23TodoElMundoHablaDeJamie) | N/A |
 | 22 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
 | 23 | [el palmar](http://twitter.com/search?q=el+palmar) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Guatemala
 | 33 | [Propuesta](http://twitter.com/search?q=Propuesta) | N/A |
 | 34 | [Nahualá](http://twitter.com/search?q=Nahual%c3%a1) | N/A |
 | 35 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 36 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
-| 37 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 36 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 37 | [fuerza aérea guatemalteca](http://twitter.com/search?q=fuerza+a%c3%a9rea+guatemalteca) | N/A |
 | 38 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 39 | [Neto Bran](http://twitter.com/search?q=Neto+Bran) | N/A |
 | 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 41 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 42 | [Roberto Arzú](http://twitter.com/search?q=Roberto+Arz%c3%ba) | N/A |
-| 43 | [Acuerdo Nacional](http://twitter.com/search?q=Acuerdo+Nacional) | N/A |
-| 44 | [ministerio público](http://twitter.com/search?q=ministerio+p%c3%bablico) | N/A |
-| 45 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 46 | [Sandra Torres](http://twitter.com/search?q=Sandra+Torres) | N/A |
-| 47 | [Aguas](http://twitter.com/search?q=Aguas) | N/A |
-| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 49 | [Quiñónez](http://twitter.com/search?q=Qui%c3%b1%c3%b3nez) | N/A |
-| 50 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 42 | [cnco regresa a guate](http://twitter.com/search?q=cnco+regresa+a+guate) | N/A |
+| 43 | [roberto arzú](http://twitter.com/search?q=roberto+arz%c3%ba) | N/A |
+| 44 | [Acuerdo Nacional](http://twitter.com/search?q=Acuerdo+Nacional) | N/A |
+| 45 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
+| 46 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
+| 47 | [Sandra Torres](http://twitter.com/search?q=Sandra+Torres) | N/A |
+| 48 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
+| 49 | [Aguas](http://twitter.com/search?q=Aguas) | N/A |
+| 50 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 
 
 

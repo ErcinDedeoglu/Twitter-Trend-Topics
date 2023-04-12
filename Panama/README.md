@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-12 07:17:50 UTC`
+📆 Last Updated: `2023-04-12 08:18:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Panama
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 3 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 4 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
-| 5 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
-| 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 6 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
 | 7 | [#vamoscontodoPRD](http://twitter.com/search?q=%23vamoscontodoPRD) | N/A |
 | 8 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 | 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
@@ -32,7 +32,7 @@ This is top 50 for Panama
 | 15 | [San Joaquín](http://twitter.com/search?q=San+Joaqu%c3%adn) | N/A |
 | 16 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
 | 17 | [DALEONA UN AMOR INVENCIBLE](http://twitter.com/search?q=DALEONA+UN+AMOR+INVENCIBLE) | N/A |
-| 18 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 18 | [Ariana](http://twitter.com/search?q=Ariana) | N/A |
 | 19 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
 | 20 | [Capira](http://twitter.com/search?q=Capira) | N/A |
 | 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Panama
 | 32 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
 | 33 | [IDAAN](http://twitter.com/search?q=IDAAN) | N/A |
 | 34 | [ifarhu](http://twitter.com/search?q=ifarhu) | N/A |
-| 35 | [ministerio público](http://twitter.com/search?q=ministerio+p%c3%bablico) | N/A |
+| 35 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 36 | [panameño](http://twitter.com/search?q=paname%c3%b1o) | N/A |
 | 37 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 38 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
@@ -60,9 +60,9 @@ This is top 50 for Panama
 | 43 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
 | 44 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
 | 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 46 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 47 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 48 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 46 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 47 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 48 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
 | 49 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
 | 50 | [Torrijos](http://twitter.com/search?q=Torrijos) | N/A |
 

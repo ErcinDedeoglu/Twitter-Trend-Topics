@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Albuquerque
 
-📆 Last Updated: `2023-04-12 07:17:36 UTC`
+📆 Last Updated: `2023-04-12 08:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [United States](</United States>)
 | 9 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
 | 10 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 11 | [Kyle Anderson](http://twitter.com/search?q=Kyle+Anderson) | Kyle Anderson is a masculine given name of English origin. It is derived from the Old Norse name Kyll, meaning “narrow” or “straight”, and the Old English word ander, meaning “son of”. The name Kyle Anderson can be translated to mean “son of a narrow one”. |
-| 12 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 12 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
 | 13 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 14 | [#JJK220](http://twitter.com/search?q=%23JJK220) | N/A |
+| 14 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
 | 15 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
 | 16 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
-| 17 | [#MINvsLAL](http://twitter.com/search?q=%23MINvsLAL) | N/A |
-| 18 | [#NBAonTNT](http://twitter.com/search?q=%23NBAonTNT) | N/A |
+| 17 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
+| 18 | [#MINvsLAL](http://twitter.com/search?q=%23MINvsLAL) | N/A |
 | 19 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 20 | [D Lo](http://twitter.com/search?q=D+Lo) | N/A |
+| 20 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
 | 21 | [Towns](http://twitter.com/search?q=Towns) | N/A |
 | 22 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 23 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 23 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
 | 24 | [Vando](http://twitter.com/search?q=Vando) | N/A |
-| 25 | [Angelo Russell](http://twitter.com/search?q=Angelo+Russell) | N/A |
-| 26 | [Troy Brown](http://twitter.com/search?q=Troy+Brown) | Troy Brown is a former American football wide receiver who played for the New England Patriots from 1993 to 2007. He was known for his versatility, playing multiple positions on offense and defense. In English, Troy Brown is a name associated with a former professional football player who was known for his versatility. |
-| 27 | [Finch](http://twitter.com/search?q=Finch) | N/A |
-| 28 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 29 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 30 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 31 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 32 | [4th and ot](http://twitter.com/search?q=4th+and+ot) | N/A |
-| 33 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
-| 34 | [Ant Man](http://twitter.com/search?q=Ant+Man) | N/A |
-| 35 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 36 | [Trade AD](http://twitter.com/search?q=Trade+AD) | N/A |
+| 25 | [DeGods NYC](http://twitter.com/search?q=DeGods+NYC) | N/A |
+| 26 | [D-Lo](http://twitter.com/search?q=D-Lo) | N/A |
+| 27 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
+| 28 | [Ant Man](http://twitter.com/search?q=Ant+Man) | N/A |
+| 29 | [4th and OT](http://twitter.com/search?q=4th+and+OT) | N/A |
+| 30 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 31 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 32 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 33 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 34 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 35 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
+| 36 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 37 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
-| 38 | [Adam Silver](http://twitter.com/search?q=Adam+Silver) | N/A |
-| 39 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 40 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
-| 41 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 42 | [DeGods NYC](http://twitter.com/search?q=DeGods+NYC) | N/A |
-| 43 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 44 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 45 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 46 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 47 | [#MHA385](http://twitter.com/search?q=%23MHA385) | N/A |
-| 48 | [#NBAPlayInTournament](http://twitter.com/search?q=%23NBAPlayInTournament) | N/A |
-| 49 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 38 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
+| 39 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 40 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 41 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 42 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 43 | [keeley](http://twitter.com/search?q=keeley) | N/A |
+| 44 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 45 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 46 | [Spaces](http://twitter.com/search?q=Spaces) | N/A |
+| 47 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 48 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
+| 49 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
 
 
 

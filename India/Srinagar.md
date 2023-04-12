@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-12 07:17:32 UTC`
+📆 Last Updated: `2023-04-12 08:18:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sab Gazab By Badshah](http://twitter.com/search?q=Sab+Gazab+By+Badshah) | N/A |
-| 2 | [#BharatsRenaissance](http://twitter.com/search?q=%23BharatsRenaissance) | N/A |
-| 3 | [#MP_के_नवनियुक्त_शिक्षक](http://twitter.com/search?q=%23MP_%e0%a4%95%e0%a5%87_%e0%a4%a8%e0%a4%b5%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95) | N/A |
+| 1 | [#GehlotKaMehngaiRahatCamp](http://twitter.com/search?q=%23GehlotKaMehngaiRahatCamp) | N/A |
+| 2 | [#EDModiKaTortureChamber](http://twitter.com/search?q=%23EDModiKaTortureChamber) | N/A |
+| 3 | [Sab Gazab By Badshah](http://twitter.com/search?q=Sab+Gazab+By+Badshah) | N/A |
 | 4 | [India Ka Apna EaseMyTrip](http://twitter.com/search?q=India+Ka+Apna+EaseMyTrip) | N/A |
-| 5 | [#asksamyu](http://twitter.com/search?q=%23asksamyu) | N/A |
-| 6 | [Arunachal Belongs To India](http://twitter.com/search?q=Arunachal+Belongs+To+India) | N/A |
-| 7 | [#Bathinda](http://twitter.com/search?q=%23Bathinda) | N/A |
-| 8 | [#realmeN55LaunchingToday](http://twitter.com/search?q=%23realmeN55LaunchingToday) | N/A |
-| 9 | [राणा सांगा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
-| 10 | [बठिंडा मिलिट्री स्टेशन](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a0%e0%a4%bf%e0%a4%82%e0%a4%a1%e0%a4%be+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 11 | [सोनू सूद](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%b8%e0%a5%82%e0%a4%a6) | N/A |
-| 12 | [पूर्व लोकसभा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 13 | [CBI Answerable InSSRCase](http://twitter.com/search?q=CBI+Answerable+InSSRCase) | N/A |
-| 14 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
-| 15 | [Gagar Me Sagar](http://twitter.com/search?q=Gagar+Me+Sagar) | N/A |
-| 16 | [केशब महिंद्रा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%ac+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 17 | [श्रीमती सुमित्रा महाजन](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%81%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%9c%e0%a4%a8) | N/A |
-| 18 | [महाराणा संग्राम सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 20 | [Know The Unknown](http://twitter.com/search?q=Know+The+Unknown) | N/A |
-| 21 | [She is 19](http://twitter.com/search?q=She+is+19) | N/A |
-| 22 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 23 | [Delhi Cantt](http://twitter.com/search?q=Delhi+Cantt) | N/A |
-| 24 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 25 | [Words Of Wisdom](http://twitter.com/search?q=Words+Of+Wisdom) | N/A |
-| 26 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 27 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 28 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 29 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 30 | [श्री लालजी टंडन](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%82%e0%a4%a1%e0%a4%a8) | N/A |
-| 31 | [दिल्ली कैंट](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%9f) | N/A |
-| 32 | [सुंदर सिंह भंडारी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a6%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
-| 33 | [प्रशिक्षण कार्यक्रम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
-| 34 | [FLAME Campaign](http://twitter.com/search?q=FLAME+Campaign) | N/A |
-| 35 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 36 | [आदित्य राणा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
-| 37 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 5 | [#BharatsRenaissance](http://twitter.com/search?q=%23BharatsRenaissance) | N/A |
+| 6 | [#MP_के_नवनियुक्त_शिक्षक](http://twitter.com/search?q=%23MP_%e0%a4%95%e0%a5%87_%e0%a4%a8%e0%a4%b5%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95) | N/A |
+| 7 | [#बहादुर_विमल_बाई_सम्मानित_हो](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%ae%e0%a4%b2_%e0%a4%ac%e0%a4%be%e0%a4%88_%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%bf%e0%a4%a4_%e0%a4%b9%e0%a5%8b) | N/A |
+| 8 | [राणा सांगा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 9 | [बठिंडा मिलिट्री स्टेशन](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a0%e0%a4%bf%e0%a4%82%e0%a4%a1%e0%a4%be+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 10 | [सोनू सूद](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%b8%e0%a5%82%e0%a4%a6) | N/A |
+| 11 | [Arunachal Rejects China](http://twitter.com/search?q=Arunachal+Rejects+China) | N/A |
+| 12 | [CBI Answerable InSSRCase](http://twitter.com/search?q=CBI+Answerable+InSSRCase) | N/A |
+| 13 | [पूर्व लोकसभा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 14 | [She is 19](http://twitter.com/search?q=She+is+19) | N/A |
+| 15 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 16 | [Delhi Cantt](http://twitter.com/search?q=Delhi+Cantt) | N/A |
+| 17 | [केशब महिंद्रा](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%b6%e0%a4%ac+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 18 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 19 | [श्रीमती सुमित्रा महाजन](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%81%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%9c%e0%a4%a8) | N/A |
+| 20 | [महाराणा संग्राम सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 21 | [लालजी टंडन](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%82%e0%a4%a1%e0%a4%a8) | N/A |
+| 22 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 23 | [भारत एक्सप्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%8f%e0%a4%95%e0%a5%8d%e0%a4%b8%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 24 | [मध्य प्रदेश](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a7%e0%a5%8d%e0%a4%af+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 25 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
+| 26 | [Words Of Wisdom](http://twitter.com/search?q=Words+Of+Wisdom) | N/A |
+| 27 | [मल्लिकार्जुन खड़गे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9c%e0%a5%81%e0%a4%a8+%e0%a4%96%e0%a4%a1%e0%a4%bc%e0%a4%97%e0%a5%87) | N/A |
+| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 29 | [दिल्ली कैंट](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%9f) | N/A |
+| 30 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 31 | [प्रशिक्षण कार्यक्रम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%a3+%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%ae) | N/A |
+| 32 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 33 | [सुंदर सिंह भंडारी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%82%e0%a4%a6%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%ad%e0%a4%82%e0%a4%a1%e0%a4%be%e0%a4%b0%e0%a5%80) | N/A |
+| 34 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 35 | [आदित्य राणा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
+| 36 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 37 | [Know The Unknown](http://twitter.com/search?q=Know+The+Unknown) | N/A |
 | 38 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
 | 39 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 40 | [Bandipur](http://twitter.com/search?q=Bandipur) | N/A |
-| 41 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
-| 42 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 43 | [Ganesh](http://twitter.com/search?q=Ganesh) | N/A |
-| 44 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
+| 40 | [Gagar Me Sagar](http://twitter.com/search?q=Gagar+Me+Sagar) | N/A |
+| 41 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 42 | [Bandipur](http://twitter.com/search?q=Bandipur) | N/A |
+| 43 | [FLAME Campaign](http://twitter.com/search?q=FLAME+Campaign) | N/A |
+| 44 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
 | 45 | [Arif](http://twitter.com/search?q=Arif) | N/A |
-| 46 | [Harsha](http://twitter.com/search?q=Harsha) | N/A |
-| 47 | [#CSKvsRR](http://twitter.com/search?q=%23CSKvsRR) | N/A |
-| 48 | [#बहादुर_विमल_बाई_सम्मानित_हो](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%b9%e0%a4%be%e0%a4%a6%e0%a5%81%e0%a4%b0_%e0%a4%b5%e0%a4%bf%e0%a4%ae%e0%a4%b2_%e0%a4%ac%e0%a4%be%e0%a4%88_%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%bf%e0%a4%a4_%e0%a4%b9%e0%a5%8b) | N/A |
+| 46 | [Ganesh](http://twitter.com/search?q=Ganesh) | N/A |
+| 47 | [गणपति बप्पा](http://twitter.com/search?q=%e0%a4%97%e0%a4%a3%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%ac%e0%a4%aa%e0%a5%8d%e0%a4%aa%e0%a4%be) | N/A |
+| 48 | [#asksamyu](http://twitter.com/search?q=%23asksamyu) | N/A |
 
 
 

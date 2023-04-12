@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-04-12 07:16:55 UTC`
+📆 Last Updated: `2023-04-12 08:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [Wild](http://twitter.com/search?q=Wild) | N/A |
 | 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 4 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 5 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 6 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 7 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 8 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
-| 9 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 4 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 5 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 6 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 7 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 8 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
+| 9 | [Conley](http://twitter.com/search?q=Conley) | N/A |
 | 10 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
 | 11 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 12 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 13 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 14 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 15 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 16 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 17 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
-| 18 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
-| 19 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 20 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 21 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 22 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 23 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 24 | [Demelo](http://twitter.com/search?q=Demelo) | N/A |
-| 25 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 26 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 27 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 28 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
-| 29 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
-| 30 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 31 | [Ekholm](http://twitter.com/search?q=Ekholm) | N/A |
-| 32 | [Blue Jays](http://twitter.com/search?q=Blue+Jays) | N/A |
-| 33 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 34 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 35 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 36 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 37 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 38 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 39 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 40 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 41 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 42 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 43 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 44 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 45 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 46 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 47 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 48 | [Butts](http://twitter.com/search?q=Butts) | N/A |
-| 49 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 50 | [#TrudeauFoundation](http://twitter.com/search?q=%23TrudeauFoundation) | N/A |
+| 12 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 13 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 14 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 15 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 16 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 17 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 20 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 21 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 22 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 23 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 24 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 25 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 26 | [Rogers Centre](http://twitter.com/search?q=Rogers+Centre) | N/A |
+| 27 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 28 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 29 | [Maroon](http://twitter.com/search?q=Maroon) | N/A |
+| 30 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 32 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 34 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 35 | [Sutter](http://twitter.com/search?q=Sutter) | N/A |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 37 | [Knies](http://twitter.com/search?q=Knies) | N/A |
+| 38 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 39 | [Kucherov](http://twitter.com/search?q=Kucherov) | Kucherov is a Russian surname. It is derived from the word "kuchka," which means "little group" or "cluster." In English, the name Kucherov can be translated to mean "little group of people." |
+| 40 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 41 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
+| 42 | [Nick Ritchie](http://twitter.com/search?q=Nick+Ritchie) | N/A |
+| 43 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 44 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 45 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
+| 46 | [DeMelo](http://twitter.com/search?q=DeMelo) | N/A |
+| 47 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 48 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 49 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 50 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
 
 
 
