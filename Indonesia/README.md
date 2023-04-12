@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-12 00:28:52 UTC`
+📆 Last Updated: `2023-04-12 01:44:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#milenialgenzprabowo](http://twitter.com/search?q=%23milenialgenzprabowo) | N/A |
-| 2 | [urusangue kerenin indonesia](http://twitter.com/search?q=urusangue+kerenin+indonesia) | N/A |
-| 3 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 4 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
-| 5 | [#FallenMisfitLost_Photo](http://twitter.com/search?q=%23FallenMisfitLost_Photo) | N/A |
-| 6 | [#FML_D12](http://twitter.com/search?q=%23FML_D12) | N/A |
+| 1 | [#ZakatTHR](http://twitter.com/search?q=%23ZakatTHR) | N/A |
+| 2 | [#RamadandariHati](http://twitter.com/search?q=%23RamadandariHati) | N/A |
+| 3 | [#milenialgenzprabowo](http://twitter.com/search?q=%23milenialgenzprabowo) | N/A |
+| 4 | [urusangue kerenin indonesia](http://twitter.com/search?q=urusangue+kerenin+indonesia) | N/A |
+| 5 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 6 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
 | 7 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
-| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 10 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 11 | [oatside mini](http://twitter.com/search?q=oatside+mini) | N/A |
-| 12 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 13 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 8 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 9 | [oatside mini](http://twitter.com/search?q=oatside+mini) | N/A |
+| 10 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
+| 11 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 14 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 15 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 16 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 17 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 18 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 19 | [Terbukti Kerja Prabowo](http://twitter.com/search?q=Terbukti+Kerja+Prabowo) | N/A |
-| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 21 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
-| 22 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 23 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
-| 24 | [Anas](http://twitter.com/search?q=Anas) | N/A |
-| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 26 | [Mending Prabowo 2024](http://twitter.com/search?q=Mending+Prabowo+2024) | N/A |
-| 27 | [Juna](http://twitter.com/search?q=Juna) | N/A |
-| 28 | [bima](http://twitter.com/search?q=bima) | N/A |
-| 29 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 30 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 31 | [Tabungan](http://twitter.com/search?q=Tabungan) | N/A |
-| 32 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 33 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 34 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 35 | [taejun on suchwita](http://twitter.com/search?q=taejun+on+suchwita) | N/A |
-| 36 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 37 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
-| 38 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 39 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 40 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
-| 41 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 42 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
-| 43 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 44 | [UNFORGIVEN 1ST CONCEPT](http://twitter.com/search?q=UNFORGIVEN+1ST+CONCEPT) | N/A |
-| 45 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
-| 46 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 47 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 48 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 49 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
-| 50 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
+| 15 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 16 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 17 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 18 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 19 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 20 | [Anas](http://twitter.com/search?q=Anas) | N/A |
+| 21 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
+| 22 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 23 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
+| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 25 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
+| 26 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 27 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
+| 28 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 29 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 30 | [taejun on suchwita](http://twitter.com/search?q=taejun+on+suchwita) | N/A |
+| 31 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 32 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
+| 33 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 34 | [UNFORGIVEN 1ST CONCEPT](http://twitter.com/search?q=UNFORGIVEN+1ST+CONCEPT) | N/A |
+| 35 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 36 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
+| 37 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 38 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 39 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
+| 40 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 41 | [RENJUN KNIGHT MAGAZINE OUT NOW](http://twitter.com/search?q=RENJUN+KNIGHT+MAGAZINE+OUT+NOW) | N/A |
+| 42 | [Tabungan](http://twitter.com/search?q=Tabungan) | N/A |
+| 43 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 45 | [lebaran 2019](http://twitter.com/search?q=lebaran+2019) | N/A |
+| 46 | [CHENLE FOR KNIGHT MAGAZINE](http://twitter.com/search?q=CHENLE+FOR+KNIGHT+MAGAZINE) | N/A |
+| 47 | [zayed humanitarian day](http://twitter.com/search?q=zayed+humanitarian+day) | N/A |
+| 48 | [Morningg](http://twitter.com/search?q=Morningg) | N/A |
+| 49 | [Catur](http://twitter.com/search?q=Catur) | N/A |
+| 50 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
 
 
 

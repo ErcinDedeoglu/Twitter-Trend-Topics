@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-12 00:28:11 UTC`
+📆 Last Updated: `2023-04-12 01:44:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 3 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 4 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 4 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
 | 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
+| 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 7 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 8 | [Session](http://twitter.com/search?q=Session) | N/A |
 | 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
@@ -34,7 +34,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 17 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
 | 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 19 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
-| 20 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 20 | [züge](http://twitter.com/search?q=z%c3%bcge) | N/A |
 | 21 | [Atomkraftwerke](http://twitter.com/search?q=Atomkraftwerke) | N/A |
 | 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 23 | [Gold](http://twitter.com/search?q=Gold) | N/A |
@@ -49,20 +49,20 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 32 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
 | 33 | [Ehre](http://twitter.com/search?q=Ehre) | N/A |
 | 34 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 36 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 37 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 38 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
-| 39 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 40 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
-| 41 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 42 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
-| 43 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
-| 44 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 45 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 46 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 47 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 48 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 35 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 36 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
+| 37 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 38 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 39 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 40 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
+| 41 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
+| 42 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 43 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 44 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 45 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 46 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 47 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
+| 48 | [menschheit](http://twitter.com/search?q=menschheit) | N/A |
 
 
 

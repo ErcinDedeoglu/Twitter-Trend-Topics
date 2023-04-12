@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-12 00:28:36 UTC`
+📆 Last Updated: `2023-04-12 01:44:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 2 | [#Aile](http://twitter.com/search?q=%23Aile) | N/A |
-| 3 | [#StajyerÇırakSeçimiBelirler](http://twitter.com/search?q=%23Stajyer%c3%87%c4%b1rakSe%c3%a7imiBelirler) | N/A |
-| 4 | [#DogrusuAkParti](http://twitter.com/search?q=%23DogrusuAkParti) | N/A |
-| 5 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Devin](http://twitter.com/search?q=Devin) | N/A |
-| 8 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 11 | [Urfi Çetinkaya](http://twitter.com/search?q=Urfi+%c3%87etinkaya) | N/A |
-| 12 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 13 | [Nejat İşler](http://twitter.com/search?q=Nejat+%c4%b0%c5%9fler) | N/A |
-| 14 | [Çocuklarİçin Adaletİstiyoruz](http://twitter.com/search?q=%c3%87ocuklar%c4%b0%c3%a7in+Adalet%c4%b0stiyoruz) | N/A |
-| 15 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 16 | [Şevket Çoruh](http://twitter.com/search?q=%c5%9eevket+%c3%87oruh) | N/A |
-| 17 | [Katıldım](http://twitter.com/search?q=Kat%c4%b1ld%c4%b1m) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [Mülakat](http://twitter.com/search?q=M%c3%bclakat) | N/A |
-| 20 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 21 | [KPSS](http://twitter.com/search?q=KPSS) | N/A |
-| 22 | [AK Parti Seçim Beyannamesi](http://twitter.com/search?q=AK+Parti+Se%c3%a7im+Beyannamesi) | N/A |
-| 23 | [ERDOĞAN KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+KAZANACAK) | N/A |
-| 24 | [Şampiyonlar Ligi](http://twitter.com/search?q=%c5%9eampiyonlar+Ligi) | N/A |
-| 25 | [Naci](http://twitter.com/search?q=Naci) | N/A |
-| 26 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
-| 27 | [#GenelAf](http://twitter.com/search?q=%23GenelAf) | N/A |
-| 28 | [#StajyeriKüstürmeyin](http://twitter.com/search?q=%23StajyeriK%c3%bcst%c3%bcrmeyin) | N/A |
-| 29 | [#Mektup](http://twitter.com/search?q=%23Mektup) | N/A |
-| 30 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
-| 31 | [#ileri3lü](http://twitter.com/search?q=%23ileri3l%c3%bc) | N/A |
-| 32 | [#sonsayfa](http://twitter.com/search?q=%23sonsayfa) | N/A |
-| 33 | [#EvlilikTeklifi](http://twitter.com/search?q=%23EvlilikTeklifi) | N/A |
-| 34 | [#AhlakınSonu](http://twitter.com/search?q=%23Ahlak%c4%b1nSonu) | N/A |
-| 35 | [#BirOyDeğiştirir](http://twitter.com/search?q=%23BirOyDe%c4%9fi%c5%9ftirir) | N/A |
-| 36 | [#keremkınıkistifa](http://twitter.com/search?q=%23keremk%c4%b1n%c4%b1kistifa) | N/A |
-| 37 | [#AçıkveNet](http://twitter.com/search?q=%23A%c3%a7%c4%b1kveNet) | #AçıkveNet is a Turkish hashtag that translates to "clear and open" in English. It is used to express the idea of being open and honest in communication. |
-| 38 | [#SerenaySarıkaya](http://twitter.com/search?q=%23SerenaySar%c4%b1kaya) | N/A |
-| 39 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 40 | [#gecegörüşü](http://twitter.com/search?q=%23geceg%c3%b6r%c3%bc%c5%9f%c3%bc) | N/A |
-| 41 | [#TetikçininOğlu](http://twitter.com/search?q=%23Tetik%c3%a7ininO%c4%9flu) | N/A |
-| 42 | [#Emad200Ler](http://twitter.com/search?q=%23Emad200Ler) | N/A |
-| 43 | [#ReisSözleşmeUzmÇvşaDert](http://twitter.com/search?q=%23ReisS%c3%b6zle%c5%9fmeUzm%c3%87v%c5%9faDert) | N/A |
-| 44 | [#AsDev](http://twitter.com/search?q=%23AsDev) | N/A |
-| 45 | [#YürekÇıkmazı](http://twitter.com/search?q=%23Y%c3%bcrek%c3%87%c4%b1kmaz%c4%b1) | N/A |
-| 46 | [#DoğruZamanDoğruAdam](http://twitter.com/search?q=%23Do%c4%9fruZamanDo%c4%9fruAdam) | N/A |
-| 47 | [#rotmir](http://twitter.com/search?q=%23rotmir) | N/A |
-| 48 | [#HataydaSuYok](http://twitter.com/search?q=%23HataydaSuYok) | N/A |
+| 1 | [#DoğrusuAkParti](http://twitter.com/search?q=%23Do%c4%9frusuAkParti) | N/A |
+| 2 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
+| 3 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
+| 4 | [#StajaÇözümMayısta](http://twitter.com/search?q=%23Staja%c3%87%c3%b6z%c3%bcmMay%c4%b1sta) | N/A |
+| 5 | [#ReisAiledekiEkDersliyeMüjde](http://twitter.com/search?q=%23ReisAiledekiEkDersliyeM%c3%bcjde) | N/A |
+| 6 | [#GenelAf](http://twitter.com/search?q=%23GenelAf) | N/A |
+| 7 | [askerkaçağı onuuur](http://twitter.com/search?q=askerka%c3%a7a%c4%9f%c4%b1+onuuur) | N/A |
+| 8 | [ezgigören evleniyor](http://twitter.com/search?q=ezgig%c3%b6ren+evleniyor) | N/A |
+| 9 | [şerefsiz caner](http://twitter.com/search?q=%c5%9ferefsiz+caner) | N/A |
+| 10 | [naci görüntü](http://twitter.com/search?q=naci+g%c3%b6r%c3%bcnt%c3%bc) | N/A |
+| 11 | [Jagerile SahuraDogru](http://twitter.com/search?q=Jagerile+SahuraDogru) | N/A |
+| 12 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
+| 13 | [10 GB](http://twitter.com/search?q=10+GB) | N/A |
+| 14 | [dexgame](http://twitter.com/search?q=dexgame) | N/A |
+| 15 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 16 | [meb4i̇le şartsıztayin](http://twitter.com/search?q=meb4i%cc%87le+%c5%9farts%c4%b1ztayin) | N/A |
+| 17 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
+| 18 | [İİBFp3ünSesini DuyanVarMı](http://twitter.com/search?q=%c4%b0%c4%b0BFp3%c3%bcnSesini+DuyanVarM%c4%b1) | N/A |
+| 19 | [Mülakatı](http://twitter.com/search?q=M%c3%bclakat%c4%b1) | N/A |
+| 20 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
+| 21 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 22 | [Ersan Şen](http://twitter.com/search?q=Ersan+%c5%9een) | Ersan Şen is a Turkish given name. It is composed of two elements: "Ersan", which means "brave" or "heroic", and "Şen", which means "happy". In English, the name could be translated as "brave and happy". |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 25 | [Bakanlar](http://twitter.com/search?q=Bakanlar) | N/A |
+| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 28 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
+| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 30 | [Evlenmek](http://twitter.com/search?q=Evlenmek) | N/A |
+| 31 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 32 | [Çocuklarİçin Adaletİstiyoruz](http://twitter.com/search?q=%c3%87ocuklar%c4%b0%c3%a7in+Adalet%c4%b0stiyoruz) | N/A |
+| 33 | [Şevket Çoruh](http://twitter.com/search?q=%c5%9eevket+%c3%87oruh) | N/A |
+| 34 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 35 | [Uçak](http://twitter.com/search?q=U%c3%a7ak) | N/A |
+| 36 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
+| 37 | [Ankara 1](http://twitter.com/search?q=Ankara+1) | N/A |
+| 38 | [Deniz Harp Okulu](http://twitter.com/search?q=Deniz+Harp+Okulu) | N/A |
+| 39 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 40 | [Kolin](http://twitter.com/search?q=Kolin) | N/A |
+| 41 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 42 | [Recep Bey](http://twitter.com/search?q=Recep+Bey) | N/A |
+| 43 | [oyumsenin baykemal](http://twitter.com/search?q=oyumsenin+baykemal) | N/A |
+| 44 | [Hüseyin Baş](http://twitter.com/search?q=H%c3%bcseyin+Ba%c5%9f) | N/A |
+| 45 | [Şimdiye](http://twitter.com/search?q=%c5%9eimdiye) | N/A |
+| 46 | [Urfi Çetinkaya](http://twitter.com/search?q=Urfi+%c3%87etinkaya) | N/A |
+| 47 | [Zajc](http://twitter.com/search?q=Zajc) | Zajc is a Slovenian surname. It is derived from the word zajec, which means hare in Slovenian. The English translation of Zajc would be Hare. |
+| 48 | [Karagümrük](http://twitter.com/search?q=Karag%c3%bcmr%c3%bck) | Karagümrük is a neighborhood in Istanbul, Turkey. The name Karagümrük is derived from the Turkish words "kara" (black) and "gümüş" (silver), referring to the blacksmiths who used to work in the area. In English, Karagümrük translates to "Blacksmith's Corner". |
+| 49 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 
 
 

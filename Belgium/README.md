@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-12 00:28:49 UTC`
+📆 Last Updated: `2023-04-12 01:44:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,16 +19,16 @@ This is top 50 for Belgium
 | 2 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 3 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 5 | [#LiefdeVoorMuziek](http://twitter.com/search?q=%23LiefdeVoorMuziek) | N/A |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 8 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 9 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 10 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 12 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
-| 13 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 5 | [#liefdevoormuziek](http://twitter.com/search?q=%23liefdevoormuziek) | N/A |
+| 6 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 7 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 8 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 10 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 11 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |
+| 12 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 15 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 16 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 17 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Belgium
 | 29 | [tielt-winge](http://twitter.com/search?q=tielt-winge) | N/A |
 | 30 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
 | 31 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 32 | [Open VLD](http://twitter.com/search?q=Open+VLD) | N/A |
+| 32 | [open vld](http://twitter.com/search?q=open+vld) | N/A |
 | 33 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 34 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
 | 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 36 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 37 | [Dante Vanzeir](http://twitter.com/search?q=Dante+Vanzeir) | N/A |
 | 38 | [Parijs](http://twitter.com/search?q=Parijs) | N/A |
-| 39 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 40 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 41 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 42 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 43 | [paasmaandag](http://twitter.com/search?q=paasmaandag) | N/A |
-| 44 | [Commission](http://twitter.com/search?q=Commission) | N/A |
-| 45 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 46 | [Brusselse](http://twitter.com/search?q=Brusselse) | N/A |
-| 47 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 48 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 49 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 50 | [Degenkolb](http://twitter.com/search?q=Degenkolb) | N/A |
+| 39 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 40 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 41 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 42 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 43 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 44 | [paasmaandag](http://twitter.com/search?q=paasmaandag) | N/A |
+| 45 | [Commission](http://twitter.com/search?q=Commission) | N/A |
+| 46 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 47 | [Brusselse](http://twitter.com/search?q=Brusselse) | N/A |
+| 48 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 49 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 50 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-12 00:28:38 UTC`
+📆 Last Updated: `2023-04-12 01:44:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 2 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 3 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 4 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 5 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 6 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
-| 7 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
-| 8 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 9 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
-| 10 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
-| 11 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 12 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 13 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
-| 14 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 15 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 18 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
-| 19 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
-| 20 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
-| 21 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
-| 22 | [Wesneski](http://twitter.com/search?q=Wesneski) | N/A |
-| 23 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 24 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
-| 25 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 26 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 27 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
-| 30 | [Gaddis](http://twitter.com/search?q=Gaddis) | N/A |
-| 31 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 32 | [Kyle Wright](http://twitter.com/search?q=Kyle+Wright) | N/A |
-| 33 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 34 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
-| 35 | [Weathers](http://twitter.com/search?q=Weathers) | N/A |
-| 36 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
-| 37 | [Wrongfully](http://twitter.com/search?q=Wrongfully) | N/A |
-| 38 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 39 | [Connor Wong](http://twitter.com/search?q=Connor+Wong) | N/A |
-| 40 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
-| 41 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
-| 42 | [Nick Maton](http://twitter.com/search?q=Nick+Maton) | N/A |
-| 43 | [Dale Arnold](http://twitter.com/search?q=Dale+Arnold) | N/A |
-| 44 | [Justin Simmons](http://twitter.com/search?q=Justin+Simmons) | Justin Simmons is a name. It does not have a specific meaning in English. |
-| 45 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 46 | [McClanahan](http://twitter.com/search?q=McClanahan) | N/A |
-| 47 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
-| 48 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
-| 49 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
+| 1 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 2 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 3 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
+| 4 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 5 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
+| 6 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 7 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 8 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 9 | [Luis Arraez](http://twitter.com/search?q=Luis+Arraez) | N/A |
+| 10 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 11 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 12 | [Ryan Mountcastle](http://twitter.com/search?q=Ryan+Mountcastle) | N/A |
+| 13 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
+| 14 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 15 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 16 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 17 | [JI HWAN](http://twitter.com/search?q=JI+HWAN) | N/A |
+| 18 | [Capela](http://twitter.com/search?q=Capela) | N/A |
+| 19 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 20 | [#RaiseIt](http://twitter.com/search?q=%23RaiseIt) | N/A |
+| 21 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 22 | [Flexen](http://twitter.com/search?q=Flexen) | N/A |
+| 23 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 24 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
+| 25 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
+| 26 | [Pat Riley](http://twitter.com/search?q=Pat+Riley) | N/A |
+| 27 | [Voth](http://twitter.com/search?q=Voth) | N/A |
+| 28 | [Haslem](http://twitter.com/search?q=Haslem) | N/A |
+| 29 | [Strus](http://twitter.com/search?q=Strus) | N/A |
+| 30 | [Pablo Lopez](http://twitter.com/search?q=Pablo+Lopez) | Pablo Lopez is a Spanish name. It is derived from the Latin name Paulus, which means "small" or "humble". In English, it can be translated to mean "little Paul". |
+| 31 | [Mrazek](http://twitter.com/search?q=Mrazek) | N/A |
+| 32 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 33 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
+| 34 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 35 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 36 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 37 | [Marlins](http://twitter.com/search?q=Marlins) | Marlins is a term used to refer to a group of fish species in the family Istiophoridae, which includes sailfish, spearfish, and marlin. They are found in tropical and subtropical waters around the world. Marlins are known for their long, pointed bills and for their ability to leap out of the water. |
+| 38 | [Nelson Velazquez](http://twitter.com/search?q=Nelson+Velazquez) | N/A |
+| 39 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 40 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
+| 41 | [Wesneski](http://twitter.com/search?q=Wesneski) | N/A |
+| 42 | [Pressly](http://twitter.com/search?q=Pressly) | N/A |
+| 43 | [Okongwu](http://twitter.com/search?q=Okongwu) | N/A |
+| 44 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 45 | [Bryson](http://twitter.com/search?q=Bryson) | N/A |
+| 46 | [Jack Hughes](http://twitter.com/search?q=Jack+Hughes) | Jack Hughes is a British slang term used to describe someone who is considered to be a bit of a fool or an idiot. It can also be used to describe someone who is clumsy or inept. |
+| 47 | [Alana Cook](http://twitter.com/search?q=Alana+Cook) | N/A |
+| 48 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
+| 49 | [Chas](http://twitter.com/search?q=Chas) | N/A |
 
 
 

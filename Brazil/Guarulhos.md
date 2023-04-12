@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-12 00:28:02 UTC`
+📆 Last Updated: `2023-04-12 01:44:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
-| 2 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 3 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
-| 4 | [Neuer](http://twitter.com/search?q=Neuer) | N/A |
-| 5 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
-| 6 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
-| 7 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 8 | [Morumbi](http://twitter.com/search?q=Morumbi) | Morumbi is a neighborhood in the city of São Paulo, Brazil. It is located in the south zone of the city and is one of the most affluent areas in São Paulo. The name Morumbi comes from an indigenous word meaning "place of many trees". In English, Morumbi means "place of many trees". |
-| 9 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 10 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
-| 11 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 13 | [Palácio](http://twitter.com/search?q=Pal%c3%a1cio) | N/A |
-| 14 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
-| 15 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 16 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 17 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
-| 18 | [Zico](http://twitter.com/search?q=Zico) | N/A |
-| 19 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
-| 22 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 23 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
-| 24 | [Deivid](http://twitter.com/search?q=Deivid) | N/A |
-| 25 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 26 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 28 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 29 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
-| 30 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
-| 31 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
-| 32 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 33 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 34 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 35 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 36 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 37 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 38 | [Odair](http://twitter.com/search?q=Odair) | N/A |
-| 39 | [#AllEyesOnMe](http://twitter.com/search?q=%23AllEyesOnMe) | N/A |
-| 40 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
-| 41 | [Fujão](http://twitter.com/search?q=Fuj%c3%a3o) | N/A |
-| 42 | [PRE SAVE VERMELHO FAROL](http://twitter.com/search?q=PRE+SAVE+VERMELHO+FAROL) | N/A |
-| 43 | [Beira-Rio](http://twitter.com/search?q=Beira-Rio) | N/A |
-| 44 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
-| 45 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 46 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 47 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
-| 48 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 1 | [Rogério](http://twitter.com/search?q=Rog%c3%a9rio) | N/A |
+| 2 | [O São Paulo](http://twitter.com/search?q=O+S%c3%a3o+Paulo) | N/A |
+| 3 | [Miguelito](http://twitter.com/search?q=Miguelito) | N/A |
+| 4 | [Ceni](http://twitter.com/search?q=Ceni) | N/A |
+| 5 | [O Santos](http://twitter.com/search?q=O+Santos) | O Santos is a Brazilian football club based in the city of Santos, São Paulo. The club was founded in 1912 and is one of the most successful clubs in Brazil, having won eight national titles and four international titles. In English, O Santos translates to "The Saints". |
+| 6 | [Botafogo-SP](http://twitter.com/search?q=Botafogo-SP) | N/A |
+| 7 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 8 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
+| 9 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 10 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
+| 11 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 12 | [DEADGOD E WANHEDA NO FLUXO](http://twitter.com/search?q=DEADGOD+E+WANHEDA+NO+FLUXO) | N/A |
+| 13 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 14 | [Flávio Dino](http://twitter.com/search?q=Fl%c3%a1vio+Dino) | Flávio Dino is the name of a Brazilian politician who is currently serving as the Governor of Maranhão. In English, his name translates to "Flavius Dino". |
+| 15 | [João Paulo](http://twitter.com/search?q=Jo%c3%a3o+Paulo) | João Paulo is a Portuguese name, derived from the Latin names Johannes and Paulus. It translates to John Paul in English. |
+| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 17 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
+| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 19 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 20 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
+| 21 | [mc gui](http://twitter.com/search?q=mc+gui) | N/A |
+| 22 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 23 | [Carrefour](http://twitter.com/search?q=Carrefour) | Carrefour is a French multinational retailer headquartered in Boulogne Billancourt, France. It is one of the largest hypermarket chains in the world with over 12,300 stores in more than 30 countries. The name Carrefour translates to "crossroads" in English. |
+| 24 | [Palácio](http://twitter.com/search?q=Pal%c3%a1cio) | N/A |
+| 25 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 26 | [Câmara](http://twitter.com/search?q=C%c3%a2mara) | N/A |
+| 27 | [Itaú](http://twitter.com/search?q=Ita%c3%ba) | N/A |
+| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 29 | [nathalia valente](http://twitter.com/search?q=nathalia+valente) | N/A |
+| 30 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 31 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
+| 32 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 33 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 34 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 35 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
+| 36 | [#TerraEPaixao](http://twitter.com/search?q=%23TerraEPaixao) | N/A |
+| 37 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
+| 38 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 39 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
+| 40 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 42 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
+| 43 | [MAIARA E MARAISA NO NORDESTE](http://twitter.com/search?q=MAIARA+E+MARAISA+NO+NORDESTE) | N/A |
+| 44 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 45 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 46 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
+| 47 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
 
 
 
