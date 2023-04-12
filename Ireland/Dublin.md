@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-04-12 18:17:26 UTC`
+📆 Last Updated: `2023-04-12 19:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,28 +17,28 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 3 | [Dublin Arena](http://twitter.com/search?q=Dublin+Arena) | N/A |
+| 3 | [#liveline](http://twitter.com/search?q=%23liveline) | N/A |
 | 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 6 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 7 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
-| 8 | [Euro 2028](http://twitter.com/search?q=Euro+2028) | N/A |
-| 9 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 10 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 11 | [Arlene Foster](http://twitter.com/search?q=Arlene+Foster) | N/A |
+| 6 | [Dublin Arena](http://twitter.com/search?q=Dublin+Arena) | N/A |
+| 7 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 8 | [Croke Park](http://twitter.com/search?q=Croke+Park) | N/A |
+| 9 | [Euro 2028](http://twitter.com/search?q=Euro+2028) | N/A |
+| 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 11 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 13 | [#usairl](http://twitter.com/search?q=%23usairl) | N/A |
-| 14 | [#DBFreebie](http://twitter.com/search?q=%23DBFreebie) | N/A |
-| 15 | [Louth](http://twitter.com/search?q=Louth) | N/A |
+| 13 | [Louth](http://twitter.com/search?q=Louth) | N/A |
+| 14 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
+| 15 | [Arlene](http://twitter.com/search?q=Arlene) | N/A |
 | 16 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
-| 17 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 18 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 17 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 18 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 19 | [Carlingford](http://twitter.com/search?q=Carlingford) | N/A |
-| 20 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 21 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 22 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 23 | [fergal horgan](http://twitter.com/search?q=fergal+horgan) | N/A |
-| 24 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 20 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 21 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 22 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 23 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 24 | [fergal horgan](http://twitter.com/search?q=fergal+horgan) | N/A |
 | 25 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
 | 26 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
 | 27 | [Kimmich](http://twitter.com/search?q=Kimmich) | Kimmich is a German surname. It is derived from the given name Kimm, which is a short form of the name Konrad. The English meaning of the name Kimmich is "bold counselor". |
@@ -52,19 +52,19 @@ This is top 50 for [Ireland](</Ireland>)
 | 35 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 | 36 | [Knock](http://twitter.com/search?q=Knock) | N/A |
 | 37 | [Human Rights](http://twitter.com/search?q=Human+Rights) | N/A |
-| 38 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 39 | [Unionism](http://twitter.com/search?q=Unionism) | N/A |
-| 40 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
-| 41 | [met éireann](http://twitter.com/search?q=met+%c3%a9ireann) | N/A |
-| 42 | [Codeine](http://twitter.com/search?q=Codeine) | N/A |
-| 43 | [Sligo](http://twitter.com/search?q=Sligo) | N/A |
+| 38 | [Codeine](http://twitter.com/search?q=Codeine) | N/A |
+| 39 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 40 | [Unionism](http://twitter.com/search?q=Unionism) | N/A |
+| 41 | [Wrexham](http://twitter.com/search?q=Wrexham) | Wrexham is a town in North Wales, United Kingdom. It is the largest town in the county of Wrexham and the administrative centre of the Wrexham County Borough. The name "Wrexham" is derived from the Welsh words "wrecsam" meaning "large town". |
+| 42 | [met éireann](http://twitter.com/search?q=met+%c3%a9ireann) | N/A |
+| 43 | [Dublin Airport](http://twitter.com/search?q=Dublin+Airport) | N/A |
 | 44 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 | 45 | [Aviva](http://twitter.com/search?q=Aviva) | N/A |
 | 46 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 | 47 | [Conor Gallagher](http://twitter.com/search?q=Conor+Gallagher) | N/A |
 | 48 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
 | 49 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 50 | [Paul Murphy](http://twitter.com/search?q=Paul+Murphy) | N/A |
 
 
 

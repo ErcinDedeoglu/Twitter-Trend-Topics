@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-12 18:18:04 UTC`
+📆 Last Updated: `2023-04-12 19:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
-| 2 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
-| 3 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
-| 4 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 5 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
-| 6 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 7 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 8 | [#DOJAEJUNG_Intimacy](http://twitter.com/search?q=%23DOJAEJUNG_Intimacy) | N/A |
-| 9 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
-| 12 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
-| 13 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
-| 14 | [Tanah Abang](http://twitter.com/search?q=Tanah+Abang) | N/A |
-| 15 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
-| 16 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
-| 17 | [Kingdom](http://twitter.com/search?q=Kingdom) | N/A |
-| 18 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
-| 19 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 20 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 21 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
-| 22 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
-| 23 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 24 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 25 | [SHOPEE BIG RAMADAN SALE](http://twitter.com/search?q=SHOPEE+BIG+RAMADAN+SALE) | N/A |
-| 26 | [Jakarta Pusat](http://twitter.com/search?q=Jakarta+Pusat) | N/A |
-| 27 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 28 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 29 | [Lavender](http://twitter.com/search?q=Lavender) | N/A |
-| 30 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 31 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 32 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
-| 33 | [#보라데보라_EP1_withJunhoe](http://twitter.com/search?q=%23%eb%b3%b4%eb%9d%bc%eb%8d%b0%eb%b3%b4%eb%9d%bc_EP1_withJunhoe) | N/A |
-| 34 | [#TrueToLove_Junhoe](http://twitter.com/search?q=%23TrueToLove_Junhoe) | N/A |
-| 35 | [#RisingActorJunhoe](http://twitter.com/search?q=%23RisingActorJunhoe) | N/A |
-| 36 | [#TaklukkanUTBK](http://twitter.com/search?q=%23TaklukkanUTBK) | N/A |
-| 37 | [#iKON](http://twitter.com/search?q=%23iKON) | N/A |
-| 38 | [#GOSE_ChaseTheMafia](http://twitter.com/search?q=%23GOSE_ChaseTheMafia) | N/A |
-| 39 | [#TriMantabBanget](http://twitter.com/search?q=%23TriMantabBanget) | N/A |
-| 40 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
-| 41 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
-| 42 | [#BlibliRamadhan](http://twitter.com/search?q=%23BlibliRamadhan) | N/A |
-| 43 | [#SiamParagonSummer2023xGF](http://twitter.com/search?q=%23SiamParagonSummer2023xGF) | N/A |
-| 44 | [#HexjuiceXExtraTimeIndo](http://twitter.com/search?q=%23HexjuiceXExtraTimeIndo) | N/A |
-| 45 | [#AsuransiWasit](http://twitter.com/search?q=%23AsuransiWasit) | N/A |
-| 46 | [#JUNKYU](http://twitter.com/search?q=%23JUNKYU) | N/A |
-| 47 | [#PromoGajianTerbesar](http://twitter.com/search?q=%23PromoGajianTerbesar) | N/A |
-| 48 | [#GratisOngkirSuperDahsyat](http://twitter.com/search?q=%23GratisOngkirSuperDahsyat) | N/A |
-| 49 | [#HariIniBelanjadiShopee](http://twitter.com/search?q=%23HariIniBelanjadiShopee) | N/A |
-| 50 | [#TAEYANG](http://twitter.com/search?q=%23TAEYANG) | #TAEYANG is a hashtag used to refer to the South Korean singer and songwriter, Taeyang. It is often used on social media platforms such as Twitter and Instagram to share news, photos, and videos related to the artist. The English translation of #TAEYANG is "Taeyang". |
+| 1 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
+| 2 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 3 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
+| 4 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
+| 5 | [urusangue kerenin indonesia](http://twitter.com/search?q=urusangue+kerenin+indonesia) | N/A |
+| 6 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 7 | [#urusannegaraprabowoaja](http://twitter.com/search?q=%23urusannegaraprabowoaja) | N/A |
+| 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 9 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 10 | [kualitas pengadil lapangan](http://twitter.com/search?q=kualitas+pengadil+lapangan) | N/A |
+| 11 | [Jakarta Butuh Cuti](http://twitter.com/search?q=Jakarta+Butuh+Cuti) | N/A |
+| 12 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 13 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 14 | [Anas](http://twitter.com/search?q=Anas) | N/A |
+| 15 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 16 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
+| 17 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
+| 18 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 19 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
+| 20 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 23 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
+| 24 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 25 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 26 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
+| 27 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 28 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
+| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 30 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
+| 31 | [Tisha](http://twitter.com/search?q=Tisha) | N/A |
+| 32 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 33 | [Perempuan Bangsa](http://twitter.com/search?q=Perempuan+Bangsa) | N/A |
+| 34 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
+| 35 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 36 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 37 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 38 | [BPKB](http://twitter.com/search?q=BPKB) | N/A |
+| 39 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
+| 40 | [Pengadilan Tinggi DKI Jakarta](http://twitter.com/search?q=Pengadilan+Tinggi+DKI+Jakarta) | N/A |
+| 41 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 42 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 44 | [welcome back youngk](http://twitter.com/search?q=welcome+back+youngk) | N/A |
+| 45 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 46 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
+| 47 | [choi hyunsuk](http://twitter.com/search?q=choi+hyunsuk) | N/A |
+| 48 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 49 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 50 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
 
 
 

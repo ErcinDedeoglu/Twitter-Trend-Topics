@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-12 18:17:39 UTC`
+📆 Last Updated: `2023-04-12 19:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
-| 2 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 3 | [#OVERPASSinMNL_Baekhyun](http://twitter.com/search?q=%23OVERPASSinMNL_Baekhyun) | N/A |
-| 4 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
-| 5 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
-| 6 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
-| 7 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 8 | [#BINI_Strings](http://twitter.com/search?q=%23BINI_Strings) | N/A |
-| 9 | [ChiCo POOLinLove](http://twitter.com/search?q=ChiCo+POOLinLove) | N/A |
-| 10 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 11 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 12 | [WELCOME BACK OUR MANILA BOY](http://twitter.com/search?q=WELCOME+BACK+OUR+MANILA+BOY) | N/A |
+| 1 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
+| 2 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
+| 3 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 4 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 5 | [#DOJAEJUNG_Intimacy](http://twitter.com/search?q=%23DOJAEJUNG_Intimacy) | N/A |
+| 6 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 7 | [#DLPoolParty](http://twitter.com/search?q=%23DLPoolParty) | N/A |
+| 8 | [ChiCo POOLinLove](http://twitter.com/search?q=ChiCo+POOLinLove) | N/A |
+| 9 | [#BINI_Strings](http://twitter.com/search?q=%23BINI_Strings) | N/A |
+| 10 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 11 | [PLUUS REPLY TIME](http://twitter.com/search?q=PLUUS+REPLY+TIME) | N/A |
+| 12 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
 | 13 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
-| 14 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 14 | [WELCOME BACK OUR MANILA BOY](http://twitter.com/search?q=WELCOME+BACK+OUR+MANILA+BOY) | N/A |
 | 15 | [TWOLONG LIAM](http://twitter.com/search?q=TWOLONG+LIAM) | N/A |
-| 16 | [D-DAY BREAK YOU DOWN](http://twitter.com/search?q=D-DAY+BREAK+YOU+DOWN) | N/A |
-| 17 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 18 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
-| 19 | [ENHYPEN](http://twitter.com/search?q=ENHYPEN) | N/A |
-| 20 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 21 | [ANJI PARAISO MEDIACON](http://twitter.com/search?q=ANJI+PARAISO+MEDIACON) | N/A |
-| 22 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
-| 23 | [Tanggol](http://twitter.com/search?q=Tanggol) | N/A |
+| 16 | [heejin](http://twitter.com/search?q=heejin) | N/A |
+| 17 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
+| 18 | [ANJI PARAISO MEDIACON](http://twitter.com/search?q=ANJI+PARAISO+MEDIACON) | N/A |
+| 19 | [Wonu](http://twitter.com/search?q=Wonu) | N/A |
+| 20 | [Enhypen](http://twitter.com/search?q=Enhypen) | N/A |
+| 21 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 22 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
+| 23 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
 | 24 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
-| 25 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 25 | [Tanggol](http://twitter.com/search?q=Tanggol) | N/A |
 | 26 | [Mokang](http://twitter.com/search?q=Mokang) | N/A |
-| 27 | [D-2 TO PARAISO](http://twitter.com/search?q=D-2+TO+PARAISO) | N/A |
+| 27 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
 | 28 | [RALPHGAIL THELIARLOVETEAM](http://twitter.com/search?q=RALPHGAIL+THELIARLOVETEAM) | N/A |
-| 29 | [MARIE CLAIRE](http://twitter.com/search?q=MARIE+CLAIRE) | MARIE CLAIRE is a French magazine for women that was first published in 1937. It covers topics such as fashion, beauty, health, entertainment, and lifestyle. The name of the magazine is derived from the French phrase "Marie Claire de Coeur," which translates to "Mary of the Heart." |
-| 30 | [chaeyeon](http://twitter.com/search?q=chaeyeon) | N/A |
-| 31 | [D2 KDLEXPETA COMEBACK](http://twitter.com/search?q=D2+KDLEXPETA+COMEBACK) | N/A |
-| 32 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 33 | [#DOJAEJUNG_Intimacy](http://twitter.com/search?q=%23DOJAEJUNG_Intimacy) | N/A |
-| 34 | [#DLPoolParty](http://twitter.com/search?q=%23DLPoolParty) | N/A |
-| 35 | [#AskPLUUS](http://twitter.com/search?q=%23AskPLUUS) | N/A |
-| 36 | [#FELIP_SUPERIORITY](http://twitter.com/search?q=%23FELIP_SUPERIORITY) | N/A |
-| 37 | [#FPJBQLastDance](http://twitter.com/search?q=%23FPJBQLastDance) | N/A |
-| 38 | [#FurFurThugsThugan](http://twitter.com/search?q=%23FurFurThugsThugan) | N/A |
-| 39 | [#WeAreWithYouANGGE](http://twitter.com/search?q=%23WeAreWithYouANGGE) | N/A |
+| 29 | [D-2 TO PARAISO](http://twitter.com/search?q=D-2+TO+PARAISO) | N/A |
+| 30 | [MARIE CLAIRE](http://twitter.com/search?q=MARIE+CLAIRE) | MARIE CLAIRE is a French magazine for women that was first published in 1937. It covers topics such as fashion, beauty, health, entertainment, and lifestyle. The name of the magazine is derived from the French phrase "Marie Claire de Coeur," which translates to "Mary of the Heart." |
+| 31 | [Chaeyeon](http://twitter.com/search?q=Chaeyeon) | N/A |
+| 32 | [D2 KDLEXPETA COMEBACK](http://twitter.com/search?q=D2+KDLEXPETA+COMEBACK) | N/A |
+| 33 | [#JUNGWOO](http://twitter.com/search?q=%23JUNGWOO) | N/A |
+| 34 | [#FurFurThugsThugan](http://twitter.com/search?q=%23FurFurThugsThugan) | N/A |
+| 35 | [#FELIP_SUPERIORITY](http://twitter.com/search?q=%23FELIP_SUPERIORITY) | N/A |
+| 36 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
+| 37 | [#WeAreWithYouANGGE](http://twitter.com/search?q=%23WeAreWithYouANGGE) | N/A |
+| 38 | [#TrueToLove_Junhoe](http://twitter.com/search?q=%23TrueToLove_Junhoe) | N/A |
+| 39 | [#RisingActorJunhoe](http://twitter.com/search?q=%23RisingActorJunhoe) | N/A |
 | 40 | [#ManilaBoyHomecoming](http://twitter.com/search?q=%23ManilaBoyHomecoming) | N/A |
-| 41 | [#ManilaBoyJeongwoo](http://twitter.com/search?q=%23ManilaBoyJeongwoo) | N/A |
-| 42 | [#UrdujaKutob](http://twitter.com/search?q=%23UrdujaKutob) | N/A |
-| 43 | [#RisingActorJunhoe](http://twitter.com/search?q=%23RisingActorJunhoe) | N/A |
-| 44 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
-| 45 | [#TrueToLove_Junhoe](http://twitter.com/search?q=%23TrueToLove_Junhoe) | N/A |
+| 41 | [#보라데보라_EP1_withJunhoe](http://twitter.com/search?q=%23%eb%b3%b4%eb%9d%bc%eb%8d%b0%eb%b3%b4%eb%9d%bc_EP1_withJunhoe) | N/A |
+| 42 | [#ManilaBoyJeongwoo](http://twitter.com/search?q=%23ManilaBoyJeongwoo) | N/A |
+| 43 | [#FurFurOFCEp8](http://twitter.com/search?q=%23FurFurOFCEp8) | N/A |
+| 44 | [#UrdujaKutob](http://twitter.com/search?q=%23UrdujaKutob) | N/A |
+| 45 | [#PARKJEONGWOO](http://twitter.com/search?q=%23PARKJEONGWOO) | N/A |
 | 46 | [#HOINaFallNaAko](http://twitter.com/search?q=%23HOINaFallNaAko) | N/A |
-| 47 | [#보라데보라_EP1_withJunhoe](http://twitter.com/search?q=%23%eb%b3%b4%eb%9d%bc%eb%8d%b0%eb%b3%b4%eb%9d%bc_EP1_withJunhoe) | N/A |
-| 48 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
+| 47 | [#TWOStalker](http://twitter.com/search?q=%23TWOStalker) | N/A |
+| 48 | [#ENGLOT_GalaNightMGT2023](http://twitter.com/search?q=%23ENGLOT_GalaNightMGT2023) | N/A |
 | 49 | [#DirtyLinen](http://twitter.com/search?q=%23DirtyLinen) | N/A |
-| 50 | [#TWOStalker](http://twitter.com/search?q=%23TWOStalker) | N/A |
+| 50 | [#KliveApr12](http://twitter.com/search?q=%23KliveApr12) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Khabarovsk
 
-📆 Last Updated: `2023-04-12 18:17:45 UTC`
+📆 Last Updated: `2023-04-12 19:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Thisss](http://twitter.com/search?q=Thisss) | N/A |
-| 2 | [Rally](http://twitter.com/search?q=Rally) | N/A |
-| 3 | [realy](http://twitter.com/search?q=realy) | N/A |
-| 4 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 5 | [Rate](http://twitter.com/search?q=Rate) | N/A |
-| 6 | [HOWWW](http://twitter.com/search?q=HOWWW) | N/A |
-| 7 | [Heee](http://twitter.com/search?q=Heee) | N/A |
-| 8 | [#BTCC](http://twitter.com/search?q=%23BTCC) | N/A |
-| 9 | [ALLL](http://twitter.com/search?q=ALLL) | N/A |
-| 10 | [Markets](http://twitter.com/search?q=Markets) | N/A |
-| 11 | [#bnbb](http://twitter.com/search?q=%23bnbb) | N/A |
-| 12 | [#binancee](http://twitter.com/search?q=%23binancee) | N/A |
-| 13 | [#bitcoinn](http://twitter.com/search?q=%23bitcoinn) | N/A |
-| 14 | [havee](http://twitter.com/search?q=havee) | N/A |
-| 15 | [THEE](http://twitter.com/search?q=THEE) | N/A |
-| 16 | [alreadyyy](http://twitter.com/search?q=alreadyyy) | N/A |
-| 17 | [neww](http://twitter.com/search?q=neww) | N/A |
-| 18 | [theyy](http://twitter.com/search?q=theyy) | N/A |
-| 19 | [Recommend](http://twitter.com/search?q=Recommend) | N/A |
-| 20 | [Weee](http://twitter.com/search?q=Weee) | N/A |
-| 21 | [Госуслуги](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8) | N/A |
-| 22 | [everythingg](http://twitter.com/search?q=everythingg) | N/A |
-| 23 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 24 | [С Днём](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc) | N/A |
-| 25 | [whyy](http://twitter.com/search?q=whyy) | N/A |
-| 26 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 27 | [Питер](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80) | N/A |
-| 28 | [keepss](http://twitter.com/search?q=keepss) | N/A |
-| 29 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 30 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 31 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 32 | [поэтому](http://twitter.com/search?q=%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 33 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 35 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 36 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
-| 37 | [Пентагона](http://twitter.com/search?q=%d0%9f%d0%b5%d0%bd%d1%82%d0%b0%d0%b3%d0%be%d0%bd%d0%b0) | N/A |
-| 38 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 39 | [Германию](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
-| 40 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
-| 41 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
-| 42 | [Шивелуч](http://twitter.com/search?q=%d0%a8%d0%b8%d0%b2%d0%b5%d0%bb%d1%83%d1%87) | N/A |
-| 43 | [ПОНЯТНО](http://twitter.com/search?q=%d0%9f%d0%9e%d0%9d%d0%af%d0%a2%d0%9d%d0%9e) | N/A |
-| 44 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 45 | [БУКВАЛЬНО](http://twitter.com/search?q=%d0%91%d0%a3%d0%9a%d0%92%d0%90%d0%9b%d0%ac%d0%9d%d0%9e) | N/A |
-| 46 | [получается](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | N/A |
-| 47 | [грузии](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
-| 48 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 49 | [бога](http://twitter.com/search?q=%d0%b1%d0%be%d0%b3%d0%b0) | N/A |
-| 50 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
+| 1 | [HOWWW](http://twitter.com/search?q=HOWWW) | N/A |
+| 2 | [ALLL](http://twitter.com/search?q=ALLL) | N/A |
+| 3 | [Bull](http://twitter.com/search?q=Bull) | N/A |
+| 4 | [Markets](http://twitter.com/search?q=Markets) | N/A |
+| 5 | [Thiss](http://twitter.com/search?q=Thiss) | N/A |
+| 6 | [#bitcoinn](http://twitter.com/search?q=%23bitcoinn) | N/A |
+| 7 | [Госуслуги](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d1%83%d1%81%d0%bb%d1%83%d0%b3%d0%b8) | N/A |
+| 8 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 9 | [С Днём](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc) | N/A |
+| 10 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 11 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 12 | [#applepronews](http://twitter.com/search?q=%23applepronews) | N/A |
+| 13 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 14 | [#iPhone](http://twitter.com/search?q=%23iPhone) | N/A |
+| 15 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 17 | [Пентагона](http://twitter.com/search?q=%d0%9f%d0%b5%d0%bd%d1%82%d0%b0%d0%b3%d0%be%d0%bd%d0%b0) | N/A |
+| 18 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 19 | [Германию](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8e) | N/A |
+| 20 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 21 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | N/A |
+| 22 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 23 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
+| 24 | [Шивелуч](http://twitter.com/search?q=%d0%a8%d0%b8%d0%b2%d0%b5%d0%bb%d1%83%d1%87) | N/A |
+| 25 | [ПОНЯТНО](http://twitter.com/search?q=%d0%9f%d0%9e%d0%9d%d0%af%d0%a2%d0%9d%d0%9e) | N/A |
+| 26 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 27 | [получается](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | N/A |
+| 28 | [грузии](http://twitter.com/search?q=%d0%b3%d1%80%d1%83%d0%b7%d0%b8%d0%b8) | N/A |
+| 29 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 30 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 31 | [Бога](http://twitter.com/search?q=%d0%91%d0%be%d0%b3%d0%b0) | N/A |
+| 32 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
+| 33 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 34 | [БУКВАЛЬНО](http://twitter.com/search?q=%d0%91%d0%a3%d0%9a%d0%92%d0%90%d0%9b%d0%ac%d0%9d%d0%9e) | N/A |
+| 35 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | N/A |
+| 36 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 37 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | N/A |
+| 38 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 39 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | N/A |
+| 40 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | N/A |
+| 41 | [господь](http://twitter.com/search?q=%d0%b3%d0%be%d1%81%d0%bf%d0%be%d0%b4%d1%8c) | N/A |
+| 42 | [Выздоравливай](http://twitter.com/search?q=%d0%92%d1%8b%d0%b7%d0%b4%d0%be%d1%80%d0%b0%d0%b2%d0%bb%d0%b8%d0%b2%d0%b0%d0%b9) | N/A |
+| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 
 
 

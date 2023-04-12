@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-12 18:17:53 UTC`
+📆 Last Updated: `2023-04-12 19:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,38 +33,38 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 16 | [North](http://twitter.com/search?q=North) | N/A |
 | 17 | [#toomanycows](http://twitter.com/search?q=%23toomanycows) | N/A |
 | 18 | [christopher luxon](http://twitter.com/search?q=christopher+luxon) | N/A |
-| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 22 | [Council](http://twitter.com/search?q=Council) | N/A |
-| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 24 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
-| 25 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
-| 26 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
-| 27 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
-| 28 | [aucklanders](http://twitter.com/search?q=aucklanders) | N/A |
-| 29 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
+| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 21 | [Council](http://twitter.com/search?q=Council) | N/A |
+| 22 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 23 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
+| 24 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
+| 25 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
+| 26 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
+| 27 | [aucklanders](http://twitter.com/search?q=aucklanders) | N/A |
+| 28 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
+| 29 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [the spinoff](http://twitter.com/search?q=the+spinoff) | N/A |
-| 32 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 34 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 35 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 36 | [te reo](http://twitter.com/search?q=te+reo) | N/A |
-| 37 | [business nz](http://twitter.com/search?q=business+nz) | N/A |
-| 38 | [democracy nz](http://twitter.com/search?q=democracy+nz) | N/A |
-| 39 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 40 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 42 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
-| 43 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 44 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 45 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 46 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
-| 47 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
-| 48 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 49 | [dpmc](http://twitter.com/search?q=dpmc) | N/A |
-| 50 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 31 | [simeon](http://twitter.com/search?q=simeon) | N/A |
+| 32 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 33 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 34 | [te reo](http://twitter.com/search?q=te+reo) | N/A |
+| 35 | [business nz](http://twitter.com/search?q=business+nz) | N/A |
+| 36 | [democracy nz](http://twitter.com/search?q=democracy+nz) | N/A |
+| 37 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 38 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 39 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 40 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
+| 41 | [depp](http://twitter.com/search?q=depp) | N/A |
+| 42 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 43 | [The Spinoff](http://twitter.com/search?q=The+Spinoff) | N/A |
+| 44 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 45 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
+| 46 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
+| 47 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 48 | [dpmc](http://twitter.com/search?q=dpmc) | N/A |
+| 49 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 50 | [Sean](http://twitter.com/search?q=Sean) | N/A |
 
 
 

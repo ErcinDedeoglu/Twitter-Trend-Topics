@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-04-12 18:17:57 UTC`
+📆 Last Updated: `2023-04-12 19:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
-| 2 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 3 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 4 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 5 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 8 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 9 | [#412Day](http://twitter.com/search?q=%23412Day) | N/A |
-| 10 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 11 | [F--- Catholics](http://twitter.com/search?q=F---+Catholics) | N/A |
-| 12 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
-| 13 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 14 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 15 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 16 | [Red Flag Warning](http://twitter.com/search?q=Red+Flag+Warning) | N/A |
-| 17 | [60fps](http://twitter.com/search?q=60fps) | N/A |
-| 18 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
-| 19 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 20 | [March CPI](http://twitter.com/search?q=March+CPI) | N/A |
-| 21 | [Biden DOJ](http://twitter.com/search?q=Biden+DOJ) | N/A |
-| 22 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 23 | [David Letterman](http://twitter.com/search?q=David+Letterman) | N/A |
-| 24 | [Fort Sumter](http://twitter.com/search?q=Fort+Sumter) | N/A |
-| 25 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
-| 26 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 27 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
-| 28 | [Libraries](http://twitter.com/search?q=Libraries) | N/A |
-| 29 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
-| 30 | [Herbie Hancock](http://twitter.com/search?q=Herbie+Hancock) | N/A |
-| 31 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
-| 32 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 33 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 34 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 35 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
-| 36 | [Lakers in 6](http://twitter.com/search?q=Lakers+in+6) | N/A |
-| 37 | [Arnold Schwarzenegger](http://twitter.com/search?q=Arnold+Schwarzenegger) | N/A |
-| 38 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
-| 39 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 40 | [Another Republican](http://twitter.com/search?q=Another+Republican) | N/A |
-| 41 | [Substack Notes](http://twitter.com/search?q=Substack+Notes) | N/A |
-| 42 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 43 | [Baki](http://twitter.com/search?q=Baki) | N/A |
-| 44 | [Stern](http://twitter.com/search?q=Stern) | N/A |
-| 45 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 46 | [RBC Heritage](http://twitter.com/search?q=RBC+Heritage) | N/A |
-| 47 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 48 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
-| 49 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 50 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 3 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
+| 4 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 5 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
+| 6 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 7 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 8 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 9 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 10 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 11 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
+| 12 | [KYLE LOWRY](http://twitter.com/search?q=KYLE+LOWRY) | N/A |
+| 13 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 14 | [DENNIS](http://twitter.com/search?q=DENNIS) | N/A |
+| 15 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
+| 16 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 17 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 18 | [c1y VBA](http://twitter.com/search?q=c1y+VBA) | N/A |
+| 19 | [KYLE ANDERSON](http://twitter.com/search?q=KYLE+ANDERSON) | N/A |
+| 20 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 21 | [Darvin ham](http://twitter.com/search?q=Darvin+ham) | N/A |
+| 22 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Jimmy butler](http://twitter.com/search?q=Jimmy+butler) | N/A |
+| 25 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 26 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 27 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 28 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 29 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 30 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 31 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 32 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 33 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 34 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
+| 35 | [Freaknik](http://twitter.com/search?q=Freaknik) | N/A |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 37 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 38 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 39 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 40 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 41 | [Capela](http://twitter.com/search?q=Capela) | N/A |
+| 42 | [Franchy Cordero](http://twitter.com/search?q=Franchy+Cordero) | N/A |
+| 43 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 44 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 45 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 46 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
+| 47 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 48 | [Wrongfully](http://twitter.com/search?q=Wrongfully) | N/A |
+| 49 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 50 | [Towns](http://twitter.com/search?q=Towns) | N/A |
 
 
 

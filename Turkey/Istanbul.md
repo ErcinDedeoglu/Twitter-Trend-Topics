@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-04-12 18:17:52 UTC`
+📆 Last Updated: `2023-04-12 19:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DoğrusuAkParti](http://twitter.com/search?q=%23Do%c4%9frusuAkParti) | N/A |
-| 2 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
-| 3 | [#EUPWR](http://twitter.com/search?q=%23EUPWR) | N/A |
-| 4 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 5 | [#DavetsizMisafir](http://twitter.com/search?q=%23DavetsizMisafir) | N/A |
+| 1 | [Erden Timur](http://twitter.com/search?q=Erden+Timur) | N/A |
+| 2 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
+| 3 | [Berna](http://twitter.com/search?q=Berna) | N/A |
+| 4 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
+| 5 | [#DoğrusuAkParti](http://twitter.com/search?q=%23Do%c4%9frusuAkParti) | N/A |
 | 6 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
-| 7 | [#BayKemalSaglıkcıyıAta](http://twitter.com/search?q=%23BayKemalSagl%c4%b1kc%c4%b1y%c4%b1Ata) | N/A |
-| 8 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
-| 9 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
-| 10 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
-| 11 | [Asrın Büyük Türkiyesi](http://twitter.com/search?q=Asr%c4%b1n+B%c3%bcy%c3%bck+T%c3%bcrkiyesi) | N/A |
-| 12 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
-| 13 | [Uğurcan Çakır](http://twitter.com/search?q=U%c4%9furcan+%c3%87ak%c4%b1r) | N/A |
-| 14 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 15 | [Yugoslavya](http://twitter.com/search?q=Yugoslavya) | N/A |
-| 16 | [Balkan](http://twitter.com/search?q=Balkan) | N/A |
-| 17 | [Destici](http://twitter.com/search?q=Destici) | N/A |
-| 18 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
-| 19 | [Sorumlusu](http://twitter.com/search?q=Sorumlusu) | N/A |
-| 20 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
-| 21 | [Ali Dursun](http://twitter.com/search?q=Ali+Dursun) | N/A |
-| 22 | [Bankalardan 70](http://twitter.com/search?q=Bankalardan+70) | N/A |
-| 23 | [Pirlo](http://twitter.com/search?q=Pirlo) | N/A |
-| 24 | [Pire](http://twitter.com/search?q=Pire) | N/A |
-| 25 | [Hırsızın](http://twitter.com/search?q=H%c4%b1rs%c4%b1z%c4%b1n) | N/A |
+| 7 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 8 | [#Emad2000ler](http://twitter.com/search?q=%23Emad2000ler) | N/A |
+| 9 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
+| 10 | [iibfp3ünsesini duyanvarmı](http://twitter.com/search?q=iibfp3%c3%bcnsesini+duyanvarm%c4%b1) | N/A |
+| 11 | [10 GB](http://twitter.com/search?q=10+GB) | N/A |
+| 12 | [Teşekkürler Kılıçdaroğlu](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 13 | [naci görüntü](http://twitter.com/search?q=naci+g%c3%b6r%c3%bcnt%c3%bc) | N/A |
+| 14 | [Mülakatı](http://twitter.com/search?q=M%c3%bclakat%c4%b1) | N/A |
+| 15 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 16 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 17 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 18 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 19 | [Ak Parti Seçim Beyannamesi](http://twitter.com/search?q=Ak+Parti+Se%c3%a7im+Beyannamesi) | N/A |
+| 20 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 21 | [Yugoslav](http://twitter.com/search?q=Yugoslav) | N/A |
+| 22 | [Urfi Çetinkaya](http://twitter.com/search?q=Urfi+%c3%87etinkaya) | N/A |
+| 23 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
+| 24 | [TCG Anadolu](http://twitter.com/search?q=TCG+Anadolu) | N/A |
+| 25 | [Sadullah Ergin](http://twitter.com/search?q=Sadullah+Ergin) | N/A |
 | 26 | [ŞoförüDuy SeçimiKazan](http://twitter.com/search?q=%c5%9eof%c3%b6r%c3%bcDuy+Se%c3%a7imiKazan) | N/A |
-| 27 | [Serhan](http://twitter.com/search?q=Serhan) | N/A |
-| 28 | [Taha](http://twitter.com/search?q=Taha) | N/A |
-| 29 | [İSTİFA ET](http://twitter.com/search?q=%c4%b0ST%c4%b0FA+ET) | N/A |
-| 30 | [Atletico Madrid](http://twitter.com/search?q=Atletico+Madrid) | N/A |
-| 31 | [Sifonu](http://twitter.com/search?q=Sifonu) | N/A |
-| 32 | [Erden](http://twitter.com/search?q=Erden) | N/A |
-| 33 | [Urfi Çetinkaya](http://twitter.com/search?q=Urfi+%c3%87etinkaya) | N/A |
-| 34 | [OHAL](http://twitter.com/search?q=OHAL) | N/A |
-| 35 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 36 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 37 | [13 Nisan Perşembe](http://twitter.com/search?q=13+Nisan+Per%c5%9fembe) | N/A |
-| 38 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 39 | [Faşist](http://twitter.com/search?q=Fa%c5%9fist) | N/A |
-| 40 | [#EytÇözülmüşGibiYapılıyor](http://twitter.com/search?q=%23Eyt%c3%87%c3%b6z%c3%bclm%c3%bc%c5%9fGibiYap%c4%b1l%c4%b1yor) | N/A |
-| 41 | [#enflasyon](http://twitter.com/search?q=%23enflasyon) | #Enflasyon is a Turkish word meaning inflation. In economics, inflation is a sustained increase in the general price level of goods and services in an economy over a period of time. |
-| 42 | [#TOKİ](http://twitter.com/search?q=%23TOK%c4%b0) | N/A |
-| 43 | [#BüyükDüşünenLider](http://twitter.com/search?q=%23B%c3%bcy%c3%bckD%c3%bc%c5%9f%c3%bcnenLider) | N/A |
-| 44 | [#TogetherforTürkiye](http://twitter.com/search?q=%23TogetherforT%c3%bcrkiye) | N/A |
-| 45 | [#TÜFE](http://twitter.com/search?q=%23T%c3%9cFE) | N/A |
-| 46 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
-| 47 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 48 | [#OYistiyorsanKCP](http://twitter.com/search?q=%23OYistiyorsanKCP) | N/A |
-| 49 | [#Eskişehirspor](http://twitter.com/search?q=%23Eski%c5%9fehirspor) | N/A |
-| 50 | [#garan](http://twitter.com/search?q=%23garan) | N/A |
+| 27 | [Bankalardan 70](http://twitter.com/search?q=Bankalardan+70) | N/A |
+| 28 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 29 | [SİHA](http://twitter.com/search?q=S%c4%b0HA) | N/A |
+| 30 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
+| 31 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 32 | [jagerile sahuradogru](http://twitter.com/search?q=jagerile+sahuradogru) | N/A |
+| 33 | [Ali Dursun](http://twitter.com/search?q=Ali+Dursun) | N/A |
+| 34 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 35 | [çocuklariçin adaletistiyoruz](http://twitter.com/search?q=%c3%a7ocuklari%c3%a7in+adaletistiyoruz) | N/A |
+| 36 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
+| 37 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 38 | [meb4ile şartsıztayin](http://twitter.com/search?q=meb4ile+%c5%9farts%c4%b1ztayin) | N/A |
+| 39 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 40 | [İdris Naim Şahin](http://twitter.com/search?q=%c4%b0dris+Naim+%c5%9eahin) | N/A |
+| 41 | [13 Nisan Perşembe](http://twitter.com/search?q=13+Nisan+Per%c5%9fembe) | N/A |
+| 42 | [Pire](http://twitter.com/search?q=Pire) | N/A |
+| 43 | [Deniz Harp Okulu](http://twitter.com/search?q=Deniz+Harp+Okulu) | N/A |
+| 44 | [Fahrettin Altun](http://twitter.com/search?q=Fahrettin+Altun) | Fahrettin Altun is a Turkish name. It is composed of two words: Fahrettin, which means "the one who is victorious" and Altun, which means "golden". In English, the name would translate to "Victorious Golden". |
+| 45 | [Ekrem İmamoğlu](http://twitter.com/search?q=Ekrem+%c4%b0mamo%c4%9flu) | N/A |
+| 46 | [Oğuzhan Uğur](http://twitter.com/search?q=O%c4%9fuzhan+U%c4%9fur) | N/A |
+| 47 | [Hırsızın](http://twitter.com/search?q=H%c4%b1rs%c4%b1z%c4%b1n) | N/A |
+| 48 | [Serhan](http://twitter.com/search?q=Serhan) | N/A |
+| 49 | [Şimdiye](http://twitter.com/search?q=%c5%9eimdiye) | N/A |
+| 50 | [Gezici](http://twitter.com/search?q=Gezici) | N/A |
 
 
 

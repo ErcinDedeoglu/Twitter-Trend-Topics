@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-04-12 18:17:50 UTC`
+📆 Last Updated: `2023-04-12 19:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
-| 2 | [#MP_के_नवनियुक्त_शिक्षक](http://twitter.com/search?q=%23MP_%e0%a4%95%e0%a5%87_%e0%a4%a8%e0%a4%b5%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4_%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95) | N/A |
-| 3 | [#gold](http://twitter.com/search?q=%23gold) | N/A |
-| 4 | [#CSKvsRR](http://twitter.com/search?q=%23CSKvsRR) | N/A |
-| 5 | [#UnstoppableJioStudios](http://twitter.com/search?q=%23UnstoppableJioStudios) | N/A |
-| 6 | [Vicky Kaushal Career Drops](http://twitter.com/search?q=Vicky+Kaushal+Career+Drops) | N/A |
-| 7 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 8 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 9 | [Akash Singh](http://twitter.com/search?q=Akash+Singh) | N/A |
-| 10 | [Moeen Ali](http://twitter.com/search?q=Moeen+Ali) | N/A |
-| 11 | [Santner](http://twitter.com/search?q=Santner) | Santner is a German surname derived from the word "Sandner," which means "sandy area." The name is most commonly found in the Bavarian region of Germany. |
-| 12 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 13 | [Jos Buttler](http://twitter.com/search?q=Jos+Buttler) | N/A |
-| 14 | [Theekshana](http://twitter.com/search?q=Theekshana) | N/A |
-| 15 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 16 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 17 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 18 | [INSAS](http://twitter.com/search?q=INSAS) | N/A |
-| 19 | [Ghee](http://twitter.com/search?q=Ghee) | N/A |
-| 20 | [सोनू सूद](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%b8%e0%a5%82%e0%a4%a6) | N/A |
-| 21 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 22 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
-| 23 | [CBI Answerable InSSRCase](http://twitter.com/search?q=CBI+Answerable+InSSRCase) | N/A |
-| 24 | [Chennai Super Kings](http://twitter.com/search?q=Chennai+Super+Kings) | N/A |
-| 25 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 26 | [बठिंडा मिलिट्री स्टेशन](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a0%e0%a4%bf%e0%a4%82%e0%a4%a1%e0%a4%be+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 27 | [रेल मंत्री](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%b2+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 28 | [#BloodyDaddy](http://twitter.com/search?q=%23BloodyDaddy) | N/A |
-| 29 | [#Thala200](http://twitter.com/search?q=%23Thala200) | N/A |
-| 30 | [#SK21](http://twitter.com/search?q=%23SK21) | N/A |
-| 31 | [#MooseWalaOnBillboard](http://twitter.com/search?q=%23MooseWalaOnBillboard) | N/A |
-| 32 | [#realmenarzoN55OnAmazon](http://twitter.com/search?q=%23realmenarzoN55OnAmazon) | N/A |
-| 33 | [#SanjayDutt](http://twitter.com/search?q=%23SanjayDutt) | N/A |
-| 34 | [#ShahidKapoor](http://twitter.com/search?q=%23ShahidKapoor) | N/A |
-| 35 | [#GehlotKaMehngaiRahatCamp](http://twitter.com/search?q=%23GehlotKaMehngaiRahatCamp) | N/A |
-| 36 | [#1YearOfBeast](http://twitter.com/search?q=%231YearOfBeast) | N/A |
-| 37 | [#KBFC](http://twitter.com/search?q=%23KBFC) | N/A |
-| 38 | [#AliAbbasZafar](http://twitter.com/search?q=%23AliAbbasZafar) | N/A |
-| 39 | [#NitishKumar](http://twitter.com/search?q=%23NitishKumar) | N/A |
-| 40 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 41 | [#AnanyaBirla](http://twitter.com/search?q=%23AnanyaBirla) | N/A |
-| 42 | [#Jawan](http://twitter.com/search?q=%23Jawan) | N/A |
-| 43 | [#हेमंत_यादव_को_न्याय_दो](http://twitter.com/search?q=%23%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4_%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5_%e0%a4%95%e0%a5%8b_%e0%a4%a8%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%af_%e0%a4%a6%e0%a5%8b) | N/A |
-| 44 | [#AmbedkarJayanti2023](http://twitter.com/search?q=%23AmbedkarJayanti2023) | N/A |
-| 45 | [#FOMC](http://twitter.com/search?q=%23FOMC) | N/A |
-| 46 | [#BombThreat](http://twitter.com/search?q=%23BombThreat) | N/A |
-| 47 | [#PatnaAirport](http://twitter.com/search?q=%23PatnaAirport) | N/A |
-| 48 | [#SuhanaKhan](http://twitter.com/search?q=%23SuhanaKhan) | N/A |
-| 49 | [#SanjuSamson](http://twitter.com/search?q=%23SanjuSamson) | N/A |
-| 50 | [#eBay](http://twitter.com/search?q=%23eBay) | N/A |
+| 2 | [#GOLD](http://twitter.com/search?q=%23GOLD) | N/A |
+| 3 | [#CSKvsRR](http://twitter.com/search?q=%23CSKvsRR) | N/A |
+| 4 | [sab gazab by badshah](http://twitter.com/search?q=sab+gazab+by+badshah) | N/A |
+| 5 | [#GehlotKaMehngaiRahatCamp](http://twitter.com/search?q=%23GehlotKaMehngaiRahatCamp) | N/A |
+| 6 | [india ka apna easemytrip](http://twitter.com/search?q=india+ka+apna+easemytrip) | N/A |
+| 7 | [#MIvsDC](http://twitter.com/search?q=%23MIvsDC) | N/A |
+| 8 | [सोनू सूद](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%b8%e0%a5%82%e0%a4%a6) | N/A |
+| 9 | [राणा सांगा](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 10 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 11 | [arunachal belongs to india](http://twitter.com/search?q=arunachal+belongs+to+india) | N/A |
+| 12 | [CBI Answerable InSSRCase](http://twitter.com/search?q=CBI+Answerable+InSSRCase) | N/A |
+| 13 | [She is 19](http://twitter.com/search?q=She+is+19) | N/A |
+| 14 | [know the unknown](http://twitter.com/search?q=know+the+unknown) | N/A |
+| 15 | [Words Of Wisdom](http://twitter.com/search?q=Words+Of+Wisdom) | N/A |
+| 16 | [arunachal rejects china](http://twitter.com/search?q=arunachal+rejects+china) | N/A |
+| 17 | [Amethi](http://twitter.com/search?q=Amethi) | N/A |
+| 18 | [Gagar Me Sagar](http://twitter.com/search?q=Gagar+Me+Sagar) | N/A |
+| 19 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 20 | [पूर्व लोकसभा](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b2%e0%a5%8b%e0%a4%95%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
+| 21 | [सचिन पायलट](http://twitter.com/search?q=%e0%a4%b8%e0%a4%9a%e0%a4%bf%e0%a4%a8+%e0%a4%aa%e0%a4%be%e0%a4%af%e0%a4%b2%e0%a4%9f) | N/A |
+| 22 | [राष्ट्रीय पार्टी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 25 | [बठिंडा मिलिट्री स्टेशन](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a0%e0%a4%bf%e0%a4%82%e0%a4%a1%e0%a4%be+%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
+| 26 | [Wayanad](http://twitter.com/search?q=Wayanad) | N/A |
+| 27 | [श्रीमती सुमित्रा महाजन](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%81%e0%a4%ae%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%9c%e0%a4%a8) | N/A |
+| 28 | [भारत ट्रेन](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%a8) | N/A |
+| 29 | [महाराणा संग्राम सिंह](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 30 | [लालजी टंडन](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a4%9c%e0%a5%80+%e0%a4%9f%e0%a4%82%e0%a4%a1%e0%a4%a8) | N/A |
+| 31 | [flame campaign](http://twitter.com/search?q=flame+campaign) | N/A |
+| 32 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 33 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 34 | [INSAS](http://twitter.com/search?q=INSAS) | N/A |
+| 35 | [Moeen](http://twitter.com/search?q=Moeen) | N/A |
+| 36 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 37 | [Arif](http://twitter.com/search?q=Arif) | N/A |
+| 38 | [दिल्ली कैंट](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%95%e0%a5%88%e0%a4%82%e0%a4%9f) | N/A |
+| 39 | [दिव्या मदेरणा](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a4%a6%e0%a5%87%e0%a4%b0%e0%a4%a3%e0%a4%be) | N/A |
+| 40 | [Jos Buttler](http://twitter.com/search?q=Jos+Buttler) | N/A |
+| 41 | [Rajasthan](http://twitter.com/search?q=Rajasthan) | N/A |
+| 42 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 43 | [Vicky Kaushal Career Drops](http://twitter.com/search?q=Vicky+Kaushal+Career+Drops) | N/A |
+| 44 | [US CPI](http://twitter.com/search?q=US+CPI) | US CPI stands for United States Consumer Price Index. It is an index that measures the average change in prices of goods and services purchased by consumers in the United States. It is used to measure inflation and deflation in the US economy. |
+| 45 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 46 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 47 | [BPSC](http://twitter.com/search?q=BPSC) | N/A |
+| 48 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 49 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 50 | [Ghee](http://twitter.com/search?q=Ghee) | N/A |
 
 
 

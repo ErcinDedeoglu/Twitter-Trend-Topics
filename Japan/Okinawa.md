@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okinawa
 
-📆 Last Updated: `2023-04-12 18:17:52 UTC`
+📆 Last Updated: `2023-04-12 19:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Japan](</Japan>)
 | ------- | ------------ | ------------ |
 | 1 | [#琉球ゴールデンキングス](http://twitter.com/search?q=%23%e7%90%89%e7%90%83%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%82%ad%e3%83%b3%e3%82%b0%e3%82%b9) | N/A |
 | 2 | [クーリー](http://twitter.com/search?q=%e3%82%af%e3%83%bc%e3%83%aa%e3%83%bc) | N/A |
-| 3 | [#それパク](http://twitter.com/search?q=%23%e3%81%9d%e3%82%8c%e3%83%91%e3%82%af) | N/A |
-| 4 | [#わたしのお嫁くん](http://twitter.com/search?q=%23%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e3%81%8a%e5%ab%81%e3%81%8f%e3%82%93) | N/A |
-| 5 | [#推しの子](http://twitter.com/search?q=%23%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | N/A |
-| 6 | [#咲き誇れ23歳の大平祥生](http://twitter.com/search?q=%23%e5%92%b2%e3%81%8d%e8%aa%87%e3%82%8c23%e6%ad%b3%e3%81%ae%e5%a4%a7%e5%b9%b3%e7%a5%a5%e7%94%9f) | N/A |
-| 7 | [北脇さん](http://twitter.com/search?q=%e5%8c%97%e8%84%87%e3%81%95%e3%82%93) | N/A |
-| 8 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
+| 3 | [#スノニューMV](http://twitter.com/search?q=%23%e3%82%b9%e3%83%8e%e3%83%8b%e3%83%a5%e3%83%bcMV) | N/A |
+| 4 | [ナヒーダ](http://twitter.com/search?q=%e3%83%8a%e3%83%92%e3%83%bc%e3%83%80) | N/A |
+| 5 | [#それパク](http://twitter.com/search?q=%23%e3%81%9d%e3%82%8c%e3%83%91%e3%82%af) | N/A |
+| 6 | [#わたしのお嫁くん](http://twitter.com/search?q=%23%e3%82%8f%e3%81%9f%e3%81%97%e3%81%ae%e3%81%8a%e5%ab%81%e3%81%8f%e3%82%93) | N/A |
+| 7 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
+| 8 | [#あなたのオタクタイプ診断](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e3%82%aa%e3%82%bf%e3%82%af%e3%82%bf%e3%82%a4%e3%83%97%e8%a8%ba%e6%96%ad) | "#あなたのオタクタイプ診断" is a hashtag used on social media in Japan. It translates to "Your Otaku Type Diagnosis". It is used to refer to quizzes and tests that are designed to determine what type of otaku (fan) someone is. |
 | 9 | [完全試合](http://twitter.com/search?q=%e5%ae%8c%e5%85%a8%e8%a9%a6%e5%90%88) | 完全試合 is a Japanese term that translates to "full match" in English. It is used to refer to a complete game or match, usually in the context of sports. |
-| 10 | [阿闍梨餅](http://twitter.com/search?q=%e9%98%bf%e9%97%8d%e6%a2%a8%e9%a4%85) | N/A |
-| 11 | [きゅるんきゅる](http://twitter.com/search?q=%e3%81%8d%e3%82%85%e3%82%8b%e3%82%93%e3%81%8d%e3%82%85%e3%82%8b) | N/A |
-| 12 | [ステロイド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
-| 13 | [サトテル](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%83%86%e3%83%ab) | サトテル is a Japanese word that means "to be satisfied". It is often used to express contentment or satisfaction with something. |
-| 14 | [三ツ矢くん](http://twitter.com/search?q=%e4%b8%89%e3%83%84%e7%9f%a2%e3%81%8f%e3%82%93) | N/A |
-| 15 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
-| 16 | [山本くん](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e3%81%8f%e3%82%93) | 山本くん is a Japanese nickname meaning "Mr. Yamamoto". It is often used as a term of endearment for someone named Yamamoto. |
-| 17 | [オルタード](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%82%bf%e3%83%bc%e3%83%89) | N/A |
-| 18 | [オキシジェン](http://twitter.com/search?q=%e3%82%aa%e3%82%ad%e3%82%b7%e3%82%b8%e3%82%a7%e3%83%b3) | N/A |
-| 19 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 20 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 21 | [エスコバー](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%b3%e3%83%90%e3%83%bc) | N/A |
-| 22 | [まりほー](http://twitter.com/search?q=%e3%81%be%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 23 | [融合強兵](http://twitter.com/search?q=%e8%9e%8d%e5%90%88%e5%bc%b7%e5%85%b5) | N/A |
-| 24 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
-| 25 | [おりほー](http://twitter.com/search?q=%e3%81%8a%e3%82%8a%e3%81%bb%e3%83%bc) | N/A |
-| 26 | [岡田監督](http://twitter.com/search?q=%e5%b2%a1%e7%94%b0%e7%9b%a3%e7%9d%a3) | N/A |
-| 27 | [オトコハダマッテナゲルダケ](http://twitter.com/search?q=%e3%82%aa%e3%83%88%e3%82%b3%e3%83%8f%e3%83%80%e3%83%9e%e3%83%83%e3%83%86%e3%83%8a%e3%82%b2%e3%83%ab%e3%83%80%e3%82%b1) | N/A |
-| 28 | [頭部死球](http://twitter.com/search?q=%e9%a0%ad%e9%83%a8%e6%ad%bb%e7%90%83) | N/A |
-| 29 | [真宙くん](http://twitter.com/search?q=%e7%9c%9f%e5%ae%99%e3%81%8f%e3%82%93) | 真宙くん (Shinju-kun) is a Japanese nickname for the character Shinju from the manga series, Kemono Friends. It literally translates to "True Sky Boy" in English. |
-| 30 | [アルモンテ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%a2%e3%83%b3%e3%83%86) | N/A |
-| 31 | [サロメ嬢](http://twitter.com/search?q=%e3%82%b5%e3%83%ad%e3%83%a1%e5%ac%a2) | サロメ嬢 is a Japanese term that refers to a young woman who is considered to be beautiful and attractive. It can also be used to describe someone who is flirtatious or seductive. In English, it could be translated as "bombshell" or "hottie". |
-| 32 | [波瑠ちゃん](http://twitter.com/search?q=%e6%b3%a2%e7%91%a0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 33 | [パーフェクト](http://twitter.com/search?q=%e3%83%91%e3%83%bc%e3%83%95%e3%82%a7%e3%82%af%e3%83%88) | N/A |
-| 34 | [高杉真宙](http://twitter.com/search?q=%e9%ab%98%e6%9d%89%e7%9c%9f%e5%ae%99) | 高杉真宙 (Takasugi Shinsaku) was a Japanese statesman, samurai, and leader of the movement to overthrow the Tokugawa shogunate during the late Edo period. He is considered one of the three great masterminds of the Bakumatsu period, along with Sakamoto Ryōma and Kido Takayoshi. His name is often translated into English as "Shinsaku Takasugi". |
-| 35 | [村上交代](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e4%ba%a4%e4%bb%a3) | N/A |
-| 36 | [リクアワ](http://twitter.com/search?q=%e3%83%aa%e3%82%af%e3%82%a2%e3%83%af) | N/A |
-| 37 | [パロディ](http://twitter.com/search?q=%e3%83%91%e3%83%ad%e3%83%87%e3%82%a3) | N/A |
-| 38 | [キンタロー](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
-| 39 | [ジャニーズ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba) | ジャニーズ is a Japanese talent agency and entertainment production company. It is one of the largest and most successful talent agencies in Japan, representing many popular artists and groups. The name comes from the first two letters of the words "Johnny" and "Associates". |
-| 40 | [ジャムーティー](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%a0%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
-| 41 | [fine-O](http://twitter.com/search?q=fine-O) | N/A |
-| 42 | [浅輪くん](http://twitter.com/search?q=%e6%b5%85%e8%bc%aa%e3%81%8f%e3%82%93) | N/A |
-| 43 | [FC動画](http://twitter.com/search?q=FC%e5%8b%95%e7%94%bb) | FC動画 (FC dōga) is a Japanese term for "Famicom video," referring to videos related to the Nintendo Family Computer (Famicom) console. It can refer to either videos of gameplay or other content related to the console, such as reviews, interviews, and documentaries. |
-| 44 | [しげちゃん](http://twitter.com/search?q=%e3%81%97%e3%81%92%e3%81%a1%e3%82%83%e3%82%93) | しげちゃん is a nickname for the Japanese comedian Shigeo Nagashima. It is derived from his given name, Shigeo, and the suffix -chan, which is used as an affectionate term for someone close to you. In English, it could be translated as "Shigeo-chan". |
-| 45 | [エスキー](http://twitter.com/search?q=%e3%82%a8%e3%82%b9%e3%82%ad%e3%83%bc) | N/A |
-| 46 | [トヨタ語](http://twitter.com/search?q=%e3%83%88%e3%83%a8%e3%82%bf%e8%aa%9e) | N/A |
-| 47 | [村上投手](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e6%8a%95%e6%89%8b) | N/A |
-| 48 | [ナチュビ](http://twitter.com/search?q=%e3%83%8a%e3%83%81%e3%83%a5%e3%83%93) | N/A |
-| 49 | [誰タイプ](http://twitter.com/search?q=%e8%aa%b0%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
-| 50 | [さおりちゃん](http://twitter.com/search?q=%e3%81%95%e3%81%8a%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 10 | [メロンフラペチーノ](http://twitter.com/search?q=%e3%83%a1%e3%83%ad%e3%83%b3%e3%83%95%e3%83%a9%e3%83%9a%e3%83%81%e3%83%bc%e3%83%8e) | N/A |
+| 11 | [ニィロウ](http://twitter.com/search?q=%e3%83%8b%e3%82%a3%e3%83%ad%e3%82%a6) | N/A |
+| 12 | [Cry out](http://twitter.com/search?q=Cry+out) | Cry out is an expression used to describe a loud, sudden shout or call. It is often used to express strong emotion such as fear, surprise, joy, or pain. For example, someone might cry out in surprise when they see something unexpected. |
+| 13 | [黄砂のせい](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 14 | [宇野ちゃん](http://twitter.com/search?q=%e5%ae%87%e9%87%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 15 | [ベーコンポテトパイ](http://twitter.com/search?q=%e3%83%99%e3%83%bc%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%86%e3%83%88%e3%83%91%e3%82%a4) | N/A |
+| 16 | [スタバのメロン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%90%e3%81%ae%e3%83%a1%e3%83%ad%e3%83%b3) | N/A |
+| 17 | [ステロイド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
+| 18 | [阿闍梨餅](http://twitter.com/search?q=%e9%98%bf%e9%97%8d%e6%a2%a8%e9%a4%85) | N/A |
+| 19 | [アルモンテ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%a2%e3%83%b3%e3%83%86) | N/A |
+| 20 | [アキーノ](http://twitter.com/search?q=%e3%82%a2%e3%82%ad%e3%83%bc%e3%83%8e) | N/A |
+| 21 | [北脇さん](http://twitter.com/search?q=%e5%8c%97%e8%84%87%e3%81%95%e3%82%93) | N/A |
+| 22 | [ビシエド](http://twitter.com/search?q=%e3%83%93%e3%82%b7%e3%82%a8%e3%83%89) | N/A |
+| 23 | [黄砂の影響](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e5%bd%b1%e9%9f%bf) | N/A |
+| 24 | [見守り型](http://twitter.com/search?q=%e8%a6%8b%e5%ae%88%e3%82%8a%e5%9e%8b) | 見守り型 (Mimamori-gata) is a Japanese term that refers to a type of monitoring system. It is used to refer to systems that monitor and track the health and safety of people, such as elderly people living alone or those with disabilities. The system can be used to detect changes in behavior or health, alerting caregivers or family members if something is wrong. In English, it can be translated as "monitoring system". |
+| 25 | [熱愛報道](http://twitter.com/search?q=%e7%86%b1%e6%84%9b%e5%a0%b1%e9%81%93) | 熱愛報道 is a Japanese term that refers to news reports about celebrity couples who are in a romantic relationship. It literally translates to "hot love report". |
+| 26 | [村上くん](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e3%81%8f%e3%82%93) | 村上くん is a Japanese nickname for Murakami, a popular Japanese author. It literally translates to "Mr. Murakami". |
+| 27 | [どらほー](http://twitter.com/search?q=%e3%81%a9%e3%82%89%e3%81%bb%e3%83%bc) | N/A |
+| 28 | [推しの幸せ](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%b9%b8%e3%81%9b) | 推しの幸せ is a Japanese phrase that literally translates to "happiness of one's favorite". It is used to refer to the joy and satisfaction one feels when their favorite celebrity, artist, or other public figure succeeds or achieves something. |
+| 29 | [ユニット曲](http://twitter.com/search?q=%e3%83%a6%e3%83%8b%e3%83%83%e3%83%88%e6%9b%b2) | N/A |
+| 30 | [オルタード](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%82%bf%e3%83%bc%e3%83%89) | N/A |
+| 31 | [原神アプデ](http://twitter.com/search?q=%e5%8e%9f%e7%a5%9e%e3%82%a2%e3%83%97%e3%83%87) | N/A |
+| 32 | [生首ヘアゴム](http://twitter.com/search?q=%e7%94%9f%e9%a6%96%e3%83%98%e3%82%a2%e3%82%b4%e3%83%a0) | N/A |
+| 33 | [量産型オタク](http://twitter.com/search?q=%e9%87%8f%e7%94%a3%e5%9e%8b%e3%82%aa%e3%82%bf%e3%82%af) | 量産型オタク is a Japanese term that refers to someone who is an obsessive fan of a particular genre or type of media, such as anime, manga, or video games. It literally translates to "mass-produced otaku," implying that these fans are not unique or special in any way. |
+| 34 | [本屋大賞](http://twitter.com/search?q=%e6%9c%ac%e5%b1%8b%e5%a4%a7%e8%b3%9e) | N/A |
+| 35 | [チー牛型](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e7%89%9b%e5%9e%8b) | チー牛型 (Chii-gyuukata) is a type of Japanese beef cattle. It is a crossbreed between the Japanese Black and Japanese Brown breeds, and is known for its high quality marbling and tenderness. In English, it can be translated as "Chii-gyu Cattle". |
+| 36 | [サトテル](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%83%86%e3%83%ab) | サトテル is a Japanese word that means "to be satisfied". It is often used to express contentment or satisfaction with something. |
+| 37 | [三色チーズ牛丼の特盛](http://twitter.com/search?q=%e4%b8%89%e8%89%b2%e3%83%81%e3%83%bc%e3%82%ba%e7%89%9b%e4%b8%bc%e3%81%ae%e7%89%b9%e7%9b%9b) | 三色チーズ牛丼の特盛 is a type of Japanese dish. It is a bowl of rice topped with beef, three types of cheese, and a special sauce. In English, it would be called "Triple Cheese Beef Bowl Special". |
+| 38 | [ザ・陰キャ](http://twitter.com/search?q=%e3%82%b6%e3%83%bb%e9%99%b0%e3%82%ad%e3%83%a3) | ザ・陰キャ is a Japanese slang term that literally translates to "the shady character." It is used to describe someone who is suspicious or untrustworthy. |
+| 39 | [温玉付き](http://twitter.com/search?q=%e6%b8%a9%e7%8e%89%e4%bb%98%e3%81%8d) | 温玉付き is a Japanese phrase that literally translates to "with warm balls". It is used to describe a type of food or drink that is served with hot, cooked balls of rice, usually in a soup or broth. In English, it could be translated as "served with hot rice balls". |
+| 40 | [汝、星のごとく](http://twitter.com/search?q=%e6%b1%9d%e3%80%81%e6%98%9f%e3%81%ae%e3%81%94%e3%81%a8%e3%81%8f) | N/A |
+| 41 | [パーフェクト](http://twitter.com/search?q=%e3%83%91%e3%83%bc%e3%83%95%e3%82%a7%e3%82%af%e3%83%88) | N/A |
+| 42 | [メンデス](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
+| 43 | [️変人度テスト](http://twitter.com/search?q=%ef%b8%8f%e5%a4%89%e4%ba%ba%e5%ba%a6%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 44 | [ホラー映画キャラ](http://twitter.com/search?q=%e3%83%9b%e3%83%a9%e3%83%bc%e6%98%a0%e7%94%bb%e3%82%ad%e3%83%a3%e3%83%a9) | N/A |
+| 45 | [誰タイプ](http://twitter.com/search?q=%e8%aa%b0%e3%82%bf%e3%82%a4%e3%83%97) | N/A |
+| 46 | [岡田監督](http://twitter.com/search?q=%e5%b2%a1%e7%94%b0%e7%9b%a3%e7%9d%a3) | N/A |
+| 47 | [氷少なめ](http://twitter.com/search?q=%e6%b0%b7%e5%b0%91%e3%81%aa%e3%82%81) | N/A |
+| 48 | [新マップ](http://twitter.com/search?q=%e6%96%b0%e3%83%9e%e3%83%83%e3%83%97) | N/A |
+| 49 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
+| 50 | [カラレス](http://twitter.com/search?q=%e3%82%ab%e3%83%a9%e3%83%ac%e3%82%b9) | N/A |
 
 
 

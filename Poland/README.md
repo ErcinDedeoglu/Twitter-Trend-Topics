@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-12 18:18:07 UTC`
+📆 Last Updated: `2023-04-12 19:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [#5sosgliwice](http://twitter.com/search?q=%235sosgliwice) | N/A |
 | 2 | [#RobalewChlebie](http://twitter.com/search?q=%23RobalewChlebie) | N/A |
-| 3 | [#otpwarszawa](http://twitter.com/search?q=%23otpwarszawa) | N/A |
-| 4 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
+| 3 | [#OszukaniRolnicy](http://twitter.com/search?q=%23OszukaniRolnicy) | N/A |
+| 4 | [#otpwarszawa](http://twitter.com/search?q=%23otpwarszawa) | N/A |
 | 5 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 6 | [Jacek Kurski](http://twitter.com/search?q=Jacek+Kurski) | N/A |
 | 7 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for Poland
 | 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 10 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 11 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 12 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
-| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 12 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 13 | [Kierowca](http://twitter.com/search?q=Kierowca) | N/A |
 | 14 | [Sakowskiego](http://twitter.com/search?q=Sakowskiego) | N/A |
 | 15 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 16 | [Kierowca](http://twitter.com/search?q=Kierowca) | N/A |
-| 17 | [Rzepa](http://twitter.com/search?q=Rzepa) | N/A |
-| 18 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
+| 16 | [Rzepy](http://twitter.com/search?q=Rzepy) | N/A |
+| 17 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
+| 18 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
 | 19 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
-| 20 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
-| 21 | [Rzepie](http://twitter.com/search?q=Rzepie) | N/A |
-| 22 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
-| 23 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 24 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
-| 25 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 27 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 28 | [Krośnie](http://twitter.com/search?q=Kro%c5%9bnie) | N/A |
-| 29 | [tuchela](http://twitter.com/search?q=tuchela) | N/A |
-| 30 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
-| 31 | [Liga Mistrzów](http://twitter.com/search?q=Liga+Mistrz%c3%b3w) | N/A |
-| 32 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 33 | [Płyta](http://twitter.com/search?q=P%c5%82yta) | N/A |
-| 34 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 35 | [arabski](http://twitter.com/search?q=arabski) | N/A |
-| 36 | [Lasy](http://twitter.com/search?q=Lasy) | N/A |
-| 37 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 38 | [Bellinghama](http://twitter.com/search?q=Bellinghama) | N/A |
-| 39 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
-| 40 | [SolPol](http://twitter.com/search?q=SolPol) | N/A |
-| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 42 | [Rzeczpospolitej](http://twitter.com/search?q=Rzeczpospolitej) | N/A |
-| 43 | [Harris](http://twitter.com/search?q=Harris) | N/A |
-| 44 | [Hrubieszowie](http://twitter.com/search?q=Hrubieszowie) | N/A |
-| 45 | [Budapesztu](http://twitter.com/search?q=Budapesztu) | N/A |
-| 46 | [Dalajlama](http://twitter.com/search?q=Dalajlama) | N/A |
-| 47 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
-| 48 | [Dzień Czekolady](http://twitter.com/search?q=Dzie%c5%84+Czekolady) | N/A |
-| 49 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 50 | [Francja](http://twitter.com/search?q=Francja) | N/A |
+| 20 | [Rzepie](http://twitter.com/search?q=Rzepie) | N/A |
+| 21 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 22 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 23 | [SolPol](http://twitter.com/search?q=SolPol) | N/A |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 26 | [manchesterze](http://twitter.com/search?q=manchesterze) | N/A |
+| 27 | [Liga Mistrzów](http://twitter.com/search?q=Liga+Mistrz%c3%b3w) | N/A |
+| 28 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 29 | [Płyta](http://twitter.com/search?q=P%c5%82yta) | N/A |
+| 30 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Smoleńsku](http://twitter.com/search?q=Smole%c5%84sku) | N/A |
+| 33 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 34 | [arabski](http://twitter.com/search?q=arabski) | N/A |
+| 35 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 36 | [Bellinghama](http://twitter.com/search?q=Bellinghama) | N/A |
+| 37 | [Dzień Czekolady](http://twitter.com/search?q=Dzie%c5%84+Czekolady) | N/A |
+| 38 | [Lasy](http://twitter.com/search?q=Lasy) | N/A |
+| 39 | [Harris](http://twitter.com/search?q=Harris) | N/A |
+| 40 | [Hrubieszowie](http://twitter.com/search?q=Hrubieszowie) | N/A |
+| 41 | [Budapesztu](http://twitter.com/search?q=Budapesztu) | N/A |
+| 42 | [Sasin](http://twitter.com/search?q=Sasin) | N/A |
+| 43 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 44 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 45 | [Robaki](http://twitter.com/search?q=Robaki) | N/A |
+| 46 | [Soboń](http://twitter.com/search?q=Sobo%c5%84) | N/A |
+| 47 | [Pucharu Polski](http://twitter.com/search?q=Pucharu+Polski) | N/A |
+| 48 | [Kowalczyk](http://twitter.com/search?q=Kowalczyk) | N/A |
+| 49 | [łęcznej](http://twitter.com/search?q=%c5%82%c4%99cznej) | N/A |
+| 50 | [Tajwan](http://twitter.com/search?q=Tajwan) | N/A |
 
 
 

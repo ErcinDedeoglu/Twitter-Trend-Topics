@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-12 18:18:06 UTC`
+📆 Last Updated: `2023-04-12 19:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,32 +33,32 @@ This is top 50 for New Zealand
 | 16 | [North](http://twitter.com/search?q=North) | N/A |
 | 17 | [#toomanycows](http://twitter.com/search?q=%23toomanycows) | N/A |
 | 18 | [christopher luxon](http://twitter.com/search?q=christopher+luxon) | N/A |
-| 19 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 19 | [NZers](http://twitter.com/search?q=NZers) | N/A |
 | 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 21 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 22 | [Council](http://twitter.com/search?q=Council) | N/A |
 | 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 24 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
-| 25 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
-| 26 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
-| 27 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
-| 28 | [aucklanders](http://twitter.com/search?q=aucklanders) | N/A |
-| 29 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
+| 25 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
+| 26 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
+| 27 | [aucklanders](http://twitter.com/search?q=aucklanders) | N/A |
+| 28 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
+| 29 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 30 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 31 | [the spinoff](http://twitter.com/search?q=the+spinoff) | N/A |
-| 32 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 34 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 35 | [Finn](http://twitter.com/search?q=Finn) | N/A |
-| 36 | [te reo](http://twitter.com/search?q=te+reo) | N/A |
-| 37 | [business nz](http://twitter.com/search?q=business+nz) | N/A |
-| 38 | [democracy nz](http://twitter.com/search?q=democracy+nz) | N/A |
-| 39 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 40 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 42 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
-| 43 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 44 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 31 | [simeon](http://twitter.com/search?q=simeon) | N/A |
+| 32 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 33 | [Finn](http://twitter.com/search?q=Finn) | N/A |
+| 34 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
+| 35 | [te reo](http://twitter.com/search?q=te+reo) | N/A |
+| 36 | [business nz](http://twitter.com/search?q=business+nz) | N/A |
+| 37 | [democracy nz](http://twitter.com/search?q=democracy+nz) | N/A |
+| 38 | [Tate](http://twitter.com/search?q=Tate) | N/A |
+| 39 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
+| 42 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 43 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 44 | [The Spinoff](http://twitter.com/search?q=The+Spinoff) | N/A |
 | 45 | [Spot](http://twitter.com/search?q=Spot) | N/A |
 | 46 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
 | 47 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |

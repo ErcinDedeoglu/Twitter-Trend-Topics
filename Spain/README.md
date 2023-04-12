@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-12 18:18:08 UTC`
+📆 Last Updated: `2023-04-12 19:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Solos12A](http://twitter.com/search?q=%23Solos12A) | N/A |
-| 2 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 3 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
-| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 5 | [#LaCasaDelFútbol](http://twitter.com/search?q=%23LaCasaDelF%c3%batbol) | N/A |
-| 6 | [#EsperanzaDeIndias](http://twitter.com/search?q=%23EsperanzaDeIndias) | N/A |
-| 7 | [#CrisPorta12A](http://twitter.com/search?q=%23CrisPorta12A) | N/A |
-| 8 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Batet](http://twitter.com/search?q=Batet) | N/A |
-| 11 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 12 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
-| 13 | [La APM](http://twitter.com/search?q=La+APM) | N/A |
-| 14 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
-| 15 | [Roig](http://twitter.com/search?q=Roig) | N/A |
-| 16 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 18 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
-| 19 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 20 | [Ana Rosa Quintana](http://twitter.com/search?q=Ana+Rosa+Quintana) | N/A |
-| 21 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 22 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 23 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
-| 24 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
-| 25 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 26 | [Inda](http://twitter.com/search?q=Inda) | N/A |
-| 27 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
-| 28 | [461 X](http://twitter.com/search?q=461+X) | N/A |
-| 29 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 30 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
-| 31 | [Ferreras](http://twitter.com/search?q=Ferreras) | N/A |
-| 32 | [Viernes 14](http://twitter.com/search?q=Viernes+14) | N/A |
-| 33 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
-| 34 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 35 | [Sábado 15](http://twitter.com/search?q=S%c3%a1bado+15) | N/A |
-| 36 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 37 | [#LaPromesa](http://twitter.com/search?q=%23LaPromesa) | N/A |
-| 38 | [#AtenciónPrimaria](http://twitter.com/search?q=%23Atenci%c3%b3nPrimaria) | N/A |
-| 39 | [#YoMeRebelo12A](http://twitter.com/search?q=%23YoMeRebelo12A) | N/A |
-| 40 | [#APOYOROCIO12A](http://twitter.com/search?q=%23APOYOROCIO12A) | N/A |
-| 41 | [#sanidad](http://twitter.com/search?q=%23sanidad) | N/A |
-| 42 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 43 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 44 | [#SolosPortaYFrigenti](http://twitter.com/search?q=%23SolosPortaYFrigenti) | N/A |
-| 45 | [#empresas](http://twitter.com/search?q=%23empresas) | N/A |
-| 46 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
-| 47 | [#innovación](http://twitter.com/search?q=%23innovaci%c3%b3n) | N/A |
-| 48 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
+| 1 | [#TierraDeNadie6](http://twitter.com/search?q=%23TierraDeNadie6) | N/A |
+| 2 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 3 | [#Solos12A](http://twitter.com/search?q=%23Solos12A) | N/A |
+| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 5 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 7 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 8 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 9 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 10 | [#DeCampingConLidl](http://twitter.com/search?q=%23DeCampingConLidl) | N/A |
+| 11 | [Hacienda](http://twitter.com/search?q=Hacienda) | Hacienda is a Spanish word that refers to a large estate or plantation, typically one that is owned by a family. It can also refer to the main house on the estate, which is usually grand and luxurious. In English, it is often used to refer to a ranch or estate with an agricultural focus. |
+| 12 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 13 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 15 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 16 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 17 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
+| 18 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 19 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 20 | [Batet](http://twitter.com/search?q=Batet) | N/A |
+| 21 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
+| 22 | [461 X](http://twitter.com/search?q=461+X) | N/A |
+| 23 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 24 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 25 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 26 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 27 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 29 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 31 | [Dragó](http://twitter.com/search?q=Drag%c3%b3) | N/A |
+| 32 | [American Psycho](http://twitter.com/search?q=American+Psycho) | N/A |
+| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 34 | [Ceuta y Melilla](http://twitter.com/search?q=Ceuta+y+Melilla) | N/A |
+| 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 36 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 39 | [El CO2](http://twitter.com/search?q=El+CO2) | N/A |
+| 40 | [La APM](http://twitter.com/search?q=La+APM) | N/A |
+| 41 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 42 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 43 | [Carla Antonelli](http://twitter.com/search?q=Carla+Antonelli) | N/A |
+| 44 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 45 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
+| 46 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 47 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 48 | [Pedro Águeda](http://twitter.com/search?q=Pedro+%c3%81gueda) | N/A |
+| 49 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
+| 50 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 
 
 
