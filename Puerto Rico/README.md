@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puerto Rico
 
-📆 Last Updated: `2023-04-11 23:17:17 UTC`
+📆 Last Updated: `2023-04-12 00:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Puerto Rico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 3 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
-| 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 6 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
-| 7 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 8 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 9 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 10 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
-| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 12 | [Gaddis](http://twitter.com/search?q=Gaddis) | N/A |
-| 13 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 14 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
-| 15 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 16 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 18 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 19 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
-| 20 | [Gym Jordan](http://twitter.com/search?q=Gym+Jordan) | Gym Jordan is a term used to describe someone who is very dedicated to their fitness and exercise routine. It is derived from the basketball legend Michael Jordan, who was known for his intense work ethic and dedication to the game. The phrase implies that the person in question puts in as much effort into their fitness as Michael Jordan did into his basketball career. |
-| 21 | [Wrongfully](http://twitter.com/search?q=Wrongfully) | N/A |
-| 22 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 23 | [Pavel Zacha](http://twitter.com/search?q=Pavel+Zacha) | N/A |
-| 24 | [Prime Dwight](http://twitter.com/search?q=Prime+Dwight) | N/A |
-| 25 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 26 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 27 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
-| 28 | [Justin Simmons](http://twitter.com/search?q=Justin+Simmons) | Justin Simmons is a name. It does not have a specific meaning in English. |
-| 29 | [DA Bragg](http://twitter.com/search?q=DA+Bragg) | N/A |
-| 30 | [Willie Calhoun](http://twitter.com/search?q=Willie+Calhoun) | N/A |
-| 31 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 32 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 33 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 34 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 35 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 36 | [King Tuck](http://twitter.com/search?q=King+Tuck) | N/A |
-| 37 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 39 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 40 | [Bivol](http://twitter.com/search?q=Bivol) | Bivol is a Bulgarian word meaning "buffalo". It is also the name of a Bulgarian folklore character, who is said to be a wise and powerful creature. |
-| 41 | [Ruben Dias](http://twitter.com/search?q=Ruben+Dias) | N/A |
-| 42 | [Stephen Miller](http://twitter.com/search?q=Stephen+Miller) | N/A |
-| 43 | [Tom Sandoval](http://twitter.com/search?q=Tom+Sandoval) | N/A |
-| 44 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 45 | [Howie Mandel](http://twitter.com/search?q=Howie+Mandel) | N/A |
-| 46 | [Alex Bregman](http://twitter.com/search?q=Alex+Bregman) | N/A |
-| 47 | [Malik Hall](http://twitter.com/search?q=Malik+Hall) | N/A |
-| 48 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 49 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 50 | [Howard Stern](http://twitter.com/search?q=Howard+Stern) | N/A |
+| 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 2 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
+| 3 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 4 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 5 | [Kyle Lowry](http://twitter.com/search?q=Kyle+Lowry) | N/A |
+| 6 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
+| 7 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
+| 8 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 9 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
+| 10 | [Aaron Nola](http://twitter.com/search?q=Aaron+Nola) | N/A |
+| 11 | [#NationalPetDay](http://twitter.com/search?q=%23NationalPetDay) | N/A |
+| 12 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 13 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 14 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 15 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 16 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 18 | [Lance Lynn](http://twitter.com/search?q=Lance+Lynn) | N/A |
+| 19 | [Whitlock](http://twitter.com/search?q=Whitlock) | N/A |
+| 20 | [Wesneski](http://twitter.com/search?q=Wesneski) | N/A |
+| 21 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
+| 22 | [Jalen Johnson](http://twitter.com/search?q=Jalen+Johnson) | N/A |
+| 23 | [Cenk](http://twitter.com/search?q=Cenk) | Cenk is a Turkish name derived from the word "genç" which means "youthful". It is also used as a nickname for people named Cengiz, meaning "strong one". |
+| 24 | [Jim Jordan](http://twitter.com/search?q=Jim+Jordan) | Jim Jordan is a Republican politician from Ohio who has served in the United States House of Representatives since 2007. He is a member of the conservative Freedom Caucus and is currently the ranking member of the House Oversight Committee. The phrase "Jim Jordan" is used to refer to his political career and views. |
+| 25 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 26 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 27 | [Manoah](http://twitter.com/search?q=Manoah) | N/A |
+| 28 | [Gaddis](http://twitter.com/search?q=Gaddis) | N/A |
+| 29 | [Kyle Wright](http://twitter.com/search?q=Kyle+Wright) | N/A |
+| 30 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 31 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 32 | [Gerrit Cole](http://twitter.com/search?q=Gerrit+Cole) | N/A |
+| 33 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 34 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
+| 35 | [Weathers](http://twitter.com/search?q=Weathers) | N/A |
+| 36 | [Wrongfully](http://twitter.com/search?q=Wrongfully) | N/A |
+| 37 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 38 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 39 | [Connor Wong](http://twitter.com/search?q=Connor+Wong) | N/A |
+| 40 | [Grayson Rodriguez](http://twitter.com/search?q=Grayson+Rodriguez) | N/A |
+| 41 | [Nick Maton](http://twitter.com/search?q=Nick+Maton) | N/A |
+| 42 | [Dale Arnold](http://twitter.com/search?q=Dale+Arnold) | N/A |
+| 43 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
+| 44 | [Justin Simmons](http://twitter.com/search?q=Justin+Simmons) | Justin Simmons is a name. It does not have a specific meaning in English. |
+| 45 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 46 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
+| 47 | [McClanahan](http://twitter.com/search?q=McClanahan) | N/A |
+| 48 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 49 | [Matt Carpenter](http://twitter.com/search?q=Matt+Carpenter) | N/A |
+| 50 | [Byron Buxton](http://twitter.com/search?q=Byron+Buxton) | N/A |
 
 
 

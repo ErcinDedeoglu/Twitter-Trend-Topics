@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-04-11 23:16:31 UTC`
+📆 Last Updated: `2023-04-12 00:27:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#NoPudieronNiPodrán](http://twitter.com/search?q=%23NoPudieronNiPodr%c3%a1n) | N/A |
 | 3 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 4 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 5 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 9 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 10 | [#EsteEsMiPaís](http://twitter.com/search?q=%23EsteEsMiPa%c3%ads) | N/A |
-| 11 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 12 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 14 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 15 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 16 | [#VINOTINTOSUB17xMTV](http://twitter.com/search?q=%23VINOTINTOSUB17xMTV) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
-| 19 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 20 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
-| 21 | [Hace 21](http://twitter.com/search?q=Hace+21) | N/A |
-| 22 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 23 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 26 | [Mamón](http://twitter.com/search?q=Mam%c3%b3n) | N/A |
-| 27 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 28 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 29 | [Pido Lido](http://twitter.com/search?q=Pido+Lido) | N/A |
-| 30 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 31 | [Toddy](http://twitter.com/search?q=Toddy) | N/A |
-| 32 | [Batalla de San Félix](http://twitter.com/search?q=Batalla+de+San+F%c3%a9lix) | N/A |
-| 33 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 34 | [Zelle](http://twitter.com/search?q=Zelle) | N/A |
-| 35 | [El 11](http://twitter.com/search?q=El+11) | N/A |
-| 36 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 37 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 38 | [Daniel Sarcos](http://twitter.com/search?q=Daniel+Sarcos) | N/A |
-| 39 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 40 | [Puente Llaguno](http://twitter.com/search?q=Puente+Llaguno) | N/A |
-| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 42 | [Lupita Ferrer](http://twitter.com/search?q=Lupita+Ferrer) | N/A |
+| 5 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 6 | [#EsteEsMiPaís](http://twitter.com/search?q=%23EsteEsMiPa%c3%ads) | N/A |
+| 7 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 8 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 9 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 10 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
+| 11 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
+| 12 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 13 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 14 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 15 | [Hace 21](http://twitter.com/search?q=Hace+21) | N/A |
+| 16 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 17 | [Hugo Chávez](http://twitter.com/search?q=Hugo+Ch%c3%a1vez) | N/A |
+| 18 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 19 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 21 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 22 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 23 | [Mirla Castellanos](http://twitter.com/search?q=Mirla+Castellanos) | N/A |
+| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 26 | [Batalla de San Félix](http://twitter.com/search?q=Batalla+de+San+F%c3%a9lix) | N/A |
+| 27 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 28 | [El 11](http://twitter.com/search?q=El+11) | N/A |
+| 29 | [Mamón](http://twitter.com/search?q=Mam%c3%b3n) | N/A |
+| 30 | [Daniel Sarcos](http://twitter.com/search?q=Daniel+Sarcos) | N/A |
+| 31 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 32 | [Arango](http://twitter.com/search?q=Arango) | N/A |
+| 33 | [Toddy](http://twitter.com/search?q=Toddy) | N/A |
+| 34 | [Puente Llaguno](http://twitter.com/search?q=Puente+Llaguno) | N/A |
+| 35 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 36 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 37 | [Lupita Ferrer](http://twitter.com/search?q=Lupita+Ferrer) | N/A |
+| 38 | [Provincia de Guayana](http://twitter.com/search?q=Provincia+de+Guayana) | N/A |
+| 39 | [Campaña de Guayana](http://twitter.com/search?q=Campa%c3%b1a+de+Guayana) | N/A |
+| 40 | [Raquel Castaños](http://twitter.com/search?q=Raquel+Casta%c3%b1os) | N/A |
+| 41 | [Pido Lido](http://twitter.com/search?q=Pido+Lido) | N/A |
+| 42 | [Reserve](http://twitter.com/search?q=Reserve) | N/A |
 | 43 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
-| 44 | [Provincia de Guayana](http://twitter.com/search?q=Provincia+de+Guayana) | N/A |
-| 45 | [Campaña de Guayana](http://twitter.com/search?q=Campa%c3%b1a+de+Guayana) | N/A |
-| 46 | [Reserve](http://twitter.com/search?q=Reserve) | N/A |
-| 47 | [Banco Nacional de Descuento](http://twitter.com/search?q=Banco+Nacional+de+Descuento) | N/A |
-| 48 | [Raquel Castaños](http://twitter.com/search?q=Raquel+Casta%c3%b1os) | N/A |
+| 44 | [Zelle](http://twitter.com/search?q=Zelle) | N/A |
+| 45 | [Baduel](http://twitter.com/search?q=Baduel) | N/A |
+| 46 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 47 | [Cichero](http://twitter.com/search?q=Cichero) | N/A |
+| 48 | [PROHIBIDO OLVIDAR](http://twitter.com/search?q=PROHIBIDO+OLVIDAR) | N/A |
 | 49 | [Edecio](http://twitter.com/search?q=Edecio) | N/A |
 
 

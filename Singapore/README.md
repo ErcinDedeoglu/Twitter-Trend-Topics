@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-11 23:17:17 UTC`
+📆 Last Updated: `2023-04-12 00:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for Singapore
 | 2 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 3 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
 | 4 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 5 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 5 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 6 | [#BillboardXenophobic](http://twitter.com/search?q=%23BillboardXenophobic) | N/A |
-| 7 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 8 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 9 | [#essay代写](http://twitter.com/search?q=%23essay%e4%bb%a3%e5%86%99) | N/A |
-| 10 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 11 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 7 | [#essay代写](http://twitter.com/search?q=%23essay%e4%bb%a3%e5%86%99) | N/A |
+| 8 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 9 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 10 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 11 | [youngk](http://twitter.com/search?q=youngk) | N/A |
 | 12 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
 | 13 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 14 | [youngk](http://twitter.com/search?q=youngk) | N/A |
-| 15 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 16 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 18 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 21 | [Logan](http://twitter.com/search?q=Logan) | N/A |
-| 22 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
-| 23 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 14 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 15 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 16 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 17 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 19 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [Logan](http://twitter.com/search?q=Logan) | N/A |
+| 23 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
 | 24 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
 | 25 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
-| 26 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 27 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 29 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 30 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 31 | [singaporeans](http://twitter.com/search?q=singaporeans) | N/A |
-| 32 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
-| 33 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 34 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
-| 35 | [Leon](http://twitter.com/search?q=Leon) | N/A |
-| 36 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 37 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
-| 38 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 39 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 41 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
-| 42 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 43 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 44 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 45 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 46 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 47 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 26 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 27 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 28 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 29 | [jihoon](http://twitter.com/search?q=jihoon) | N/A |
+| 30 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 31 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
+| 32 | [singaporeans](http://twitter.com/search?q=singaporeans) | N/A |
+| 33 | [Ahhhh](http://twitter.com/search?q=Ahhhh) | N/A |
+| 34 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 35 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
+| 36 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 37 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 38 | [Demon Slayer](http://twitter.com/search?q=Demon+Slayer) | N/A |
+| 39 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 40 | [South Korea](http://twitter.com/search?q=South+Korea) | N/A |
+| 41 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 42 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 43 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 44 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
+| 45 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 46 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 48 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
 | 49 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 50 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |

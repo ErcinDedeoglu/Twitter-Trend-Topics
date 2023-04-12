@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-11 23:17:16 UTC`
+📆 Last Updated: `2023-04-12 00:28:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Peru
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 2 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 1 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 3 | [#YudithMalamudEstafadora](http://twitter.com/search?q=%23YudithMalamudEstafadora) | N/A |
-| 4 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 5 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
+| 4 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
+| 5 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
 | 6 | [Richard Acuña](http://twitter.com/search?q=Richard+Acu%c3%b1a) | N/A |
-| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 8 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
-| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 10 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 11 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 10 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
+| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 13 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 14 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 15 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 16 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
-| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 18 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 19 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
-| 20 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 21 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 23 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
-| 24 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 25 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 26 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
-| 27 | [Pirata](http://twitter.com/search?q=Pirata) | N/A |
-| 28 | [Job 17](http://twitter.com/search?q=Job+17) | N/A |
-| 29 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 30 | [Camila Ganoza](http://twitter.com/search?q=Camila+Ganoza) | N/A |
-| 31 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 32 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 33 | [Universidad Alas Peruanas](http://twitter.com/search?q=Universidad+Alas+Peruanas) | N/A |
-| 34 | [Diego Elías](http://twitter.com/search?q=Diego+El%c3%adas) | N/A |
+| 14 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 15 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
+| 16 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 17 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 18 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 19 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 20 | [Roberto Sánchez](http://twitter.com/search?q=Roberto+S%c3%a1nchez) | N/A |
+| 21 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
+| 22 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 23 | [Ethel](http://twitter.com/search?q=Ethel) | N/A |
+| 24 | [Pirata](http://twitter.com/search?q=Pirata) | N/A |
+| 25 | [Job 17](http://twitter.com/search?q=Job+17) | N/A |
+| 26 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 27 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 28 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 29 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 30 | [Universidad Alas Peruanas](http://twitter.com/search?q=Universidad+Alas+Peruanas) | N/A |
+| 31 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 32 | [Camila Ganoza](http://twitter.com/search?q=Camila+Ganoza) | N/A |
+| 33 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 34 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 35 | [Katy Ugarte](http://twitter.com/search?q=Katy+Ugarte) | N/A |
-| 36 | [Ampay](http://twitter.com/search?q=Ampay) | N/A |
-| 37 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
-| 38 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 39 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 40 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
-| 41 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 42 | [Alejandro Villanueva](http://twitter.com/search?q=Alejandro+Villanueva) | N/A |
-| 43 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
-| 44 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 45 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 46 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 47 | [AFPs](http://twitter.com/search?q=AFPs) | N/A |
-| 48 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
+| 36 | [ampay](http://twitter.com/search?q=ampay) | N/A |
+| 37 | [chorri](http://twitter.com/search?q=chorri) | N/A |
+| 38 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
+| 39 | [Diego Elías](http://twitter.com/search?q=Diego+El%c3%adas) | N/A |
+| 40 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 41 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 42 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
+| 43 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 44 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 45 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 46 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 47 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 48 | [Alejandro Villanueva](http://twitter.com/search?q=Alejandro+Villanueva) | N/A |
 | 49 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 50 | [Osores](http://twitter.com/search?q=Osores) | N/A |
+| 50 | [AFPs](http://twitter.com/search?q=AFPs) | N/A |
 
 
 

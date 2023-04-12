@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-11 23:16:41 UTC`
+📆 Last Updated: `2023-04-12 00:28:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 3 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 5 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 9 | [Session](http://twitter.com/search?q=Session) | N/A |
+| 4 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
+| 7 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 8 | [Session](http://twitter.com/search?q=Session) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 10 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
 | 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 12 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 43 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
 | 44 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
 | 45 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 46 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 47 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 48 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 46 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 47 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 48 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
 
 
 

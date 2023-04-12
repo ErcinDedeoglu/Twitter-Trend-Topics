@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-11 23:17:18 UTC`
+📆 Last Updated: `2023-04-12 00:28:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,21 +15,21 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 3 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 4 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 5 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 9 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 4 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
+| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 9 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 10 | [Session](http://twitter.com/search?q=Session) | N/A |
-| 11 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 12 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 13 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 14 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 15 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 13 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 14 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 15 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
 | 16 | [Alltag](http://twitter.com/search?q=Alltag) | N/A |
 | 17 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
 | 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
@@ -62,9 +62,9 @@ This is top 50 for Switzerland
 | 45 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
 | 46 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
 | 47 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 48 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 49 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
-| 50 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
+| 48 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 49 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 50 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
 
 
 

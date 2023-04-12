@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-04-11 23:16:54 UTC`
+📆 Last Updated: `2023-04-12 00:28:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#سفر_برلك](http://twitter.com/search?q=%23%d8%b3%d9%81%d8%b1_%d8%a8%d8%b1%d9%84%d9%83) | N/A |
-| 2 | [الشوط الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | الشوط الاول is an Arabic phrase that translates to "the first round" or "the first stage". It is often used to refer to the beginning of a process or competition. |
-| 3 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 4 | [كارلوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%84%d9%88%d8%b3) | كارلوس is a male given name of Greek origin. It is derived from the name Καρλος (Karlos), which is a form of the Latin name Carolus, meaning "manly". In English, it is usually translated as "Charles". |
-| 5 | [#فوازير_غازي_الذيابي10](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ba%d8%a7%d8%b2%d9%8a_%d8%a7%d9%84%d8%b0%d9%8a%d8%a7%d8%a8%d9%8a10) | N/A |
-| 6 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 7 | [العشر المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 8 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
-| 9 | [الطبقه الغنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d9%86%d9%8a%d9%87) | N/A |
-| 10 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 11 | [#رمضان_مع_ابوفهد10](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af10) | N/A |
-| 12 | [#عيديتك_قبل_الكل_مع_AOSMINI](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d8%aa%d9%83_%d9%82%d8%a8%d9%84_%d8%a7%d9%84%d9%83%d9%84_%d9%85%d8%b9_AOSMINI) | N/A |
-| 13 | [#ليله_21](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_21) | N/A |
-| 14 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 15 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 16 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
-| 17 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
-| 18 | [هالاند الثالث](http://twitter.com/search?q=%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
-| 19 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
-| 20 | [تركي العمار](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d8%b1) | N/A |
-| 21 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 22 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
-| 23 | [كيميتش](http://twitter.com/search?q=%d9%83%d9%8a%d9%85%d9%8a%d8%aa%d8%b4) | كيميتش (Kīmītech) is an Arabic word meaning "chemistry". It is used to refer to the scientific study of the composition, structure, properties, and reactions of matter. |
-| 24 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
-| 25 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
-| 26 | [انزاغي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d8%a7%d8%ba%d9%8a) | N/A |
-| 27 | [روسو](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%88) | N/A |
-| 28 | [٢١ رمضان](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 29 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
-| 30 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 31 | [فابيو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
-| 32 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
-| 33 | [القدم الضعيفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%af%d9%85+%d8%a7%d9%84%d8%b6%d8%b9%d9%8a%d9%81%d9%87) | N/A |
-| 34 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 35 | [غنابري](http://twitter.com/search?q=%d8%ba%d9%86%d8%a7%d8%a8%d8%b1%d9%8a) | N/A |
-| 36 | [ليندسي جراهام](http://twitter.com/search?q=%d9%84%d9%8a%d9%86%d8%af%d8%b3%d9%8a+%d8%ac%d8%b1%d8%a7%d9%87%d8%a7%d9%85) | N/A |
-| 37 | [الاتحاد الافضل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%81%d8%b6%d9%84) | N/A |
-| 38 | [فواز الصقور](http://twitter.com/search?q=%d9%81%d9%88%d8%a7%d8%b2+%d8%a7%d9%84%d8%b5%d9%82%d9%88%d8%b1) | N/A |
-| 39 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 40 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 41 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 42 | [الطبقه الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
-| 43 | [سهيل الحويك](http://twitter.com/search?q=%d8%b3%d9%87%d9%8a%d9%84+%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d9%83) | N/A |
-| 44 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 45 | [هتان](http://twitter.com/search?q=%d9%87%d8%aa%d8%a7%d9%86) | هتان is an Arabic word that means "two". |
-| 46 | [حسين القحطاني](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 47 | [لولا سومر](http://twitter.com/search?q=%d9%84%d9%88%d9%84%d8%a7+%d8%b3%d9%88%d9%85%d8%b1) | N/A |
-| 48 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 49 | [سيد المدربين](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8%d9%8a%d9%86) | N/A |
-| 50 | [القضايا الجناييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 2 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 3 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
+| 4 | [#السعوديه_تتصدر_موشر_PMI](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%aa%d8%aa%d8%b5%d8%af%d8%b1_%d9%85%d9%88%d8%b4%d8%b1_PMI) | N/A |
+| 5 | [#ليله_21](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_21) | N/A |
+| 6 | [#عيديتك_قبل_الكل_مع_AOSMINI](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d8%aa%d9%83_%d9%82%d8%a8%d9%84_%d8%a7%d9%84%d9%83%d9%84_%d9%85%d8%b9_AOSMINI) | N/A |
+| 7 | [#رمضان_مع_ابوفهد10](http://twitter.com/search?q=%23%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af10) | N/A |
+| 8 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 9 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 10 | [مديري المشتريات](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%b4%d8%aa%d8%b1%d9%8a%d8%a7%d8%aa) | N/A |
+| 11 | [روسو](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%88) | N/A |
+| 12 | [هالاند الثالث](http://twitter.com/search?q=%d9%87%d8%a7%d9%84%d8%a7%d9%86%d8%af+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 13 | [مشروع الرياض الخضراء](http://twitter.com/search?q=%d9%85%d8%b4%d8%b1%d9%88%d8%b9+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ae%d8%b6%d8%b1%d8%a7%d8%a1) | N/A |
+| 14 | [توفي ابو](http://twitter.com/search?q=%d8%aa%d9%88%d9%81%d9%8a+%d8%a7%d8%a8%d9%88) | N/A |
+| 15 | [٢١ رمضان](http://twitter.com/search?q=%d9%a2%d9%a1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 16 | [عبدالله حبيب](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 17 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 18 | [سعد الشهري](http://twitter.com/search?q=%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | N/A |
+| 19 | [الاصلاحات الاقتصاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b5%d9%84%d8%a7%d8%ad%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 20 | [تركي الميزاني](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d9%85%d9%8a%d8%b2%d8%a7%d9%86%d9%8a) | N/A |
+| 21 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
+| 22 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 23 | [الفاريز](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%8a%d8%b2) | الفاريز (al-fariiz) is an Arabic word meaning "the chosen one". It is often used to refer to someone who has been chosen for a special task or purpose. |
+| 24 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 25 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 26 | [21 رمضان](http://twitter.com/search?q=21+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 27 | [الاتحاد الافضل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%81%d8%b6%d9%84) | N/A |
+| 28 | [غير النفطي](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%86%d9%81%d8%b7%d9%8a) | N/A |
+| 29 | [مهرجان الملك](http://twitter.com/search?q=%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 30 | [تركي العمار](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d8%b1) | N/A |
+| 31 | [الاقتصاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 32 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 33 | [الطبقه الوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
+| 34 | [ليندسي جراهام](http://twitter.com/search?q=%d9%84%d9%8a%d9%86%d8%af%d8%b3%d9%8a+%d8%ac%d8%b1%d8%a7%d9%87%d8%a7%d9%85) | N/A |
+| 35 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 36 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
+| 37 | [ستونز](http://twitter.com/search?q=%d8%b3%d8%aa%d9%88%d9%86%d8%b2) | ستونز is a type of traditional Iranian dessert. It is made from wheat flour, sugar, cardamom, and rosewater. In English, it is known as Persian Nougat. |
+| 38 | [علي كميخ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%83%d9%85%d9%8a%d8%ae) | N/A |
+| 39 | [انزاغي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b2%d8%a7%d8%ba%d9%8a) | N/A |
+| 40 | [مولر](http://twitter.com/search?q=%d9%85%d9%88%d9%84%d8%b1) | N/A |
+| 41 | [فابيو](http://twitter.com/search?q=%d9%81%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
+| 42 | [المال العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 43 | [الطبقه المخمليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%a8%d9%82%d9%87+%d8%a7%d9%84%d9%85%d8%ae%d9%85%d9%84%d9%8a%d9%87) | N/A |
+| 44 | [بروين](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%8a%d9%86) | بروين (pronounced "bru-een") is an Arabic word meaning "brother". |
+| 45 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
+| 46 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 47 | [القضايا الجناييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d8%a7+%d8%a7%d9%84%d8%ac%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 48 | [نبي الرابع](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%b1%d8%a7%d8%a8%d8%b9) | N/A |
+| 49 | [فواز الصقور](http://twitter.com/search?q=%d9%81%d9%88%d8%a7%d8%b2+%d8%a7%d9%84%d8%b5%d9%82%d9%88%d8%b1) | N/A |
+| 50 | [سهيل الحويك](http://twitter.com/search?q=%d8%b3%d9%87%d9%8a%d9%84+%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d9%83) | N/A |
 
 
 

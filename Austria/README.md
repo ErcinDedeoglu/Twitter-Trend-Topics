@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-11 23:17:11 UTC`
+📆 Last Updated: `2023-04-12 00:28:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,27 +15,27 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 2 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 3 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 4 | [#Babler](http://twitter.com/search?q=%23Babler) | N/A |
-| 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 7 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
-| 8 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 9 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
-| 10 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 11 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 12 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 13 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 14 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 16 | [Karner](http://twitter.com/search?q=Karner) | N/A |
-| 17 | [Aufregung](http://twitter.com/search?q=Aufregung) | N/A |
-| 18 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
-| 19 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 20 | [Räder](http://twitter.com/search?q=R%c3%a4der) | N/A |
-| 21 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 2 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 3 | [#Babler](http://twitter.com/search?q=%23Babler) | N/A |
+| 4 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
+| 5 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 6 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 7 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
+| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 9 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 10 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 12 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 13 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 15 | [Karner](http://twitter.com/search?q=Karner) | N/A |
+| 16 | [Aufregung](http://twitter.com/search?q=Aufregung) | N/A |
+| 17 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 18 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 19 | [Räder](http://twitter.com/search?q=R%c3%a4der) | N/A |
+| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 21 | [Flugzeug](http://twitter.com/search?q=Flugzeug) | N/A |
 | 22 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
 | 23 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
 | 24 | [Brot](http://twitter.com/search?q=Brot) | N/A |
@@ -47,16 +47,16 @@ This is top 50 for Austria
 | 30 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
 | 31 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
 | 32 | [Shalom](http://twitter.com/search?q=Shalom) | N/A |
-| 33 | [Migration](http://twitter.com/search?q=Migration) | N/A |
-| 34 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
-| 35 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
-| 36 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
-| 37 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
-| 38 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 39 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 40 | [Sozialdemokrat](http://twitter.com/search?q=Sozialdemokrat) | N/A |
-| 41 | [Zunge](http://twitter.com/search?q=Zunge) | N/A |
-| 42 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
+| 33 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
+| 34 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
+| 35 | [Amerikaner](http://twitter.com/search?q=Amerikaner) | N/A |
+| 36 | [Positionen](http://twitter.com/search?q=Positionen) | N/A |
+| 37 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 38 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 39 | [Sozialdemokrat](http://twitter.com/search?q=Sozialdemokrat) | N/A |
+| 40 | [Zunge](http://twitter.com/search?q=Zunge) | N/A |
+| 41 | [Innenminister](http://twitter.com/search?q=Innenminister) | N/A |
+| 42 | [Putins](http://twitter.com/search?q=Putins) | N/A |
 | 43 | [Angeblich](http://twitter.com/search?q=Angeblich) | N/A |
 | 44 | [Indien](http://twitter.com/search?q=Indien) | N/A |
 | 45 | [Termin](http://twitter.com/search?q=Termin) | N/A |

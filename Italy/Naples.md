@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-04-11 23:16:38 UTC`
+📆 Last Updated: `2023-04-12 00:28:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
-| 2 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 3 | [#dimartedì](http://twitter.com/search?q=%23dimarted%c3%ac) | N/A |
-| 4 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
-| 5 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
-| 6 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
-| 7 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 8 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 11 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 12 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 13 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 14 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 15 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 16 | [Benatia](http://twitter.com/search?q=Benatia) | N/A |
-| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
-| 19 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 20 | [Simone Inzaghi](http://twitter.com/search?q=Simone+Inzaghi) | N/A |
-| 21 | [Lisbona](http://twitter.com/search?q=Lisbona) | N/A |
-| 22 | [Da Luz](http://twitter.com/search?q=Da+Luz) | N/A |
-| 23 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 24 | [Trevisani](http://twitter.com/search?q=Trevisani) | N/A |
-| 25 | [Cesari](http://twitter.com/search?q=Cesari) | N/A |
-| 26 | [Mkhitaryan](http://twitter.com/search?q=Mkhitaryan) | N/A |
-| 27 | [Acerbi](http://twitter.com/search?q=Acerbi) | Acerbi is an Italian surname. It is derived from the Latin word acerbus, which means "bitter". In English, it can be translated to mean "bitter" or "harsh". |
-| 28 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 29 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
-| 30 | [Sacchi](http://twitter.com/search?q=Sacchi) | N/A |
-| 31 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 32 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 33 | [Limone](http://twitter.com/search?q=Limone) | N/A |
-| 34 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
-| 35 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 36 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 37 | [L'Inter](http://twitter.com/search?q=L%27Inter) | N/A |
-| 38 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 39 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 40 | [#miliardariaspace](http://twitter.com/search?q=%23miliardariaspace) | N/A |
-| 41 | [#VicenzaJNextGen](http://twitter.com/search?q=%23VicenzaJNextGen) | N/A |
-| 42 | [#cartabianca](http://twitter.com/search?q=%23cartabianca) | N/A |
-| 43 | [#ServeSempre](http://twitter.com/search?q=%23ServeSempre) | N/A |
-| 44 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
-| 45 | [#weloveyouariana](http://twitter.com/search?q=%23weloveyouariana) | N/A |
-| 46 | [#cineterzopolo](http://twitter.com/search?q=%23cineterzopolo) | N/A |
-| 47 | [#leiene](http://twitter.com/search?q=%23leiene) | N/A |
-| 48 | [#immatataranni2](http://twitter.com/search?q=%23immatataranni2) | N/A |
-| 49 | [#Bersani](http://twitter.com/search?q=%23Bersani) | N/A |
-| 50 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 2 | [buona pasquetta](http://twitter.com/search?q=buona+pasquetta) | N/A |
+| 3 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 4 | [#11aprile](http://twitter.com/search?q=%2311aprile) | N/A |
+| 5 | [#dimartedì](http://twitter.com/search?q=%23dimarted%c3%ac) | N/A |
+| 6 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 7 | [#corvispace](http://twitter.com/search?q=%23corvispace) | N/A |
+| 8 | [Ezio Greggio](http://twitter.com/search?q=Ezio+Greggio) | N/A |
+| 9 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
+| 10 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 11 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 12 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 14 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 15 | [Buona Pasqua](http://twitter.com/search?q=Buona+Pasqua) | N/A |
+| 16 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 17 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 18 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 19 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
+| 20 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 22 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 23 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 24 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 25 | [Benatia](http://twitter.com/search?q=Benatia) | N/A |
+| 26 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 27 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 28 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 29 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
+| 30 | [Lisbona](http://twitter.com/search?q=Lisbona) | N/A |
+| 31 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
+| 32 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 33 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 34 | [Giaele](http://twitter.com/search?q=Giaele) | Giaele is a Hebrew name meaning "God will increase". |
+| 35 | [Tibet](http://twitter.com/search?q=Tibet) | N/A |
+| 36 | [Corsica](http://twitter.com/search?q=Corsica) | N/A |
+| 37 | [Non Comunista](http://twitter.com/search?q=Non+Comunista) | N/A |
+| 38 | [Damascelli](http://twitter.com/search?q=Damascelli) | N/A |
+| 39 | [Caressa](http://twitter.com/search?q=Caressa) | N/A |
+| 40 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 41 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 43 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 44 | [Da Luz](http://twitter.com/search?q=Da+Luz) | N/A |
+| 45 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 47 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 48 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
+| 49 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 50 | [Marcucci](http://twitter.com/search?q=Marcucci) | N/A |
 
 
 

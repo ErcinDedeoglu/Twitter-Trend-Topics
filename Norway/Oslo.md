@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-11 23:16:41 UTC`
+📆 Last Updated: `2023-04-12 00:28:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 2 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 3 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 4 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 5 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 2 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 3 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 4 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 5 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 6 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 7 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | N/A |
 | 8 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 9 | [lerkendal](http://twitter.com/search?q=lerkendal) | N/A |
@@ -30,20 +30,20 @@ This is top 50 for [Norway](</Norway>)
 | 13 | [fotballkveld](http://twitter.com/search?q=fotballkveld) | N/A |
 | 14 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 15 | [Finne](http://twitter.com/search?q=Finne) | N/A |
-| 16 | [Brann](http://twitter.com/search?q=Brann) | N/A |
-| 17 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 18 | [Norges Bank](http://twitter.com/search?q=Norges+Bank) | N/A |
-| 19 | [udahl](http://twitter.com/search?q=udahl) | N/A |
-| 20 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 21 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | N/A |
+| 16 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 17 | [Brann](http://twitter.com/search?q=Brann) | N/A |
+| 18 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 19 | [norges bank](http://twitter.com/search?q=norges+bank) | N/A |
+| 20 | [udahl](http://twitter.com/search?q=udahl) | N/A |
+| 21 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 22 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | N/A |
-| 23 | [aspmyra](http://twitter.com/search?q=aspmyra) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | N/A |
+| 24 | [aspmyra](http://twitter.com/search?q=aspmyra) | N/A |
 | 25 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 26 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 28 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 29 | [FotballXtra](http://twitter.com/search?q=FotballXtra) | N/A |
+| 29 | [fotballxtra](http://twitter.com/search?q=fotballxtra) | N/A |
 | 30 | [jøss](http://twitter.com/search?q=j%c3%b8ss) | N/A |
 | 31 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
 | 32 | [thorvaldsson](http://twitter.com/search?q=thorvaldsson) | N/A |
@@ -54,16 +54,16 @@ This is top 50 for [Norway](</Norway>)
 | 37 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
 | 38 | [Trenger](http://twitter.com/search?q=Trenger) | N/A |
 | 39 | [Eurosport](http://twitter.com/search?q=Eurosport) | N/A |
-| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 41 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
-| 42 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
-| 43 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 44 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
-| 45 | [Dessverre](http://twitter.com/search?q=Dessverre) | N/A |
-| 46 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
-| 47 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
-| 48 | [Melløs](http://twitter.com/search?q=Mell%c3%b8s) | N/A |
-| 49 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 40 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 41 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 42 | [TV 2](http://twitter.com/search?q=TV+2) | N/A |
+| 43 | [Støre](http://twitter.com/search?q=St%c3%b8re) | N/A |
+| 44 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 45 | [Problemet](http://twitter.com/search?q=Problemet) | N/A |
+| 46 | [Dessverre](http://twitter.com/search?q=Dessverre) | N/A |
+| 47 | [haugesund](http://twitter.com/search?q=haugesund) | N/A |
+| 48 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 49 | [Switzerland](http://twitter.com/search?q=Switzerland) | N/A |
 
 
 

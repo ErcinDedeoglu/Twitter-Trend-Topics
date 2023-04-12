@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-04-11 23:16:32 UTC`
+📆 Last Updated: `2023-04-12 00:28:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#OptimusAIToken](http://twitter.com/search?q=%23OptimusAIToken) | N/A |
-| 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
-| 4 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 6 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 7 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [#VoltaMister](http://twitter.com/search?q=%23VoltaMister) | N/A |
+| 3 | [Alan Patrick](http://twitter.com/search?q=Alan+Patrick) | N/A |
+| 4 | [Zico](http://twitter.com/search?q=Zico) | N/A |
+| 5 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 6 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 7 | [Mano Menezes](http://twitter.com/search?q=Mano+Menezes) | N/A |
 | 8 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 9 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 10 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 11 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 12 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 13 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
-| 14 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 15 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 16 | [DEADGOD E WANHEDA NO FLUXO](http://twitter.com/search?q=DEADGOD+E+WANHEDA+NO+FLUXO) | N/A |
-| 17 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 18 | [AMOR É O CACETE](http://twitter.com/search?q=AMOR+%c3%89+O+CACETE) | N/A |
-| 19 | [PRE SAVE VERMELHO FAROL](http://twitter.com/search?q=PRE+SAVE+VERMELHO+FAROL) | N/A |
-| 20 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 21 | [#HoraDoVT](http://twitter.com/search?q=%23HoraDoVT) | N/A |
-| 22 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 23 | [Ruben](http://twitter.com/search?q=Ruben) | N/A |
-| 24 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
-| 25 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 26 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 27 | [Galvão Bueno](http://twitter.com/search?q=Galv%c3%a3o+Bueno) | N/A |
-| 28 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 29 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 30 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 31 | [Fujão](http://twitter.com/search?q=Fuj%c3%a3o) | N/A |
-| 32 | [Carolina Dieckmann](http://twitter.com/search?q=Carolina+Dieckmann) | Carolina Dieckmann is a Brazilian actress, model, and television presenter. She is best known for her roles in the telenovelas Senhora do Destino, Laços de Família, and Celebridade. The name Carolina Dieckmann in English translates to "Carolina Dieckmann". |
-| 33 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
-| 34 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 35 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 36 | [Lucas Barbosa](http://twitter.com/search?q=Lucas+Barbosa) | N/A |
-| 37 | [#AllEyesOnMe](http://twitter.com/search?q=%23AllEyesOnMe) | N/A |
-| 38 | [The Boyz](http://twitter.com/search?q=The+Boyz) | N/A |
-| 39 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 40 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 41 | [Alvorada](http://twitter.com/search?q=Alvorada) | Alvorada is a Portuguese word meaning "dawn" or "daybreak". It is often used to refer to the beginning of a new day, or the start of something new. |
-| 42 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 43 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 44 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 45 | [O City](http://twitter.com/search?q=O+City) | N/A |
-| 46 | [Zé Trovão](http://twitter.com/search?q=Z%c3%a9+Trov%c3%a3o) | N/A |
-| 47 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 48 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 49 | [Lui e Sol](http://twitter.com/search?q=Lui+e+Sol) | N/A |
-| 50 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 9 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
+| 10 | [Deivid](http://twitter.com/search?q=Deivid) | N/A |
+| 11 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 12 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
+| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 14 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 15 | [Pedro Henrique](http://twitter.com/search?q=Pedro+Henrique) | Pedro Henrique is a Portuguese name, derived from the Latin name Petrus Henricus. It is composed of two elements: Petrus, which means "rock" or "stone", and Henricus, which means "ruler of the house". In English, Pedro Henrique can be translated to mean "Peter Henry". |
+| 16 | [Internacional](http://twitter.com/search?q=Internacional) | N/A |
+| 17 | [TWITTER SUPPORTS MASSACRES](http://twitter.com/search?q=TWITTER+SUPPORTS+MASSACRES) | N/A |
+| 18 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 19 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 20 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 21 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 22 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
+| 23 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 24 | [Odair](http://twitter.com/search?q=Odair) | N/A |
+| 25 | [#AllEyesOnMe](http://twitter.com/search?q=%23AllEyesOnMe) | N/A |
+| 26 | [De Pena](http://twitter.com/search?q=De+Pena) | De Pena is a Spanish surname. It is derived from the Latin word "pena," which means "rock" or "stone." In English, it can be translated to mean "of the rock" or "of the stone." |
+| 27 | [Fujão](http://twitter.com/search?q=Fuj%c3%a3o) | N/A |
+| 28 | [PRE SAVE VERMELHO FAROL](http://twitter.com/search?q=PRE+SAVE+VERMELHO+FAROL) | N/A |
+| 29 | [Beira-Rio](http://twitter.com/search?q=Beira-Rio) | N/A |
+| 30 | [Keiller](http://twitter.com/search?q=Keiller) | N/A |
+| 31 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 32 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 33 | [Matheus Dias](http://twitter.com/search?q=Matheus+Dias) | N/A |
+| 34 | [Wanderson](http://twitter.com/search?q=Wanderson) | N/A |
+| 35 | [The Boyz](http://twitter.com/search?q=The+Boyz) | N/A |
+| 36 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 37 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 38 | [AMOR É O CACETE](http://twitter.com/search?q=AMOR+%c3%89+O+CACETE) | N/A |
+| 39 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 40 | [TWITTER APOIA MASSACRES](http://twitter.com/search?q=TWITTER+APOIA+MASSACRES) | N/A |
+| 41 | [Bruna Honório](http://twitter.com/search?q=Bruna+Hon%c3%b3rio) | N/A |
+| 42 | [Jairo](http://twitter.com/search?q=Jairo) | N/A |
+| 43 | [Nem Noé](http://twitter.com/search?q=Nem+No%c3%a9) | N/A |
+| 44 | [Miami Heat](http://twitter.com/search?q=Miami+Heat) | N/A |
+| 45 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 46 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 47 | [Gabriel Dias](http://twitter.com/search?q=Gabriel+Dias) | N/A |
+| 48 | [Tinga](http://twitter.com/search?q=Tinga) | N/A |
+| 49 | [Elina](http://twitter.com/search?q=Elina) | N/A |
+| 50 | [Lui e Sol](http://twitter.com/search?q=Lui+e+Sol) | N/A |
 
 
 
