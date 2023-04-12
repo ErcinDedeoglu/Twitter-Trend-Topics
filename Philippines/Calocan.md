@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-04-12 06:18:44 UTC`
+📆 Last Updated: `2023-04-12 07:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 4 | [#OVERPASSinMNL](http://twitter.com/search?q=%23OVERPASSinMNL) | N/A |
-| 5 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
-| 6 | [#DJPxHanaShampoo](http://twitter.com/search?q=%23DJPxHanaShampoo) | N/A |
-| 7 | [DANIEL FOR HANA SHAMPOO](http://twitter.com/search?q=DANIEL+FOR+HANA+SHAMPOO) | N/A |
-| 8 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 9 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 10 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
-| 11 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 12 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
-| 13 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 14 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 15 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 16 | [Davis](http://twitter.com/search?q=Davis) | N/A |
-| 17 | [D-2 TO PARAISO](http://twitter.com/search?q=D-2+TO+PARAISO) | N/A |
+| 2 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
+| 5 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 6 | [#OVERPASSinMNL](http://twitter.com/search?q=%23OVERPASSinMNL) | N/A |
+| 7 | [#DJPxHanaShampoo](http://twitter.com/search?q=%23DJPxHanaShampoo) | N/A |
+| 8 | [DANIEL FOR HANA SHAMPOO](http://twitter.com/search?q=DANIEL+FOR+HANA+SHAMPOO) | N/A |
+| 9 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
+| 10 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 11 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 12 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 13 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 14 | [D-2 TO PARAISO](http://twitter.com/search?q=D-2+TO+PARAISO) | N/A |
+| 15 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 16 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 17 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
 | 18 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 19 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 20 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 21 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
-| 22 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 23 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
-| 24 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 25 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 26 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
-| 27 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 28 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 29 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
-| 30 | [HAPPY 2MONTHS HORI7ON](http://twitter.com/search?q=HAPPY+2MONTHS+HORI7ON) | N/A |
-| 31 | [#OVERPASS2023](http://twitter.com/search?q=%23OVERPASS2023) | N/A |
-| 32 | [#UPFight](http://twitter.com/search?q=%23UPFight) | N/A |
-| 33 | [#세훈이의30번째봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%9830%eb%b2%88%ec%a7%b8%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
-| 34 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
+| 19 | [Darvin Ham](http://twitter.com/search?q=Darvin+Ham) | Darvin Ham is an American basketball player who played in the NBA from 1996 to 2008. He is best known for his time with the Detroit Pistons, where he was a member of their 2004 championship team. The phrase "Darvin Ham" has come to mean a hard-working, hustling player who makes up for his lack of size and athleticism with effort and determination. |
+| 20 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 21 | [SEE YOU](http://twitter.com/search?q=SEE+YOU) | N/A |
+| 22 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
+| 23 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 24 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
+| 25 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 26 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 27 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 28 | [HAPPY 2MONTHS HORI7ON](http://twitter.com/search?q=HAPPY+2MONTHS+HORI7ON) | N/A |
+| 29 | [#TAEYANG](http://twitter.com/search?q=%23TAEYANG) | #TAEYANG is a hashtag used to refer to the South Korean singer and songwriter, Taeyang. It is often used on social media platforms such as Twitter and Instagram to share news, photos, and videos related to the artist. The English translation of #TAEYANG is "Taeyang". |
+| 30 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
+| 31 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 32 | [#OVERPASS2023](http://twitter.com/search?q=%23OVERPASS2023) | N/A |
+| 33 | [#UAAPVolleyball](http://twitter.com/search?q=%23UAAPVolleyball) | N/A |
+| 34 | [#BarDa](http://twitter.com/search?q=%23BarDa) | N/A |
 | 35 | [#CHAEUNWOO_GRISDIOR_Exhibit](http://twitter.com/search?q=%23CHAEUNWOO_GRISDIOR_Exhibit) | N/A |
-| 36 | [#DareInGrisDior](http://twitter.com/search?q=%23DareInGrisDior) | N/A |
-| 37 | [#UAAPVolleyball](http://twitter.com/search?q=%23UAAPVolleyball) | N/A |
-| 38 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
-| 39 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 40 | [#BOYCOTTEBxAPTxGMA763](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA763) | N/A |
-| 41 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 42 | [#AnjiParaiso](http://twitter.com/search?q=%23AnjiParaiso) | N/A |
-| 43 | [#HORI7ON2ndMonthsary](http://twitter.com/search?q=%23HORI7ON2ndMonthsary) | N/A |
-| 44 | [#AmangPH](http://twitter.com/search?q=%23AmangPH) | N/A |
-| 45 | [#FirstEightWP](http://twitter.com/search?q=%23FirstEightWP) | N/A |
+| 36 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
+| 37 | [#세훈이의30번째봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%9830%eb%b2%88%ec%a7%b8%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
+| 38 | [#DareInGrisDior](http://twitter.com/search?q=%23DareInGrisDior) | N/A |
+| 39 | [#햇살보다_눈부실_선우의_스물넷](http://twitter.com/search?q=%23%ed%96%87%ec%82%b4%eb%b3%b4%eb%8b%a4_%eb%88%88%eb%b6%80%ec%8b%a4_%ec%84%a0%ec%9a%b0%ec%9d%98_%ec%8a%a4%eb%ac%bc%eb%84%b7) | N/A |
+| 40 | [#ThunderSunwooDay](http://twitter.com/search?q=%23ThunderSunwooDay) | N/A |
+| 41 | [#BOYCOTTEBxAPTxGMA763](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA763) | N/A |
+| 42 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 43 | [#FirstEightWP](http://twitter.com/search?q=%23FirstEightWP) | N/A |
+| 44 | [#HORI7ON2ndMonthsary](http://twitter.com/search?q=%23HORI7ON2ndMonthsary) | N/A |
+| 45 | [#AmangPH](http://twitter.com/search?q=%23AmangPH) | N/A |
 
 
 

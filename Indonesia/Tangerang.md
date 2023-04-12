@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-12 06:18:37 UTC`
+📆 Last Updated: `2023-04-12 07:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 2 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
+| 1 | [#UrusanNegaraPrabowoAja](http://twitter.com/search?q=%23UrusanNegaraPrabowoAja) | N/A |
+| 2 | [#RestartForChange](http://twitter.com/search?q=%23RestartForChange) | N/A |
 | 3 | [Jakarta Butuh Cuti](http://twitter.com/search?q=Jakarta+Butuh+Cuti) | N/A |
-| 4 | [#RestartForChange](http://twitter.com/search?q=%23RestartForChange) | N/A |
-| 5 | [#GanjarBawaPerubahan](http://twitter.com/search?q=%23GanjarBawaPerubahan) | N/A |
-| 6 | [UrusanGue Kerenin Indonesia](http://twitter.com/search?q=UrusanGue+Kerenin+Indonesia) | N/A |
-| 7 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
-| 8 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 9 | [Oatside Mini](http://twitter.com/search?q=Oatside+Mini) | N/A |
-| 10 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 11 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 12 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 13 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 14 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 15 | [Munchen](http://twitter.com/search?q=Munchen) | N/A |
-| 16 | [Anas](http://twitter.com/search?q=Anas) | N/A |
-| 17 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 18 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 19 | [$MYTH](http://twitter.com/search?q=%24MYTH) | N/A |
-| 20 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 21 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 22 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 23 | [Lailatul Qadar](http://twitter.com/search?q=Lailatul+Qadar) | N/A |
-| 24 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
-| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 26 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 27 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 28 | [Monas](http://twitter.com/search?q=Monas) | N/A |
-| 29 | [LEE JENO THANK YOU](http://twitter.com/search?q=LEE+JENO+THANK+YOU) | N/A |
-| 30 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
-| 31 | [Pompa Hidram](http://twitter.com/search?q=Pompa+Hidram) | N/A |
-| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 34 | [aster kasdam ii](http://twitter.com/search?q=aster+kasdam+ii) | N/A |
-| 35 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 36 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 37 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
-| 38 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
-| 39 | [Tabungan](http://twitter.com/search?q=Tabungan) | N/A |
-| 40 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 41 | [Pelabuhan Merak](http://twitter.com/search?q=Pelabuhan+Merak) | N/A |
-| 42 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 43 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
-| 44 | [Pangdam IM](http://twitter.com/search?q=Pangdam+IM) | N/A |
-| 45 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
-| 46 | [Kanwil Kemenkumham Sulsel](http://twitter.com/search?q=Kanwil+Kemenkumham+Sulsel) | N/A |
-| 47 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
-| 48 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 49 | [Korem 102](http://twitter.com/search?q=Korem+102) | N/A |
+| 4 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
+| 5 | [UrusanGue Kerenin Indonesia](http://twitter.com/search?q=UrusanGue+Kerenin+Indonesia) | N/A |
+| 6 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 7 | [#GanjarBawaPerubahan](http://twitter.com/search?q=%23GanjarBawaPerubahan) | N/A |
+| 8 | [Ferdy Sambo](http://twitter.com/search?q=Ferdy+Sambo) | N/A |
+| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 10 | [Hukuman](http://twitter.com/search?q=Hukuman) | N/A |
+| 11 | [Pengadilan Tinggi DKI Jakarta](http://twitter.com/search?q=Pengadilan+Tinggi+DKI+Jakarta) | N/A |
+| 12 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 13 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 14 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 15 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 16 | [Gen Z](http://twitter.com/search?q=Gen+Z) | N/A |
+| 17 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
+| 18 | [Miskin](http://twitter.com/search?q=Miskin) | N/A |
+| 19 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
+| 20 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 21 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
+| 22 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 23 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 24 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
+| 25 | [Monas](http://twitter.com/search?q=Monas) | N/A |
+| 26 | [Cipung](http://twitter.com/search?q=Cipung) | N/A |
+| 27 | [Komeng](http://twitter.com/search?q=Komeng) | N/A |
+| 28 | [Tabungan](http://twitter.com/search?q=Tabungan) | N/A |
+| 29 | [The Marvels](http://twitter.com/search?q=The+Marvels) | N/A |
+| 30 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 31 | [Aku 15](http://twitter.com/search?q=Aku+15) | N/A |
+| 32 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 33 | [#TAEYANG](http://twitter.com/search?q=%23TAEYANG) | #TAEYANG is a hashtag used to refer to the South Korean singer and songwriter, Taeyang. It is often used on social media platforms such as Twitter and Instagram to share news, photos, and videos related to the artist. The English translation of #TAEYANG is "Taeyang". |
+| 34 | [#BIGBANG](http://twitter.com/search?q=%23BIGBANG) | #BIGBANG is a South Korean boy band formed by YG Entertainment in 2006. The group consists of five members: G-Dragon, T.O.P, Taeyang, Daesung, and Seungri. The name "BIGBANG" is derived from the English phrase "big bang theory," which refers to the idea that the universe was created in a single massive explosion. In English, #BIGBANG means a large and powerful force or event that has a major impact on something. |
+| 35 | [#ENHYPEN5thComeback](http://twitter.com/search?q=%23ENHYPEN5thComeback) | N/A |
+| 36 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 37 | [#65MovieID](http://twitter.com/search?q=%2365MovieID) | N/A |
+| 38 | [#OOLIinJKT](http://twitter.com/search?q=%23OOLIinJKT) | N/A |
+| 39 | [#엔하이픈](http://twitter.com/search?q=%23%ec%97%94%ed%95%98%ec%9d%b4%ed%94%88) | N/A |
+| 40 | [#LISA](http://twitter.com/search?q=%23LISA) | N/A |
+| 41 | [#WOODZ](http://twitter.com/search?q=%23WOODZ) | N/A |
+| 42 | [#kemenkumhamri](http://twitter.com/search?q=%23kemenkumhamri) | N/A |
+| 43 | [#BeyondinRamadan](http://twitter.com/search?q=%23BeyondinRamadan) | N/A |
+| 44 | [#KulinerAntiRibet](http://twitter.com/search?q=%23KulinerAntiRibet) | N/A |
+| 45 | [#HappyRamadan](http://twitter.com/search?q=%23HappyRamadan) | N/A |
+| 46 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 47 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 48 | [#JawaraTanpaBatas](http://twitter.com/search?q=%23JawaraTanpaBatas) | N/A |
+| 49 | [#luhlapor](http://twitter.com/search?q=%23luhlapor) | N/A |
 
 
 
