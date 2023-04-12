@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-04-12 17:17:48 UTC`
+📆 Last Updated: `2023-04-12 18:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [France](</France>)
 | 3 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
 | 4 | [#Kohlanta](http://twitter.com/search?q=%23Kohlanta) | N/A |
 | 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 6 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 7 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 8 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 9 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 6 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 7 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 8 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 9 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 10 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
 | 11 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 12 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 14 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 12 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 13 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 15 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
 | 16 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
 | 17 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 18 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 19 | [Abad](http://twitter.com/search?q=Abad) | N/A |
+| 18 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 19 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
 | 20 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
-| 21 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 21 | [Abad](http://twitter.com/search?q=Abad) | N/A |
 | 22 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
 | 23 | [RUBEN DIAS](http://twitter.com/search?q=RUBEN+DIAS) | N/A |
 | 24 | [SANÉ](http://twitter.com/search?q=SAN%c3%89) | N/A |
 | 25 | [GIEC](http://twitter.com/search?q=GIEC) | N/A |
-| 26 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 27 | [Cyclades](http://twitter.com/search?q=Cyclades) | N/A |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
-| 30 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 31 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 32 | [Boris Ravignon](http://twitter.com/search?q=Boris+Ravignon) | N/A |
-| 33 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
-| 34 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 26 | [Corteiz](http://twitter.com/search?q=Corteiz) | N/A |
+| 27 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 28 | [Cyclades](http://twitter.com/search?q=Cyclades) | N/A |
+| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 30 | [La Haye](http://twitter.com/search?q=La+Haye) | N/A |
+| 31 | [Akanji](http://twitter.com/search?q=Akanji) | Akanji is a Japanese term that literally translates to "red characters." It is used to refer to the traditional Chinese characters used in Japanese writing. These characters are often used in calligraphy and other forms of art. |
+| 32 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 33 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 34 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
 | 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 36 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 37 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
-| 38 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 39 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 40 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
-| 41 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 42 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 36 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 37 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 38 | [Sud Radio](http://twitter.com/search?q=Sud+Radio) | N/A |
+| 39 | [Boris Ravignon](http://twitter.com/search?q=Boris+Ravignon) | N/A |
+| 40 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
+| 41 | [Cancelo](http://twitter.com/search?q=Cancelo) | Cancelo is a Spanish word meaning "to cancel" or "to annul". It is used to describe the act of canceling or annulling something, such as a contract, agreement, or event. |
+| 42 | [Nasri](http://twitter.com/search?q=Nasri) | N/A |
 | 43 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 44 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
-| 45 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 46 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 47 | [Roussel](http://twitter.com/search?q=Roussel) | N/A |
-| 48 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 44 | [LLCE](http://twitter.com/search?q=LLCE) | N/A |
+| 45 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
+| 46 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 47 | [Mirail](http://twitter.com/search?q=Mirail) | N/A |
+| 48 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
 
 
 

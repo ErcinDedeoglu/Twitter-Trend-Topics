@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Klang
 
-📆 Last Updated: `2023-04-12 17:18:05 UTC`
+📆 Last Updated: `2023-04-12 18:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 4 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 5 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
 | 6 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 7 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 7 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 8 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 9 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 12 | [HeiHei](http://twitter.com/search?q=HeiHei) | N/A |
-| 13 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 14 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 15 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
-| 16 | [Double Six](http://twitter.com/search?q=Double+Six) | N/A |
-| 17 | [wind and wish coming soon](http://twitter.com/search?q=wind+and+wish+coming+soon) | N/A |
-| 18 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 19 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 20 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 21 | [unforgiven 1st concept](http://twitter.com/search?q=unforgiven+1st+concept) | N/A |
-| 22 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 23 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 24 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
-| 25 | [Using a GIF](http://twitter.com/search?q=Using+a+GIF) | N/A |
-| 26 | [sam ke ting](http://twitter.com/search?q=sam+ke+ting) | N/A |
-| 27 | [sohee](http://twitter.com/search?q=sohee) | N/A |
-| 28 | [minghao](http://twitter.com/search?q=minghao) | N/A |
-| 29 | [taejun on suchwita](http://twitter.com/search?q=taejun+on+suchwita) | N/A |
-| 30 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 31 | [TICKETING SERVICE](http://twitter.com/search?q=TICKETING+SERVICE) | N/A |
-| 32 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 33 | [Sulu](http://twitter.com/search?q=Sulu) | N/A |
-| 34 | [youngk](http://twitter.com/search?q=youngk) | N/A |
-| 35 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 36 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 37 | [Toll](http://twitter.com/search?q=Toll) | N/A |
-| 38 | [paul chan](http://twitter.com/search?q=paul+chan) | N/A |
-| 39 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 40 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
-| 41 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 42 | [Junghwan](http://twitter.com/search?q=Junghwan) | N/A |
+| 9 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 10 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 11 | [HeiHei](http://twitter.com/search?q=HeiHei) | N/A |
+| 12 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 13 | [Double Six](http://twitter.com/search?q=Double+Six) | N/A |
+| 14 | [wind and wish coming soon](http://twitter.com/search?q=wind+and+wish+coming+soon) | N/A |
+| 15 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 16 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 17 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 18 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
+| 19 | [unforgiven 1st concept](http://twitter.com/search?q=unforgiven+1st+concept) | N/A |
+| 20 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 21 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 22 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
+| 23 | [Yess](http://twitter.com/search?q=Yess) | N/A |
+| 24 | [Using a GIF](http://twitter.com/search?q=Using+a+GIF) | N/A |
+| 25 | [sam ke ting](http://twitter.com/search?q=sam+ke+ting) | N/A |
+| 26 | [taejun on suchwita](http://twitter.com/search?q=taejun+on+suchwita) | N/A |
+| 27 | [minghao](http://twitter.com/search?q=minghao) | N/A |
+| 28 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 29 | [ticketing service](http://twitter.com/search?q=ticketing+service) | N/A |
+| 30 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 31 | [Sulu](http://twitter.com/search?q=Sulu) | N/A |
+| 32 | [sohee](http://twitter.com/search?q=sohee) | N/A |
+| 33 | [youngk](http://twitter.com/search?q=youngk) | N/A |
+| 34 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 35 | [Toll](http://twitter.com/search?q=Toll) | N/A |
+| 36 | [paul chan](http://twitter.com/search?q=paul+chan) | N/A |
+| 37 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 38 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 39 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 40 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 41 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
+| 42 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
 | 43 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
 | 44 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 45 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 45 | [ricky](http://twitter.com/search?q=ricky) | N/A |
 | 46 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 47 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
+| 47 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
 | 48 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
 | 49 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
 

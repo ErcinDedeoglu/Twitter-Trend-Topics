@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-12 17:17:55 UTC`
+📆 Last Updated: `2023-04-12 18:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,37 +17,37 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 2 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 3 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 3 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 4 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 | 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 7 | [#Nationalrat](http://twitter.com/search?q=%23Nationalrat) | N/A |
-| 8 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 9 | [#Kohlanta](http://twitter.com/search?q=%23Kohlanta) | N/A |
-| 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 11 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 12 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 14 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 15 | [Session](http://twitter.com/search?q=Session) | N/A |
-| 16 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
-| 17 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 18 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 19 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 20 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 21 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 6 | [#Nationalrat](http://twitter.com/search?q=%23Nationalrat) | N/A |
+| 7 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 8 | [#Kohlanta](http://twitter.com/search?q=%23Kohlanta) | N/A |
+| 9 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
+| 10 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 12 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 13 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 14 | [Session](http://twitter.com/search?q=Session) | N/A |
+| 15 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 16 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 17 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 18 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 19 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 20 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 21 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 22 | [Ständerat](http://twitter.com/search?q=St%c3%a4nderat) | N/A |
 | 23 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
-| 24 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 25 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 26 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 27 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 28 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 29 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
-| 30 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 31 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 32 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 33 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 24 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 25 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 26 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 27 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
+| 28 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 29 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 30 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 31 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 32 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 33 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 34 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
 | 35 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
 | 36 | [Organisationen](http://twitter.com/search?q=Organisationen) | N/A |

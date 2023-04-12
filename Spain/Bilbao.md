@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-04-12 17:17:53 UTC`
+📆 Last Updated: `2023-04-12 18:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,50 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [#Solos12A](http://twitter.com/search?q=%23Solos12A) | N/A |
 | 2 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 4 | [#CrisPorta12A](http://twitter.com/search?q=%23CrisPorta12A) | N/A |
-| 5 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 6 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 7 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
-| 8 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
-| 9 | [Gérard Depardieu](http://twitter.com/search?q=G%c3%a9rard+Depardieu) | N/A |
-| 10 | [La APM](http://twitter.com/search?q=La+APM) | N/A |
-| 11 | [Batet](http://twitter.com/search?q=Batet) | N/A |
-| 12 | [Roig](http://twitter.com/search?q=Roig) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
+| 3 | [Mercadona](http://twitter.com/search?q=Mercadona) | N/A |
+| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 5 | [#LaCasaDelFútbol](http://twitter.com/search?q=%23LaCasaDelF%c3%batbol) | N/A |
+| 6 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 7 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 8 | [Batet](http://twitter.com/search?q=Batet) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [SFDK](http://twitter.com/search?q=SFDK) | N/A |
+| 11 | [Ortega Smith](http://twitter.com/search?q=Ortega+Smith) | N/A |
+| 12 | [La APM](http://twitter.com/search?q=La+APM) | N/A |
+| 13 | [Juan Roig](http://twitter.com/search?q=Juan+Roig) | N/A |
+| 14 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
 | 15 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 16 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 17 | [Ministerio de Sanidad](http://twitter.com/search?q=Ministerio+de+Sanidad) | N/A |
+| 16 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
+| 17 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
 | 18 | [Ana Rosa Quintana](http://twitter.com/search?q=Ana+Rosa+Quintana) | N/A |
-| 19 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 20 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 21 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
-| 22 | [Govern](http://twitter.com/search?q=Govern) | N/A |
-| 23 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
-| 24 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 19 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
+| 20 | [Pelayo](http://twitter.com/search?q=Pelayo) | N/A |
+| 21 | [Moreno Bonilla](http://twitter.com/search?q=Moreno+Bonilla) | N/A |
+| 22 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
+| 23 | [Inda](http://twitter.com/search?q=Inda) | N/A |
+| 24 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
 | 25 | [461 X](http://twitter.com/search?q=461+X) | N/A |
 | 26 | [Gibraltar](http://twitter.com/search?q=Gibraltar) | N/A |
-| 27 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 27 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
 | 28 | [Ferreras](http://twitter.com/search?q=Ferreras) | N/A |
-| 29 | [Robin](http://twitter.com/search?q=Robin) | Robin is a common name for a small, migratory bird of the thrush family. The name is derived from the Old English word rōdēn, which means "red-breasted". In the United States, robins are often seen in spring and summer, when they come to feed on worms and insects. They are also known for their cheerful song. |
-| 30 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
-| 31 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
-| 32 | [Juanma Moreno](http://twitter.com/search?q=Juanma+Moreno) | N/A |
-| 33 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
-| 34 | [Viernes 14](http://twitter.com/search?q=Viernes+14) | N/A |
-| 35 | [American Psycho](http://twitter.com/search?q=American+Psycho) | N/A |
-| 36 | [Sábado 15](http://twitter.com/search?q=S%c3%a1bado+15) | N/A |
-| 37 | [#LaCasaDelFútbol](http://twitter.com/search?q=%23LaCasaDelF%c3%batbol) | N/A |
-| 38 | [#EsperanzaDeIndias](http://twitter.com/search?q=%23EsperanzaDeIndias) | N/A |
-| 39 | [#laruletadelasuerte](http://twitter.com/search?q=%23laruletadelasuerte) | N/A |
-| 40 | [#AtenciónPrimaria](http://twitter.com/search?q=%23Atenci%c3%b3nPrimaria) | N/A |
-| 41 | [#APOYOROCIO12A](http://twitter.com/search?q=%23APOYOROCIO12A) | N/A |
-| 42 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 43 | [#YoMeRebelo12A](http://twitter.com/search?q=%23YoMeRebelo12A) | N/A |
-| 44 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
-| 45 | [#igualdad](http://twitter.com/search?q=%23igualdad) | N/A |
-| 46 | [#empresas](http://twitter.com/search?q=%23empresas) | N/A |
-| 47 | [#Vigo](http://twitter.com/search?q=%23Vigo) | N/A |
-| 48 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
+| 29 | [Espinosa](http://twitter.com/search?q=Espinosa) | N/A |
+| 30 | [Koeman](http://twitter.com/search?q=Koeman) | N/A |
+| 31 | [Viernes 14](http://twitter.com/search?q=Viernes+14) | N/A |
+| 32 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 33 | [#EsperanzaDeIndias](http://twitter.com/search?q=%23EsperanzaDeIndias) | N/A |
+| 34 | [#CrisPorta12A](http://twitter.com/search?q=%23CrisPorta12A) | N/A |
+| 35 | [#LaPromesa](http://twitter.com/search?q=%23LaPromesa) | N/A |
+| 36 | [#AtenciónPrimaria](http://twitter.com/search?q=%23Atenci%c3%b3nPrimaria) | N/A |
+| 37 | [#YoMeRebelo12A](http://twitter.com/search?q=%23YoMeRebelo12A) | N/A |
+| 38 | [#APOYOROCIO12A](http://twitter.com/search?q=%23APOYOROCIO12A) | N/A |
+| 39 | [#sanidad](http://twitter.com/search?q=%23sanidad) | N/A |
+| 40 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 41 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 42 | [#SolosPortaYFrigenti](http://twitter.com/search?q=%23SolosPortaYFrigenti) | N/A |
+| 43 | [#empresas](http://twitter.com/search?q=%23empresas) | N/A |
+| 44 | [#sostenibilidad](http://twitter.com/search?q=%23sostenibilidad) | N/A |
+| 45 | [#innovación](http://twitter.com/search?q=%23innovaci%c3%b3n) | N/A |
+| 46 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 
 
 

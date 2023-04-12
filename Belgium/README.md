@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-12 17:18:35 UTC`
+📆 Last Updated: `2023-04-12 18:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,21 +37,21 @@ This is top 50 for Belgium
 | 20 | [Gims](http://twitter.com/search?q=Gims) | N/A |
 | 21 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
 | 22 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 23 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 24 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 25 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 26 | [tielt-winge](http://twitter.com/search?q=tielt-winge) | N/A |
-| 27 | [Brusselse](http://twitter.com/search?q=Brusselse) | N/A |
-| 28 | [Dalle](http://twitter.com/search?q=Dalle) | N/A |
+| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 24 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 25 | [tielt-winge](http://twitter.com/search?q=tielt-winge) | N/A |
+| 26 | [Dalle](http://twitter.com/search?q=Dalle) | N/A |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [Brusselse](http://twitter.com/search?q=Brusselse) | N/A |
 | 29 | [Afrikaanse](http://twitter.com/search?q=Afrikaanse) | N/A |
-| 30 | [De Wever](http://twitter.com/search?q=De+Wever) | N/A |
-| 31 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
+| 30 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
+| 31 | [De Wever](http://twitter.com/search?q=De+Wever) | N/A |
 | 32 | [Joden](http://twitter.com/search?q=Joden) | N/A |
-| 33 | [Neen](http://twitter.com/search?q=Neen) | N/A |
-| 34 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
-| 35 | [SANÉ](http://twitter.com/search?q=SAN%c3%89) | N/A |
-| 36 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
-| 37 | [Bruxellois](http://twitter.com/search?q=Bruxellois) | N/A |
+| 33 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
+| 34 | [SANÉ](http://twitter.com/search?q=SAN%c3%89) | N/A |
+| 35 | [Quentin](http://twitter.com/search?q=Quentin) | N/A |
+| 36 | [Bruxellois](http://twitter.com/search?q=Bruxellois) | N/A |
+| 37 | [Afrikanen](http://twitter.com/search?q=Afrikanen) | N/A |
 | 38 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
 | 39 | [Apparemment](http://twitter.com/search?q=Apparemment) | N/A |
 | 40 | [Flanders](http://twitter.com/search?q=Flanders) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Belgium
 | 42 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
 | 43 | [STEM](http://twitter.com/search?q=STEM) | N/A |
 | 44 | [nmbs](http://twitter.com/search?q=nmbs) | N/A |
-| 45 | [paul furlan](http://twitter.com/search?q=paul+furlan) | N/A |
-| 46 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 47 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 48 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 49 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 50 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
+| 45 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 46 | [Davies](http://twitter.com/search?q=Davies) | N/A |
+| 47 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 48 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 49 | [Proximus](http://twitter.com/search?q=Proximus) | N/A |
+| 50 | [Racisme](http://twitter.com/search?q=Racisme) | N/A |
 
 
 

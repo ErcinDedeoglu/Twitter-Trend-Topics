@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-12 17:18:38 UTC`
+📆 Last Updated: `2023-04-12 18:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Guatemala
 | 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 8 | [isaiah steen](http://twitter.com/search?q=isaiah+steen) | N/A |
+| 8 | [Isaiah Steen](http://twitter.com/search?q=Isaiah+Steen) | N/A |
 | 9 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 10 | [lester martínez](http://twitter.com/search?q=lester+mart%c3%adnez) | N/A |
 | 11 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
@@ -30,8 +30,8 @@ This is top 50 for Guatemala
 | 13 | [Guayo](http://twitter.com/search?q=Guayo) | N/A |
 | 14 | [Ciudad Juárez](http://twitter.com/search?q=Ciudad+Ju%c3%a1rez) | N/A |
 | 15 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 17 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 16 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 18 | [El City](http://twitter.com/search?q=El+City) | N/A |
 | 19 | [El Palmar](http://twitter.com/search?q=El+Palmar) | N/A |
 | 20 | [Millie](http://twitter.com/search?q=Millie) | N/A |
@@ -41,30 +41,30 @@ This is top 50 for Guatemala
 | 24 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 25 | [Rosé](http://twitter.com/search?q=Ros%c3%a9) | N/A |
 | 26 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 27 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 28 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
-| 29 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 30 | [#TodoElMundoHablaDeJamie](http://twitter.com/search?q=%23TodoElMundoHablaDeJamie) | N/A |
-| 31 | [Propuesta](http://twitter.com/search?q=Propuesta) | N/A |
-| 32 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 33 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
-| 34 | [#NelsonCarreras](http://twitter.com/search?q=%23NelsonCarreras) | N/A |
-| 35 | [fuerza aérea guatemalteca](http://twitter.com/search?q=fuerza+a%c3%a9rea+guatemalteca) | N/A |
-| 36 | [Nahualá](http://twitter.com/search?q=Nahual%c3%a1) | N/A |
-| 37 | [#reportenacional](http://twitter.com/search?q=%23reportenacional) | N/A |
+| 27 | [Municipal](http://twitter.com/search?q=Municipal) | N/A |
+| 28 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 29 | [Nahualá](http://twitter.com/search?q=Nahual%c3%a1) | N/A |
+| 30 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
+| 31 | [Bomberos Voluntarios](http://twitter.com/search?q=Bomberos+Voluntarios) | N/A |
+| 32 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 33 | [#TodoElMundoHablaDeJamie](http://twitter.com/search?q=%23TodoElMundoHablaDeJamie) | N/A |
+| 34 | [Propuesta](http://twitter.com/search?q=Propuesta) | N/A |
+| 35 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 36 | [#NelsonCarreras](http://twitter.com/search?q=%23NelsonCarreras) | N/A |
+| 37 | [fuerza aérea guatemalteca](http://twitter.com/search?q=fuerza+a%c3%a9rea+guatemalteca) | N/A |
 | 38 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 39 | [Leonel Rodas](http://twitter.com/search?q=Leonel+Rodas) | N/A |
-| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 41 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
-| 42 | [Boberto](http://twitter.com/search?q=Boberto) | N/A |
-| 43 | [acuerdo nacional](http://twitter.com/search?q=acuerdo+nacional) | N/A |
-| 44 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 45 | [Neto Bran](http://twitter.com/search?q=Neto+Bran) | N/A |
-| 46 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
-| 47 | [Aguas](http://twitter.com/search?q=Aguas) | N/A |
-| 48 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 49 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 50 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [#TheMarvels](http://twitter.com/search?q=%23TheMarvels) | N/A |
+| 41 | [Boberto](http://twitter.com/search?q=Boberto) | N/A |
+| 42 | [acuerdo nacional](http://twitter.com/search?q=acuerdo+nacional) | N/A |
+| 43 | [Carlos Bezares](http://twitter.com/search?q=Carlos+Bezares) | N/A |
+| 44 | [Neto Bran](http://twitter.com/search?q=Neto+Bran) | N/A |
+| 45 | [Las Vegas](http://twitter.com/search?q=Las+Vegas) | N/A |
+| 46 | [Aguas](http://twitter.com/search?q=Aguas) | N/A |
+| 47 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 48 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 49 | [Falso](http://twitter.com/search?q=Falso) | N/A |
+| 50 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 
 
 

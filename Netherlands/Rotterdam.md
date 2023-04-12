@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-04-12 17:17:52 UTC`
+📆 Last Updated: `2023-04-12 18:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,40 +30,40 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 13 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 15 | [taalpolitie](http://twitter.com/search?q=taalpolitie) | N/A |
-| 16 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 17 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 18 | [Flikker](http://twitter.com/search?q=Flikker) | N/A |
-| 19 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 20 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
-| 21 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 22 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
-| 23 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
-| 24 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 25 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
-| 26 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
-| 27 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 29 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
-| 30 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
-| 31 | [Sofascore](http://twitter.com/search?q=Sofascore) | N/A |
-| 32 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 33 | [Kamerlid](http://twitter.com/search?q=Kamerlid) | N/A |
-| 34 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
-| 35 | [Joseph Oosting](http://twitter.com/search?q=Joseph+Oosting) | N/A |
-| 36 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
-| 37 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 38 | [Henk Veldmate](http://twitter.com/search?q=Henk+Veldmate) | N/A |
-| 39 | [Flashscore](http://twitter.com/search?q=Flashscore) | N/A |
-| 40 | [Meisjes](http://twitter.com/search?q=Meisjes) | N/A |
-| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 16 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 17 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 18 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
+| 19 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
+| 20 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
+| 21 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
+| 22 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
+| 23 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
+| 24 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
+| 25 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 26 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 27 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
+| 28 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 29 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
+| 30 | [Sofascore](http://twitter.com/search?q=Sofascore) | N/A |
+| 31 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 32 | [Kamerlid](http://twitter.com/search?q=Kamerlid) | N/A |
+| 33 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
+| 34 | [Joseph Oosting](http://twitter.com/search?q=Joseph+Oosting) | N/A |
+| 35 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 36 | [henk veldmate](http://twitter.com/search?q=henk+veldmate) | N/A |
+| 37 | [Flashscore](http://twitter.com/search?q=Flashscore) | N/A |
+| 38 | [meisjes](http://twitter.com/search?q=meisjes) | N/A |
+| 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 40 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 41 | [Frans](http://twitter.com/search?q=Frans) | N/A |
 | 42 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 43 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 43 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
 | 44 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
-| 45 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
-| 46 | [Gestoord](http://twitter.com/search?q=Gestoord) | N/A |
-| 47 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 48 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 49 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 45 | [Argentinië](http://twitter.com/search?q=Argentini%c3%ab) | N/A |
+| 46 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 47 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 48 | [Gestoord](http://twitter.com/search?q=Gestoord) | N/A |
+| 49 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
 | 50 | [Livescore](http://twitter.com/search?q=Livescore) | N/A |
 
 

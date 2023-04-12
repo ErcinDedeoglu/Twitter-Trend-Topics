@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-04-12 17:18:27 UTC`
+📆 Last Updated: `2023-04-12 18:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 2 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
-| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 4 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 1 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
+| 2 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 3 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 4 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 5 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 7 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 9 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
-| 10 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
-| 11 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 12 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 13 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 14 | [Red Flag Warning](http://twitter.com/search?q=Red+Flag+Warning) | N/A |
-| 15 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 16 | [March CPI](http://twitter.com/search?q=March+CPI) | N/A |
-| 17 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 18 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
-| 19 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 20 | [Fort Sumter](http://twitter.com/search?q=Fort+Sumter) | N/A |
-| 21 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
-| 22 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 23 | [Herbie Hancock](http://twitter.com/search?q=Herbie+Hancock) | N/A |
-| 24 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
-| 25 | [Libraries](http://twitter.com/search?q=Libraries) | N/A |
-| 26 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
-| 27 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
-| 28 | [Lakers in 6](http://twitter.com/search?q=Lakers+in+6) | N/A |
-| 29 | [Arnold Schwarzenegger](http://twitter.com/search?q=Arnold+Schwarzenegger) | N/A |
-| 30 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 32 | [Assange](http://twitter.com/search?q=Assange) | N/A |
-| 33 | [Grizz in 5](http://twitter.com/search?q=Grizz+in+5) | N/A |
-| 34 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
-| 35 | [Stern](http://twitter.com/search?q=Stern) | N/A |
-| 36 | [Baki](http://twitter.com/search?q=Baki) | N/A |
-| 37 | [Sienna](http://twitter.com/search?q=Sienna) | N/A |
-| 38 | [Chester](http://twitter.com/search?q=Chester) | N/A |
-| 39 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 40 | [Carlson](http://twitter.com/search?q=Carlson) | N/A |
-| 41 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 42 | [Nuclear](http://twitter.com/search?q=Nuclear) | N/A |
-| 43 | [Margaret](http://twitter.com/search?q=Margaret) | N/A |
-| 44 | [Milley](http://twitter.com/search?q=Milley) | N/A |
-| 45 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 46 | [Colorado River](http://twitter.com/search?q=Colorado+River) | N/A |
-| 47 | [Woodstock](http://twitter.com/search?q=Woodstock) | N/A |
+| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 8 | [Core CPI](http://twitter.com/search?q=Core+CPI) | N/A |
+| 9 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 10 | [F--- Catholics](http://twitter.com/search?q=F---+Catholics) | N/A |
+| 11 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
+| 12 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 13 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 14 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 15 | [Red Flag Warning](http://twitter.com/search?q=Red+Flag+Warning) | N/A |
+| 16 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 17 | [Daily Quordle 443](http://twitter.com/search?q=Daily+Quordle+443) | N/A |
+| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 19 | [March CPI](http://twitter.com/search?q=March+CPI) | N/A |
+| 20 | [Biden DOJ](http://twitter.com/search?q=Biden+DOJ) | N/A |
+| 21 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 22 | [David Letterman](http://twitter.com/search?q=David+Letterman) | N/A |
+| 23 | [Fort Sumter](http://twitter.com/search?q=Fort+Sumter) | N/A |
+| 24 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
+| 25 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 26 | [Chapter 23](http://twitter.com/search?q=Chapter+23) | N/A |
+| 27 | [Libraries](http://twitter.com/search?q=Libraries) | N/A |
+| 28 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
+| 29 | [Herbie Hancock](http://twitter.com/search?q=Herbie+Hancock) | N/A |
+| 30 | [Moff Gideon](http://twitter.com/search?q=Moff+Gideon) | N/A |
+| 31 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 32 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 33 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 34 | [No VIP](http://twitter.com/search?q=No+VIP) | N/A |
+| 35 | [Lakers in 6](http://twitter.com/search?q=Lakers+in+6) | N/A |
+| 36 | [Arnold Schwarzenegger](http://twitter.com/search?q=Arnold+Schwarzenegger) | N/A |
+| 37 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 38 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 39 | [Another Republican](http://twitter.com/search?q=Another+Republican) | N/A |
+| 40 | [Substack Notes](http://twitter.com/search?q=Substack+Notes) | N/A |
+| 41 | [Assange](http://twitter.com/search?q=Assange) | N/A |
+| 42 | [Baki](http://twitter.com/search?q=Baki) | N/A |
+| 43 | [Stern](http://twitter.com/search?q=Stern) | N/A |
+| 44 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 45 | [RBC Heritage](http://twitter.com/search?q=RBC+Heritage) | N/A |
+| 46 | [Hawley](http://twitter.com/search?q=Hawley) | N/A |
+| 47 | [Devin White](http://twitter.com/search?q=Devin+White) | N/A |
 
 
 

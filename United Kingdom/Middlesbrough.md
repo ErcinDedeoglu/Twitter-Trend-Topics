@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-04-12 17:17:33 UTC`
+📆 Last Updated: `2023-04-12 18:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
+| 1 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 2 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
 | 3 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 4 | [#BCFC](http://twitter.com/search?q=%23BCFC) | N/A |
-| 5 | [#britsoc23](http://twitter.com/search?q=%23britsoc23) | N/A |
-| 6 | [Kate Andrews](http://twitter.com/search?q=Kate+Andrews) | N/A |
-| 7 | [#sustainability](http://twitter.com/search?q=%23sustainability) | N/A |
-| 8 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 5 | [#StressAwarenessMonth](http://twitter.com/search?q=%23StressAwarenessMonth) | N/A |
+| 6 | [#technology](http://twitter.com/search?q=%23technology) | N/A |
+| 7 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 8 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 9 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
 | 10 | [Good Friday Agreement](http://twitter.com/search?q=Good+Friday+Agreement) | N/A |
-| 11 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 12 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 13 | [Euro 2028](http://twitter.com/search?q=Euro+2028) | N/A |
-| 14 | [Dorah](http://twitter.com/search?q=Dorah) | N/A |
+| 11 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 12 | [Wordle 662 X](http://twitter.com/search?q=Wordle+662+X) | N/A |
+| 13 | [#BuildingsInMoviesOrSongs](http://twitter.com/search?q=%23BuildingsInMoviesOrSongs) | N/A |
+| 14 | [Euro 2028](http://twitter.com/search?q=Euro+2028) | N/A |
 | 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 16 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 16 | [Dorah](http://twitter.com/search?q=Dorah) | N/A |
 | 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
-| 19 | [Section 35](http://twitter.com/search?q=Section+35) | Section 35 of the Canadian Constitution is a provision that recognizes and affirms the existing Aboriginal and treaty rights of the Aboriginal peoples of Canada. It states that these rights are recognized and affirmed as being “existing aboriginal and treaty rights”, including the right to self-government. This section also allows for the federal government to pass laws in relation to these rights, as long as they are consistent with the Constitution. |
-| 20 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 21 | [Casement Park](http://twitter.com/search?q=Casement+Park) | N/A |
-| 22 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 23 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 24 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
+| 18 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 19 | [Casement Park](http://twitter.com/search?q=Casement+Park) | N/A |
+| 20 | [Jah Shaka](http://twitter.com/search?q=Jah+Shaka) | N/A |
+| 21 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
+| 22 | [Hampden](http://twitter.com/search?q=Hampden) | N/A |
+| 23 | [Section 35](http://twitter.com/search?q=Section+35) | Section 35 of the Canadian Constitution is a provision that recognizes and affirms the existing Aboriginal and treaty rights of the Aboriginal peoples of Canada. It states that these rights are recognized and affirmed as being “existing aboriginal and treaty rights”, including the right to self-government. This section also allows for the federal government to pass laws in relation to these rights, as long as they are consistent with the Constitution. |
+| 24 | [Watford](http://twitter.com/search?q=Watford) | N/A |
 | 25 | [Daniel Radcliffe](http://twitter.com/search?q=Daniel+Radcliffe) | N/A |
-| 26 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 27 | [Carly](http://twitter.com/search?q=Carly) | N/A |
-| 28 | [Sammy Wilson](http://twitter.com/search?q=Sammy+Wilson) | N/A |
-| 29 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
-| 30 | [Bonnie Tyler](http://twitter.com/search?q=Bonnie+Tyler) | N/A |
-| 31 | [James Clayton](http://twitter.com/search?q=James+Clayton) | N/A |
-| 32 | [Arlene](http://twitter.com/search?q=Arlene) | N/A |
-| 33 | [The Scottish Government](http://twitter.com/search?q=The+Scottish+Government) | N/A |
-| 34 | [Andrew Edwards](http://twitter.com/search?q=Andrew+Edwards) | N/A |
-| 35 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
-| 36 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 37 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 26 | [Carly](http://twitter.com/search?q=Carly) | N/A |
+| 27 | [Chris Wilder](http://twitter.com/search?q=Chris+Wilder) | N/A |
+| 28 | [Belfast](http://twitter.com/search?q=Belfast) | N/A |
+| 29 | [Andrew Edwards](http://twitter.com/search?q=Andrew+Edwards) | N/A |
+| 30 | [Murrayfield](http://twitter.com/search?q=Murrayfield) | N/A |
+| 31 | [Jobe](http://twitter.com/search?q=Jobe) | N/A |
+| 32 | [Bonnie Tyler](http://twitter.com/search?q=Bonnie+Tyler) | N/A |
+| 33 | [James Clayton](http://twitter.com/search?q=James+Clayton) | N/A |
+| 34 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 35 | [UK Government](http://twitter.com/search?q=UK+Government) | UK Government is the government of the United Kingdom, a constitutional monarchy in Europe. It is responsible for the governance of England, Scotland, Wales and Northern Ireland. The UK Government is headed by the Prime Minister and is made up of ministers from the ruling party or coalition. Its primary role is to make laws and policies that affect all citizens of the UK. |
+| 36 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
+| 37 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
 | 38 | [Ulster University](http://twitter.com/search?q=Ulster+University) | N/A |
-| 39 | [Britain First](http://twitter.com/search?q=Britain+First) | N/A |
-| 40 | [UK Government](http://twitter.com/search?q=UK+Government) | UK Government is the government of the United Kingdom, a constitutional monarchy in Europe. It is responsible for the governance of England, Scotland, Wales and Northern Ireland. The UK Government is headed by the Prime Minister and is made up of ministers from the ruling party or coalition. Its primary role is to make laws and policies that affect all citizens of the UK. |
-| 41 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
-| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 43 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 44 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 39 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 40 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 41 | [Scottish Government](http://twitter.com/search?q=Scottish+Government) | N/A |
+| 42 | [Pogba](http://twitter.com/search?q=Pogba) | Pogba is a nickname for the French professional footballer Paul Pogba. It is derived from his last name and is often used as a term of endearment by his fans. |
+| 43 | [Arlene Foster](http://twitter.com/search?q=Arlene+Foster) | N/A |
+| 44 | [Britain First](http://twitter.com/search?q=Britain+First) | N/A |
 | 45 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 46 | [Golding](http://twitter.com/search?q=Golding) | N/A |
 
 
 

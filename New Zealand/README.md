@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-12 17:18:41 UTC`
+📆 Last Updated: `2023-04-12 18:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -55,12 +55,12 @@ This is top 50 for New Zealand
 | 38 | [democracy nz](http://twitter.com/search?q=democracy+nz) | N/A |
 | 39 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 | 40 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 41 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
-| 42 | [Depp](http://twitter.com/search?q=Depp) | N/A |
-| 43 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 44 | [Spot](http://twitter.com/search?q=Spot) | N/A |
-| 45 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
-| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 42 | [wanaka](http://twitter.com/search?q=wanaka) | N/A |
+| 43 | [Depp](http://twitter.com/search?q=Depp) | N/A |
+| 44 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 45 | [Spot](http://twitter.com/search?q=Spot) | N/A |
+| 46 | [Cindy](http://twitter.com/search?q=Cindy) | N/A |
 | 47 | [Chat GPT](http://twitter.com/search?q=Chat+GPT) | N/A |
 | 48 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 | 49 | [dpmc](http://twitter.com/search?q=dpmc) | N/A |

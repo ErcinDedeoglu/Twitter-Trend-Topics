@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-12 17:17:52 UTC`
+📆 Last Updated: `2023-04-12 18:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,41 +29,41 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 13 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 14 | [taalpolitie](http://twitter.com/search?q=taalpolitie) | N/A |
-| 15 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 16 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 17 | [Flikker](http://twitter.com/search?q=Flikker) | N/A |
-| 18 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 19 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
-| 20 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 21 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
-| 22 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
-| 23 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 24 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
-| 25 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
-| 26 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 27 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 28 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
-| 29 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
-| 30 | [Sofascore](http://twitter.com/search?q=Sofascore) | N/A |
-| 31 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
-| 32 | [Kamerlid](http://twitter.com/search?q=Kamerlid) | N/A |
-| 33 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
+| 15 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 16 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
+| 17 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
+| 18 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
+| 19 | [oud-landbouwminister veerman](http://twitter.com/search?q=oud-landbouwminister+veerman) | N/A |
+| 20 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
+| 21 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
+| 22 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
+| 23 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
+| 24 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 25 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 26 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
+| 27 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 28 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
+| 29 | [Sofascore](http://twitter.com/search?q=Sofascore) | N/A |
+| 30 | [Vlees](http://twitter.com/search?q=Vlees) | N/A |
+| 31 | [Kamerlid](http://twitter.com/search?q=Kamerlid) | N/A |
+| 32 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
+| 33 | [Frans](http://twitter.com/search?q=Frans) | N/A |
 | 34 | [Joseph Oosting](http://twitter.com/search?q=Joseph+Oosting) | N/A |
-| 35 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
-| 36 | [Henk Veldmate](http://twitter.com/search?q=Henk+Veldmate) | N/A |
+| 35 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 36 | [henk veldmate](http://twitter.com/search?q=henk+veldmate) | N/A |
 | 37 | [Flashscore](http://twitter.com/search?q=Flashscore) | N/A |
-| 38 | [Meisjes](http://twitter.com/search?q=Meisjes) | N/A |
+| 38 | [meisjes](http://twitter.com/search?q=meisjes) | N/A |
 | 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 41 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
-| 42 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
-| 43 | [Gestoord](http://twitter.com/search?q=Gestoord) | N/A |
-| 44 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 45 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
-| 46 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 47 | [Livescore](http://twitter.com/search?q=Livescore) | N/A |
-| 48 | [Van der Plas](http://twitter.com/search?q=Van+der+Plas) | N/A |
-| 49 | [Bosz](http://twitter.com/search?q=Bosz) | N/A |
+| 40 | [Amsterdam](http://twitter.com/search?q=Amsterdam) | N/A |
+| 41 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 42 | [Micha Kat](http://twitter.com/search?q=Micha+Kat) | N/A |
+| 43 | [Paul de Leeuw](http://twitter.com/search?q=Paul+de+Leeuw) | N/A |
+| 44 | [Argentinië](http://twitter.com/search?q=Argentini%c3%ab) | N/A |
+| 45 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 46 | [Mislintat](http://twitter.com/search?q=Mislintat) | N/A |
+| 47 | [Gestoord](http://twitter.com/search?q=Gestoord) | N/A |
+| 48 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 49 | [Livescore](http://twitter.com/search?q=Livescore) | N/A |
 
 
 

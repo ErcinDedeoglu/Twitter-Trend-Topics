@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-12 17:18:36 UTC`
+📆 Last Updated: `2023-04-12 18:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Denmark
 | 4 | [#arbejde](http://twitter.com/search?q=%23arbejde) | N/A |
 | 5 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 6 | [#cldk](http://twitter.com/search?q=%23cldk) | N/A |
-| 7 | [#sundpol](http://twitter.com/search?q=%23sundpol) | N/A |
-| 8 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 7 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
+| 8 | [#sundpol](http://twitter.com/search?q=%23sundpol) | N/A |
 | 9 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
 | 10 | [Søren Brostrøm](http://twitter.com/search?q=S%c3%b8ren+Brostr%c3%b8m) | N/A |
-| 11 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 12 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 13 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 11 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
+| 12 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 13 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 | 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [Danish](http://twitter.com/search?q=Danish) | N/A |
-| 16 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
-| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 18 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 19 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 20 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
-| 21 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 22 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
-| 23 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [wass](http://twitter.com/search?q=wass) | N/A |
-| 26 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
-| 27 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 15 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 16 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 17 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 18 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 19 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 20 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
+| 23 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
+| 24 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 25 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 26 | [wass](http://twitter.com/search?q=wass) | N/A |
+| 27 | [F-16](http://twitter.com/search?q=F-16) | N/A |
 | 28 | [Ruslands](http://twitter.com/search?q=Ruslands) | N/A |
-| 29 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 32 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 33 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 34 | [næstved](http://twitter.com/search?q=n%c3%a6stved) | N/A |
-| 35 | [Fortæl](http://twitter.com/search?q=Fort%c3%a6l) | N/A |
-| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 37 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
-| 38 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
-| 39 | [Bueatiful](http://twitter.com/search?q=Bueatiful) | N/A |
+| 29 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 30 | [Jesper](http://twitter.com/search?q=Jesper) | N/A |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 33 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 34 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 35 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 36 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 37 | [næstved](http://twitter.com/search?q=n%c3%a6stved) | N/A |
+| 38 | [Fortæl](http://twitter.com/search?q=Fort%c3%a6l) | N/A |
+| 39 | [velkommen](http://twitter.com/search?q=velkommen) | N/A |
 | 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 41 | [Randers](http://twitter.com/search?q=Randers) | N/A |
-| 42 | [Undskyld](http://twitter.com/search?q=Undskyld) | N/A |
-| 43 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 44 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 45 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
-| 46 | [Spørgsmålet](http://twitter.com/search?q=Sp%c3%b8rgsm%c3%a5let) | N/A |
-| 47 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 48 | [Politiken](http://twitter.com/search?q=Politiken) | N/A |
-| 49 | [mikkel](http://twitter.com/search?q=mikkel) | N/A |
-| 50 | [frederik](http://twitter.com/search?q=frederik) | N/A |
+| 41 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
+| 42 | [Bueatiful](http://twitter.com/search?q=Bueatiful) | N/A |
+| 43 | [randers](http://twitter.com/search?q=randers) | N/A |
+| 44 | [Undskyld](http://twitter.com/search?q=Undskyld) | N/A |
+| 45 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 46 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
+| 47 | [Spørgsmålet](http://twitter.com/search?q=Sp%c3%b8rgsm%c3%a5let) | N/A |
+| 48 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 49 | [politiken](http://twitter.com/search?q=politiken) | N/A |
+| 50 | [mikkel](http://twitter.com/search?q=mikkel) | N/A |
 
 
 
