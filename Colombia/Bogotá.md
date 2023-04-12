@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-04-12 04:17:22 UTC`
+📆 Last Updated: `2023-04-12 05:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,50 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 1 | [Asprilla](http://twitter.com/search?q=Asprilla) | N/A |
 | 2 | [Neiva](http://twitter.com/search?q=Neiva) | N/A |
-| 3 | [Asprilla](http://twitter.com/search?q=Asprilla) | N/A |
-| 4 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
-| 5 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 6 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 7 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
-| 8 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 9 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 10 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 11 | [Carlos Darwin](http://twitter.com/search?q=Carlos+Darwin) | N/A |
+| 3 | [Banco de la República](http://twitter.com/search?q=Banco+de+la+Rep%c3%bablica) | N/A |
+| 4 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
+| 5 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
+| 6 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 7 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 8 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
+| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 10 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 11 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
 | 12 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 13 | [Guajira](http://twitter.com/search?q=Guajira) | N/A |
-| 14 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 13 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 14 | [Arrieta](http://twitter.com/search?q=Arrieta) | N/A |
 | 15 | [Falque](http://twitter.com/search?q=Falque) | N/A |
-| 16 | [Arrieta](http://twitter.com/search?q=Arrieta) | N/A |
-| 17 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
-| 18 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 19 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
-| 20 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 16 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 17 | [Lucas González](http://twitter.com/search?q=Lucas+Gonz%c3%a1lez) | N/A |
+| 18 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 19 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 20 | [Beto Coral](http://twitter.com/search?q=Beto+Coral) | N/A |
 | 21 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 22 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 23 | [Beto Coral](http://twitter.com/search?q=Beto+Coral) | N/A |
-| 24 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 25 | [Ratón](http://twitter.com/search?q=Rat%c3%b3n) | N/A |
-| 26 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 22 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 23 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 25 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 26 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
 | 27 | [#LaTeleLetal](http://twitter.com/search?q=%23LaTeleLetal) | N/A |
-| 28 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 29 | [Pascual](http://twitter.com/search?q=Pascual) | N/A |
-| 30 | [Alfredo](http://twitter.com/search?q=Alfredo) | N/A |
-| 31 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
-| 32 | [Daniel Coronell](http://twitter.com/search?q=Daniel+Coronell) | N/A |
-| 33 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 28 | [Hinestroza](http://twitter.com/search?q=Hinestroza) | N/A |
+| 29 | [Leys](http://twitter.com/search?q=Leys) | N/A |
+| 30 | [Pascual](http://twitter.com/search?q=Pascual) | N/A |
+| 31 | [Daniel Coronell](http://twitter.com/search?q=Daniel+Coronell) | N/A |
+| 32 | [Gema](http://twitter.com/search?q=Gema) | N/A |
+| 33 | [Kevin Castaño](http://twitter.com/search?q=Kevin+Casta%c3%b1o) | N/A |
 | 34 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 36 | [Álvaro Uribe](http://twitter.com/search?q=%c3%81lvaro+Uribe) | N/A |
-| 37 | [Miguel Escobar](http://twitter.com/search?q=Miguel+Escobar) | N/A |
-| 38 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 39 | [Emma](http://twitter.com/search?q=Emma) | Emma is a feminine given name derived from the Germanic word ermen, meaning “whole” or “universal.” It is also a diminutive form of the name Emily. Emma is a popular name in many English-speaking countries, including the United States, Canada, Australia, and New Zealand. |
-| 40 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 41 | [Banco de la República](http://twitter.com/search?q=Banco+de+la+Rep%c3%bablica) | N/A |
-| 42 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 43 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 44 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 45 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 46 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 47 | [#PrimeroLaSalud](http://twitter.com/search?q=%23PrimeroLaSalud) | N/A |
-| 48 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
+| 35 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 36 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
+| 37 | [Álvaro Uribe](http://twitter.com/search?q=%c3%81lvaro+Uribe) | N/A |
+| 38 | [Huila](http://twitter.com/search?q=Huila) | N/A |
+| 39 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 40 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 41 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 42 | [Tulio](http://twitter.com/search?q=Tulio) | N/A |
+| 43 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 44 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
 
 
 

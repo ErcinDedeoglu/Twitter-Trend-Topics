@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-04-12 04:17:49 UTC`
+📆 Last Updated: `2023-04-12 05:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,35 +36,35 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 19 | [golden jubilee](http://twitter.com/search?q=golden+jubilee) | N/A |
 | 20 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 21 | [O Ali](http://twitter.com/search?q=O+Ali) | N/A |
-| 22 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
-| 23 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
-| 24 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
-| 25 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 26 | [ajk high court](http://twitter.com/search?q=ajk+high+court) | N/A |
-| 27 | [benazir kafaalat](http://twitter.com/search?q=benazir+kafaalat) | N/A |
-| 28 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 29 | [Heavy Industries Taxila](http://twitter.com/search?q=Heavy+Industries+Taxila) | N/A |
-| 30 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
-| 31 | [Ameer ul Momineen](http://twitter.com/search?q=Ameer+ul+Momineen) | N/A |
-| 32 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 33 | [hepatitis](http://twitter.com/search?q=hepatitis) | N/A |
-| 34 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
-| 35 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 36 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 37 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 22 | [Abi Talib](http://twitter.com/search?q=Abi+Talib) | N/A |
+| 23 | [Kufa](http://twitter.com/search?q=Kufa) | N/A |
+| 24 | [ajk high court](http://twitter.com/search?q=ajk+high+court) | N/A |
+| 25 | [benazir kafaalat](http://twitter.com/search?q=benazir+kafaalat) | N/A |
+| 26 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 27 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
+| 28 | [Mola Ali](http://twitter.com/search?q=Mola+Ali) | N/A |
+| 29 | [Ya Ali](http://twitter.com/search?q=Ya+Ali) | N/A |
+| 30 | [hepatitis](http://twitter.com/search?q=hepatitis) | N/A |
+| 31 | [Heavy Industries Taxila](http://twitter.com/search?q=Heavy+Industries+Taxila) | N/A |
+| 32 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 33 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 34 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 35 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 36 | [Ameer ul Momineen](http://twitter.com/search?q=Ameer+ul+Momineen) | N/A |
+| 37 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
 | 38 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 39 | [Srinagar](http://twitter.com/search?q=Srinagar) | N/A |
-| 40 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 41 | [Maula Ali](http://twitter.com/search?q=Maula+Ali) | N/A |
-| 42 | [Aitzaz Ahsan](http://twitter.com/search?q=Aitzaz+Ahsan) | N/A |
-| 43 | [When Allah](http://twitter.com/search?q=When+Allah) | N/A |
-| 44 | [Noor](http://twitter.com/search?q=Noor) | N/A |
-| 45 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 46 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 47 | [Basically](http://twitter.com/search?q=Basically) | N/A |
-| 48 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 49 | [Mere](http://twitter.com/search?q=Mere) | N/A |
-| 50 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 39 | [Arkaan Al Huda](http://twitter.com/search?q=Arkaan+Al+Huda) | N/A |
+| 40 | [Shab E Ghurbat](http://twitter.com/search?q=Shab+E+Ghurbat) | N/A |
+| 41 | [When Allah](http://twitter.com/search?q=When+Allah) | N/A |
+| 42 | [Noor](http://twitter.com/search?q=Noor) | N/A |
+| 43 | [Heyy](http://twitter.com/search?q=Heyy) | N/A |
+| 44 | [Gilgit](http://twitter.com/search?q=Gilgit) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 46 | [Istg](http://twitter.com/search?q=Istg) | N/A |
+| 47 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
+| 48 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 49 | [Haider](http://twitter.com/search?q=Haider) | N/A |
+| 50 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 
 
 

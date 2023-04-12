@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-04-12 04:18:07 UTC`
+📆 Last Updated: `2023-04-12 05:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Malaysia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 2 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
-| 3 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 4 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 6 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 7 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 8 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 9 | [#BillboardRacist](http://twitter.com/search?q=%23BillboardRacist) | N/A |
-| 10 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
-| 11 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 3 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 4 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
+| 5 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 6 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 7 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 10 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
+| 11 | [FML OFFICIAL PHOTO 1](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+1) | N/A |
 | 12 | [youngk](http://twitter.com/search?q=youngk) | N/A |
-| 13 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 13 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 14 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 15 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 15 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
 | 16 | [Millie](http://twitter.com/search?q=Millie) | N/A |
 | 17 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 18 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
+| 18 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
 | 19 | [Sam Ke Ting](http://twitter.com/search?q=Sam+Ke+Ting) | N/A |
 | 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 21 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
 | 22 | [UNFORGIVEN 1ST CONCEPT](http://twitter.com/search?q=UNFORGIVEN+1ST+CONCEPT) | N/A |
 | 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 24 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 24 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
 | 25 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 26 | [TAEJUN ON SUCHWITA](http://twitter.com/search?q=TAEJUN+ON+SUCHWITA) | N/A |
-| 27 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
-| 28 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 26 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 27 | [TAEJUN ON SUCHWITA](http://twitter.com/search?q=TAEJUN+ON+SUCHWITA) | N/A |
+| 28 | [minhyuk](http://twitter.com/search?q=minhyuk) | N/A |
 | 29 | [I AM](http://twitter.com/search?q=I+AM) | N/A |
 | 30 | [Toto](http://twitter.com/search?q=Toto) | N/A |
 | 31 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 32 | [maknae](http://twitter.com/search?q=maknae) | N/A |
-| 33 | [paul chan](http://twitter.com/search?q=paul+chan) | N/A |
-| 34 | [Using a GIF](http://twitter.com/search?q=Using+a+GIF) | N/A |
-| 35 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
-| 36 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 37 | [yoonmin](http://twitter.com/search?q=yoonmin) | Yoonmin is a portmanteau of the names of two South Korean pop stars, Yoongi (also known as Suga) and Jimin, who are both members of the K-pop group BTS. The term is used to refer to the close friendship between the two singers. |
-| 38 | [GREG HEFFLEY](http://twitter.com/search?q=GREG+HEFFLEY) | N/A |
+| 32 | [Using a GIF](http://twitter.com/search?q=Using+a+GIF) | N/A |
+| 33 | [maknae](http://twitter.com/search?q=maknae) | N/A |
+| 34 | [Vidic](http://twitter.com/search?q=Vidic) | N/A |
+| 35 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 36 | [Paul Chan](http://twitter.com/search?q=Paul+Chan) | N/A |
+| 37 | [greg heffley](http://twitter.com/search?q=greg+heffley) | N/A |
+| 38 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 39 | [UNFORGIVEN 1M PREORDERS](http://twitter.com/search?q=UNFORGIVEN+1M+PREORDERS) | N/A |
 | 40 | [Jill](http://twitter.com/search?q=Jill) | N/A |
 | 41 | [Double B](http://twitter.com/search?q=Double+B) | N/A |
 | 42 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
-| 43 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
-| 44 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 43 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 44 | [dex heller](http://twitter.com/search?q=dex+heller) | N/A |
 | 45 | [Disappointed](http://twitter.com/search?q=Disappointed) | N/A |
 | 46 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 47 | [Almond London](http://twitter.com/search?q=Almond+London) | N/A |
-| 48 | [ticketing service](http://twitter.com/search?q=ticketing+service) | N/A |
-| 49 | [VIXX](http://twitter.com/search?q=VIXX) | N/A |
-| 50 | [Jess](http://twitter.com/search?q=Jess) | N/A |
+| 47 | [Innocent Challenge](http://twitter.com/search?q=Innocent+Challenge) | N/A |
+| 48 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 49 | [Almond London](http://twitter.com/search?q=Almond+London) | N/A |
+| 50 | [TICKETING SERVICE](http://twitter.com/search?q=TICKETING+SERVICE) | N/A |
 
 
 

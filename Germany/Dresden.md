@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-12 04:17:29 UTC`
+📆 Last Updated: `2023-04-12 05:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
 | 2 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 4 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 6 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
-| 7 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
-| 8 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
-| 9 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 10 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 4 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 5 | [#Tuchel](http://twitter.com/search?q=%23Tuchel) | N/A |
+| 6 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 7 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 8 | [Kahn](http://twitter.com/search?q=Kahn) | N/A |
+| 9 | [Nulltarif](http://twitter.com/search?q=Nulltarif) | N/A |
+| 10 | [Gnabry](http://twitter.com/search?q=Gnabry) | Gnabry is a German surname derived from the Old High German word "gnaben", meaning "to bite". It is also a given name, typically used as a nickname for someone with the surname. |
+| 11 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 12 | [frohe ostern](http://twitter.com/search?q=frohe+ostern) | N/A |
-| 13 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
-| 14 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 15 | [rückspiel](http://twitter.com/search?q=r%c3%bcckspiel) | N/A |
-| 16 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 17 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
-| 18 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 19 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 20 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 22 | [Visagistin](http://twitter.com/search?q=Visagistin) | N/A |
-| 23 | [Entfremdung des Menschen](http://twitter.com/search?q=Entfremdung+des+Menschen) | N/A |
-| 24 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 25 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 13 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 14 | [Eckpunkte](http://twitter.com/search?q=Eckpunkte) | N/A |
+| 15 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 16 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 17 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 19 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 20 | [Musiala](http://twitter.com/search?q=Musiala) | Musiala is a Polish surname derived from the word musiał, which means "had to". It is also the name of a German footballer, Jamal Musiala, who plays for Bayern Munich. |
+| 21 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 22 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 23 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 24 | [Visagistin](http://twitter.com/search?q=Visagistin) | N/A |
+| 25 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
 | 26 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 27 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 29 | [Weltklasse](http://twitter.com/search?q=Weltklasse) | N/A |
+| 28 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 29 | [Entfremdung des Menschen](http://twitter.com/search?q=Entfremdung+des+Menschen) | N/A |
 | 30 | [Blackout](http://twitter.com/search?q=Blackout) | N/A |
-| 31 | [ostermontag](http://twitter.com/search?q=ostermontag) | N/A |
-| 32 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 33 | [endlager](http://twitter.com/search?q=endlager) | N/A |
-| 34 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 35 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
-| 36 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
-| 37 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 38 | [klagen](http://twitter.com/search?q=klagen) | N/A |
-| 39 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 40 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 41 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 42 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
-| 43 | [energie aus wind und sonne](http://twitter.com/search?q=energie+aus+wind+und+sonne) | N/A |
-| 44 | [Wettbewerben](http://twitter.com/search?q=Wettbewerben) | N/A |
-| 45 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 46 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
-| 47 | [Mehrheitlich](http://twitter.com/search?q=Mehrheitlich) | N/A |
-| 48 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 49 | [Jill](http://twitter.com/search?q=Jill) | N/A |
+| 31 | [weltklasse](http://twitter.com/search?q=weltklasse) | N/A |
+| 32 | [Dennis](http://twitter.com/search?q=Dennis) | Dennis is a masculine given name of English origin. It is derived from the Greek name Dionysius, which is derived from the god Dionysus. The name Dennis means "follower of Dionysus" or "devotee of Dionysus". |
+| 33 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 34 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
+| 35 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 36 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 37 | [Küchenhilfe](http://twitter.com/search?q=K%c3%bcchenhilfe) | N/A |
+| 38 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
+| 39 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | N/A |
+| 40 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 41 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 42 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 43 | [Klagen](http://twitter.com/search?q=Klagen) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 46 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 47 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 48 | [Mehrheitlich](http://twitter.com/search?q=Mehrheitlich) | N/A |
+| 49 | [wiener schnitzel](http://twitter.com/search?q=wiener+schnitzel) | N/A |
 
 
 
