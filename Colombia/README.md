@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-12 22:17:55 UTC`
+📆 Last Updated: `2023-04-12 23:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,36 @@ This is top 50 for Colombia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 3 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 4 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
-| 5 | [#UnaInfamiaEs](http://twitter.com/search?q=%23UnaInfamiaEs) | N/A |
-| 6 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 7 | [#NoMeSorprende](http://twitter.com/search?q=%23NoMeSorprende) | N/A |
-| 8 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 10 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 11 | [La Tebaida](http://twitter.com/search?q=La+Tebaida) | N/A |
-| 12 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 13 | [#DefendamosEPM](http://twitter.com/search?q=%23DefendamosEPM) | N/A |
-| 14 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 15 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 16 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 17 | [Beto Coral](http://twitter.com/search?q=Beto+Coral) | N/A |
-| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 19 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 20 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
-| 21 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 22 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 24 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 25 | [Barragán](http://twitter.com/search?q=Barrag%c3%a1n) | N/A |
-| 26 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 27 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 28 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 29 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 30 | [Toribío](http://twitter.com/search?q=Torib%c3%ado) | N/A |
-| 31 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 32 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 33 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 34 | [Guimaraes](http://twitter.com/search?q=Guimaraes) | N/A |
-| 35 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 36 | [Aladesanmi](http://twitter.com/search?q=Aladesanmi) | N/A |
-| 37 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 38 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 39 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 40 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 41 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 42 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 43 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 44 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
-| 45 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 46 | [Cartago](http://twitter.com/search?q=Cartago) | N/A |
-| 47 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 48 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 49 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
-| 50 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 1 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 2 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
+| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 4 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 5 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 6 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 7 | [Cartago](http://twitter.com/search?q=Cartago) | N/A |
+| 8 | [La Tebaida](http://twitter.com/search?q=La+Tebaida) | N/A |
+| 9 | [Aldair Quintana](http://twitter.com/search?q=Aldair+Quintana) | N/A |
+| 10 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 14 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 15 | [Aladesanmi](http://twitter.com/search?q=Aladesanmi) | N/A |
+| 16 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 17 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 18 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 19 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 20 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
+| 21 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 22 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 23 | [Toribío](http://twitter.com/search?q=Torib%c3%ado) | N/A |
+| 24 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
+| 25 | [William Salamanca](http://twitter.com/search?q=William+Salamanca) | N/A |
+| 26 | [Tibisay](http://twitter.com/search?q=Tibisay) | N/A |
+| 27 | [Invima](http://twitter.com/search?q=Invima) | N/A |
+| 28 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 29 | [Director](http://twitter.com/search?q=Director) | N/A |
+| 30 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 
 
 

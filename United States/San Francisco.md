@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-12 22:17:52 UTC`
+📆 Last Updated: `2023-04-12 23:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
+| 1 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
 | 2 | [Katie Porter](http://twitter.com/search?q=Katie+Porter) | Katie Porter is an American politician and attorney who currently serves as the U.S. Representative for California's 45th congressional district. She is a member of the Democratic Party and was first elected to Congress in 2018. The name Katie Porter is derived from the English word "porter," which means a person who carries luggage or goods for others. |
-| 3 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 4 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 5 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 6 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 9 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 10 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 11 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 12 | [#INTELLECTUALPROPERTY](http://twitter.com/search?q=%23INTELLECTUALPROPERTY) | N/A |
-| 13 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 14 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
-| 15 | [Brett Phillips](http://twitter.com/search?q=Brett+Phillips) | N/A |
-| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [Snell](http://twitter.com/search?q=Snell) | N/A |
+| 5 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 6 | [Senator](http://twitter.com/search?q=Senator) | N/A |
+| 7 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 8 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 10 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
+| 11 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 12 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 13 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 14 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 16 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
 | 17 | [Cinemax](http://twitter.com/search?q=Cinemax) | N/A |
-| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 19 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 20 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
-| 21 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 22 | [EV Bentley](http://twitter.com/search?q=EV+Bentley) | N/A |
-| 23 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 24 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
-| 25 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 26 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
+| 18 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
+| 19 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 21 | [EV Bentley](http://twitter.com/search?q=EV+Bentley) | N/A |
+| 22 | [Brett Phillips](http://twitter.com/search?q=Brett+Phillips) | N/A |
+| 23 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
+| 24 | [Defund](http://twitter.com/search?q=Defund) | N/A |
+| 25 | [#BullsNation](http://twitter.com/search?q=%23BullsNation) | N/A |
+| 26 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
 | 27 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
-| 28 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 29 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 30 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 31 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 32 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 33 | [Defund](http://twitter.com/search?q=Defund) | N/A |
-| 34 | [Bryson Stott](http://twitter.com/search?q=Bryson+Stott) | N/A |
-| 35 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 36 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 37 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 38 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 39 | [60fps](http://twitter.com/search?q=60fps) | N/A |
-| 40 | [RMA vs CHE](http://twitter.com/search?q=RMA+vs+CHE) | N/A |
-| 41 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 42 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 43 | [Nate](http://twitter.com/search?q=Nate) | N/A |
-| 44 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
-| 45 | [Ultimate Ad-free](http://twitter.com/search?q=Ultimate+Ad-free) | N/A |
-| 46 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 48 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
-| 49 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
+| 28 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 29 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 30 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 31 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 32 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 33 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
+| 34 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 35 | [Nate](http://twitter.com/search?q=Nate) | N/A |
+| 36 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
+| 37 | [Scholastic](http://twitter.com/search?q=Scholastic) | N/A |
+| 38 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 39 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 40 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 41 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 42 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 43 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 44 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
+| 45 | [Kremer](http://twitter.com/search?q=Kremer) | N/A |
+| 46 | [Experts](http://twitter.com/search?q=Experts) | N/A |
+| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 48 | [Vicky](http://twitter.com/search?q=Vicky) | Vicky is a nickname for the name Victoria, which is of Latin origin and means "victory". |
+| 49 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
 
 
 

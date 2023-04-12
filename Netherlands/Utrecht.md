@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-12 22:17:16 UTC`
+📆 Last Updated: `2023-04-12 23:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 3 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 4 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 5 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
-| 6 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 7 | [#MILNAP](http://twitter.com/search?q=%23MILNAP) | N/A |
-| 8 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 9 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
-| 10 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 12 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 13 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 15 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 17 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 18 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
-| 19 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 20 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
-| 21 | [taalpolitie](http://twitter.com/search?q=taalpolitie) | N/A |
-| 22 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 23 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
-| 24 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
-| 27 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
-| 28 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
-| 29 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
-| 30 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
-| 31 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
-| 32 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 33 | [Sofascore](http://twitter.com/search?q=Sofascore) | N/A |
-| 34 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
-| 35 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
-| 36 | [Vendrik](http://twitter.com/search?q=Vendrik) | N/A |
-| 37 | [Wierd Duk](http://twitter.com/search?q=Wierd+Duk) | N/A |
-| 38 | [joseph oosting](http://twitter.com/search?q=joseph+oosting) | N/A |
-| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 40 | [Henk Veldmate](http://twitter.com/search?q=Henk+Veldmate) | N/A |
-| 41 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
-| 42 | [Getekend](http://twitter.com/search?q=Getekend) | N/A |
-| 43 | [Klaas](http://twitter.com/search?q=Klaas) | N/A |
-| 44 | [Gestoord](http://twitter.com/search?q=Gestoord) | N/A |
-| 45 | [Frans](http://twitter.com/search?q=Frans) | N/A |
-| 46 | [Flashscore](http://twitter.com/search?q=Flashscore) | N/A |
-| 47 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 48 | [Inductie](http://twitter.com/search?q=Inductie) | N/A |
+| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 7 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
+| 8 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 9 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
+| 10 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 13 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
+| 14 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
+| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 17 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 18 | [Timmermans](http://twitter.com/search?q=Timmermans) | N/A |
+| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 21 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 22 | [taalpolitie](http://twitter.com/search?q=taalpolitie) | N/A |
+| 23 | [Hongarije](http://twitter.com/search?q=Hongarije) | N/A |
+| 24 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 25 | [FotMob](http://twitter.com/search?q=FotMob) | N/A |
+| 26 | [oud-minister van landbouw](http://twitter.com/search?q=oud-minister+van+landbouw) | N/A |
+| 27 | [Manc](http://twitter.com/search?q=Manc) | N/A |
+| 28 | [Sandra Beckerman](http://twitter.com/search?q=Sandra+Beckerman) | N/A |
+| 29 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 30 | [Sylvana](http://twitter.com/search?q=Sylvana) | N/A |
+| 31 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 32 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 33 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 34 | [Rumble](http://twitter.com/search?q=Rumble) | N/A |
+| 35 | [Landal](http://twitter.com/search?q=Landal) | N/A |
+| 36 | [joseph oosting](http://twitter.com/search?q=joseph+oosting) | N/A |
+| 37 | [Sidney Smeets](http://twitter.com/search?q=Sidney+Smeets) | N/A |
+| 38 | [knsb](http://twitter.com/search?q=knsb) | N/A |
+| 39 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
+| 40 | [Sofascore](http://twitter.com/search?q=Sofascore) | N/A |
+| 41 | [Kamer](http://twitter.com/search?q=Kamer) | N/A |
+| 42 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 43 | [LiveScore](http://twitter.com/search?q=LiveScore) | N/A |
+| 44 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 45 | [Zijldijk](http://twitter.com/search?q=Zijldijk) | N/A |
+| 46 | [Getekend](http://twitter.com/search?q=Getekend) | N/A |
+| 47 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 48 | [De NOS](http://twitter.com/search?q=De+NOS) | N/A |
 
 
 

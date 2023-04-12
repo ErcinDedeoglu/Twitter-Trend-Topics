@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-04-12 22:17:57 UTC`
+📆 Last Updated: `2023-04-12 23:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 1 | [urusangue kerenin indonesia](http://twitter.com/search?q=urusangue+kerenin+indonesia) | N/A |
+| 2 | [#urusannegaraprabowoaja](http://twitter.com/search?q=%23urusannegaraprabowoaja) | N/A |
 | 3 | [#PartaiKebangkitanBangsa](http://twitter.com/search?q=%23PartaiKebangkitanBangsa) | N/A |
-| 4 | [urusangue kerenin indonesia](http://twitter.com/search?q=urusangue+kerenin+indonesia) | N/A |
-| 5 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
-| 6 | [#urusannegaraprabowoaja](http://twitter.com/search?q=%23urusannegaraprabowoaja) | N/A |
-| 7 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 8 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 9 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
-| 10 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
-| 11 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 13 | [YOSHI BLACK HAIR](http://twitter.com/search?q=YOSHI+BLACK+HAIR) | N/A |
-| 14 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 15 | [kualitas pengadil lapangan](http://twitter.com/search?q=kualitas+pengadil+lapangan) | N/A |
-| 16 | [Jakarta Butuh Cuti](http://twitter.com/search?q=Jakarta+Butuh+Cuti) | N/A |
-| 17 | [GORDON RAMSAY](http://twitter.com/search?q=GORDON+RAMSAY) | N/A |
-| 18 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 19 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
-| 20 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 21 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 22 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 23 | [Yati](http://twitter.com/search?q=Yati) | N/A |
-| 24 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 25 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 26 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 27 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 29 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 4 | [#GusMuhaimin](http://twitter.com/search?q=%23GusMuhaimin) | #GusMuhaimin is a hashtag used to show support for Indonesian politician Muhaimin Iskandar, who is also known as Gus Muhaimin. The hashtag is used to show solidarity with Gus Muhaimin and his political agenda. |
+| 5 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
+| 6 | [#LebaranPakeCarvil](http://twitter.com/search?q=%23LebaranPakeCarvil) | N/A |
+| 7 | [#restartforchange](http://twitter.com/search?q=%23restartforchange) | N/A |
+| 8 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 11 | [kualitas pengadil lapangan](http://twitter.com/search?q=kualitas+pengadil+lapangan) | N/A |
+| 12 | [jakarta butuh cuti](http://twitter.com/search?q=jakarta+butuh+cuti) | N/A |
+| 13 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 14 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 15 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 16 | [YOSHI BLACK HAIR](http://twitter.com/search?q=YOSHI+BLACK+HAIR) | N/A |
+| 17 | [YOSHI BLACK HAIR](http://twitter.com/search?q=YOSHI+BLACK+HAIR) | N/A |
+| 18 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 19 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 20 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 21 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
+| 22 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 23 | [Tegakkan Kalimatullah](http://twitter.com/search?q=Tegakkan+Kalimatullah) | N/A |
+| 24 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 25 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 26 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 27 | [Yati](http://twitter.com/search?q=Yati) | N/A |
+| 28 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 29 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
 | 30 | [Perabot](http://twitter.com/search?q=Perabot) | N/A |
-| 31 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 32 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 33 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
-| 34 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 36 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 37 | [Celsi](http://twitter.com/search?q=Celsi) | N/A |
-| 38 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
-| 39 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 40 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 41 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 42 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 43 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 44 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 31 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 32 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 33 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 34 | [Anas](http://twitter.com/search?q=Anas) | N/A |
+| 35 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 37 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 38 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 39 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 40 | [ferdy sambo](http://twitter.com/search?q=ferdy+sambo) | N/A |
+| 41 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 42 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 43 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 44 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 45 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
 | 46 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 47 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 48 | [Anas](http://twitter.com/search?q=Anas) | N/A |
-| 49 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 50 | [Wak Haji](http://twitter.com/search?q=Wak+Haji) | N/A |
+| 47 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
+| 48 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 49 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 50 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
 
 
 

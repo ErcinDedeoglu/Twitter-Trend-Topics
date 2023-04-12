@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-04-12 22:17:29 UTC`
+📆 Last Updated: `2023-04-12 23:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
-| 2 | [BGYO VIVID OUT NOW](http://twitter.com/search?q=BGYO+VIVID+OUT+NOW) | N/A |
-| 3 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 4 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
-| 5 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
-| 6 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
-| 7 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
-| 8 | [#AskPLUUS](http://twitter.com/search?q=%23AskPLUUS) | N/A |
-| 9 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
-| 10 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
-| 11 | [ChiCo POOLinLove](http://twitter.com/search?q=ChiCo+POOLinLove) | N/A |
-| 12 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 15 | [D2 KDLEXPETA COMEBACK](http://twitter.com/search?q=D2+KDLEXPETA+COMEBACK) | N/A |
-| 16 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
-| 17 | [Sins Against the Holy Spirit](http://twitter.com/search?q=Sins+Against+the+Holy+Spirit) | N/A |
-| 18 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 19 | [D-2 TO PARAISO](http://twitter.com/search?q=D-2+TO+PARAISO) | N/A |
-| 20 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
+| 1 | [BGYO VIVID OUT NOW](http://twitter.com/search?q=BGYO+VIVID+OUT+NOW) | N/A |
+| 2 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
+| 3 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
+| 4 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 5 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 6 | [#MyChildhoodIssues](http://twitter.com/search?q=%23MyChildhoodIssues) | N/A |
+| 7 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
+| 8 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
+| 9 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 10 | [pienally its vibrent](http://twitter.com/search?q=pienally+its+vibrent) | N/A |
+| 11 | [YOSHI BLACK HAIR](http://twitter.com/search?q=YOSHI+BLACK+HAIR) | N/A |
+| 12 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 13 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 14 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 15 | [ChiCo POOLinLove](http://twitter.com/search?q=ChiCo+POOLinLove) | N/A |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 18 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 19 | [presave alexa srh-remix](http://twitter.com/search?q=presave+alexa+srh-remix) | N/A |
+| 20 | [D2 KDLEXPETA COMEBACK](http://twitter.com/search?q=D2+KDLEXPETA+COMEBACK) | N/A |
 | 21 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 22 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 23 | [presave alexa srh-remix](http://twitter.com/search?q=presave+alexa+srh-remix) | N/A |
-| 24 | [daniel for hana shampoo](http://twitter.com/search?q=daniel+for+hana+shampoo) | N/A |
-| 25 | [RALPHGAIL THELIARLOVETEAM](http://twitter.com/search?q=RALPHGAIL+THELIARLOVETEAM) | N/A |
-| 26 | [edi congrats fairies](http://twitter.com/search?q=edi+congrats+fairies) | N/A |
-| 27 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 28 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 29 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 30 | [happy 2months hori7on](http://twitter.com/search?q=happy+2months+hori7on) | N/A |
-| 31 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 32 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 33 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 34 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
-| 35 | [MIKE CONLEY](http://twitter.com/search?q=MIKE+CONLEY) | N/A |
-| 36 | [TWOLONG LIAM](http://twitter.com/search?q=TWOLONG+LIAM) | N/A |
-| 37 | [ANJI PARAISO MEDIACON](http://twitter.com/search?q=ANJI+PARAISO+MEDIACON) | N/A |
-| 38 | [KNOCK KNOCK CHAEYEON HERE](http://twitter.com/search?q=KNOCK+KNOCK+CHAEYEON+HERE) | N/A |
-| 39 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 40 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
-| 41 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 42 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 43 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 44 | [Taetae](http://twitter.com/search?q=Taetae) | Taetae is a Korean term of endearment used to refer to someone close to you, such as a friend or family member. It is similar to the English terms "honey" or "sweetheart". |
-| 45 | [Tanggol](http://twitter.com/search?q=Tanggol) | N/A |
-| 46 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
-| 47 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 48 | [BarDa Kembek](http://twitter.com/search?q=BarDa+Kembek) | N/A |
-| 49 | [Pulse Asia](http://twitter.com/search?q=Pulse+Asia) | N/A |
-| 50 | [D-DAY BREAK YOU DOWN](http://twitter.com/search?q=D-DAY+BREAK+YOU+DOWN) | N/A |
+| 22 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 23 | [D-2 TO PARAISO](http://twitter.com/search?q=D-2+TO+PARAISO) | N/A |
+| 24 | [DANIEL FOR HANA SHAMPOO](http://twitter.com/search?q=DANIEL+FOR+HANA+SHAMPOO) | N/A |
+| 25 | [WIND AND WISH COMING SOON](http://twitter.com/search?q=WIND+AND+WISH+COMING+SOON) | N/A |
+| 26 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 27 | [happy 2months hori7on](http://twitter.com/search?q=happy+2months+hori7on) | N/A |
+| 28 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
+| 29 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 30 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
+| 31 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
+| 32 | [adamson](http://twitter.com/search?q=adamson) | N/A |
+| 33 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 34 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 35 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 36 | [Sungjin](http://twitter.com/search?q=Sungjin) | N/A |
+| 37 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
+| 38 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
+| 39 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 41 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
+| 42 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
+| 43 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 44 | [ralphgail theliarloveteam](http://twitter.com/search?q=ralphgail+theliarloveteam) | N/A |
+| 45 | [anji paraiso mediacon](http://twitter.com/search?q=anji+paraiso+mediacon) | N/A |
+| 46 | [barda kembek](http://twitter.com/search?q=barda+kembek) | N/A |
+| 47 | [False Asia](http://twitter.com/search?q=False+Asia) | N/A |
+| 48 | [tanggol](http://twitter.com/search?q=tanggol) | N/A |
+| 49 | [Junkyu](http://twitter.com/search?q=Junkyu) | N/A |
+| 50 | [Dingdong Dantes](http://twitter.com/search?q=Dingdong+Dantes) | N/A |
 
 
 
