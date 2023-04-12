@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-04-12 21:17:34 UTC`
+📆 Last Updated: `2023-04-12 22:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 4 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
-| 5 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 6 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
-| 7 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 11 | [#intellectualproperty](http://twitter.com/search?q=%23intellectualproperty) | N/A |
-| 12 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 13 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 14 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 15 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 16 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 19 | [Cinemax](http://twitter.com/search?q=Cinemax) | N/A |
+| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 4 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 5 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 6 | [#INTELLECTUALPROPERTY](http://twitter.com/search?q=%23INTELLECTUALPROPERTY) | N/A |
+| 7 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
+| 8 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
+| 9 | [Brett Phillips](http://twitter.com/search?q=Brett+Phillips) | N/A |
+| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 11 | [Cinemax](http://twitter.com/search?q=Cinemax) | N/A |
+| 12 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 13 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 14 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 15 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
+| 16 | [EV Bentley](http://twitter.com/search?q=EV+Bentley) | N/A |
+| 17 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 18 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 19 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
 | 20 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
-| 21 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 22 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 23 | [#DefundNPR](http://twitter.com/search?q=%23DefundNPR) | N/A |
-| 24 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 25 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 26 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 27 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 28 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 29 | [Buxton](http://twitter.com/search?q=Buxton) | N/A |
-| 30 | [RMA vs CHE](http://twitter.com/search?q=RMA+vs+CHE) | N/A |
-| 31 | [30fps](http://twitter.com/search?q=30fps) | N/A |
-| 32 | [Ultimate Ad-free](http://twitter.com/search?q=Ultimate+Ad-free) | N/A |
-| 33 | [EV Bentley](http://twitter.com/search?q=EV+Bentley) | N/A |
-| 34 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
-| 35 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 36 | [Brett Phillips](http://twitter.com/search?q=Brett+Phillips) | N/A |
-| 37 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 38 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
-| 39 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 40 | [#yeahsona](http://twitter.com/search?q=%23yeahsona) | N/A |
-| 41 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 42 | [Nate Diaz](http://twitter.com/search?q=Nate+Diaz) | N/A |
-| 43 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 44 | [Merryweather](http://twitter.com/search?q=Merryweather) | N/A |
+| 21 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
+| 22 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
+| 23 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 24 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 25 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 26 | [#TheFive](http://twitter.com/search?q=%23TheFive) | N/A |
+| 27 | [Defund](http://twitter.com/search?q=Defund) | N/A |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [Bryson Stott](http://twitter.com/search?q=Bryson+Stott) | N/A |
+| 30 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 31 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 32 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 33 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 34 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 35 | [RMA vs CHE](http://twitter.com/search?q=RMA+vs+CHE) | N/A |
+| 36 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 37 | [#yeahsona](http://twitter.com/search?q=%23yeahsona) | N/A |
+| 38 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 39 | [Nate](http://twitter.com/search?q=Nate) | N/A |
+| 40 | [Jordan Walker](http://twitter.com/search?q=Jordan+Walker) | N/A |
+| 41 | [Ultimate Ad-free](http://twitter.com/search?q=Ultimate+Ad-free) | N/A |
+| 42 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 44 | [Link 1](http://twitter.com/search?q=Link+1) | N/A |
 | 45 | [Fantastic Beasts](http://twitter.com/search?q=Fantastic+Beasts) | N/A |
-| 46 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 46 | [Buxton](http://twitter.com/search?q=Buxton) | N/A |
 
 
 

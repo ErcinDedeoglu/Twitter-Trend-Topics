@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-04-12 21:17:20 UTC`
+📆 Last Updated: `2023-04-12 22:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Thailand](</Thailand>)
 | 1 | [#SiamParagonSummer2023xGF](http://twitter.com/search?q=%23SiamParagonSummer2023xGF) | N/A |
 | 2 | [#ENGLOT_GalaNightMGT2023](http://twitter.com/search?q=%23ENGLOT_GalaNightMGT2023) | N/A |
 | 3 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
-| 4 | [#ทีมมช](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%a1%e0%b8%8a) | N/A |
-| 5 | [#PROXIE_สถานะเบลอ](http://twitter.com/search?q=%23PROXIE_%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%99%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%ad) | N/A |
+| 4 | [#PROXIE_สถานะเบลอ](http://twitter.com/search?q=%23PROXIE_%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%99%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%ad) | N/A |
+| 5 | [#WaterBombBKK_WelcomeYugyeom](http://twitter.com/search?q=%23WaterBombBKK_WelcomeYugyeom) | N/A |
 | 6 | [meenping x memorybox](http://twitter.com/search?q=meenping+x+memorybox) | N/A |
 | 7 | [ULTRASONIC GEMINI FOURTH](http://twitter.com/search?q=ULTRASONIC+GEMINI+FOURTH) | N/A |
 | 8 | [Post 2](http://twitter.com/search?q=Post+2) | N/A |
@@ -27,17 +27,17 @@ This is top 50 for [Thailand](</Thailand>)
 | 10 | [hold your hand12 engfa](http://twitter.com/search?q=hold+your+hand12+engfa) | N/A |
 | 11 | [who is jam](http://twitter.com/search?q=who+is+jam) | N/A |
 | 12 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 13 | [diesel x wonsoju](http://twitter.com/search?q=diesel+x+wonsoju) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [CHERAIM GALA NIGHT](http://twitter.com/search?q=CHERAIM+GALA+NIGHT) | N/A |
-| 16 | [STAY WITH CHOMPU 12](http://twitter.com/search?q=STAY+WITH+CHOMPU+12) | N/A |
-| 17 | [summer with charlotte 12](http://twitter.com/search?q=summer+with+charlotte+12) | N/A |
-| 18 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [diesel x wonsoju](http://twitter.com/search?q=diesel+x+wonsoju) | N/A |
+| 15 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 16 | [CHERAIM GALA NIGHT](http://twitter.com/search?q=CHERAIM+GALA+NIGHT) | N/A |
+| 17 | [STAY WITH CHOMPU 12](http://twitter.com/search?q=STAY+WITH+CHOMPU+12) | N/A |
+| 18 | [summer with charlotte 12](http://twitter.com/search?q=summer+with+charlotte+12) | N/A |
 | 19 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
 | 20 | [YORCH 1st Single](http://twitter.com/search?q=YORCH+1st+Single) | N/A |
-| 21 | [Fire Extension](http://twitter.com/search?q=Fire+Extension) | N/A |
-| 22 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
-| 23 | [#WaterBombBKK_WelcomeYugyeom](http://twitter.com/search?q=%23WaterBombBKK_WelcomeYugyeom) | N/A |
+| 21 | [Official MV](http://twitter.com/search?q=Official+MV) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [#ทีมมช](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%a1%e0%b8%8a) | N/A |
 | 24 | [#อุ้มทวีพร](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b8%e0%b9%89%e0%b8%a1%e0%b8%97%e0%b8%a7%e0%b8%b5%e0%b8%9e%e0%b8%a3) | N/A |
 | 25 | [#Vlogเน็ตเจมส์ตะลุยตึกแดง](http://twitter.com/search?q=%23Vlog%e0%b9%80%e0%b8%99%e0%b9%87%e0%b8%95%e0%b9%80%e0%b8%88%e0%b8%a1%e0%b8%aa%e0%b9%8c%e0%b8%95%e0%b8%b0%e0%b8%a5%e0%b8%b8%e0%b8%a2%e0%b8%95%e0%b8%b6%e0%b8%81%e0%b9%81%e0%b8%94%e0%b8%87) | N/A |
 | 26 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for [Thailand](</Thailand>)
 | 35 | [#ซีพีโบโลน่าพริกxพีพี](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%82%e0%b8%9a%e0%b9%82%e0%b8%a5%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%9e%e0%b8%a3%e0%b8%b4%e0%b8%81x%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5) | N/A |
 | 36 | [#into1_ihategoodbyes](http://twitter.com/search?q=%23into1_ihategoodbyes) | N/A |
 | 37 | [#ใต้เงาตะวันEP5](http://twitter.com/search?q=%23%e0%b9%83%e0%b8%95%e0%b9%89%e0%b9%80%e0%b8%87%e0%b8%b2%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99EP5) | N/A |
-| 38 | [#ซัพพอร์ตพีพีเสมอ](http://twitter.com/search?q=%23%e0%b8%8b%e0%b8%b1%e0%b8%9e%e0%b8%9e%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%95%e0%b8%9e%e0%b8%b5%e0%b8%9e%e0%b8%b5%e0%b9%80%e0%b8%aa%e0%b8%a1%e0%b8%ad) | N/A |
-| 39 | [#9แสนก้าวไปกับสิรภพ](http://twitter.com/search?q=%239%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b8%a0%e0%b8%9e) | N/A |
-| 40 | [#หุ่นพยนต์](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c) | N/A |
-| 41 | [#500KStillWithTon](http://twitter.com/search?q=%23500KStillWithTon) | N/A |
-| 42 | [#WaterBombBangkok2023](http://twitter.com/search?q=%23WaterBombBangkok2023) | N/A |
-| 43 | [#Gemini_NT](http://twitter.com/search?q=%23Gemini_NT) | N/A |
-| 44 | [#THEICONICSONGKRANFESTIVAL2023](http://twitter.com/search?q=%23THEICONICSONGKRANFESTIVAL2023) | N/A |
-| 45 | [#ปลุกพยนต์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a5%e0%b8%b8%e0%b8%81%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c) | N/A |
-| 46 | [#missMaxNatnonstop](http://twitter.com/search?q=%23missMaxNatnonstop) | N/A |
-| 47 | [#วันแอสล้มแล้ว](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%ad%e0%b8%aa%e0%b8%a5%e0%b9%89%e0%b8%a1%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
-| 48 | [#rollingloudthailand](http://twitter.com/search?q=%23rollingloudthailand) | N/A |
-| 49 | [#PROXIE_The4thSingle](http://twitter.com/search?q=%23PROXIE_The4thSingle) | N/A |
-| 50 | [#PROXIE_ก่อนสถานะจะเบลอ](http://twitter.com/search?q=%23PROXIE_%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%99%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%ad) | N/A |
+| 38 | [#9แสนก้าวไปกับสิรภพ](http://twitter.com/search?q=%239%e0%b9%81%e0%b8%aa%e0%b8%99%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b9%84%e0%b8%9b%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b8%a3%e0%b8%a0%e0%b8%9e) | N/A |
+| 39 | [#หุ่นพยนต์](http://twitter.com/search?q=%23%e0%b8%ab%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c) | N/A |
+| 40 | [#WaterBombBangkok2023](http://twitter.com/search?q=%23WaterBombBangkok2023) | N/A |
+| 41 | [#Gemini_NT](http://twitter.com/search?q=%23Gemini_NT) | N/A |
+| 42 | [#500KStillWithTon](http://twitter.com/search?q=%23500KStillWithTon) | N/A |
+| 43 | [#THEICONICSONGKRANFESTIVAL2023](http://twitter.com/search?q=%23THEICONICSONGKRANFESTIVAL2023) | N/A |
+| 44 | [#ปลุกพยนต์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a5%e0%b8%b8%e0%b8%81%e0%b8%9e%e0%b8%a2%e0%b8%99%e0%b8%95%e0%b9%8c) | N/A |
+| 45 | [#missMaxNatnonstop](http://twitter.com/search?q=%23missMaxNatnonstop) | N/A |
+| 46 | [#วันแอสล้มแล้ว](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%ad%e0%b8%aa%e0%b8%a5%e0%b9%89%e0%b8%a1%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 47 | [#PROXIE_The4thSingle](http://twitter.com/search?q=%23PROXIE_The4thSingle) | N/A |
+| 48 | [#PROXIE_ก่อนสถานะจะเบลอ](http://twitter.com/search?q=%23PROXIE_%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%99%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%a5%e0%b8%ad) | N/A |
+| 49 | [#seoulstation](http://twitter.com/search?q=%23seoulstation) | N/A |
+| 50 | [#rollingloudthailand](http://twitter.com/search?q=%23rollingloudthailand) | N/A |
 
 
 
