@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-12 10:16:53 UTC`
+📆 Last Updated: `2023-04-12 11:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 2 | [#sinfiltros](http://twitter.com/search?q=%23sinfiltros) | N/A |
+| 2 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
 | 3 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
 | 4 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
 | 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
@@ -44,17 +44,17 @@ This is top 50 for [Chile](</Chile>)
 | 27 | [dauno](http://twitter.com/search?q=dauno) | N/A |
 | 28 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 29 | [los 4 más votados](http://twitter.com/search?q=los+4+m%c3%a1s+votados) | N/A |
-| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 31 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
-| 32 | [amparo noguera](http://twitter.com/search?q=amparo+noguera) | N/A |
-| 33 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 30 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
+| 31 | [amparo noguera](http://twitter.com/search?q=amparo+noguera) | N/A |
+| 32 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 33 | [Chong](http://twitter.com/search?q=Chong) | N/A |
 | 34 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 35 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 36 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
+| 36 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 37 | [Flojos](http://twitter.com/search?q=Flojos) | N/A |
-| 38 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 38 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
 | 39 | [En 5](http://twitter.com/search?q=En+5) | N/A |
-| 40 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 40 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
 | 41 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 42 | [gasco](http://twitter.com/search?q=gasco) | N/A |
 | 43 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |

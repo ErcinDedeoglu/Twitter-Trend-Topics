@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-12 10:17:39 UTC`
+📆 Last Updated: `2023-04-12 11:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for Panama
 | 1 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 2 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 4 | [yanibel](http://twitter.com/search?q=yanibel) | N/A |
-| 5 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 6 | [ANATI](http://twitter.com/search?q=ANATI) | N/A |
-| 7 | [#vamoscontodoprd](http://twitter.com/search?q=%23vamoscontodoprd) | N/A |
+| 4 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 5 | [#VamoscontodoPRD](http://twitter.com/search?q=%23VamoscontodoPRD) | N/A |
+| 6 | [Anati](http://twitter.com/search?q=Anati) | N/A |
+| 7 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
 | 8 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 | 9 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 10 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
@@ -29,42 +29,42 @@ This is top 50 for Panama
 | 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 13 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 15 | [san joaquín](http://twitter.com/search?q=san+joaqu%c3%adn) | N/A |
+| 15 | [San Joaquín](http://twitter.com/search?q=San+Joaqu%c3%adn) | N/A |
 | 16 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
 | 17 | [daleona un amor invencible](http://twitter.com/search?q=daleona+un+amor+invencible) | N/A |
 | 18 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 19 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
-| 20 | [Capira](http://twitter.com/search?q=Capira) | N/A |
-| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 22 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 23 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 24 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 25 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
-| 26 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 27 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
-| 28 | [#Melfi](http://twitter.com/search?q=%23Melfi) | N/A |
-| 29 | [#figaroabrego](http://twitter.com/search?q=%23figaroabrego) | N/A |
-| 30 | [Pedregal](http://twitter.com/search?q=Pedregal) | N/A |
-| 31 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 32 | [idaan](http://twitter.com/search?q=idaan) | N/A |
-| 33 | [ifarhu](http://twitter.com/search?q=ifarhu) | N/A |
+| 20 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 21 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 22 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 23 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
+| 24 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 25 | [Capira](http://twitter.com/search?q=Capira) | N/A |
+| 26 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
+| 27 | [#Melfi](http://twitter.com/search?q=%23Melfi) | N/A |
+| 28 | [#figaroabrego](http://twitter.com/search?q=%23figaroabrego) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 31 | [idaan](http://twitter.com/search?q=idaan) | N/A |
+| 32 | [ifarhu](http://twitter.com/search?q=ifarhu) | N/A |
+| 33 | [panameño](http://twitter.com/search?q=paname%c3%b1o) | N/A |
 | 34 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 35 | [panameño](http://twitter.com/search?q=paname%c3%b1o) | N/A |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 38 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 39 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
-| 40 | [Baena](http://twitter.com/search?q=Baena) | N/A |
-| 41 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
-| 42 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 35 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 36 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 37 | [Castalia](http://twitter.com/search?q=Castalia) | N/A |
+| 38 | [Baena](http://twitter.com/search?q=Baena) | N/A |
+| 39 | [blandón](http://twitter.com/search?q=bland%c3%b3n) | N/A |
+| 40 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 41 | [Pedregal](http://twitter.com/search?q=Pedregal) | N/A |
+| 42 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
 | 43 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
-| 44 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
-| 45 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
+| 44 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
+| 45 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 47 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 48 | [Maribel Guardia](http://twitter.com/search?q=Maribel+Guardia) | N/A |
-| 49 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 50 | [Torrijos](http://twitter.com/search?q=Torrijos) | N/A |
+| 48 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
+| 49 | [torrijos](http://twitter.com/search?q=torrijos) | N/A |
+| 50 | [Roux](http://twitter.com/search?q=Roux) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-04-12 10:17:34 UTC`
+📆 Last Updated: `2023-04-12 11:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,18 +34,18 @@ This is top 50 for Bahrain
 | 17 | [احمد الساعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%8a) | N/A |
 | 18 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
 | 19 | [بنفيكا](http://twitter.com/search?q=%d8%a8%d9%86%d9%81%d9%8a%d9%83%d8%a7) | N/A |
-| 20 | [علي الشيخ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
-| 21 | [تركيا](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
-| 22 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 23 | [ابن ملجم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%85%d9%84%d8%ac%d9%85) | N/A |
-| 24 | [منزل السكينه](http://twitter.com/search?q=%d9%85%d9%86%d8%b2%d9%84+%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d9%87) | N/A |
-| 25 | [قلب زينب](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%b2%d9%8a%d9%86%d8%a8) | N/A |
-| 26 | [استشهاد الامام](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
-| 27 | [علي الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
-| 28 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 29 | [علي المنبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%86%d8%a8%d8%b1) | N/A |
-| 30 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 31 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 20 | [ابن ملجم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%85%d9%84%d8%ac%d9%85) | N/A |
+| 21 | [علي الشيخ](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b4%d9%8a%d8%ae) | N/A |
+| 22 | [تركيا](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a%d8%a7) | N/A |
+| 23 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 24 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 25 | [منزل السكينه](http://twitter.com/search?q=%d9%85%d9%86%d8%b2%d9%84+%d8%a7%d9%84%d8%b3%d9%83%d9%8a%d9%86%d9%87) | N/A |
+| 26 | [قلب زينب](http://twitter.com/search?q=%d9%82%d9%84%d8%a8+%d8%b2%d9%8a%d9%86%d8%a8) | N/A |
+| 27 | [استشهاد الامام](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b4%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
+| 28 | [علي الارض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6) | N/A |
+| 29 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 30 | [علي المنبر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%86%d8%a8%d8%b1) | N/A |
+| 31 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
 | 32 | [الشيخ الساعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%8a) | N/A |
 | 33 | [العروه الوثقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d9%88%d9%87+%d8%a7%d9%84%d9%88%d8%ab%d9%82%d9%8a) | N/A |
 | 34 | [الليالي العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for Bahrain
 | 41 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 42 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
 | 43 | [علي المرتضي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b6%d9%8a) | N/A |
-| 44 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
-| 45 | [عمل المراه](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
-| 46 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 47 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
-| 48 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
-| 49 | [علي الاقل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d9%82%d9%84) | N/A |
+| 44 | [أمريكا](http://twitter.com/search?q=%d8%a3%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | N/A |
+| 45 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
+| 46 | [عمل المراه](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87) | N/A |
+| 47 | [غوارديولا](http://twitter.com/search?q=%d8%ba%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
+| 48 | [اليمن](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%85%d9%86) | اليمن is the Arabic name for Yemen, a country located in the Middle East. In English, it translates to Yemen. |
+| 49 | [صاحب الزمان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%86) | N/A |
 | 50 | [علي بابك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d8%a8%d9%83) | N/A |
 
 

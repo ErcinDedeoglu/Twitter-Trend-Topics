@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-12 10:16:52 UTC`
+📆 Last Updated: `2023-04-12 11:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 2 | [#sinfiltros](http://twitter.com/search?q=%23sinfiltros) | N/A |
-| 3 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
-| 4 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 5 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 6 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 8 | [fernanda maciel](http://twitter.com/search?q=fernanda+maciel) | N/A |
-| 9 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 10 | [#thevoicechv](http://twitter.com/search?q=%23thevoicechv) | N/A |
+| 2 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
+| 3 | [#despiertaconchv](http://twitter.com/search?q=%23despiertaconchv) | N/A |
+| 4 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 5 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
+| 6 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
+| 7 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 8 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 9 | [fernanda maciel](http://twitter.com/search?q=fernanda+maciel) | N/A |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 11 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 12 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
 | 13 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
@@ -46,17 +46,17 @@ This is top 50 for [Chile](</Chile>)
 | 29 | [dauno](http://twitter.com/search?q=dauno) | N/A |
 | 30 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 31 | [los 4 más votados](http://twitter.com/search?q=los+4+m%c3%a1s+votados) | N/A |
-| 32 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 33 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
-| 34 | [amparo noguera](http://twitter.com/search?q=amparo+noguera) | N/A |
-| 35 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 32 | [arlixon](http://twitter.com/search?q=arlixon) | N/A |
+| 33 | [amparo noguera](http://twitter.com/search?q=amparo+noguera) | N/A |
+| 34 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 35 | [Chong](http://twitter.com/search?q=Chong) | N/A |
 | 36 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
 | 37 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 38 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
+| 38 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 39 | [Flojos](http://twitter.com/search?q=Flojos) | N/A |
-| 40 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 40 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
 | 41 | [En 5](http://twitter.com/search?q=En+5) | N/A |
-| 42 | [Republicanos](http://twitter.com/search?q=Republicanos) | N/A |
+| 42 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
 | 43 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
 | 44 | [gasco](http://twitter.com/search?q=gasco) | N/A |
 | 45 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-12 10:17:36 UTC`
+📆 Last Updated: `2023-04-12 11:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,11 +35,11 @@ This is top 50 for Guatemala
 | 18 | [El City](http://twitter.com/search?q=El+City) | N/A |
 | 19 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [#TodoElMundoHablaDeJamie](http://twitter.com/search?q=%23TodoElMundoHablaDeJamie) | N/A |
-| 22 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
+| 21 | [#todoelmundohabladejamie](http://twitter.com/search?q=%23todoelmundohabladejamie) | N/A |
+| 22 | [nelson is jamie](http://twitter.com/search?q=nelson+is+jamie) | N/A |
 | 23 | [el palmar](http://twitter.com/search?q=el+palmar) | N/A |
 | 24 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 25 | [#NelsonCarreras](http://twitter.com/search?q=%23NelsonCarreras) | N/A |
+| 25 | [#nelsoncarreras](http://twitter.com/search?q=%23nelsoncarreras) | N/A |
 | 26 | [#cncoenguatemala](http://twitter.com/search?q=%23cncoenguatemala) | N/A |
 | 27 | [Baena](http://twitter.com/search?q=Baena) | N/A |
 | 28 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |

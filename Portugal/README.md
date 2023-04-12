@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-12 10:17:39 UTC`
+📆 Last Updated: `2023-04-12 11:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Portugal
 | 7 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
 | 8 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | N/A |
 | 9 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 10 | [Boaventura Sousa Santos](http://twitter.com/search?q=Boaventura+Sousa+Santos) | N/A |
+| 10 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
 | 11 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 12 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 13 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 14 | [João Mário](http://twitter.com/search?q=Jo%c3%a3o+M%c3%a1rio) | João Mário is a Portuguese name, derived from the Latin name Iohannes and the Latin word for "warrior," marius. In English, it translates to "John the Warrior." |
-| 15 | [Galamba](http://twitter.com/search?q=Galamba) | N/A |
-| 16 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 13 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 14 | [Boaventura](http://twitter.com/search?q=Boaventura) | N/A |
+| 15 | [João Mário](http://twitter.com/search?q=Jo%c3%a3o+M%c3%a1rio) | João Mário is a Portuguese name, derived from the Latin name Iohannes and the Latin word for "warrior," marius. In English, it translates to "John the Warrior." |
+| 16 | [Galamba](http://twitter.com/search?q=Galamba) | N/A |
 | 17 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
 | 18 | [#zerolugaresvazios](http://twitter.com/search?q=%23zerolugaresvazios) | N/A |
-| 19 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 20 | [#SLBFCIM](http://twitter.com/search?q=%23SLBFCIM) | N/A |
-| 21 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 22 | [João Rocha](http://twitter.com/search?q=Jo%c3%a3o+Rocha) | N/A |
-| 23 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 24 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 25 | [Morato](http://twitter.com/search?q=Morato) | N/A |
-| 26 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 27 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
-| 28 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
-| 29 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 19 | [João Rocha](http://twitter.com/search?q=Jo%c3%a3o+Rocha) | N/A |
+| 20 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 21 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 22 | [Artur](http://twitter.com/search?q=Artur) | N/A |
+| 23 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 24 | [Morato](http://twitter.com/search?q=Morato) | N/A |
+| 25 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 26 | [Michael Oliver](http://twitter.com/search?q=Michael+Oliver) | Michael Oliver is a British actor and comedian. He is best known for his roles in the television series The Comic Strip Presents, The Young Ones, and Bottom. He has also appeared in films such as The Princess Bride, Hot Fuzz, and Shaun of the Dead. |
+| 27 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
+| 28 | [#SLBFCIM](http://twitter.com/search?q=%23SLBFCIM) | N/A |
+| 29 | [Itália](http://twitter.com/search?q=It%c3%a1lia) | N/A |
+| 30 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 31 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 32 | [Susana](http://twitter.com/search?q=Susana) | N/A |
 | 33 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
 | 34 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 35 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 36 | [O Rafa](http://twitter.com/search?q=O+Rafa) | N/A |
-| 37 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 38 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 39 | [O Chega](http://twitter.com/search?q=O+Chega) | N/A |
-| 40 | [#CanYamanForChildren](http://twitter.com/search?q=%23CanYamanForChildren) | N/A |
+| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 37 | [O Rafa](http://twitter.com/search?q=O+Rafa) | N/A |
+| 38 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 39 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 41 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 42 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 43 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 44 | [#ForaBlack](http://twitter.com/search?q=%23ForaBlack) | N/A |
+| 42 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 43 | [#ForaBlack](http://twitter.com/search?q=%23ForaBlack) | N/A |
+| 44 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 45 | [Istambul](http://twitter.com/search?q=Istambul) | N/A |
-| 46 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
-| 47 | [António Silva](http://twitter.com/search?q=Ant%c3%b3nio+Silva) | N/A |
+| 46 | [António Silva](http://twitter.com/search?q=Ant%c3%b3nio+Silva) | N/A |
+| 47 | [Millie](http://twitter.com/search?q=Millie) | N/A |
 | 48 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 49 | [Bastoni](http://twitter.com/search?q=Bastoni) | N/A |
-| 50 | [João Neves](http://twitter.com/search?q=Jo%c3%a3o+Neves) | João Neves is a Portuguese name. It is composed of two parts: João, which is the Portuguese form of the name John, and Neves, which is a Portuguese surname meaning "snow". In English, it would be translated as John Snow. |
+| 50 | [O Chega](http://twitter.com/search?q=O+Chega) | N/A |
 
 
 

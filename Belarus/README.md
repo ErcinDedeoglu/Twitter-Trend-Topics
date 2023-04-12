@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-12 10:17:34 UTC`
+📆 Last Updated: `2023-04-12 11:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for Belarus
 | 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
 | 3 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
 | 4 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 5 | [молодец](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
-| 6 | [кавеха](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 5 | [Молодец](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%be%d0%b4%d0%b5%d1%86) | N/A |
+| 6 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 7 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 8 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
-| 9 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 8 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 9 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
 | 10 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
-| 11 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 12 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
+| 11 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
+| 12 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 13 | [Твиттере](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | N/A |
 | 14 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | N/A |
 | 15 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |

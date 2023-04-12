@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-12 10:17:04 UTC`
+📆 Last Updated: `2023-04-12 11:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 3 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 | 4 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 5 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 7 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 6 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 8 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 9 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 11 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 12 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
-| 13 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 16 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
-| 19 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
-| 20 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 22 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
-| 23 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 24 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 25 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
-| 26 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 27 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 28 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 29 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [Kurs](http://twitter.com/search?q=Kurs) | N/A |
-| 32 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 33 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 34 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 35 | [Verantwortung](http://twitter.com/search?q=Verantwortung) | N/A |
-| 36 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 37 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
-| 38 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 11 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 12 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 13 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 14 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 15 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 16 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 17 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
+| 18 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 19 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 20 | [Antisemitismus](http://twitter.com/search?q=Antisemitismus) | N/A |
+| 21 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 22 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 23 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 24 | [Stati Uniti](http://twitter.com/search?q=Stati+Uniti) | N/A |
+| 25 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 26 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 28 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 29 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 30 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 31 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 32 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 33 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 34 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 35 | [Hintergrund](http://twitter.com/search?q=Hintergrund) | N/A |
+| 36 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 37 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
+| 38 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 39 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
-| 40 | [Rahmen](http://twitter.com/search?q=Rahmen) | N/A |
+| 40 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
 | 41 | [Ostermontag](http://twitter.com/search?q=Ostermontag) | N/A |
-| 42 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 43 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
-| 44 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
-| 45 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
-| 46 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 47 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | N/A |
+| 42 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Credit Suisse](http://twitter.com/search?q=Credit+Suisse) | N/A |
+| 45 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
+| 46 | [Tipps](http://twitter.com/search?q=Tipps) | N/A |
+| 47 | [Merkel](http://twitter.com/search?q=Merkel) | N/A |
 | 48 | [Menschheit](http://twitter.com/search?q=Menschheit) | N/A |
-| 49 | [Betrieb](http://twitter.com/search?q=Betrieb) | N/A |
+| 49 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
 
 
 
