@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-04-13 22:17:57 UTC`
+📆 Last Updated: `2023-04-13 23:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Canada
 | ------- | ------------ | ------------ |
 | 1 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 2 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 3 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 4 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 5 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 6 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 3 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 4 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 5 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
+| 6 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 10 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 11 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
-| 12 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 13 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 14 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 15 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 16 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 18 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 19 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 20 | [#StateofPlay](http://twitter.com/search?q=%23StateofPlay) | N/A |
-| 21 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 22 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 23 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 24 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 26 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 28 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
-| 29 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 31 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
-| 32 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 33 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 34 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 35 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 36 | [PMJT](http://twitter.com/search?q=PMJT) | N/A |
-| 37 | [Experts](http://twitter.com/search?q=Experts) | N/A |
-| 38 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 39 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 40 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 41 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 42 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 43 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
-| 44 | [Grocery Rebate](http://twitter.com/search?q=Grocery+Rebate) | N/A |
-| 45 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 46 | [Jason Spezza](http://twitter.com/search?q=Jason+Spezza) | N/A |
-| 47 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 48 | [Gatti](http://twitter.com/search?q=Gatti) | Gatti is an Italian word meaning "cat". |
-| 49 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 50 | [Most Disappointing](http://twitter.com/search?q=Most+Disappointing) | N/A |
+| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 9 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 10 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 11 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 12 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 13 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
+| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 15 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
+| 16 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 17 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 18 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 20 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 21 | [#FinalFantasyXVI](http://twitter.com/search?q=%23FinalFantasyXVI) | N/A |
+| 22 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 23 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
+| 24 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 25 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
+| 26 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 29 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 30 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 31 | [Experts](http://twitter.com/search?q=Experts) | N/A |
+| 32 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 33 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 34 | [PMJT](http://twitter.com/search?q=PMJT) | N/A |
+| 35 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 37 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 38 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 39 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 42 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 43 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 44 | [Most Improved](http://twitter.com/search?q=Most+Improved) | N/A |
+| 45 | [Dustin Wolf](http://twitter.com/search?q=Dustin+Wolf) | N/A |
+| 46 | [Most Disappointing](http://twitter.com/search?q=Most+Disappointing) | N/A |
+| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 48 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 49 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
+| 50 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
 
 
 

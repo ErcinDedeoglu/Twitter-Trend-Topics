@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-13 22:17:18 UTC`
+📆 Last Updated: `2023-04-13 23:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 2 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 3 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 7 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 8 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 9 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 10 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
-| 11 | [#SHOWEXTRAGHOSTBR](http://twitter.com/search?q=%23SHOWEXTRAGHOSTBR) | N/A |
-| 12 | [Cristiano Araújo](http://twitter.com/search?q=Cristiano+Ara%c3%bajo) | N/A |
-| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 14 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 15 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 16 | [Vazaram](http://twitter.com/search?q=Vazaram) | N/A |
-| 17 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 18 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 19 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 20 | [#LALI](http://twitter.com/search?q=%23LALI) | N/A |
-| 21 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 23 | [#InsightOnRapture](http://twitter.com/search?q=%23InsightOnRapture) | N/A |
-| 24 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 25 | [Cotia](http://twitter.com/search?q=Cotia) | N/A |
-| 26 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 27 | [#JamesNoGalo](http://twitter.com/search?q=%23JamesNoGalo) | N/A |
-| 28 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 29 | [Tcheco](http://twitter.com/search?q=Tcheco) | N/A |
-| 30 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 31 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 32 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
+| 1 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 2 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 3 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 4 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 5 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 8 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 10 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 11 | [Cristiano Araújo](http://twitter.com/search?q=Cristiano+Ara%c3%bajo) | N/A |
+| 12 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 13 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 14 | [Jael](http://twitter.com/search?q=Jael) | N/A |
+| 15 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
+| 16 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
+| 17 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 18 | [Machado](http://twitter.com/search?q=Machado) | N/A |
+| 19 | [Vazaram](http://twitter.com/search?q=Vazaram) | N/A |
+| 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 22 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
+| 23 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 24 | [#SHOWEXTRAGHOSTBR](http://twitter.com/search?q=%23SHOWEXTRAGHOSTBR) | N/A |
+| 25 | [#LALI](http://twitter.com/search?q=%23LALI) | N/A |
+| 26 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 27 | [Vital](http://twitter.com/search?q=Vital) | N/A |
+| 28 | [DOUTRIDANTES NO FLAMENGO](http://twitter.com/search?q=DOUTRIDANTES+NO+FLAMENGO) | N/A |
+| 29 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
+| 30 | [Tcheco](http://twitter.com/search?q=Tcheco) | N/A |
+| 31 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 32 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
 | 33 | [Toddy](http://twitter.com/search?q=Toddy) | N/A |
-| 34 | [O United](http://twitter.com/search?q=O+United) | N/A |
-| 35 | [#ADona088](http://twitter.com/search?q=%23ADona088) | N/A |
-| 36 | [Paulo Guedes](http://twitter.com/search?q=Paulo+Guedes) | N/A |
-| 37 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 38 | [Telê](http://twitter.com/search?q=Tel%c3%aa) | N/A |
-| 39 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 41 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 42 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 43 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
-| 44 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 45 | [hayley](http://twitter.com/search?q=hayley) | N/A |
-| 46 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 47 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
-| 48 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 49 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 50 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 34 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
+| 35 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
+| 36 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 37 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 38 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 39 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 40 | [hayley](http://twitter.com/search?q=hayley) | N/A |
+| 41 | [Cotia](http://twitter.com/search?q=Cotia) | N/A |
+| 42 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
+| 43 | [O Rafa](http://twitter.com/search?q=O+Rafa) | N/A |
+| 44 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
+| 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 46 | [O United](http://twitter.com/search?q=O+United) | N/A |
+| 47 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 48 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 49 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
+| 50 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-04-13 22:17:50 UTC`
+📆 Last Updated: `2023-04-13 23:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 1 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
 | 2 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
 | 3 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
-| 4 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 5 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 6 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 7 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 8 | [NAMM](http://twitter.com/search?q=NAMM) | N/A |
-| 9 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
-| 10 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 11 | [#Coachella](http://twitter.com/search?q=%23Coachella) | N/A |
+| 4 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 5 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 6 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 7 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 8 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
+| 9 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 10 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 11 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
 | 12 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 13 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 14 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 15 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 16 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 17 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 18 | [Beverly Hills](http://twitter.com/search?q=Beverly+Hills) | N/A |
-| 19 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 20 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 21 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
-| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 23 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 24 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 25 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 14 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 15 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 17 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 18 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 19 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 20 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 21 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 22 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 23 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 24 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 25 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 26 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 27 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 28 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 29 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 30 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 31 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 32 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 33 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 34 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 36 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 37 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 38 | [Air National Guard](http://twitter.com/search?q=Air+National+Guard) | N/A |
-| 39 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 40 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 41 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 27 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 28 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
+| 29 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 30 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 31 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 32 | [Keion White](http://twitter.com/search?q=Keion+White) | N/A |
+| 33 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 34 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 35 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 36 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 37 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 38 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
+| 39 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 40 | [Air National Guard](http://twitter.com/search?q=Air+National+Guard) | N/A |
+| 41 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 42 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 43 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 44 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 45 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 46 | [Clive](http://twitter.com/search?q=Clive) | N/A |
-| 47 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
-| 48 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 49 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 43 | [Chelsea Manning](http://twitter.com/search?q=Chelsea+Manning) | N/A |
+| 44 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 45 | [Clive](http://twitter.com/search?q=Clive) | N/A |
+| 46 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 47 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 48 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 49 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 
 
 

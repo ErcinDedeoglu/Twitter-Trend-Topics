@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-13 22:17:27 UTC`
+📆 Last Updated: `2023-04-13 23:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 2 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 3 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 1 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 2 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 4 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 5 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 6 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 7 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 8 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
-| 9 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 10 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 11 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 14 | [Kissel](http://twitter.com/search?q=Kissel) | N/A |
-| 15 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 17 | [Melkøya](http://twitter.com/search?q=Melk%c3%b8ya) | N/A |
-| 18 | [Hamar](http://twitter.com/search?q=Hamar) | N/A |
-| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 20 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
-| 21 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 22 | [Rønnild](http://twitter.com/search?q=R%c3%b8nnild) | N/A |
-| 23 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 24 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 25 | [Finnmark](http://twitter.com/search?q=Finnmark) | N/A |
-| 26 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
-| 27 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 28 | [#NNPF](http://twitter.com/search?q=%23NNPF) | N/A |
-| 29 | [15 Russian](http://twitter.com/search?q=15+Russian) | N/A |
-| 30 | [Føler](http://twitter.com/search?q=F%c3%b8ler) | N/A |
+| 7 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 8 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 11 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 12 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 13 | [Kissel](http://twitter.com/search?q=Kissel) | N/A |
+| 14 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 15 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 16 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 17 | [melkøya](http://twitter.com/search?q=melk%c3%b8ya) | N/A |
+| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 19 | [Rønnild](http://twitter.com/search?q=R%c3%b8nnild) | N/A |
+| 20 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 21 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
+| 22 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 23 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 24 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
+| 25 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 26 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 27 | [Føler](http://twitter.com/search?q=F%c3%b8ler) | N/A |
+| 28 | [15 Russian](http://twitter.com/search?q=15+Russian) | N/A |
+| 29 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 30 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
 | 31 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
-| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 33 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 34 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 35 | [Sell](http://twitter.com/search?q=Sell) | N/A |
-| 36 | [Spania](http://twitter.com/search?q=Spania) | N/A |
-| 37 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 38 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 39 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 40 | [E134 Haukelifjell](http://twitter.com/search?q=E134+Haukelifjell) | N/A |
+| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 33 | [Spania](http://twitter.com/search?q=Spania) | N/A |
+| 34 | [åsen](http://twitter.com/search?q=%c3%a5sen) | N/A |
+| 35 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 36 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 37 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 38 | [Casper](http://twitter.com/search?q=Casper) | N/A |
+| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 40 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
 | 41 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
-| 42 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 43 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 42 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 43 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 44 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 45 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 46 | [Grønland](http://twitter.com/search?q=Gr%c3%b8nland) | N/A |
-| 47 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 48 | [Stavanger](http://twitter.com/search?q=Stavanger) | N/A |
+| 45 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 46 | [dragsnes](http://twitter.com/search?q=dragsnes) | N/A |
+| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 48 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
 
 
 
