@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-04-13 00:27:52 UTC`
+📆 Last Updated: `2023-04-13 01:43:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 3 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 4 | [Amed](http://twitter.com/search?q=Amed) | N/A |
-| 5 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 6 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 7 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 8 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
-| 9 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 10 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 11 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 12 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 14 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 15 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
-| 16 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 17 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 18 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 19 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 20 | [Zack Kelly](http://twitter.com/search?q=Zack+Kelly) | N/A |
-| 21 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 22 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 23 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 24 | [VanVleet](http://twitter.com/search?q=VanVleet) | N/A |
-| 25 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 26 | [Defund](http://twitter.com/search?q=Defund) | N/A |
-| 27 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 28 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 29 | [Cinemax](http://twitter.com/search?q=Cinemax) | N/A |
-| 30 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 31 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
-| 32 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 33 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
-| 34 | [Kremer](http://twitter.com/search?q=Kremer) | N/A |
-| 35 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 36 | [Patrick Williams](http://twitter.com/search?q=Patrick+Williams) | N/A |
-| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 38 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
-| 39 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 40 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 41 | [Taj Bradley](http://twitter.com/search?q=Taj+Bradley) | N/A |
-| 42 | [Experts](http://twitter.com/search?q=Experts) | N/A |
-| 43 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
-| 44 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 45 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
-| 46 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
-| 47 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 48 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 2 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 3 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 4 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 5 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 6 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 7 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 8 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 9 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 10 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 11 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 12 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 13 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 14 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 15 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 16 | [Sting](http://twitter.com/search?q=Sting) | N/A |
+| 17 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 18 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 19 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 20 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
+| 21 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 22 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 23 | [Bullet Club Gold](http://twitter.com/search?q=Bullet+Club+Gold) | N/A |
+| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 25 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 26 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 27 | [Gary Trent](http://twitter.com/search?q=Gary+Trent) | Gary Trent is a nickname given to someone who is strong, reliable, and dependable. It is derived from the name of the former NBA player Gary Trent, who was known for his strength and dependability on the court. |
+| 28 | [Cutler](http://twitter.com/search?q=Cutler) | N/A |
+| 29 | [Patrick Williams](http://twitter.com/search?q=Patrick+Williams) | N/A |
+| 30 | [Buddy Matthews](http://twitter.com/search?q=Buddy+Matthews) | N/A |
+| 31 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
+| 32 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 33 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 34 | [Nakazawa](http://twitter.com/search?q=Nakazawa) | N/A |
+| 35 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 36 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
+| 37 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 38 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 39 | [Silas Young](http://twitter.com/search?q=Silas+Young) | N/A |
+| 40 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 41 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
+| 42 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 43 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 44 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 45 | [The Ross](http://twitter.com/search?q=The+Ross) | N/A |
+| 46 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 47 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
+| 48 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
 
 
 

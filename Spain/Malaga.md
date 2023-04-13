@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-04-13 00:27:24 UTC`
+📆 Last Updated: `2023-04-13 01:43:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Murcia](http://twitter.com/search?q=Murcia) | N/A |
-| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 2 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
 | 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 5 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 6 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 7 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 6 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 7 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 8 | [#ChiringuitoMadrid](http://twitter.com/search?q=%23ChiringuitoMadrid) | N/A |
 | 9 | [#elconquis13ETB](http://twitter.com/search?q=%23elconquis13ETB) | N/A |
 | 10 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 11 | [#ChiringuitoTitular](http://twitter.com/search?q=%23ChiringuitoTitular) | N/A |
-| 12 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
+| 11 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 12 | [#ChiringuitoTitular](http://twitter.com/search?q=%23ChiringuitoTitular) | N/A |
 | 13 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 14 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 15 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 16 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 17 | [Joao Félix](http://twitter.com/search?q=Joao+F%c3%a9lix) | N/A |
+| 14 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
+| 15 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 16 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 17 | [Joao](http://twitter.com/search?q=Joao) | N/A |
 | 18 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 19 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 22 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 23 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 24 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 25 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 20 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 21 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 22 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 23 | [Santiago Segura](http://twitter.com/search?q=Santiago+Segura) | N/A |
+| 24 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
+| 25 | [Londres](http://twitter.com/search?q=Londres) | N/A |
 | 26 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 27 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 28 | [Stamford Bridge](http://twitter.com/search?q=Stamford+Bridge) | Stamford Bridge is a football stadium in London, England, and is the home of Chelsea Football Club. The stadium has a capacity of over 40,000 and has been the home of Chelsea since 1905. The name Stamford Bridge comes from a bridge that was built over the River Thames in the area in the early 1800s. |
-| 29 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 30 | [Santiago Segura](http://twitter.com/search?q=Santiago+Segura) | N/A |
+| 27 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 28 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 29 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 30 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 31 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 32 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 33 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 34 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 35 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 36 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 37 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 39 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 40 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 41 | [Sadiel Rojas](http://twitter.com/search?q=Sadiel+Rojas) | N/A |
-| 42 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 43 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
-| 44 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 45 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 46 | [Cholo](http://twitter.com/search?q=Cholo) | Cholo is a term used to refer to a person of mixed Indigenous and Mexican heritage. It is often used as a derogatory term, but it can also be used as an identifier for people of this background. In English, the term can be translated to mean "mixed-race person". |
-| 47 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 48 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
-| 49 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 50 | [Granca](http://twitter.com/search?q=Granca) | N/A |
+| 32 | [Carlos Martínez](http://twitter.com/search?q=Carlos+Mart%c3%adnez) | N/A |
+| 33 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 34 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 35 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 36 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 37 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 38 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
+| 39 | [Boing](http://twitter.com/search?q=Boing) | N/A |
+| 40 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 41 | [Brahim](http://twitter.com/search?q=Brahim) | N/A |
+| 42 | [Sindy](http://twitter.com/search?q=Sindy) | N/A |
+| 43 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 44 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 45 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
+| 46 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
+| 47 | [Mar Menor](http://twitter.com/search?q=Mar+Menor) | N/A |
+| 48 | [#ElChiringuitoDeMega](http://twitter.com/search?q=%23ElChiringuitoDeMega) | N/A |
+| 49 | [#Solos12A](http://twitter.com/search?q=%23Solos12A) | N/A |
+| 50 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 
 
 

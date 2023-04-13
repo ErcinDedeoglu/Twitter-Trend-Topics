@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-13 00:27:15 UTC`
+📆 Last Updated: `2023-04-13 01:42:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 2 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 3 | [Renan](http://twitter.com/search?q=Renan) | N/A |
-| 4 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
-| 5 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 6 | [Daronco](http://twitter.com/search?q=Daronco) | N/A |
-| 7 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 8 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 9 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 10 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 11 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 12 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
-| 13 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 14 | [Jhon Jhon](http://twitter.com/search?q=Jhon+Jhon) | N/A |
-| 15 | [Vanderlan](http://twitter.com/search?q=Vanderlan) | N/A |
-| 16 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
-| 17 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
-| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 21 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
-| 22 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
-| 23 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
-| 24 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
-| 25 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 26 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 27 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
-| 28 | [Ewerton](http://twitter.com/search?q=Ewerton) | N/A |
-| 29 | [Turra](http://twitter.com/search?q=Turra) | N/A |
-| 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 31 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
-| 32 | [O PALMEIRAS É O TIME DA VIRADA](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DA+VIRADA) | N/A |
-| 33 | [Bidu](http://twitter.com/search?q=Bidu) | N/A |
-| 34 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
-| 35 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 36 | [Tirei Lumiar](http://twitter.com/search?q=Tirei+Lumiar) | N/A |
-| 37 | [John John](http://twitter.com/search?q=John+John) | N/A |
-| 38 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 39 | [Alexandre Jesus](http://twitter.com/search?q=Alexandre+Jesus) | N/A |
-| 40 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
-| 41 | [Sabino](http://twitter.com/search?q=Sabino) | N/A |
-| 42 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
-| 43 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 44 | [O PALMEIRAS É O TIME DO AMOR](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DO+AMOR) | N/A |
-| 45 | [Enderson](http://twitter.com/search?q=Enderson) | N/A |
-| 46 | [Terans](http://twitter.com/search?q=Terans) | N/A |
-| 47 | [Coxa](http://twitter.com/search?q=Coxa) | N/A |
-| 48 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
-| 49 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 50 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
+| 2 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
+| 3 | [Ewerton](http://twitter.com/search?q=Ewerton) | N/A |
+| 4 | [Renan](http://twitter.com/search?q=Renan) | N/A |
+| 5 | [Enderson](http://twitter.com/search?q=Enderson) | N/A |
+| 6 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 7 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 8 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 9 | [Sabino](http://twitter.com/search?q=Sabino) | N/A |
+| 10 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
+| 11 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
+| 12 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
+| 13 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 14 | [Labandeira](http://twitter.com/search?q=Labandeira) | N/A |
+| 15 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
+| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 17 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 18 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 19 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 20 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 21 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 22 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 23 | [Alexandre Jesus](http://twitter.com/search?q=Alexandre+Jesus) | N/A |
+| 24 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 25 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
+| 26 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 27 | [Luis Guilherme](http://twitter.com/search?q=Luis+Guilherme) | N/A |
+| 28 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 29 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 30 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
+| 31 | [Daronco](http://twitter.com/search?q=Daronco) | N/A |
+| 32 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
+| 33 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 34 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 35 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 36 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
+| 37 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 38 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 39 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 40 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 41 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 42 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 43 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
+| 44 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 45 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
+| 46 | [Jhon Jhon](http://twitter.com/search?q=Jhon+Jhon) | N/A |
+| 47 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 48 | [Fábio Santos](http://twitter.com/search?q=F%c3%a1bio+Santos) | Fábio Santos is a Portuguese name. It is derived from the Latin name Fabius, which means "bean grower" or "bean farmer". In English, it can be translated to mean "Bean Farmer". |
+| 49 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 50 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
 
 
 

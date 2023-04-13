@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-04-13 00:27:38 UTC`
+📆 Last Updated: `2023-04-13 01:43:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 3 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
-| 4 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 5 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 6 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 7 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 8 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 9 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 11 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 12 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 13 | [Banana Island](http://twitter.com/search?q=Banana+Island) | N/A |
-| 14 | [Stamford](http://twitter.com/search?q=Stamford) | N/A |
-| 15 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 16 | [Isale Eko](http://twitter.com/search?q=Isale+Eko) | N/A |
-| 17 | [#recitation_themovie](http://twitter.com/search?q=%23recitation_themovie) | N/A |
-| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 19 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 20 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
-| 21 | [Big Benz](http://twitter.com/search?q=Big+Benz) | N/A |
-| 22 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 23 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 24 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 25 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 26 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 27 | [#rmacfc](http://twitter.com/search?q=%23rmacfc) | N/A |
-| 28 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 29 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 30 | [Koulibaly](http://twitter.com/search?q=Koulibaly) | Koulibaly is a surname of West African origin. It is derived from the Mandinka language and means "brave warrior". |
-| 31 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
-| 32 | [Kendrick](http://twitter.com/search?q=Kendrick) | Kendrick is a masculine given name of English origin. It is derived from the Old English name Cynric, which means "royal power". |
-| 33 | [Pulisic](http://twitter.com/search?q=Pulisic) | Pulisic is a surname of German origin. It is derived from the Latin word pulicarius, meaning "flea-catcher". The name is most commonly associated with American soccer player Christian Pulisic. |
-| 34 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 35 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 36 | [iMessage](http://twitter.com/search?q=iMessage) | N/A |
-| 37 | [Mudryk](http://twitter.com/search?q=Mudryk) | Mudryk is a Ukrainian surname derived from the word mudryj, which means wise or prudent. It is also used as a given name in Ukraine. In English, it can be translated to mean wise or prudent. |
-| 38 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 39 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 40 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 41 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 42 | [The UK](http://twitter.com/search?q=The+UK) | N/A |
+| 2 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 3 | [#alxapplicationparty](http://twitter.com/search?q=%23alxapplicationparty) | N/A |
+| 4 | [#recitation_themovie](http://twitter.com/search?q=%23recitation_themovie) | N/A |
+| 5 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 6 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 7 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 8 | [#InfinixStormX](http://twitter.com/search?q=%23InfinixStormX) | N/A |
+| 9 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 10 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 11 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 13 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 14 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 17 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 18 | [Banana Island](http://twitter.com/search?q=Banana+Island) | N/A |
+| 19 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 20 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 21 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 22 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 23 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 24 | [It Is Done](http://twitter.com/search?q=It+Is+Done) | N/A |
+| 25 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 26 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 27 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 28 | [Todd Boehly](http://twitter.com/search?q=Todd+Boehly) | Todd Boehly is the name of an American businessman and investor. He is the founder, chairman, and CEO of Eldridge Industries, a private investment firm. He is also the former co-owner and vice chairman of the Los Angeles Dodgers baseball team. |
+| 29 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 30 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 31 | [Isale Eko](http://twitter.com/search?q=Isale+Eko) | N/A |
+| 32 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 34 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 35 | [The UK](http://twitter.com/search?q=The+UK) | N/A |
+| 36 | [Stamford](http://twitter.com/search?q=Stamford) | N/A |
+| 37 | [Juvenile](http://twitter.com/search?q=Juvenile) | N/A |
+| 38 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 39 | [Big Benz](http://twitter.com/search?q=Big+Benz) | N/A |
+| 40 | [Heathrow](http://twitter.com/search?q=Heathrow) | N/A |
+| 41 | [Rare](http://twitter.com/search?q=Rare) | N/A |
+| 42 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 43 | [She's 19](http://twitter.com/search?q=She%27s+19) | N/A |
+| 44 | [Saga](http://twitter.com/search?q=Saga) | N/A |
+| 45 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 46 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 47 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 48 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 49 | [Chimamanda Ngozi Adichie](http://twitter.com/search?q=Chimamanda+Ngozi+Adichie) | N/A |
+| 50 | [NIBSS](http://twitter.com/search?q=NIBSS) | N/A |
 
 
 

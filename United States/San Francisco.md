@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-13 00:27:59 UTC`
+📆 Last Updated: `2023-04-13 01:43:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
-| 2 | [#LTBU](http://twitter.com/search?q=%23LTBU) | N/A |
-| 3 | [Katie Porter](http://twitter.com/search?q=Katie+Porter) | Katie Porter is an American politician and attorney who currently serves as the U.S. Representative for California's 45th congressional district. She is a member of the Democratic Party and was first elected to Congress in 2018. The name Katie Porter is derived from the English word "porter," which means a person who carries luggage or goods for others. |
-| 4 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 6 | [Senator](http://twitter.com/search?q=Senator) | N/A |
-| 7 | [Snell](http://twitter.com/search?q=Snell) | N/A |
-| 8 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 9 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 10 | [Spoutible](http://twitter.com/search?q=Spoutible) | N/A |
-| 11 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
-| 12 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 13 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
-| 14 | [Justin Pearson](http://twitter.com/search?q=Justin+Pearson) | N/A |
-| 15 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 16 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 17 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 18 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
-| 19 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 20 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 21 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 24 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
-| 25 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 26 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 27 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 28 | [Strider](http://twitter.com/search?q=Strider) | N/A |
-| 29 | [Zack Kelly](http://twitter.com/search?q=Zack+Kelly) | N/A |
-| 30 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 31 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 32 | [VanVleet](http://twitter.com/search?q=VanVleet) | N/A |
-| 33 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 34 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 35 | [Defund](http://twitter.com/search?q=Defund) | N/A |
-| 36 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 37 | [Cinemax](http://twitter.com/search?q=Cinemax) | N/A |
-| 38 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 39 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 40 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 41 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
-| 42 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
-| 43 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
-| 44 | [Kremer](http://twitter.com/search?q=Kremer) | N/A |
-| 45 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 46 | [Patrick Williams](http://twitter.com/search?q=Patrick+Williams) | N/A |
-| 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 48 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 49 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 1 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
+| 2 | [Brett Phillips](http://twitter.com/search?q=Brett+Phillips) | N/A |
+| 3 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 4 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 5 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 6 | [Katie Porter](http://twitter.com/search?q=Katie+Porter) | Katie Porter is an American politician and attorney who currently serves as the U.S. Representative for California's 45th congressional district. She is a member of the Democratic Party and was first elected to Congress in 2018. The name Katie Porter is derived from the English word "porter," which means a person who carries luggage or goods for others. |
+| 7 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 8 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 9 | [Defund](http://twitter.com/search?q=Defund) | N/A |
+| 10 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 12 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 15 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 16 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 17 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 19 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 20 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 21 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 22 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 23 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 24 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 25 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 26 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 27 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 28 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 29 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 30 | [Sting](http://twitter.com/search?q=Sting) | N/A |
+| 31 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 32 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 33 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 34 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 35 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
+| 36 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
+| 37 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 38 | [Gary Trent](http://twitter.com/search?q=Gary+Trent) | Gary Trent is a nickname given to someone who is strong, reliable, and dependable. It is derived from the name of the former NBA player Gary Trent, who was known for his strength and dependability on the court. |
+| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 40 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 41 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 42 | [Bullet Club Gold](http://twitter.com/search?q=Bullet+Club+Gold) | N/A |
+| 43 | [Cutler](http://twitter.com/search?q=Cutler) | N/A |
+| 44 | [Patrick Williams](http://twitter.com/search?q=Patrick+Williams) | N/A |
+| 45 | [Buddy Matthews](http://twitter.com/search?q=Buddy+Matthews) | N/A |
+| 46 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
+| 47 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 48 | [Nakazawa](http://twitter.com/search?q=Nakazawa) | N/A |
+| 49 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
 
 
 
