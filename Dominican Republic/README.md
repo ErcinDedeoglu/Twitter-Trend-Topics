@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-13 06:18:53 UTC`
+📆 Last Updated: `2023-04-13 07:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for Dominican Republic
 | 8 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
 | 9 | [Faride](http://twitter.com/search?q=Faride) | N/A |
 | 10 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 11 | [Henri Hebrard](http://twitter.com/search?q=Henri+Hebrard) | N/A |
-| 12 | [Pedro Domínguez Brito](http://twitter.com/search?q=Pedro+Dom%c3%adnguez+Brito) | N/A |
+| 11 | [henri hebrard](http://twitter.com/search?q=henri+hebrard) | N/A |
+| 12 | [pedro domínguez brito](http://twitter.com/search?q=pedro+dom%c3%adnguez+brito) | N/A |
 | 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 14 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
 | 15 | [Vinicito](http://twitter.com/search?q=Vinicito) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for Dominican Republic
 | 23 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 | 24 | [#jce100años](http://twitter.com/search?q=%23jce100a%c3%b1os) | N/A |
 | 25 | [Davis](http://twitter.com/search?q=Davis) | N/A |
-| 26 | [junta central electoral](http://twitter.com/search?q=junta+central+electoral) | N/A |
-| 27 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
-| 28 | [Ricardo Nieves](http://twitter.com/search?q=Ricardo+Nieves) | N/A |
-| 29 | [chen luning](http://twitter.com/search?q=chen+luning) | N/A |
-| 30 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
-| 31 | [Senador](http://twitter.com/search?q=Senador) | N/A |
-| 32 | [Peña Gómez](http://twitter.com/search?q=Pe%c3%b1a+G%c3%b3mez) | N/A |
-| 33 | [Reforma Educativa Policial](http://twitter.com/search?q=Reforma+Educativa+Policial) | N/A |
+| 26 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
+| 27 | [Ricardo Nieves](http://twitter.com/search?q=Ricardo+Nieves) | N/A |
+| 28 | [chen luning](http://twitter.com/search?q=chen+luning) | N/A |
+| 29 | [Abinader](http://twitter.com/search?q=Abinader) | N/A |
+| 30 | [Senador](http://twitter.com/search?q=Senador) | N/A |
+| 31 | [Peña Gómez](http://twitter.com/search?q=Pe%c3%b1a+G%c3%b3mez) | N/A |
+| 32 | [Junta Central Electoral](http://twitter.com/search?q=Junta+Central+Electoral) | N/A |
+| 33 | [reforma educativa policial](http://twitter.com/search?q=reforma+educativa+policial) | N/A |
 | 34 | [#ldf2023](http://twitter.com/search?q=%23ldf2023) | N/A |
 | 35 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
-| 36 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 37 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 38 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
-| 39 | [Comité Nacional](http://twitter.com/search?q=Comit%c3%a9+Nacional) | N/A |
-| 40 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 41 | [#drtradeshow](http://twitter.com/search?q=%23drtradeshow) | N/A |
-| 42 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 43 | [Sirena](http://twitter.com/search?q=Sirena) | N/A |
-| 44 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
-| 45 | [Latinoamérica](http://twitter.com/search?q=Latinoam%c3%a9rica) | N/A |
-| 46 | [maipi](http://twitter.com/search?q=maipi) | N/A |
-| 47 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 48 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
-| 49 | [Comisión Técnica](http://twitter.com/search?q=Comisi%c3%b3n+T%c3%a9cnica) | N/A |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 36 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 37 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 38 | [Comité Nacional](http://twitter.com/search?q=Comit%c3%a9+Nacional) | N/A |
+| 39 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
+| 40 | [#drtradeshow](http://twitter.com/search?q=%23drtradeshow) | N/A |
+| 41 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 42 | [Sirena](http://twitter.com/search?q=Sirena) | N/A |
+| 43 | [Quirino](http://twitter.com/search?q=Quirino) | N/A |
+| 44 | [Latinoamérica](http://twitter.com/search?q=Latinoam%c3%a9rica) | N/A |
+| 45 | [maipi](http://twitter.com/search?q=maipi) | N/A |
+| 46 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 47 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 48 | [comisión técnica](http://twitter.com/search?q=comisi%c3%b3n+t%c3%a9cnica) | N/A |
+| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 50 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-13 06:18:53 UTC`
+📆 Last Updated: `2023-04-13 07:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,9 +53,9 @@ This is top 50 for Ecuador
 | 36 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
 | 37 | [Naranjito](http://twitter.com/search?q=Naranjito) | N/A |
 | 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 40 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 41 | [Sesión Solemne](http://twitter.com/search?q=Sesi%c3%b3n+Solemne) | N/A |
+| 39 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 40 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 41 | [sesión solemne](http://twitter.com/search?q=sesi%c3%b3n+solemne) | N/A |
 | 42 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
 | 43 | [Invite](http://twitter.com/search?q=Invite) | N/A |
 | 44 | [Puerto Pesquero Artesanal](http://twitter.com/search?q=Puerto+Pesquero+Artesanal) | N/A |

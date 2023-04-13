@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-13 06:18:57 UTC`
+📆 Last Updated: `2023-04-13 07:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
-| 2 | [#FlokiCash](http://twitter.com/search?q=%23FlokiCash) | N/A |
-| 3 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | N/A |
+| 1 | [#flokicash](http://twitter.com/search?q=%23flokicash) | N/A |
+| 2 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | N/A |
+| 3 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
 | 4 | [levitu](http://twitter.com/search?q=levitu) | N/A |
 | 5 | [#TogetherMV](http://twitter.com/search?q=%23TogetherMV) | N/A |
 | 6 | [#TogetherByDimash](http://twitter.com/search?q=%23TogetherByDimash) | N/A |
-| 7 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 8 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 9 | [Kariņa](http://twitter.com/search?q=Kari%c5%86a) | N/A |
-| 10 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
-| 11 | [eiropai](http://twitter.com/search?q=eiropai) | N/A |
-| 12 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
-| 13 | [Leta](http://twitter.com/search?q=Leta) | N/A |
-| 14 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 7 | [#DimashQudaibergen](http://twitter.com/search?q=%23DimashQudaibergen) | N/A |
+| 8 | [Jūrmalas](http://twitter.com/search?q=J%c5%abrmalas) | N/A |
+| 9 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 10 | [Kariņa](http://twitter.com/search?q=Kari%c5%86a) | N/A |
+| 11 | [lietuvas](http://twitter.com/search?q=lietuvas) | N/A |
+| 12 | [eiropai](http://twitter.com/search?q=eiropai) | N/A |
+| 13 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
+| 14 | [Leta](http://twitter.com/search?q=Leta) | N/A |
 | 15 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 16 | [Visu](http://twitter.com/search?q=Visu) | N/A |
-| 17 | [šlesers](http://twitter.com/search?q=%c5%a1lesers) | N/A |
-| 18 | [katru](http://twitter.com/search?q=katru) | N/A |
-| 19 | [ministru](http://twitter.com/search?q=ministru) | N/A |
-| 20 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 21 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 22 | [staķa](http://twitter.com/search?q=sta%c4%b7a) | N/A |
-| 23 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
-| 24 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
-| 25 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
+| 16 | [Nopietni](http://twitter.com/search?q=Nopietni) | N/A |
+| 17 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
+| 18 | [ministru](http://twitter.com/search?q=ministru) | N/A |
+| 19 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 20 | [staķa](http://twitter.com/search?q=sta%c4%b7a) | N/A |
+| 21 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
+| 22 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 23 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 24 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
+| 25 | [Šlesers](http://twitter.com/search?q=%c5%a0lesers) | N/A |
 | 26 | [Liels](http://twitter.com/search?q=Liels) | N/A |
-| 27 | [coju](http://twitter.com/search?q=coju) | N/A |
-| 28 | [cojs](http://twitter.com/search?q=cojs) | N/A |
-| 29 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
-| 30 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 31 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 32 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 33 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 34 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
-| 35 | [Šajā](http://twitter.com/search?q=%c5%a0aj%c4%81) | N/A |
-| 36 | [латвия](http://twitter.com/search?q=%d0%bb%d0%b0%d1%82%d0%b2%d0%b8%d1%8f) | N/A |
-| 37 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
-| 38 | [priekš](http://twitter.com/search?q=priek%c5%a1) | N/A |
-| 39 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 40 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 41 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
-| 42 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
-| 43 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 44 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
-| 45 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
-| 46 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 47 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
-| 48 | [Coja](http://twitter.com/search?q=Coja) | N/A |
-| 49 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | N/A |
-| 50 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 27 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
+| 28 | [coju](http://twitter.com/search?q=coju) | N/A |
+| 29 | [cojs](http://twitter.com/search?q=cojs) | N/A |
+| 30 | [Viņam](http://twitter.com/search?q=Vi%c5%86am) | N/A |
+| 31 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 32 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
+| 33 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 34 | [KATRU](http://twitter.com/search?q=KATRU) | N/A |
+| 35 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 36 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 37 | [satversmes](http://twitter.com/search?q=satversmes) | N/A |
+| 38 | [Krievijā](http://twitter.com/search?q=Krievij%c4%81) | N/A |
+| 39 | [Šajā](http://twitter.com/search?q=%c5%a0aj%c4%81) | N/A |
+| 40 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
+| 41 | [PSRS](http://twitter.com/search?q=PSRS) | N/A |
+| 42 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 43 | [Латвии](http://twitter.com/search?q=%d0%9b%d0%b0%d1%82%d0%b2%d0%b8%d0%b8) | N/A |
+| 44 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 45 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 46 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 47 | [Rimi](http://twitter.com/search?q=Rimi) | N/A |
+| 48 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
+| 49 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
+| 50 | [Priekš](http://twitter.com/search?q=Priek%c5%a1) | N/A |
 
 
 

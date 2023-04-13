@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-13 06:18:27 UTC`
+📆 Last Updated: `2023-04-13 07:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [South Africa](</South Africa>)
 | 3 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 4 | [Kgosi Mampuru](http://twitter.com/search?q=Kgosi+Mampuru) | N/A |
 | 5 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 6 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 7 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 8 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 6 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 7 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 8 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
 | 9 | [UNSTOPPABLE KHOSI](http://twitter.com/search?q=UNSTOPPABLE+KHOSI) | N/A |
-| 10 | [Lanseria](http://twitter.com/search?q=Lanseria) | N/A |
+| 10 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
 | 11 | [Chriselda](http://twitter.com/search?q=Chriselda) | N/A |
-| 12 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
-| 13 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
+| 12 | [Kokstad](http://twitter.com/search?q=Kokstad) | N/A |
+| 13 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 14 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 15 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 16 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
+| 15 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
+| 16 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
 | 17 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 20 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 21 | [Kokstad](http://twitter.com/search?q=Kokstad) | N/A |
-| 22 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 23 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 24 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 25 | [Raptor](http://twitter.com/search?q=Raptor) | N/A |
-| 26 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 27 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 28 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 29 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 30 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 31 | [De Ruyter](http://twitter.com/search?q=De+Ruyter) | N/A |
-| 32 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 33 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
-| 34 | [Glynnis Breytenbach](http://twitter.com/search?q=Glynnis+Breytenbach) | N/A |
-| 35 | [THABANG TODAY AND FOREVER](http://twitter.com/search?q=THABANG+TODAY+AND+FOREVER) | N/A |
-| 36 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 37 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
-| 38 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 39 | [MacG](http://twitter.com/search?q=MacG) | N/A |
-| 40 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 41 | [ipeleng is outside](http://twitter.com/search?q=ipeleng+is+outside) | N/A |
+| 18 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 19 | [Lanseria](http://twitter.com/search?q=Lanseria) | N/A |
+| 20 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 21 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
+| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 23 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 24 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 25 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 26 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 27 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 28 | [Mathe](http://twitter.com/search?q=Mathe) | N/A |
+| 29 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 30 | [Raptor](http://twitter.com/search?q=Raptor) | N/A |
+| 31 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 32 | [De Ruyter](http://twitter.com/search?q=De+Ruyter) | N/A |
+| 33 | [Glynnis Breytenbach](http://twitter.com/search?q=Glynnis+Breytenbach) | N/A |
+| 34 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 35 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 37 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 38 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 39 | [Minister of Electricity](http://twitter.com/search?q=Minister+of+Electricity) | N/A |
+| 40 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 41 | [THABANG TODAY AND FOREVER](http://twitter.com/search?q=THABANG+TODAY+AND+FOREVER) | N/A |
 | 42 | [tsatsii is loved](http://twitter.com/search?q=tsatsii+is+loved) | N/A |
 | 43 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 44 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 45 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 46 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 47 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
+| 45 | [MacG](http://twitter.com/search?q=MacG) | N/A |
+| 46 | [Credit](http://twitter.com/search?q=Credit) | N/A |
+| 47 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
 | 48 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 
 

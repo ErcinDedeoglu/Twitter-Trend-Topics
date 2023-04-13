@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-13 06:18:52 UTC`
+📆 Last Updated: `2023-04-13 07:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 2 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 3 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
-| 4 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 5 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 6 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
-| 7 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 1 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 2 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 3 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 4 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 5 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 6 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
+| 7 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
 | 8 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
 | 9 | [вось](http://twitter.com/search?q=%d0%b2%d0%be%d1%81%d1%8c) | N/A |
-| 10 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 11 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
+| 10 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
+| 11 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
 | 12 | [гомельской](http://twitter.com/search?q=%d0%b3%d0%be%d0%bc%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%be%d0%b9) | N/A |
 | 13 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 14 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
@@ -35,8 +35,9 @@ This is top 50 for Belarus
 | 18 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 19 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 | 20 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 21 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 22 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 21 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 22 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 23 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
 
 
 

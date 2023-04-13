@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-13 06:18:59 UTC`
+📆 Last Updated: `2023-04-13 07:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,13 +17,13 @@ This is top 50 for Panama
 | ------- | ------------ | ------------ |
 | 1 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 2 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 3 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 4 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 5 | [Yappy](http://twitter.com/search?q=Yappy) | N/A |
-| 6 | [Foco](http://twitter.com/search?q=Foco) | N/A |
-| 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 8 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 9 | [Anati](http://twitter.com/search?q=Anati) | N/A |
+| 3 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 4 | [Yappy](http://twitter.com/search?q=Yappy) | N/A |
+| 5 | [Foco](http://twitter.com/search?q=Foco) | N/A |
+| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 7 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 8 | [Anati](http://twitter.com/search?q=Anati) | N/A |
+| 9 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 | 10 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
 | 11 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 12 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
@@ -31,14 +31,14 @@ This is top 50 for Panama
 | 14 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
 | 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 16 | [#vamoscontodoprd](http://twitter.com/search?q=%23vamoscontodoprd) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [San Joaquín](http://twitter.com/search?q=San+Joaqu%c3%adn) | N/A |
-| 20 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
+| 17 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 20 | [San Joaquín](http://twitter.com/search?q=San+Joaqu%c3%adn) | N/A |
 | 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 23 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 24 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 24 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
 | 25 | [Arraijan](http://twitter.com/search?q=Arraijan) | N/A |
 | 26 | [Uber](http://twitter.com/search?q=Uber) | N/A |
 | 27 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
@@ -51,7 +51,7 @@ This is top 50 for Panama
 | 34 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
 | 35 | [#InformaTPanama](http://twitter.com/search?q=%23InformaTPanama) | N/A |
 | 36 | [mercedes chami dogirama](http://twitter.com/search?q=mercedes+chami+dogirama) | N/A |
-| 37 | [Ricardo Martinelli](http://twitter.com/search?q=Ricardo+Martinelli) | N/A |
+| 37 | [ricardo martinelli](http://twitter.com/search?q=ricardo+martinelli) | N/A |
 | 38 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 39 | [Darien](http://twitter.com/search?q=Darien) | N/A |
 | 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |

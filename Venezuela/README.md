@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-13 06:19:02 UTC`
+📆 Last Updated: `2023-04-13 07:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Venezuela
 | 1 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 2 | [#12Abr](http://twitter.com/search?q=%2312Abr) | N/A |
 | 3 | [#RebeldíaComunicacional](http://twitter.com/search?q=%23Rebeld%c3%adaComunicacional) | N/A |
-| 4 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
+| 4 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
 | 5 | [#Todo11TieneSu13](http://twitter.com/search?q=%23Todo11TieneSu13) | N/A |
 | 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 7 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for Venezuela
 | 18 | [Luis Arráez](http://twitter.com/search?q=Luis+Arr%c3%a1ez) | N/A |
 | 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 21 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 22 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 23 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [Las Tres Gracias](http://twitter.com/search?q=Las+Tres+Gracias) | N/A |
-| 26 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 27 | [Mariela Alcalá](http://twitter.com/search?q=Mariela+Alcal%c3%a1) | N/A |
-| 28 | [Paila](http://twitter.com/search?q=Paila) | N/A |
-| 29 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 30 | [Justicia Divina](http://twitter.com/search?q=Justicia+Divina) | N/A |
-| 31 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 32 | [día del pueblo comunicador](http://twitter.com/search?q=d%c3%ada+del+pueblo+comunicador) | N/A |
-| 33 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 34 | [Mortadelo](http://twitter.com/search?q=Mortadelo) | N/A |
-| 35 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 21 | [poder electoral](http://twitter.com/search?q=poder+electoral) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 24 | [Las Tres Gracias](http://twitter.com/search?q=Las+Tres+Gracias) | N/A |
+| 25 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 26 | [Paila](http://twitter.com/search?q=Paila) | N/A |
+| 27 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
+| 28 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 29 | [Justicia Divina](http://twitter.com/search?q=Justicia+Divina) | N/A |
+| 30 | [Mariela Alcalá](http://twitter.com/search?q=Mariela+Alcal%c3%a1) | N/A |
+| 31 | [día del pueblo comunicador](http://twitter.com/search?q=d%c3%ada+del+pueblo+comunicador) | N/A |
+| 32 | [Mortadelo](http://twitter.com/search?q=Mortadelo) | N/A |
+| 33 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 34 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 35 | [Discos](http://twitter.com/search?q=Discos) | N/A |
 | 36 | [Ciudad Tiuna](http://twitter.com/search?q=Ciudad+Tiuna) | N/A |
-| 37 | [Discos](http://twitter.com/search?q=Discos) | N/A |
-| 38 | [aldemaro romero](http://twitter.com/search?q=aldemaro+romero) | N/A |
-| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 40 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 41 | [Nino Bravo](http://twitter.com/search?q=Nino+Bravo) | N/A |
-| 42 | [Delcy Rodríguez](http://twitter.com/search?q=Delcy+Rodr%c3%adguez) | N/A |
-| 43 | [arda](http://twitter.com/search?q=arda) | N/A |
-| 44 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 45 | [Carmen Julia Alvarez](http://twitter.com/search?q=Carmen+Julia+Alvarez) | N/A |
-| 46 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 47 | [Lila Morillo](http://twitter.com/search?q=Lila+Morillo) | N/A |
-| 48 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 49 | [El 12](http://twitter.com/search?q=El+12) | N/A |
-| 50 | [harold sosa](http://twitter.com/search?q=harold+sosa) | N/A |
+| 37 | [aldemaro romero](http://twitter.com/search?q=aldemaro+romero) | N/A |
+| 38 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 39 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 40 | [Nino Bravo](http://twitter.com/search?q=Nino+Bravo) | N/A |
+| 41 | [Delcy Rodríguez](http://twitter.com/search?q=Delcy+Rodr%c3%adguez) | N/A |
+| 42 | [arda](http://twitter.com/search?q=arda) | N/A |
+| 43 | [Carmen Julia Alvarez](http://twitter.com/search?q=Carmen+Julia+Alvarez) | N/A |
+| 44 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 46 | [Conde](http://twitter.com/search?q=Conde) | N/A |
+| 47 | [El 12](http://twitter.com/search?q=El+12) | N/A |
+| 48 | [harold sosa](http://twitter.com/search?q=harold+sosa) | N/A |
+| 49 | [Buque Escuela](http://twitter.com/search?q=Buque+Escuela) | N/A |
+| 50 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-04-13 06:17:57 UTC`
+📆 Last Updated: `2023-04-13 07:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Brazil](</Brazil>)
 | 9 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
 | 10 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
 | 11 | [Veveta](http://twitter.com/search?q=Veveta) | N/A |
-| 12 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
-| 13 | [Karol Conka](http://twitter.com/search?q=Karol+Conka) | N/A |
+| 12 | [Karol Conka](http://twitter.com/search?q=Karol+Conka) | N/A |
+| 13 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
 | 14 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
 | 15 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 16 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
-| 17 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 18 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 19 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 20 | [Lumena](http://twitter.com/search?q=Lumena) | N/A |
-| 21 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 16 | [navarro](http://twitter.com/search?q=navarro) | N/A |
+| 17 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 18 | [Lumena](http://twitter.com/search?q=Lumena) | N/A |
+| 19 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 20 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 21 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
 | 22 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 23 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
-| 24 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 25 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 26 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 27 | [OU O QUE](http://twitter.com/search?q=OU+O+QUE) | N/A |
-| 28 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
-| 29 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 30 | [#FicaBlack](http://twitter.com/search?q=%23FicaBlack) | N/A |
-| 31 | [navarro](http://twitter.com/search?q=navarro) | N/A |
-| 32 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
-| 33 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
-| 34 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
-| 35 | [Duílio](http://twitter.com/search?q=Du%c3%adlio) | N/A |
-| 36 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 37 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
-| 38 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
-| 39 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 40 | [Machista](http://twitter.com/search?q=Machista) | N/A |
-| 41 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
-| 42 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 43 | [Perri](http://twitter.com/search?q=Perri) | N/A |
-| 44 | [Machismo](http://twitter.com/search?q=Machismo) | N/A |
-| 45 | [#ForaCezarBlack](http://twitter.com/search?q=%23ForaCezarBlack) | N/A |
-| 46 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 47 | [Muriqui](http://twitter.com/search?q=Muriqui) | N/A |
-| 48 | [Battaglia](http://twitter.com/search?q=Battaglia) | N/A |
-| 49 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
-| 50 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
+| 23 | [OU O QUE](http://twitter.com/search?q=OU+O+QUE) | N/A |
+| 24 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 25 | [Gabriel Fop](http://twitter.com/search?q=Gabriel+Fop) | N/A |
+| 26 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
+| 27 | [#FicaBlack](http://twitter.com/search?q=%23FicaBlack) | N/A |
+| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 29 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 30 | [Machismo](http://twitter.com/search?q=Machismo) | N/A |
+| 31 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
+| 32 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
+| 33 | [#SpaceDoMuka](http://twitter.com/search?q=%23SpaceDoMuka) | N/A |
+| 34 | [Duílio](http://twitter.com/search?q=Du%c3%adlio) | N/A |
+| 35 | [Machista](http://twitter.com/search?q=Machista) | N/A |
+| 36 | [#festabbb23](http://twitter.com/search?q=%23festabbb23) | #festabbb23 is a hashtag used to promote a festival or event. It stands for "Festival Abbb 23", where "Abbb" is the name of the festival or event. |
+| 37 | [Perri](http://twitter.com/search?q=Perri) | N/A |
+| 38 | [#ForaCezarBlack](http://twitter.com/search?q=%23ForaCezarBlack) | N/A |
+| 39 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 40 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 41 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 42 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 43 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
+| 44 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 45 | [Muriqui](http://twitter.com/search?q=Muriqui) | N/A |
+| 46 | [Omissa](http://twitter.com/search?q=Omissa) | N/A |
+| 47 | [Black e Domitila](http://twitter.com/search?q=Black+e+Domitila) | N/A |
+| 48 | [Bruna Gritão](http://twitter.com/search?q=Bruna+Grit%c3%a3o) | N/A |
+| 49 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 50 | [Pablo Roberto](http://twitter.com/search?q=Pablo+Roberto) | N/A |
 
 
 
