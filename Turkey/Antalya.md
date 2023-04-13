@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-13 18:18:28 UTC`
+📆 Last Updated: `2023-04-13 19:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [Togg](http://twitter.com/search?q=Togg) | N/A |
 | 2 | [ArkeoSanataBaharGelecek](http://twitter.com/search?q=ArkeoSanataBaharGelecek) | N/A |
-| 3 | [#OtoSansür](http://twitter.com/search?q=%23OtoSans%c3%bcr) | N/A |
-| 4 | [BayKemal İibfyeSÖZver](http://twitter.com/search?q=BayKemal+%c4%b0ibfyeS%c3%96Zver) | N/A |
-| 5 | [#KamuMuhendisininTalebi](http://twitter.com/search?q=%23KamuMuhendisininTalebi) | N/A |
-| 6 | [#SarıMelekler](http://twitter.com/search?q=%23Sar%c4%b1Melekler) | N/A |
-| 7 | [#yalandünya](http://twitter.com/search?q=%23yaland%c3%bcnya) | N/A |
-| 8 | [#uAUNIAçıkHavaSineması](http://twitter.com/search?q=%23uAUNIA%c3%a7%c4%b1kHavaSinemas%c4%b1) | N/A |
-| 9 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
-| 10 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 11 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 12 | [Madara](http://twitter.com/search?q=Madara) | N/A |
-| 13 | [Kemal Uçar](http://twitter.com/search?q=Kemal+U%c3%a7ar) | N/A |
-| 14 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 15 | [Kamu Mühendisleri](http://twitter.com/search?q=Kamu+M%c3%bchendisleri) | N/A |
-| 16 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 17 | [Arina](http://twitter.com/search?q=Arina) | N/A |
-| 18 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 19 | [Selo](http://twitter.com/search?q=Selo) | N/A |
-| 20 | [Seninkini](http://twitter.com/search?q=Seninkini) | N/A |
-| 21 | [CEV Şampiyonlar Ligi'nde](http://twitter.com/search?q=CEV+%c5%9eampiyonlar+Ligi%27nde) | N/A |
-| 22 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 23 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 24 | [Silah](http://twitter.com/search?q=Silah) | N/A |
-| 25 | [CbPomemde YasEsnetin](http://twitter.com/search?q=CbPomemde+YasEsnetin) | N/A |
-| 26 | [Eczacıbaşı](http://twitter.com/search?q=Eczac%c4%b1ba%c5%9f%c4%b1) | N/A |
-| 27 | [Mahkeme](http://twitter.com/search?q=Mahkeme) | N/A |
-| 28 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 29 | [TÜRKİYE YÜZYILI BAŞLIYOR](http://twitter.com/search?q=T%c3%9cRK%c4%b0YE+Y%c3%9cZYILI+BA%c5%9eLIYOR) | N/A |
-| 30 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
-| 31 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
-| 32 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 33 | [Sayın Bakan](http://twitter.com/search?q=Say%c4%b1n+Bakan) | N/A |
-| 34 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
-| 35 | [14 Nisan Cuma](http://twitter.com/search?q=14+Nisan+Cuma) | N/A |
-| 36 | [Rize](http://twitter.com/search?q=Rize) | N/A |
-| 37 | [Saati 12](http://twitter.com/search?q=Saati+12) | N/A |
-| 38 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
-| 39 | [#ultrAslanUNI](http://twitter.com/search?q=%23ultrAslanUNI) | N/A |
-| 40 | [#KazandıkYazacağız](http://twitter.com/search?q=%23Kazand%c4%b1kYazaca%c4%9f%c4%b1z) | N/A |
-| 41 | [#23YolundaOmuzOmuza](http://twitter.com/search?q=%2323YolundaOmuzOmuza) | N/A |
-| 42 | [#KHKlıTarihiSeçimde](http://twitter.com/search?q=%23KHKl%c4%b1TarihiSe%c3%a7imde) | N/A |
-| 43 | [#KÇPyiİmzalayın](http://twitter.com/search?q=%23K%c3%87Pyi%c4%b0mzalay%c4%b1n) | N/A |
-| 44 | [#TeknikHizmetlerHakkınıİstiyor](http://twitter.com/search?q=%23TeknikHizmetlerHakk%c4%b1n%c4%b1%c4%b0stiyor) | N/A |
-| 45 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
-| 46 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
-| 47 | [#Gülcemal](http://twitter.com/search?q=%23G%c3%bclcemal) | N/A |
-| 48 | [#ezgiapartmanı](http://twitter.com/search?q=%23ezgiapartman%c4%b1) | N/A |
-| 49 | [#Yüzde30KabulEdilemez](http://twitter.com/search?q=%23Y%c3%bczde30KabulEdilemez) | N/A |
-| 50 | [#FenerbahceOpet](http://twitter.com/search?q=%23FenerbahceOpet) | N/A |
+| 3 | [#KamuMuhendisininTalebi](http://twitter.com/search?q=%23KamuMuhendisininTalebi) | N/A |
+| 4 | [#OtoSansür](http://twitter.com/search?q=%23OtoSans%c3%bcr) | N/A |
+| 5 | [#KHKlıTarihiSeçimde](http://twitter.com/search?q=%23KHKl%c4%b1TarihiSe%c3%a7imde) | N/A |
+| 6 | [#23YolundaOmuzOmuza](http://twitter.com/search?q=%2323YolundaOmuzOmuza) | N/A |
+| 7 | [AlparslanHocaya CezaeviZulmü](http://twitter.com/search?q=AlparslanHocaya+CezaeviZulm%c3%bc) | N/A |
+| 8 | [FAHRİ ÖĞRETİCİYE KADRO](http://twitter.com/search?q=FAHR%c4%b0+%c3%96%c4%9eRET%c4%b0C%c4%b0YE+KADRO) | N/A |
+| 9 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
+| 10 | [BayKemal İibfyeSÖZver](http://twitter.com/search?q=BayKemal+%c4%b0ibfyeS%c3%96Zver) | N/A |
+| 11 | [#SarıMelekler](http://twitter.com/search?q=%23Sar%c4%b1Melekler) | N/A |
+| 12 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 13 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
+| 14 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 15 | [AKPTaşeron İşçisiniKandırdı](http://twitter.com/search?q=AKPTa%c5%9feron+%c4%b0%c5%9f%c3%a7isiniKand%c4%b1rd%c4%b1) | N/A |
+| 16 | [Madara](http://twitter.com/search?q=Madara) | N/A |
+| 17 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 18 | [KararSenin SÖZSenin](http://twitter.com/search?q=KararSenin+S%c3%96ZSenin) | N/A |
+| 19 | [Kemal Uçar](http://twitter.com/search?q=Kemal+U%c3%a7ar) | N/A |
+| 20 | [Motley](http://twitter.com/search?q=Motley) | N/A |
+| 21 | [Kamu Mühendisleri](http://twitter.com/search?q=Kamu+M%c3%bchendisleri) | N/A |
+| 22 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 23 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
+| 24 | [Erdoğan Dedi](http://twitter.com/search?q=Erdo%c4%9fan+Dedi) | N/A |
+| 25 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
+| 26 | [Arina](http://twitter.com/search?q=Arina) | N/A |
+| 27 | [Selo](http://twitter.com/search?q=Selo) | N/A |
+| 28 | [Muharrem Erdoğan](http://twitter.com/search?q=Muharrem+Erdo%c4%9fan) | N/A |
+| 29 | [Küffar](http://twitter.com/search?q=K%c3%bcffar) | N/A |
+| 30 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 31 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 32 | [Songül](http://twitter.com/search?q=Song%c3%bcl) | N/A |
+| 33 | [Durumu](http://twitter.com/search?q=Durumu) | N/A |
+| 34 | [Varank](http://twitter.com/search?q=Varank) | N/A |
+| 35 | [Eczacıbaşı](http://twitter.com/search?q=Eczac%c4%b1ba%c5%9f%c4%b1) | N/A |
+| 36 | [Hayırlı Akşamlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Ak%c5%9famlar) | N/A |
+| 37 | [Seninkini](http://twitter.com/search?q=Seninkini) | N/A |
+| 38 | [FETÖ'cü](http://twitter.com/search?q=FET%c3%96%27c%c3%bc) | N/A |
+| 39 | [Mahkumun Umudu Kılıçdaroğlu](http://twitter.com/search?q=Mahkumun+Umudu+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 40 | [Mutlu Akşamlar](http://twitter.com/search?q=Mutlu+Ak%c5%9famlar) | N/A |
+| 41 | [Silah](http://twitter.com/search?q=Silah) | N/A |
+| 42 | [İlçe Başkanımız](http://twitter.com/search?q=%c4%b0l%c3%a7e+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 43 | [Cem Saygı](http://twitter.com/search?q=Cem+Sayg%c4%b1) | N/A |
+| 44 | [Soruyu](http://twitter.com/search?q=Soruyu) | N/A |
+| 45 | [CbPomemde YasEsnetin](http://twitter.com/search?q=CbPomemde+YasEsnetin) | N/A |
+| 46 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 47 | [Bakan](http://twitter.com/search?q=Bakan) | N/A |
+| 48 | [Beylikdüzü](http://twitter.com/search?q=Beylikd%c3%bcz%c3%bc) | N/A |
+| 49 | [TÜRKİYE YÜZYILI BAŞLIYOR](http://twitter.com/search?q=T%c3%9cRK%c4%b0YE+Y%c3%9cZYILI+BA%c5%9eLIYOR) | N/A |
+| 50 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
 
 
 

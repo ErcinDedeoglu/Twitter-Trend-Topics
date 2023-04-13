@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-13 18:18:01 UTC`
+📆 Last Updated: `2023-04-13 19:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
 | 2 | [#Feyenoord](http://twitter.com/search?q=%23Feyenoord) | N/A |
 | 3 | [#feyasr](http://twitter.com/search?q=%23feyasr) | N/A |
-| 4 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 5 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 6 | [LAKS](http://twitter.com/search?q=LAKS) | N/A |
-| 7 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 4 | [LAKS](http://twitter.com/search?q=LAKS) | N/A |
+| 5 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 6 | [#LangLeveDeLiefde](http://twitter.com/search?q=%23LangLeveDeLiefde) | N/A |
+| 7 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
 | 8 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
-| 9 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 10 | [Alireza](http://twitter.com/search?q=Alireza) | N/A |
-| 11 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 12 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
-| 13 | [Hans de Booij](http://twitter.com/search?q=Hans+de+Booij) | N/A |
-| 14 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
-| 15 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
-| 16 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
-| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 18 | [Paixao](http://twitter.com/search?q=Paixao) | N/A |
-| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 20 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
-| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 22 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 23 | [Wierd](http://twitter.com/search?q=Wierd) | N/A |
-| 24 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 25 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
-| 26 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 27 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 28 | [Koningsdag](http://twitter.com/search?q=Koningsdag) | N/A |
-| 29 | [Slot](http://twitter.com/search?q=Slot) | N/A |
-| 30 | [Kruk](http://twitter.com/search?q=Kruk) | N/A |
-| 31 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 32 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
-| 33 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 34 | [Lelylijn](http://twitter.com/search?q=Lelylijn) | N/A |
-| 35 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 36 | [Na 8](http://twitter.com/search?q=Na+8) | N/A |
-| 37 | [Haga](http://twitter.com/search?q=Haga) | N/A |
-| 38 | [John Mayer](http://twitter.com/search?q=John+Mayer) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 41 | [Gijs van Dijk](http://twitter.com/search?q=Gijs+van+Dijk) | N/A |
-| 42 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
-| 43 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 44 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 45 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 46 | [Belangenverstrengeling](http://twitter.com/search?q=Belangenverstrengeling) | N/A |
-| 47 | [Italianen](http://twitter.com/search?q=Italianen) | N/A |
-| 48 | [omroep max](http://twitter.com/search?q=omroep+max) | N/A |
-| 49 | [Lydia Daniël](http://twitter.com/search?q=Lydia+Dani%c3%abl) | N/A |
+| 9 | [Marinus](http://twitter.com/search?q=Marinus) | N/A |
+| 10 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
+| 11 | [Hans de Booij](http://twitter.com/search?q=Hans+de+Booij) | N/A |
+| 12 | [Jahanbakhsh](http://twitter.com/search?q=Jahanbakhsh) | N/A |
+| 13 | [Alireza](http://twitter.com/search?q=Alireza) | N/A |
+| 14 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
+| 15 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
+| 16 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 17 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
+| 18 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 19 | [Paixao](http://twitter.com/search?q=Paixao) | N/A |
+| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 21 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
+| 22 | [Hancko](http://twitter.com/search?q=Hancko) | N/A |
+| 23 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 24 | [Wierd Duk](http://twitter.com/search?q=Wierd+Duk) | N/A |
+| 25 | [Perez](http://twitter.com/search?q=Perez) | N/A |
+| 26 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 27 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 28 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 29 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 30 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 31 | [Italianen](http://twitter.com/search?q=Italianen) | N/A |
+| 32 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 33 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
+| 34 | [Bijlmerramp](http://twitter.com/search?q=Bijlmerramp) | N/A |
+| 35 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 36 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
+| 37 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 38 | [Kruk](http://twitter.com/search?q=Kruk) | N/A |
+| 39 | [Gijs van Dijk](http://twitter.com/search?q=Gijs+van+Dijk) | N/A |
+| 40 | [Na 8](http://twitter.com/search?q=Na+8) | N/A |
+| 41 | [Langdurige](http://twitter.com/search?q=Langdurige) | N/A |
+| 42 | [John Mayer](http://twitter.com/search?q=John+Mayer) | N/A |
+| 43 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 44 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 45 | [Bente](http://twitter.com/search?q=Bente) | N/A |
+| 46 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
+| 47 | [IS-vrouwen](http://twitter.com/search?q=IS-vrouwen) | N/A |
+| 48 | [Haga](http://twitter.com/search?q=Haga) | N/A |
+| 49 | [Burg](http://twitter.com/search?q=Burg) | N/A |
 
 
 

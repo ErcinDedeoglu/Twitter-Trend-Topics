@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-13 18:18:30 UTC`
+📆 Last Updated: `2023-04-13 19:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 2 | [#NCPH2023](http://twitter.com/search?q=%23NCPH2023) | N/A |
-| 3 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 4 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 5 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 6 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 9 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 10 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 11 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
-| 12 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 13 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 14 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 15 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 16 | [Springs](http://twitter.com/search?q=Springs) | N/A |
-| 17 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 18 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 19 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 20 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
-| 21 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 22 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 23 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
-| 24 | [#HTTR](http://twitter.com/search?q=%23HTTR) | N/A |
-| 25 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 26 | [Proche](http://twitter.com/search?q=Proche) | Proche is a French word meaning "close" or "nearby". It can be used to describe physical proximity, such as being close to someone or something, or it can be used to describe a relationship between two people or things. |
-| 27 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 28 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
-| 29 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
-| 30 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 31 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
-| 32 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
-| 33 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
-| 34 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 35 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 36 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 37 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 38 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 39 | [Thune](http://twitter.com/search?q=Thune) | N/A |
-| 40 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 41 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 42 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
-| 43 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 44 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 45 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
-| 46 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 47 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 48 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 49 | [Cepicky](http://twitter.com/search?q=Cepicky) | N/A |
-| 50 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 3 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 4 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 5 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 6 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 7 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 9 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 10 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 11 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 12 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 13 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 14 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 15 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
+| 16 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 17 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 18 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 19 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 20 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 21 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 22 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 23 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 24 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 25 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
+| 26 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
+| 27 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 28 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
+| 29 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
+| 30 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
+| 31 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 32 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 33 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
+| 34 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 35 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 36 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 37 | [Bleier](http://twitter.com/search?q=Bleier) | N/A |
+| 38 | [Thune](http://twitter.com/search?q=Thune) | N/A |
+| 39 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 40 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 41 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 42 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
+| 43 | [Taker](http://twitter.com/search?q=Taker) | N/A |
+| 44 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
+| 45 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
+| 46 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
+| 47 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 48 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 49 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 50 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 
 
 

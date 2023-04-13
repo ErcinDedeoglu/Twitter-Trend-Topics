@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-13 18:18:46 UTC`
+📆 Last Updated: `2023-04-13 19:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Kuwait
 | ------- | ------------ | ------------ |
 | 1 | [#عبدالله_نايف_العنزي](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87_%d9%86%d8%a7%d9%8a%d9%81_%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
 | 2 | [#امطار_الكويت](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 3 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
-| 4 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 5 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 6 | [#وزاره_التربيه](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 3 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
+| 4 | [#العشر_الاواخر_من_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1_%d9%85%d9%86_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 5 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
+| 6 | [وليد الجري](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a7%d9%84%d8%ac%d8%b1%d9%8a) | N/A |
 | 7 | [ديبالا](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%84%d8%a7) | N/A |
-| 8 | [الصدقه الجاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%af%d9%82%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 9 | [فينورد](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d9%88%d8%b1%d8%af) | N/A |
-| 10 | [وليد الجري](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a7%d9%84%d8%ac%d8%b1%d9%8a) | N/A |
-| 11 | [اوتار العشر](http://twitter.com/search?q=%d8%a7%d9%88%d8%aa%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
-| 12 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 13 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 14 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
-| 15 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 16 | [اون لاين](http://twitter.com/search?q=%d8%a7%d9%88%d9%86+%d9%84%d8%a7%d9%8a%d9%86) | N/A |
-| 17 | [غير مسلم](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 18 | [الارصاد الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 19 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 20 | [شباب المويزري](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d8%b2%d8%b1%d9%8a) | N/A |
+| 8 | [٢٢ رمضان](http://twitter.com/search?q=%d9%a2%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 9 | [روما](http://twitter.com/search?q=%d8%b1%d9%88%d9%85%d8%a7) | روما is a city in Italy, located in the Lazio region. In English, it is known as Rome. It is the capital of Italy and one of the most visited cities in the world. It is known for its ancient ruins, art, culture, and cuisine. |
+| 10 | [فينورد](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d9%88%d8%b1%d8%af) | N/A |
+| 11 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 12 | [اون لاين](http://twitter.com/search?q=%d8%a7%d9%88%d9%86+%d9%84%d8%a7%d9%8a%d9%86) | N/A |
+| 13 | [الليله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
+| 14 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 15 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 16 | [الصدقه الجاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%af%d9%82%d9%87+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 17 | [الارصاد الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b1%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 18 | [شعيب المويزري](http://twitter.com/search?q=%d8%b4%d8%b9%d9%8a%d8%a8+%d8%a7%d9%84%d9%85%d9%88%d9%8a%d8%b2%d8%b1%d9%8a) | N/A |
+| 19 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 20 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 21 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 22 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 23 | [غير المسلم](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 24 | [بو ثامر](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ab%d8%a7%d9%85%d8%b1) | N/A |
-| 25 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 26 | [مجيب اللهم](http://twitter.com/search?q=%d9%85%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 27 | [الكلاب الضاله](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%b6%d8%a7%d9%84%d9%87) | N/A |
-| 28 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
-| 29 | [الليله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
-| 30 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 31 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 32 | [الحاله المطريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%b7%d8%b1%d9%8a%d9%87) | N/A |
-| 33 | [المسلم الصايم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d9%85) | N/A |
-| 34 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 35 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 36 | [ابن رجب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b1%d8%ac%d8%a8) | N/A |
-| 37 | [ذهب الظما](http://twitter.com/search?q=%d8%b0%d9%87%d8%a8+%d8%a7%d9%84%d8%b8%d9%85%d8%a7) | N/A |
-| 38 | [وزير الخارجيه السوري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 39 | [يابو مبارك](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 40 | [الشهر العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%87%d8%b1+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 41 | [العمل الخيري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%d9%8a) | N/A |
-| 42 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 43 | [دكتور عبدالله](http://twitter.com/search?q=%d8%af%d9%83%d8%aa%d9%88%d8%b1+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
-| 44 | [الدعم الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
-| 45 | [يابو مريم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
-| 46 | [علي المسلم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 47 | [يابو سلطان](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 48 | [بن ناجي](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%ac%d9%8a) | N/A |
-| 49 | [وزارة الأشغال](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a3%d8%b4%d8%ba%d8%a7%d9%84) | N/A |
-| 50 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 22 | [غير مسلم](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 23 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 24 | [غير المسلمين](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 25 | [اوتار العشر](http://twitter.com/search?q=%d8%a7%d9%88%d8%aa%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
+| 26 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 27 | [مجيب اللهم](http://twitter.com/search?q=%d9%85%d8%ac%d9%8a%d8%a8+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 28 | [المسلم الصايم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85+%d8%a7%d9%84%d8%b5%d8%a7%d9%8a%d9%85) | N/A |
+| 29 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 30 | [طهران](http://twitter.com/search?q=%d8%b7%d9%87%d8%b1%d8%a7%d9%86) | N/A |
+| 31 | [اليوم الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [الامطار المتوقع](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d9%82%d8%b9) | N/A |
+| 33 | [الكلاب الضاله](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%b6%d8%a7%d9%84%d9%87) | N/A |
+| 34 | [الحاله المطريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%b7%d8%b1%d9%8a%d9%87) | N/A |
+| 35 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
+| 36 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 37 | [بو ثامر](http://twitter.com/search?q=%d8%a8%d9%88+%d8%ab%d8%a7%d9%85%d8%b1) | N/A |
+| 38 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 39 | [شركات التامين](http://twitter.com/search?q=%d8%b4%d8%b1%d9%83%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%a7%d9%85%d9%8a%d9%86) | N/A |
+| 40 | [يابو مبارك](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 41 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 42 | [الدعم الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 43 | [علي المسلم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 44 | [المنخفض الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%ae%d9%81%d8%b6+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |
+| 45 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 46 | [احمد السعدون](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%88%d9%86) | N/A |
+| 47 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 48 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 49 | [الحصه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b5%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 50 | [رييس المجلس](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3) | N/A |
 
 
 

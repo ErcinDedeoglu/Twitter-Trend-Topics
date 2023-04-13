@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-13 18:18:04 UTC`
+📆 Last Updated: `2023-04-13 19:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pehrson](http://twitter.com/search?q=Pehrson) | N/A |
+| 1 | [Fett](http://twitter.com/search?q=Fett) | N/A |
 | 2 | [Kriminalvården](http://twitter.com/search?q=Kriminalv%c3%a5rden) | N/A |
-| 3 | [Fett](http://twitter.com/search?q=Fett) | N/A |
-| 4 | [Barnkonventionen](http://twitter.com/search?q=Barnkonventionen) | N/A |
-| 5 | [Mölndal](http://twitter.com/search?q=M%c3%b6lndal) | N/A |
+| 3 | [Pehrson](http://twitter.com/search?q=Pehrson) | N/A |
+| 4 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 5 | [Öresundstågen](http://twitter.com/search?q=%c3%96resundst%c3%a5gen) | N/A |
 | 6 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
-| 7 | [Fredrik Anderssons](http://twitter.com/search?q=Fredrik+Anderssons) | N/A |
-| 8 | [Bengt Westerberg](http://twitter.com/search?q=Bengt+Westerberg) | N/A |
-| 9 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 10 | [Öresundstågen](http://twitter.com/search?q=%c3%96resundst%c3%a5gen) | N/A |
-| 11 | [Pernod Ricard](http://twitter.com/search?q=Pernod+Ricard) | N/A |
-| 12 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 13 | [Liberalerna](http://twitter.com/search?q=Liberalerna) | N/A |
-| 14 | [Plastpåseskatten](http://twitter.com/search?q=Plastp%c3%a5seskatten) | N/A |
-| 15 | [Absolut Vodka](http://twitter.com/search?q=Absolut+Vodka) | N/A |
-| 16 | [Naturvårdsverket](http://twitter.com/search?q=Naturv%c3%a5rdsverket) | N/A |
+| 7 | [Mölndal](http://twitter.com/search?q=M%c3%b6lndal) | N/A |
+| 8 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 9 | [Fredrik Anderssons](http://twitter.com/search?q=Fredrik+Anderssons) | N/A |
+| 10 | [Westerberg](http://twitter.com/search?q=Westerberg) | N/A |
+| 11 | [Barnkonventionen](http://twitter.com/search?q=Barnkonventionen) | N/A |
+| 12 | [Absolut Vodka](http://twitter.com/search?q=Absolut+Vodka) | N/A |
+| 13 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 14 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 15 | [Armenien](http://twitter.com/search?q=Armenien) | N/A |
+| 16 | [Pernod Ricard](http://twitter.com/search?q=Pernod+Ricard) | N/A |
 | 17 | [#lhflive](http://twitter.com/search?q=%23lhflive) | N/A |
-| 18 | [Skåne](http://twitter.com/search?q=Sk%c3%a5ne) | N/A |
-| 19 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 20 | [Edvardsen](http://twitter.com/search?q=Edvardsen) | N/A |
-| 21 | [Armenien](http://twitter.com/search?q=Armenien) | N/A |
-| 22 | [Annika](http://twitter.com/search?q=Annika) | N/A |
-| 23 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 24 | [Modo](http://twitter.com/search?q=Modo) | N/A |
-| 25 | [Tyskarna](http://twitter.com/search?q=Tyskarna) | N/A |
-| 26 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
-| 27 | [Malte](http://twitter.com/search?q=Malte) | N/A |
-| 28 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
-| 29 | [Krüger](http://twitter.com/search?q=Kr%c3%bcger) | N/A |
-| 30 | [#Brynäs](http://twitter.com/search?q=%23Bryn%c3%a4s) | N/A |
-| 31 | [olof mellberg](http://twitter.com/search?q=olof+mellberg) | N/A |
-| 32 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 33 | [#ESSHC2023](http://twitter.com/search?q=%23ESSHC2023) | N/A |
-| 34 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
+| 18 | [Malte](http://twitter.com/search?q=Malte) | N/A |
+| 19 | [Olof Mellberg](http://twitter.com/search?q=Olof+Mellberg) | N/A |
+| 20 | [Naturvårdsverket](http://twitter.com/search?q=Naturv%c3%a5rdsverket) | N/A |
+| 21 | [Gunnar Strömmer](http://twitter.com/search?q=Gunnar+Str%c3%b6mmer) | N/A |
+| 22 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 23 | [Plastpåseskatten](http://twitter.com/search?q=Plastp%c3%a5seskatten) | N/A |
+| 24 | [Edvardsen](http://twitter.com/search?q=Edvardsen) | N/A |
+| 25 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 26 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 27 | [SIS-hem](http://twitter.com/search?q=SIS-hem) | N/A |
+| 28 | [Liberalerna](http://twitter.com/search?q=Liberalerna) | N/A |
+| 29 | [Modo](http://twitter.com/search?q=Modo) | N/A |
+| 30 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
+| 31 | [Frunze Saghatelyan](http://twitter.com/search?q=Frunze+Saghatelyan) | N/A |
+| 32 | [Tyskarna](http://twitter.com/search?q=Tyskarna) | N/A |
+| 33 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 34 | [#ESSHC23](http://twitter.com/search?q=%23ESSHC23) | N/A |
 | 35 | [Önerud](http://twitter.com/search?q=%c3%96nerud) | N/A |
-| 36 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 37 | [#ESSHC23](http://twitter.com/search?q=%23ESSHC23) | N/A |
-| 38 | [Frunze Saghatelyan](http://twitter.com/search?q=Frunze+Saghatelyan) | N/A |
-| 39 | [EU-direktiv](http://twitter.com/search?q=EU-direktiv) | N/A |
-| 40 | [evelina](http://twitter.com/search?q=evelina) | N/A |
-| 41 | [Gunnar Strömmer](http://twitter.com/search?q=Gunnar+Str%c3%b6mmer) | N/A |
-| 42 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | N/A |
-| 43 | [Systemet](http://twitter.com/search?q=Systemet) | N/A |
-| 44 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 45 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 36 | [#Brynäs](http://twitter.com/search?q=%23Bryn%c3%a4s) | N/A |
+| 37 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 38 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 39 | [Systembolaget](http://twitter.com/search?q=Systembolaget) | N/A |
+| 40 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 41 | [Arbetsförmedlingen](http://twitter.com/search?q=Arbetsf%c3%b6rmedlingen) | N/A |
+| 42 | [Globalt](http://twitter.com/search?q=Globalt) | N/A |
+| 43 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 44 | [Djurgårdare](http://twitter.com/search?q=Djurg%c3%a5rdare) | N/A |
+| 45 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 46 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
-| 47 | [Ingrid Bergman](http://twitter.com/search?q=Ingrid+Bergman) | N/A |
-| 48 | [Pekka](http://twitter.com/search?q=Pekka) | N/A |
-| 49 | [symbolpolitik](http://twitter.com/search?q=symbolpolitik) | N/A |
+| 47 | [Sverige 2023](http://twitter.com/search?q=Sverige+2023) | N/A |
+| 48 | [hudiksvall](http://twitter.com/search?q=hudiksvall) | N/A |
+| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 
 
 

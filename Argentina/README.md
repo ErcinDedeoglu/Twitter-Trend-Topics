@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-13 18:18:41 UTC`
+📆 Last Updated: `2023-04-13 19:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GhostSegundaMisa](http://twitter.com/search?q=%23GhostSegundaMisa) | N/A |
-| 2 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
-| 3 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 4 | [Sandez](http://twitter.com/search?q=Sandez) | Sandez is a Spanish term meaning “goodbye” or “farewell.” It is derived from the phrase “adiós, amigo,” which literally translates to “goodbye, friend.” |
-| 5 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 6 | [#DolarBlue](http://twitter.com/search?q=%23DolarBlue) | N/A |
-| 7 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 8 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 9 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 10 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 11 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 12 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Tello](http://twitter.com/search?q=Tello) | Tello is a Spanish word meaning "to tell" or "to speak". It is often used as an imperative verb, as in "Tello me lo que pasó" (Tell me what happened). |
-| 15 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 16 | [Pampita](http://twitter.com/search?q=Pampita) | N/A |
-| 17 | [Moyano](http://twitter.com/search?q=Moyano) | N/A |
-| 18 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 19 | [Valdez](http://twitter.com/search?q=Valdez) | N/A |
-| 20 | [Roncaglia](http://twitter.com/search?q=Roncaglia) | Roncaglia is a type of Italian folk dance that originated in the region of Emilia-Romagna. It is a lively, fast-paced dance that involves couples dancing in a circle and performing intricate steps and turns. The name Roncaglia comes from the Italian word for "round," as the dance is traditionally performed in a circular formation. In English, Roncaglia means "round dance." |
-| 21 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 22 | [Valentini](http://twitter.com/search?q=Valentini) | Valentini is a surname of Italian origin. It is derived from the given name Valentino, which is derived from the Latin word valens, meaning "strong" or "vigorous". |
-| 23 | [Portillo](http://twitter.com/search?q=Portillo) | N/A |
-| 24 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 25 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 26 | [ELIZALDE](http://twitter.com/search?q=ELIZALDE) | N/A |
-| 27 | [Advincula](http://twitter.com/search?q=Advincula) | Advincula is a Latin word meaning "to advance" or "to move forward". It is often used to refer to someone who is eager to take on new challenges and make progress. |
-| 28 | [Amenaza](http://twitter.com/search?q=Amenaza) | N/A |
-| 29 | [CABA](http://twitter.com/search?q=CABA) | N/A |
-| 30 | [Gago](http://twitter.com/search?q=Gago) | Gago is a Spanish slang term that means "stupid" or "foolish". It is often used as an insult. |
-| 31 | [Ofelia](http://twitter.com/search?q=Ofelia) | N/A |
-| 32 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 33 | [Diarte](http://twitter.com/search?q=Diarte) | N/A |
-| 34 | [Reniero](http://twitter.com/search?q=Reniero) | N/A |
-| 35 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 36 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 37 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 38 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 39 | [La Morsa](http://twitter.com/search?q=La+Morsa) | N/A |
-| 40 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 41 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 42 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
-| 43 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 44 | [Mondino](http://twitter.com/search?q=Mondino) | N/A |
-| 45 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 46 | [Cacho Garay](http://twitter.com/search?q=Cacho+Garay) | N/A |
-| 47 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 48 | [Almirón](http://twitter.com/search?q=Almir%c3%b3n) | N/A |
-| 49 | [Solano](http://twitter.com/search?q=Solano) | N/A |
-| 50 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 1 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
+| 2 | [#GhostSegundaMisa](http://twitter.com/search?q=%23GhostSegundaMisa) | N/A |
+| 3 | [#DolarBlue](http://twitter.com/search?q=%23DolarBlue) | N/A |
+| 4 | [#LeyLucio](http://twitter.com/search?q=%23LeyLucio) | N/A |
+| 5 | [Pampita](http://twitter.com/search?q=Pampita) | N/A |
+| 6 | [Moritan](http://twitter.com/search?q=Moritan) | N/A |
+| 7 | [Toloza](http://twitter.com/search?q=Toloza) | N/A |
+| 8 | [#AlmacenFantasma](http://twitter.com/search?q=%23AlmacenFantasma) | N/A |
+| 9 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 10 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
+| 11 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 12 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 13 | [Tomba](http://twitter.com/search?q=Tomba) | N/A |
+| 14 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 15 | [La Morsa](http://twitter.com/search?q=La+Morsa) | N/A |
+| 16 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
+| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 18 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 19 | [Roger Federer](http://twitter.com/search?q=Roger+Federer) | N/A |
+| 20 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 21 | [Amenaza](http://twitter.com/search?q=Amenaza) | N/A |
+| 22 | [Ofelia](http://twitter.com/search?q=Ofelia) | N/A |
+| 23 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 24 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
+| 25 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 26 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 27 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
+| 28 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
+| 29 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 30 | [Solano](http://twitter.com/search?q=Solano) | N/A |
+| 31 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 32 | [Viale](http://twitter.com/search?q=Viale) | N/A |
+| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 34 | [No Vas A Ser Presidente](http://twitter.com/search?q=No+Vas+A+Ser+Presidente) | N/A |
+| 35 | [Sangre](http://twitter.com/search?q=Sangre) | N/A |
+| 36 | [Cacho Garay](http://twitter.com/search?q=Cacho+Garay) | N/A |
+| 37 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 38 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
+| 39 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
+| 40 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 41 | [Metropol](http://twitter.com/search?q=Metropol) | N/A |
+| 42 | [Comodoro Py](http://twitter.com/search?q=Comodoro+Py) | N/A |
+| 43 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 44 | [#redflag](http://twitter.com/search?q=%23redflag) | N/A |
+| 45 | [#tardedetertulia](http://twitter.com/search?q=%23tardedetertulia) | N/A |
+| 46 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
+| 47 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
+| 48 | [#LALI](http://twitter.com/search?q=%23LALI) | N/A |
+| 49 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 50 | [#DemocraciaOMafiaJudicial](http://twitter.com/search?q=%23DemocraciaOMafiaJudicial) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-13 18:17:50 UTC`
+📆 Last Updated: `2023-04-13 19:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ecuador](</Ecuador>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DíaDelMaestro](http://twitter.com/search?q=%23D%c3%adaDelMaestro) | N/A |
-| 2 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 3 | [#13DeAbril](http://twitter.com/search?q=%2313DeAbril) | N/A |
+| 2 | [Posorja](http://twitter.com/search?q=Posorja) | N/A |
+| 3 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
 | 4 | [Coco](http://twitter.com/search?q=Coco) | N/A |
-| 5 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 6 | [Juan Montalvo](http://twitter.com/search?q=Juan+Montalvo) | N/A |
-| 7 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 8 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
-| 9 | [Diego Ordóñez](http://twitter.com/search?q=Diego+Ord%c3%b3%c3%b1ez) | N/A |
-| 10 | [Dixon Arroyo](http://twitter.com/search?q=Dixon+Arroyo) | N/A |
-| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 12 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 13 | [penitenciaría del litoral](http://twitter.com/search?q=penitenciar%c3%ada+del+litoral) | N/A |
-| 14 | [Fundación](http://twitter.com/search?q=Fundaci%c3%b3n) | N/A |
-| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 16 | [#13Abril](http://twitter.com/search?q=%2313Abril) | N/A |
-| 17 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
-| 18 | [Rodrigo Paz Delgado](http://twitter.com/search?q=Rodrigo+Paz+Delgado) | N/A |
-| 19 | [#lodestruyerontodo](http://twitter.com/search?q=%23lodestruyerontodo) | N/A |
-| 20 | [#LassoRenuncia](http://twitter.com/search?q=%23LassoRenuncia) | N/A |
-| 21 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
-| 22 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [Santa Ana](http://twitter.com/search?q=Santa+Ana) | N/A |
-| 25 | [Telconet](http://twitter.com/search?q=Telconet) | N/A |
-| 26 | [Secretario de Seguridad](http://twitter.com/search?q=Secretario+de+Seguridad) | N/A |
-| 27 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
-| 28 | [Pierina](http://twitter.com/search?q=Pierina) | N/A |
-| 29 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 30 | [kleber fajardo](http://twitter.com/search?q=kleber+fajardo) | N/A |
-| 31 | [Los Tiguerones](http://twitter.com/search?q=Los+Tiguerones) | N/A |
-| 32 | [Diego Castro](http://twitter.com/search?q=Diego+Castro) | N/A |
-| 33 | [checoslovaquia](http://twitter.com/search?q=checoslovaquia) | N/A |
-| 34 | [Naranjito](http://twitter.com/search?q=Naranjito) | N/A |
-| 35 | [Chavez](http://twitter.com/search?q=Chavez) | N/A |
-| 36 | [LOES](http://twitter.com/search?q=LOES) | N/A |
-| 37 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 38 | [Boscán](http://twitter.com/search?q=Bosc%c3%a1n) | N/A |
-| 39 | [caraguay](http://twitter.com/search?q=caraguay) | N/A |
-| 40 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 41 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 42 | [golfo de guayaquil](http://twitter.com/search?q=golfo+de+guayaquil) | N/A |
-| 43 | [Veloz](http://twitter.com/search?q=Veloz) | N/A |
-| 44 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 45 | [Ayacucho](http://twitter.com/search?q=Ayacucho) | N/A |
-| 46 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
-| 47 | [virus de papiloma humano](http://twitter.com/search?q=virus+de+papiloma+humano) | N/A |
-| 48 | [Atenas del Ecuador](http://twitter.com/search?q=Atenas+del+Ecuador) | N/A |
-| 49 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 50 | [Ministro del Interior](http://twitter.com/search?q=Ministro+del+Interior) | N/A |
+| 5 | [#EcuadorSeDesangra](http://twitter.com/search?q=%23EcuadorSeDesangra) | N/A |
+| 6 | [#13DeAbril](http://twitter.com/search?q=%2313DeAbril) | N/A |
+| 7 | [Juan Montalvo](http://twitter.com/search?q=Juan+Montalvo) | N/A |
+| 8 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 9 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 10 | [Topic](http://twitter.com/search?q=Topic) | N/A |
+| 11 | [Penitenciaria del Litoral](http://twitter.com/search?q=Penitenciaria+del+Litoral) | N/A |
+| 12 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
+| 13 | [#ExperienciaNeoCom](http://twitter.com/search?q=%23ExperienciaNeoCom) | N/A |
+| 14 | [#Guayas](http://twitter.com/search?q=%23Guayas) | N/A |
+| 15 | [LOES](http://twitter.com/search?q=LOES) | N/A |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 17 | [Diego Ordóñez](http://twitter.com/search?q=Diego+Ord%c3%b3%c3%b1ez) | N/A |
+| 18 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 19 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 20 | [Los Tiguerones](http://twitter.com/search?q=Los+Tiguerones) | N/A |
+| 21 | [Inter Miami](http://twitter.com/search?q=Inter+Miami) | N/A |
+| 22 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 23 | [Dixon Arroyo](http://twitter.com/search?q=Dixon+Arroyo) | N/A |
+| 24 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 25 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
+| 26 | [Pierina](http://twitter.com/search?q=Pierina) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Diego Castro](http://twitter.com/search?q=Diego+Castro) | N/A |
+| 29 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 30 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 31 | [Chavez](http://twitter.com/search?q=Chavez) | N/A |
+| 32 | [Fernando](http://twitter.com/search?q=Fernando) | Fernando is a Spanish name derived from the Germanic elements "faro" (journey) and "nand" (brave, daring). It is a masculine given name meaning "adventurous journey". |
+| 33 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 34 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 35 | [Rodrigo Paz Delgado](http://twitter.com/search?q=Rodrigo+Paz+Delgado) | N/A |
+| 36 | [Chango](http://twitter.com/search?q=Chango) | N/A |
+| 37 | [Jueves 13](http://twitter.com/search?q=Jueves+13) | N/A |
+| 38 | [Telconet](http://twitter.com/search?q=Telconet) | N/A |
+| 39 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
+| 40 | [UNASE](http://twitter.com/search?q=UNASE) | N/A |
+| 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 42 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
+| 43 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 44 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 45 | [Ministro del Interior](http://twitter.com/search?q=Ministro+del+Interior) | N/A |
+| 46 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
+| 47 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
+| 48 | [Rambo](http://twitter.com/search?q=Rambo) | N/A |
+| 49 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 50 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 
 
 

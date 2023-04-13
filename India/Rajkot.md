@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-04-13 18:18:26 UTC`
+📆 Last Updated: `2023-04-13 19:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PBKSvGT](http://twitter.com/search?q=%23PBKSvGT) | N/A |
-| 2 | [Rahul Tewatia](http://twitter.com/search?q=Rahul+Tewatia) | N/A |
-| 3 | [B Cutting](http://twitter.com/search?q=B+Cutting) | N/A |
-| 4 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
-| 5 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 6 | [#PappuLogic](http://twitter.com/search?q=%23PappuLogic) | N/A |
-| 7 | [David W](http://twitter.com/search?q=David+W) | N/A |
-| 8 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
-| 9 | [#AmbedkarJayanti2023](http://twitter.com/search?q=%23AmbedkarJayanti2023) | N/A |
-| 10 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 11 | [आदित्य राणा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
-| 12 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
+| 1 | [#Vi20FANFest](http://twitter.com/search?q=%23Vi20FANFest) | N/A |
+| 2 | [#AmbedkarJayanti2023](http://twitter.com/search?q=%23AmbedkarJayanti2023) | N/A |
+| 3 | [#PBKSvsGT](http://twitter.com/search?q=%23PBKSvsGT) | N/A |
+| 4 | [#JaiBhim](http://twitter.com/search?q=%23JaiBhim) | N/A |
+| 5 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
+| 6 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
+| 7 | [B Cutting](http://twitter.com/search?q=B+Cutting) | N/A |
+| 8 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 9 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
+| 10 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 11 | [David W](http://twitter.com/search?q=David+W) | N/A |
+| 12 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
 | 13 | [Mohit Sharma](http://twitter.com/search?q=Mohit+Sharma) | N/A |
-| 14 | [Rashid K](http://twitter.com/search?q=Rashid+K) | N/A |
-| 15 | [#Jawan](http://twitter.com/search?q=%23Jawan) | N/A |
-| 16 | [#MashalKrantiGwalior](http://twitter.com/search?q=%23MashalKrantiGwalior) | N/A |
-| 17 | [Shubman Gill](http://twitter.com/search?q=Shubman+Gill) | Shubman Gill is an Indian cricketer who plays for the Indian national team. He is a right-handed batsman and occasional right-arm off break bowler. He made his international debut in 2018 and has since become one of the most promising young players in the country. |
-| 18 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 14 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 15 | [आदित्य राणा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
+| 16 | [Rashid K](http://twitter.com/search?q=Rashid+K) | N/A |
+| 17 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 18 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
 | 19 | [Amit M](http://twitter.com/search?q=Amit+M) | N/A |
-| 20 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
-| 21 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 22 | [Vikas Dubey](http://twitter.com/search?q=Vikas+Dubey) | N/A |
-| 23 | [Bihu](http://twitter.com/search?q=Bihu) | N/A |
-| 24 | [Yogi](http://twitter.com/search?q=Yogi) | N/A |
-| 25 | [अखिलेश यादव](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 26 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
-| 27 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 28 | [PINNACLE OF INDIAN CINEMA YASH](http://twitter.com/search?q=PINNACLE+OF+INDIAN+CINEMA+YASH) | N/A |
+| 20 | [Bihu](http://twitter.com/search?q=Bihu) | N/A |
+| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 22 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 23 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 24 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
+| 25 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
+| 26 | [Yogi](http://twitter.com/search?q=Yogi) | N/A |
+| 27 | [Vikas Dubey](http://twitter.com/search?q=Vikas+Dubey) | N/A |
+| 28 | [Saha](http://twitter.com/search?q=Saha) | N/A |
 | 29 | [4 Wickets](http://twitter.com/search?q=4+Wickets) | N/A |
-| 30 | [WE LUV U HARSHADCHOPDA](http://twitter.com/search?q=WE+LUV+U+HARSHADCHOPDA) | N/A |
-| 31 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 32 | [इंडिया मुस्लिम](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
-| 33 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 34 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
-| 35 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
-| 36 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 37 | [Relationships - 0](http://twitter.com/search?q=Relationships+-+0) | N/A |
-| 38 | [Criminals](http://twitter.com/search?q=Criminals) | N/A |
-| 39 | [अम्बेडकर जयंती](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 40 | [गुड्डू मुस्लिम](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%a1%e0%a5%8d%e0%a4%a1%e0%a5%82+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
-| 41 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 42 | [UP Police](http://twitter.com/search?q=UP+Police) | N/A |
-| 43 | [योगी आदित्यनाथ](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 44 | [योगी सरकार](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 45 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 46 | [Rona](http://twitter.com/search?q=Rona) | N/A |
-| 47 | [Chronology Of Events InSSRCase](http://twitter.com/search?q=Chronology+Of+Events+InSSRCase) | N/A |
-| 48 | [Finvasia](http://twitter.com/search?q=Finvasia) | N/A |
-| 49 | [Baisakhi](http://twitter.com/search?q=Baisakhi) | N/A |
-| 50 | [Marne](http://twitter.com/search?q=Marne) | N/A |
+| 30 | [PINNACLE OF INDIAN CINEMA YASH](http://twitter.com/search?q=PINNACLE+OF+INDIAN+CINEMA+YASH) | N/A |
+| 31 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 32 | [बाबासाहेब आंबेडकर](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac+%e0%a4%86%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 33 | [अखिलेश यादव](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 34 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 35 | [Relationships - 0](http://twitter.com/search?q=Relationships+-+0) | N/A |
+| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 37 | [WE LUV U HARSHADCHOPDA](http://twitter.com/search?q=WE+LUV+U+HARSHADCHOPDA) | N/A |
+| 38 | [पंजाब किंग्स](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%95%e0%a4%bf%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b8) | N/A |
+| 39 | [इंडिया मुस्लिम](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
+| 40 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
+| 41 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
+| 42 | [Kapil Sharma](http://twitter.com/search?q=Kapil+Sharma) | N/A |
+| 43 | [Atiq](http://twitter.com/search?q=Atiq) | N/A |
+| 44 | [Criminals](http://twitter.com/search?q=Criminals) | N/A |
+| 45 | [Mahua](http://twitter.com/search?q=Mahua) | N/A |
+| 46 | [अंबेडकर जयंती](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 47 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 48 | [मोटर साइकिल](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%9f%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%87%e0%a4%95%e0%a4%bf%e0%a4%b2) | N/A |
+| 49 | [#MashalKrantiGwalior](http://twitter.com/search?q=%23MashalKrantiGwalior) | N/A |
+| 50 | [#TamilNewYear2023](http://twitter.com/search?q=%23TamilNewYear2023) | N/A |
 
 
 

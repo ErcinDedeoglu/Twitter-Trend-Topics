@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-13 18:18:44 UTC`
+📆 Last Updated: `2023-04-13 19:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
-| 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 3 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 4 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
-| 5 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 6 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
-| 7 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 8 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 1 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 2 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 4 | [#hdpros2](http://twitter.com/search?q=%23hdpros2) | N/A |
+| 5 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 6 | [#GrandDebatVA](http://twitter.com/search?q=%23GrandDebatVA) | N/A |
+| 7 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 9 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 10 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 11 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 12 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 13 | [#Conseil_Constitutionnel](http://twitter.com/search?q=%23Conseil_Constitutionnel) | N/A |
-| 14 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 15 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 16 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 17 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 18 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 19 | [#MicromaniaLamb](http://twitter.com/search?q=%23MicromaniaLamb) | N/A |
-| 20 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
-| 21 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 22 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 23 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 24 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 25 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 26 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 27 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 28 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
-| 29 | [FNCS](http://twitter.com/search?q=FNCS) | N/A |
-| 30 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 31 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 32 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 33 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 34 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 10 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
+| 11 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
+| 12 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 13 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 14 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 15 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 16 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 17 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 18 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 19 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 20 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 21 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 22 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 23 | [Wissam](http://twitter.com/search?q=Wissam) | N/A |
+| 24 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 25 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 26 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 27 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 28 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 29 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 30 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
+| 31 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 32 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 33 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 34 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 35 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
-| 36 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 37 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 38 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 39 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 40 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 41 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 42 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 43 | [GP Explorer 2](http://twitter.com/search?q=GP+Explorer+2) | N/A |
-| 44 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 45 | [Juice](http://twitter.com/search?q=Juice) | N/A |
-| 46 | [Égyptiens](http://twitter.com/search?q=%c3%89gyptiens) | N/A |
-| 47 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 48 | [#Lille](http://twitter.com/search?q=%23Lille) | N/A |
-| 49 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
-| 50 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
+| 36 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 37 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 38 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 39 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 40 | [Monte-Carlo](http://twitter.com/search?q=Monte-Carlo) | N/A |
+| 41 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 42 | [Madara](http://twitter.com/search?q=Madara) | N/A |
+| 43 | [Vitality](http://twitter.com/search?q=Vitality) | N/A |
+| 44 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 45 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 46 | [FNCS](http://twitter.com/search?q=FNCS) | N/A |
+| 47 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 48 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 49 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 50 | [eToro](http://twitter.com/search?q=eToro) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-13 18:18:32 UTC`
+📆 Last Updated: `2023-04-13 19:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 3 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 4 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 5 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 6 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 7 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 10 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 11 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 12 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
-| 13 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 14 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 15 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 16 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 17 | [Springs](http://twitter.com/search?q=Springs) | N/A |
-| 18 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 19 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 20 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 21 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 22 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
-| 23 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 24 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
-| 25 | [#HTTR](http://twitter.com/search?q=%23HTTR) | N/A |
-| 26 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 27 | [Proche](http://twitter.com/search?q=Proche) | Proche is a French word meaning "close" or "nearby". It can be used to describe physical proximity, such as being close to someone or something, or it can be used to describe a relationship between two people or things. |
-| 28 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 29 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
-| 30 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 31 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
-| 32 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 33 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
-| 34 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 35 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
-| 36 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 37 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
-| 38 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 39 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 40 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 41 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 42 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 43 | [Thune](http://twitter.com/search?q=Thune) | N/A |
-| 44 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
-| 45 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 46 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 47 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
-| 48 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 49 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 50 | [Cepicky](http://twitter.com/search?q=Cepicky) | N/A |
+| 1 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 2 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 3 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 4 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 5 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 6 | [STAAR](http://twitter.com/search?q=STAAR) | N/A |
+| 7 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 8 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 10 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 11 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 12 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 13 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 14 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 15 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 16 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
+| 17 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 18 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 19 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 20 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 21 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 22 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 23 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 24 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 25 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 26 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
+| 27 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
+| 28 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 29 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
+| 30 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
+| 31 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
+| 32 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 33 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 34 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
+| 35 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 36 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 37 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 38 | [Bleier](http://twitter.com/search?q=Bleier) | N/A |
+| 39 | [Thune](http://twitter.com/search?q=Thune) | N/A |
+| 40 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 41 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 42 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 43 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
+| 44 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 45 | [Taker](http://twitter.com/search?q=Taker) | N/A |
+| 46 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 47 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
+| 48 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
 
 
 
