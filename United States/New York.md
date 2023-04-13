@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-12 23:17:44 UTC`
+📆 Last Updated: `2023-04-13 00:27:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NFTNYC23](http://twitter.com/search?q=%23NFTNYC23) | N/A |
-| 2 | [Francona](http://twitter.com/search?q=Francona) | N/A |
-| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 4 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 5 | [Cleveland](http://twitter.com/search?q=Cleveland) | N/A |
-| 6 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 7 | [Guardians](http://twitter.com/search?q=Guardians) | N/A |
-| 8 | [Boone](http://twitter.com/search?q=Boone) | N/A |
-| 9 | [Nimmo](http://twitter.com/search?q=Nimmo) | N/A |
-| 10 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
-| 11 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 12 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 13 | [Nido](http://twitter.com/search?q=Nido) | N/A |
-| 14 | [Franchy](http://twitter.com/search?q=Franchy) | N/A |
-| 15 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
-| 16 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
-| 17 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
-| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 19 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 20 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 21 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
-| 24 | [Cinemax](http://twitter.com/search?q=Cinemax) | N/A |
-| 25 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
-| 26 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 27 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 28 | [EV Bentley](http://twitter.com/search?q=EV+Bentley) | N/A |
-| 29 | [Brett Phillips](http://twitter.com/search?q=Brett+Phillips) | N/A |
-| 30 | [Defund](http://twitter.com/search?q=Defund) | N/A |
-| 31 | [#BullsNation](http://twitter.com/search?q=%23BullsNation) | N/A |
-| 32 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
-| 33 | [#INTELLECTUALPROPERTY](http://twitter.com/search?q=%23INTELLECTUALPROPERTY) | N/A |
-| 34 | [Michael Cohen](http://twitter.com/search?q=Michael+Cohen) | N/A |
-| 35 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
-| 36 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 37 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 38 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 39 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 40 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 41 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
-| 42 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 43 | [Nate](http://twitter.com/search?q=Nate) | N/A |
-| 44 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 45 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 46 | [Scholastic](http://twitter.com/search?q=Scholastic) | N/A |
-| 47 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 48 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 49 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 50 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 1 | [NFT NYC](http://twitter.com/search?q=NFT+NYC) | N/A |
+| 2 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 3 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 5 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 6 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 7 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 9 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 10 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 11 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 12 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 13 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 14 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
+| 15 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 16 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 17 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
+| 18 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 19 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 21 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 22 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
+| 23 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 24 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 25 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 26 | [Strider](http://twitter.com/search?q=Strider) | N/A |
+| 27 | [Zack Kelly](http://twitter.com/search?q=Zack+Kelly) | N/A |
+| 28 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 29 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 30 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 31 | [VanVleet](http://twitter.com/search?q=VanVleet) | N/A |
+| 32 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 33 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
+| 34 | [Defund](http://twitter.com/search?q=Defund) | N/A |
+| 35 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 36 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 37 | [Cinemax](http://twitter.com/search?q=Cinemax) | N/A |
+| 38 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 39 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 40 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
+| 41 | [Kremer](http://twitter.com/search?q=Kremer) | N/A |
+| 42 | [Patrick Williams](http://twitter.com/search?q=Patrick+Williams) | N/A |
+| 43 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [Taj Bradley](http://twitter.com/search?q=Taj+Bradley) | N/A |
+| 46 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
+| 47 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 48 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
+| 49 | [Experts](http://twitter.com/search?q=Experts) | N/A |
+| 50 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
 
 
 

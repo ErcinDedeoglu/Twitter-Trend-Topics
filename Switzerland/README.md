@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-12 23:17:55 UTC`
+📆 Last Updated: `2023-04-13 00:28:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,8 +34,8 @@ This is top 50 for Switzerland
 | 17 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
 | 18 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
 | 19 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 20 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 21 | [Symbolpolitik](http://twitter.com/search?q=Symbolpolitik) | N/A |
+| 20 | [Symbolpolitik](http://twitter.com/search?q=Symbolpolitik) | N/A |
+| 21 | [Banken](http://twitter.com/search?q=Banken) | N/A |
 | 22 | [Gier](http://twitter.com/search?q=Gier) | N/A |
 | 23 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
 | 24 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Switzerland
 | 30 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
 | 31 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 32 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
-| 33 | [Banken](http://twitter.com/search?q=Banken) | N/A |
-| 34 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 35 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
-| 38 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 39 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 40 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 33 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 34 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 35 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 36 | [Dalai Lama](http://twitter.com/search?q=Dalai+Lama) | N/A |
+| 37 | [Scam](http://twitter.com/search?q=Scam) | N/A |
+| 38 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 39 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 40 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
 | 41 | [Regulierung](http://twitter.com/search?q=Regulierung) | N/A |
 | 42 | [Ausdruck](http://twitter.com/search?q=Ausdruck) | N/A |
 | 43 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 44 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 45 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 46 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 47 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 48 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
-| 49 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
-| 50 | [Idem](http://twitter.com/search?q=Idem) | N/A |
+| 44 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 45 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 46 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 47 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 48 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 49 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 50 | [Populismus](http://twitter.com/search?q=Populismus) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-04-12 23:17:01 UTC`
+📆 Last Updated: `2023-04-13 00:27:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 4 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 5 | [#AcercateAPILARES](http://twitter.com/search?q=%23AcercateAPILARES) | N/A |
-| 6 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
+| 1 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 2 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 3 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 4 | [MAÑANA 1TRAGO](http://twitter.com/search?q=MA%c3%91ANA+1TRAGO) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [#AcercateAPILARES](http://twitter.com/search?q=%23AcercateAPILARES) | N/A |
 | 7 | [#TatatiuEnConvoy](http://twitter.com/search?q=%23TatatiuEnConvoy) | N/A |
-| 8 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 8 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
 | 9 | [#enhorabuenacuerpo](http://twitter.com/search?q=%23enhorabuenacuerpo) | N/A |
-| 10 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 11 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 10 | [JAIDEN](http://twitter.com/search?q=JAIDEN) | N/A |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 12 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 14 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 15 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 16 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 17 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 18 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 19 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 20 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 21 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 22 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 23 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 24 | [El Hoyo](http://twitter.com/search?q=El+Hoyo) | N/A |
-| 25 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 13 | [#Japón](http://twitter.com/search?q=%23Jap%c3%b3n) | N/A |
+| 14 | [JUAN CUBITO](http://twitter.com/search?q=JUAN+CUBITO) | N/A |
+| 15 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 17 | [Slime](http://twitter.com/search?q=Slime) | N/A |
+| 18 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 19 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
+| 20 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 21 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 22 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 23 | [Clasismo](http://twitter.com/search?q=Clasismo) | N/A |
+| 24 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 25 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
 | 26 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 27 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
-| 28 | [Theo Hernández](http://twitter.com/search?q=Theo+Hern%c3%a1ndez) | N/A |
-| 29 | [Jonathan Orozco](http://twitter.com/search?q=Jonathan+Orozco) | N/A |
-| 30 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 31 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
-| 32 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 33 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 34 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 35 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 36 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 27 | [El Hoyo](http://twitter.com/search?q=El+Hoyo) | N/A |
+| 28 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 29 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 30 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 31 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 32 | [Cucurella](http://twitter.com/search?q=Cucurella) | Cucurella is a Catalan surname derived from the Latin word cucurum, meaning "little pumpkin". It is also the name of a small town in Catalonia, Spain. In English, it can be translated to mean "little pumpkin". |
+| 33 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 34 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 35 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 36 | [Joao Felix](http://twitter.com/search?q=Joao+Felix) | Joao Felix is the name of a Portuguese professional soccer player who currently plays for Atletico Madrid. His full name is Joao Felix Sequeira and he is considered one of the most promising young players in the world. The name Joao Felix means "God's gift" in English. |
 | 37 | [Conter](http://twitter.com/search?q=Conter) | N/A |
 | 38 | [Bradley Cooper](http://twitter.com/search?q=Bradley+Cooper) | N/A |
 | 39 | [Rowling](http://twitter.com/search?q=Rowling) | N/A |
-| 40 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 41 | [Del Mazo](http://twitter.com/search?q=Del+Mazo) | N/A |
-| 42 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 43 | [California](http://twitter.com/search?q=California) | N/A |
-| 44 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 45 | [Felipe Baloy](http://twitter.com/search?q=Felipe+Baloy) | N/A |
-| 46 | [Foro Sol](http://twitter.com/search?q=Foro+Sol) | N/A |
+| 40 | [Jonathan Orozco](http://twitter.com/search?q=Jonathan+Orozco) | N/A |
+| 41 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 42 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 43 | [Felipe Baloy](http://twitter.com/search?q=Felipe+Baloy) | N/A |
+| 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 45 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 46 | [California](http://twitter.com/search?q=California) | N/A |
 
 
 

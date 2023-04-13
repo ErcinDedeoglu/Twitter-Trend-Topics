@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-04-12 23:17:07 UTC`
+📆 Last Updated: `2023-04-13 00:27:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Daronco](http://twitter.com/search?q=Daronco) | N/A |
-| 2 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
-| 3 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 4 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 7 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 8 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 9 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 10 | [Tirei Kate](http://twitter.com/search?q=Tirei+Kate) | N/A |
-| 11 | [Jhon Jhon](http://twitter.com/search?q=Jhon+Jhon) | N/A |
-| 12 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
-| 13 | [Sabino](http://twitter.com/search?q=Sabino) | N/A |
-| 14 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 16 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
-| 17 | [Maria Gladys](http://twitter.com/search?q=Maria+Gladys) | N/A |
-| 18 | [Ewerthon](http://twitter.com/search?q=Ewerthon) | N/A |
-| 19 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
-| 20 | [Blade](http://twitter.com/search?q=Blade) | N/A |
-| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 23 | [Tirei Lumiar](http://twitter.com/search?q=Tirei+Lumiar) | N/A |
-| 24 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 25 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 26 | [Labandeira](http://twitter.com/search?q=Labandeira) | N/A |
-| 27 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
-| 28 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 29 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 30 | [#ForaBelmonte](http://twitter.com/search?q=%23ForaBelmonte) | N/A |
-| 31 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 32 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 33 | [#TheEighthSenseEp6](http://twitter.com/search?q=%23TheEighthSenseEp6) | N/A |
-| 34 | [Ronaldo Henrique](http://twitter.com/search?q=Ronaldo+Henrique) | Ronaldo Henrique is a Portuguese name, with Ronaldo being a given name and Henrique being a surname. In English, it would translate to "Ronald Henry". |
-| 35 | [João Félix](http://twitter.com/search?q=Jo%c3%a3o+F%c3%a9lix) | N/A |
-| 36 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 37 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 38 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 39 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 40 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 41 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 42 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
-| 43 | [#ADona087](http://twitter.com/search?q=%23ADona087) | N/A |
-| 44 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 45 | [Warner](http://twitter.com/search?q=Warner) | N/A |
-| 46 | [Jandira](http://twitter.com/search?q=Jandira) | N/A |
-| 47 | [Farias Brito](http://twitter.com/search?q=Farias+Brito) | N/A |
-| 48 | [Percy Jackson](http://twitter.com/search?q=Percy+Jackson) | N/A |
-| 49 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 50 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 2 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 3 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 4 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 5 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 6 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 7 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
+| 8 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 9 | [Jhon Jhon](http://twitter.com/search?q=Jhon+Jhon) | N/A |
+| 10 | [Vanderlan](http://twitter.com/search?q=Vanderlan) | N/A |
+| 11 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 12 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 14 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
+| 15 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 16 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
+| 17 | [maria gladys](http://twitter.com/search?q=maria+gladys) | N/A |
+| 18 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
+| 19 | [Piquerez](http://twitter.com/search?q=Piquerez) | N/A |
+| 20 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 21 | [Turra](http://twitter.com/search?q=Turra) | N/A |
+| 22 | [Blade](http://twitter.com/search?q=Blade) | N/A |
+| 23 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
+| 24 | [Ewerton](http://twitter.com/search?q=Ewerton) | N/A |
+| 25 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 26 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
+| 27 | [O PALMEIRAS É O TIME DA VIRADA](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DA+VIRADA) | N/A |
+| 28 | [Bidu](http://twitter.com/search?q=Bidu) | N/A |
+| 29 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
+| 30 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 31 | [Alexandre Jesus](http://twitter.com/search?q=Alexandre+Jesus) | N/A |
+| 32 | [Tirei Lumiar](http://twitter.com/search?q=Tirei+Lumiar) | N/A |
+| 33 | [John John](http://twitter.com/search?q=John+John) | N/A |
+| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 35 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
+| 36 | [Sabino](http://twitter.com/search?q=Sabino) | N/A |
+| 37 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 38 | [Canobbio](http://twitter.com/search?q=Canobbio) | N/A |
+| 39 | [O PALMEIRAS É O TIME DO AMOR](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DO+AMOR) | N/A |
+| 40 | [Enderson](http://twitter.com/search?q=Enderson) | N/A |
+| 41 | [Terans](http://twitter.com/search?q=Terans) | N/A |
+| 42 | [Coxa](http://twitter.com/search?q=Coxa) | N/A |
+| 43 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
+| 44 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 45 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
+| 46 | [#CopaDoBrasil](http://twitter.com/search?q=%23CopaDoBrasil) | N/A |
+| 47 | [John Kennedy](http://twitter.com/search?q=John+Kennedy) | N/A |
+| 48 | [#ForaBelmonte](http://twitter.com/search?q=%23ForaBelmonte) | N/A |
+| 49 | [Matheus Frizzo](http://twitter.com/search?q=Matheus+Frizzo) | N/A |
+| 50 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 
 
 

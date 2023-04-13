@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-04-12 23:17:21 UTC`
+📆 Last Updated: `2023-04-13 00:27:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ちょうどいいラジオ](http://twitter.com/search?q=%23%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%81%84%e3%81%84%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
-| 2 | [チェルシー](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%ab%e3%82%b7%e3%83%bc) | N/A |
-| 3 | [#JO1大平祥生](http://twitter.com/search?q=%23JO1%e5%a4%a7%e5%b9%b3%e7%a5%a5%e7%94%9f) | N/A |
+| 2 | [#thetime_tbs](http://twitter.com/search?q=%23thetime_tbs) | N/A |
+| 3 | [#お弁当記録](http://twitter.com/search?q=%23%e3%81%8a%e5%bc%81%e5%bd%93%e8%a8%98%e9%8c%b2) | N/A |
 | 4 | [ジャニーズ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba) | ジャニーズ is a Japanese talent agency and entertainment production company. It is one of the largest and most successful talent agencies in Japan, representing many popular artists and groups. The name comes from the first two letters of the words "Johnny" and "Associates". |
-| 5 | [U149](http://twitter.com/search?q=U149) | N/A |
-| 6 | [#咲き誇れ23歳の大平祥生](http://twitter.com/search?q=%23%e5%92%b2%e3%81%8d%e8%aa%87%e3%82%8c23%e6%ad%b3%e3%81%ae%e5%a4%a7%e5%b9%b3%e7%a5%a5%e7%94%9f) | N/A |
-| 7 | [ステロイド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
-| 8 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 9 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 10 | [建物の中](http://twitter.com/search?q=%e5%bb%ba%e7%89%a9%e3%81%ae%e4%b8%ad) | N/A |
-| 11 | [北海道大丈夫](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
-| 12 | [北海道の方](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e6%96%b9) | N/A |
-| 13 | [北海道のどこ](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e3%81%a9%e3%81%93) | N/A |
-| 14 | [緊急速報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e9%80%9f%e5%a0%b1) | N/A |
-| 15 | [対象地域](http://twitter.com/search?q=%e5%af%be%e8%b1%a1%e5%9c%b0%e5%9f%9f) | N/A |
-| 16 | [国民保護情報](http://twitter.com/search?q=%e5%9b%bd%e6%b0%91%e4%bf%9d%e8%ad%b7%e6%83%85%e5%a0%b1) | N/A |
-| 17 | [北海道沖](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e6%b2%96) | N/A |
-| 18 | [政府発表](http://twitter.com/search?q=%e6%94%bf%e5%ba%9c%e7%99%ba%e8%a1%a8) | N/A |
-| 19 | [#防災速報](http://twitter.com/search?q=%23%e9%98%b2%e7%81%bd%e9%80%9f%e5%a0%b1) | N/A |
-| 20 | [空襲警報](http://twitter.com/search?q=%e7%a9%ba%e8%a5%b2%e8%ad%a6%e5%a0%b1) | N/A |
-| 21 | [北海道全域](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%85%a8%e5%9f%9f) | N/A |
-| 22 | [北海道付近](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e4%bb%98%e8%bf%91) | N/A |
-| 23 | [範囲広すぎ](http://twitter.com/search?q=%e7%af%84%e5%9b%b2%e5%ba%83%e3%81%99%e3%81%8e) | N/A |
-| 24 | [かあさんといっしょ](http://twitter.com/search?q=%e3%81%8b%e3%81%82%e3%81%95%e3%82%93%e3%81%a8%e3%81%84%e3%81%a3%e3%81%97%e3%82%87) | N/A |
-| 25 | [シェルター](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ab%e3%82%bf%e3%83%bc) | N/A |
-| 26 | [秋春制移行](http://twitter.com/search?q=%e7%a7%8b%e6%98%a5%e5%88%b6%e7%a7%bb%e8%a1%8c) | N/A |
-| 27 | [遺憾の意](http://twitter.com/search?q=%e9%81%ba%e6%86%be%e3%81%ae%e6%84%8f) | N/A |
-| 28 | [エリアメール](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%a2%e3%83%a1%e3%83%bc%e3%83%ab) | N/A |
-| 29 | [Yahoo!天気・災害](http://twitter.com/search?q=Yahoo!%e5%a4%a9%e6%b0%97%e3%83%bb%e7%81%bd%e5%ae%b3) | N/A |
-| 30 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 31 | [喫茶店の日](http://twitter.com/search?q=%e5%96%ab%e8%8c%b6%e5%ba%97%e3%81%ae%e6%97%a5) | N/A |
-| 32 | [容認の姿勢](http://twitter.com/search?q=%e5%ae%b9%e8%aa%8d%e3%81%ae%e5%a7%bf%e5%8b%a2) | N/A |
-| 33 | [ファンターネ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%8d) | N/A |
-| 34 | [EEZ外](http://twitter.com/search?q=EEZ%e5%a4%96) | N/A |
-| 35 | [ヨンタン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%bf%e3%83%b3) | ヨンタン (Yontan) is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is usually served during special occasions such as New Year's Day. In English, it is sometimes referred to as "red bean cake". |
-| 36 | [登校時間](http://twitter.com/search?q=%e7%99%bb%e6%a0%a1%e6%99%82%e9%96%93) | N/A |
-| 37 | [PUMA](http://twitter.com/search?q=PUMA) | N/A |
-| 38 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
-| 39 | [ぼよよん行進曲](http://twitter.com/search?q=%e3%81%bc%e3%82%88%e3%82%88%e3%82%93%e8%a1%8c%e9%80%b2%e6%9b%b2) | N/A |
-| 40 | [J-ALERT](http://twitter.com/search?q=J-ALERT) | N/A |
-| 41 | [もくようび](http://twitter.com/search?q=%e3%82%82%e3%81%8f%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 42 | [避難指示](http://twitter.com/search?q=%e9%81%bf%e9%9b%a3%e6%8c%87%e7%a4%ba) | N/A |
-| 43 | [黄砂の影響](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e5%bd%b1%e9%9f%bf) | N/A |
-| 44 | [黄砂のせい](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 45 | [#おはたくECC](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e3%81%9f%e3%81%8fECC) | N/A |
-| 46 | [北海道のフォロワーさん](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e3%83%95%e3%82%a9%e3%83%ad%e3%83%af%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 47 | [北海道の広さ](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e5%ba%83%e3%81%95) | N/A |
-| 48 | [避難警報](http://twitter.com/search?q=%e9%81%bf%e9%9b%a3%e8%ad%a6%e5%a0%b1) | N/A |
-| 49 | [PADDB](http://twitter.com/search?q=PADDB) | N/A |
+| 5 | [#咲き誇れ23歳の大平祥生](http://twitter.com/search?q=%23%e5%92%b2%e3%81%8d%e8%aa%87%e3%82%8c23%e6%ad%b3%e3%81%ae%e5%a4%a7%e5%b9%b3%e7%a5%a5%e7%94%9f) | N/A |
+| 6 | [#JO1大平祥生](http://twitter.com/search?q=%23JO1%e5%a4%a7%e5%b9%b3%e7%a5%a5%e7%94%9f) | N/A |
+| 7 | [共同通信](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1) | 共同通信 (Kyōdō Tsūshin) is a Japanese term meaning "mutual communication". It refers to the process of exchanging information between two or more parties in order to reach a common understanding. This could include verbal communication, written communication, or any other form of communication. |
+| 8 | [U149](http://twitter.com/search?q=U149) | N/A |
+| 9 | [ステロイド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
+| 10 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 11 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 12 | [建物の中](http://twitter.com/search?q=%e5%bb%ba%e7%89%a9%e3%81%ae%e4%b8%ad) | N/A |
+| 13 | [緊急速報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e9%80%9f%e5%a0%b1) | N/A |
+| 14 | [空襲警報](http://twitter.com/search?q=%e7%a9%ba%e8%a5%b2%e8%ad%a6%e5%a0%b1) | N/A |
+| 15 | [EEZ外](http://twitter.com/search?q=EEZ%e5%a4%96) | N/A |
+| 16 | [シェルター](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ab%e3%82%bf%e3%83%bc) | N/A |
+| 17 | [遺憾の意](http://twitter.com/search?q=%e9%81%ba%e6%86%be%e3%81%ae%e6%84%8f) | N/A |
+| 18 | [落下確認](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e7%a2%ba%e8%aa%8d) | N/A |
+| 19 | [朝っぱら](http://twitter.com/search?q=%e6%9c%9d%e3%81%a3%e3%81%b1%e3%82%89) | N/A |
+| 20 | [国民保護情報](http://twitter.com/search?q=%e5%9b%bd%e6%b0%91%e4%bf%9d%e8%ad%b7%e6%83%85%e5%a0%b1) | N/A |
+| 21 | [ルートビア](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%88%e3%83%93%e3%82%a2) | N/A |
+| 22 | [エムネット](http://twitter.com/search?q=%e3%82%a8%e3%83%a0%e3%83%8d%e3%83%83%e3%83%88) | N/A |
+| 23 | [政府発表](http://twitter.com/search?q=%e6%94%bf%e5%ba%9c%e7%99%ba%e8%a1%a8) | N/A |
+| 24 | [範囲広すぎ](http://twitter.com/search?q=%e7%af%84%e5%9b%b2%e5%ba%83%e3%81%99%e3%81%8e) | N/A |
+| 25 | [かあさんといっしょ](http://twitter.com/search?q=%e3%81%8b%e3%81%82%e3%81%95%e3%82%93%e3%81%a8%e3%81%84%e3%81%a3%e3%81%97%e3%82%87) | N/A |
+| 26 | [人騒がせ](http://twitter.com/search?q=%e4%ba%ba%e9%a8%92%e3%81%8c%e3%81%9b) | N/A |
+| 27 | [サイレン](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%ac%e3%83%b3) | N/A |
+| 28 | [喫茶店の日](http://twitter.com/search?q=%e5%96%ab%e8%8c%b6%e5%ba%97%e3%81%ae%e6%97%a5) | N/A |
+| 29 | [ラヴィット](http://twitter.com/search?q=%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | ラヴィット is a Japanese word that means "love it". It is often used to express enthusiasm or approval for something. |
+| 30 | [交通機関](http://twitter.com/search?q=%e4%ba%a4%e9%80%9a%e6%a9%9f%e9%96%a2) | N/A |
+| 31 | [落下地点](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e5%9c%b0%e7%82%b9) | N/A |
+| 32 | [登校時間](http://twitter.com/search?q=%e7%99%bb%e6%a0%a1%e6%99%82%e9%96%93) | N/A |
+| 33 | [安全確認](http://twitter.com/search?q=%e5%ae%89%e5%85%a8%e7%a2%ba%e8%aa%8d) | N/A |
+| 34 | [避難指示](http://twitter.com/search?q=%e9%81%bf%e9%9b%a3%e6%8c%87%e7%a4%ba) | N/A |
+| 35 | [満員電車](http://twitter.com/search?q=%e6%ba%80%e5%93%a1%e9%9b%bb%e8%bb%8a) | 満員電車 (man'in densha) is a Japanese phrase meaning "crowded train". It is used to describe a train that is so full of passengers that it is difficult to find a seat. |
+| 36 | [秋春制移行](http://twitter.com/search?q=%e7%a7%8b%e6%98%a5%e5%88%b6%e7%a7%bb%e8%a1%8c) | N/A |
+| 37 | [地震速報](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e9%80%9f%e5%a0%b1) | 地震速報 (Jishin Sokuho) is a Japanese term meaning "earthquake bulletin". It is an alert system used to inform the public of earthquakes in Japan. The system provides information on the magnitude, location, and intensity of earthquakes, as well as any potential tsunami warnings. |
+| 38 | [自宅待機](http://twitter.com/search?q=%e8%87%aa%e5%ae%85%e5%be%85%e6%a9%9f) | 自宅待機 (jitaku taiki) is a Japanese phrase that literally translates to "staying at home standby." It is used to describe someone who is staying at home and waiting for something to happen. In English, it could be translated as "waiting at home" or "on standby at home." |
+| 39 | [オオカミ少年](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f%e5%b0%91%e5%b9%b4) | N/A |
+| 40 | [エリアメール](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%a2%e3%83%a1%e3%83%bc%e3%83%ab) | N/A |
+| 41 | [PUMA](http://twitter.com/search?q=PUMA) | N/A |
+| 42 | [ファンターネ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%8d) | N/A |
+| 43 | [黄砂のせい](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 44 | [容認の姿勢](http://twitter.com/search?q=%e5%ae%b9%e8%aa%8d%e3%81%ae%e5%a7%bf%e5%8b%a2) | N/A |
+| 45 | [Yahoo!天気・災害](http://twitter.com/search?q=Yahoo!%e5%a4%a9%e6%b0%97%e3%83%bb%e7%81%bd%e5%ae%b3) | N/A |
+| 46 | [落下情報](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e6%83%85%e5%a0%b1) | N/A |
+| 47 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
+| 48 | [運転再開](http://twitter.com/search?q=%e9%81%8b%e8%bb%a2%e5%86%8d%e9%96%8b) | 運転再開 (Unten Saikai) is a Japanese phrase meaning "resumption of operation" or "resuming operations". It is often used in the context of transportation, such as when a train line resumes service after being suspended due to an accident or maintenance. |
+| 49 | [遅刻確定](http://twitter.com/search?q=%e9%81%85%e5%88%bb%e7%a2%ba%e5%ae%9a) | 遅刻確定 is a Japanese phrase that means "late arrival confirmed". It is used to indicate that someone will be arriving late to an event or appointment. |
 
 
 
