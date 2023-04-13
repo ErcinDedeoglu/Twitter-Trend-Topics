@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-13 20:16:42 UTC`
+📆 Last Updated: `2023-04-13 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [#Doepfner](http://twitter.com/search?q=%23Doepfner) | N/A |
-| 3 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 4 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 5 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 6 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 7 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 8 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 9 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 10 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 3 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
+| 4 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 5 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 8 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 9 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 10 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 11 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
 | 12 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 13 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 14 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 15 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 16 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 17 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 18 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 19 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 20 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 21 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
-| 22 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
-| 23 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
-| 24 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 25 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
-| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 27 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 28 | [Outfit](http://twitter.com/search?q=Outfit) | N/A |
-| 29 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 30 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
-| 31 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 32 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
-| 33 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 34 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
-| 35 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
-| 36 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 37 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
-| 38 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 39 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 40 | [Please Stärke die FDP](http://twitter.com/search?q=Please+St%c3%a4rke+die+FDP) | N/A |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 43 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
-| 44 | [Staatsschutz](http://twitter.com/search?q=Staatsschutz) | N/A |
-| 45 | [BILD und WELT](http://twitter.com/search?q=BILD+und+WELT) | N/A |
-| 46 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 47 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
+| 13 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 14 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 15 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 16 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 17 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 18 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 19 | [Selma](http://twitter.com/search?q=Selma) | Selma is a city in Alabama, United States. It is most famous for being the site of the 1965 Selma to Montgomery civil rights marches, which were instrumental in the passage of the Voting Rights Act of 1965. The name Selma is derived from the Hebrew word shalom, meaning peace. |
+| 20 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 21 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 22 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 23 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 24 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 25 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
+| 26 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
+| 27 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 28 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 29 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 30 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 31 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 33 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
+| 34 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
+| 35 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
+| 36 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 37 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
+| 38 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 39 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 40 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 41 | [Lens Airdrop](http://twitter.com/search?q=Lens+Airdrop) | N/A |
+| 42 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
+| 43 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
+| 44 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 45 | [Please Stärke die FDP](http://twitter.com/search?q=Please+St%c3%a4rke+die+FDP) | N/A |
+| 46 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
+| 47 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
 
 
 

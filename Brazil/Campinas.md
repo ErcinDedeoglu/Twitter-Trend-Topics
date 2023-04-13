@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-04-13 20:16:38 UTC`
+📆 Last Updated: `2023-04-13 21:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 2 | [BOLSONARO INELEGÍVEL](http://twitter.com/search?q=BOLSONARO+INELEG%c3%8dVEL) | N/A |
-| 3 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 4 | [#FicaBlack](http://twitter.com/search?q=%23FicaBlack) | N/A |
-| 5 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 6 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 7 | [Fora Black](http://twitter.com/search?q=Fora+Black) | N/A |
-| 8 | [Brás](http://twitter.com/search?q=Br%c3%a1s) | N/A |
-| 9 | [#ForaCezarBlack](http://twitter.com/search?q=%23ForaCezarBlack) | N/A |
+| 1 | [Tarcisio](http://twitter.com/search?q=Tarcisio) | N/A |
+| 2 | [Dólar](http://twitter.com/search?q=D%c3%b3lar) | N/A |
+| 3 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 4 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 5 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 6 | [ICMS](http://twitter.com/search?q=ICMS) | N/A |
+| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 8 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 9 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 | 10 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
-| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 12 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 13 | [#europaleaguenaespn](http://twitter.com/search?q=%23europaleaguenaespn) | N/A |
-| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 15 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 16 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
-| 17 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
-| 18 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 19 | [#SHOWEXTRAGHOSTBR](http://twitter.com/search?q=%23SHOWEXTRAGHOSTBR) | N/A |
-| 20 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 22 | [Toddy](http://twitter.com/search?q=Toddy) | N/A |
-| 23 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 24 | [Fener](http://twitter.com/search?q=Fener) | N/A |
-| 25 | [Boal](http://twitter.com/search?q=Boal) | N/A |
-| 26 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
-| 27 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
-| 28 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 29 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 30 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 31 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 32 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 33 | [Devi](http://twitter.com/search?q=Devi) | N/A |
-| 34 | [Pilhado](http://twitter.com/search?q=Pilhado) | N/A |
-| 35 | [Diário](http://twitter.com/search?q=Di%c3%a1rio) | N/A |
-| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 37 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 38 | [Suarez Pedro](http://twitter.com/search?q=Suarez+Pedro) | N/A |
-| 39 | [Douglas Costa](http://twitter.com/search?q=Douglas+Costa) | Douglas Costa is a Brazilian professional footballer who plays as a winger for Serie A club Juventus and the Brazil national team. His name is derived from his birthplace, the city of Douglas in the state of Santa Catarina, Brazil. In English, Douglas Costa means "from Douglas". |
-| 40 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 41 | [GABRIELA GUIMARÃES](http://twitter.com/search?q=GABRIELA+GUIMAR%c3%83ES) | N/A |
-| 42 | [Ícaro](http://twitter.com/search?q=%c3%8dcaro) | N/A |
-| 43 | [Drake & Josh](http://twitter.com/search?q=Drake+%26+Josh) | N/A |
-| 44 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 45 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 46 | [James Rodrigues](http://twitter.com/search?q=James+Rodrigues) | N/A |
-| 47 | [Bajema](http://twitter.com/search?q=Bajema) | N/A |
-| 48 | [Cano Pedro](http://twitter.com/search?q=Cano+Pedro) | N/A |
-| 49 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 13 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 14 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 15 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 16 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 18 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 19 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
+| 20 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 21 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 22 | [#SHOWEXTRAGHOSTBR](http://twitter.com/search?q=%23SHOWEXTRAGHOSTBR) | N/A |
+| 23 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
+| 24 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 25 | [#InsightOnRapture](http://twitter.com/search?q=%23InsightOnRapture) | N/A |
+| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 27 | [#ForaAlineOmissa](http://twitter.com/search?q=%23ForaAlineOmissa) | N/A |
+| 28 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 29 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 30 | [O United](http://twitter.com/search?q=O+United) | N/A |
+| 31 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 32 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 33 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 34 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 35 | [Tcheco](http://twitter.com/search?q=Tcheco) | N/A |
+| 36 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 37 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
+| 38 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 39 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 40 | [Arthur Cabral](http://twitter.com/search?q=Arthur+Cabral) | N/A |
+| 41 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
+| 42 | [Toddy](http://twitter.com/search?q=Toddy) | N/A |
+| 43 | [Boal](http://twitter.com/search?q=Boal) | N/A |
+| 44 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 45 | [Diário](http://twitter.com/search?q=Di%c3%a1rio) | N/A |
+| 46 | [Belletti](http://twitter.com/search?q=Belletti) | N/A |
+| 47 | [Cotia](http://twitter.com/search?q=Cotia) | N/A |
+| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 49 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-13 20:16:55 UTC`
+📆 Last Updated: `2023-04-13 21:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
-| 2 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
+| 1 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
+| 2 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
 | 3 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
 | 4 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
 | 5 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
 | 6 | [#askpluus](http://twitter.com/search?q=%23askpluus) | N/A |
-| 7 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 7 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
 | 8 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 9 | [pluus reply time](http://twitter.com/search?q=pluus+reply+time) | N/A |
-| 10 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 11 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
-| 12 | [d1 kdlexpeta comeback](http://twitter.com/search?q=d1+kdlexpeta+comeback) | N/A |
-| 13 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
-| 14 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 9 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 10 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
+| 11 | [d1 kdlexpeta comeback](http://twitter.com/search?q=d1+kdlexpeta+comeback) | N/A |
+| 12 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 13 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 14 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
 | 15 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 16 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
-| 17 | [bini strings dance practice](http://twitter.com/search?q=bini+strings+dance+practice) | N/A |
-| 18 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 19 | [AlexaSRH Summer Remix](http://twitter.com/search?q=AlexaSRH+Summer+Remix) | N/A |
-| 20 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 21 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 22 | [musical wonderman kd](http://twitter.com/search?q=musical+wonderman+kd) | N/A |
-| 23 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
-| 24 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 25 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 26 | [pienally its vibrent](http://twitter.com/search?q=pienally+its+vibrent) | N/A |
-| 27 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
-| 28 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 29 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 30 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
-| 31 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
-| 32 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 33 | [JUNHOE AS YANG JINHO](http://twitter.com/search?q=JUNHOE+AS+YANG+JINHO) | N/A |
-| 34 | [SUPERIORITY PerformanceVideo](http://twitter.com/search?q=SUPERIORITY+PerformanceVideo) | N/A |
-| 35 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
-| 36 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 37 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
-| 38 | [FLUSTERED ChiCo](http://twitter.com/search?q=FLUSTERED+ChiCo) | N/A |
-| 39 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 40 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 41 | [crussh ng bayan](http://twitter.com/search?q=crussh+ng+bayan) | N/A |
-| 42 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
-| 43 | [Wang Zihao](http://twitter.com/search?q=Wang+Zihao) | N/A |
-| 44 | [kathryn is vjeweled](http://twitter.com/search?q=kathryn+is+vjeweled) | N/A |
-| 45 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 46 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 47 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 16 | [bini strings dance practice](http://twitter.com/search?q=bini+strings+dance+practice) | N/A |
+| 17 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
+| 18 | [AlexaSRH Summer Remix](http://twitter.com/search?q=AlexaSRH+Summer+Remix) | N/A |
+| 19 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 20 | [musical wonderman kd](http://twitter.com/search?q=musical+wonderman+kd) | N/A |
+| 21 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
+| 22 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 23 | [pienally its vibrent](http://twitter.com/search?q=pienally+its+vibrent) | N/A |
+| 24 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
+| 25 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 26 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 27 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
+| 28 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
+| 29 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 30 | [JUNHOE AS YANG JINHO](http://twitter.com/search?q=JUNHOE+AS+YANG+JINHO) | N/A |
+| 31 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 32 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
+| 33 | [superiority performancevideo](http://twitter.com/search?q=superiority+performancevideo) | N/A |
+| 34 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 35 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 36 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
+| 37 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 38 | [crussh ng bayan](http://twitter.com/search?q=crussh+ng+bayan) | N/A |
+| 39 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
+| 40 | [Wang Zihao](http://twitter.com/search?q=Wang+Zihao) | N/A |
+| 41 | [kathryn is vjeweled](http://twitter.com/search?q=kathryn+is+vjeweled) | N/A |
+| 42 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 43 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 44 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 45 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 46 | [FLUSTERED ChiCo](http://twitter.com/search?q=FLUSTERED+ChiCo) | N/A |
+| 47 | [THREE ViTYFUL YEARS](http://twitter.com/search?q=THREE+ViTYFUL+YEARS) | N/A |
 
 
 

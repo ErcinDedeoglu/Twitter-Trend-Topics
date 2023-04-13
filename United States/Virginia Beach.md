@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-04-13 20:17:15 UTC`
+📆 Last Updated: `2023-04-13 21:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
-| 2 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 3 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 4 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
-| 5 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 2 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
+| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 5 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
 | 6 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
-| 7 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 8 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 9 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 10 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 13 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 14 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 15 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 16 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 17 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 18 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 19 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 20 | [Adley](http://twitter.com/search?q=Adley) | N/A |
-| 21 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 22 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
-| 23 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 24 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 25 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 26 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 28 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 29 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 31 | [Springs](http://twitter.com/search?q=Springs) | N/A |
-| 32 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 33 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 34 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
-| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 36 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 37 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
-| 38 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 39 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
-| 40 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
-| 41 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 42 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 43 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 44 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
-| 45 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
-| 46 | [Airman](http://twitter.com/search?q=Airman) | N/A |
-| 47 | [Chief Keef](http://twitter.com/search?q=Chief+Keef) | N/A |
-| 48 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 49 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 7 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 8 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 10 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 11 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 12 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 14 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 15 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 16 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 17 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 18 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 19 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 20 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 21 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 23 | [Adley Rutschman](http://twitter.com/search?q=Adley+Rutschman) | N/A |
+| 24 | [Air National Guard](http://twitter.com/search?q=Air+National+Guard) | N/A |
+| 25 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 27 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 28 | [#StateofPlay](http://twitter.com/search?q=%23StateofPlay) | N/A |
+| 29 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 30 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 31 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 32 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 33 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 34 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 35 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 36 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
+| 37 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 38 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
+| 39 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 40 | [MUN vs SEV](http://twitter.com/search?q=MUN+vs+SEV) | N/A |
+| 41 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 42 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 43 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
+| 44 | [Trace McSorley](http://twitter.com/search?q=Trace+McSorley) | N/A |
+| 45 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 46 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 47 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 48 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 49 | [Trevor May](http://twitter.com/search?q=Trevor+May) | N/A |
 
 
 

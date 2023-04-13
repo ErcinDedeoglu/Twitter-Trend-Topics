@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-13 20:16:40 UTC`
+📆 Last Updated: `2023-04-13 21:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
-| 2 | [#LCHFIO](http://twitter.com/search?q=%23LCHFIO) | N/A |
-| 3 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 4 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
-| 5 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 6 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 1 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
+| 2 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
+| 3 | [#LCHFIO](http://twitter.com/search?q=%23LCHFIO) | N/A |
+| 4 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 5 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 6 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
 | 7 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 8 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 9 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 10 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 11 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 12 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 13 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 14 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 15 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 16 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 8 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 9 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 10 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 11 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
+| 12 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 13 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 15 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
+| 16 | [Viola](http://twitter.com/search?q=Viola) | N/A |
 | 17 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 18 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 19 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 21 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
-| 22 | [Gwardii Narodowej](http://twitter.com/search?q=Gwardii+Narodowej) | N/A |
+| 18 | [Kolejorza](http://twitter.com/search?q=Kolejorza) | N/A |
+| 19 | [Martineza](http://twitter.com/search?q=Martineza) | N/A |
+| 20 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 22 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
 | 23 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 24 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 25 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 24 | [Gwardii Narodowej](http://twitter.com/search?q=Gwardii+Narodowej) | N/A |
+| 25 | [Marchwińskiego](http://twitter.com/search?q=Marchwi%c5%84skiego) | N/A |
 | 26 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 27 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 27 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
 | 28 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 29 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 30 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 31 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 32 | [jakubiak](http://twitter.com/search?q=jakubiak) | N/A |
-| 33 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
-| 34 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
-| 35 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 36 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
-| 37 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 38 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 39 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
-| 40 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 41 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 42 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
-| 43 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 44 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 45 | [Olczyk](http://twitter.com/search?q=Olczyk) | N/A |
-| 46 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
-| 47 | [Kujda](http://twitter.com/search?q=Kujda) | N/A |
-| 48 | [Minister Rau](http://twitter.com/search?q=Minister+Rau) | N/A |
+| 29 | [Sevilli](http://twitter.com/search?q=Sevilli) | N/A |
+| 30 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 31 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 32 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 33 | [Legię](http://twitter.com/search?q=Legi%c4%99) | N/A |
+| 34 | [jakubiak](http://twitter.com/search?q=jakubiak) | N/A |
+| 35 | [CASY](http://twitter.com/search?q=CASY) | N/A |
+| 36 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 37 | [Goats](http://twitter.com/search?q=Goats) | N/A |
+| 38 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
+| 39 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 40 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 41 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 42 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
+| 43 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 44 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
+| 45 | [Ministra Edukacji](http://twitter.com/search?q=Ministra+Edukacji) | N/A |
+| 46 | [Pentagonu](http://twitter.com/search?q=Pentagonu) | N/A |
+| 47 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
+| 48 | [keita](http://twitter.com/search?q=keita) | N/A |
 
 
 

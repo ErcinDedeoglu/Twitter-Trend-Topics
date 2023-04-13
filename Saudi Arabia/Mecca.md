@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-04-13 20:16:59 UTC`
+📆 Last Updated: `2023-04-13 21:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
-| 2 | [ابو احمد](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%ad%d9%85%d8%af) | N/A |
+| 1 | [#ام_بطي_تنخاكم12](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%a8%d8%b7%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%8512) | N/A |
+| 2 | [ابن تيمية](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%aa%d9%8a%d9%85%d9%8a%d8%a9) | N/A |
 | 3 | [#ختاميه_رمضان_مع_ابوفهد](http://twitter.com/search?q=%23%d8%ae%d8%aa%d8%a7%d9%85%d9%8a%d9%87_%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af) | N/A |
-| 4 | [#تمرد_اولاد_دقلو](http://twitter.com/search?q=%23%d8%aa%d9%85%d8%b1%d8%af_%d8%a7%d9%88%d9%84%d8%a7%d8%af_%d8%af%d9%82%d9%84%d9%88) | N/A |
-| 5 | [#تطبيق_وثق](http://twitter.com/search?q=%23%d8%aa%d8%b7%d8%a8%d9%8a%d9%82_%d9%88%d8%ab%d9%82) | N/A |
-| 6 | [#الجايزه_الكبري](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d8%b2%d9%87_%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 7 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
-| 8 | [مارسيال](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7%d9%84) | مارسيال is a Spanish word meaning "march" or "march on". It is often used as a rallying cry for marches and protests. |
-| 9 | [المركبه البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d9%87+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
+| 4 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 5 | [#تمرد_اولاد_دقلو](http://twitter.com/search?q=%23%d8%aa%d9%85%d8%b1%d8%af_%d8%a7%d9%88%d9%84%d8%a7%d8%af_%d8%af%d9%82%d9%84%d9%88) | N/A |
+| 6 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
+| 7 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 8 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
+| 9 | [مارسيال](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7%d9%84) | مارسيال is a Spanish word meaning "march" or "march on". It is often used as a rallying cry for marches and protests. |
 | 10 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 11 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 12 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 11 | [المركبه البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d9%87+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
+| 12 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
 | 13 | [فاران](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%a7%d9%86) | N/A |
-| 14 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
-| 15 | [عبدالله الاقتصاديه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 16 | [اوتار العشر](http://twitter.com/search?q=%d8%a7%d9%88%d8%aa%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
-| 17 | [ديبالا](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%84%d8%a7) | N/A |
-| 18 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
-| 19 | [انتوني](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a) | انتوني is an Arabic word that means "you" or "yours". It is used as a term of endearment or affection. |
-| 20 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 21 | [التعصب الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%b5%d8%a8+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 22 | [ابن رجب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b1%d8%ac%d8%a8) | N/A |
-| 23 | [الليله الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
-| 24 | [٢٣ رمضان](http://twitter.com/search?q=%d9%a2%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 25 | [الليله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
-| 26 | [23 رمضان](http://twitter.com/search?q=23+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 27 | [لشبونه](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d9%87) | N/A |
-| 28 | [بوفون](http://twitter.com/search?q=%d8%a8%d9%88%d9%81%d9%88%d9%86) | N/A |
-| 29 | [فينورد](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d9%88%d8%b1%d8%af) | N/A |
-| 30 | [كاسياس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d8%a7%d8%b3) | N/A |
-| 31 | [السبع الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 32 | [وليد الفراج](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ac) | N/A |
-| 33 | [ابن هبيرة](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%87%d8%a8%d9%8a%d8%b1%d8%a9) | N/A |
-| 34 | [العلاقه التعاقديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%82%d8%af%d9%8a%d9%87) | N/A |
-| 35 | [غازي عبدالرحمن القصيبي](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
-| 36 | [رودي جارسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%af%d9%8a+%d8%ac%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | N/A |
-| 37 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 38 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 39 | [باب رزق](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%b1%d8%b2%d9%82) | N/A |
-| 40 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 41 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
-| 42 | [الهدر المالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%b1+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a) | N/A |
-| 43 | [غازي القصيبي](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
-| 44 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 45 | [عيد الفطر المبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 46 | [الدعم السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
-| 47 | [تشيك](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%83) | N/A |
-| 48 | [الليالي الوتريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%aa%d8%b1%d9%8a%d9%87) | N/A |
-| 49 | [الفيات السنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%b3%d9%86%d9%8a%d9%87) | N/A |
-| 50 | [المدرب الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 14 | [بيرين](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
+| 15 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 16 | [انتوني](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a) | انتوني is an Arabic word that means "you" or "yours". It is used as a term of endearment or affection. |
+| 17 | [عبدالله الاقتصاديه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 18 | [راس الخير](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 19 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
+| 20 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
+| 21 | [هذال الدوسري](http://twitter.com/search?q=%d9%87%d8%b0%d8%a7%d9%84+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 22 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 23 | [لاميلا](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d9%8a%d9%84%d8%a7) | N/A |
+| 24 | [اوتار العشر](http://twitter.com/search?q=%d8%a7%d9%88%d8%aa%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
+| 25 | [بوغبا](http://twitter.com/search?q=%d8%a8%d9%88%d8%ba%d8%a8%d8%a7) | N/A |
+| 26 | [نافاس](http://twitter.com/search?q=%d9%86%d8%a7%d9%81%d8%a7%d8%b3) | نافاس is an Arabic word meaning "forgiveness". It is used to refer to the act of forgiving someone for a wrong they have done. |
+| 27 | [الليله الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
+| 28 | [الاقتصاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 29 | [23 رمضان](http://twitter.com/search?q=23+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 30 | [لشبونه](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d9%87) | N/A |
+| 31 | [٢٣ رمضان](http://twitter.com/search?q=%d9%a2%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 32 | [التعصب الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%b5%d8%a8+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
+| 33 | [ابن رجب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b1%d8%ac%d8%a8) | N/A |
+| 34 | [الليله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
+| 35 | [ديبالا](http://twitter.com/search?q=%d8%af%d9%8a%d8%a8%d8%a7%d9%84%d8%a7) | N/A |
+| 36 | [وليد الفراج](http://twitter.com/search?q=%d9%88%d9%84%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ac) | N/A |
+| 37 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 38 | [السبع الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 39 | [كاسياس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d8%a7%d8%b3) | N/A |
+| 40 | [ابن هبيرة](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d9%87%d8%a8%d9%8a%d8%b1%d8%a9) | N/A |
+| 41 | [فينورد](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d9%88%d8%b1%d8%af) | N/A |
+| 42 | [بوفون](http://twitter.com/search?q=%d8%a8%d9%88%d9%81%d9%88%d9%86) | N/A |
+| 43 | [باب رزق](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%b1%d8%b2%d9%82) | N/A |
+| 44 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 45 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 46 | [نوير](http://twitter.com/search?q=%d9%86%d9%88%d9%8a%d8%b1) | N/A |
+| 47 | [غازي عبدالرحمن القصيبي](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
+| 48 | [غازي القصيبي](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b2%d9%8a+%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d8%a8%d9%8a) | N/A |
+| 49 | [عيد الفطر المبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%81%d8%b7%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 50 | [شيخ الاسلام](http://twitter.com/search?q=%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
 
 
 
