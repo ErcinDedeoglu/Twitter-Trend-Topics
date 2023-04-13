@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-13 04:18:17 UTC`
+📆 Last Updated: `2023-04-13 05:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#babler](http://twitter.com/search?q=%23babler) | N/A |
+| 1 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
 | 2 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 3 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 4 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 5 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 6 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
-| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 8 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 9 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 10 | [tagespresse](http://twitter.com/search?q=tagespresse) | N/A |
-| 11 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 12 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 13 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 14 | [abschiebung](http://twitter.com/search?q=abschiebung) | N/A |
-| 15 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 3 | [#Babler](http://twitter.com/search?q=%23Babler) | N/A |
+| 4 | [#Babler](http://twitter.com/search?q=%23Babler) | N/A |
+| 5 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 6 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 7 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
+| 8 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
+| 9 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 10 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 11 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 12 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
+| 13 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 14 | [Bedingungen](http://twitter.com/search?q=Bedingungen) | N/A |
+| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 16 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 17 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
-| 18 | [plakolm](http://twitter.com/search?q=plakolm) | N/A |
-| 19 | [Klimakleber](http://twitter.com/search?q=Klimakleber) | N/A |
-| 20 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
-| 21 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 22 | [Dialekt](http://twitter.com/search?q=Dialekt) | N/A |
-| 23 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 17 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 18 | [Dialekt](http://twitter.com/search?q=Dialekt) | N/A |
+| 19 | [Gewissen](http://twitter.com/search?q=Gewissen) | N/A |
+| 20 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 21 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 22 | [Klavier](http://twitter.com/search?q=Klavier) | N/A |
+| 23 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
 | 24 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
-| 25 | [jössas](http://twitter.com/search?q=j%c3%b6ssas) | N/A |
-| 26 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 27 | [eierpecken](http://twitter.com/search?q=eierpecken) | N/A |
-| 28 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 29 | [Wissens](http://twitter.com/search?q=Wissens) | N/A |
-| 30 | [Zweck](http://twitter.com/search?q=Zweck) | N/A |
-| 31 | [härte](http://twitter.com/search?q=h%c3%a4rte) | N/A |
-| 32 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
-| 33 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
-| 34 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 35 | [Wikipedia](http://twitter.com/search?q=Wikipedia) | N/A |
-| 36 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
-| 37 | [Fair](http://twitter.com/search?q=Fair) | N/A |
-| 38 | [Drukos](http://twitter.com/search?q=Drukos) | N/A |
-| 39 | [spenden](http://twitter.com/search?q=spenden) | N/A |
-| 40 | [Bach](http://twitter.com/search?q=Bach) | N/A |
-| 41 | [Aufgaben](http://twitter.com/search?q=Aufgaben) | N/A |
-| 42 | [Veranstaltungen](http://twitter.com/search?q=Veranstaltungen) | N/A |
-| 43 | [mangelberufen](http://twitter.com/search?q=mangelberufen) | N/A |
-| 44 | [gerät](http://twitter.com/search?q=ger%c3%a4t) | N/A |
-| 45 | [Millionen Euro](http://twitter.com/search?q=Millionen+Euro) | N/A |
-| 46 | [Flügel](http://twitter.com/search?q=Fl%c3%bcgel) | N/A |
-| 47 | [verträge](http://twitter.com/search?q=vertr%c3%a4ge) | N/A |
-| 48 | [Märchen](http://twitter.com/search?q=M%c3%a4rchen) | N/A |
-| 49 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 50 | [bewerber](http://twitter.com/search?q=bewerber) | N/A |
+| 25 | [Bescheid](http://twitter.com/search?q=Bescheid) | N/A |
+| 26 | [Giraffe](http://twitter.com/search?q=Giraffe) | N/A |
+| 27 | [Verbrechen](http://twitter.com/search?q=Verbrechen) | N/A |
+| 28 | [Wieviel](http://twitter.com/search?q=Wieviel) | N/A |
+| 29 | [Sobotka](http://twitter.com/search?q=Sobotka) | N/A |
+| 30 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
+| 31 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
+| 32 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 33 | [Untergang](http://twitter.com/search?q=Untergang) | N/A |
+| 34 | [Freude](http://twitter.com/search?q=Freude) | N/A |
+| 35 | [Veranstaltungen](http://twitter.com/search?q=Veranstaltungen) | N/A |
+| 36 | [härte](http://twitter.com/search?q=h%c3%a4rte) | N/A |
+| 37 | [Mangelberufen](http://twitter.com/search?q=Mangelberufen) | N/A |
+| 38 | [danke für die info](http://twitter.com/search?q=danke+f%c3%bcr+die+info) | N/A |
+| 39 | [Anzeige](http://twitter.com/search?q=Anzeige) | N/A |
+| 40 | [Innsbruck](http://twitter.com/search?q=Innsbruck) | N/A |
+| 41 | [Verdacht](http://twitter.com/search?q=Verdacht) | N/A |
+| 42 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 43 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
+| 44 | [Presse](http://twitter.com/search?q=Presse) | N/A |
+| 45 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 46 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
+| 47 | [Tieren](http://twitter.com/search?q=Tieren) | N/A |
+| 48 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 49 | [Können Sie](http://twitter.com/search?q=K%c3%b6nnen+Sie) | N/A |
+| 50 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 
 
 

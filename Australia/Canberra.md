@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-13 04:17:46 UTC`
+📆 Last Updated: `2023-04-13 05:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
-| 2 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 3 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
+| 1 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 2 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
+| 3 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
 | 4 | [#StrayGods](http://twitter.com/search?q=%23StrayGods) | N/A |
-| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 5 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
 | 6 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 7 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 8 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 9 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 10 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 11 | [Leeser](http://twitter.com/search?q=Leeser) | N/A |
-| 12 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 13 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 14 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 15 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
-| 16 | [Anthony Davis](http://twitter.com/search?q=Anthony+Davis) | Anthony Davis is an American professional basketball player who currently plays for the Los Angeles Lakers of the National Basketball Association (NBA). He is a six-time NBA All-Star and has won two Olympic gold medals. He is known for his ability to score, rebound, and block shots. |
-| 17 | [Simon Birmingham](http://twitter.com/search?q=Simon+Birmingham) | N/A |
-| 18 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 19 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 7 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 8 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 9 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 10 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 11 | [#BullsNation](http://twitter.com/search?q=%23BullsNation) | N/A |
+| 12 | [Mike Conley](http://twitter.com/search?q=Mike+Conley) | N/A |
+| 13 | [Leeser](http://twitter.com/search?q=Leeser) | N/A |
+| 14 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 15 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 16 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 18 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 19 | [60fps](http://twitter.com/search?q=60fps) | N/A |
 | 20 | [Price](http://twitter.com/search?q=Price) | N/A |
-| 21 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 21 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
 | 22 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 23 | [60fps](http://twitter.com/search?q=60fps) | N/A |
-| 24 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 25 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 26 | [John Olsen](http://twitter.com/search?q=John+Olsen) | N/A |
-| 27 | [Darren Clarke](http://twitter.com/search?q=Darren+Clarke) | N/A |
-| 28 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 29 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 30 | [Auslan](http://twitter.com/search?q=Auslan) | N/A |
-| 31 | [Telly](http://twitter.com/search?q=Telly) | N/A |
-| 32 | [James Clayton](http://twitter.com/search?q=James+Clayton) | N/A |
-| 33 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 34 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
-| 35 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
-| 36 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 37 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 38 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
-| 39 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 40 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 41 | [Dorah](http://twitter.com/search?q=Dorah) | N/A |
-| 42 | [Dutts](http://twitter.com/search?q=Dutts) | N/A |
-| 43 | [Wesley Mission](http://twitter.com/search?q=Wesley+Mission) | N/A |
-| 44 | [Blackmores](http://twitter.com/search?q=Blackmores) | N/A |
-| 45 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 46 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 47 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 48 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 23 | [Simon Birmingham](http://twitter.com/search?q=Simon+Birmingham) | N/A |
+| 24 | [Dorah](http://twitter.com/search?q=Dorah) | N/A |
+| 25 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 26 | [Darren Clarke](http://twitter.com/search?q=Darren+Clarke) | N/A |
+| 27 | [John Olsen](http://twitter.com/search?q=John+Olsen) | N/A |
+| 28 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 29 | [Auslan](http://twitter.com/search?q=Auslan) | N/A |
+| 30 | [Victoria](http://twitter.com/search?q=Victoria) | N/A |
+| 31 | [Elmo](http://twitter.com/search?q=Elmo) | N/A |
+| 32 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 33 | [Port Hedland](http://twitter.com/search?q=Port+Hedland) | N/A |
+| 34 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 35 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 36 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 37 | [Wesley Mission](http://twitter.com/search?q=Wesley+Mission) | N/A |
+| 38 | [James Clayton](http://twitter.com/search?q=James+Clayton) | N/A |
+| 39 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 40 | [Dutts](http://twitter.com/search?q=Dutts) | N/A |
+| 41 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 42 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 43 | [Telly](http://twitter.com/search?q=Telly) | N/A |
+| 44 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 45 | [blackmores](http://twitter.com/search?q=blackmores) | N/A |
+| 46 | [Baker](http://twitter.com/search?q=Baker) | Baker is a person who bakes and sells bread, cakes, and other baked goods. It is also a term used to refer to someone who works in a bakery. |
+| 47 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 48 | [Arvo](http://twitter.com/search?q=Arvo) | N/A |
 
 
 

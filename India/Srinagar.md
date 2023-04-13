@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-04-13 04:18:02 UTC`
+📆 Last Updated: `2023-04-13 05:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,53 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
-| 2 | [#INTERNATIONALJATDAY](http://twitter.com/search?q=%23INTERNATIONALJATDAY) | N/A |
+| 1 | [#JioStudiosInfiniteTogether](http://twitter.com/search?q=%23JioStudiosInfiniteTogether) | N/A |
+| 2 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
 | 3 | [#JallianwalaBaghMassacre](http://twitter.com/search?q=%23JallianwalaBaghMassacre) | N/A |
-| 4 | [#NatureLovers](http://twitter.com/search?q=%23NatureLovers) | N/A |
+| 4 | [#INTERNATIONALJATDAY](http://twitter.com/search?q=%23INTERNATIONALJATDAY) | N/A |
 | 5 | [अंतरराष्ट्रीय जाट](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%be%e0%a4%9f) | N/A |
-| 6 | [#87वाँ_अवतरण_दिवस](http://twitter.com/search?q=%2387%e0%a4%b5%e0%a4%be%e0%a4%81_%e0%a4%85%e0%a4%b5%e0%a4%a4%e0%a4%b0%e0%a4%a3_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 7 | [Vishwabhar Me Manaya Gaya](http://twitter.com/search?q=Vishwabhar+Me+Manaya+Gaya) | N/A |
-| 8 | [Nature Campaign](http://twitter.com/search?q=Nature+Campaign) | N/A |
-| 9 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 10 | [Chronology Of Events InSSRCase](http://twitter.com/search?q=Chronology+Of+Events+InSSRCase) | N/A |
-| 11 | [जनरल डायर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%a1%e0%a4%be%e0%a4%af%e0%a4%b0) | N/A |
-| 12 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 13 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 14 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 15 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 16 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
-| 17 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
+| 6 | [#1YearOfBeast](http://twitter.com/search?q=%231YearOfBeast) | N/A |
+| 7 | [Chronology Of Events InSSRCase](http://twitter.com/search?q=Chronology+Of+Events+InSSRCase) | N/A |
+| 8 | [जनरल डायर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%a1%e0%a4%be%e0%a4%af%e0%a4%b0) | N/A |
+| 9 | [Vishwabhar Me Manaya Gaya](http://twitter.com/search?q=Vishwabhar+Me+Manaya+Gaya) | N/A |
+| 10 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 11 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 12 | [Nature Campaign](http://twitter.com/search?q=Nature+Campaign) | N/A |
+| 13 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 14 | [Happy Baisakhi](http://twitter.com/search?q=Happy+Baisakhi) | N/A |
+| 15 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 16 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 17 | [Nitish](http://twitter.com/search?q=Nitish) | N/A |
 | 18 | [Bihari](http://twitter.com/search?q=Bihari) | N/A |
-| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 20 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 21 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Nitish Kumar](http://twitter.com/search?q=Nitish+Kumar) | N/A |
-| 24 | [#1YearOfBeast](http://twitter.com/search?q=%231YearOfBeast) | N/A |
-| 25 | [#अंतर्राष्ट्रीय_जाट_दिवस](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 26 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 27 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 28 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 29 | [#Eclipsed](http://twitter.com/search?q=%23Eclipsed) | N/A |
-| 30 | [#GodMorningThursday](http://twitter.com/search?q=%23GodMorningThursday) | N/A |
-| 31 | [#HappyBirthDayStufflistings](http://twitter.com/search?q=%23HappyBirthDayStufflistings) | N/A |
-| 32 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 33 | [#RozgarMela](http://twitter.com/search?q=%23RozgarMela) | N/A |
-| 34 | [#ॐ_नमो_भगवते_वासुदेवाय_नमः](http://twitter.com/search?q=%23%e0%a5%90_%e0%a4%a8%e0%a4%ae%e0%a5%8b_%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%a4%e0%a5%87_%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%af_%e0%a4%a8%e0%a4%ae%e0%a4%83) | N/A |
-| 35 | [#Infosys](http://twitter.com/search?q=%23Infosys) | N/A |
-| 36 | [#Amritsar](http://twitter.com/search?q=%23Amritsar) | N/A |
-| 37 | [#Baisakhi](http://twitter.com/search?q=%23Baisakhi) | N/A |
-| 38 | [#Bhediya2](http://twitter.com/search?q=%23Bhediya2) | N/A |
-| 39 | [#SGXNIFTY](http://twitter.com/search?q=%23SGXNIFTY) | N/A |
-| 40 | [#nifty50](http://twitter.com/search?q=%23nifty50) | N/A |
-| 41 | [#stufflistingsarmy](http://twitter.com/search?q=%23stufflistingsarmy) | N/A |
-| 42 | [#SandeepSharma](http://twitter.com/search?q=%23SandeepSharma) | N/A |
-| 43 | [#MumbaiRains](http://twitter.com/search?q=%23MumbaiRains) | N/A |
-| 44 | [#AmbedkarJayanti](http://twitter.com/search?q=%23AmbedkarJayanti) | N/A |
+| 19 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
+| 20 | [North Indians](http://twitter.com/search?q=North+Indians) | N/A |
+| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 22 | [Dera Sacha Sauda](http://twitter.com/search?q=Dera+Sacha+Sauda) | N/A |
+| 23 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 24 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 25 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 26 | [डेरा सच्चा सौदा](http://twitter.com/search?q=%e0%a4%a1%e0%a5%87%e0%a4%b0%e0%a4%be+%e0%a4%b8%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a4%be+%e0%a4%b8%e0%a5%8c%e0%a4%a6%e0%a4%be) | N/A |
+| 27 | [भीमराव अम्बेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 28 | [#NatureLovers](http://twitter.com/search?q=%23NatureLovers) | N/A |
+| 29 | [#अंतर्राष्ट्रीय_जाट_दिवस](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 30 | [#87वाँ_अवतरण_दिवस](http://twitter.com/search?q=%2387%e0%a4%b5%e0%a4%be%e0%a4%81_%e0%a4%85%e0%a4%b5%e0%a4%a4%e0%a4%b0%e0%a4%a3_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
+| 31 | [#ProudOfYouDidi](http://twitter.com/search?q=%23ProudOfYouDidi) | N/A |
+| 32 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 33 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 34 | [#RozgarMela](http://twitter.com/search?q=%23RozgarMela) | N/A |
+| 35 | [#Justice4VishuGurjar](http://twitter.com/search?q=%23Justice4VishuGurjar) | N/A |
+| 36 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 37 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
+| 38 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 39 | [#Bhediya2](http://twitter.com/search?q=%23Bhediya2) | N/A |
+| 40 | [#Janjatiya_Gaurav](http://twitter.com/search?q=%23Janjatiya_Gaurav) | N/A |
+| 41 | [#Eclipsed](http://twitter.com/search?q=%23Eclipsed) | N/A |
+| 42 | [#Stree2](http://twitter.com/search?q=%23Stree2) | N/A |
+| 43 | [#SandeepSharma](http://twitter.com/search?q=%23SandeepSharma) | N/A |
+| 44 | [#JojuGeorge](http://twitter.com/search?q=%23JojuGeorge) | N/A |
+| 45 | [#HappyBirthDayStufflistings](http://twitter.com/search?q=%23HappyBirthDayStufflistings) | N/A |
+| 46 | [#UttaraBaokar](http://twitter.com/search?q=%23UttaraBaokar) | N/A |
+| 47 | [#PBKSvGT](http://twitter.com/search?q=%23PBKSvGT) | N/A |
 
 
 

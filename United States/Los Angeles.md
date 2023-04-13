@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-13 04:18:10 UTC`
+📆 Last Updated: `2023-04-13 05:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 2 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 3 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 4 | [Oracle Park](http://twitter.com/search?q=Oracle+Park) | N/A |
+| 1 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 2 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 3 | [#Dodgers](http://twitter.com/search?q=%23Dodgers) | N/A |
+| 4 | [#HereToPlay](http://twitter.com/search?q=%23HereToPlay) | N/A |
 | 5 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 6 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 7 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
-| 8 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 9 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
-| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 11 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 12 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 13 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 14 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 15 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 16 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 17 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 18 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 19 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 21 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 22 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 23 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 24 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 25 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 26 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 27 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 28 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 29 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
-| 30 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 31 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 32 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 33 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 34 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 35 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
-| 36 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 37 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 38 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 39 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 40 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 41 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 42 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 43 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
-| 44 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 45 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 6 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 7 | [Oracle Park](http://twitter.com/search?q=Oracle+Park) | N/A |
+| 8 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 9 | [Senator](http://twitter.com/search?q=Senator) | N/A |
+| 10 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
+| 11 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 12 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 13 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 14 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 15 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 16 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 17 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 18 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 19 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 20 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 21 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 22 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 23 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 24 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 25 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 27 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 28 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 29 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 30 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 31 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 32 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 33 | [Dort](http://twitter.com/search?q=Dort) | N/A |
+| 34 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 35 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 36 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 37 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 38 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 39 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 40 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
+| 41 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 42 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 43 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 44 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 45 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 46 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 47 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 48 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 49 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
-| 50 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 47 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
+| 48 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 49 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
+| 50 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 
 
 
