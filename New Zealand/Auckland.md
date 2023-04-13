@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-13 19:17:11 UTC`
+📆 Last Updated: `2023-04-13 20:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
-| 2 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 2 | [Maori](http://twitter.com/search?q=Maori) | N/A |
 | 3 | [#ASBTE2023](http://twitter.com/search?q=%23ASBTE2023) | N/A |
-| 4 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 5 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 6 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 7 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 4 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 5 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 6 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 7 | [Craig](http://twitter.com/search?q=Craig) | N/A |
 | 8 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
 | 9 | [Shaneel Lal](http://twitter.com/search?q=Shaneel+Lal) | N/A |
 | 10 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 11 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
 | 12 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
-| 13 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 14 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 15 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 17 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 18 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 19 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 21 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 22 | [affordable water reforms](http://twitter.com/search?q=affordable+water+reforms) | N/A |
-| 23 | [Anne Perry](http://twitter.com/search?q=Anne+Perry) | N/A |
-| 24 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 25 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 26 | [Goff](http://twitter.com/search?q=Goff) | Goff is a slang term used to describe someone who is socially awkward or clumsy. It is derived from the acronym "GOFF," which stands for "geeky, odd, funny, and/or freaky." |
-| 27 | [christopher luxon](http://twitter.com/search?q=christopher+luxon) | N/A |
-| 28 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
-| 29 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 30 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 13 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 14 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 15 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 16 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 17 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 18 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 19 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 20 | [affordable water reforms](http://twitter.com/search?q=affordable+water+reforms) | N/A |
+| 21 | [Kieran McAnulty](http://twitter.com/search?q=Kieran+McAnulty) | N/A |
+| 22 | [Anne Perry](http://twitter.com/search?q=Anne+Perry) | N/A |
+| 23 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 24 | [#dailywordleclub](http://twitter.com/search?q=%23dailywordleclub) | N/A |
+| 25 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 26 | [Christopher Luxon](http://twitter.com/search?q=Christopher+Luxon) | N/A |
+| 27 | [Wayne Brown](http://twitter.com/search?q=Wayne+Brown) | Wayne Brown is a phrase used to describe someone who is a bit of a troublemaker or someone who likes to stir up trouble. It can also be used to describe someone who is a bit of a wild card or unpredictable. |
+| 28 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
+| 29 | [Scotland](http://twitter.com/search?q=Scotland) | Scotland is a country in the United Kingdom, located to the north of England. It is known for its rugged landscape, picturesque lochs, and ancient castles. The national language of Scotland is Scots, although English is widely spoken. The capital city of Scotland is Edinburgh. |
+| 30 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
 | 31 | [Te Mana O Te Wai](http://twitter.com/search?q=Te+Mana+O+Te+Wai) | N/A |
-| 32 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 33 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 34 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 35 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
-| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 37 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 38 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
-| 39 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 40 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 41 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 42 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 43 | [California](http://twitter.com/search?q=California) | N/A |
-| 44 | [Phew](http://twitter.com/search?q=Phew) | N/A |
-| 45 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 46 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 47 | [Countdown](http://twitter.com/search?q=Countdown) | N/A |
-| 48 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 49 | [Woohoo](http://twitter.com/search?q=Woohoo) | N/A |
-| 50 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 32 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 33 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 34 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 35 | [Depends](http://twitter.com/search?q=Depends) | N/A |
+| 36 | [phil goff](http://twitter.com/search?q=phil+goff) | N/A |
+| 37 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 38 | [Wellington](http://twitter.com/search?q=Wellington) | Wellington is a city in New Zealand, located at the southern tip of the North Island. It is the capital of New Zealand and the country's second most populous urban area. The name Wellington comes from Arthur Wellesley, the first Duke of Wellington and victor of the Battle of Waterloo. |
+| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 41 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 42 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 43 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 44 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 45 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 46 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 47 | [Phew](http://twitter.com/search?q=Phew) | N/A |
+| 48 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 49 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 50 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
 
 
 

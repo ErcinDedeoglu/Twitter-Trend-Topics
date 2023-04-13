@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-04-13 19:16:58 UTC`
+📆 Last Updated: `2023-04-13 20:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 2 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 3 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 4 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 6 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 7 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 8 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 9 | [#WANGZIHAO](http://twitter.com/search?q=%23WANGZIHAO) | N/A |
-| 10 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 11 | [Gordon Ramsay](http://twitter.com/search?q=Gordon+Ramsay) | N/A |
-| 12 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
-| 13 | [#SummerExplorationxMileApo](http://twitter.com/search?q=%23SummerExplorationxMileApo) | N/A |
-| 14 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 15 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
-| 16 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 17 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 18 | [KIM TAERAE](http://twitter.com/search?q=KIM+TAERAE) | N/A |
-| 19 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 20 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
-| 21 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
-| 22 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 23 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
-| 24 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 25 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 26 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 27 | [LEE JEONGHYEON](http://twitter.com/search?q=LEE+JEONGHYEON) | N/A |
-| 28 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 29 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 30 | [DIVE INTO IVE 500 DAYS](http://twitter.com/search?q=DIVE+INTO+IVE+500+DAYS) | N/A |
-| 31 | [Heihei](http://twitter.com/search?q=Heihei) | N/A |
-| 32 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
-| 33 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 34 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 35 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 36 | [Affliate](http://twitter.com/search?q=Affliate) | N/A |
-| 37 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 38 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
-| 39 | [Zhoumi](http://twitter.com/search?q=Zhoumi) | N/A |
-| 40 | [TNX FIRST OST](http://twitter.com/search?q=TNX+FIRST+OST) | N/A |
-| 41 | [Taipei](http://twitter.com/search?q=Taipei) | N/A |
-| 42 | [Double Six](http://twitter.com/search?q=Double+Six) | N/A |
-| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 44 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 45 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 46 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 47 | [jooheon](http://twitter.com/search?q=jooheon) | N/A |
-| 48 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 49 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 50 | [Manisha](http://twitter.com/search?q=Manisha) | N/A |
+| 1 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 2 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 3 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 4 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 5 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 8 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 9 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 10 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 11 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 12 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 13 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 14 | [#WANGZIHAO](http://twitter.com/search?q=%23WANGZIHAO) | N/A |
+| 15 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
+| 16 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 17 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 18 | [Gordon Ramsay](http://twitter.com/search?q=Gordon+Ramsay) | N/A |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 21 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
+| 22 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 23 | [KIM TAERAE](http://twitter.com/search?q=KIM+TAERAE) | N/A |
+| 24 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 25 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
+| 26 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 27 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
+| 28 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 29 | [Lee Jeonghyeon](http://twitter.com/search?q=Lee+Jeonghyeon) | N/A |
+| 30 | [Junhoe](http://twitter.com/search?q=Junhoe) | N/A |
+| 31 | [DIVE INTO IVE 500 DAYS](http://twitter.com/search?q=DIVE+INTO+IVE+500+DAYS) | N/A |
+| 32 | [Heihei](http://twitter.com/search?q=Heihei) | N/A |
+| 33 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
+| 34 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 35 | [Artem](http://twitter.com/search?q=Artem) | N/A |
+| 36 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 37 | [WONWOO](http://twitter.com/search?q=WONWOO) | N/A |
+| 38 | [Affliate](http://twitter.com/search?q=Affliate) | N/A |
+| 39 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 40 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 41 | [Zhoumi](http://twitter.com/search?q=Zhoumi) | N/A |
+| 42 | [TNX FIRST OST](http://twitter.com/search?q=TNX+FIRST+OST) | N/A |
+| 43 | [Taipei](http://twitter.com/search?q=Taipei) | N/A |
+| 44 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 45 | [double six](http://twitter.com/search?q=double+six) | N/A |
+| 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 47 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 48 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 49 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 50 | [jooheon](http://twitter.com/search?q=jooheon) | N/A |
 
 
 

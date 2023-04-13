@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-13 19:16:32 UTC`
+📆 Last Updated: `2023-04-13 20:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ختاميه_رمضان_مع_ابوفهد](http://twitter.com/search?q=%23%d8%ae%d8%aa%d8%a7%d9%85%d9%8a%d9%87_%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af) | N/A |
-| 2 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 4 | [ArkeoSanataBaharGelecek](http://twitter.com/search?q=ArkeoSanataBaharGelecek) | N/A |
-| 5 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 6 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
-| 7 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 8 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
-| 9 | [#الجايزه_الكبري](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d8%a7%d9%8a%d8%b2%d9%87_%d8%a7%d9%84%d9%83%d8%a8%d8%b1%d9%8a) | N/A |
-| 10 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 11 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
-| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 13 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 14 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 15 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 16 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 17 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 18 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 19 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 20 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 21 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 22 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 23 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 24 | [Ben Johnson](http://twitter.com/search?q=Ben+Johnson) | Ben Johnson is a phrase used to describe someone who is dishonest or unethical in their dealings. It is derived from the name of the disgraced Canadian sprinter Ben Johnson, who was stripped of his gold medal at the 1988 Olympics after testing positive for steroids. |
-| 25 | [AlparslanHocaya CezaeviZulmü](http://twitter.com/search?q=AlparslanHocaya+CezaeviZulm%c3%bc) | N/A |
-| 26 | [BayKemal İibfyeSÖZver](http://twitter.com/search?q=BayKemal+%c4%b0ibfyeS%c3%96Zver) | N/A |
-| 27 | [FAHRİ ÖĞRETİCİYE KADRO](http://twitter.com/search?q=FAHR%c4%b0+%c3%96%c4%9eRET%c4%b0C%c4%b0YE+KADRO) | N/A |
-| 28 | [트루먼쇼](http://twitter.com/search?q=%ed%8a%b8%eb%a3%a8%eb%a8%bc%ec%87%bc) | N/A |
-| 29 | [ガノンドロフ](http://twitter.com/search?q=%e3%82%ac%e3%83%8e%e3%83%b3%e3%83%89%e3%83%ad%e3%83%95) | N/A |
-| 30 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
-| 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 32 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
-| 33 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 34 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 35 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 36 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 37 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 38 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 39 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 40 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
-| 41 | [Talca](http://twitter.com/search?q=Talca) | N/A |
-| 42 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
-| 43 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 44 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 45 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 46 | [Springs](http://twitter.com/search?q=Springs) | N/A |
-| 47 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 48 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 49 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 50 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 1 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 2 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 3 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
+| 4 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 5 | [#ختاميه_رمضان_مع_ابوفهد](http://twitter.com/search?q=%23%d8%ae%d8%aa%d8%a7%d9%85%d9%8a%d9%87_%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af) | N/A |
+| 6 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 7 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 8 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 10 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 11 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 14 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 15 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 16 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 17 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 18 | [مارسيال](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7%d9%84) | مارسيال is a Spanish word meaning "march" or "march on". It is often used as a rallying cry for marches and protests. |
+| 19 | [Nianzou](http://twitter.com/search?q=Nianzou) | Nianzou is a Chinese term that literally translates to "year-old boy." It is used to refer to a young boy who has just turned one year old. The term is often used in celebrations and ceremonies for the one-year-old, such as birthday parties and other special occasions. |
+| 20 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 21 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 22 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 23 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 24 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 25 | [St Juste](http://twitter.com/search?q=St+Juste) | N/A |
+| 26 | [ArkeoSanataBaharGelecek](http://twitter.com/search?q=ArkeoSanataBaharGelecek) | N/A |
+| 27 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 28 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 29 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
+| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 31 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 32 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 33 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 34 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 35 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 36 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 37 | [AlparslanHocaya CezaeviZulmü](http://twitter.com/search?q=AlparslanHocaya+CezaeviZulm%c3%bc) | N/A |
+| 38 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 39 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
+| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 41 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
+| 42 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 43 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 44 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 45 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 46 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 47 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 48 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 49 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 50 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
 
 
 

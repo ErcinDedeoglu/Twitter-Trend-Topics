@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-04-13 19:17:19 UTC`
+📆 Last Updated: `2023-04-13 20:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Argentina
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
-| 2 | [#GhostSegundaMisa](http://twitter.com/search?q=%23GhostSegundaMisa) | N/A |
+| 1 | [#LALI](http://twitter.com/search?q=%23LALI) | N/A |
+| 2 | [#LeyLucio](http://twitter.com/search?q=%23LeyLucio) | N/A |
 | 3 | [#DolarBlue](http://twitter.com/search?q=%23DolarBlue) | N/A |
-| 4 | [#LeyLucio](http://twitter.com/search?q=%23LeyLucio) | N/A |
-| 5 | [Pampita](http://twitter.com/search?q=Pampita) | N/A |
-| 6 | [Moritan](http://twitter.com/search?q=Moritan) | N/A |
-| 7 | [Toloza](http://twitter.com/search?q=Toloza) | N/A |
-| 8 | [#AlmacenFantasma](http://twitter.com/search?q=%23AlmacenFantasma) | N/A |
-| 9 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 10 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
-| 11 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 12 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 13 | [Tomba](http://twitter.com/search?q=Tomba) | N/A |
-| 14 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 15 | [La Morsa](http://twitter.com/search?q=La+Morsa) | N/A |
-| 16 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
-| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 18 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 19 | [Roger Federer](http://twitter.com/search?q=Roger+Federer) | N/A |
-| 20 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 21 | [Amenaza](http://twitter.com/search?q=Amenaza) | N/A |
-| 22 | [Ofelia](http://twitter.com/search?q=Ofelia) | N/A |
-| 23 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 24 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
-| 25 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 26 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 27 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
-| 28 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
-| 29 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 30 | [Solano](http://twitter.com/search?q=Solano) | N/A |
-| 31 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 32 | [Viale](http://twitter.com/search?q=Viale) | N/A |
-| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 34 | [No Vas A Ser Presidente](http://twitter.com/search?q=No+Vas+A+Ser+Presidente) | N/A |
-| 35 | [Sangre](http://twitter.com/search?q=Sangre) | N/A |
+| 4 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
+| 5 | [Villagra](http://twitter.com/search?q=Villagra) | N/A |
+| 6 | [#GhostSegundaMisa](http://twitter.com/search?q=%23GhostSegundaMisa) | N/A |
+| 7 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 8 | [Pampita](http://twitter.com/search?q=Pampita) | N/A |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 11 | [Moritan](http://twitter.com/search?q=Moritan) | N/A |
+| 12 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 13 | [Pierotti](http://twitter.com/search?q=Pierotti) | N/A |
+| 14 | [Toloza](http://twitter.com/search?q=Toloza) | N/A |
+| 15 | [Tetaz](http://twitter.com/search?q=Tetaz) | N/A |
+| 16 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 17 | [Godoy Cruz](http://twitter.com/search?q=Godoy+Cruz) | N/A |
+| 18 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 19 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 20 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 21 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
+| 22 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
+| 23 | [Tomba](http://twitter.com/search?q=Tomba) | N/A |
+| 24 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 26 | [Ofelia](http://twitter.com/search?q=Ofelia) | N/A |
+| 27 | [Amenaza](http://twitter.com/search?q=Amenaza) | N/A |
+| 28 | [Solano](http://twitter.com/search?q=Solano) | N/A |
+| 29 | [La Morsa](http://twitter.com/search?q=La+Morsa) | N/A |
+| 30 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 31 | [Guede](http://twitter.com/search?q=Guede) | N/A |
+| 32 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 33 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
+| 34 | [NO VAS A SER PRESIDENTE](http://twitter.com/search?q=NO+VAS+A+SER+PRESIDENTE) | N/A |
+| 35 | [Viale](http://twitter.com/search?q=Viale) | N/A |
 | 36 | [Cacho Garay](http://twitter.com/search?q=Cacho+Garay) | N/A |
-| 37 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 38 | [Berlín](http://twitter.com/search?q=Berl%c3%adn) | N/A |
-| 39 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
-| 40 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 41 | [Metropol](http://twitter.com/search?q=Metropol) | N/A |
-| 42 | [Comodoro Py](http://twitter.com/search?q=Comodoro+Py) | N/A |
-| 43 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 44 | [#redflag](http://twitter.com/search?q=%23redflag) | N/A |
-| 45 | [#tardedetertulia](http://twitter.com/search?q=%23tardedetertulia) | N/A |
-| 46 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | N/A |
-| 47 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
-| 48 | [#LALI](http://twitter.com/search?q=%23LALI) | N/A |
-| 49 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 50 | [#DemocraciaOMafiaJudicial](http://twitter.com/search?q=%23DemocraciaOMafiaJudicial) | N/A |
+| 37 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 38 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 39 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 40 | [Grindetti](http://twitter.com/search?q=Grindetti) | N/A |
+| 41 | [Kirchner](http://twitter.com/search?q=Kirchner) | N/A |
+| 42 | [Metropol](http://twitter.com/search?q=Metropol) | N/A |
+| 43 | [Angel](http://twitter.com/search?q=Angel) | N/A |
+| 44 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 45 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 46 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 47 | [Comodoro Py](http://twitter.com/search?q=Comodoro+Py) | N/A |
+| 48 | [Sangre](http://twitter.com/search?q=Sangre) | N/A |
+| 49 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 50 | [Ulises](http://twitter.com/search?q=Ulises) | N/A |
 
 
 

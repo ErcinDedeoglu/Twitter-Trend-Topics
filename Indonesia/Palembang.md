@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-04-13 19:16:53 UTC`
+📆 Last Updated: `2023-04-13 20:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 2 | [#SparrowSwapAhoy](http://twitter.com/search?q=%23SparrowSwapAhoy) | N/A |
-| 3 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
-| 4 | [#Eclipsed](http://twitter.com/search?q=%23Eclipsed) | N/A |
-| 5 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
-| 6 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 7 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
+| 1 | [#galaxys235g](http://twitter.com/search?q=%23galaxys235g) | N/A |
+| 2 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 3 | [#TheClickExperience](http://twitter.com/search?q=%23TheClickExperience) | N/A |
+| 4 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 5 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 6 | [#GalaxyS23xShopee](http://twitter.com/search?q=%23GalaxyS23xShopee) | N/A |
+| 7 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
 | 8 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 9 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
-| 10 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 11 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
-| 12 | [DUSTY AMBER CONCEPT](http://twitter.com/search?q=DUSTY+AMBER+CONCEPT) | N/A |
-| 13 | [THREE ViTYFUL YEARS](http://twitter.com/search?q=THREE+ViTYFUL+YEARS) | N/A |
-| 14 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 15 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 17 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
-| 18 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 19 | [Yati](http://twitter.com/search?q=Yati) | N/A |
-| 20 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 22 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 23 | [Kafir](http://twitter.com/search?q=Kafir) | N/A |
-| 24 | [Lidah](http://twitter.com/search?q=Lidah) | N/A |
-| 25 | [Sumbar](http://twitter.com/search?q=Sumbar) | N/A |
-| 26 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 27 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 28 | [Manipulatif](http://twitter.com/search?q=Manipulatif) | N/A |
-| 29 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 30 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 31 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
-| 32 | [#태용이와_툥프들의_사랑이론](http://twitter.com/search?q=%23%ed%83%9c%ec%9a%a9%ec%9d%b4%ec%99%80_%ed%88%a5%ed%94%84%eb%93%a4%ec%9d%98_%ec%82%ac%eb%9e%91%ec%9d%b4%eb%a1%a0) | N/A |
-| 33 | [#My1stLoveTheory](http://twitter.com/search?q=%23My1stLoveTheory) | N/A |
-| 34 | [#WANGZIHAO](http://twitter.com/search?q=%23WANGZIHAO) | N/A |
-| 35 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 36 | [#RollingLoudThailand2023](http://twitter.com/search?q=%23RollingLoudThailand2023) | N/A |
-| 37 | [#UNFORGIVEN_DustyAmber](http://twitter.com/search?q=%23UNFORGIVEN_DustyAmber) | N/A |
-| 38 | [#Dear_My_Cravity](http://twitter.com/search?q=%23Dear_My_Cravity) | N/A |
-| 39 | [#앞으로도_반짝일_크래비티_3주년](http://twitter.com/search?q=%23%ec%95%9e%ec%9c%bc%eb%a1%9c%eb%8f%84_%eb%b0%98%ec%a7%9d%ec%9d%bc_%ed%81%ac%eb%9e%98%eb%b9%84%ed%8b%b0_3%ec%a3%bc%eb%85%84) | N/A |
-| 40 | [#왕즈하오](http://twitter.com/search?q=%23%ec%99%95%ec%a6%88%ed%95%98%ec%98%a4) | N/A |
-| 41 | [#TheClickExperience](http://twitter.com/search?q=%23TheClickExperience) | N/A |
-| 42 | [#TrueToLoveEP2](http://twitter.com/search?q=%23TrueToLoveEP2) | N/A |
-| 43 | [#ChriStory](http://twitter.com/search?q=%23ChriStory) | N/A |
-| 44 | [#bbrightvc](http://twitter.com/search?q=%23bbrightvc) | N/A |
-| 45 | [#AwesomeNightography](http://twitter.com/search?q=%23AwesomeNightography) | N/A |
-| 46 | [#ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | #ไบร์ทวิน is a hashtag used on social media in Thailand. It translates to "Bright Win" and is used to express encouragement and support for someone or something. |
-| 47 | [#BUKBERVIRTUALUN1TY](http://twitter.com/search?q=%23BUKBERVIRTUALUN1TY) | N/A |
-| 48 | [#SummerExplorationxMileApo](http://twitter.com/search?q=%23SummerExplorationxMileApo) | N/A |
-| 49 | [#LESSERAFIM_UNFORGIVEN](http://twitter.com/search?q=%23LESSERAFIM_UNFORGIVEN) | N/A |
-| 50 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 9 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 11 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [Yati](http://twitter.com/search?q=Yati) | N/A |
+| 14 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
+| 15 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
+| 16 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 17 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
+| 18 | [manteb nih ps-08](http://twitter.com/search?q=manteb+nih+ps-08) | N/A |
+| 19 | [ps sang patriot](http://twitter.com/search?q=ps+sang+patriot) | N/A |
+| 20 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 22 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
+| 23 | [stasiun gambir](http://twitter.com/search?q=stasiun+gambir) | N/A |
+| 24 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 25 | [Wasit](http://twitter.com/search?q=Wasit) | N/A |
+| 26 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 27 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [Beauty Is Me](http://twitter.com/search?q=Beauty+Is+Me) | N/A |
+| 31 | [jakarta butuh cuti](http://twitter.com/search?q=jakarta+butuh+cuti) | N/A |
+| 32 | [junhoe in bora deborah](http://twitter.com/search?q=junhoe+in+bora+deborah) | N/A |
+| 33 | [Makin AWESOME](http://twitter.com/search?q=Makin+AWESOME) | N/A |
+| 34 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 35 | [Manipulatif](http://twitter.com/search?q=Manipulatif) | N/A |
+| 36 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
+| 37 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 38 | [D 30RB](http://twitter.com/search?q=D+30RB) | N/A |
+| 39 | [Paras](http://twitter.com/search?q=Paras) | N/A |
+| 40 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 41 | [ksad dudung ar](http://twitter.com/search?q=ksad+dudung+ar) | N/A |
+| 42 | [FOOD MARKET](http://twitter.com/search?q=FOOD+MARKET) | N/A |
+| 43 | [MC Johnny](http://twitter.com/search?q=MC+Johnny) | N/A |
+| 44 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
+| 45 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 46 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
+| 47 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 48 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
 
 
 

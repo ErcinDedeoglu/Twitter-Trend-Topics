@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-13 19:16:45 UTC`
+📆 Last Updated: `2023-04-13 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#plkpl](http://twitter.com/search?q=%23plkpl) | N/A |
-| 2 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 3 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
-| 4 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 5 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
-| 6 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 7 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 8 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 9 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 10 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 11 | [FORZA LECH](http://twitter.com/search?q=FORZA+LECH) | N/A |
-| 12 | [Fiorentiny](http://twitter.com/search?q=Fiorentiny) | N/A |
-| 13 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 14 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 15 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 16 | [GOATS](http://twitter.com/search?q=GOATS) | N/A |
-| 17 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 18 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 19 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 20 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
-| 21 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 22 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 23 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 24 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 25 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 26 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
-| 27 | [Kujda](http://twitter.com/search?q=Kujda) | N/A |
-| 28 | [Dzik](http://twitter.com/search?q=Dzik) | N/A |
-| 29 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 30 | [jakubiak](http://twitter.com/search?q=jakubiak) | N/A |
-| 31 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 32 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 33 | [Vincent](http://twitter.com/search?q=Vincent) | N/A |
-| 34 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 35 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
-| 36 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 37 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 38 | [Olczyk](http://twitter.com/search?q=Olczyk) | N/A |
-| 39 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
-| 40 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
-| 41 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
-| 42 | [Diduszko](http://twitter.com/search?q=Diduszko) | N/A |
-| 43 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 44 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
-| 45 | [Minister Rau](http://twitter.com/search?q=Minister+Rau) | N/A |
-| 46 | [Cześć Ich Pamięci](http://twitter.com/search?q=Cze%c5%9b%c4%87+Ich+Pami%c4%99ci) | N/A |
-| 47 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 48 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 49 | [Testnet Foxes](http://twitter.com/search?q=Testnet+Foxes) | N/A |
-| 50 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 2 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
+| 3 | [#LCHFIO](http://twitter.com/search?q=%23LCHFIO) | N/A |
+| 4 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 5 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 6 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
+| 7 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 8 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 9 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 10 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 11 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 12 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 13 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 14 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 15 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
+| 16 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 17 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 18 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 19 | [Satka](http://twitter.com/search?q=Satka) | N/A |
+| 20 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
+| 21 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 23 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
+| 24 | [Gwardii Narodowej](http://twitter.com/search?q=Gwardii+Narodowej) | N/A |
+| 25 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 26 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 27 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 28 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 29 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 30 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 31 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 32 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 33 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 34 | [jakubiak](http://twitter.com/search?q=jakubiak) | N/A |
+| 35 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
+| 36 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
+| 37 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 38 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
+| 39 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 40 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 41 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
+| 42 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 43 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 44 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
+| 45 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 46 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 47 | [Olczyk](http://twitter.com/search?q=Olczyk) | N/A |
+| 48 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
+| 49 | [Kujda](http://twitter.com/search?q=Kujda) | N/A |
+| 50 | [Minister Rau](http://twitter.com/search?q=Minister+Rau) | N/A |
 
 
 

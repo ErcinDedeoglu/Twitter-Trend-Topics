@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-13 19:17:11 UTC`
+📆 Last Updated: `2023-04-13 20:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 2 | [#NCPH2023](http://twitter.com/search?q=%23NCPH2023) | N/A |
-| 3 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 4 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 3 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 4 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
 | 5 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 6 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 7 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 9 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 10 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 11 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 12 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 13 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 14 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 15 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
-| 16 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 17 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 18 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 19 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 20 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 21 | [Springs](http://twitter.com/search?q=Springs) | N/A |
-| 22 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 23 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 24 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 25 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
-| 26 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 27 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 28 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
-| 29 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
-| 30 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
-| 31 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
-| 32 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 33 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 34 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 35 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 36 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 37 | [Bleier](http://twitter.com/search?q=Bleier) | N/A |
-| 38 | [Thune](http://twitter.com/search?q=Thune) | N/A |
-| 39 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 40 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 41 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 42 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
-| 43 | [Taker](http://twitter.com/search?q=Taker) | N/A |
-| 44 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
-| 45 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
-| 46 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
-| 47 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 48 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
-| 49 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
-| 50 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 6 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 7 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
+| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 9 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
+| 10 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 11 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 12 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 13 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 15 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 16 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 17 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 18 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 19 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 20 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 21 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 22 | [Adley](http://twitter.com/search?q=Adley) | N/A |
+| 23 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 24 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 25 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 26 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 27 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 28 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 29 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 30 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 31 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 32 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 33 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 34 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 35 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
+| 36 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 38 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
+| 39 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 40 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 41 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
+| 42 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 43 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 44 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 45 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
+| 46 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 47 | [Airman](http://twitter.com/search?q=Airman) | N/A |
+| 48 | [Chief Keef](http://twitter.com/search?q=Chief+Keef) | N/A |
+| 49 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
+| 50 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amritsar
 
-📆 Last Updated: `2023-04-13 19:17:08 UTC`
+📆 Last Updated: `2023-04-13 20:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AmbedkarJayanti2023](http://twitter.com/search?q=%23AmbedkarJayanti2023) | N/A |
-| 2 | [#PBKSvsGT](http://twitter.com/search?q=%23PBKSvsGT) | N/A |
+| 1 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 2 | [#AmbedkarJayanti2023](http://twitter.com/search?q=%23AmbedkarJayanti2023) | N/A |
 | 3 | [#JaiBhim](http://twitter.com/search?q=%23JaiBhim) | N/A |
-| 4 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
-| 5 | [#AskStar](http://twitter.com/search?q=%23AskStar) | N/A |
-| 6 | [B Cutting](http://twitter.com/search?q=B+Cutting) | N/A |
-| 7 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 8 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
-| 9 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 10 | [Gujarat Titans](http://twitter.com/search?q=Gujarat+Titans) | Gujarat Titans is a professional kabaddi team based in Ahmedabad, Gujarat, India. The team competes in the Pro Kabaddi League, a professional kabaddi league in India. The name "Gujarat Titans" is derived from the state of Gujarat and its association with the ancient Indian sport of kabaddi. In English, it means "Titans of Gujarat". |
-| 11 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 12 | [Mohit Sharma](http://twitter.com/search?q=Mohit+Sharma) | N/A |
-| 13 | [David W](http://twitter.com/search?q=David+W) | N/A |
-| 14 | [आदित्य राणा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
-| 15 | [Rashid K](http://twitter.com/search?q=Rashid+K) | N/A |
-| 16 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 17 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
-| 18 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 19 | [Amit M](http://twitter.com/search?q=Amit+M) | N/A |
-| 20 | [Bihu](http://twitter.com/search?q=Bihu) | N/A |
-| 21 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 22 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 23 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
-| 24 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
-| 25 | [Yogi](http://twitter.com/search?q=Yogi) | N/A |
-| 26 | [Vikas Dubey](http://twitter.com/search?q=Vikas+Dubey) | N/A |
-| 27 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 28 | [4 Wickets](http://twitter.com/search?q=4+Wickets) | N/A |
-| 29 | [PINNACLE OF INDIAN CINEMA YASH](http://twitter.com/search?q=PINNACLE+OF+INDIAN+CINEMA+YASH) | N/A |
-| 30 | [बाबासाहेब आंबेडकर](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac+%e0%a4%86%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 31 | [अखिलेश यादव](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 32 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 33 | [Relationships - 0](http://twitter.com/search?q=Relationships+-+0) | N/A |
-| 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 35 | [WE LUV U HARSHADCHOPDA](http://twitter.com/search?q=WE+LUV+U+HARSHADCHOPDA) | N/A |
-| 36 | [पंजाब किंग्स](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%95%e0%a4%bf%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b8) | N/A |
-| 37 | [इंडिया मुस्लिम](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
-| 38 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
-| 39 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
-| 40 | [Kapil Sharma](http://twitter.com/search?q=Kapil+Sharma) | N/A |
-| 41 | [Atiq](http://twitter.com/search?q=Atiq) | N/A |
-| 42 | [Criminals](http://twitter.com/search?q=Criminals) | N/A |
-| 43 | [Mahua](http://twitter.com/search?q=Mahua) | N/A |
-| 44 | [अंबेडकर जयंती](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 45 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 46 | [मोटर साइकिल](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%9f%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%87%e0%a4%95%e0%a4%bf%e0%a4%b2) | N/A |
-| 47 | [#MashalKrantiGwalior](http://twitter.com/search?q=%23MashalKrantiGwalior) | N/A |
-| 48 | [#TamilNewYear2023](http://twitter.com/search?q=%23TamilNewYear2023) | N/A |
-| 49 | [#தமிழ்புத்தாண்டு](http://twitter.com/search?q=%23%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d%e0%ae%aa%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81) | N/A |
+| 4 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 5 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 6 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 8 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 10 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
+| 11 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 12 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 13 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 14 | [B Cutting](http://twitter.com/search?q=B+Cutting) | N/A |
+| 15 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
+| 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 17 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 18 | [Mohit Sharma](http://twitter.com/search?q=Mohit+Sharma) | N/A |
+| 19 | [David W](http://twitter.com/search?q=David+W) | N/A |
+| 20 | [आदित्य राणा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
+| 21 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
+| 22 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 23 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 24 | [Rashid K](http://twitter.com/search?q=Rashid+K) | N/A |
+| 25 | [Amit M](http://twitter.com/search?q=Amit+M) | N/A |
+| 26 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 27 | [Indian Constitution](http://twitter.com/search?q=Indian+Constitution) | N/A |
+| 28 | [Yogi](http://twitter.com/search?q=Yogi) | N/A |
+| 29 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
+| 30 | [Rabada](http://twitter.com/search?q=Rabada) | N/A |
+| 31 | [4 Wickets](http://twitter.com/search?q=4+Wickets) | N/A |
+| 32 | [PINNACLE OF INDIAN CINEMA YASH](http://twitter.com/search?q=PINNACLE+OF+INDIAN+CINEMA+YASH) | N/A |
+| 33 | [बाबासाहेब आंबेडकर](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac+%e0%a4%86%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 34 | [Vikas Dubey](http://twitter.com/search?q=Vikas+Dubey) | N/A |
+| 35 | [अखिलेश यादव](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 36 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 37 | [Relationships - 0](http://twitter.com/search?q=Relationships+-+0) | N/A |
+| 38 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
+| 39 | [अंबेडकर जयंती](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 40 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
+| 41 | [WE LUV U HARSHADCHOPDA](http://twitter.com/search?q=WE+LUV+U+HARSHADCHOPDA) | N/A |
+| 42 | [इंडिया मुस्लिम](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
+| 43 | [Kapil Sharma](http://twitter.com/search?q=Kapil+Sharma) | N/A |
+| 44 | [Hardik Pandya](http://twitter.com/search?q=Hardik+Pandya) | N/A |
+| 45 | [Mohali](http://twitter.com/search?q=Mohali) | N/A |
+| 46 | [Happy Baisakhi](http://twitter.com/search?q=Happy+Baisakhi) | N/A |
+| 47 | [Atiq](http://twitter.com/search?q=Atiq) | N/A |
+| 48 | [Criminal](http://twitter.com/search?q=Criminal) | N/A |
+| 49 | [Rana](http://twitter.com/search?q=Rana) | N/A |
 
 
 

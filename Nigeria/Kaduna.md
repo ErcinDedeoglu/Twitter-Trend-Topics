@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-13 19:17:01 UTC`
+📆 Last Updated: `2023-04-13 20:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
-| 2 | [#InfinixHot30Concert](http://twitter.com/search?q=%23InfinixHot30Concert) | N/A |
-| 3 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 4 | [#JoyBlackSoap](http://twitter.com/search?q=%23JoyBlackSoap) | N/A |
-| 5 | [#Jawwar23](http://twitter.com/search?q=%23Jawwar23) | N/A |
-| 6 | [#YellowGold](http://twitter.com/search?q=%23YellowGold) | N/A |
-| 7 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 8 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
-| 9 | [Abike Dabiri](http://twitter.com/search?q=Abike+Dabiri) | N/A |
-| 10 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 12 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 13 | [Frames](http://twitter.com/search?q=Frames) | N/A |
-| 14 | [Influential](http://twitter.com/search?q=Influential) | N/A |
-| 15 | [British Government](http://twitter.com/search?q=British+Government) | N/A |
-| 16 | [Senegalese](http://twitter.com/search?q=Senegalese) | N/A |
-| 17 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 18 | [Tangled](http://twitter.com/search?q=Tangled) | N/A |
-| 19 | [Groot](http://twitter.com/search?q=Groot) | N/A |
-| 20 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 21 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 22 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
-| 23 | [Jollof](http://twitter.com/search?q=Jollof) | N/A |
-| 24 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
-| 25 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 26 | [The British](http://twitter.com/search?q=The+British) | N/A |
-| 27 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 28 | [Zanku](http://twitter.com/search?q=Zanku) | N/A |
-| 29 | [Omo Ologo](http://twitter.com/search?q=Omo+Ologo) | N/A |
-| 30 | [50 HTML](http://twitter.com/search?q=50+HTML) | N/A |
-| 31 | [CSS & JavaScript](http://twitter.com/search?q=CSS+%26+JavaScript) | N/A |
-| 32 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 33 | [Where is Tinubu](http://twitter.com/search?q=Where+is+Tinubu) | N/A |
-| 34 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 35 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 36 | [#roadtoicc](http://twitter.com/search?q=%23roadtoicc) | N/A |
-| 37 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 38 | [#Nigeriainfofmibtd](http://twitter.com/search?q=%23Nigeriainfofmibtd) | N/A |
-| 39 | [#CountDown2May29th](http://twitter.com/search?q=%23CountDown2May29th) | N/A |
-| 40 | [#CircueAppLaunch](http://twitter.com/search?q=%23CircueAppLaunch) | N/A |
-| 41 | [#Thebar](http://twitter.com/search?q=%23Thebar) | N/A |
-| 42 | [#TIME100](http://twitter.com/search?q=%23TIME100) | N/A |
-| 43 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 44 | [#BidenVisit](http://twitter.com/search?q=%23BidenVisit) | N/A |
-| 45 | [#DrNandipha](http://twitter.com/search?q=%23DrNandipha) | N/A |
-| 46 | [#RealMadrid](http://twitter.com/search?q=%23RealMadrid) | N/A |
-| 47 | [#GrownByBigIcee](http://twitter.com/search?q=%23GrownByBigIcee) | N/A |
+| 1 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 2 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 3 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 4 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 5 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 6 | [#Jawwar23](http://twitter.com/search?q=%23Jawwar23) | N/A |
+| 7 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 9 | [#YellowGold](http://twitter.com/search?q=%23YellowGold) | N/A |
+| 10 | [#InfinixHot30Concert](http://twitter.com/search?q=%23InfinixHot30Concert) | N/A |
+| 11 | [#JoyBlackSoap](http://twitter.com/search?q=%23JoyBlackSoap) | N/A |
+| 12 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 13 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 14 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
+| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 16 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 17 | [Christy O](http://twitter.com/search?q=Christy+O) | N/A |
+| 18 | [Frames](http://twitter.com/search?q=Frames) | N/A |
+| 19 | [Abike](http://twitter.com/search?q=Abike) | N/A |
+| 20 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 21 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 22 | [Invictus Obi](http://twitter.com/search?q=Invictus+Obi) | N/A |
+| 23 | [Senegalese](http://twitter.com/search?q=Senegalese) | N/A |
+| 24 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 25 | [Time 100](http://twitter.com/search?q=Time+100) | N/A |
+| 26 | [Influential](http://twitter.com/search?q=Influential) | N/A |
+| 27 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
+| 28 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 29 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 30 | [Groot](http://twitter.com/search?q=Groot) | N/A |
+| 31 | [Tangled](http://twitter.com/search?q=Tangled) | N/A |
+| 32 | [British Government](http://twitter.com/search?q=British+Government) | N/A |
+| 33 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 34 | [Pablo Escobar](http://twitter.com/search?q=Pablo+Escobar) | N/A |
+| 35 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 36 | [Source](http://twitter.com/search?q=Source) | N/A |
+| 37 | [Jollof](http://twitter.com/search?q=Jollof) | N/A |
+| 38 | [Maggi](http://twitter.com/search?q=Maggi) | N/A |
+| 39 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 40 | [Zanku](http://twitter.com/search?q=Zanku) | N/A |
+| 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 42 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 43 | [Where is Tinubu](http://twitter.com/search?q=Where+is+Tinubu) | N/A |
+| 44 | [#roadtoicc](http://twitter.com/search?q=%23roadtoicc) | N/A |
+| 45 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
+| 46 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 47 | [#Nigeriainfofmibtd](http://twitter.com/search?q=%23Nigeriainfofmibtd) | N/A |
+| 48 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 49 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
 
 
 

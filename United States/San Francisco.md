@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-13 19:17:18 UTC`
+📆 Last Updated: `2023-04-13 20:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Emeryville](http://twitter.com/search?q=Emeryville) | N/A |
-| 2 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 5 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
-| 6 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
-| 7 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 8 | [Dracula](http://twitter.com/search?q=Dracula) | N/A |
-| 9 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 10 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 11 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 12 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 13 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 14 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 15 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 17 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 18 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 19 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 20 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 21 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 22 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 23 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 24 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 25 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 26 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 27 | [Springs](http://twitter.com/search?q=Springs) | N/A |
-| 28 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 29 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 30 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 31 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 32 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
-| 33 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 34 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 35 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
-| 36 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
-| 37 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
-| 38 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 39 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 1 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 2 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 3 | [Emeryville](http://twitter.com/search?q=Emeryville) | N/A |
+| 4 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
+| 5 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 7 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 9 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 10 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
+| 11 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 12 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 13 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
+| 14 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 15 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 16 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 17 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 18 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 19 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 20 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 22 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 23 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 24 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 25 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 26 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 27 | [Adley](http://twitter.com/search?q=Adley) | N/A |
+| 28 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 29 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 30 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 31 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 32 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 33 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 34 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 35 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 37 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 38 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 39 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 40 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 41 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 42 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 43 | [Bleier](http://twitter.com/search?q=Bleier) | N/A |
-| 44 | [Thune](http://twitter.com/search?q=Thune) | N/A |
-| 45 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 46 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 47 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
-| 48 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 49 | [Taker](http://twitter.com/search?q=Taker) | N/A |
-| 50 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 41 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
+| 44 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 45 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 46 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 47 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 48 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 49 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
+| 50 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
 
 
 

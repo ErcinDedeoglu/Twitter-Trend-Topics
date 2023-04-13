@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-04-13 19:17:10 UTC`
+📆 Last Updated: `2023-04-13 20:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ArkeoSanataBaharGelecek](http://twitter.com/search?q=ArkeoSanataBaharGelecek) | N/A |
-| 2 | [#KamuMuhendisininTalebi](http://twitter.com/search?q=%23KamuMuhendisininTalebi) | N/A |
-| 3 | [#OtoSansür](http://twitter.com/search?q=%23OtoSans%c3%bcr) | N/A |
-| 4 | [#KHKlıTarihiSeçimde](http://twitter.com/search?q=%23KHKl%c4%b1TarihiSe%c3%a7imde) | N/A |
-| 5 | [AlparslanHocaya CezaeviZulmü](http://twitter.com/search?q=AlparslanHocaya+CezaeviZulm%c3%bc) | N/A |
-| 6 | [FAHRİ ÖĞRETİCİYE KADRO](http://twitter.com/search?q=FAHR%c4%b0+%c3%96%c4%9eRET%c4%b0C%c4%b0YE+KADRO) | N/A |
-| 7 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
-| 8 | [BayKemal İibfyeSÖZver](http://twitter.com/search?q=BayKemal+%c4%b0ibfyeS%c3%96Zver) | N/A |
-| 9 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
-| 10 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
-| 11 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
-| 12 | [AKPTaşeron İşçisiniKandırdı](http://twitter.com/search?q=AKPTa%c5%9feron+%c4%b0%c5%9f%c3%a7isiniKand%c4%b1rd%c4%b1) | N/A |
-| 13 | [Madara](http://twitter.com/search?q=Madara) | N/A |
-| 14 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 15 | [KararSenin SÖZSenin](http://twitter.com/search?q=KararSenin+S%c3%96ZSenin) | N/A |
-| 16 | [Kemal Uçar](http://twitter.com/search?q=Kemal+U%c3%a7ar) | N/A |
-| 17 | [Motley](http://twitter.com/search?q=Motley) | N/A |
-| 18 | [Guduric](http://twitter.com/search?q=Guduric) | N/A |
-| 19 | [Kamu Mühendisleri](http://twitter.com/search?q=Kamu+M%c3%bchendisleri) | N/A |
-| 20 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 21 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
-| 22 | [BuseKorkmaz PrimiBırakmaz](http://twitter.com/search?q=BuseKorkmaz+PrimiB%c4%b1rakmaz) | N/A |
-| 23 | [Erdoğan Dedi](http://twitter.com/search?q=Erdo%c4%9fan+Dedi) | N/A |
-| 24 | [Fetöcü](http://twitter.com/search?q=Fet%c3%b6c%c3%bc) | N/A |
-| 25 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
-| 26 | [Arina](http://twitter.com/search?q=Arina) | N/A |
-| 27 | [Durumu](http://twitter.com/search?q=Durumu) | N/A |
-| 28 | [Muharrem Erdoğan](http://twitter.com/search?q=Muharrem+Erdo%c4%9fan) | N/A |
-| 29 | [CEV Şampiyonlar Ligi](http://twitter.com/search?q=CEV+%c5%9eampiyonlar+Ligi) | N/A |
-| 30 | [Küffar](http://twitter.com/search?q=K%c3%bcffar) | N/A |
-| 31 | [Selo](http://twitter.com/search?q=Selo) | N/A |
-| 32 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
-| 33 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
-| 34 | [Songül](http://twitter.com/search?q=Song%c3%bcl) | N/A |
-| 35 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 36 | [Eczacıbaşı](http://twitter.com/search?q=Eczac%c4%b1ba%c5%9f%c4%b1) | N/A |
-| 37 | [Seninkini](http://twitter.com/search?q=Seninkini) | N/A |
-| 38 | [Hayırlı Akşamlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Ak%c5%9famlar) | N/A |
-| 39 | [Mahkumun Umudu Kılıçdaroğlu](http://twitter.com/search?q=Mahkumun+Umudu+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
-| 40 | [Mutlu Akşamlar](http://twitter.com/search?q=Mutlu+Ak%c5%9famlar) | N/A |
-| 41 | [Silah](http://twitter.com/search?q=Silah) | N/A |
-| 42 | [İlçe Başkanımız](http://twitter.com/search?q=%c4%b0l%c3%a7e+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 43 | [Cem Saygı](http://twitter.com/search?q=Cem+Sayg%c4%b1) | N/A |
-| 44 | [Soruyu](http://twitter.com/search?q=Soruyu) | N/A |
-| 45 | [CbPomemde YasEsnetin](http://twitter.com/search?q=CbPomemde+YasEsnetin) | N/A |
-| 46 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 47 | [Bakan](http://twitter.com/search?q=Bakan) | N/A |
-| 48 | [Beylikdüzü](http://twitter.com/search?q=Beylikd%c3%bcz%c3%bc) | N/A |
+| 1 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
+| 2 | [#2000LereAdilYasa](http://twitter.com/search?q=%232000LereAdilYasa) | N/A |
+| 3 | [#KHKlıTarihiSeçimde](http://twitter.com/search?q=%23KHKl%c4%b1TarihiSe%c3%a7imde) | N/A |
+| 4 | [ArkeoSanataBaharGelecek](http://twitter.com/search?q=ArkeoSanataBaharGelecek) | N/A |
+| 5 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
+| 6 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 7 | [AlparslanHocaya CezaeviZulmü](http://twitter.com/search?q=AlparslanHocaya+CezaeviZulm%c3%bc) | N/A |
+| 8 | [FAHRİ ÖĞRETİCİYE KADRO](http://twitter.com/search?q=FAHR%c4%b0+%c3%96%c4%9eRET%c4%b0C%c4%b0YE+KADRO) | N/A |
+| 9 | [Guduric](http://twitter.com/search?q=Guduric) | N/A |
+| 10 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
+| 11 | [NiceÖdüllere AfraSaraçoğlu](http://twitter.com/search?q=Nice%c3%96d%c3%bcllere+AfraSara%c3%a7o%c4%9flu) | N/A |
+| 12 | [Fenerbahçe Beko](http://twitter.com/search?q=Fenerbah%c3%a7e+Beko) | N/A |
+| 13 | [BayKemal İibfyeSÖZver](http://twitter.com/search?q=BayKemal+%c4%b0ibfyeS%c3%96Zver) | N/A |
+| 14 | [Calathes](http://twitter.com/search?q=Calathes) | N/A |
+| 15 | [İŞİMİZ HİZMET GÜCÜMÜZ MİLLET](http://twitter.com/search?q=%c4%b0%c5%9e%c4%b0M%c4%b0Z+H%c4%b0ZMET+G%c3%9cC%c3%9cM%c3%9cZ+M%c4%b0LLET) | N/A |
+| 16 | [Madara](http://twitter.com/search?q=Madara) | N/A |
+| 17 | [Hüsnü Bozkurt](http://twitter.com/search?q=H%c3%bcsn%c3%bc+Bozkurt) | N/A |
+| 18 | [AKPTaşeron İşçisiniKandırdı](http://twitter.com/search?q=AKPTa%c5%9feron+%c4%b0%c5%9f%c3%a7isiniKand%c4%b1rd%c4%b1) | N/A |
+| 19 | [Campazzo](http://twitter.com/search?q=Campazzo) | N/A |
+| 20 | [KararSenin SÖZSenin](http://twitter.com/search?q=KararSenin+S%c3%96ZSenin) | N/A |
+| 21 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
+| 22 | [Motley](http://twitter.com/search?q=Motley) | N/A |
+| 23 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 24 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 25 | [Kemal Uçar](http://twitter.com/search?q=Kemal+U%c3%a7ar) | N/A |
+| 26 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
+| 27 | [Terzic](http://twitter.com/search?q=Terzic) | N/A |
+| 28 | [Nadia](http://twitter.com/search?q=Nadia) | N/A |
+| 29 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 30 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 31 | [Kamu Mühendisleri](http://twitter.com/search?q=Kamu+M%c3%bchendisleri) | N/A |
+| 32 | [Kızılyıldız](http://twitter.com/search?q=K%c4%b1z%c4%b1ly%c4%b1ld%c4%b1z) | N/A |
+| 33 | [Muharrem Erdoğan](http://twitter.com/search?q=Muharrem+Erdo%c4%9fan) | N/A |
+| 34 | [Fetöcü](http://twitter.com/search?q=Fet%c3%b6c%c3%bc) | N/A |
+| 35 | [BuseKorkmaz PrimiBırakmaz](http://twitter.com/search?q=BuseKorkmaz+PrimiB%c4%b1rakmaz) | N/A |
+| 36 | [Erdoğan Dedi](http://twitter.com/search?q=Erdo%c4%9fan+Dedi) | N/A |
+| 37 | [Arabaya](http://twitter.com/search?q=Arabaya) | N/A |
+| 38 | [Songül](http://twitter.com/search?q=Song%c3%bcl) | N/A |
+| 39 | [Masuaku](http://twitter.com/search?q=Masuaku) | Masuaku is a Japanese surname. It is derived from the Japanese words masu (to increase) and akuru (to be bright). The name can be translated to mean "one who brings brightness and prosperity". |
+| 40 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 41 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
+| 42 | [Sadi](http://twitter.com/search?q=Sadi) | N/A |
+| 43 | [Durumu](http://twitter.com/search?q=Durumu) | N/A |
+| 44 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |
+| 45 | [Eşref](http://twitter.com/search?q=E%c5%9fref) | N/A |
+| 46 | [CEV Şampiyonlar Ligi](http://twitter.com/search?q=CEV+%c5%9eampiyonlar+Ligi) | N/A |
+| 47 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 48 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
 
 
 

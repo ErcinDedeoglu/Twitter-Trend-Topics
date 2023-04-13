@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-13 19:16:44 UTC`
+📆 Last Updated: `2023-04-13 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
-| 2 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 3 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 2 | [#LCHFIO](http://twitter.com/search?q=%23LCHFIO) | N/A |
+| 3 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
 | 4 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
-| 5 | [#LCHFIO](http://twitter.com/search?q=%23LCHFIO) | N/A |
-| 6 | [FORZA LECH](http://twitter.com/search?q=FORZA+LECH) | N/A |
-| 7 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 8 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 9 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 10 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 11 | [Fiorentiny](http://twitter.com/search?q=Fiorentiny) | N/A |
-| 12 | [Gwardii Narodowej](http://twitter.com/search?q=Gwardii+Narodowej) | N/A |
-| 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 14 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 15 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 16 | [GOATS](http://twitter.com/search?q=GOATS) | N/A |
-| 17 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 18 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 19 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 20 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
-| 21 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 22 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 23 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 24 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 25 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 26 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
-| 27 | [Kujda](http://twitter.com/search?q=Kujda) | N/A |
-| 28 | [Dzik](http://twitter.com/search?q=Dzik) | N/A |
-| 29 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 30 | [jakubiak](http://twitter.com/search?q=jakubiak) | N/A |
-| 31 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 32 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 33 | [Vincent](http://twitter.com/search?q=Vincent) | N/A |
-| 34 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 35 | [Olczyk](http://twitter.com/search?q=Olczyk) | N/A |
-| 36 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
-| 37 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 38 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 39 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
-| 40 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
-| 41 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
-| 42 | [Diduszko](http://twitter.com/search?q=Diduszko) | N/A |
-| 43 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 44 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
-| 45 | [Minister Rau](http://twitter.com/search?q=Minister+Rau) | N/A |
-| 46 | [Cześć Ich Pamięci](http://twitter.com/search?q=Cze%c5%9b%c4%87+Ich+Pami%c4%99ci) | N/A |
-| 47 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 48 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 49 | [Testnet Foxes](http://twitter.com/search?q=Testnet+Foxes) | N/A |
+| 5 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 6 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 7 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 8 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 9 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 10 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 11 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 12 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 13 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 14 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
+| 15 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 16 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 17 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 18 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 19 | [Satka](http://twitter.com/search?q=Satka) | N/A |
+| 20 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
+| 21 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 22 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
+| 23 | [Gwardii Narodowej](http://twitter.com/search?q=Gwardii+Narodowej) | N/A |
+| 24 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 25 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 26 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 27 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 28 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 29 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 30 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 31 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 32 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 33 | [jakubiak](http://twitter.com/search?q=jakubiak) | N/A |
+| 34 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
+| 35 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
+| 36 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 37 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
+| 38 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 39 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 40 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
+| 41 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 42 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 43 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
+| 44 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 45 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 46 | [Olczyk](http://twitter.com/search?q=Olczyk) | N/A |
+| 47 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
+| 48 | [Kujda](http://twitter.com/search?q=Kujda) | N/A |
+| 49 | [Minister Rau](http://twitter.com/search?q=Minister+Rau) | N/A |
 
 
 

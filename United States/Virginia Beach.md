@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-04-13 19:17:19 UTC`
+📆 Last Updated: `2023-04-13 20:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 2 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 3 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 4 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 6 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 7 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 8 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
-| 9 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 10 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 11 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 12 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
-| 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 14 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 15 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 16 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
-| 17 | [Springs](http://twitter.com/search?q=Springs) | N/A |
-| 18 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 19 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 20 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 21 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 22 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
-| 23 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
-| 24 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
-| 25 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 26 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
-| 27 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
-| 28 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
-| 29 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 30 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 31 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 32 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 33 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 34 | [Bleier](http://twitter.com/search?q=Bleier) | N/A |
-| 35 | [Thune](http://twitter.com/search?q=Thune) | N/A |
-| 36 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 37 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
-| 38 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
-| 39 | [#pcbb](http://twitter.com/search?q=%23pcbb) | N/A |
-| 40 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 41 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 42 | [Taker](http://twitter.com/search?q=Taker) | N/A |
-| 43 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 44 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
-| 45 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
-| 46 | [Kim English](http://twitter.com/search?q=Kim+English) | N/A |
-| 47 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
-| 48 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
-| 49 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 1 | [Orioles](http://twitter.com/search?q=Orioles) | N/A |
+| 2 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 3 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 4 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
+| 5 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 6 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
+| 7 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 8 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 9 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 10 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 13 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 14 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 15 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 16 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 17 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 18 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 19 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 20 | [Adley](http://twitter.com/search?q=Adley) | N/A |
+| 21 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 22 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
+| 23 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 24 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 25 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 26 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 27 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 28 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 29 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 31 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 32 | [Kluber](http://twitter.com/search?q=Kluber) | N/A |
+| 33 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 34 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 36 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
+| 37 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
+| 38 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 39 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
+| 40 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 41 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 42 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 43 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 44 | [Austin Voth](http://twitter.com/search?q=Austin+Voth) | N/A |
+| 45 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 46 | [Airman](http://twitter.com/search?q=Airman) | N/A |
+| 47 | [Chief Keef](http://twitter.com/search?q=Chief+Keef) | N/A |
+| 48 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
+| 49 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
 
 
 

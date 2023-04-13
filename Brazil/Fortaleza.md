@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-04-13 19:16:43 UTC`
+📆 Last Updated: `2023-04-13 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
-| 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 3 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
-| 4 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
-| 5 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 6 | [Fener](http://twitter.com/search?q=Fener) | N/A |
-| 7 | [#atardeesua](http://twitter.com/search?q=%23atardeesua) | N/A |
-| 8 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 9 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
-| 10 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
-| 11 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 12 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 13 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 14 | [#europaleaguenaespn](http://twitter.com/search?q=%23europaleaguenaespn) | N/A |
-| 15 | [#DiadoBeijo](http://twitter.com/search?q=%23DiadoBeijo) | N/A |
-| 16 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 18 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 2 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
+| 3 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 4 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 5 | [#europaleaguenaespn](http://twitter.com/search?q=%23europaleaguenaespn) | N/A |
+| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 7 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 8 | [Sônia](http://twitter.com/search?q=S%c3%b4nia) | N/A |
+| 9 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
+| 10 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 11 | [#SHOWEXTRAGHOSTBR](http://twitter.com/search?q=%23SHOWEXTRAGHOSTBR) | N/A |
+| 12 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 13 | [#InsightOnRapture](http://twitter.com/search?q=%23InsightOnRapture) | N/A |
+| 14 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 15 | [#atardeesua](http://twitter.com/search?q=%23atardeesua) | N/A |
+| 16 | [Toddy](http://twitter.com/search?q=Toddy) | N/A |
+| 17 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 18 | [Fener](http://twitter.com/search?q=Fener) | N/A |
 | 19 | [Boal](http://twitter.com/search?q=Boal) | N/A |
-| 20 | [Devi](http://twitter.com/search?q=Devi) | N/A |
-| 21 | [Pilhado](http://twitter.com/search?q=Pilhado) | N/A |
-| 22 | [Ícaro Silva](http://twitter.com/search?q=%c3%8dcaro+Silva) | N/A |
-| 23 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 24 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 25 | [GABRIELA GUIMARÃES](http://twitter.com/search?q=GABRIELA+GUIMAR%c3%83ES) | N/A |
-| 26 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
-| 27 | [Macris](http://twitter.com/search?q=Macris) | N/A |
-| 28 | [Bajema](http://twitter.com/search?q=Bajema) | N/A |
-| 29 | [Toddy](http://twitter.com/search?q=Toddy) | N/A |
-| 30 | [Cano Pedro](http://twitter.com/search?q=Cano+Pedro) | N/A |
-| 31 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
-| 32 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
-| 33 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 34 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 35 | [IEM Rio](http://twitter.com/search?q=IEM+Rio) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 38 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 39 | [Al Gore](http://twitter.com/search?q=Al+Gore) | N/A |
-| 40 | [Thiago Carvalho](http://twitter.com/search?q=Thiago+Carvalho) | N/A |
-| 41 | [Jaime Júnior](http://twitter.com/search?q=Jaime+J%c3%banior) | N/A |
-| 42 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 43 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 44 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 45 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
-| 46 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 47 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 48 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 49 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 50 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 20 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
+| 21 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
+| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 23 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 24 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 25 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 26 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 27 | [Devi](http://twitter.com/search?q=Devi) | N/A |
+| 28 | [Pilhado](http://twitter.com/search?q=Pilhado) | N/A |
+| 29 | [Diário](http://twitter.com/search?q=Di%c3%a1rio) | N/A |
+| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 31 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 32 | [Suarez Pedro](http://twitter.com/search?q=Suarez+Pedro) | N/A |
+| 33 | [Douglas Costa](http://twitter.com/search?q=Douglas+Costa) | Douglas Costa is a Brazilian professional footballer who plays as a winger for Serie A club Juventus and the Brazil national team. His name is derived from his birthplace, the city of Douglas in the state of Santa Catarina, Brazil. In English, Douglas Costa means "from Douglas". |
+| 34 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 35 | [GABRIELA GUIMARÃES](http://twitter.com/search?q=GABRIELA+GUIMAR%c3%83ES) | N/A |
+| 36 | [Ícaro](http://twitter.com/search?q=%c3%8dcaro) | N/A |
+| 37 | [Drake & Josh](http://twitter.com/search?q=Drake+%26+Josh) | N/A |
+| 38 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 39 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 40 | [James Rodrigues](http://twitter.com/search?q=James+Rodrigues) | N/A |
+| 41 | [Bajema](http://twitter.com/search?q=Bajema) | N/A |
+| 42 | [Cano Pedro](http://twitter.com/search?q=Cano+Pedro) | N/A |
+| 43 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 44 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 45 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 46 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
+| 47 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
+| 48 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 49 | [Thiago Carvalho](http://twitter.com/search?q=Thiago+Carvalho) | N/A |
+| 50 | [Sul Global](http://twitter.com/search?q=Sul+Global) | N/A |
 
 
 
