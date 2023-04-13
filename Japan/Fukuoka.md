@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fukuoka
 
-📆 Last Updated: `2023-04-13 11:16:34 UTC`
+📆 Last Updated: `2023-04-13 12:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 2 | [#あなたの武器適性](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e6%ad%a6%e5%99%a8%e9%81%a9%e6%80%a7) | N/A |
-| 3 | [#正直出産ってどうだったか教えて](http://twitter.com/search?q=%23%e6%ad%a3%e7%9b%b4%e5%87%ba%e7%94%a3%e3%81%a3%e3%81%a6%e3%81%a9%e3%81%86%e3%81%a0%e3%81%a3%e3%81%9f%e3%81%8b%e6%95%99%e3%81%88%e3%81%a6) | N/A |
-| 4 | [ノーノー](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%8e%e3%83%bc) | N/A |
-| 5 | [リーガルハイ](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%ac%e3%83%ab%e3%83%8f%e3%82%a4) | N/A |
-| 6 | [#映画の中の忘れられないババア](http://twitter.com/search?q=%23%e6%98%a0%e7%94%bb%e3%81%ae%e4%b8%ad%e3%81%ae%e5%bf%98%e3%82%8c%e3%82%89%e3%82%8c%e3%81%aa%e3%81%84%e3%83%90%e3%83%90%e3%82%a2) | N/A |
-| 7 | [#お宝映像アワード](http://twitter.com/search?q=%23%e3%81%8a%e5%ae%9d%e6%98%a0%e5%83%8f%e3%82%a2%e3%83%af%e3%83%bc%e3%83%89) | N/A |
-| 8 | [お気に入りの武器](http://twitter.com/search?q=%e3%81%8a%e6%b0%97%e3%81%ab%e5%85%a5%e3%82%8a%e3%81%ae%e6%ad%a6%e5%99%a8) | N/A |
-| 9 | [マスターの正体](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 10 | [小林幸子](http://twitter.com/search?q=%e5%b0%8f%e6%9e%97%e5%b9%b8%e5%ad%90) | N/A |
-| 11 | [才能の持ち主](http://twitter.com/search?q=%e6%89%8d%e8%83%bd%e3%81%ae%e6%8c%81%e3%81%a1%e4%b8%bb) | N/A |
+| 1 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 2 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
+| 3 | [ケヤフェス](http://twitter.com/search?q=%e3%82%b1%e3%83%a4%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 4 | [#あなたの武器適性](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e6%ad%a6%e5%99%a8%e9%81%a9%e6%80%a7) | N/A |
+| 5 | [#戌神ころね4周年](http://twitter.com/search?q=%23%e6%88%8c%e7%a5%9e%e3%81%93%e3%82%8d%e3%81%ad4%e5%91%a8%e5%b9%b4) | N/A |
+| 6 | [#正直出産ってどうだったか教えて](http://twitter.com/search?q=%23%e6%ad%a3%e7%9b%b4%e5%87%ba%e7%94%a3%e3%81%a3%e3%81%a6%e3%81%a9%e3%81%86%e3%81%a0%e3%81%a3%e3%81%9f%e3%81%8b%e6%95%99%e3%81%88%e3%81%a6) | N/A |
+| 7 | [れおほー](http://twitter.com/search?q=%e3%82%8c%e3%81%8a%e3%81%bb%e3%83%bc) | N/A |
+| 8 | [#素のまんま](http://twitter.com/search?q=%23%e7%b4%a0%e3%81%ae%e3%81%be%e3%82%93%e3%81%be) | #素のまんま is a Japanese phrase that literally translates to "as is" or "just as it is". It is used to express that something should remain unchanged or unaltered. |
+| 9 | [マリニン](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8b%e3%83%b3) | マリニン is a type of Japanese candy made from maltose syrup and starch. It is usually shaped into small balls or cubes and has a sweet, chewy texture. The name comes from the Japanese words "mari" (ball) and "nin" (sticky). In English, it can be translated as "sticky ball candy". |
+| 10 | [SPYAIR](http://twitter.com/search?q=SPYAIR) | N/A |
+| 11 | [ノーノー](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%8e%e3%83%bc) | N/A |
 | 12 | [今井くん](http://twitter.com/search?q=%e4%bb%8a%e4%ba%95%e3%81%8f%e3%82%93) | N/A |
-| 13 | [柘植大丈夫](http://twitter.com/search?q=%e6%9f%98%e6%a4%8d%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
-| 14 | [危険球退場](http://twitter.com/search?q=%e5%8d%b1%e9%99%ba%e7%90%83%e9%80%80%e5%a0%b4) | N/A |
-| 15 | [エイモズ](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%a2%e3%82%ba) | N/A |
-| 16 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
-| 17 | [衆院通過](http://twitter.com/search?q=%e8%a1%86%e9%99%a2%e9%80%9a%e9%81%8e) | N/A |
-| 18 | [今井達也](http://twitter.com/search?q=%e4%bb%8a%e4%ba%95%e9%81%94%e4%b9%9f) | N/A |
-| 19 | [ブアカーオ](http://twitter.com/search?q=%e3%83%96%e3%82%a2%e3%82%ab%e3%83%bc%e3%82%aa) | N/A |
-| 20 | [リヴリー](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%83%aa%e3%83%bc) | N/A |
-| 21 | [なべりょー](http://twitter.com/search?q=%e3%81%aa%e3%81%b9%e3%82%8a%e3%82%87%e3%83%bc) | N/A |
-| 22 | [健康保険法改正案](http://twitter.com/search?q=%e5%81%a5%e5%ba%b7%e4%bf%9d%e9%99%ba%e6%b3%95%e6%94%b9%e6%ad%a3%e6%a1%88) | 健康保険法改正案 is a bill to revise the Health Insurance Law in Japan. It seeks to expand the scope of health insurance coverage and improve the quality of medical services. In English, it is known as the Health Insurance Law Amendment Bill. |
-| 23 | [ステラおばさん](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%a9%e3%81%8a%e3%81%b0%e3%81%95%e3%82%93) | N/A |
-| 24 | [柘植くん](http://twitter.com/search?q=%e6%9f%98%e6%a4%8d%e3%81%8f%e3%82%93) | N/A |
-| 25 | [チキンタツタ](http://twitter.com/search?q=%e3%83%81%e3%82%ad%e3%83%b3%e3%82%bf%e3%83%84%e3%82%bf) | N/A |
-| 26 | [直球破壊王子](http://twitter.com/search?q=%e7%9b%b4%e7%90%83%e7%a0%b4%e5%a3%8a%e7%8e%8b%e5%ad%90) | N/A |
-| 27 | [ミャクミャク様](http://twitter.com/search?q=%e3%83%9f%e3%83%a3%e3%82%af%e3%83%9f%e3%83%a3%e3%82%af%e6%a7%98) | N/A |
-| 28 | [ガッキー](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 29 | [メルセデス](http://twitter.com/search?q=%e3%83%a1%e3%83%ab%e3%82%bb%e3%83%87%e3%82%b9) | N/A |
-| 30 | [アルスラーン](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%b9%e3%83%a9%e3%83%bc%e3%83%b3) | N/A |
-| 31 | [ラプラス](http://twitter.com/search?q=%e3%83%a9%e3%83%97%e3%83%a9%e3%82%b9) | ラプラス is a Japanese word that means "laplace" or "laplacian". It is used to refer to a mathematical operator used in calculus and differential equations. In English, it is also known as the Laplace operator. |
-| 32 | [無痛分娩](http://twitter.com/search?q=%e7%84%a1%e7%97%9b%e5%88%86%e5%a8%a9) | N/A |
-| 33 | [なべりょホームラン](http://twitter.com/search?q=%e3%81%aa%e3%81%b9%e3%82%8a%e3%82%87%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
-| 34 | [門脇くん](http://twitter.com/search?q=%e9%96%80%e8%84%87%e3%81%8f%e3%82%93) | N/A |
-| 35 | [なーくん](http://twitter.com/search?q=%e3%81%aa%e3%83%bc%e3%81%8f%e3%82%93) | なーくん is a nickname for someone named Naoki. It is a combination of the person's name and the Japanese honorific suffix -kun, which is used to refer to young males in a friendly or familiar way. In English, it could be translated as "Naoki-kun". |
-| 36 | [会陰切開](http://twitter.com/search?q=%e4%bc%9a%e9%99%b0%e5%88%87%e9%96%8b) | N/A |
-| 37 | [クモナイ](http://twitter.com/search?q=%e3%82%af%e3%83%a2%e3%83%8a%e3%82%a4) | N/A |
-| 38 | [天ぷらの衣](http://twitter.com/search?q=%e5%a4%a9%e3%81%b7%e3%82%89%e3%81%ae%e8%a1%a3) | N/A |
-| 39 | [舞依ちゃん](http://twitter.com/search?q=%e8%88%9e%e4%be%9d%e3%81%a1%e3%82%83%e3%82%93) | "舞依ちゃん" is a nickname for the Japanese virtual YouTuber, Mai Yuki. It is a combination of her name and the Japanese word for "girl". In English, it can be translated to "Mai Girl". |
-| 40 | [ap bank fes](http://twitter.com/search?q=ap+bank+fes) | N/A |
-| 41 | [一流の営業マン](http://twitter.com/search?q=%e4%b8%80%e6%b5%81%e3%81%ae%e5%96%b6%e6%a5%ad%e3%83%9e%e3%83%b3) | N/A |
-| 42 | [先発野手全員安打](http://twitter.com/search?q=%e5%85%88%e7%99%ba%e9%87%8e%e6%89%8b%e5%85%a8%e5%93%a1%e5%ae%89%e6%89%93) | N/A |
-| 43 | [ノーヒット](http://twitter.com/search?q=%e3%83%8e%e3%83%bc%e3%83%92%e3%83%83%e3%83%88) | N/A |
-| 44 | [グラデ便箋](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%87%e4%be%bf%e7%ae%8b) | N/A |
-| 45 | [LINEマンガコイン1万円分](http://twitter.com/search?q=LINE%e3%83%9e%e3%83%b3%e3%82%ac%e3%82%b3%e3%82%a4%e3%83%b31%e4%b8%87%e5%86%86%e5%88%86) | N/A |
-| 46 | [ハズレなしの超豪華ガチャ](http://twitter.com/search?q=%e3%83%8f%e3%82%ba%e3%83%ac%e3%81%aa%e3%81%97%e3%81%ae%e8%b6%85%e8%b1%aa%e8%8f%af%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 47 | [天童よしみ](http://twitter.com/search?q=%e5%a4%a9%e7%ab%a5%e3%82%88%e3%81%97%e3%81%bf) | N/A |
-| 48 | [マスタデータ](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%87%e3%83%bc%e3%82%bf) | N/A |
-| 49 | [赤ちょうちん](http://twitter.com/search?q=%e8%b5%a4%e3%81%a1%e3%82%87%e3%81%86%e3%81%a1%e3%82%93) | N/A |
+| 13 | [お気に入りの武器](http://twitter.com/search?q=%e3%81%8a%e6%b0%97%e3%81%ab%e5%85%a5%e3%82%8a%e3%81%ae%e6%ad%a6%e5%99%a8) | N/A |
+| 14 | [ジュンファン](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%95%e3%82%a1%e3%83%b3) | N/A |
+| 15 | [ZOZOマリン](http://twitter.com/search?q=ZOZO%e3%83%9e%e3%83%aa%e3%83%b3) | N/A |
+| 16 | [リーガルハイ](http://twitter.com/search?q=%e3%83%aa%e3%83%bc%e3%82%ac%e3%83%ab%e3%83%8f%e3%82%a4) | N/A |
+| 17 | [今井達也](http://twitter.com/search?q=%e4%bb%8a%e4%ba%95%e9%81%94%e4%b9%9f) | N/A |
+| 18 | [ジェイソン](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%a4%e3%82%bd%e3%83%b3) | ジェイソン is a Japanese transliteration of the English name "Jason". It is a masculine given name derived from the Greek name Ιασων (Iason), meaning "healer". |
+| 19 | [今井完封](http://twitter.com/search?q=%e4%bb%8a%e4%ba%95%e5%ae%8c%e5%b0%81) | N/A |
+| 20 | [マスターの正体](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
+| 21 | [瀬戸熊さん](http://twitter.com/search?q=%e7%80%ac%e6%88%b8%e7%86%8a%e3%81%95%e3%82%93) | 瀬戸熊さん (Setoguma-san) is a Japanese children's song about a bear who lives in the Seto Inland Sea. The song tells the story of how the bear loves to swim and play in the sea, and how he loves to eat fish. In English, the title translates to "Mr. Seto Bear". |
+| 22 | [リッカルド](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%82%ab%e3%83%ab%e3%83%89) | N/A |
+| 23 | [カード勝ち越し](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%89%e5%8b%9d%e3%81%a1%e8%b6%8a%e3%81%97) | N/A |
+| 24 | [才能の持ち主](http://twitter.com/search?q=%e6%89%8d%e8%83%bd%e3%81%ae%e6%8c%81%e3%81%a1%e4%b8%bb) | N/A |
+| 25 | [ベルギー](http://twitter.com/search?q=%e3%83%99%e3%83%ab%e3%82%ae%e3%83%bc) | N/A |
+| 26 | [会陰切開](http://twitter.com/search?q=%e4%bc%9a%e9%99%b0%e5%88%87%e9%96%8b) | N/A |
+| 27 | [洋ちゃん](http://twitter.com/search?q=%e6%b4%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 28 | [ワートリ](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%88%e3%83%aa) | N/A |
+| 29 | [友野くん](http://twitter.com/search?q=%e5%8f%8b%e9%87%8e%e3%81%8f%e3%82%93) | 友野くん is a Japanese nickname for boys. It is derived from the words "tomoni" (meaning "together") and "no" (meaning "field"). The literal translation of 友野くん is "together in the field". |
+| 30 | [先発野手全員安打](http://twitter.com/search?q=%e5%85%88%e7%99%ba%e9%87%8e%e6%89%8b%e5%85%a8%e5%93%a1%e5%ae%89%e6%89%93) | N/A |
+| 31 | [小林幸子](http://twitter.com/search?q=%e5%b0%8f%e6%9e%97%e5%b9%b8%e5%ad%90) | N/A |
+| 32 | [ワールドトリガー](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%83%88%e3%83%aa%e3%82%ac%e3%83%bc) | N/A |
+| 33 | [めめラウ](http://twitter.com/search?q=%e3%82%81%e3%82%81%e3%83%a9%e3%82%a6) | めめラウ is a Japanese slang term that roughly translates to "no way!" or "unbelievable!" It is often used to express disbelief or surprise. |
+| 34 | [IKEさん](http://twitter.com/search?q=IKE%e3%81%95%e3%82%93) | N/A |
+| 35 | [三者連続三振](http://twitter.com/search?q=%e4%b8%89%e8%80%85%e9%80%a3%e7%b6%9a%e4%b8%89%e6%8c%af) | N/A |
+| 36 | [完封勝利](http://twitter.com/search?q=%e5%ae%8c%e5%b0%81%e5%8b%9d%e5%88%a9) | N/A |
+| 37 | [今井投手](http://twitter.com/search?q=%e4%bb%8a%e4%ba%95%e6%8a%95%e6%89%8b) | N/A |
+| 38 | [新ボーカル](http://twitter.com/search?q=%e6%96%b0%e3%83%9c%e3%83%bc%e3%82%ab%e3%83%ab) | N/A |
+| 39 | [攻撃の意図](http://twitter.com/search?q=%e6%94%bb%e6%92%83%e3%81%ae%e6%84%8f%e5%9b%b3) | N/A |
+| 40 | [ミャクミャク様](http://twitter.com/search?q=%e3%83%9f%e3%83%a3%e3%82%af%e3%83%9f%e3%83%a3%e3%82%af%e6%a7%98) | N/A |
+| 41 | [なべりょう](http://twitter.com/search?q=%e3%81%aa%e3%81%b9%e3%82%8a%e3%82%87%e3%81%86) | N/A |
+| 42 | [ノイジー](http://twitter.com/search?q=%e3%83%8e%e3%82%a4%e3%82%b8%e3%83%bc) | N/A |
+| 43 | [衆院通過](http://twitter.com/search?q=%e8%a1%86%e9%99%a2%e9%80%9a%e9%81%8e) | N/A |
+| 44 | [二次元の世界](http://twitter.com/search?q=%e4%ba%8c%e6%ac%a1%e5%85%83%e3%81%ae%e4%b8%96%e7%95%8c) | N/A |
+| 45 | [危険球退場](http://twitter.com/search?q=%e5%8d%b1%e9%99%ba%e7%90%83%e9%80%80%e5%a0%b4) | N/A |
+| 46 | [ケンミンショー](http://twitter.com/search?q=%e3%82%b1%e3%83%b3%e3%83%9f%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%bc) | ケンミンショー is a Japanese variety show hosted by comedians Ken Shimura and Masatoshi Hamada. The show has been running since 1989 and features various celebrity guests, comedy skits, and game shows. In English, the show is known as "Kenmin Show". |
+| 47 | [コニファー](http://twitter.com/search?q=%e3%82%b3%e3%83%8b%e3%83%95%e3%82%a1%e3%83%bc) | N/A |
+| 48 | [健康保険法改正案](http://twitter.com/search?q=%e5%81%a5%e5%ba%b7%e4%bf%9d%e9%99%ba%e6%b3%95%e6%94%b9%e6%ad%a3%e6%a1%88) | 健康保険法改正案 is a bill to revise the Health Insurance Law in Japan. It seeks to expand the scope of health insurance coverage and improve the quality of medical services. In English, it is known as the Health Insurance Law Amendment Bill. |
+| 49 | [エイモズ](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%a2%e3%82%ba) | N/A |
 
 
 

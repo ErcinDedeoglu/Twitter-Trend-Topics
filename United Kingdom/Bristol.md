@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-04-13 11:16:12 UTC`
+📆 Last Updated: `2023-04-13 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 2 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
-| 3 | [#ToriesOut280](http://twitter.com/search?q=%23ToriesOut280) | N/A |
-| 4 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 5 | [#ToryLies](http://twitter.com/search?q=%23ToryLies) | N/A |
-| 6 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 8 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 9 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 10 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 11 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 12 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 13 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 14 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
-| 15 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 16 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
-| 17 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
-| 18 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 19 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
-| 20 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 21 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 22 | [Waterloo](http://twitter.com/search?q=Waterloo) | N/A |
-| 23 | [Black & Tans](http://twitter.com/search?q=Black+%26+Tans) | N/A |
-| 24 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 27 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 28 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 29 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
-| 30 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 31 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 32 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
-| 33 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 34 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 35 | [Jamie Oliver](http://twitter.com/search?q=Jamie+Oliver) | N/A |
-| 36 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 37 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 1 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 2 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 3 | [#ToryLies](http://twitter.com/search?q=%23ToryLies) | N/A |
+| 4 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
+| 5 | [Catherine](http://twitter.com/search?q=Catherine) | Catherine is a feminine given name derived from the Greek name Αἰκατερίνη (Aikaterine). It is a form of the name Katherine, which means "pure" or "clear". |
+| 6 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
+| 7 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 8 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 9 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 10 | [#ESAJuice](http://twitter.com/search?q=%23ESAJuice) | N/A |
+| 11 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
+| 12 | [David Fairclough](http://twitter.com/search?q=David+Fairclough) | N/A |
+| 13 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
+| 14 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 15 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 16 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 17 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
+| 18 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
+| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 20 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
+| 21 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 22 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 23 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 24 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
+| 25 | [CAMRA](http://twitter.com/search?q=CAMRA) | N/A |
+| 26 | [Black & Tans](http://twitter.com/search?q=Black+%26+Tans) | N/A |
+| 27 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
+| 28 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
+| 29 | [Waterloo](http://twitter.com/search?q=Waterloo) | N/A |
+| 30 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
+| 31 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 32 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 33 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 34 | [graeme](http://twitter.com/search?q=graeme) | N/A |
+| 35 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 36 | [Devolution](http://twitter.com/search?q=Devolution) | N/A |
+| 37 | [all blacks](http://twitter.com/search?q=all+blacks) | N/A |
 | 38 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
-| 39 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 40 | [MSPs](http://twitter.com/search?q=MSPs) | N/A |
-| 41 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
-| 42 | [60fps](http://twitter.com/search?q=60fps) | N/A |
-| 43 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 39 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 40 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
+| 41 | [MSPs](http://twitter.com/search?q=MSPs) | N/A |
+| 42 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 43 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
 | 44 | [GRR Bill](http://twitter.com/search?q=GRR+Bill) | N/A |
-| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 46 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 47 | [Section 35](http://twitter.com/search?q=Section+35) | Section 35 of the Canadian Constitution is a provision that recognizes and affirms the existing Aboriginal and treaty rights of the Aboriginal peoples of Canada. It states that these rights are recognized and affirmed as being “existing aboriginal and treaty rights”, including the right to self-government. This section also allows for the federal government to pass laws in relation to these rights, as long as they are consistent with the Constitution. |
-| 48 | [Heritage Foundation](http://twitter.com/search?q=Heritage+Foundation) | N/A |
+| 45 | [Archie](http://twitter.com/search?q=Archie) | N/A |
 
 
 

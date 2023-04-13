@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-13 11:17:04 UTC`
+📆 Last Updated: `2023-04-13 12:19:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [LAKS](http://twitter.com/search?q=LAKS) | N/A |
-| 2 | [#mcibay](http://twitter.com/search?q=%23mcibay) | N/A |
+| 2 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
 | 3 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 4 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
+| 4 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
 | 5 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
-| 6 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
-| 7 | [#vogelexcursie](http://twitter.com/search?q=%23vogelexcursie) | N/A |
+| 6 | [#vogelexcursie](http://twitter.com/search?q=%23vogelexcursie) | N/A |
+| 7 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
 | 8 | [#woke](http://twitter.com/search?q=%23woke) | N/A |
-| 9 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
+| 9 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
 | 10 | [#PCST2023](http://twitter.com/search?q=%23PCST2023) | N/A |
-| 11 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
-| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 14 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 11 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 12 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 13 | [goedemorgen](http://twitter.com/search?q=goedemorgen) | N/A |
+| 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
 | 15 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
 | 16 | [Wierd Duk](http://twitter.com/search?q=Wierd+Duk) | N/A |
 | 17 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
 | 18 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
-| 19 | [Koning](http://twitter.com/search?q=Koning) | N/A |
-| 20 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 19 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 20 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
 | 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 22 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 23 | [Lydia Daniël](http://twitter.com/search?q=Lydia+Dani%c3%abl) | N/A |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 26 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
-| 27 | [Bente](http://twitter.com/search?q=Bente) | N/A |
-| 28 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
-| 29 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 30 | [joseph oosting](http://twitter.com/search?q=joseph+oosting) | N/A |
-| 31 | [Burg](http://twitter.com/search?q=Burg) | N/A |
-| 32 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
-| 33 | [Jan Slagter](http://twitter.com/search?q=Jan+Slagter) | N/A |
-| 34 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 35 | [Beringzee](http://twitter.com/search?q=Beringzee) | N/A |
-| 36 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
+| 22 | [Koning](http://twitter.com/search?q=Koning) | N/A |
+| 23 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
+| 24 | [lydia daniël](http://twitter.com/search?q=lydia+dani%c3%abl) | N/A |
+| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 26 | [Bente](http://twitter.com/search?q=Bente) | N/A |
+| 27 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
+| 28 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 29 | [financiën](http://twitter.com/search?q=financi%c3%abn) | N/A |
+| 30 | [Burg](http://twitter.com/search?q=Burg) | N/A |
+| 31 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 32 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 33 | [Buijs](http://twitter.com/search?q=Buijs) | N/A |
+| 34 | [Jan Slagter](http://twitter.com/search?q=Jan+Slagter) | N/A |
+| 35 | [Manc](http://twitter.com/search?q=Manc) | N/A |
+| 36 | [Beringzee](http://twitter.com/search?q=Beringzee) | N/A |
 | 37 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 38 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
-| 39 | [Manc](http://twitter.com/search?q=Manc) | N/A |
-| 40 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
-| 41 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 42 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 43 | [Bedreigingen](http://twitter.com/search?q=Bedreigingen) | N/A |
-| 44 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
-| 45 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
-| 46 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 47 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 48 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 49 | [Omroep MAX](http://twitter.com/search?q=Omroep+MAX) | N/A |
-| 50 | [$TEL](http://twitter.com/search?q=%24TEL) | N/A |
+| 38 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
+| 39 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 40 | [Bedreigingen](http://twitter.com/search?q=Bedreigingen) | N/A |
+| 41 | [Ugandese](http://twitter.com/search?q=Ugandese) | N/A |
+| 42 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 43 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 44 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 45 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 46 | [KNSB](http://twitter.com/search?q=KNSB) | N/A |
+| 47 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
+| 48 | [Albert Heijn](http://twitter.com/search?q=Albert+Heijn) | N/A |
+| 49 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
+| 50 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
 
 
 

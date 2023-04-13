@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-04-13 11:17:06 UTC`
+📆 Last Updated: `2023-04-13 12:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 2 | [#MinecraftDondeQuieras](http://twitter.com/search?q=%23MinecraftDondeQuieras) | N/A |
+| 1 | [Gaming Days](http://twitter.com/search?q=Gaming+Days) | N/A |
+| 2 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
 | 3 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
-| 4 | [#Persona5Manga](http://twitter.com/search?q=%23Persona5Manga) | N/A |
+| 4 | [#Solos13A](http://twitter.com/search?q=%23Solos13A) | N/A |
 | 5 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 6 | [#Solos13A](http://twitter.com/search?q=%23Solos13A) | N/A |
-| 7 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 9 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 10 | [Víctor Erice](http://twitter.com/search?q=V%c3%adctor+Erice) | N/A |
-| 11 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 12 | [Carla Simón](http://twitter.com/search?q=Carla+Sim%c3%b3n) | N/A |
-| 13 | [Junts](http://twitter.com/search?q=Junts) | N/A |
-| 14 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 15 | [Rafael del Pino](http://twitter.com/search?q=Rafael+del+Pino) | N/A |
-| 16 | [Los Planetas](http://twitter.com/search?q=Los+Planetas) | N/A |
-| 17 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 18 | [ElChapuzasInformatico](http://twitter.com/search?q=ElChapuzasInformatico) | N/A |
-| 19 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 20 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
-| 21 | [Sindy](http://twitter.com/search?q=Sindy) | N/A |
-| 22 | [Santiago Segura](http://twitter.com/search?q=Santiago+Segura) | N/A |
-| 23 | [Alberto Rodríguez](http://twitter.com/search?q=Alberto+Rodr%c3%adguez) | N/A |
-| 24 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 27 | [Huelva](http://twitter.com/search?q=Huelva) | N/A |
-| 28 | [Torrente](http://twitter.com/search?q=Torrente) | N/A |
-| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 30 | [PP y VOX](http://twitter.com/search?q=PP+y+VOX) | N/A |
-| 31 | [Mar Menor](http://twitter.com/search?q=Mar+Menor) | N/A |
-| 32 | [Ley Mordaza](http://twitter.com/search?q=Ley+Mordaza) | N/A |
-| 33 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
-| 34 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 35 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
-| 36 | [Julia Otero](http://twitter.com/search?q=Julia+Otero) | N/A |
-| 37 | [Monteros](http://twitter.com/search?q=Monteros) | N/A |
-| 38 | [Jornada](http://twitter.com/search?q=Jornada) | N/A |
-| 39 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 40 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
-| 41 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 42 | [Sábado 15](http://twitter.com/search?q=S%c3%a1bado+15) | N/A |
-| 43 | [Ana Rosa Quintana](http://twitter.com/search?q=Ana+Rosa+Quintana) | N/A |
-| 44 | [Boing](http://twitter.com/search?q=Boing) | N/A |
-| 45 | [Parlamento](http://twitter.com/search?q=Parlamento) | N/A |
-| 46 | [Domingo 16](http://twitter.com/search?q=Domingo+16) | N/A |
-| 47 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 48 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 49 | [Cañada Real](http://twitter.com/search?q=Ca%c3%b1ada+Real) | N/A |
-| 50 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
+| 6 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 7 | [#MinecraftDondeQuieras](http://twitter.com/search?q=%23MinecraftDondeQuieras) | N/A |
+| 8 | [Rafael Gordillo](http://twitter.com/search?q=Rafael+Gordillo) | N/A |
+| 9 | [#Persona5Manga](http://twitter.com/search?q=%23Persona5Manga) | N/A |
+| 10 | [#KrashxVidal](http://twitter.com/search?q=%23KrashxVidal) | N/A |
+| 11 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 12 | [Víctor Erice](http://twitter.com/search?q=V%c3%adctor+Erice) | N/A |
+| 13 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 14 | [Rafael del Pino](http://twitter.com/search?q=Rafael+del+Pino) | N/A |
+| 15 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
+| 16 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 17 | [III Guerra Mundial](http://twitter.com/search?q=III+Guerra+Mundial) | N/A |
+| 18 | [Los Planetas](http://twitter.com/search?q=Los+Planetas) | N/A |
+| 19 | [Carla Simón](http://twitter.com/search?q=Carla+Sim%c3%b3n) | N/A |
+| 20 | [Huelva](http://twitter.com/search?q=Huelva) | N/A |
+| 21 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 22 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 23 | [elchapuzasinformatico](http://twitter.com/search?q=elchapuzasinformatico) | N/A |
+| 24 | [Santiago Segura](http://twitter.com/search?q=Santiago+Segura) | N/A |
+| 25 | [Torrente](http://twitter.com/search?q=Torrente) | N/A |
+| 26 | [Sindy](http://twitter.com/search?q=Sindy) | N/A |
+| 27 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
+| 28 | [Irene Montero](http://twitter.com/search?q=Irene+Montero) | N/A |
+| 29 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 30 | [Alberto Rodríguez](http://twitter.com/search?q=Alberto+Rodr%c3%adguez) | N/A |
+| 31 | [PP y Vox](http://twitter.com/search?q=PP+y+Vox) | N/A |
+| 32 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 33 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
+| 34 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
+| 35 | [Sábado 15](http://twitter.com/search?q=S%c3%a1bado+15) | N/A |
+| 36 | [Mar Menor](http://twitter.com/search?q=Mar+Menor) | N/A |
+| 37 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
+| 38 | [Ana Rosa Quintana](http://twitter.com/search?q=Ana+Rosa+Quintana) | N/A |
+| 39 | [Jornada](http://twitter.com/search?q=Jornada) | N/A |
+| 40 | [Julia Otero](http://twitter.com/search?q=Julia+Otero) | N/A |
+| 41 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 42 | [Sant Jordi](http://twitter.com/search?q=Sant+Jordi) | N/A |
+| 43 | [Alcaldía](http://twitter.com/search?q=Alcald%c3%ada) | N/A |
+| 44 | [Espinosa de los Monteros](http://twitter.com/search?q=Espinosa+de+los+Monteros) | N/A |
+| 45 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 46 | [patxi](http://twitter.com/search?q=patxi) | N/A |
+| 47 | [Junta de Andalucía](http://twitter.com/search?q=Junta+de+Andaluc%c3%ada) | N/A |
+| 48 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 49 | [Boing](http://twitter.com/search?q=Boing) | N/A |
+| 50 | [Domingo 16](http://twitter.com/search?q=Domingo+16) | N/A |
 
 
 

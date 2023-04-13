@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-13 11:16:12 UTC`
+📆 Last Updated: `2023-04-13 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 2 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 3 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 4 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 5 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
-| 6 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 7 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
-| 8 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
-| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 10 | [#ASongOrMovieForAnnoying](http://twitter.com/search?q=%23ASongOrMovieForAnnoying) | N/A |
-| 11 | [#UKSG2023](http://twitter.com/search?q=%23UKSG2023) | N/A |
-| 12 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 13 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
-| 14 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 15 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 16 | [Waterloo](http://twitter.com/search?q=Waterloo) | N/A |
-| 17 | [Black & Tans](http://twitter.com/search?q=Black+%26+Tans) | N/A |
-| 18 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 20 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 21 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 22 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 23 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
-| 24 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
-| 25 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 26 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 27 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 28 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
-| 29 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 30 | [Jamie Oliver](http://twitter.com/search?q=Jamie+Oliver) | N/A |
-| 31 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 32 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
-| 33 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
-| 34 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 35 | [MSPs](http://twitter.com/search?q=MSPs) | N/A |
-| 36 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
-| 37 | [60fps](http://twitter.com/search?q=60fps) | N/A |
-| 38 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 39 | [GRR Bill](http://twitter.com/search?q=GRR+Bill) | N/A |
-| 40 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 41 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 42 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 43 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 44 | [Section 35](http://twitter.com/search?q=Section+35) | Section 35 of the Canadian Constitution is a provision that recognizes and affirms the existing Aboriginal and treaty rights of the Aboriginal peoples of Canada. It states that these rights are recognized and affirmed as being “existing aboriginal and treaty rights”, including the right to self-government. This section also allows for the federal government to pass laws in relation to these rights, as long as they are consistent with the Constitution. |
-| 45 | [Heritage Foundation](http://twitter.com/search?q=Heritage+Foundation) | N/A |
-| 46 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 47 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 48 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 1 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
+| 2 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 3 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 4 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 5 | [#ESAJuice](http://twitter.com/search?q=%23ESAJuice) | N/A |
+| 6 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
+| 7 | [David Fairclough](http://twitter.com/search?q=David+Fairclough) | N/A |
+| 8 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
+| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 10 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 11 | [#ASongOrMovieForAnnoying](http://twitter.com/search?q=%23ASongOrMovieForAnnoying) | N/A |
+| 12 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
+| 13 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 14 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
+| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 16 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 17 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
+| 18 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 19 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 20 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
+| 21 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 22 | [CAMRA](http://twitter.com/search?q=CAMRA) | N/A |
+| 23 | [Black & Tans](http://twitter.com/search?q=Black+%26+Tans) | N/A |
+| 24 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
+| 25 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
+| 26 | [Waterloo](http://twitter.com/search?q=Waterloo) | N/A |
+| 27 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
+| 28 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 29 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 30 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 31 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 32 | [graeme](http://twitter.com/search?q=graeme) | N/A |
+| 33 | [Devolution](http://twitter.com/search?q=Devolution) | N/A |
+| 34 | [all blacks](http://twitter.com/search?q=all+blacks) | N/A |
+| 35 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
+| 36 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 37 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
+| 38 | [MSPs](http://twitter.com/search?q=MSPs) | N/A |
+| 39 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 40 | [GRR Bill](http://twitter.com/search?q=GRR+Bill) | N/A |
+| 41 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 42 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 43 | [Chilly](http://twitter.com/search?q=Chilly) | N/A |
+| 44 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 45 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 46 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
+| 47 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 48 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
 
 
 

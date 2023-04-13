@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-04-13 11:16:59 UTC`
+📆 Last Updated: `2023-04-13 12:19:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 2 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 5 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 6 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 7 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 10 | [#Wordle663](http://twitter.com/search?q=%23Wordle663) | N/A |
-| 11 | [Friday Eve](http://twitter.com/search?q=Friday+Eve) | N/A |
-| 12 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 13 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 14 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 15 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 16 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 17 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 18 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 19 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 20 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 21 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 22 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 23 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 24 | [Married With Children](http://twitter.com/search?q=Married+With+Children) | N/A |
-| 25 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 26 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
-| 27 | [Episode 9](http://twitter.com/search?q=Episode+9) | N/A |
-| 28 | [MAX MUNCY](http://twitter.com/search?q=MAX+MUNCY) | N/A |
-| 29 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 30 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 4 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 5 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 6 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 8 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 9 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 10 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 11 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 12 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 13 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 14 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 15 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 16 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 17 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 18 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 19 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 20 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 21 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
+| 22 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 23 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 24 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
+| 25 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 26 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 27 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 28 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 29 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 30 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
 | 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 32 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 33 | [Cudi](http://twitter.com/search?q=Cudi) | N/A |
-| 34 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 35 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 36 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 37 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 38 | [Broward](http://twitter.com/search?q=Broward) | N/A |
-| 39 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 40 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 41 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 42 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 43 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 44 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 45 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 46 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 47 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
-| 48 | [Diar DeRozan](http://twitter.com/search?q=Diar+DeRozan) | N/A |
-| 49 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 50 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 32 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
+| 33 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
+| 34 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 35 | [Broward](http://twitter.com/search?q=Broward) | N/A |
+| 36 | [Episode 9](http://twitter.com/search?q=Episode+9) | N/A |
+| 37 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 38 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 39 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 40 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
+| 41 | [Cudi](http://twitter.com/search?q=Cudi) | N/A |
+| 42 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 43 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 44 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 45 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 46 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
+| 47 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 48 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 49 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 50 | [Jeffries](http://twitter.com/search?q=Jeffries) | Jeffries is a surname of English origin. It is derived from the given name Geoffrey, which is derived from the Old French name Jeoffroi, meaning "peaceful gift". |
 
 
 

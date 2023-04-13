@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lyon
 
-📆 Last Updated: `2023-04-13 11:16:25 UTC`
+📆 Last Updated: `2023-04-13 12:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 2 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 1 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
 | 3 | [#Cannes2023](http://twitter.com/search?q=%23Cannes2023) | N/A |
-| 4 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 5 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
-| 6 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 7 | [Remis](http://twitter.com/search?q=Remis) | N/A |
-| 8 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 9 | [Ken Loach](http://twitter.com/search?q=Ken+Loach) | N/A |
-| 10 | [Thierry Frémaux](http://twitter.com/search?q=Thierry+Fr%c3%a9maux) | N/A |
-| 11 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 12 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 13 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
-| 14 | [Grève du 13](http://twitter.com/search?q=Gr%c3%a8ve+du+13) | N/A |
-| 15 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 16 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 17 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 18 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 19 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 20 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 21 | [JUICE](http://twitter.com/search?q=JUICE) | N/A |
-| 22 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
-| 23 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 24 | [Égypte](http://twitter.com/search?q=%c3%89gypte) | N/A |
-| 25 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 26 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
-| 27 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 28 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
-| 29 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 30 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 31 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 32 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 33 | [Licra](http://twitter.com/search?q=Licra) | N/A |
-| 34 | [Jeudi 13](http://twitter.com/search?q=Jeudi+13) | N/A |
-| 35 | [CNRS](http://twitter.com/search?q=CNRS) | N/A |
-| 36 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
-| 37 | [#Conseil_Constitutionnel](http://twitter.com/search?q=%23Conseil_Constitutionnel) | N/A |
-| 38 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
-| 39 | [#Schiappa](http://twitter.com/search?q=%23Schiappa) | N/A |
-| 40 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
-| 41 | [#DevoxxFR](http://twitter.com/search?q=%23DevoxxFR) | N/A |
-| 42 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 43 | [#recrutement](http://twitter.com/search?q=%23recrutement) | N/A |
-| 44 | [#CarlaMoreau](http://twitter.com/search?q=%23CarlaMoreau) | N/A |
-| 45 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
-| 46 | [#OshiNoKo](http://twitter.com/search?q=%23OshiNoKo) | N/A |
+| 4 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 5 | [PUMA](http://twitter.com/search?q=PUMA) | N/A |
+| 6 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 7 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 8 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
+| 9 | [Remis](http://twitter.com/search?q=Remis) | N/A |
+| 10 | [Catherine Breillat](http://twitter.com/search?q=Catherine+Breillat) | N/A |
+| 11 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 12 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 13 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
+| 14 | [Ken Loach](http://twitter.com/search?q=Ken+Loach) | N/A |
+| 15 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 16 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
+| 17 | [Thierry Frémaux](http://twitter.com/search?q=Thierry+Fr%c3%a9maux) | N/A |
+| 18 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 19 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 20 | [Grève du 13](http://twitter.com/search?q=Gr%c3%a8ve+du+13) | N/A |
+| 21 | [Égypte](http://twitter.com/search?q=%c3%89gypte) | N/A |
+| 22 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 23 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
+| 24 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 25 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 28 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 29 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 30 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 31 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 32 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
+| 33 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
+| 34 | [Vert](http://twitter.com/search?q=Vert) | N/A |
+| 35 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 36 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
+| 37 | [Jeudi 13](http://twitter.com/search?q=Jeudi+13) | N/A |
+| 38 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 39 | [#JUICE](http://twitter.com/search?q=%23JUICE) | N/A |
+| 40 | [#MidiNews](http://twitter.com/search?q=%23MidiNews) | N/A |
+| 41 | [#JusquAuRetrait](http://twitter.com/search?q=%23JusquAuRetrait) | N/A |
+| 42 | [#SchiappaRendsLargent](http://twitter.com/search?q=%23SchiappaRendsLargent) | N/A |
+| 43 | [#DevoxxFR](http://twitter.com/search?q=%23DevoxxFR) | N/A |
+| 44 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 45 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 46 | [#recrutement](http://twitter.com/search?q=%23recrutement) | N/A |
+| 47 | [#CarlaMoreau](http://twitter.com/search?q=%23CarlaMoreau) | N/A |
+| 48 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
 
 
 
