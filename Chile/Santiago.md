@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-13 07:16:58 UTC`
+📆 Last Updated: `2023-04-13 08:18:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 2 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 3 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
+| 3 | [#40horas](http://twitter.com/search?q=%2340horas) | N/A |
 | 4 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
 | 5 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
 | 6 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
@@ -25,45 +25,45 @@ This is top 50 for [Chile](</Chile>)
 | 8 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
 | 9 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 10 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 11 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 12 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
-| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 15 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
-| 16 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
+| 11 | [Villa Alegre](http://twitter.com/search?q=Villa+Alegre) | N/A |
+| 12 | [3 carabineros](http://twitter.com/search?q=3+carabineros) | N/A |
+| 13 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 15 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 16 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
 | 17 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
 | 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 19 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
+| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 21 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 22 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
+| 22 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
 | 23 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 24 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 25 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 27 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 28 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
-| 29 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 30 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 32 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
+| 24 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 26 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 27 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 29 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 31 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
+| 32 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
 | 33 | [Pendejos](http://twitter.com/search?q=Pendejos) | N/A |
-| 34 | [Alex Salazar](http://twitter.com/search?q=Alex+Salazar) | N/A |
+| 34 | [alex salazar](http://twitter.com/search?q=alex+salazar) | N/A |
 | 35 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
 | 36 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 37 | [comisión de ética](http://twitter.com/search?q=comisi%c3%b3n+de+%c3%a9tica) | N/A |
 | 38 | [Avanzamos](http://twitter.com/search?q=Avanzamos) | N/A |
 | 39 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
-| 40 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 40 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 41 | [MANGA DE COMUNISTAS](http://twitter.com/search?q=MANGA+DE+COMUNISTAS) | N/A |
-| 42 | [Raúl Letelier](http://twitter.com/search?q=Ra%c3%bal+Letelier) | N/A |
-| 43 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 44 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 45 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 46 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 47 | [Secundarios](http://twitter.com/search?q=Secundarios) | N/A |
-| 48 | [lumaco](http://twitter.com/search?q=lumaco) | N/A |
-| 49 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 42 | [raúl letelier](http://twitter.com/search?q=ra%c3%bal+letelier) | N/A |
+| 43 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 44 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 45 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 46 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
+| 47 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 48 | [Secundarios](http://twitter.com/search?q=Secundarios) | N/A |
+| 49 | [lumaco](http://twitter.com/search?q=lumaco) | N/A |
 
 
 

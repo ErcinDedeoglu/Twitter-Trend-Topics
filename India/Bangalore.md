@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-04-13 07:17:28 UTC`
+📆 Last Updated: `2023-04-13 08:19:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MercedesAMG](http://twitter.com/search?q=%23MercedesAMG) | N/A |
-| 2 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
-| 3 | [#JallianwalaBaghMassacre](http://twitter.com/search?q=%23JallianwalaBaghMassacre) | N/A |
-| 4 | [#JioStudiosInfiniteTogether](http://twitter.com/search?q=%23JioStudiosInfiniteTogether) | N/A |
-| 5 | [#INTERNATIONALJATDAY](http://twitter.com/search?q=%23INTERNATIONALJATDAY) | N/A |
-| 6 | [#ProudOfYouDidi](http://twitter.com/search?q=%23ProudOfYouDidi) | N/A |
-| 7 | [अंतरराष्ट्रीय जाट](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%be%e0%a4%9f) | N/A |
-| 8 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 9 | [Chronology Of Events InSSRCase](http://twitter.com/search?q=Chronology+Of+Events+InSSRCase) | N/A |
-| 10 | [जनरल डायर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%a1%e0%a4%be%e0%a4%af%e0%a4%b0) | N/A |
-| 11 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 12 | [मंडल आयोग](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a1%e0%a4%b2+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 13 | [Vishwabhar Me Manaya Gaya](http://twitter.com/search?q=Vishwabhar+Me+Manaya+Gaya) | N/A |
-| 14 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 15 | [ट्रांसपोर्ट कंपनी](http://twitter.com/search?q=%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%aa%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%95%e0%a4%82%e0%a4%aa%e0%a4%a8%e0%a5%80) | N/A |
-| 16 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
-| 17 | [छवि रंजन](http://twitter.com/search?q=%e0%a4%9b%e0%a4%b5%e0%a4%bf+%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a4%a8) | N/A |
-| 18 | [जनजातीय समुदाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%9c%e0%a4%be%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a4%be%e0%a4%af) | N/A |
-| 19 | [मंडल कमीशन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a1%e0%a4%b2+%e0%a4%95%e0%a4%ae%e0%a5%80%e0%a4%b6%e0%a4%a8) | N/A |
-| 20 | [Nature Campaign](http://twitter.com/search?q=Nature+Campaign) | N/A |
-| 21 | [Bihari](http://twitter.com/search?q=Bihari) | N/A |
-| 22 | [South Indians](http://twitter.com/search?q=South+Indians) | N/A |
-| 23 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 24 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
-| 25 | [Nitish](http://twitter.com/search?q=Nitish) | N/A |
-| 26 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 27 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 28 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 29 | [#RozgarMela](http://twitter.com/search?q=%23RozgarMela) | N/A |
-| 30 | [#DMKFiles](http://twitter.com/search?q=%23DMKFiles) | N/A |
-| 31 | [#1YearOfBeast](http://twitter.com/search?q=%231YearOfBeast) | N/A |
-| 32 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 33 | [#finvasia](http://twitter.com/search?q=%23finvasia) | N/A |
-| 34 | [#अंतर्राष्ट्रीय_जाट_दिवस](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af_%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 35 | [#15KiloGhee](http://twitter.com/search?q=%2315KiloGhee) | N/A |
-| 36 | [#SSC_CGL_1JAN](http://twitter.com/search?q=%23SSC_CGL_1JAN) | N/A |
-| 37 | [#SatishKaushik](http://twitter.com/search?q=%23SatishKaushik) | N/A |
-| 38 | [#Janjatiya_Gaurav](http://twitter.com/search?q=%23Janjatiya_Gaurav) | N/A |
-| 39 | [#Baisakhi](http://twitter.com/search?q=%23Baisakhi) | N/A |
-| 40 | [#JalliawalaBaghSePrerna](http://twitter.com/search?q=%23JalliawalaBaghSePrerna) | N/A |
-| 41 | [#Eclipsed](http://twitter.com/search?q=%23Eclipsed) | N/A |
-| 42 | [#NatureLovers](http://twitter.com/search?q=%23NatureLovers) | N/A |
-| 43 | [#87वाँ_अवतरण_दिवस](http://twitter.com/search?q=%2387%e0%a4%b5%e0%a4%be%e0%a4%81_%e0%a4%85%e0%a4%b5%e0%a4%a4%e0%a4%b0%e0%a4%a3_%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a4%b8) | N/A |
-| 44 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 45 | [#PBKSvsGT](http://twitter.com/search?q=%23PBKSvsGT) | N/A |
-| 46 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 47 | [#Justice4VishuGurjar](http://twitter.com/search?q=%23Justice4VishuGurjar) | N/A |
-| 48 | [#Sambalpur](http://twitter.com/search?q=%23Sambalpur) | N/A |
-| 49 | [#BPMandal](http://twitter.com/search?q=%23BPMandal) | N/A |
-| 50 | [#UttaraBaokar](http://twitter.com/search?q=%23UttaraBaokar) | N/A |
+| 1 | [Kannadigas](http://twitter.com/search?q=Kannadigas) | N/A |
+| 2 | [Bihar](http://twitter.com/search?q=Bihar) | N/A |
+| 3 | [#RarioPeFanJeetega](http://twitter.com/search?q=%23RarioPeFanJeetega) | N/A |
+| 4 | [#Encounter](http://twitter.com/search?q=%23Encounter) | N/A |
+| 5 | [#AtiqAhmed](http://twitter.com/search?q=%23AtiqAhmed) | N/A |
+| 6 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 7 | [#15KiloGhee](http://twitter.com/search?q=%2315KiloGhee) | N/A |
+| 8 | [#Asad](http://twitter.com/search?q=%23Asad) | N/A |
+| 9 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
+| 10 | [असद अहमद](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 11 | [UP STF](http://twitter.com/search?q=UP+STF) | N/A |
+| 12 | [Jhansi](http://twitter.com/search?q=Jhansi) | N/A |
+| 13 | [गुलाम मोहम्मद](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 14 | [विदेशी हथियार](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6%e0%a5%80+%e0%a4%b9%e0%a4%a5%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%b0) | N/A |
+| 15 | [साथी गुलाम](http://twitter.com/search?q=%e0%a4%b8%e0%a4%be%e0%a4%a5%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae) | N/A |
+| 16 | [अंतरराष्ट्रीय जाट](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%be%e0%a4%9f) | N/A |
+| 17 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 18 | [Shoonya](http://twitter.com/search?q=Shoonya) | N/A |
+| 19 | [Chronology Of Events InSSRCase](http://twitter.com/search?q=Chronology+Of+Events+InSSRCase) | N/A |
+| 20 | [Mitti](http://twitter.com/search?q=Mitti) | N/A |
+| 21 | [जाट समाज](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%9f+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 22 | [जनरल डायर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%b0%e0%a4%b2+%e0%a4%a1%e0%a4%be%e0%a4%af%e0%a4%b0) | N/A |
+| 23 | [मंडल आयोग](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a1%e0%a4%b2+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
+| 24 | [पूर्व मुख्यमंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%ae%e0%a5%81%e0%a4%96%e0%a5%8d%e0%a4%af%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 25 | [माफिया डॉन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%ab%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%a1%e0%a5%89%e0%a4%a8) | N/A |
+| 26 | [मंडल कमीशन](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a1%e0%a4%b2+%e0%a4%95%e0%a4%ae%e0%a5%80%e0%a4%b6%e0%a4%a8) | N/A |
+| 27 | [Kannada](http://twitter.com/search?q=Kannada) | N/A |
+| 28 | [जनजातीय समुदाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%a8%e0%a4%9c%e0%a4%be%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%81%e0%a4%a6%e0%a4%be%e0%a4%af) | N/A |
+| 29 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 30 | [ट्रांसपोर्ट कंपनी](http://twitter.com/search?q=%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%82%e0%a4%b8%e0%a4%aa%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f+%e0%a4%95%e0%a4%82%e0%a4%aa%e0%a4%a8%e0%a5%80) | N/A |
+| 31 | [छवि रंजन](http://twitter.com/search?q=%e0%a4%9b%e0%a4%b5%e0%a4%bf+%e0%a4%b0%e0%a4%82%e0%a4%9c%e0%a4%a8) | N/A |
+| 32 | [Nature Campaign](http://twitter.com/search?q=Nature+Campaign) | N/A |
+| 33 | [Hrithik Roshan](http://twitter.com/search?q=Hrithik+Roshan) | N/A |
+| 34 | [South Indians](http://twitter.com/search?q=South+Indians) | N/A |
+| 35 | [#JioStudiosInfiniteTogether](http://twitter.com/search?q=%23JioStudiosInfiniteTogether) | N/A |
+| 36 | [#MercedesAMG](http://twitter.com/search?q=%23MercedesAMG) | N/A |
+| 37 | [#UmeshPalCase](http://twitter.com/search?q=%23UmeshPalCase) | N/A |
+| 38 | [#अतीक़अहमद](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%a4%e0%a5%80%e0%a4%95%e0%a4%bc%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 39 | [#JallianwalaBaghMassacre](http://twitter.com/search?q=%23JallianwalaBaghMassacre) | N/A |
+| 40 | [#YogiKaNayaUP](http://twitter.com/search?q=%23YogiKaNayaUP) | N/A |
+| 41 | [#UPPolice](http://twitter.com/search?q=%23UPPolice) | N/A |
+| 42 | [#INTERNATIONALJATDAY](http://twitter.com/search?q=%23INTERNATIONALJATDAY) | N/A |
+| 43 | [#ProudOfYouDidi](http://twitter.com/search?q=%23ProudOfYouDidi) | N/A |
+| 44 | [#DMKFiles](http://twitter.com/search?q=%23DMKFiles) | N/A |
+| 45 | [#RozgarMela](http://twitter.com/search?q=%23RozgarMela) | N/A |
+| 46 | [#finvasia](http://twitter.com/search?q=%23finvasia) | N/A |
+| 47 | [#BigBreaking](http://twitter.com/search?q=%23BigBreaking) | N/A |
+| 48 | [#Go_Back_Priyanka_Vadra](http://twitter.com/search?q=%23Go_Back_Priyanka_Vadra) | N/A |
+| 49 | [#एनकाउंटर](http://twitter.com/search?q=%23%e0%a4%8f%e0%a4%a8%e0%a4%95%e0%a4%be%e0%a4%89%e0%a4%82%e0%a4%9f%e0%a4%b0) | N/A |
+| 50 | [#1YearOfBeast](http://twitter.com/search?q=%231YearOfBeast) | N/A |
 
 
 

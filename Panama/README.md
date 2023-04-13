@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-13 07:17:44 UTC`
+📆 Last Updated: `2023-04-13 08:19:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,7 +39,7 @@ This is top 50 for Panama
 | 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 23 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
 | 24 | [Yanibel](http://twitter.com/search?q=Yanibel) | N/A |
-| 25 | [Arraijan](http://twitter.com/search?q=Arraijan) | N/A |
+| 25 | [arraijan](http://twitter.com/search?q=arraijan) | N/A |
 | 26 | [Uber](http://twitter.com/search?q=Uber) | N/A |
 | 27 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 28 | [Howard](http://twitter.com/search?q=Howard) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Panama
 | 32 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 33 | [Pandemia](http://twitter.com/search?q=Pandemia) | N/A |
 | 34 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 35 | [#InformaTPanama](http://twitter.com/search?q=%23InformaTPanama) | N/A |
+| 35 | [#informatpanama](http://twitter.com/search?q=%23informatpanama) | N/A |
 | 36 | [mercedes chami dogirama](http://twitter.com/search?q=mercedes+chami+dogirama) | N/A |
-| 37 | [ricardo martinelli](http://twitter.com/search?q=ricardo+martinelli) | N/A |
-| 38 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 39 | [Darien](http://twitter.com/search?q=Darien) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [#Seguimos](http://twitter.com/search?q=%23Seguimos) | N/A |
-| 42 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 37 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 38 | [ricardo martinelli](http://twitter.com/search?q=ricardo+martinelli) | N/A |
+| 39 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 40 | [Darien](http://twitter.com/search?q=Darien) | N/A |
+| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 42 | [#Seguimos](http://twitter.com/search?q=%23Seguimos) | N/A |
 | 43 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 44 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
 | 45 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 46 | [Panamá Metro](http://twitter.com/search?q=Panam%c3%a1+Metro) | N/A |
 | 47 | [Pedregal](http://twitter.com/search?q=Pedregal) | N/A |
 | 48 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 49 | [minera panamá](http://twitter.com/search?q=minera+panam%c3%a1) | N/A |
-| 50 | [Nito](http://twitter.com/search?q=Nito) | N/A |
+| 49 | [Nito](http://twitter.com/search?q=Nito) | N/A |
+| 50 | [Fren](http://twitter.com/search?q=Fren) | N/A |
 
 
 

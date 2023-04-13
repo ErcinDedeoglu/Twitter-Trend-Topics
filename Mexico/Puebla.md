@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-04-13 07:16:57 UTC`
+📆 Last Updated: `2023-04-13 08:18:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
-| 2 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 3 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 4 | [BPM IS COMING](http://twitter.com/search?q=BPM+IS+COMING) | N/A |
-| 5 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 6 | [#PruebaDeSupervivencia](http://twitter.com/search?q=%23PruebaDeSupervivencia) | N/A |
-| 7 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 8 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 9 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
-| 10 | [Concachampions](http://twitter.com/search?q=Concachampions) | N/A |
-| 11 | [#AuroraXSopitas](http://twitter.com/search?q=%23AuroraXSopitas) | N/A |
-| 12 | [Riestra](http://twitter.com/search?q=Riestra) | N/A |
-| 13 | [#talentmatchtl](http://twitter.com/search?q=%23talentmatchtl) | N/A |
-| 14 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 15 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 16 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 17 | [Malayo](http://twitter.com/search?q=Malayo) | N/A |
-| 18 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 19 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 20 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 21 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 22 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 23 | [Orlegi](http://twitter.com/search?q=Orlegi) | N/A |
-| 24 | [Magnus Skylstad](http://twitter.com/search?q=Magnus+Skylstad) | N/A |
-| 25 | [Ozziel Herrera](http://twitter.com/search?q=Ozziel+Herrera) | N/A |
-| 26 | [Pocho Guzmán](http://twitter.com/search?q=Pocho+Guzm%c3%a1n) | N/A |
-| 27 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 28 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 29 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 30 | [LAFC](http://twitter.com/search?q=LAFC) | LAFC stands for Los Angeles Football Club, which is a professional soccer team based in Los Angeles, California. The team competes in Major League Soccer (MLS) and was founded in 2014. |
-| 31 | [Jeremy](http://twitter.com/search?q=Jeremy) | N/A |
-| 32 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 33 | [Yeri Mua](http://twitter.com/search?q=Yeri+Mua) | N/A |
-| 34 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 35 | [WE LOVE QSMP](http://twitter.com/search?q=WE+LOVE+QSMP) | N/A |
-| 36 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 37 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
-| 38 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 39 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 40 | [Crush](http://twitter.com/search?q=Crush) | N/A |
-| 41 | [#2M500kBsumLoveBible](http://twitter.com/search?q=%232M500kBsumLoveBible) | N/A |
-| 42 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 43 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 44 | [#DelfinaSeDesploma](http://twitter.com/search?q=%23DelfinaSeDesploma) | N/A |
-| 45 | [#BuyPeoplePt2](http://twitter.com/search?q=%23BuyPeoplePt2) | N/A |
-| 46 | [#MareaRosa](http://twitter.com/search?q=%23MareaRosa) | N/A |
-| 47 | [#StreamPeoplePt2](http://twitter.com/search?q=%23StreamPeoplePt2) | N/A |
-| 48 | [#SCCL23](http://twitter.com/search?q=%23SCCL23) | N/A |
-| 49 | [#LadyPelotas](http://twitter.com/search?q=%23LadyPelotas) | N/A |
+| 1 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 2 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 3 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 5 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 6 | [BPM IS COMING](http://twitter.com/search?q=BPM+IS+COMING) | N/A |
+| 7 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 8 | [#BenditaChampions](http://twitter.com/search?q=%23BenditaChampions) | N/A |
+| 9 | [#AuroraXSopitas](http://twitter.com/search?q=%23AuroraXSopitas) | N/A |
+| 10 | [#DelfinaSeDesploma](http://twitter.com/search?q=%23DelfinaSeDesploma) | N/A |
+| 11 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
+| 12 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 14 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 15 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 16 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 17 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 18 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 19 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 20 | [WE LOVE QSMP](http://twitter.com/search?q=WE+LOVE+QSMP) | N/A |
+| 21 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 22 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
+| 23 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 24 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 25 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 26 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
+| 27 | [Riestra](http://twitter.com/search?q=Riestra) | N/A |
+| 28 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 29 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 31 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 32 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 33 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 35 | [Jonathan Orozco](http://twitter.com/search?q=Jonathan+Orozco) | N/A |
+| 36 | [Krauze](http://twitter.com/search?q=Krauze) | N/A |
+| 37 | [Malayo](http://twitter.com/search?q=Malayo) | N/A |
+| 38 | [Yuri Gagarin](http://twitter.com/search?q=Yuri+Gagarin) | N/A |
+| 39 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
+| 40 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 41 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 42 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
+| 43 | [La Resurrección](http://twitter.com/search?q=La+Resurrecci%c3%b3n) | N/A |
+| 44 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 45 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 46 | [MAÑANA 1TRAGO](http://twitter.com/search?q=MA%c3%91ANA+1TRAGO) | N/A |
+| 47 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 48 | [Ozziel Herrera](http://twitter.com/search?q=Ozziel+Herrera) | N/A |
+| 49 | [Elena Poniatowska](http://twitter.com/search?q=Elena+Poniatowska) | N/A |
+| 50 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
 
 
 

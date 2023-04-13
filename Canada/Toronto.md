@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-04-13 07:16:52 UTC`
+📆 Last Updated: `2023-04-13 08:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Canada](</Canada>)
 | 4 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
 | 5 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
 | 6 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 7 | [Zadorov](http://twitter.com/search?q=Zadorov) | N/A |
-| 8 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 9 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 10 | [#tfpredict](http://twitter.com/search?q=%23tfpredict) | N/A |
-| 11 | [#DayOfPink](http://twitter.com/search?q=%23DayOfPink) | N/A |
-| 12 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 13 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 14 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 16 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 17 | [Dustin Wolf](http://twitter.com/search?q=Dustin+Wolf) | N/A |
-| 18 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 19 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 7 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 8 | [Nikita Zadorov](http://twitter.com/search?q=Nikita+Zadorov) | N/A |
+| 9 | [#tfpredict](http://twitter.com/search?q=%23tfpredict) | N/A |
+| 10 | [#DayOfPink](http://twitter.com/search?q=%23DayOfPink) | N/A |
+| 11 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 12 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 13 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 15 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 16 | [Dustin Wolf](http://twitter.com/search?q=Dustin+Wolf) | N/A |
+| 17 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 18 | [Most Improved](http://twitter.com/search?q=Most+Improved) | N/A |
+| 19 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
 | 20 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 21 | [Most Improved](http://twitter.com/search?q=Most+Improved) | N/A |
-| 22 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 23 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 24 | [Most Disappointing](http://twitter.com/search?q=Most+Disappointing) | N/A |
-| 25 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
-| 26 | [Coronato](http://twitter.com/search?q=Coronato) | N/A |
-| 27 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 29 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 30 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 31 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
-| 32 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
-| 33 | [Jason Spezza](http://twitter.com/search?q=Jason+Spezza) | N/A |
-| 34 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
-| 35 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 36 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 37 | [Big Z](http://twitter.com/search?q=Big+Z) | N/A |
-| 38 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 39 | [BC United](http://twitter.com/search?q=BC+United) | N/A |
-| 40 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
-| 41 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 42 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 43 | [60fps](http://twitter.com/search?q=60fps) | N/A |
-| 44 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 45 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
-| 46 | [Sportsnet Now](http://twitter.com/search?q=Sportsnet+Now) | N/A |
-| 47 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
-| 48 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
-| 49 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
-| 50 | [MLSE](http://twitter.com/search?q=MLSE) | N/A |
+| 21 | [Most Disappointing](http://twitter.com/search?q=Most+Disappointing) | N/A |
+| 22 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
+| 23 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 24 | [Coronato](http://twitter.com/search?q=Coronato) | N/A |
+| 25 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 26 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 27 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 28 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 29 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 30 | [Lowry](http://twitter.com/search?q=Lowry) | N/A |
+| 31 | [Jason Spezza](http://twitter.com/search?q=Jason+Spezza) | N/A |
+| 32 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
+| 33 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 34 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 35 | [Sportsnet Now](http://twitter.com/search?q=Sportsnet+Now) | N/A |
+| 36 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 37 | [Freezies](http://twitter.com/search?q=Freezies) | N/A |
+| 38 | [Bank of Canada](http://twitter.com/search?q=Bank+of+Canada) | The Bank of Canada is the central bank of Canada. It is responsible for formulating and implementing monetary policy, managing the country's currency and providing banking services to the federal government. The Bank of Canada also plays a role in maintaining financial stability and promoting economic growth. |
+| 39 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
+| 40 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 41 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
+| 42 | [MLSE](http://twitter.com/search?q=MLSE) | N/A |
+| 43 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
+| 44 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 45 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 46 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 47 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 48 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
+| 49 | [luis rivera](http://twitter.com/search?q=luis+rivera) | N/A |
+| 50 | [BC United](http://twitter.com/search?q=BC+United) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-13 07:17:37 UTC`
+📆 Last Updated: `2023-04-13 08:19:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 2 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
-| 3 | [Senator](http://twitter.com/search?q=Senator) | N/A |
-| 4 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
-| 5 | [Oracle Park](http://twitter.com/search?q=Oracle+Park) | N/A |
-| 6 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 7 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 8 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 9 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 10 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 11 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
-| 12 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 13 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 14 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 15 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 16 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 17 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 18 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 19 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 20 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 21 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 22 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 23 | [Dort](http://twitter.com/search?q=Dort) | N/A |
-| 24 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 25 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 1 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 2 | [Senator](http://twitter.com/search?q=Senator) | N/A |
+| 3 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
+| 4 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 5 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 6 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 7 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 8 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 9 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
+| 10 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 11 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 12 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 13 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 14 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 15 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 16 | [#StarTrekPicardSpoilers](http://twitter.com/search?q=%23StarTrekPicardSpoilers) | N/A |
+| 17 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 18 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 19 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 21 | [Dort](http://twitter.com/search?q=Dort) | N/A |
+| 22 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 23 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 24 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 25 | [#ZatimaOnBETPlus](http://twitter.com/search?q=%23ZatimaOnBETPlus) | N/A |
 | 26 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 27 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 28 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
-| 29 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 30 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 31 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 32 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 33 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 34 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 35 | [Zach Lavine](http://twitter.com/search?q=Zach+Lavine) | Zach Lavine is an American professional basketball player who currently plays for the Chicago Bulls of the National Basketball Association (NBA). He is known for his high-flying dunks and acrobatic layups. |
-| 36 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 37 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 38 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 39 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
-| 40 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 41 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 42 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 43 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
-| 44 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 45 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
-| 46 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 47 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 48 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
-| 49 | [Sam Presti](http://twitter.com/search?q=Sam+Presti) | N/A |
-| 50 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 27 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 28 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 29 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 30 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 31 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 32 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 33 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
+| 34 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 35 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 36 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
+| 37 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 38 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 39 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
+| 40 | [Sam Presti](http://twitter.com/search?q=Sam+Presti) | N/A |
+| 41 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 42 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 43 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 44 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
+| 45 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 46 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 47 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 48 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 49 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 50 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
 
 
 

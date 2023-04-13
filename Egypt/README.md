@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-04-13 07:17:41 UTC`
+📆 Last Updated: `2023-04-13 08:19:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for Egypt
 | 3 | [جعفر](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1) | N/A |
 | 4 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
 | 5 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
-| 6 | [بلال شامه](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%b4%d8%a7%d9%85%d9%87) | N/A |
-| 7 | [٢٢ رمضان](http://twitter.com/search?q=%d9%a2%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 8 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 9 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 10 | [#افطار_هندسه_طنطا2023](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%b7%d8%a7%d8%b1_%d9%87%d9%86%d8%af%d8%b3%d9%87_%d8%b7%d9%86%d8%b7%d8%a72023) | N/A |
-| 11 | [#تغيير_جو](http://twitter.com/search?q=%23%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1_%d8%ac%d9%88) | N/A |
-| 12 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 6 | [٢٢ رمضان](http://twitter.com/search?q=%d9%a2%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 7 | [بلال شامه](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d9%84+%d8%b4%d8%a7%d9%85%d9%87) | N/A |
+| 8 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 9 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
+| 10 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 11 | [#افطار_هندسه_طنطا2023](http://twitter.com/search?q=%23%d8%a7%d9%81%d8%b7%d8%a7%d8%b1_%d9%87%d9%86%d8%af%d8%b3%d9%87_%d8%b7%d9%86%d8%b7%d8%a72023) | N/A |
+| 12 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 13 | [خميس العهد](http://twitter.com/search?q=%d8%ae%d9%85%d9%8a%d8%b3+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 14 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 15 | [#مصطفي_شعبان](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b7%d9%81%d9%8a_%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 16 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 17 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 18 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 19 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 20 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
-| 21 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 22 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 23 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 24 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
-| 25 | [محمد بن زايد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
-| 26 | [إمام عاشور](http://twitter.com/search?q=%d8%a5%d9%85%d8%a7%d9%85+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
-| 27 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
-| 28 | [مستر كارلو](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
-| 29 | [بيت العويل](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d9%84) | N/A |
-| 30 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
-| 31 | [نام الحزن](http://twitter.com/search?q=%d9%86%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b2%d9%86) | N/A |
-| 32 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
-| 33 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
+| 14 | [#تغيير_جو](http://twitter.com/search?q=%23%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1_%d8%ac%d9%88) | N/A |
+| 15 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 16 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 17 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 18 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
+| 19 | [السودان](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86) | N/A |
+| 20 | [البايرن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
+| 21 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 22 | [الدعم السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
+| 23 | [كانتي](http://twitter.com/search?q=%d9%83%d8%a7%d9%86%d8%aa%d9%8a) | N/A |
+| 24 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 25 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 26 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 27 | [محمد بن زايد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b2%d8%a7%d9%8a%d8%af) | N/A |
+| 28 | [إمام عاشور](http://twitter.com/search?q=%d8%a5%d9%85%d8%a7%d9%85+%d8%b9%d8%a7%d8%b4%d9%88%d8%b1) | N/A |
+| 29 | [مستر كارلو](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
+| 30 | [بيت العويل](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d9%84) | N/A |
+| 31 | [لامبارد](http://twitter.com/search?q=%d9%84%d8%a7%d9%85%d8%a8%d8%a7%d8%b1%d8%af) | N/A |
+| 32 | [نام الحزن](http://twitter.com/search?q=%d9%86%d8%a7%d9%85+%d8%a7%d9%84%d8%ad%d8%b2%d9%86) | N/A |
+| 33 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
 | 34 | [جواو](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d9%88) | جواو is an Arabic word meaning "diamond". |
-| 35 | [المفتاح المستعمل](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%81%d8%aa%d8%a7%d8%ad+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%b9%d9%85%d9%84) | N/A |
-| 36 | [سهل التجديد](http://twitter.com/search?q=%d8%b3%d9%87%d9%84+%d8%a7%d9%84%d8%aa%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 37 | [الشجار القديم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%ac%d8%a7%d8%b1+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85) | N/A |
-| 38 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
-| 39 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
-| 40 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 41 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 42 | [الدعم السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
-| 43 | [جوارديولا](http://twitter.com/search?q=%d8%ac%d9%88%d8%a7%d8%b1%d8%af%d9%8a%d9%88%d9%84%d8%a7) | N/A |
-| 44 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 45 | [احمد الشناوي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | احمد الشناوي is a name in Arabic. It translates to English as "Ahmed Alshanawy". |
-| 46 | [الليله الوتريه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%aa%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 47 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 48 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 49 | [معتز الشامي](http://twitter.com/search?q=%d9%85%d8%b9%d8%aa%d8%b2+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a) | N/A |
+| 35 | [سهل التجديد](http://twitter.com/search?q=%d8%b3%d9%87%d9%84+%d8%a7%d9%84%d8%aa%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 36 | [الشجار القديم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%ac%d8%a7%d8%b1+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85) | N/A |
+| 37 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
+| 38 | [كوليبالي](http://twitter.com/search?q=%d9%83%d9%88%d9%84%d9%8a%d8%a8%d8%a7%d9%84%d9%8a) | N/A |
+| 39 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 40 | [Greek](http://twitter.com/search?q=Greek) | N/A |
+| 41 | [الاحوال الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 42 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 43 | [احمد الشناوي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b4%d9%86%d8%a7%d9%88%d9%8a) | احمد الشناوي is a name in Arabic. It translates to English as "Ahmed Alshanawy". |
+| 44 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 45 | [توخيل](http://twitter.com/search?q=%d8%aa%d9%88%d8%ae%d9%8a%d9%84) | N/A |
+| 46 | [لروسيا](http://twitter.com/search?q=%d9%84%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 47 | [معتز الشامي](http://twitter.com/search?q=%d9%85%d8%b9%d8%aa%d8%b2+%d8%a7%d9%84%d8%b4%d8%a7%d9%85%d9%8a) | N/A |
+| 48 | [صيف ربيع رمضان](http://twitter.com/search?q=%d8%b5%d9%8a%d9%81+%d8%b1%d8%a8%d9%8a%d8%b9+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 49 | [سيلين ديون](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%8a%d9%86+%d8%af%d9%8a%d9%88%d9%86) | N/A |
 | 50 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
 
 
