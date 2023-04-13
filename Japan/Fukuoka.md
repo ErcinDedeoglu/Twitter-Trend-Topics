@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fukuoka
 
-📆 Last Updated: `2023-04-13 21:17:15 UTC`
+📆 Last Updated: `2023-04-13 22:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [セビージャ](http://twitter.com/search?q=%e3%82%bb%e3%83%93%e3%83%bc%e3%82%b8%e3%83%a3) | N/A |
+| 1 | [FF16](http://twitter.com/search?q=FF16) | N/A |
 | 2 | [#おは戦50414ak](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650414ak) | N/A |
-| 3 | [ヴァラン](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%b3) | N/A |
-| 4 | [マルシャル](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
-| 5 | [ガッティ](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%83%86%e3%82%a3) | N/A |
-| 6 | [リサマル](http://twitter.com/search?q=%e3%83%aa%e3%82%b5%e3%83%9e%e3%83%ab) | N/A |
-| 7 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
-| 8 | [ザビッツァー](http://twitter.com/search?q=%e3%82%b6%e3%83%93%e3%83%83%e3%83%84%e3%82%a1%e3%83%bc) | ザビッツァー is a Japanese term for a type of snack food made from wheat flour, sugar, and other ingredients. It is similar to a biscuit or cookie, but has a unique texture and flavor. In English, it is sometimes referred to as "Zabitsa". |
-| 9 | [ガノンドロフ](http://twitter.com/search?q=%e3%82%ac%e3%83%8e%e3%83%b3%e3%83%89%e3%83%ad%e3%83%95) | N/A |
-| 10 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 11 | [#bn847](http://twitter.com/search?q=%23bn847) | N/A |
-| 12 | [ポケモンカード](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 13 | [マグワイア](http://twitter.com/search?q=%e3%83%9e%e3%82%b0%e3%83%af%e3%82%a4%e3%82%a2) | N/A |
-| 14 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
-| 15 | [スポルティング](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 16 | [ティオさん](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%aa%e3%81%95%e3%82%93) | N/A |
-| 17 | [#mv813](http://twitter.com/search?q=%23mv813) | N/A |
-| 18 | [転売ヤー](http://twitter.com/search?q=%e8%bb%a2%e5%a3%b2%e3%83%a4%e3%83%bc) | N/A |
-| 19 | [第448回](http://twitter.com/search?q=%e7%ac%ac448%e5%9b%9e) | N/A |
-| 20 | [ヨドバシ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%83%90%e3%82%b7) | N/A |
-| 21 | [ロックマンエグゼ](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3%e3%82%a8%e3%82%b0%e3%82%bc) | N/A |
-| 22 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
-| 23 | [アスティカシア高等専門学園](http://twitter.com/search?q=%e3%82%a2%e3%82%b9%e3%83%86%e3%82%a3%e3%82%ab%e3%82%b7%e3%82%a2%e9%ab%98%e7%ad%89%e5%b0%82%e9%96%80%e5%ad%a6%e5%9c%92) | N/A |
-| 24 | [#水星の魔女診断](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3%e8%a8%ba%e6%96%ad) | N/A |
-| 25 | [変態紳士クラブ](http://twitter.com/search?q=%e5%a4%89%e6%85%8b%e7%b4%b3%e5%a3%ab%e3%82%af%e3%83%a9%e3%83%96) | N/A |
-| 26 | [ガッシュ2](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%82%b7%e3%83%a52) | N/A |
-| 27 | [キエーザ](http://twitter.com/search?q=%e3%82%ad%e3%82%a8%e3%83%bc%e3%82%b6) | N/A |
-| 28 | [エランガ](http://twitter.com/search?q=%e3%82%a8%e3%83%a9%e3%83%b3%e3%82%ac) | N/A |
-| 29 | [カゼミロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bc%e3%83%9f%e3%83%ad) | カゼミロ is a type of Japanese traditional folk song. It is usually sung by a group of people, and the lyrics are often about the hardships of life. In English, it can be translated as "Folk Song of Sorrow". |
-| 30 | [ポケカ買い](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%ab%e8%b2%b7%e3%81%84) | N/A |
-| 31 | [最速上映](http://twitter.com/search?q=%e6%9c%80%e9%80%9f%e4%b8%8a%e6%98%a0) | N/A |
-| 32 | [ハズレなしの超豪華ガチャ](http://twitter.com/search?q=%e3%83%8f%e3%82%ba%e3%83%ac%e3%81%aa%e3%81%97%e3%81%ae%e8%b6%85%e8%b1%aa%e8%8f%af%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 33 | [パレデス](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%87%e3%82%b9) | N/A |
-| 34 | [ブレワイ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%af%e3%82%a4) | N/A |
-| 35 | [ウォンレイ](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%b3%e3%83%ac%e3%82%a4) | N/A |
-| 36 | [シュチェスニー](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%a7%e3%82%b9%e3%83%8b%e3%83%bc) | N/A |
-| 37 | [さんのミクチャライブ](http://twitter.com/search?q=%e3%81%95%e3%82%93%e3%81%ae%e3%83%9f%e3%82%af%e3%83%81%e3%83%a3%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 38 | [アントニー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%8b%e3%83%bc) | アントニー is the Japanese version of the name Anthony. It is a masculine given name of Latin origin, derived from Antonius, a Roman family name. The meaning of Anthony in English is "priceless one". |
-| 39 | [ティアーズ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%bc%e3%82%ba) | N/A |
-| 40 | [ディマリア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%9e%e3%83%aa%e3%82%a2) | N/A |
-| 41 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 42 | [シェア枠NO.1](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%82%a2%e6%9e%a0NO.1) | N/A |
-| 43 | [ポケカ戦争](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%ab%e6%88%a6%e4%ba%89) | N/A |
-| 44 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 45 | [チューリ](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%bc%e3%83%aa) | N/A |
-| 46 | [学園生活](http://twitter.com/search?q=%e5%ad%a6%e5%9c%92%e7%94%9f%e6%b4%bb) | N/A |
-| 47 | [オレンジデー](http://twitter.com/search?q=%e3%82%aa%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%87%e3%83%bc) | N/A |
-| 48 | [キングダム](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%80%e3%83%a0) | N/A |
-| 49 | [シド王子](http://twitter.com/search?q=%e3%82%b7%e3%83%89%e7%8e%8b%e5%ad%90) | N/A |
+| 3 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
+| 4 | [#法廷遊戯](http://twitter.com/search?q=%23%e6%b3%95%e5%bb%b7%e9%81%8a%e6%88%af) | N/A |
+| 5 | [ポケカ戦争](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%ab%e6%88%a6%e4%ba%89) | N/A |
+| 6 | [#水星の魔女診断](http://twitter.com/search?q=%23%e6%b0%b4%e6%98%9f%e3%81%ae%e9%ad%94%e5%a5%b3%e8%a8%ba%e6%96%ad) | N/A |
+| 7 | [アスティカシア高等専門学園](http://twitter.com/search?q=%e3%82%a2%e3%82%b9%e3%83%86%e3%82%a3%e3%82%ab%e3%82%b7%e3%82%a2%e9%ab%98%e7%ad%89%e5%b0%82%e9%96%80%e5%ad%a6%e5%9c%92) | N/A |
+| 8 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
+| 9 | [変態紳士クラブ](http://twitter.com/search?q=%e5%a4%89%e6%85%8b%e7%b4%b3%e5%a3%ab%e3%82%af%e3%83%a9%e3%83%96) | N/A |
+| 10 | [ポケモンカード](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 11 | [転売ヤー](http://twitter.com/search?q=%e8%bb%a2%e5%a3%b2%e3%83%a4%e3%83%bc) | N/A |
+| 12 | [#bn847](http://twitter.com/search?q=%23bn847) | N/A |
+| 13 | [セビージャ](http://twitter.com/search?q=%e3%82%bb%e3%83%93%e3%83%bc%e3%82%b8%e3%83%a3) | N/A |
+| 14 | [第448回](http://twitter.com/search?q=%e7%ac%ac448%e5%9b%9e) | N/A |
+| 15 | [オレンジデー](http://twitter.com/search?q=%e3%82%aa%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%87%e3%83%bc) | N/A |
+| 16 | [ヴァラン](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%b3) | N/A |
+| 17 | [世界の100人](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%ae100%e4%ba%ba) | N/A |
+| 18 | [マグワイア](http://twitter.com/search?q=%e3%83%9e%e3%82%b0%e3%83%af%e3%82%a4%e3%82%a2) | N/A |
+| 19 | [リサマル](http://twitter.com/search?q=%e3%83%aa%e3%82%b5%e3%83%9e%e3%83%ab) | N/A |
+| 20 | [ティオさん](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%aa%e3%81%95%e3%82%93) | N/A |
+| 21 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 22 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 23 | [熊本地震](http://twitter.com/search?q=%e7%86%8a%e6%9c%ac%e5%9c%b0%e9%9c%87) | N/A |
+| 24 | [ガノンドロフ](http://twitter.com/search?q=%e3%82%ac%e3%83%8e%e3%83%b3%e3%83%89%e3%83%ad%e3%83%95) | N/A |
+| 25 | [ポケカ買い](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%82%ab%e8%b2%b7%e3%81%84) | N/A |
+| 26 | [学園生活](http://twitter.com/search?q=%e5%ad%a6%e5%9c%92%e7%94%9f%e6%b4%bb) | N/A |
+| 27 | [ガッティ](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%83%86%e3%82%a3) | N/A |
+| 28 | [ヨドバシ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%83%90%e3%82%b7) | N/A |
+| 29 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
+| 30 | [マルシャル](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%82%b7%e3%83%a3%e3%83%ab) | N/A |
+| 31 | [椅子の日](http://twitter.com/search?q=%e6%a4%85%e5%ad%90%e3%81%ae%e6%97%a5) | N/A |
+| 32 | [ウォンレイ](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%b3%e3%83%ac%e3%82%a4) | N/A |
+| 33 | [ザビッツァー](http://twitter.com/search?q=%e3%82%b6%e3%83%93%e3%83%83%e3%83%84%e3%82%a1%e3%83%bc) | ザビッツァー is a Japanese term for a type of snack food made from wheat flour, sugar, and other ingredients. It is similar to a biscuit or cookie, but has a unique texture and flavor. In English, it is sometimes referred to as "Zabitsa". |
+| 34 | [ガッシュ2](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%82%b7%e3%83%a52) | N/A |
+| 35 | [ハズレなしの超豪華ガチャ](http://twitter.com/search?q=%e3%83%8f%e3%82%ba%e3%83%ac%e3%81%aa%e3%81%97%e3%81%ae%e8%b6%85%e8%b1%aa%e8%8f%af%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
+| 36 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
+| 37 | [ブルーノ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%8e) | N/A |
+| 38 | [ロックマンエグゼ](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3%e3%82%a8%e3%82%b0%e3%82%bc) | N/A |
+| 39 | [スポルティング](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 40 | [米津玄師さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e7%8e%84%e5%b8%ab%e3%81%95%e3%82%93) | N/A |
+| 41 | [ティザー映像](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%b6%e3%83%bc%e6%98%a0%e5%83%8f) | N/A |
+| 42 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
+| 43 | [ウォーカー](http://twitter.com/search?q=%e3%82%a6%e3%82%a9%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
+| 44 | [週末金曜日](http://twitter.com/search?q=%e9%80%b1%e6%9c%ab%e9%87%91%e6%9b%9c%e6%97%a5) | N/A |
+| 45 | [シェア枠NO.1](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%82%a2%e6%9e%a0NO.1) | N/A |
+| 46 | [キエーザ](http://twitter.com/search?q=%e3%82%ad%e3%82%a8%e3%83%bc%e3%82%b6) | N/A |
+| 47 | [召喚獣バトル](http://twitter.com/search?q=%e5%8f%ac%e5%96%9a%e7%8d%a3%e3%83%90%e3%83%88%e3%83%ab) | N/A |
+| 48 | [エランガ](http://twitter.com/search?q=%e3%82%a8%e3%83%a9%e3%83%b3%e3%82%ac) | N/A |
+| 49 | [国際秩序](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e7%a7%a9%e5%ba%8f) | N/A |
 
 
 

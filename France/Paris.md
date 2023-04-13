@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-13 21:17:07 UTC`
+📆 Last Updated: `2023-04-13 22:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 2 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 3 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 4 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 1 | [Parc](http://twitter.com/search?q=Parc) | N/A |
+| 2 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 3 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 4 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 5 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 6 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 7 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
-| 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 9 | [#radiodeter](http://twitter.com/search?q=%23radiodeter) | N/A |
-| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 11 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 12 | [#EnvoyeSpecial](http://twitter.com/search?q=%23EnvoyeSpecial) | N/A |
-| 13 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 14 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 15 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 16 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 17 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 18 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 19 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 20 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 21 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 8 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 10 | [#radiodeter](http://twitter.com/search?q=%23radiodeter) | N/A |
+| 11 | [#ComplementDenquete](http://twitter.com/search?q=%23ComplementDenquete) | N/A |
+| 12 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
+| 13 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 14 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 15 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 16 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 17 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 18 | [#StateofPlay](http://twitter.com/search?q=%23StateofPlay) | N/A |
+| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 20 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 21 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
 | 22 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 23 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 25 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 26 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 27 | [Allah y Rahmo](http://twitter.com/search?q=Allah+y+Rahmo) | N/A |
-| 28 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 29 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 30 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
-| 31 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 32 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 33 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 34 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 35 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 36 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
-| 37 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 38 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 39 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 40 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 41 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 42 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 43 | [François Ruffin](http://twitter.com/search?q=Fran%c3%a7ois+Ruffin) | N/A |
-| 44 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 45 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 46 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 47 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 48 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
-| 49 | [Wissam](http://twitter.com/search?q=Wissam) | N/A |
-| 50 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 23 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 24 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 25 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 27 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 28 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 29 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
+| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 31 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 32 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 33 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 34 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 35 | [Allah y Rahmo](http://twitter.com/search?q=Allah+y+Rahmo) | N/A |
+| 36 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 37 | [Princes](http://twitter.com/search?q=Princes) | N/A |
+| 38 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 39 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 40 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 41 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 42 | [Laborde](http://twitter.com/search?q=Laborde) | N/A |
+| 43 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 44 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 45 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 46 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 47 | [Digard](http://twitter.com/search?q=Digard) | N/A |
+| 48 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 49 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 50 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-13 21:17:05 UTC`
+📆 Last Updated: `2023-04-13 22:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
-| 2 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
+| 1 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
+| 2 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
 | 3 | [#LCHFIO](http://twitter.com/search?q=%23LCHFIO) | N/A |
 | 4 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 5 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 6 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 7 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 8 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 9 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 10 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 11 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 12 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 13 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
-| 16 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 17 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 18 | [Kolejorza](http://twitter.com/search?q=Kolejorza) | N/A |
-| 19 | [Martineza](http://twitter.com/search?q=Martineza) | N/A |
+| 5 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 6 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 7 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 8 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 9 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 10 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
+| 13 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 14 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 15 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 16 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 17 | [Gliński](http://twitter.com/search?q=Gli%c5%84ski) | N/A |
+| 18 | [Martineza](http://twitter.com/search?q=Martineza) | N/A |
+| 19 | [Satka](http://twitter.com/search?q=Satka) | N/A |
 | 20 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 22 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 23 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 24 | [Gwardii Narodowej](http://twitter.com/search?q=Gwardii+Narodowej) | N/A |
-| 25 | [Marchwińskiego](http://twitter.com/search?q=Marchwi%c5%84skiego) | N/A |
-| 26 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 27 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 28 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 29 | [Sevilli](http://twitter.com/search?q=Sevilli) | N/A |
-| 30 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 31 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 32 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 33 | [Legię](http://twitter.com/search?q=Legi%c4%99) | N/A |
-| 34 | [jakubiak](http://twitter.com/search?q=jakubiak) | N/A |
-| 35 | [CASY](http://twitter.com/search?q=CASY) | N/A |
-| 36 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 37 | [Goats](http://twitter.com/search?q=Goats) | N/A |
-| 38 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
-| 39 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 40 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 41 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 42 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
-| 43 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 44 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
-| 45 | [Ministra Edukacji](http://twitter.com/search?q=Ministra+Edukacji) | N/A |
-| 46 | [Pentagonu](http://twitter.com/search?q=Pentagonu) | N/A |
-| 47 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
-| 48 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 21 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
+| 22 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
+| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 24 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 25 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 26 | [Sevilli](http://twitter.com/search?q=Sevilli) | N/A |
+| 27 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 28 | [Lidze Europy](http://twitter.com/search?q=Lidze+Europy) | N/A |
+| 29 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 30 | [Ministra Edukacji](http://twitter.com/search?q=Ministra+Edukacji) | N/A |
+| 31 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
+| 32 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 33 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 34 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 35 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 36 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 37 | [Legię](http://twitter.com/search?q=Legi%c4%99) | N/A |
+| 38 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 39 | [Ikone](http://twitter.com/search?q=Ikone) | N/A |
+| 40 | [Marchwińskiego](http://twitter.com/search?q=Marchwi%c5%84skiego) | N/A |
+| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 42 | [Pentagonu](http://twitter.com/search?q=Pentagonu) | N/A |
+| 43 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 44 | [Goats](http://twitter.com/search?q=Goats) | N/A |
+| 45 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 46 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 47 | [Franek](http://twitter.com/search?q=Franek) | N/A |
+| 48 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
 
 
 

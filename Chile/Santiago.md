@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-13 21:17:00 UTC`
+📆 Last Updated: `2023-04-13 22:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 2 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 3 | [Talca](http://twitter.com/search?q=Talca) | N/A |
-| 4 | [Clínica Sierra Bella](http://twitter.com/search?q=Cl%c3%adnica+Sierra+Bella) | N/A |
-| 5 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 3 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 4 | [Talca](http://twitter.com/search?q=Talca) | N/A |
+| 5 | [Clínica Sierra Bella](http://twitter.com/search?q=Cl%c3%adnica+Sierra+Bella) | N/A |
 | 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 7 | [#GobiernoInforma](http://twitter.com/search?q=%23GobiernoInforma) | N/A |
-| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 9 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
+| 7 | [Decide](http://twitter.com/search?q=Decide) | N/A |
+| 8 | [#GobiernoInforma](http://twitter.com/search?q=%23GobiernoInforma) | N/A |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 10 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 11 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
-| 12 | [#BailandoDosCorazones](http://twitter.com/search?q=%23BailandoDosCorazones) | N/A |
+| 11 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
+| 12 | [#EstadoDeExcepcion](http://twitter.com/search?q=%23EstadoDeExcepcion) | N/A |
 | 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 15 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 16 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
-| 17 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 18 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
-| 19 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 20 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 21 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
-| 22 | [INDH](http://twitter.com/search?q=INDH) | N/A |
-| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 24 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 14 | [#LALI](http://twitter.com/search?q=%23LALI) | N/A |
+| 15 | [Irací Hassler](http://twitter.com/search?q=Irac%c3%ad+Hassler) | N/A |
+| 16 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 17 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
+| 18 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
+| 19 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 20 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
+| 21 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 22 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
+| 23 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 24 | [Putre](http://twitter.com/search?q=Putre) | N/A |
 | 25 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 26 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
-| 27 | [Embalse Chironta](http://twitter.com/search?q=Embalse+Chironta) | N/A |
-| 28 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 26 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 27 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 28 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
 | 29 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 30 | [Gene](http://twitter.com/search?q=Gene) | N/A |
-| 31 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 32 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
-| 33 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 34 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 35 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
-| 36 | [Diego Ibáñez](http://twitter.com/search?q=Diego+Ib%c3%a1%c3%b1ez) | N/A |
-| 37 | [Arica](http://twitter.com/search?q=Arica) | N/A |
-| 38 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 39 | [Creyente](http://twitter.com/search?q=Creyente) | N/A |
-| 40 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 41 | [Municipalidad de Santiago](http://twitter.com/search?q=Municipalidad+de+Santiago) | N/A |
-| 42 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 43 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 44 | [Scotiabank](http://twitter.com/search?q=Scotiabank) | N/A |
+| 30 | [Municipalidad de Santiago](http://twitter.com/search?q=Municipalidad+de+Santiago) | N/A |
+| 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 32 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 33 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 34 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 35 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 36 | [Arica](http://twitter.com/search?q=Arica) | N/A |
+| 37 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
+| 38 | [Diego Ibáñez](http://twitter.com/search?q=Diego+Ib%c3%a1%c3%b1ez) | N/A |
+| 39 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
+| 40 | [Las Condes](http://twitter.com/search?q=Las+Condes) | N/A |
+| 41 | [Embalse Chironta](http://twitter.com/search?q=Embalse+Chironta) | N/A |
+| 42 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 43 | [Scotiabank](http://twitter.com/search?q=Scotiabank) | N/A |
+| 44 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
 | 45 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
-| 46 | [Donas](http://twitter.com/search?q=Donas) | N/A |
-| 47 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
-| 48 | [Cuicos](http://twitter.com/search?q=Cuicos) | N/A |
+| 46 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
+| 47 | [Donas](http://twitter.com/search?q=Donas) | N/A |
+| 48 | [general yañez](http://twitter.com/search?q=general+ya%c3%b1ez) | N/A |
 | 49 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 
 
