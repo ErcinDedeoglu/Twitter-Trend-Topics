@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-13 08:18:45 UTC`
+📆 Last Updated: `2023-04-13 09:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 1 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
 | 2 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 3 | [#MCIBAY](http://twitter.com/search?q=%23MCIBAY) | N/A |
-| 4 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 6 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 7 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
-| 8 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 9 | [Lüge](http://twitter.com/search?q=L%c3%bcge) | N/A |
-| 10 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 11 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 12 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 13 | [#nationalrat](http://twitter.com/search?q=%23nationalrat) | N/A |
-| 14 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 15 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 16 | [ständerat](http://twitter.com/search?q=st%c3%a4nderat) | N/A |
-| 17 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 18 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 19 | [Polparteien](http://twitter.com/search?q=Polparteien) | N/A |
-| 20 | [Fenster](http://twitter.com/search?q=Fenster) | N/A |
-| 21 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 22 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 23 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
-| 24 | [Hinweis](http://twitter.com/search?q=Hinweis) | N/A |
-| 25 | [Regulierung](http://twitter.com/search?q=Regulierung) | N/A |
-| 26 | [Symbolpolitik](http://twitter.com/search?q=Symbolpolitik) | N/A |
-| 27 | [Sondersession](http://twitter.com/search?q=Sondersession) | N/A |
-| 28 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 29 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 30 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 33 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 34 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 35 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 36 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
-| 37 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 38 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 39 | [Grossbanken](http://twitter.com/search?q=Grossbanken) | N/A |
-| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 41 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 42 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 43 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
-| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 45 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 48 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 3 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 4 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 5 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 6 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 7 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 8 | [#BenficaInter](http://twitter.com/search?q=%23BenficaInter) | N/A |
+| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 10 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 11 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 12 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 13 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 14 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 15 | [Unterstützung](http://twitter.com/search?q=Unterst%c3%bctzung) | N/A |
+| 16 | [Ständerat](http://twitter.com/search?q=St%c3%a4nderat) | N/A |
+| 17 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 18 | [Arzt](http://twitter.com/search?q=Arzt) | N/A |
+| 19 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
+| 20 | [Regulierung](http://twitter.com/search?q=Regulierung) | N/A |
+| 21 | [Ukrainer](http://twitter.com/search?q=Ukrainer) | N/A |
+| 22 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 23 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 24 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 25 | [Risiken](http://twitter.com/search?q=Risiken) | N/A |
+| 26 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 27 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 28 | [Logik](http://twitter.com/search?q=Logik) | N/A |
+| 29 | [Kontrolle](http://twitter.com/search?q=Kontrolle) | N/A |
+| 30 | [Sondersession](http://twitter.com/search?q=Sondersession) | N/A |
+| 31 | [Symbolpolitik](http://twitter.com/search?q=Symbolpolitik) | N/A |
+| 32 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 33 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 34 | [S'il](http://twitter.com/search?q=S%27il) | N/A |
+| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 36 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 37 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 38 | [Zahl](http://twitter.com/search?q=Zahl) | N/A |
+| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 40 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 41 | [Ziele](http://twitter.com/search?q=Ziele) | N/A |
+| 42 | [Publikum](http://twitter.com/search?q=Publikum) | N/A |
+| 43 | [Organisationen](http://twitter.com/search?q=Organisationen) | N/A |
+| 44 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 45 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
+| 46 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
+| 47 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 48 | [Geneva](http://twitter.com/search?q=Geneva) | N/A |
 
 
 

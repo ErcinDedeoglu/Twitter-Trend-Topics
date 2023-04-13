@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-13 08:18:48 UTC`
+📆 Last Updated: `2023-04-13 09:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MudikGratisDariGanjar](http://twitter.com/search?q=%23MudikGratisDariGanjar) | N/A |
+| 1 | [#TheClickExperience](http://twitter.com/search?q=%23TheClickExperience) | N/A |
 | 2 | [#GalaxyS235G](http://twitter.com/search?q=%23GalaxyS235G) | N/A |
-| 3 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 3 | [#MudikGratisDariGanjar](http://twitter.com/search?q=%23MudikGratisDariGanjar) | N/A |
 | 4 | [Manteb Nih PS-08](http://twitter.com/search?q=Manteb+Nih+PS-08) | N/A |
-| 5 | [PS Sang Patriot](http://twitter.com/search?q=PS+Sang+Patriot) | N/A |
+| 5 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
 | 6 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
-| 7 | [MC JOHNNY](http://twitter.com/search?q=MC+JOHNNY) | N/A |
+| 7 | [PS Sang Patriot](http://twitter.com/search?q=PS+Sang+Patriot) | N/A |
 | 8 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
 | 9 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 10 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 11 | [Paras](http://twitter.com/search?q=Paras) | N/A |
+| 10 | [Yudo Andreawan](http://twitter.com/search?q=Yudo+Andreawan) | N/A |
+| 11 | [MC JOHNNY](http://twitter.com/search?q=MC+JOHNNY) | N/A |
 | 12 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
 | 13 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 14 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 15 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 16 | [Simposium Nasional](http://twitter.com/search?q=Simposium+Nasional) | N/A |
-| 17 | [Lavender](http://twitter.com/search?q=Lavender) | N/A |
-| 18 | [Cream](http://twitter.com/search?q=Cream) | N/A |
-| 19 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
-| 20 | [KSAD Dudung AR](http://twitter.com/search?q=KSAD+Dudung+AR) | KSAD Dudung AR is an Indonesian phrase that translates to "Let's Do It Together". It is often used as a rallying cry or a call to action. |
+| 14 | [Paras](http://twitter.com/search?q=Paras) | N/A |
+| 15 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
+| 16 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 17 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 18 | [Simposium Nasional](http://twitter.com/search?q=Simposium+Nasional) | N/A |
+| 19 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 20 | [Lavender](http://twitter.com/search?q=Lavender) | N/A |
 | 21 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 22 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
-| 23 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 24 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 25 | [Maling](http://twitter.com/search?q=Maling) | N/A |
-| 26 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 27 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 28 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 29 | [Habib](http://twitter.com/search?q=Habib) | N/A |
-| 30 | [#AwesomeNightography](http://twitter.com/search?q=%23AwesomeNightography) | N/A |
-| 31 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
-| 32 | [#FxckMyLife4MPreorder](http://twitter.com/search?q=%23FxckMyLife4MPreorder) | N/A |
-| 33 | [#WE_LOVE_YOU_TAEHYUN](http://twitter.com/search?q=%23WE_LOVE_YOU_TAEHYUN) | N/A |
-| 34 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 35 | [#GanjarBawaKemajuan](http://twitter.com/search?q=%23GanjarBawaKemajuan) | N/A |
-| 36 | [#Nnattawin](http://twitter.com/search?q=%23Nnattawin) | #Nnattawin is an Indigenous hashtag used on social media to celebrate and recognize Indigenous people, cultures, and communities. It is derived from the Cree word “Nnattawin” which means “we are here” or “we are still here.” |
-| 37 | [#2M500kBsumLoveBible](http://twitter.com/search?q=%232M500kBsumLoveBible) | N/A |
-| 38 | [#25TahunKementerianBUMN](http://twitter.com/search?q=%2325TahunKementerianBUMN) | N/A |
-| 39 | [#MulaiKebaikanmu](http://twitter.com/search?q=%23MulaiKebaikanmu) | N/A |
-| 40 | [#MilePhakphum](http://twitter.com/search?q=%23MilePhakphum) | N/A |
-| 41 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
-| 42 | [#TheEighthSenseEp6](http://twitter.com/search?q=%23TheEighthSenseEp6) | N/A |
-| 43 | [#AdaUntukKebaikan](http://twitter.com/search?q=%23AdaUntukKebaikan) | N/A |
-| 44 | [#PemiluSerentak2024](http://twitter.com/search?q=%23PemiluSerentak2024) | N/A |
-| 45 | [#ditjenpas](http://twitter.com/search?q=%23ditjenpas) | N/A |
+| 22 | [Maling](http://twitter.com/search?q=Maling) | N/A |
+| 23 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
+| 24 | [Cream](http://twitter.com/search?q=Cream) | N/A |
+| 25 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 26 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 27 | [Nastar](http://twitter.com/search?q=Nastar) | N/A |
+| 28 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
+| 29 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 30 | [Habib](http://twitter.com/search?q=Habib) | N/A |
+| 31 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 32 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 33 | [Yati](http://twitter.com/search?q=Yati) | N/A |
+| 34 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
+| 35 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 36 | [#AwesomeNightography](http://twitter.com/search?q=%23AwesomeNightography) | N/A |
+| 37 | [#FxckMyLife4MPreorder](http://twitter.com/search?q=%23FxckMyLife4MPreorder) | N/A |
+| 38 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 39 | [#RamadandiShopeexOPPO](http://twitter.com/search?q=%23RamadandiShopeexOPPO) | N/A |
+| 40 | [#Nnattawin](http://twitter.com/search?q=%23Nnattawin) | #Nnattawin is an Indigenous hashtag used on social media to celebrate and recognize Indigenous people, cultures, and communities. It is derived from the Cree word “Nnattawin” which means “we are here” or “we are still here.” |
+| 41 | [#GanjarBawaKemajuan](http://twitter.com/search?q=%23GanjarBawaKemajuan) | N/A |
+| 42 | [#IDIKemanaAja](http://twitter.com/search?q=%23IDIKemanaAja) | N/A |
+| 43 | [#GajiDokterTimpang](http://twitter.com/search?q=%23GajiDokterTimpang) | N/A |
+| 44 | [#TheEighthSenseEp6](http://twitter.com/search?q=%23TheEighthSenseEp6) | N/A |
+| 45 | [#MilePhakphum](http://twitter.com/search?q=%23MilePhakphum) | N/A |
+| 46 | [#BUMNMenggerakkanIndonesiaMaju](http://twitter.com/search?q=%23BUMNMenggerakkanIndonesiaMaju) | N/A |
+| 47 | [#25TahunKementerianBUMN](http://twitter.com/search?q=%2325TahunKementerianBUMN) | N/A |
+| 48 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
 
 
 

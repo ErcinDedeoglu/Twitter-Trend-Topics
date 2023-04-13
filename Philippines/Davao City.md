@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-13 08:18:56 UTC`
+📆 Last Updated: `2023-04-13 09:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 2 | [D1 KDLEXPETA COMEBACK](http://twitter.com/search?q=D1+KDLEXPETA+COMEBACK) | N/A |
-| 3 | [#FxckMyLife4MPreorder](http://twitter.com/search?q=%23FxckMyLife4MPreorder) | N/A |
-| 4 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
-| 5 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 6 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
+| 2 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
+| 3 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
+| 4 | [D1 KDLEXPETA COMEBACK](http://twitter.com/search?q=D1+KDLEXPETA+COMEBACK) | N/A |
+| 5 | [MUSICAL WONDERMAN KD](http://twitter.com/search?q=MUSICAL+WONDERMAN+KD) | N/A |
+| 6 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
 | 7 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 8 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
-| 9 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
-| 10 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
-| 11 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
-| 12 | [MUSICAL WONDERMAN KD](http://twitter.com/search?q=MUSICAL+WONDERMAN+KD) | N/A |
-| 13 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 14 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
-| 15 | [D-1 TO PARAISO](http://twitter.com/search?q=D-1+TO+PARAISO) | N/A |
-| 16 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
-| 17 | [pluus reply time](http://twitter.com/search?q=pluus+reply+time) | N/A |
-| 18 | [Pak Na Pak with Prince](http://twitter.com/search?q=Pak+Na+Pak+with+Prince) | N/A |
-| 19 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 20 | [MC JOHNNY](http://twitter.com/search?q=MC+JOHNNY) | N/A |
-| 21 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 22 | [KATHRYN IS VJEWELED](http://twitter.com/search?q=KATHRYN+IS+VJEWELED) | N/A |
-| 23 | [bini strings dance practice](http://twitter.com/search?q=bini+strings+dance+practice) | N/A |
-| 24 | [chico poolinlove](http://twitter.com/search?q=chico+poolinlove) | N/A |
-| 25 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
-| 26 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 27 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 28 | [Gordon Ramsay](http://twitter.com/search?q=Gordon+Ramsay) | N/A |
-| 29 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 8 | [#FxckMyLife4MPreorder](http://twitter.com/search?q=%23FxckMyLife4MPreorder) | N/A |
+| 9 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
+| 10 | [#fallenmisfitlost_photo](http://twitter.com/search?q=%23fallenmisfitlost_photo) | N/A |
+| 11 | [fml official photo 1](http://twitter.com/search?q=fml+official+photo+1) | N/A |
+| 12 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
+| 13 | [pluus reply time](http://twitter.com/search?q=pluus+reply+time) | N/A |
+| 14 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 15 | [CutiePIE EIAN IS BACK](http://twitter.com/search?q=CutiePIE+EIAN+IS+BACK) | N/A |
+| 16 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
+| 17 | [chico poolinlove](http://twitter.com/search?q=chico+poolinlove) | N/A |
+| 18 | [D-1 TO PARAISO](http://twitter.com/search?q=D-1+TO+PARAISO) | N/A |
+| 19 | [Pak Na Pak with Prince](http://twitter.com/search?q=Pak+Na+Pak+with+Prince) | N/A |
+| 20 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
+| 21 | [bini strings dance practice](http://twitter.com/search?q=bini+strings+dance+practice) | N/A |
+| 22 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 23 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 24 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 25 | [MC JOHNNY](http://twitter.com/search?q=MC+JOHNNY) | N/A |
+| 26 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
+| 27 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
+| 28 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 29 | [Gordon Ramsay](http://twitter.com/search?q=Gordon+Ramsay) | N/A |
 | 30 | [happy 2months hori7on](http://twitter.com/search?q=happy+2months+hori7on) | N/A |
-| 31 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 32 | [Tenyong](http://twitter.com/search?q=Tenyong) | N/A |
-| 33 | [4 MILLION](http://twitter.com/search?q=4+MILLION) | N/A |
-| 34 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 35 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
-| 36 | [junhoe in bora deborah](http://twitter.com/search?q=junhoe+in+bora+deborah) | N/A |
-| 37 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
-| 38 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 39 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
-| 40 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
-| 41 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 42 | [svt run for your life](http://twitter.com/search?q=svt+run+for+your+life) | N/A |
-| 43 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 44 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 45 | [anji paraiso mediacon](http://twitter.com/search?q=anji+paraiso+mediacon) | N/A |
-| 46 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 47 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 48 | [Pulse Asia](http://twitter.com/search?q=Pulse+Asia) | N/A |
+| 31 | [KATHRYN IS VJEWELED](http://twitter.com/search?q=KATHRYN+IS+VJEWELED) | N/A |
+| 32 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
+| 33 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 34 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
+| 35 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 36 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 37 | [twolong liam](http://twitter.com/search?q=twolong+liam) | N/A |
+| 38 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 39 | [Tenyong](http://twitter.com/search?q=Tenyong) | N/A |
+| 40 | [Seungyoon](http://twitter.com/search?q=Seungyoon) | N/A |
+| 41 | [anji paraiso mediacon](http://twitter.com/search?q=anji+paraiso+mediacon) | N/A |
+| 42 | [junhoe in bora deborah](http://twitter.com/search?q=junhoe+in+bora+deborah) | N/A |
+| 43 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 44 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
+| 45 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 46 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 47 | [VIP Seated](http://twitter.com/search?q=VIP+Seated) | N/A |
 
 
 
