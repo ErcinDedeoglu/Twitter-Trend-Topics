@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-04-13 17:17:03 UTC`
+📆 Last Updated: `2023-04-13 18:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,42 +17,50 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 2 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 5 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
+| 3 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
+| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 5 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
 | 6 | [#PoderosoCampechano](http://twitter.com/search?q=%23PoderosoCampechano) | N/A |
-| 7 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 9 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 10 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
-| 11 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 12 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 13 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 14 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 15 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 17 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 18 | [Jueves 13](http://twitter.com/search?q=Jueves+13) | N/A |
-| 19 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 20 | [Andrea Chávez](http://twitter.com/search?q=Andrea+Ch%c3%a1vez) | N/A |
-| 21 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
-| 22 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 23 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
+| 7 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
+| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 9 | [Bienvenido Pol](http://twitter.com/search?q=Bienvenido+Pol) | N/A |
+| 10 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 11 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 12 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 13 | [Mainland High School](http://twitter.com/search?q=Mainland+High+School) | N/A |
+| 14 | [Rigo Tovar](http://twitter.com/search?q=Rigo+Tovar) | N/A |
+| 15 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 16 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 17 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 18 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 19 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
+| 20 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 21 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 22 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
+| 23 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 24 | [Belisario Domínguez](http://twitter.com/search?q=Belisario+Dom%c3%adnguez) | N/A |
-| 25 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 25 | [Andrea Chávez](http://twitter.com/search?q=Andrea+Ch%c3%a1vez) | N/A |
 | 26 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 27 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
-| 28 | [Garduño](http://twitter.com/search?q=Gardu%c3%b1o) | N/A |
-| 29 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 30 | [#KornoGritón](http://twitter.com/search?q=%23KornoGrit%c3%b3n) | N/A |
-| 31 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
-| 32 | [#comicmañanero](http://twitter.com/search?q=%23comicma%c3%b1anero) | N/A |
-| 33 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
-| 34 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 35 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 36 | [#MareaRosa](http://twitter.com/search?q=%23MareaRosa) | N/A |
-| 37 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
-| 38 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 27 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 28 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 29 | [Jueves 13](http://twitter.com/search?q=Jueves+13) | N/A |
+| 30 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 31 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 32 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 33 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 34 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
+| 35 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 36 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
+| 37 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
+| 38 | [#AgustD_GlitchFilm](http://twitter.com/search?q=%23AgustD_GlitchFilm) | N/A |
+| 39 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 40 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 41 | [#EnVivo](http://twitter.com/search?q=%23EnVivo) | N/A |
+| 42 | [#Tlalnepantla](http://twitter.com/search?q=%23Tlalnepantla) | N/A |
+| 43 | [#MareaRosa](http://twitter.com/search?q=%23MareaRosa) | N/A |
+| 44 | [#MoratoriaConstitucional](http://twitter.com/search?q=%23MoratoriaConstitucional) | N/A |
+| 45 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
+| 46 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
 
 
 

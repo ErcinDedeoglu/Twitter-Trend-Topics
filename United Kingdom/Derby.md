@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Derby
 
-📆 Last Updated: `2023-04-13 17:16:58 UTC`
+📆 Last Updated: `2023-04-13 18:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 2 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
-| 3 | [Sherwood Forest](http://twitter.com/search?q=Sherwood+Forest) | N/A |
-| 4 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 5 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 6 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 7 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
-| 8 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 9 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 10 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 11 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 12 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 13 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 14 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 15 | [Dancing On My Own](http://twitter.com/search?q=Dancing+On+My+Own) | N/A |
-| 16 | [Dysart Enos](http://twitter.com/search?q=Dysart+Enos) | N/A |
-| 17 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 18 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 19 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 20 | [#AintreeFestival](http://twitter.com/search?q=%23AintreeFestival) | N/A |
-| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 22 | [Famous Clermont](http://twitter.com/search?q=Famous+Clermont) | N/A |
-| 23 | [#IStandWithHenrietta](http://twitter.com/search?q=%23IStandWithHenrietta) | N/A |
-| 24 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
-| 25 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 26 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 27 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 28 | [Douglas Talking](http://twitter.com/search?q=Douglas+Talking) | N/A |
-| 29 | [Deji](http://twitter.com/search?q=Deji) | N/A |
-| 30 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 31 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 32 | [Bo Zenith](http://twitter.com/search?q=Bo+Zenith) | N/A |
-| 33 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 34 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 35 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 36 | [Zenta](http://twitter.com/search?q=Zenta) | N/A |
-| 37 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 38 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 39 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
-| 40 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 41 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 42 | [Warsi](http://twitter.com/search?q=Warsi) | N/A |
-| 43 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 44 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 45 | [Sophia Bush](http://twitter.com/search?q=Sophia+Bush) | N/A |
-| 46 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 47 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 48 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 1 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 2 | [Zenta](http://twitter.com/search?q=Zenta) | N/A |
+| 3 | [Bo Zenith](http://twitter.com/search?q=Bo+Zenith) | N/A |
+| 4 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
+| 5 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 6 | [#britsoc23](http://twitter.com/search?q=%23britsoc23) | N/A |
+| 7 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 8 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 9 | [Eden](http://twitter.com/search?q=Eden) | N/A |
+| 10 | [#GrandNational365](http://twitter.com/search?q=%23GrandNational365) | N/A |
+| 11 | [Danny Ings](http://twitter.com/search?q=Danny+Ings) | Danny Ings is the name of an English professional footballer who currently plays for Southampton. He is a striker and has previously played for Liverpool and Burnley. |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 14 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 15 | [Gent](http://twitter.com/search?q=Gent) | N/A |
+| 16 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 17 | [Coufal](http://twitter.com/search?q=Coufal) | N/A |
+| 18 | [Dysart Enos](http://twitter.com/search?q=Dysart+Enos) | N/A |
+| 19 | [Downes](http://twitter.com/search?q=Downes) | N/A |
+| 20 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 21 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 22 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 23 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 24 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 25 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
+| 26 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 27 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 28 | [Wardley](http://twitter.com/search?q=Wardley) | N/A |
+| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 30 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 31 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 32 | [Famous Clermont](http://twitter.com/search?q=Famous+Clermont) | N/A |
+| 33 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 34 | [Dancing On My Own](http://twitter.com/search?q=Dancing+On+My+Own) | N/A |
+| 35 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 36 | [Marbles](http://twitter.com/search?q=Marbles) | N/A |
+| 37 | [Douglas Talking](http://twitter.com/search?q=Douglas+Talking) | N/A |
+| 38 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 39 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 40 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 41 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 42 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
+| 43 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 44 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 45 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 46 | [Monte Carlo](http://twitter.com/search?q=Monte+Carlo) | N/A |
+| 47 | [Dracula](http://twitter.com/search?q=Dracula) | N/A |
+| 48 | [Warsi](http://twitter.com/search?q=Warsi) | N/A |
+| 49 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 
 
 

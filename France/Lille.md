@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-04-13 17:17:10 UTC`
+📆 Last Updated: `2023-04-13 18:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#Lille](http://twitter.com/search?q=%23Lille) | N/A |
 | 2 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
-| 3 | [#ZeldaTearsOfTheKingdom](http://twitter.com/search?q=%23ZeldaTearsOfTheKingdom) | N/A |
-| 4 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 5 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 6 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 7 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 8 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 9 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 10 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 11 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 12 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 13 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 14 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 15 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 16 | [Djoko](http://twitter.com/search?q=Djoko) | N/A |
-| 17 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 18 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 19 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 20 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 21 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
-| 22 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 23 | [Sakumo](http://twitter.com/search?q=Sakumo) | N/A |
-| 24 | [FNCS](http://twitter.com/search?q=FNCS) | N/A |
-| 25 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 26 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 27 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 28 | [Tobirama](http://twitter.com/search?q=Tobirama) | N/A |
-| 29 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
-| 30 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 31 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 32 | [Arnaud Rousseau](http://twitter.com/search?q=Arnaud+Rousseau) | N/A |
-| 33 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 34 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 35 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 36 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 4 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
+| 5 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 6 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 7 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
+| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 9 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 10 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 11 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 12 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 13 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 14 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 15 | [#Conseil_Constitutionnel](http://twitter.com/search?q=%23Conseil_Constitutionnel) | N/A |
+| 16 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 17 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 18 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 19 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 20 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 21 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 22 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 23 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 24 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 25 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 26 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 27 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 28 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
+| 29 | [FNCS](http://twitter.com/search?q=FNCS) | N/A |
+| 30 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 31 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 32 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 33 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 34 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 35 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
+| 36 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
 | 37 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 38 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 39 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 40 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 41 | [Vert](http://twitter.com/search?q=Vert) | N/A |
-| 42 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 43 | [Digard](http://twitter.com/search?q=Digard) | N/A |
-| 44 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 45 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 46 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 47 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 48 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 49 | [Remis](http://twitter.com/search?q=Remis) | N/A |
+| 38 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 39 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 40 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 41 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 42 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 43 | [GP Explorer 2](http://twitter.com/search?q=GP+Explorer+2) | N/A |
+| 44 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 45 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 46 | [Juice](http://twitter.com/search?q=Juice) | N/A |
+| 47 | [Vert](http://twitter.com/search?q=Vert) | N/A |
+| 48 | [Égyptiens](http://twitter.com/search?q=%c3%89gyptiens) | N/A |
+| 49 | [#MicromaniaLamb](http://twitter.com/search?q=%23MicromaniaLamb) | N/A |
 
 
 

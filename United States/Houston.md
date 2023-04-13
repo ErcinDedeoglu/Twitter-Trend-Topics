@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-13 17:17:39 UTC`
+📆 Last Updated: `2023-04-13 18:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 4 | [#NCTDREAMinHOUSTON](http://twitter.com/search?q=%23NCTDREAMinHOUSTON) | N/A |
 | 5 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 6 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 7 | [#THEDREAMSHOW2_in_HOUSTON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_HOUSTON) | N/A |
-| 8 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
-| 9 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 10 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 11 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 13 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 14 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 15 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 16 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 17 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 18 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 19 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 20 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 21 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 22 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 23 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 24 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
-| 25 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 26 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 27 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 28 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 29 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 30 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 31 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
-| 32 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 33 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 34 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 35 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
-| 36 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 37 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 38 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 39 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
-| 40 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 41 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 42 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
-| 43 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 44 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 45 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 46 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
-| 47 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 48 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 49 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 50 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 6 | [#THEDREAMSHOW2_in_HOUSTON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_HOUSTON) | N/A |
+| 7 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 8 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 9 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
+| 10 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 11 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 12 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 13 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 14 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 15 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 16 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 17 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 18 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 19 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 20 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 21 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 22 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 23 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 24 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 25 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 27 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 28 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 29 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 30 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
+| 31 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 32 | [Proche](http://twitter.com/search?q=Proche) | Proche is a French word meaning "close" or "nearby". It can be used to describe physical proximity, such as being close to someone or something, or it can be used to describe a relationship between two people or things. |
+| 33 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 34 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
+| 35 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 36 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 37 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
+| 38 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 39 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 40 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 41 | [Thune](http://twitter.com/search?q=Thune) | N/A |
+| 42 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 43 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 44 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 45 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 46 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 47 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 48 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 49 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
+| 50 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
 
 
 

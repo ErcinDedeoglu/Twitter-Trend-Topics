@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-13 17:17:10 UTC`
+📆 Last Updated: `2023-04-13 18:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 2 | [Juice](http://twitter.com/search?q=Juice) | N/A |
-| 3 | [#emploi](http://twitter.com/search?q=%23emploi) | N/A |
-| 4 | [Booba](http://twitter.com/search?q=Booba) | N/A |
-| 5 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
-| 6 | [#ZeldaTearsOfTheKingdom](http://twitter.com/search?q=%23ZeldaTearsOfTheKingdom) | N/A |
+| 1 | [#64ansCestNon](http://twitter.com/search?q=%2364ansCestNon) | N/A |
+| 2 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 5 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
+| 6 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
 | 7 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 9 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 10 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
-| 11 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 12 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 13 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 14 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 15 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
-| 16 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 17 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 18 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 19 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 20 | [Djoko](http://twitter.com/search?q=Djoko) | N/A |
-| 21 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 23 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 24 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 25 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
-| 26 | [Sakumo](http://twitter.com/search?q=Sakumo) | N/A |
-| 27 | [FNCS](http://twitter.com/search?q=FNCS) | N/A |
-| 28 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 29 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 30 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 31 | [Tobirama](http://twitter.com/search?q=Tobirama) | N/A |
-| 32 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
-| 33 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 34 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 35 | [Arnaud Rousseau](http://twitter.com/search?q=Arnaud+Rousseau) | N/A |
-| 36 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 37 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 38 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
-| 39 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 40 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 41 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
-| 42 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 43 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 44 | [Digard](http://twitter.com/search?q=Digard) | N/A |
-| 45 | [Vert](http://twitter.com/search?q=Vert) | N/A |
-| 46 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 47 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 48 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 49 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 50 | [Remis](http://twitter.com/search?q=Remis) | N/A |
+| 8 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
+| 9 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 10 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 11 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 12 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 13 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 14 | [Bastille](http://twitter.com/search?q=Bastille) | N/A |
+| 15 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 16 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
+| 17 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 18 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 19 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 20 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 21 | [Reuters](http://twitter.com/search?q=Reuters) | N/A |
+| 22 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 23 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 24 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 25 | [Ted Lasso](http://twitter.com/search?q=Ted+Lasso) | N/A |
+| 26 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 27 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 28 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 29 | [FNCS](http://twitter.com/search?q=FNCS) | N/A |
+| 30 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
+| 31 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 32 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 33 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 34 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 35 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 36 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
+| 37 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 38 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 39 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 40 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 41 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 42 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 43 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 44 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 45 | [GP Explorer 2](http://twitter.com/search?q=GP+Explorer+2) | N/A |
+| 46 | [Juice](http://twitter.com/search?q=Juice) | N/A |
+| 47 | [Vert](http://twitter.com/search?q=Vert) | N/A |
+| 48 | [Égyptiens](http://twitter.com/search?q=%c3%89gyptiens) | N/A |
+| 49 | [#MicromaniaLamb](http://twitter.com/search?q=%23MicromaniaLamb) | N/A |
+| 50 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 
 
 

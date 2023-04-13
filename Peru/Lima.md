@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-13 17:17:06 UTC`
+📆 Last Updated: `2023-04-13 18:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Urresti](http://twitter.com/search?q=Urresti) | N/A |
-| 2 | [Hugo Bustíos](http://twitter.com/search?q=Hugo+Bust%c3%ados) | N/A |
-| 3 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 4 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
-| 5 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 6 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
-| 7 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 8 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 9 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
-| 10 | [#AgustD_GlitchFilm](http://twitter.com/search?q=%23AgustD_GlitchFilm) | N/A |
+| 1 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 2 | [Urresti](http://twitter.com/search?q=Urresti) | N/A |
+| 3 | [Hugo Bustíos](http://twitter.com/search?q=Hugo+Bust%c3%ados) | N/A |
+| 4 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 5 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
+| 6 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 7 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
+| 8 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 9 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
+| 10 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
 | 11 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 12 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 13 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 14 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 15 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 16 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
-| 17 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
-| 21 | [Otarola](http://twitter.com/search?q=Otarola) | Otarola is a Spanish surname. It is derived from the Basque word "otar", which means "wolf". In English, the meaning of Otarola is "son of the wolf". |
-| 22 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
-| 23 | [ASESINO](http://twitter.com/search?q=ASESINO) | N/A |
-| 24 | [Redentor](http://twitter.com/search?q=Redentor) | N/A |
-| 25 | [Job 19](http://twitter.com/search?q=Job+19) | N/A |
-| 26 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
-| 27 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 12 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
+| 13 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 14 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 15 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
+| 16 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 17 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 18 | [Tibisay](http://twitter.com/search?q=Tibisay) | N/A |
+| 19 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
+| 20 | [Otarola](http://twitter.com/search?q=Otarola) | Otarola is a Spanish surname. It is derived from the Basque word "otar", which means "wolf". In English, the meaning of Otarola is "son of the wolf". |
+| 21 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 22 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 23 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
+| 24 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
+| 25 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
+| 26 | [Teleticket](http://twitter.com/search?q=Teleticket) | N/A |
+| 27 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 28 | [Magaly Solier](http://twitter.com/search?q=Magaly+Solier) | N/A |
-| 29 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 31 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 29 | [Gerardo](http://twitter.com/search?q=Gerardo) | N/A |
+| 30 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 31 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
 | 32 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 33 | [Teleticket](http://twitter.com/search?q=Teleticket) | N/A |
-| 34 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
-| 35 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 36 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 37 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
-| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 33 | [FFAA](http://twitter.com/search?q=FFAA) | N/A |
+| 34 | [Redentor](http://twitter.com/search?q=Redentor) | N/A |
+| 35 | [Job 19](http://twitter.com/search?q=Job+19) | N/A |
+| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 37 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 38 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
 | 39 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 40 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
+| 40 | [Karma](http://twitter.com/search?q=Karma) | N/A |
 | 41 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
-| 42 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 43 | [alessia](http://twitter.com/search?q=alessia) | N/A |
-| 44 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 45 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 46 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 47 | [Huanta](http://twitter.com/search?q=Huanta) | N/A |
-| 48 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 49 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 50 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 42 | [Nadine](http://twitter.com/search?q=Nadine) | Nadine is a female given name of French origin, derived from the name Nadia. It is a variant of the name Nadia, which is derived from the Russian name Nadezhda, meaning “hope”. |
+| 43 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
+| 44 | [héctor chumpitaz](http://twitter.com/search?q=h%c3%a9ctor+chumpitaz) | N/A |
+| 45 | [Chika](http://twitter.com/search?q=Chika) | N/A |
+| 46 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
+| 47 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 48 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 49 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 50 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 
 
 

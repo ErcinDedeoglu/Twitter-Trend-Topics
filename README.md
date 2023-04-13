@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-13 17:16:56 UTC`
+📆 Last Updated: `2023-04-13 18:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 2 | [ガノンドロフ](http://twitter.com/search?q=%e3%82%ac%e3%83%8e%e3%83%b3%e3%83%89%e3%83%ad%e3%83%95) | N/A |
-| 3 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 4 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 5 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
-| 6 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 7 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 8 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
-| 9 | [트루먼쇼](http://twitter.com/search?q=%ed%8a%b8%eb%a3%a8%eb%a8%bc%ec%87%bc) | N/A |
-| 10 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 11 | [#ร้องข้ามกําแพงxPECK](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%81%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%9e%e0%b8%87xPECK) | N/A |
-| 12 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 13 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 14 | [#あなたがしてくれなくても](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%8c%e3%81%97%e3%81%a6%e3%81%8f%e3%82%8c%e3%81%aa%e3%81%8f%e3%81%a6%e3%82%82) | N/A |
-| 15 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 16 | [ブレワイ](http://twitter.com/search?q=%e3%83%96%e3%83%ac%e3%83%af%e3%82%a4) | N/A |
-| 17 | [빌어먹을 세상](http://twitter.com/search?q=%eb%b9%8c%ec%96%b4%eb%a8%b9%ec%9d%84+%ec%84%b8%ec%83%81) | N/A |
-| 18 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 19 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 20 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 21 | [チューリ](http://twitter.com/search?q=%e3%83%81%e3%83%a5%e3%83%bc%e3%83%aa) | N/A |
-| 22 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 23 | [ロックマンエグゼ](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3%e3%82%a8%e3%82%b0%e3%82%bc) | N/A |
-| 24 | [ティアーズ](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%bc%e3%82%ba) | N/A |
-| 25 | [シド王子](http://twitter.com/search?q=%e3%82%b7%e3%83%89%e7%8e%8b%e5%ad%90) | N/A |
-| 26 | [ケヤフェス](http://twitter.com/search?q=%e3%82%b1%e3%83%a4%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 27 | [ヨドバシ](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%83%90%e3%82%b7) | N/A |
+| 1 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 3 | [ArkeoSanataBaharGelecek](http://twitter.com/search?q=ArkeoSanataBaharGelecek) | N/A |
+| 4 | [#ختاميه_رمضان_مع_ابوفهد](http://twitter.com/search?q=%23%d8%ae%d8%aa%d8%a7%d9%85%d9%8a%d9%87_%d8%b1%d9%85%d8%b6%d8%a7%d9%86_%d9%85%d8%b9_%d8%a7%d8%a8%d9%88%d9%81%d9%87%d8%af) | N/A |
+| 5 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 6 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
+| 7 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 8 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
+| 9 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 10 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 11 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 12 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
+| 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 14 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 15 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 16 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 17 | [트루먼쇼](http://twitter.com/search?q=%ed%8a%b8%eb%a3%a8%eb%a8%bc%ec%87%bc) | N/A |
+| 18 | [BayKemal İibfyeSÖZver](http://twitter.com/search?q=BayKemal+%c4%b0ibfyeS%c3%96Zver) | N/A |
+| 19 | [ガノンドロフ](http://twitter.com/search?q=%e3%82%ac%e3%83%8e%e3%83%b3%e3%83%89%e3%83%ad%e3%83%95) | N/A |
+| 20 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 21 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 22 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 23 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 24 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 25 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 26 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 27 | [ティアキン](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%82%ad%e3%83%b3) | N/A |
 | 28 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 29 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
-| 30 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 31 | [ファイナル](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%a4%e3%83%8a%e3%83%ab) | N/A |
-| 32 | [ガッシュ2](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%82%b7%e3%83%a52) | N/A |
-| 33 | [ルージュ](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%82%b8%e3%83%a5) | N/A |
-| 34 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 35 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
-| 36 | [キリングパート](http://twitter.com/search?q=%e3%82%ad%e3%83%aa%e3%83%b3%e3%82%b0%e3%83%91%e3%83%bc%e3%83%88) | N/A |
-| 37 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
-| 38 | [ソウォン](http://twitter.com/search?q=%e3%82%bd%e3%82%a6%e3%82%a9%e3%83%b3) | N/A |
-| 39 | [ティオさん](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%aa%e3%81%95%e3%82%93) | N/A |
-| 40 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 41 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 42 | [The Wall Song x PECK](http://twitter.com/search?q=The+Wall+Song+x+PECK) | N/A |
-| 43 | [みのりちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%ae%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 44 | [キングダム](http://twitter.com/search?q=%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%80%e3%83%a0) | N/A |
-| 45 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
-| 46 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 47 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 48 | [第448回](http://twitter.com/search?q=%e7%ac%ac448%e5%9b%9e) | N/A |
+| 29 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
+| 30 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
+| 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 32 | [Tewatia](http://twitter.com/search?q=Tewatia) | N/A |
+| 33 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
+| 34 | [ティオさん](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%aa%e3%81%95%e3%82%93) | N/A |
+| 35 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
+| 36 | [ガッシュ2](http://twitter.com/search?q=%e3%82%ac%e3%83%83%e3%82%b7%e3%83%a52) | N/A |
+| 37 | [Vakıfbank](http://twitter.com/search?q=Vak%c4%b1fbank) | N/A |
+| 38 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 39 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 40 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 41 | [Novak](http://twitter.com/search?q=Novak) | Novak is a surname of Slavic origin. It is derived from the word "nov", meaning "new". The name is most commonly associated with the tennis player Novak Djokovic, who is one of the most successful players in the history of the sport. |
+| 42 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 43 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 44 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 45 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 46 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
+| 47 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 48 | [ロックマンエグゼ](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3%e3%82%a8%e3%82%b0%e3%82%bc) | N/A |
 | 49 | [最速上映](http://twitter.com/search?q=%e6%9c%80%e9%80%9f%e4%b8%8a%e6%98%a0) | N/A |
-| 50 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 50 | [Springs](http://twitter.com/search?q=Springs) | N/A |
 
 
 

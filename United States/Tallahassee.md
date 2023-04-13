@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-13 17:17:44 UTC`
+📆 Last Updated: `2023-04-13 18:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 2 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 3 | [Broward](http://twitter.com/search?q=Broward) | N/A |
-| 4 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 6 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 7 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 8 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 10 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 11 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 12 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 13 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 14 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 15 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 16 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 17 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 18 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
-| 19 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 20 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 21 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 22 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 23 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 24 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 25 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 26 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 27 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
-| 28 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 29 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 30 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 31 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
-| 32 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 33 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 34 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 35 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 36 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 37 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 38 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
-| 39 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
-| 40 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 41 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
-| 42 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 43 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 44 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 45 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 46 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 47 | [Letitia James](http://twitter.com/search?q=Letitia+James) | N/A |
-| 48 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 49 | [Dracula](http://twitter.com/search?q=Dracula) | N/A |
+| 1 | [#UCFDayofGiving](http://twitter.com/search?q=%23UCFDayofGiving) | N/A |
+| 2 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 3 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 4 | [Broward](http://twitter.com/search?q=Broward) | N/A |
+| 5 | [Taylor Swift](http://twitter.com/search?q=Taylor+Swift) | N/A |
+| 6 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 7 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 8 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 9 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 10 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 13 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 14 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 15 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
+| 16 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 17 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 18 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 19 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 20 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 21 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 22 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 23 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 24 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 25 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 26 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 27 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
+| 28 | [#HTTR](http://twitter.com/search?q=%23HTTR) | N/A |
+| 29 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 30 | [Proche](http://twitter.com/search?q=Proche) | Proche is a French word meaning "close" or "nearby". It can be used to describe physical proximity, such as being close to someone or something, or it can be used to describe a relationship between two people or things. |
+| 31 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 32 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
+| 33 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 34 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 35 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
+| 36 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 37 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 38 | [Thune](http://twitter.com/search?q=Thune) | N/A |
+| 39 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 40 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 41 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 42 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 43 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 44 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 45 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 46 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 47 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
+| 48 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 49 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
 
 
 

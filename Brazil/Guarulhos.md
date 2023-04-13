@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-13 17:17:08 UTC`
+📆 Last Updated: `2023-04-13 18:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Manaus](http://twitter.com/search?q=Manaus) | N/A |
-| 2 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 3 | [Racismo](http://twitter.com/search?q=Racismo) | N/A |
-| 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 5 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 8 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 9 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 10 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 11 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 12 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 13 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 15 | [IEM Rio](http://twitter.com/search?q=IEM+Rio) | N/A |
-| 16 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
-| 17 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 18 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 20 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 21 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
-| 22 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
-| 23 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 24 | [#DiadoBeijo](http://twitter.com/search?q=%23DiadoBeijo) | N/A |
-| 25 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
-| 26 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 27 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 28 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 29 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
-| 30 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 31 | [Devi](http://twitter.com/search?q=Devi) | N/A |
-| 32 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 33 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 34 | [BOLSONARO INELEGÍVEL](http://twitter.com/search?q=BOLSONARO+INELEG%c3%8dVEL) | N/A |
-| 35 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 36 | [Negueba](http://twitter.com/search?q=Negueba) | N/A |
-| 37 | [AGUST D IS COMING](http://twitter.com/search?q=AGUST+D+IS+COMING) | N/A |
-| 38 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 39 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 40 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 41 | [Ícaro](http://twitter.com/search?q=%c3%8dcaro) | N/A |
-| 42 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 43 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 44 | [Woongki](http://twitter.com/search?q=Woongki) | N/A |
-| 45 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 46 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 47 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
-| 48 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 49 | [João Gomes e Ary](http://twitter.com/search?q=Jo%c3%a3o+Gomes+e+Ary) | N/A |
+| 1 | [#g4bandsports](http://twitter.com/search?q=%23g4bandsports) | N/A |
+| 2 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 3 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 4 | [Fora Black](http://twitter.com/search?q=Fora+Black) | N/A |
+| 5 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 6 | [Duílio](http://twitter.com/search?q=Du%c3%adlio) | N/A |
+| 7 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 9 | [Vakif](http://twitter.com/search?q=Vakif) | N/A |
+| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 11 | [Fener](http://twitter.com/search?q=Fener) | N/A |
+| 12 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 13 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 14 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
+| 15 | [Bajema](http://twitter.com/search?q=Bajema) | N/A |
+| 16 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 17 | [GABRIELA GUIMARÃES](http://twitter.com/search?q=GABRIELA+GUIMAR%c3%83ES) | N/A |
+| 18 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
+| 19 | [Devi](http://twitter.com/search?q=Devi) | N/A |
+| 20 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 21 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
+| 22 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 23 | [Noriega](http://twitter.com/search?q=Noriega) | N/A |
+| 24 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 25 | [#DiadoBeijo](http://twitter.com/search?q=%23DiadoBeijo) | N/A |
+| 26 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 27 | [#CLVolleyW](http://twitter.com/search?q=%23CLVolleyW) | N/A |
+| 28 | [Ana Cristina](http://twitter.com/search?q=Ana+Cristina) | N/A |
+| 29 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 30 | [#europaleaguenaespn](http://twitter.com/search?q=%23europaleaguenaespn) | N/A |
+| 31 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 32 | [Boal](http://twitter.com/search?q=Boal) | N/A |
+| 33 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 34 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 35 | [Drake & Josh](http://twitter.com/search?q=Drake+%26+Josh) | N/A |
+| 36 | [IEM Rio](http://twitter.com/search?q=IEM+Rio) | N/A |
+| 37 | [James Rodrigues](http://twitter.com/search?q=James+Rodrigues) | N/A |
+| 38 | [Paxton](http://twitter.com/search?q=Paxton) | N/A |
+| 39 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 40 | [Egonu](http://twitter.com/search?q=Egonu) | N/A |
+| 41 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 42 | [Ícaro](http://twitter.com/search?q=%c3%8dcaro) | N/A |
+| 43 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 44 | [Buiar](http://twitter.com/search?q=Buiar) | N/A |
+| 45 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 46 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 47 | [Negueba](http://twitter.com/search?q=Negueba) | N/A |
+| 48 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
+| 49 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
 
 
 

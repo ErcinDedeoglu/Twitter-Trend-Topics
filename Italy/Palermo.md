@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-04-13 17:17:13 UTC`
+📆 Last Updated: `2023-04-13 18:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,47 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Giletti](http://twitter.com/search?q=%23Giletti) | N/A |
-| 2 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
-| 3 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
-| 4 | [#Musetti](http://twitter.com/search?q=%23Musetti) | N/A |
-| 5 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 6 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 9 | [Tancredi](http://twitter.com/search?q=Tancredi) | N/A |
-| 10 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 11 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 12 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
-| 13 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 14 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 15 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 16 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
-| 17 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 18 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 19 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
-| 20 | [#equatore](http://twitter.com/search?q=%23equatore) | N/A |
-| 21 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
-| 22 | [#NonelArena](http://twitter.com/search?q=%23NonelArena) | N/A |
-| 23 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
-| 24 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 25 | [#giornatamondialedelbacio](http://twitter.com/search?q=%23giornatamondialedelbacio) | N/A |
-| 26 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 27 | [#MaryQuant](http://twitter.com/search?q=%23MaryQuant) | N/A |
-| 28 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 29 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
-| 30 | [#ginevra](http://twitter.com/search?q=%23ginevra) | N/A |
-| 31 | [#JuliaItuma](http://twitter.com/search?q=%23JuliaItuma) | N/A |
-| 32 | [#13aprile](http://twitter.com/search?q=%2313aprile) | N/A |
-| 33 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 34 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 35 | [#italgym](http://twitter.com/search?q=%23italgym) | N/A |
-| 36 | [#Cannes2023](http://twitter.com/search?q=%23Cannes2023) | N/A |
-| 37 | [#ItaliaViva](http://twitter.com/search?q=%23ItaliaViva) | N/A |
-| 38 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
-| 39 | [#RolexMonteCarloMasters](http://twitter.com/search?q=%23RolexMonteCarloMasters) | N/A |
-| 40 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
-| 41 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 42 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 43 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 1 | [#Musetti](http://twitter.com/search?q=%23Musetti) | N/A |
+| 2 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
+| 3 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 4 | [#Djokovic](http://twitter.com/search?q=%23Djokovic) | N/A |
+| 5 | [#Giletti](http://twitter.com/search?q=%23Giletti) | N/A |
+| 6 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 7 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 8 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 9 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 10 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 11 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 12 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 13 | [Gini](http://twitter.com/search?q=Gini) | N/A |
+| 14 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 15 | [Cairo](http://twitter.com/search?q=Cairo) | N/A |
+| 16 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 17 | [Fugatti](http://twitter.com/search?q=Fugatti) | N/A |
+| 18 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 19 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 20 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 21 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 22 | [#MonteCarloMasters](http://twitter.com/search?q=%23MonteCarloMasters) | N/A |
+| 23 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 24 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
+| 25 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
+| 26 | [#giornatamondialedelbacio](http://twitter.com/search?q=%23giornatamondialedelbacio) | N/A |
+| 27 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 28 | [#equatore](http://twitter.com/search?q=%23equatore) | N/A |
+| 29 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
+| 30 | [#JuventusSporting](http://twitter.com/search?q=%23JuventusSporting) | N/A |
+| 31 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 32 | [#MaryQuant](http://twitter.com/search?q=%23MaryQuant) | N/A |
+| 33 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 34 | [#ginevra](http://twitter.com/search?q=%23ginevra) | N/A |
+| 35 | [#JuliaItuma](http://twitter.com/search?q=%23JuliaItuma) | N/A |
+| 36 | [#atuttoreality](http://twitter.com/search?q=%23atuttoreality) | N/A |
+| 37 | [#13aprile](http://twitter.com/search?q=%2313aprile) | N/A |
+| 38 | [#HandeErçel](http://twitter.com/search?q=%23HandeEr%c3%a7el) | N/A |
+| 39 | [#Aouar](http://twitter.com/search?q=%23Aouar) | N/A |
+| 40 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
+| 41 | [#ItaliaViva](http://twitter.com/search?q=%23ItaliaViva) | N/A |
 
 
 

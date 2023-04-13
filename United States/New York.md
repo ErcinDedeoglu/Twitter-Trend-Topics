@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-13 17:17:41 UTC`
+📆 Last Updated: `2023-04-13 18:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [NFT NYC](http://twitter.com/search?q=NFT+NYC) | N/A |
-| 2 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
-| 3 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 4 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 5 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 8 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 9 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 11 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 12 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 13 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 14 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 15 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 16 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 17 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 18 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 19 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
-| 20 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 21 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 22 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 23 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 24 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 25 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 26 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 27 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 28 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 1 | [#DeNYC](http://twitter.com/search?q=%23DeNYC) | N/A |
+| 2 | [#NFTNYC2023](http://twitter.com/search?q=%23NFTNYC2023) | N/A |
+| 3 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 4 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 5 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 6 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 7 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 8 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 9 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 11 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 12 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 13 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 14 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
+| 15 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 16 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 17 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 18 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 19 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 20 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 22 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 23 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 24 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 25 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 26 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
+| 27 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 28 | [Proche](http://twitter.com/search?q=Proche) | Proche is a French word meaning "close" or "nearby". It can be used to describe physical proximity, such as being close to someone or something, or it can be used to describe a relationship between two people or things. |
 | 29 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 30 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 31 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 32 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
-| 33 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 34 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 35 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 36 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 37 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 38 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 39 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
-| 40 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
-| 41 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 42 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
-| 43 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 44 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 45 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 46 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 47 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 48 | [Letitia James](http://twitter.com/search?q=Letitia+James) | N/A |
-| 49 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 50 | [Dracula](http://twitter.com/search?q=Dracula) | N/A |
+| 30 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
+| 31 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 32 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 33 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
+| 34 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 35 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 36 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 37 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 38 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 39 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 40 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 41 | [Thune](http://twitter.com/search?q=Thune) | N/A |
+| 42 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 43 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 44 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
+| 45 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 46 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 47 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 48 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
+| 49 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 50 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
 
 
 

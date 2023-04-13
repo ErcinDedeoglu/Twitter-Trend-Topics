@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-13 17:17:45 UTC`
+📆 Last Updated: `2023-04-13 18:18:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Austria
 | 1 | [Massenschlägerei](http://twitter.com/search?q=Massenschl%c3%a4gerei) | N/A |
 | 2 | [Babler](http://twitter.com/search?q=Babler) | N/A |
 | 3 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 4 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 5 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
-| 6 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 7 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 4 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 5 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 6 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 7 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
 | 8 | [#oebb](http://twitter.com/search?q=%23oebb) | N/A |
-| 9 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 10 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 11 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
-| 12 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
+| 9 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
+| 10 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 11 | [Frau Schwaiger](http://twitter.com/search?q=Frau+Schwaiger) | N/A |
+| 12 | [Auflagen](http://twitter.com/search?q=Auflagen) | N/A |
 | 13 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
-| 14 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 15 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 16 | [Brunnenmarkt](http://twitter.com/search?q=Brunnenmarkt) | N/A |
-| 17 | [Störung](http://twitter.com/search?q=St%c3%b6rung) | N/A |
-| 18 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 19 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
-| 20 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 21 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 22 | [Dialekt](http://twitter.com/search?q=Dialekt) | N/A |
-| 23 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
-| 24 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
-| 25 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
-| 26 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
-| 27 | [Presserat](http://twitter.com/search?q=Presserat) | N/A |
-| 28 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 29 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 30 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 31 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
-| 32 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 33 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 34 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 35 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 36 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 37 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 38 | [Menge](http://twitter.com/search?q=Menge) | N/A |
-| 39 | [Grenzkontrollen](http://twitter.com/search?q=Grenzkontrollen) | N/A |
-| 40 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 41 | [Karte](http://twitter.com/search?q=Karte) | N/A |
-| 42 | [Migration](http://twitter.com/search?q=Migration) | N/A |
-| 43 | [Blöd](http://twitter.com/search?q=Bl%c3%b6d) | N/A |
-| 44 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 45 | [Termin](http://twitter.com/search?q=Termin) | N/A |
-| 46 | [Verantwortlichen](http://twitter.com/search?q=Verantwortlichen) | N/A |
-| 47 | [Familien](http://twitter.com/search?q=Familien) | N/A |
-| 48 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 49 | [Kasperl](http://twitter.com/search?q=Kasperl) | N/A |
-| 50 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
+| 14 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 15 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 16 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
+| 17 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 18 | [Störung](http://twitter.com/search?q=St%c3%b6rung) | N/A |
+| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 20 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 21 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
+| 22 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
+| 23 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
+| 24 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
+| 25 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 26 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 27 | [Mail](http://twitter.com/search?q=Mail) | N/A |
+| 28 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 29 | [Dialekt](http://twitter.com/search?q=Dialekt) | N/A |
+| 30 | [Meldungen](http://twitter.com/search?q=Meldungen) | N/A |
+| 31 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 32 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 33 | [Presserat](http://twitter.com/search?q=Presserat) | N/A |
+| 34 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 35 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 36 | [Betriebe](http://twitter.com/search?q=Betriebe) | N/A |
+| 37 | [Grenzkontrollen](http://twitter.com/search?q=Grenzkontrollen) | N/A |
+| 38 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 39 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
+| 40 | [Drukos](http://twitter.com/search?q=Drukos) | N/A |
+| 41 | [Märchen](http://twitter.com/search?q=M%c3%a4rchen) | N/A |
+| 42 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 43 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
+| 44 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 45 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
+| 46 | [Konsumenten](http://twitter.com/search?q=Konsumenten) | N/A |
+| 47 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
+| 48 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
+| 49 | [Brunnenmarkt](http://twitter.com/search?q=Brunnenmarkt) | N/A |
+| 50 | [Millionen Euro](http://twitter.com/search?q=Millionen+Euro) | N/A |
 
 
 

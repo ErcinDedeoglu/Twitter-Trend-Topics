@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-13 17:17:13 UTC`
+📆 Last Updated: `2023-04-13 18:18:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LAKS](http://twitter.com/search?q=LAKS) | N/A |
-| 2 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
+| 1 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
+| 2 | [#Feyenoord](http://twitter.com/search?q=%23Feyenoord) | N/A |
 | 3 | [#feyasr](http://twitter.com/search?q=%23feyasr) | N/A |
-| 4 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
-| 5 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 6 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
-| 7 | [#vogelexcursie](http://twitter.com/search?q=%23vogelexcursie) | N/A |
-| 8 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
-| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 10 | [#PCST2023](http://twitter.com/search?q=%23PCST2023) | N/A |
-| 11 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
-| 12 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 13 | [Langdurige](http://twitter.com/search?q=Langdurige) | N/A |
-| 14 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 15 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 16 | [Wierd Duk](http://twitter.com/search?q=Wierd+Duk) | N/A |
-| 17 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 18 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 19 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 20 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
-| 21 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
-| 22 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
-| 23 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
-| 24 | [IS-vrouwen](http://twitter.com/search?q=IS-vrouwen) | N/A |
-| 25 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
-| 26 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 27 | [Bijlmerramp](http://twitter.com/search?q=Bijlmerramp) | N/A |
-| 28 | [Lydia Daniël](http://twitter.com/search?q=Lydia+Dani%c3%abl) | N/A |
-| 29 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 30 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
-| 31 | [Wolf](http://twitter.com/search?q=Wolf) | N/A |
-| 32 | [Haga](http://twitter.com/search?q=Haga) | N/A |
-| 33 | [Manc](http://twitter.com/search?q=Manc) | N/A |
-| 34 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 35 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
-| 36 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 37 | [John Mayer](http://twitter.com/search?q=John+Mayer) | N/A |
-| 38 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 39 | [Statushouders](http://twitter.com/search?q=Statushouders) | N/A |
-| 40 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 41 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
-| 42 | [Na 8](http://twitter.com/search?q=Na+8) | N/A |
-| 43 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 44 | [Belangenverstrengeling](http://twitter.com/search?q=Belangenverstrengeling) | N/A |
-| 45 | [beringzee](http://twitter.com/search?q=beringzee) | N/A |
-| 46 | [Bente](http://twitter.com/search?q=Bente) | N/A |
-| 47 | [Koningsdag](http://twitter.com/search?q=Koningsdag) | N/A |
-| 48 | [Lelylijn](http://twitter.com/search?q=Lelylijn) | N/A |
-| 49 | [Burg](http://twitter.com/search?q=Burg) | N/A |
+| 4 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 5 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 6 | [LAKS](http://twitter.com/search?q=LAKS) | N/A |
+| 7 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
+| 8 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 9 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
+| 10 | [Alireza](http://twitter.com/search?q=Alireza) | N/A |
+| 11 | [Bijlow](http://twitter.com/search?q=Bijlow) | N/A |
+| 12 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
+| 13 | [Hans de Booij](http://twitter.com/search?q=Hans+de+Booij) | N/A |
+| 14 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
+| 15 | [Kuip](http://twitter.com/search?q=Kuip) | N/A |
+| 16 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
+| 17 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 18 | [Paixao](http://twitter.com/search?q=Paixao) | N/A |
+| 19 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 20 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
+| 21 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 22 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 23 | [Wierd](http://twitter.com/search?q=Wierd) | N/A |
+| 24 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 25 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
+| 26 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 27 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 28 | [Koningsdag](http://twitter.com/search?q=Koningsdag) | N/A |
+| 29 | [Slot](http://twitter.com/search?q=Slot) | N/A |
+| 30 | [Kruk](http://twitter.com/search?q=Kruk) | N/A |
+| 31 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 32 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
+| 33 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 34 | [Lelylijn](http://twitter.com/search?q=Lelylijn) | N/A |
+| 35 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 36 | [Na 8](http://twitter.com/search?q=Na+8) | N/A |
+| 37 | [Haga](http://twitter.com/search?q=Haga) | N/A |
+| 38 | [John Mayer](http://twitter.com/search?q=John+Mayer) | N/A |
+| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 40 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
+| 41 | [Gijs van Dijk](http://twitter.com/search?q=Gijs+van+Dijk) | N/A |
+| 42 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
+| 43 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 44 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 45 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 46 | [Belangenverstrengeling](http://twitter.com/search?q=Belangenverstrengeling) | N/A |
+| 47 | [Italianen](http://twitter.com/search?q=Italianen) | N/A |
+| 48 | [omroep max](http://twitter.com/search?q=omroep+max) | N/A |
+| 49 | [Lydia Daniël](http://twitter.com/search?q=Lydia+Dani%c3%abl) | N/A |
 
 
 

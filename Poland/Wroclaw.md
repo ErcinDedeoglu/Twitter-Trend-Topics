@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-13 17:17:09 UTC`
+📆 Last Updated: `2023-04-13 18:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 2 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 3 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 4 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
-| 5 | [#5sosgliwice](http://twitter.com/search?q=%235sosgliwice) | N/A |
-| 6 | [#RobaczywyPiS](http://twitter.com/search?q=%23RobaczywyPiS) | N/A |
-| 7 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 8 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 9 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 2 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 3 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
+| 4 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 5 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 6 | [#5sosgliwice](http://twitter.com/search?q=%235sosgliwice) | N/A |
+| 7 | [#RobaczywyPiS](http://twitter.com/search?q=%23RobaczywyPiS) | N/A |
+| 8 | [Olczyk](http://twitter.com/search?q=Olczyk) | N/A |
+| 9 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 10 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
 | 11 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
 | 12 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 13 | [GOATS](http://twitter.com/search?q=GOATS) | N/A |
-| 14 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 15 | [Fiorentiny](http://twitter.com/search?q=Fiorentiny) | N/A |
+| 13 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
+| 14 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 15 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 16 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 17 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 18 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 20 | [jacek kurski](http://twitter.com/search?q=jacek+kurski) | N/A |
-| 21 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 22 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 23 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 24 | [Rajdem Chorwacji](http://twitter.com/search?q=Rajdem+Chorwacji) | N/A |
-| 25 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 26 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
-| 27 | [jakubiak](http://twitter.com/search?q=jakubiak) | N/A |
-| 28 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
-| 29 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 30 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
-| 31 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 32 | [dagerstal](http://twitter.com/search?q=dagerstal) | N/A |
-| 33 | [Diduszko](http://twitter.com/search?q=Diduszko) | N/A |
-| 34 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
-| 35 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
-| 36 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 37 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 38 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
-| 39 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 40 | [UEFY](http://twitter.com/search?q=UEFY) | N/A |
-| 41 | [Cedrob](http://twitter.com/search?q=Cedrob) | N/A |
-| 42 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 43 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 17 | [Fiorentiny](http://twitter.com/search?q=Fiorentiny) | N/A |
+| 18 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 19 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 20 | [Satka](http://twitter.com/search?q=Satka) | N/A |
+| 21 | [GOATS](http://twitter.com/search?q=GOATS) | N/A |
+| 22 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 23 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 24 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
+| 25 | [Jakubiak](http://twitter.com/search?q=Jakubiak) | N/A |
+| 26 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 27 | [Vincent](http://twitter.com/search?q=Vincent) | N/A |
+| 28 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 29 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 30 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
+| 31 | [Cedrob](http://twitter.com/search?q=Cedrob) | N/A |
+| 32 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 33 | [Kurski](http://twitter.com/search?q=Kurski) | N/A |
+| 34 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 35 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 36 | [Minister Rau](http://twitter.com/search?q=Minister+Rau) | N/A |
+| 37 | [sądzie najwyższym](http://twitter.com/search?q=s%c4%85dzie+najwy%c5%bcszym) | N/A |
+| 38 | [Diduszko](http://twitter.com/search?q=Diduszko) | N/A |
+| 39 | [rzepie](http://twitter.com/search?q=rzepie) | N/A |
+| 40 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
+| 41 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
+| 42 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 43 | ["Rzepy"](http://twitter.com/search?q=%22Rzepy%22) | N/A |
 | 44 | [komisji europejskiej](http://twitter.com/search?q=komisji+europejskiej) | N/A |
-| 45 | [PGE PAK Energia Jądrowa](http://twitter.com/search?q=PGE+PAK+Energia+J%c4%85drowa) | N/A |
-| 46 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 47 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
-| 48 | [tyszkiewicz](http://twitter.com/search?q=tyszkiewicz) | N/A |
-| 49 | [Cześć Ich Pamięci](http://twitter.com/search?q=Cze%c5%9b%c4%87+Ich+Pami%c4%99ci) | N/A |
-| 50 | [SolPol](http://twitter.com/search?q=SolPol) | N/A |
+| 45 | [Jowisza](http://twitter.com/search?q=Jowisza) | N/A |
+| 46 | [Sakowski](http://twitter.com/search?q=Sakowski) | N/A |
+| 47 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
+| 48 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
+| 49 | [UEFY](http://twitter.com/search?q=UEFY) | N/A |
+| 50 | [Imię Róży](http://twitter.com/search?q=Imi%c4%99+R%c3%b3%c5%bcy) | N/A |
 
 
 

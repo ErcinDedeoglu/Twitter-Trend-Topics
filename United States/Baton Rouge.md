@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-04-13 17:17:37 UTC`
+📆 Last Updated: `2023-04-13 18:18:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 2 | [#PAA2023](http://twitter.com/search?q=%23PAA2023) | N/A |
-| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 2 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 3 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 4 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 5 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 6 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 7 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 8 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 9 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 10 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 11 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 12 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 13 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 14 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 15 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 16 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
-| 17 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 18 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 19 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 20 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 21 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 22 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 23 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
-| 24 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 6 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 7 | [Josh Harris](http://twitter.com/search?q=Josh+Harris) | N/A |
+| 8 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 9 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
+| 10 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
+| 11 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 12 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 14 | [Springs](http://twitter.com/search?q=Springs) | N/A |
+| 15 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 16 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 17 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 18 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
+| 19 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 20 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 21 | [Magic Johnson](http://twitter.com/search?q=Magic+Johnson) | N/A |
+| 22 | [#HTTR](http://twitter.com/search?q=%23HTTR) | N/A |
+| 23 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 24 | [Proche](http://twitter.com/search?q=Proche) | Proche is a French word meaning "close" or "nearby". It can be used to describe physical proximity, such as being close to someone or something, or it can be used to describe a relationship between two people or things. |
 | 25 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 26 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 27 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 28 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
-| 29 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 30 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 31 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 32 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
-| 33 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 34 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 35 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
-| 36 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 37 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 38 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 39 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
-| 40 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
-| 41 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 42 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 43 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 44 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 45 | [Letitia James](http://twitter.com/search?q=Letitia+James) | N/A |
-| 46 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 47 | [Dracula](http://twitter.com/search?q=Dracula) | N/A |
-| 48 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 49 | [Gerudo](http://twitter.com/search?q=Gerudo) | N/A |
-| 50 | [Riju](http://twitter.com/search?q=Riju) | N/A |
+| 26 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
+| 27 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 28 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 29 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 30 | [Brent Rooker](http://twitter.com/search?q=Brent+Rooker) | N/A |
+| 31 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 32 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 33 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 34 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 35 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 36 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 37 | [Thune](http://twitter.com/search?q=Thune) | N/A |
+| 38 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 39 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 40 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 41 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 42 | [Redskins](http://twitter.com/search?q=Redskins) | N/A |
+| 43 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 44 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 45 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 46 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
+| 47 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 48 | [Cole Irvin](http://twitter.com/search?q=Cole+Irvin) | N/A |
+| 49 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 50 | [Cepicky](http://twitter.com/search?q=Cepicky) | N/A |
 
 
 
