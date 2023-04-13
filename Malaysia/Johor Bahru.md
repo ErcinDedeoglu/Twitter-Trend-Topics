@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Johor Bahru
 
-📆 Last Updated: `2023-04-13 12:18:41 UTC`
+📆 Last Updated: `2023-04-13 13:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FLOWER3rdWin](http://twitter.com/search?q=%23FLOWER3rdWin) | N/A |
-| 2 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 3 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
-| 4 | [#SummerExplorationxMileApo](http://twitter.com/search?q=%23SummerExplorationxMileApo) | N/A |
-| 5 | [#SiamParagonSummer2023xGF](http://twitter.com/search?q=%23SiamParagonSummer2023xGF) | N/A |
-| 6 | [Gordon Ramsay](http://twitter.com/search?q=Gordon+Ramsay) | N/A |
-| 7 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 8 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 9 | [taipei](http://twitter.com/search?q=taipei) | N/A |
+| 1 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 2 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 3 | [LEE JEONGHYEON](http://twitter.com/search?q=LEE+JEONGHYEON) | N/A |
+| 4 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 5 | [#세훈이의_30번째_봄바람](http://twitter.com/search?q=%23%ec%84%b8%ed%9b%88%ec%9d%b4%ec%9d%98_30%eb%b2%88%ec%a7%b8_%eb%b4%84%eb%b0%94%eb%9e%8c) | N/A |
+| 6 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 7 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 9 | [#SiamParagonSummer2023xGF](http://twitter.com/search?q=%23SiamParagonSummer2023xGF) | N/A |
 | 10 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 11 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 12 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 13 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 14 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 15 | [Double Six](http://twitter.com/search?q=Double+Six) | N/A |
-| 16 | [HeiHei](http://twitter.com/search?q=HeiHei) | N/A |
-| 17 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 18 | [fml official photo 2](http://twitter.com/search?q=fml+official+photo+2) | N/A |
-| 19 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 20 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 22 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 23 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 24 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 25 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 26 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 28 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 29 | [Minjae](http://twitter.com/search?q=Minjae) | N/A |
-| 30 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 31 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 32 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 33 | [Manila](http://twitter.com/search?q=Manila) | N/A |
-| 34 | [happy iftar](http://twitter.com/search?q=happy+iftar) | N/A |
-| 35 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 36 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
-| 37 | [Sulu](http://twitter.com/search?q=Sulu) | N/A |
-| 38 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
-| 39 | [sohee](http://twitter.com/search?q=sohee) | N/A |
-| 40 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 41 | [Raya](http://twitter.com/search?q=Raya) | N/A |
-| 42 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 43 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 44 | [Sungjin](http://twitter.com/search?q=Sungjin) | N/A |
-| 45 | [CHOI HYUNSUK](http://twitter.com/search?q=CHOI+HYUNSUK) | N/A |
-| 46 | [JEON WONWOO](http://twitter.com/search?q=JEON+WONWOO) | JEON WONWOO is a Korean name. It is composed of two characters: Jeon (전) meaning “field” and Wonwoo (원우) meaning “protection” or “blessing”. Together, the name can be translated to mean “protected field” or “blessed field”. |
-| 47 | [Mint](http://twitter.com/search?q=Mint) | N/A |
-| 48 | [using a gif](http://twitter.com/search?q=using+a+gif) | N/A |
-| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 50 | [youngk](http://twitter.com/search?q=youngk) | N/A |
+| 11 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 12 | [Gordon Ramsay](http://twitter.com/search?q=Gordon+Ramsay) | N/A |
+| 13 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 14 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 15 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 16 | [WANG ZIHAO](http://twitter.com/search?q=WANG+ZIHAO) | N/A |
+| 17 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 18 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 19 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 20 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 21 | [Taipei](http://twitter.com/search?q=Taipei) | N/A |
+| 22 | [artem](http://twitter.com/search?q=artem) | N/A |
+| 23 | [Double Six](http://twitter.com/search?q=Double+Six) | N/A |
+| 24 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 25 | [HeiHei](http://twitter.com/search?q=HeiHei) | N/A |
+| 26 | [Lee Jihoon](http://twitter.com/search?q=Lee+Jihoon) | N/A |
+| 27 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 28 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 29 | [MCountdown](http://twitter.com/search?q=MCountdown) | N/A |
+| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 33 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 35 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 36 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 38 | [Manila](http://twitter.com/search?q=Manila) | N/A |
+| 39 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 40 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 41 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 42 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 44 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 45 | [Kedah](http://twitter.com/search?q=Kedah) | N/A |
+| 46 | [Sulu](http://twitter.com/search?q=Sulu) | N/A |
+| 47 | [Sohee](http://twitter.com/search?q=Sohee) | N/A |
+| 48 | [Mint](http://twitter.com/search?q=Mint) | N/A |
+| 49 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 50 | [Nilou](http://twitter.com/search?q=Nilou) | N/A |
 
 
 

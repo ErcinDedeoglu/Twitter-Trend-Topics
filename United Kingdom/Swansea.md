@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-13 12:18:14 UTC`
+📆 Last Updated: `2023-04-13 13:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
-| 2 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 3 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 4 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 5 | [#ESAJuice](http://twitter.com/search?q=%23ESAJuice) | N/A |
-| 6 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
-| 7 | [David Fairclough](http://twitter.com/search?q=David+Fairclough) | N/A |
-| 8 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
-| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 10 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 11 | [#ASongOrMovieForAnnoying](http://twitter.com/search?q=%23ASongOrMovieForAnnoying) | N/A |
-| 12 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
-| 13 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 14 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
-| 15 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 16 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 17 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 18 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
-| 19 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 20 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 21 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 22 | [Black & Tans](http://twitter.com/search?q=Black+%26+Tans) | N/A |
-| 23 | [CAMRA](http://twitter.com/search?q=CAMRA) | N/A |
-| 24 | [Waterloo](http://twitter.com/search?q=Waterloo) | N/A |
-| 25 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
-| 26 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
-| 27 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 28 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 29 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 30 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 31 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 32 | [graeme](http://twitter.com/search?q=graeme) | N/A |
-| 33 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 34 | [Devolution](http://twitter.com/search?q=Devolution) | N/A |
-| 35 | [all blacks](http://twitter.com/search?q=all+blacks) | N/A |
-| 36 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
-| 37 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
-| 38 | [MSPs](http://twitter.com/search?q=MSPs) | N/A |
-| 39 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
-| 40 | [GRR Bill](http://twitter.com/search?q=GRR+Bill) | N/A |
-| 41 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 42 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 43 | [Chilly](http://twitter.com/search?q=Chilly) | N/A |
-| 44 | [60fps](http://twitter.com/search?q=60fps) | N/A |
-| 45 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 46 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
-| 47 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 48 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 1 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 2 | [#IStandWithHenrietta](http://twitter.com/search?q=%23IStandWithHenrietta) | N/A |
+| 3 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 4 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 5 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 6 | [Banbridge](http://twitter.com/search?q=Banbridge) | N/A |
+| 7 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
+| 8 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 9 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
+| 10 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 11 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
+| 12 | [#ESAJuice](http://twitter.com/search?q=%23ESAJuice) | N/A |
+| 13 | [Sophia Bush](http://twitter.com/search?q=Sophia+Bush) | N/A |
+| 14 | [Saint Roi](http://twitter.com/search?q=Saint+Roi) | N/A |
+| 15 | [david fairclough](http://twitter.com/search?q=david+fairclough) | N/A |
+| 16 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 17 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 18 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 19 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
+| 20 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 21 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
+| 22 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 23 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 24 | [#ASongOrMovieForAnnoying](http://twitter.com/search?q=%23ASongOrMovieForAnnoying) | N/A |
+| 25 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
+| 28 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 29 | [CAMRA](http://twitter.com/search?q=CAMRA) | N/A |
+| 30 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 31 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
+| 32 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
+| 33 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 34 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 35 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
+| 36 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
+| 37 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 38 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
+| 39 | [Waterloo](http://twitter.com/search?q=Waterloo) | N/A |
+| 40 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 42 | [Chilly](http://twitter.com/search?q=Chilly) | N/A |
+| 43 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 44 | [Devolution](http://twitter.com/search?q=Devolution) | N/A |
+| 45 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
+| 46 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 47 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 48 | [Isla Bryson](http://twitter.com/search?q=Isla+Bryson) | N/A |
 
 
 

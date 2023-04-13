@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-13 12:19:00 UTC`
+📆 Last Updated: `2023-04-13 13:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 2 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 3 | [#NCTDREAMinHOUSTON](http://twitter.com/search?q=%23NCTDREAMinHOUSTON) | N/A |
-| 4 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 5 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 6 | [#thedreamshow2_in_houston](http://twitter.com/search?q=%23thedreamshow2_in_houston) | N/A |
-| 7 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
-| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 11 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 12 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 13 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 14 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 15 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 16 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 17 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 18 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 19 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 20 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 21 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 22 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 23 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 24 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 25 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 26 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
-| 27 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
-| 28 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 29 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 30 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 31 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 32 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 33 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 34 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
-| 35 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 36 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 37 | [Broward](http://twitter.com/search?q=Broward) | N/A |
-| 38 | [Episode 9](http://twitter.com/search?q=Episode+9) | N/A |
-| 39 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 40 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 41 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 42 | [Cudi](http://twitter.com/search?q=Cudi) | N/A |
-| 43 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
-| 44 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 45 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 46 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 47 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 48 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 49 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 50 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 1 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 2 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 3 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 4 | [#NCTDREAMinHOUSTON](http://twitter.com/search?q=%23NCTDREAMinHOUSTON) | N/A |
+| 5 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 6 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 7 | [#THEDREAMSHOW2_in_HOUSTON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_HOUSTON) | N/A |
+| 8 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 11 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 12 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 13 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 15 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 16 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 17 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 18 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 19 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 20 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 21 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 22 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 23 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 24 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 25 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 26 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 27 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
+| 28 | [Peekaboo](http://twitter.com/search?q=Peekaboo) | N/A |
+| 29 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 30 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 31 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
+| 32 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 33 | [NPR & PBS](http://twitter.com/search?q=NPR+%26+PBS) | N/A |
+| 34 | [Fifth Circuit](http://twitter.com/search?q=Fifth+Circuit) | N/A |
+| 35 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 36 | [Comstock Act](http://twitter.com/search?q=Comstock+Act) | N/A |
+| 37 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 38 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 39 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 40 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 41 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
+| 42 | [Thomas Jefferson](http://twitter.com/search?q=Thomas+Jefferson) | N/A |
+| 43 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 44 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
+| 45 | [G'morning](http://twitter.com/search?q=G%27morning) | N/A |
+| 46 | [Rat Czar](http://twitter.com/search?q=Rat+Czar) | N/A |
+| 47 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 48 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 49 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 50 | [Broward](http://twitter.com/search?q=Broward) | N/A |
 
 
 

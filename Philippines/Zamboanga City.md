@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-04-13 12:18:43 UTC`
+📆 Last Updated: `2023-04-13 13:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#04ATIN2023](http://twitter.com/search?q=%2304ATIN2023) | N/A |
-| 2 | [#PuregoldxJustinDeDios](http://twitter.com/search?q=%23PuregoldxJustinDeDios) | N/A |
-| 3 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 4 | [#Puregold25Years](http://twitter.com/search?q=%23Puregold25Years) | N/A |
-| 5 | [#NasaIyoAngPanalo](http://twitter.com/search?q=%23NasaIyoAngPanalo) | N/A |
-| 6 | [#FLOWER3rdWin](http://twitter.com/search?q=%23FLOWER3rdWin) | N/A |
-| 7 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
-| 8 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
-| 9 | [True Baptism](http://twitter.com/search?q=True+Baptism) | N/A |
-| 10 | [PARK HANBIN](http://twitter.com/search?q=PARK+HANBIN) | N/A |
-| 11 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
-| 12 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 13 | [MUSICAL WONDERMAN KD](http://twitter.com/search?q=MUSICAL+WONDERMAN+KD) | N/A |
-| 14 | [CutiePIE EIAN IS BACK](http://twitter.com/search?q=CutiePIE+EIAN+IS+BACK) | N/A |
-| 15 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
-| 16 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
-| 17 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
-| 18 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 19 | [D1 KDLEXPETA COMEBACK](http://twitter.com/search?q=D1+KDLEXPETA+COMEBACK) | N/A |
-| 20 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
-| 21 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 22 | [D-1 TO PARAISO](http://twitter.com/search?q=D-1+TO+PARAISO) | N/A |
-| 23 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 24 | [Luzon](http://twitter.com/search?q=Luzon) | N/A |
-| 25 | [Sunwoo](http://twitter.com/search?q=Sunwoo) | N/A |
-| 26 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 27 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 29 | [#RedmiNote12Series](http://twitter.com/search?q=%23RedmiNote12Series) | N/A |
-| 30 | [#JISOO3rdWin](http://twitter.com/search?q=%23JISOO3rdWin) | N/A |
-| 31 | [#LiveVivid](http://twitter.com/search?q=%23LiveVivid) | N/A |
-| 32 | [#FamilyFeudBenAndBen](http://twitter.com/search?q=%23FamilyFeudBenAndBen) | N/A |
-| 33 | [#CassRen](http://twitter.com/search?q=%23CassRen) | N/A |
-| 34 | [#REDVELVETinMNL2023](http://twitter.com/search?q=%23REDVELVETinMNL2023) | N/A |
-| 35 | [#FxckMyLife4MPreorder](http://twitter.com/search?q=%23FxckMyLife4MPreorder) | N/A |
-| 36 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
-| 37 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 38 | [#MasMabilisSaLazada](http://twitter.com/search?q=%23MasMabilisSaLazada) | N/A |
-| 39 | [#BT21](http://twitter.com/search?q=%23BT21) | #BT21 is a line of characters created by the South Korean boy band BTS in collaboration with LINE FRIENDS. The characters are meant to represent each of the seven members of BTS and have become popular in South Korea and around the world. The name BT21 is a combination of BTS and 21, which stands for the seven members of the group. |
-| 40 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
-| 41 | [#PakNaPakHostingNiPrince](http://twitter.com/search?q=%23PakNaPakHostingNiPrince) | N/A |
-| 42 | [#FELIP_SUPERIORITY](http://twitter.com/search?q=%23FELIP_SUPERIORITY) | N/A |
+| 1 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 2 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 3 | [AlexaSRH Summer Remix](http://twitter.com/search?q=AlexaSRH+Summer+Remix) | N/A |
+| 4 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 5 | [#StayRightHereRemix](http://twitter.com/search?q=%23StayRightHereRemix) | N/A |
+| 6 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 7 | [SUPERIORITY PerformanceVideo](http://twitter.com/search?q=SUPERIORITY+PerformanceVideo) | N/A |
+| 8 | [#FLOWER3rdWin](http://twitter.com/search?q=%23FLOWER3rdWin) | N/A |
+| 9 | [#RussuOurHappyViRUS](http://twitter.com/search?q=%23RussuOurHappyViRUS) | N/A |
+| 10 | [#PuregoldxJustinDeDios](http://twitter.com/search?q=%23PuregoldxJustinDeDios) | N/A |
+| 11 | [#NasaIyoAngPanalo](http://twitter.com/search?q=%23NasaIyoAngPanalo) | N/A |
+| 12 | [cRUSSh Ng Bayan](http://twitter.com/search?q=cRUSSh+Ng+Bayan) | N/A |
+| 13 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 14 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 15 | [True Baptism](http://twitter.com/search?q=True+Baptism) | N/A |
+| 16 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 17 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 18 | [DavidXKaren OnYoutube](http://twitter.com/search?q=DavidXKaren+OnYoutube) | N/A |
+| 19 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
+| 20 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
+| 21 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
+| 22 | [CutiePIE EIAN IS BACK](http://twitter.com/search?q=CutiePIE+EIAN+IS+BACK) | N/A |
+| 23 | [Eunkwang](http://twitter.com/search?q=Eunkwang) | N/A |
+| 24 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
+| 25 | [MUSICAL WONDERMAN KD](http://twitter.com/search?q=MUSICAL+WONDERMAN+KD) | N/A |
+| 26 | [Lee Jihoon](http://twitter.com/search?q=Lee+Jihoon) | N/A |
+| 27 | [Pabulong](http://twitter.com/search?q=Pabulong) | N/A |
+| 28 | [D-1 TO PARAISO](http://twitter.com/search?q=D-1+TO+PARAISO) | N/A |
+| 29 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 30 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 31 | [D1 KDLEXPETA COMEBACK](http://twitter.com/search?q=D1+KDLEXPETA+COMEBACK) | N/A |
+| 32 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 33 | [junhoe](http://twitter.com/search?q=junhoe) | N/A |
+| 34 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
+| 35 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 36 | [Luzon](http://twitter.com/search?q=Luzon) | N/A |
+| 37 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 38 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 39 | [#04ATIN2023](http://twitter.com/search?q=%2304ATIN2023) | N/A |
+| 40 | [#UrdujaBugso](http://twitter.com/search?q=%23UrdujaBugso) | N/A |
+| 41 | [#JISOO3rdWin](http://twitter.com/search?q=%23JISOO3rdWin) | N/A |
+| 42 | [#Puregold25Years](http://twitter.com/search?q=%23Puregold25Years) | N/A |
 | 43 | [#walangpasok](http://twitter.com/search?q=%23walangpasok) | N/A |
-| 44 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
-| 45 | [#McDoPH](http://twitter.com/search?q=%23McDoPH) | N/A |
-| 46 | [#BOYCOTTEBxAPTxGMA764](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA764) | N/A |
+| 44 | [#FELIP_SUPERIORITY](http://twitter.com/search?q=%23FELIP_SUPERIORITY) | N/A |
+| 45 | [#TrueToLoveEP2](http://twitter.com/search?q=%23TrueToLoveEP2) | N/A |
+| 46 | [#RedmiNote12Series](http://twitter.com/search?q=%23RedmiNote12Series) | N/A |
+| 47 | [#LiveVivid](http://twitter.com/search?q=%23LiveVivid) | N/A |
+| 48 | [#ANISD](http://twitter.com/search?q=%23ANISD) | N/A |
+| 49 | [#FELIP_COMPLEXlive](http://twitter.com/search?q=%23FELIP_COMPLEXlive) | N/A |
+| 50 | [#CassRen](http://twitter.com/search?q=%23CassRen) | N/A |
 
 
 

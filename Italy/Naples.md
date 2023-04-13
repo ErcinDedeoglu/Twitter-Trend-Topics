@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-04-13 12:18:29 UTC`
+📆 Last Updated: `2023-04-13 13:18:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,47 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 2 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
-| 3 | [#ForzaNapoliSempre](http://twitter.com/search?q=%23ForzaNapoliSempre) | N/A |
-| 4 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 5 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 6 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 7 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
-| 8 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 9 | [Hurkacz](http://twitter.com/search?q=Hurkacz) | N/A |
-| 10 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 11 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 12 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
-| 13 | [Italia Viva](http://twitter.com/search?q=Italia+Viva) | N/A |
-| 14 | [Regioni](http://twitter.com/search?q=Regioni) | N/A |
-| 15 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 16 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
-| 17 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
-| 18 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
-| 19 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
-| 20 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 21 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 22 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
-| 23 | [Buongiorno Ale](http://twitter.com/search?q=Buongiorno+Ale) | N/A |
-| 24 | [#giornatamondialedelbacio](http://twitter.com/search?q=%23giornatamondialedelbacio) | N/A |
-| 25 | [#13aprile](http://twitter.com/search?q=%2313aprile) | N/A |
-| 26 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
-| 27 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 28 | [#Cannes2023](http://twitter.com/search?q=%23Cannes2023) | N/A |
-| 29 | [#Aouar](http://twitter.com/search?q=%23Aouar) | N/A |
-| 30 | [#RolexMonteCarloMasters](http://twitter.com/search?q=%23RolexMonteCarloMasters) | N/A |
-| 31 | [#Azione](http://twitter.com/search?q=%23Azione) | N/A |
-| 32 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
+| 1 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 2 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 3 | [#giornatamondialedelbacio](http://twitter.com/search?q=%23giornatamondialedelbacio) | N/A |
+| 4 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 5 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 6 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 7 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 8 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 9 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 10 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
+| 11 | [Hurkacz](http://twitter.com/search?q=Hurkacz) | N/A |
+| 12 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 13 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 14 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 15 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 16 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 17 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 18 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
+| 19 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 20 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
+| 21 | [Turchia](http://twitter.com/search?q=Turchia) | N/A |
+| 22 | [Forza Italia](http://twitter.com/search?q=Forza+Italia) | N/A |
+| 23 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
+| 24 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 25 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 26 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 27 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 28 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
+| 29 | [#13aprile](http://twitter.com/search?q=%2313aprile) | N/A |
+| 30 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
+| 31 | [#Aouar](http://twitter.com/search?q=%23Aouar) | N/A |
+| 32 | [#ItaliaViva](http://twitter.com/search?q=%23ItaliaViva) | N/A |
 | 33 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 34 | [#ATPMonteCarlo](http://twitter.com/search?q=%23ATPMonteCarlo) | N/A |
-| 35 | [#SerkanÇayoğlu](http://twitter.com/search?q=%23Serkan%c3%87ayo%c4%9flu) | N/A |
-| 36 | [#lariachetirala7](http://twitter.com/search?q=%23lariachetirala7) | N/A |
-| 37 | [#Cingolani](http://twitter.com/search?q=%23Cingolani) | N/A |
-| 38 | [#PensavoA](http://twitter.com/search?q=%23PensavoA) | N/A |
-| 39 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 34 | [#SerkanÇayoğlu](http://twitter.com/search?q=%23Serkan%c3%87ayo%c4%9flu) | N/A |
+| 35 | [#lariachetirala7](http://twitter.com/search?q=%23lariachetirala7) | N/A |
+| 36 | [#PensavoA](http://twitter.com/search?q=%23PensavoA) | N/A |
+| 37 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
+| 38 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 39 | [#vaccini](http://twitter.com/search?q=%23vaccini) | N/A |
+| 40 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
+| 41 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
 
 
 

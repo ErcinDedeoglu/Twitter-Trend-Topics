@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-13 12:18:21 UTC`
+📆 Last Updated: `2023-04-13 13:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 2 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 3 | [BOLSONARO INELEGÍVEL](http://twitter.com/search?q=BOLSONARO+INELEG%c3%8dVEL) | N/A |
-| 4 | [Ituma](http://twitter.com/search?q=Ituma) | N/A |
-| 5 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 6 | [#BDSP](http://twitter.com/search?q=%23BDSP) | N/A |
-| 7 | [#ForaAline](http://twitter.com/search?q=%23ForaAline) | N/A |
-| 8 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 9 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 10 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 11 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
-| 12 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 13 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 14 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 15 | [#BDRJ](http://twitter.com/search?q=%23BDRJ) | N/A |
-| 16 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
-| 17 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 18 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
-| 19 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
-| 20 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 21 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
-| 22 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 23 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 24 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
-| 25 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
-| 26 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 27 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 28 | [Nojentas](http://twitter.com/search?q=Nojentas) | N/A |
-| 29 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 30 | [#FicaBlack](http://twitter.com/search?q=%23FicaBlack) | N/A |
-| 31 | [Machista](http://twitter.com/search?q=Machista) | N/A |
-| 32 | [Omissa](http://twitter.com/search?q=Omissa) | N/A |
-| 33 | [Lumena](http://twitter.com/search?q=Lumena) | N/A |
-| 34 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
-| 35 | [Imposto](http://twitter.com/search?q=Imposto) | N/A |
-| 36 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 37 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 38 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
-| 39 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
-| 40 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
-| 41 | [Branca](http://twitter.com/search?q=Branca) | N/A |
-| 42 | [Raluca](http://twitter.com/search?q=Raluca) | N/A |
-| 43 | [ASSEDIADOR](http://twitter.com/search?q=ASSEDIADOR) | N/A |
-| 44 | [Mentirosa](http://twitter.com/search?q=Mentirosa) | N/A |
-| 45 | [Veveta](http://twitter.com/search?q=Veveta) | N/A |
-| 46 | [Deltan](http://twitter.com/search?q=Deltan) | N/A |
-| 47 | [Insuportáveis](http://twitter.com/search?q=Insuport%c3%a1veis) | N/A |
-| 48 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
+| 2 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 3 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 4 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 5 | [BOLSONARO INELEGÍVEL](http://twitter.com/search?q=BOLSONARO+INELEG%c3%8dVEL) | N/A |
+| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 7 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 8 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 9 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
+| 10 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 11 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 12 | [#ForaAline](http://twitter.com/search?q=%23ForaAline) | N/A |
+| 13 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 14 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 15 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 16 | [#diadobeijo](http://twitter.com/search?q=%23diadobeijo) | N/A |
+| 17 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 18 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
+| 19 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
+| 20 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
+| 21 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
+| 22 | [#DiaDeCruzeiro](http://twitter.com/search?q=%23DiaDeCruzeiro) | N/A |
+| 23 | [Negueba](http://twitter.com/search?q=Negueba) | N/A |
+| 24 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
+| 25 | [Huawei](http://twitter.com/search?q=Huawei) | N/A |
+| 26 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 27 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 28 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
+| 29 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
+| 30 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 31 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 32 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
+| 33 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 34 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
+| 35 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 36 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 37 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
+| 38 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 39 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 40 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 41 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
+| 42 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 43 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 44 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
+| 45 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
+| 46 | [Hipócritas](http://twitter.com/search?q=Hip%c3%b3critas) | N/A |
+| 47 | [Lumena](http://twitter.com/search?q=Lumena) | N/A |
+| 48 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 49 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 50 | [Nojentas](http://twitter.com/search?q=Nojentas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-04-13 12:18:25 UTC`
+📆 Last Updated: `2023-04-13 13:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 3 | [#Cannes2023](http://twitter.com/search?q=%23Cannes2023) | N/A |
-| 4 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 5 | [PUMA](http://twitter.com/search?q=PUMA) | N/A |
-| 6 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 7 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
-| 8 | [Catherine Breillat](http://twitter.com/search?q=Catherine+Breillat) | N/A |
-| 9 | [Remis](http://twitter.com/search?q=Remis) | N/A |
-| 10 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 11 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 12 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 13 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 14 | [Ken Loach](http://twitter.com/search?q=Ken+Loach) | N/A |
-| 15 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
-| 16 | [Thierry Frémaux](http://twitter.com/search?q=Thierry+Fr%c3%a9maux) | N/A |
-| 17 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
-| 18 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 19 | [Grève du 13](http://twitter.com/search?q=Gr%c3%a8ve+du+13) | N/A |
-| 20 | [Égypte](http://twitter.com/search?q=%c3%89gypte) | N/A |
-| 21 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 22 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
-| 23 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 24 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 27 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 28 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 29 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 30 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 31 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
-| 32 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
-| 33 | [Vert](http://twitter.com/search?q=Vert) | N/A |
-| 34 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 35 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 36 | [Jeudi 13](http://twitter.com/search?q=Jeudi+13) | N/A |
-| 37 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
-| 38 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
-| 39 | [#JUICE](http://twitter.com/search?q=%23JUICE) | N/A |
-| 40 | [#MidiNews](http://twitter.com/search?q=%23MidiNews) | N/A |
-| 41 | [#JusquAuRetrait](http://twitter.com/search?q=%23JusquAuRetrait) | N/A |
-| 42 | [#SchiappaRendsLargent](http://twitter.com/search?q=%23SchiappaRendsLargent) | N/A |
-| 43 | [#DevoxxFR](http://twitter.com/search?q=%23DevoxxFR) | N/A |
-| 44 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
-| 45 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 46 | [#recrutement](http://twitter.com/search?q=%23recrutement) | N/A |
-| 47 | [#CarlaMoreau](http://twitter.com/search?q=%23CarlaMoreau) | N/A |
+| 2 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 3 | [#Greve13avril](http://twitter.com/search?q=%23Greve13avril) | N/A |
+| 4 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 5 | [#nintendalerts](http://twitter.com/search?q=%23nintendalerts) | N/A |
+| 6 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 7 | [JUICE](http://twitter.com/search?q=JUICE) | N/A |
+| 8 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 9 | [PUMA](http://twitter.com/search?q=PUMA) | N/A |
+| 10 | [Arnaud Rousseau](http://twitter.com/search?q=Arnaud+Rousseau) | N/A |
+| 11 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 12 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 13 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 14 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 15 | [Catherine Breillat](http://twitter.com/search?q=Catherine+Breillat) | N/A |
+| 16 | [Ariane 5](http://twitter.com/search?q=Ariane+5) | N/A |
+| 17 | [Remis](http://twitter.com/search?q=Remis) | N/A |
+| 18 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 19 | [Ken Loach](http://twitter.com/search?q=Ken+Loach) | N/A |
+| 20 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
+| 21 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 22 | [Thierry Frémaux](http://twitter.com/search?q=Thierry+Fr%c3%a9maux) | N/A |
+| 23 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 24 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
+| 25 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 26 | [Booba](http://twitter.com/search?q=Booba) | N/A |
+| 27 | [FNSEA](http://twitter.com/search?q=FNSEA) | N/A |
+| 28 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 29 | [SNCF](http://twitter.com/search?q=SNCF) | N/A |
+| 30 | [Égypte](http://twitter.com/search?q=%c3%89gypte) | N/A |
+| 31 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
+| 32 | [Grève du 13](http://twitter.com/search?q=Gr%c3%a8ve+du+13) | N/A |
+| 33 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 34 | [Sénat](http://twitter.com/search?q=S%c3%a9nat) | N/A |
+| 35 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 36 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 38 | [Egyptiens](http://twitter.com/search?q=Egyptiens) | N/A |
+| 39 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 40 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 41 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 42 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 43 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
+| 44 | [Vert](http://twitter.com/search?q=Vert) | N/A |
+| 45 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 46 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
+| 47 | [#Cannes2023](http://twitter.com/search?q=%23Cannes2023) | N/A |
 
 
 

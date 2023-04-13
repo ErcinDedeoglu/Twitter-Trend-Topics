@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-04-13 12:19:00 UTC`
+📆 Last Updated: `2023-04-13 13:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 2 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 3 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 4 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 6 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 7 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 8 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 2 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 3 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 4 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 5 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 6 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 7 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 8 | [eToro](http://twitter.com/search?q=eToro) | N/A |
 | 9 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 10 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 11 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 12 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 13 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 14 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 15 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 16 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 17 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 18 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 19 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 20 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 21 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
-| 22 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
-| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 24 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 25 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 10 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 11 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 12 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 13 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 14 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 15 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 16 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 17 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 18 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 19 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 20 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 21 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
+| 22 | [Peekaboo](http://twitter.com/search?q=Peekaboo) | N/A |
+| 23 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 24 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
+| 25 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
 | 26 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 27 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 28 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 29 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
-| 30 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 31 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 32 | [Broward](http://twitter.com/search?q=Broward) | N/A |
-| 33 | [Episode 9](http://twitter.com/search?q=Episode+9) | N/A |
-| 34 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 35 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 36 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 37 | [Cudi](http://twitter.com/search?q=Cudi) | N/A |
-| 38 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
-| 39 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 40 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 41 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 42 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 43 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 44 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 45 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 27 | [NPR & PBS](http://twitter.com/search?q=NPR+%26+PBS) | N/A |
+| 28 | [Fifth Circuit](http://twitter.com/search?q=Fifth+Circuit) | N/A |
+| 29 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 30 | [Comstock Act](http://twitter.com/search?q=Comstock+Act) | N/A |
+| 31 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 32 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 33 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 34 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 35 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
+| 36 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 37 | [Thomas Jefferson](http://twitter.com/search?q=Thomas+Jefferson) | N/A |
+| 38 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
+| 39 | [G'morning](http://twitter.com/search?q=G%27morning) | N/A |
+| 40 | [Rat Czar](http://twitter.com/search?q=Rat+Czar) | N/A |
+| 41 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 42 | [alton](http://twitter.com/search?q=alton) | N/A |
+| 43 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 44 | [Broward](http://twitter.com/search?q=Broward) | N/A |
+| 45 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
 
 
 

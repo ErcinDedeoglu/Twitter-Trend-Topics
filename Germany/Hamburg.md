@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-04-13 12:18:28 UTC`
+📆 Last Updated: `2023-04-13 13:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [#kampfderrealitystars](http://twitter.com/search?q=%23kampfderrealitystars) | N/A |
 | 5 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
 | 6 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 7 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 8 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 9 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
+| 7 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 8 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
+| 9 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
 | 10 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
 | 11 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 12 | [pflanzen](http://twitter.com/search?q=pflanzen) | N/A |
-| 13 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
-| 14 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 15 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
-| 16 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
+| 12 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 13 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 14 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 15 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 16 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
 | 17 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
-| 18 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
-| 19 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 20 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 21 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
-| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 23 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 24 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 25 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 26 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
-| 27 | [Please Stärke die FDP](http://twitter.com/search?q=Please+St%c3%a4rke+die+FDP) | N/A |
-| 28 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 29 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
-| 30 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 31 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 32 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 33 | [Lächelnde Gegenstände](http://twitter.com/search?q=L%c3%a4chelnde+Gegenst%c3%a4nde) | N/A |
-| 34 | [Oktoberfest](http://twitter.com/search?q=Oktoberfest) | N/A |
-| 35 | [Enthauptung](http://twitter.com/search?q=Enthauptung) | N/A |
-| 36 | [mützenich](http://twitter.com/search?q=m%c3%bctzenich) | N/A |
-| 37 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 38 | [ostdeutsche](http://twitter.com/search?q=ostdeutsche) | N/A |
-| 39 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 40 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 41 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
-| 42 | [Irrweg](http://twitter.com/search?q=Irrweg) | N/A |
-| 43 | [Ideologie vor Vernunft](http://twitter.com/search?q=Ideologie+vor+Vernunft) | N/A |
-| 44 | [Straftäter](http://twitter.com/search?q=Straft%c3%a4ter) | N/A |
+| 18 | [dealer](http://twitter.com/search?q=dealer) | N/A |
+| 19 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
+| 20 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
+| 21 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 22 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 23 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
+| 24 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 27 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 28 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
+| 29 | [Please Stärke die FDP](http://twitter.com/search?q=Please+St%c3%a4rke+die+FDP) | N/A |
+| 30 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
+| 31 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 32 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 33 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 34 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 35 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 36 | [oktoberfest](http://twitter.com/search?q=oktoberfest) | N/A |
+| 37 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 38 | [Lächelnde Gegenstände](http://twitter.com/search?q=L%c3%a4chelnde+Gegenst%c3%a4nde) | N/A |
+| 39 | [Enthauptung](http://twitter.com/search?q=Enthauptung) | N/A |
+| 40 | [Irrweg](http://twitter.com/search?q=Irrweg) | N/A |
+| 41 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 42 | [Ideologie vor Vernunft](http://twitter.com/search?q=Ideologie+vor+Vernunft) | N/A |
+| 43 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
+| 44 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
 | 45 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 46 | [Jamaika](http://twitter.com/search?q=Jamaika) | N/A |
-| 47 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 48 | [Extremisten](http://twitter.com/search?q=Extremisten) | N/A |
-| 49 | [Parteizentrale](http://twitter.com/search?q=Parteizentrale) | N/A |
-| 50 | [Eigenanbau](http://twitter.com/search?q=Eigenanbau) | N/A |
+| 46 | [Staatsschutz](http://twitter.com/search?q=Staatsschutz) | N/A |
+| 47 | [Notfälle](http://twitter.com/search?q=Notf%c3%a4lle) | N/A |
+| 48 | [Jamaika](http://twitter.com/search?q=Jamaika) | N/A |
+| 49 | [Lens Airdrop](http://twitter.com/search?q=Lens+Airdrop) | N/A |
+| 50 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
 
 
 

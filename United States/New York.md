@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-13 12:19:02 UTC`
+📆 Last Updated: `2023-04-13 13:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
 | 4 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 5 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 8 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 10 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 11 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 12 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 13 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 14 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 15 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 16 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 6 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 10 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 11 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 12 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 13 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 14 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 15 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 16 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
 | 17 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 18 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 19 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 20 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 21 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 22 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 23 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 24 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
-| 25 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
-| 26 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 27 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 28 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 29 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 30 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 32 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
-| 33 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 34 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 35 | [Broward](http://twitter.com/search?q=Broward) | N/A |
-| 36 | [Episode 9](http://twitter.com/search?q=Episode+9) | N/A |
-| 37 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 38 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 39 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 40 | [Cudi](http://twitter.com/search?q=Cudi) | N/A |
-| 41 | [Mike Moon](http://twitter.com/search?q=Mike+Moon) | N/A |
-| 42 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 43 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 44 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 45 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 46 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 47 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 48 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 49 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 50 | [Jeffries](http://twitter.com/search?q=Jeffries) | Jeffries is a surname of English origin. It is derived from the given name Geoffrey, which is derived from the Old French name Jeoffroi, meaning "peaceful gift". |
+| 18 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 19 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 20 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 21 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 22 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 24 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 25 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
+| 26 | [Peekaboo](http://twitter.com/search?q=Peekaboo) | N/A |
+| 27 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 28 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
+| 29 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 30 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 31 | [NPR & PBS](http://twitter.com/search?q=NPR+%26+PBS) | N/A |
+| 32 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 33 | [Fifth Circuit](http://twitter.com/search?q=Fifth+Circuit) | N/A |
+| 34 | [Comstock Act](http://twitter.com/search?q=Comstock+Act) | N/A |
+| 35 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 36 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 37 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 38 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 39 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
+| 40 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
+| 41 | [Thomas Jefferson](http://twitter.com/search?q=Thomas+Jefferson) | N/A |
+| 42 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
+| 43 | [G'morning](http://twitter.com/search?q=G%27morning) | N/A |
+| 44 | [Rat Czar](http://twitter.com/search?q=Rat+Czar) | N/A |
+| 45 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 46 | [alton](http://twitter.com/search?q=alton) | N/A |
+| 47 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
+| 48 | [Broward](http://twitter.com/search?q=Broward) | N/A |
+| 49 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 50 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
 
 
 
