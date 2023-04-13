@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-04-13 03:16:57 UTC`
+📆 Last Updated: `2023-04-13 04:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AuroraXSopitas](http://twitter.com/search?q=%23AuroraXSopitas) | N/A |
-| 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 1 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 2 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
 | 3 | [#PruebaDeSupervivencia](http://twitter.com/search?q=%23PruebaDeSupervivencia) | N/A |
-| 4 | [Ozziel Herrera](http://twitter.com/search?q=Ozziel+Herrera) | N/A |
-| 5 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 6 | [WE LOVE QSMP](http://twitter.com/search?q=WE+LOVE+QSMP) | N/A |
-| 7 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 8 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 9 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 11 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
-| 12 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
-| 13 | [#StreamPeoplePt2](http://twitter.com/search?q=%23StreamPeoplePt2) | N/A |
-| 14 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 15 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 16 | [#BuyPeoplePt2](http://twitter.com/search?q=%23BuyPeoplePt2) | N/A |
-| 17 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 18 | [#DelfinaSeDesploma](http://twitter.com/search?q=%23DelfinaSeDesploma) | N/A |
-| 19 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 20 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
-| 21 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 22 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 23 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
-| 24 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 25 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 26 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 27 | [MAÑANA 1TRAGO](http://twitter.com/search?q=MA%c3%91ANA+1TRAGO) | N/A |
-| 28 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
-| 29 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 30 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Clasismo](http://twitter.com/search?q=Clasismo) | N/A |
-| 33 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 34 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 35 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 36 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 37 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 38 | [Slime](http://twitter.com/search?q=Slime) | N/A |
-| 39 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 4 | [#AuroraXSopitas](http://twitter.com/search?q=%23AuroraXSopitas) | N/A |
+| 5 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 6 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
+| 7 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
+| 8 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 9 | [WE LOVE QSMP](http://twitter.com/search?q=WE+LOVE+QSMP) | N/A |
+| 10 | [Ozziel Herrera](http://twitter.com/search?q=Ozziel+Herrera) | N/A |
+| 11 | [#DelfinaSeDesploma](http://twitter.com/search?q=%23DelfinaSeDesploma) | N/A |
+| 12 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 13 | [Malayo](http://twitter.com/search?q=Malayo) | N/A |
+| 14 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 15 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 16 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 17 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
+| 20 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 21 | [Pocho Guzmán](http://twitter.com/search?q=Pocho+Guzm%c3%a1n) | N/A |
+| 22 | [Magnus Skylstad](http://twitter.com/search?q=Magnus+Skylstad) | N/A |
+| 23 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
+| 24 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 25 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 26 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 27 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
+| 28 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 29 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 30 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 31 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
+| 32 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 33 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 34 | [Yeri Mua](http://twitter.com/search?q=Yeri+Mua) | N/A |
+| 35 | [MAÑANA 1TRAGO](http://twitter.com/search?q=MA%c3%91ANA+1TRAGO) | N/A |
+| 36 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 37 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 38 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 39 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
 | 40 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 41 | [Adán Augusto López](http://twitter.com/search?q=Ad%c3%a1n+Augusto+L%c3%b3pez) | N/A |
-| 42 | [Yeri Mua](http://twitter.com/search?q=Yeri+Mua) | N/A |
-| 43 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 41 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 42 | [Slime](http://twitter.com/search?q=Slime) | N/A |
+| 43 | [Clasismo](http://twitter.com/search?q=Clasismo) | N/A |
 | 44 | [Krauze](http://twitter.com/search?q=Krauze) | N/A |
-| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 46 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 47 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 48 | [JuanaFlippa](http://twitter.com/search?q=JuanaFlippa) | N/A |
+| 45 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 46 | [Monreal](http://twitter.com/search?q=Monreal) | N/A |
+| 47 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 48 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-04-13 03:17:21 UTC`
+📆 Last Updated: `2023-04-13 04:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | ------- | ------------ | ------------ |
 | 1 | [صوت الرعد](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d8%b1%d8%b9%d8%af) | صوت الرعد (Saut al-Raad) is an Arabic phrase meaning "the sound of thunder". It is often used to describe a loud, powerful sound. |
 | 2 | [تعليم الرياض](http://twitter.com/search?q=%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 3 | [اللهم الاجابه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%a8%d9%87) | N/A |
-| 4 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
-| 5 | [#البحرين](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 6 | [اسينسيو](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d9%86%d8%b3%d9%8a%d9%88) | اسينسيو is a transliteration of the Greek word "συνέσεις" which means "understanding" or "insight" in English. |
-| 7 | [#ريبون_الاشعه_تحت_الحمرا](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a8%d9%88%d9%86_%d8%a7%d9%84%d8%a7%d8%b4%d8%b9%d9%87_%d8%aa%d8%ad%d8%aa_%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7) | N/A |
-| 8 | [#العشر_الاواخر_من_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1_%d9%85%d9%86_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 9 | [#امطار_الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
+| 3 | [#السعوديه_العظمي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87_%d8%a7%d9%84%d8%b9%d8%b8%d9%85%d9%8a) | N/A |
+| 4 | [وقطر](http://twitter.com/search?q=%d9%88%d9%82%d8%b7%d8%b1) | N/A |
+| 5 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
+| 6 | [علي قبور](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d9%88%d8%b1) | N/A |
+| 7 | [الثلث الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 8 | [#ريبون_الاشعه_تحت_الحمرا](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a8%d9%88%d9%86_%d8%a7%d9%84%d8%a7%d8%b4%d8%b9%d9%87_%d8%aa%d8%ad%d8%aa_%d8%a7%d9%84%d8%ad%d9%85%d8%b1%d8%a7) | N/A |
+| 9 | [#العشر_الاواخر_من_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1_%d9%85%d9%86_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 10 | [#مسابقه_المربع_نت22](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa22) | N/A |
-| 11 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 11 | [#امطار_الرياض_الان](http://twitter.com/search?q=%23%d8%a7%d9%85%d8%b7%d8%a7%d8%b1_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6_%d8%a7%d9%84%d8%a7%d9%86) | N/A |
 | 12 | [٢٢ رمضان](http://twitter.com/search?q=%d9%a2%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 13 | [روسو](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%88) | N/A |
-| 14 | [عبودي باد](http://twitter.com/search?q=%d8%b9%d8%a8%d9%88%d8%af%d9%8a+%d8%a8%d8%a7%d8%af) | N/A |
-| 15 | [عبدالسلام](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 16 | [ابو بكر الصديق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
-| 17 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 18 | [جيسوس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
-| 19 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 13 | [عبودي باد](http://twitter.com/search?q=%d8%b9%d8%a8%d9%88%d8%af%d9%8a+%d8%a8%d8%a7%d8%af) | N/A |
+| 14 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 15 | [روسو](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%88) | N/A |
+| 16 | [عبدالسلام](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 17 | [ابو بكر الصديق](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a8%d9%83%d8%b1+%d8%a7%d9%84%d8%b5%d8%af%d9%8a%d9%82) | N/A |
+| 18 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
+| 19 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 20 | [علي البلد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d8%af) | N/A |
-| 21 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 22 | [الدعم السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
-| 23 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 24 | [المقعد الموجه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%ac%d9%87) | N/A |
-| 25 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 26 | [غير مسلم](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 27 | [الشرط الجزايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d9%8a) | N/A |
-| 28 | [نادي النصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 29 | [علي غريب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
-| 30 | [اللاعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 21 | [الدعم السريع](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b9%d9%85+%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d8%b9) | N/A |
+| 22 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 23 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 24 | [جيسوس](http://twitter.com/search?q=%d8%ac%d9%8a%d8%b3%d9%88%d8%b3) | N/A |
+| 25 | [المقعد الموجه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%b9%d8%af+%d8%a7%d9%84%d9%85%d9%88%d8%ac%d9%87) | N/A |
+| 26 | [الشرط الجزايي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%b7+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d9%8a) | N/A |
+| 27 | [غير مسلم](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 28 | [غير المسلم](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85) | N/A |
+| 29 | [السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 30 | [جبل ابي قبيس](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d8%a7%d8%a8%d9%8a+%d9%82%d8%a8%d9%8a%d8%b3) | N/A |
 | 31 | [القوات المسلحه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad%d9%87) | N/A |
-| 32 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
-| 33 | [جبل ابي قبيس](http://twitter.com/search?q=%d8%ac%d8%a8%d9%84+%d8%a7%d8%a8%d9%8a+%d9%82%d8%a8%d9%8a%d8%b3) | N/A |
-| 34 | [التراث الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 35 | [غير المسلم](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 36 | [المدرب العالمي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
-| 37 | [عبدالرحمن غريب](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
-| 38 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 39 | [نجد العذيه](http://twitter.com/search?q=%d9%86%d8%ac%d8%af+%d8%a7%d9%84%d8%b9%d8%b0%d9%8a%d9%87) | N/A |
-| 40 | [وقطر](http://twitter.com/search?q=%d9%88%d9%82%d8%b7%d8%b1) | N/A |
-| 41 | [علي العنزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
-| 42 | [البيت النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
+| 32 | [علي غريب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
+| 33 | [التراث الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 34 | [عبدالرحمن غريب](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86+%d8%ba%d8%b1%d9%8a%d8%a8) | N/A |
+| 35 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 36 | [نادي النصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 37 | [اللاعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 38 | [علي العنزي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
+| 39 | [هند القحطاني](http://twitter.com/search?q=%d9%87%d9%86%d8%af+%d8%a7%d9%84%d9%82%d8%ad%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 40 | [مورينهو](http://twitter.com/search?q=%d9%85%d9%88%d8%b1%d9%8a%d9%86%d9%87%d9%88) | N/A |
+| 41 | [القرار العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 42 | [نجد العذيه](http://twitter.com/search?q=%d9%86%d8%ac%d8%af+%d8%a7%d9%84%d8%b9%d8%b0%d9%8a%d9%87) | N/A |
 | 43 | [علي اللاعبين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8%d9%8a%d9%86) | N/A |
-| 44 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
-| 45 | [اللاعب المحلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%8a) | N/A |
-| 46 | [القرار العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 44 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 45 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
+| 46 | [علي الجدران](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d8%b1%d8%a7%d9%86) | N/A |
 | 47 | [عسيري](http://twitter.com/search?q=%d8%b9%d8%b3%d9%8a%d8%b1%d9%8a) | N/A |
-| 48 | [فهد الهريفي](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d9%87%d8%b1%d9%8a%d9%81%d9%8a) | N/A |
-| 49 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
-| 50 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 48 | [اللهم الاجابه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d8%a8%d9%87) | N/A |
+| 49 | [البيت النصراوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%86%d8%b5%d8%b1%d8%a7%d9%88%d9%8a) | N/A |
+| 50 | [ابو جبل](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%ac%d8%a8%d9%84) | N/A |
 
 
 

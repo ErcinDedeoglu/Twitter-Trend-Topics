@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-04-13 03:17:29 UTC`
+📆 Last Updated: `2023-04-13 04:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,54 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [MuharremBaba SeçimiAlır](http://twitter.com/search?q=MuharremBaba+Se%c3%a7imiAl%c4%b1r) | N/A |
-| 2 | [#BenimDavamStaj](http://twitter.com/search?q=%23BenimDavamStaj) | N/A |
-| 3 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
-| 4 | [Merter Beykoz](http://twitter.com/search?q=Merter+Beykoz) | N/A |
-| 5 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 6 | [#HAYIRLISAHURLAR](http://twitter.com/search?q=%23HAYIRLISAHURLAR) | N/A |
-| 7 | [TÜRKİYE YÜZYILI BAŞLIYOR](http://twitter.com/search?q=T%c3%9cRK%c4%b0YE+Y%c3%9cZYILI+BA%c5%9eLIYOR) | N/A |
-| 8 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
-| 9 | [#cerkezkoey](http://twitter.com/search?q=%23cerkezkoey) | N/A |
-| 10 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
-| 11 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
-| 12 | [Süper Lig'e](http://twitter.com/search?q=S%c3%bcper+Lig%27e) | N/A |
-| 13 | [Saati 12](http://twitter.com/search?q=Saati+12) | N/A |
-| 14 | [ERDOĞAN KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+KAZANACAK) | N/A |
-| 15 | [Zaza](http://twitter.com/search?q=Zaza) | N/A |
-| 16 | [Yılmaz Çakıroğlu](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%87ak%c4%b1ro%c4%9flu) | N/A |
-| 17 | [Numan](http://twitter.com/search?q=Numan) | N/A |
-| 18 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
-| 19 | [Candaş](http://twitter.com/search?q=Canda%c5%9f) | N/A |
-| 20 | [Berna](http://twitter.com/search?q=Berna) | N/A |
-| 21 | [Devletin](http://twitter.com/search?q=Devletin) | N/A |
-| 22 | [BÜYÜK ALTAY](http://twitter.com/search?q=B%c3%9cY%c3%9cK+ALTAY) | N/A |
-| 23 | [Halk TV](http://twitter.com/search?q=Halk+TV) | N/A |
-| 24 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 25 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 26 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 27 | [Sayın Cumhurbaşkanımız](http://twitter.com/search?q=Say%c4%b1n+Cumhurba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 28 | [Cumhurbaşkanı Özel](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+%c3%96zel) | N/A |
-| 29 | [Sakarya](http://twitter.com/search?q=Sakarya) | N/A |
-| 30 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
-| 31 | [Göztepe](http://twitter.com/search?q=G%c3%b6ztepe) | N/A |
-| 32 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 33 | [Hoşgeldiniz](http://twitter.com/search?q=Ho%c5%9fgeldiniz) | N/A |
+| 2 | [#Samsunspor](http://twitter.com/search?q=%23Samsunspor) | N/A |
+| 3 | [#reisailedekiekdersliyemüjde](http://twitter.com/search?q=%23reisailedekiekdersliyem%c3%bcjde) | N/A |
+| 4 | [#ailebakanlığıekdersliyemüjde](http://twitter.com/search?q=%23ailebakanl%c4%b1%c4%9f%c4%b1ekdersliyem%c3%bcjde) | N/A |
+| 5 | [dijital sandık](http://twitter.com/search?q=dijital+sand%c4%b1k) | N/A |
+| 6 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 7 | [#MemurdaOyKullanacak](http://twitter.com/search?q=%23MemurdaOyKullanacak) | N/A |
+| 8 | [Levent Uysal](http://twitter.com/search?q=Levent+Uysal) | N/A |
+| 9 | [Merter Beykoz](http://twitter.com/search?q=Merter+Beykoz) | N/A |
+| 10 | [Süper Lig'e](http://twitter.com/search?q=S%c3%bcper+Lig%27e) | N/A |
+| 11 | [TÜRKİYE YÜZYILI BAŞLIYOR](http://twitter.com/search?q=T%c3%9cRK%c4%b0YE+Y%c3%9cZYILI+BA%c5%9eLIYOR) | N/A |
+| 12 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 13 | [Affet Türkiyem](http://twitter.com/search?q=Affet+T%c3%bcrkiyem) | N/A |
+| 14 | [ak parti afyonkarahisar](http://twitter.com/search?q=ak+parti+afyonkarahisar) | N/A |
+| 15 | [Atletico Madrid](http://twitter.com/search?q=Atletico+Madrid) | N/A |
+| 16 | [Destici](http://twitter.com/search?q=Destici) | N/A |
+| 17 | [CNN Türk-Kanal D](http://twitter.com/search?q=CNN+T%c3%bcrk-Kanal+D) | N/A |
+| 18 | [Cumhurbaşkanı Özel](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+%c3%96zel) | N/A |
+| 19 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 20 | [Kerem Kınık](http://twitter.com/search?q=Kerem+K%c4%b1n%c4%b1k) | N/A |
+| 21 | [Candaş](http://twitter.com/search?q=Canda%c5%9f) | N/A |
+| 22 | [Kızılay](http://twitter.com/search?q=K%c4%b1z%c4%b1lay) | Kızılay is the Turkish Red Crescent, a humanitarian organization that provides aid and assistance to those in need. The name Kızılay comes from the Ottoman Empire era, when it was known as the Imperial Ottoman Society of the Red Crescent. In English, Kızılay translates to "Red Crescent". |
+| 23 | [Mansur](http://twitter.com/search?q=Mansur) | N/A |
+| 24 | [Doğru Adam](http://twitter.com/search?q=Do%c4%9fru+Adam) | N/A |
+| 25 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 26 | [naci görüntü](http://twitter.com/search?q=naci+g%c3%b6r%c3%bcnt%c3%bc) | N/A |
+| 27 | [Erkan Baş](http://twitter.com/search?q=Erkan+Ba%c5%9f) | N/A |
+| 28 | [Er-Rahman El-Hakim](http://twitter.com/search?q=Er-Rahman+El-Hakim) | N/A |
+| 29 | [Yugoslav](http://twitter.com/search?q=Yugoslav) | N/A |
+| 30 | [10 GB](http://twitter.com/search?q=10+GB) | N/A |
+| 31 | [teşekkürler kılıçdaroğlu](http://twitter.com/search?q=te%c5%9fekk%c3%bcrler+k%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | N/A |
+| 32 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
+| 33 | [Simeone](http://twitter.com/search?q=Simeone) | Simeone is a surname of Italian origin. It is derived from the given name Simone, which is the Italian form of Simon. The name means "he who hears" or "listening". |
 | 34 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 35 | [Rize](http://twitter.com/search?q=Rize) | N/A |
-| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 37 | [#KingOfTheNorth](http://twitter.com/search?q=%23KingOfTheNorth) | N/A |
-| 38 | [#MemurdaOyKullanacak](http://twitter.com/search?q=%23MemurdaOyKullanacak) | N/A |
-| 39 | [#AdımAdımİstanbul](http://twitter.com/search?q=%23Ad%c4%b1mAd%c4%b1m%c4%b0stanbul) | N/A |
-| 40 | [#ÖğretmeneMüjde55Binİlave](http://twitter.com/search?q=%23%c3%96%c4%9fretmeneM%c3%bcjde55Bin%c4%b0lave) | N/A |
-| 41 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
-| 42 | [#YaparsaBayKemalYapar](http://twitter.com/search?q=%23YaparsaBayKemalYapar) | N/A |
-| 43 | [#CesaretinTeknolojisi](http://twitter.com/search?q=%23CesaretinTeknolojisi) | N/A |
-| 44 | [#BJKvATM](http://twitter.com/search?q=%23BJKvATM) | N/A |
-| 45 | [#DoğruAdımlarlaYolaDevam](http://twitter.com/search?q=%23Do%c4%9fruAd%c4%b1mlarlaYolaDevam) | N/A |
+| 35 | [AğırHastalar TahliyeBekliyor](http://twitter.com/search?q=A%c4%9f%c4%b1rHastalar+TahliyeBekliyor) | N/A |
+| 36 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 37 | [MEMURU YOK SAYMA](http://twitter.com/search?q=MEMURU+YOK+SAYMA) | N/A |
+| 38 | [Maxim](http://twitter.com/search?q=Maxim) | N/A |
+| 39 | [Saati 12](http://twitter.com/search?q=Saati+12) | N/A |
+| 40 | [Hikmet Çetin](http://twitter.com/search?q=Hikmet+%c3%87etin) | N/A |
+| 41 | [Özlem Zengin](http://twitter.com/search?q=%c3%96zlem+Zengin) | N/A |
+| 42 | [Boşnak](http://twitter.com/search?q=Bo%c5%9fnak) | N/A |
+| 43 | [tebrikler beşiktaş'ım](http://twitter.com/search?q=tebrikler+be%c5%9fikta%c5%9f%27%c4%b1m) | N/A |
+| 44 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
+| 45 | [Soğan](http://twitter.com/search?q=So%c4%9fan) | N/A |
+| 46 | [Mülakatı](http://twitter.com/search?q=M%c3%bclakat%c4%b1) | N/A |
+| 47 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 48 | [Balkan](http://twitter.com/search?q=Balkan) | N/A |
+| 49 | [Yılmaz Çakıroğlu](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%87ak%c4%b1ro%c4%9flu) | N/A |
 
 
 

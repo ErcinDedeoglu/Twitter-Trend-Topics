@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-13 03:17:04 UTC`
+📆 Last Updated: `2023-04-13 04:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [France](</France>)
 | 1 | [#Bac2023](http://twitter.com/search?q=%23Bac2023) | N/A |
 | 2 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
 | 3 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 4 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 5 | [#topchef](http://twitter.com/search?q=%23topchef) | N/A |
-| 6 | [Demain 19h](http://twitter.com/search?q=Demain+19h) | N/A |
-| 7 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 8 | [#teamg1](http://twitter.com/search?q=%23teamg1) | N/A |
-| 9 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 11 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 14 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 15 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 16 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 17 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 18 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 19 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
-| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 21 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
-| 22 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 23 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 24 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 25 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 26 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 27 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 28 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 29 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 30 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 31 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 32 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 33 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 34 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 35 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
-| 36 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 37 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
-| 38 | [RUBEN DIAS](http://twitter.com/search?q=RUBEN+DIAS) | N/A |
-| 39 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 40 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
-| 41 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 42 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 43 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 44 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 45 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 46 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 47 | [GP Explorer 2](http://twitter.com/search?q=GP+Explorer+2) | N/A |
-| 48 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 49 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
-| 50 | [Cyclades](http://twitter.com/search?q=Cyclades) | N/A |
+| 4 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 5 | [Demain 19h](http://twitter.com/search?q=Demain+19h) | N/A |
+| 6 | [#topchef](http://twitter.com/search?q=%23topchef) | N/A |
+| 7 | [#teamg1](http://twitter.com/search?q=%23teamg1) | N/A |
+| 8 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 9 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 10 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 11 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 13 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
+| 14 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 15 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 16 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 17 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
+| 18 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 19 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 20 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 21 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 22 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 23 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 24 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
+| 25 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 26 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 27 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 29 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 30 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 31 | [riolo](http://twitter.com/search?q=riolo) | N/A |
+| 32 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 33 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 34 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 35 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 36 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
+| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 38 | [Cyclades](http://twitter.com/search?q=Cyclades) | N/A |
+| 39 | [GP Explorer 2](http://twitter.com/search?q=GP+Explorer+2) | N/A |
+| 40 | [Kanté](http://twitter.com/search?q=Kant%c3%a9) | N/A |
+| 41 | [Dort](http://twitter.com/search?q=Dort) | N/A |
+| 42 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 43 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 44 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 45 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 46 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
+| 47 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 48 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 49 | [Enzo Fernandez](http://twitter.com/search?q=Enzo+Fernandez) | N/A |
+| 50 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
 
 
 

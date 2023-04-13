@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-13 03:17:38 UTC`
+📆 Last Updated: `2023-04-13 04:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Chile
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 2 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 3 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 4 | [#CeylinEsAudaz](http://twitter.com/search?q=%23CeylinEsAudaz) | N/A |
-| 5 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
-| 6 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 7 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 8 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 9 | [#laleydebaltazar](http://twitter.com/search?q=%23laleydebaltazar) | N/A |
+| 1 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
+| 2 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 3 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 4 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
+| 5 | [#CeylinEsAudaz](http://twitter.com/search?q=%23CeylinEsAudaz) | N/A |
+| 6 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
+| 7 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
+| 8 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 9 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
 | 10 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
-| 11 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 11 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 12 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 13 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 14 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 17 | [Felipe Parada](http://twitter.com/search?q=Felipe+Parada) | N/A |
-| 18 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 19 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 20 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
-| 21 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 22 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
-| 23 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 24 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 25 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 26 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
-| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 29 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 30 | [Diego Ibáñez](http://twitter.com/search?q=Diego+Ib%c3%a1%c3%b1ez) | N/A |
-| 31 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 32 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 33 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 34 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
-| 35 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
-| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 37 | [Alex Salazar](http://twitter.com/search?q=Alex+Salazar) | N/A |
-| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 40 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
-| 41 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
-| 42 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 43 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
-| 44 | [MANGA DE COMUNISTAS](http://twitter.com/search?q=MANGA+DE+COMUNISTAS) | N/A |
-| 45 | [Arica](http://twitter.com/search?q=Arica) | N/A |
-| 46 | [Nico Jarry](http://twitter.com/search?q=Nico+Jarry) | N/A |
-| 47 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 48 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 49 | [Avanzamos](http://twitter.com/search?q=Avanzamos) | N/A |
-| 50 | [Codina](http://twitter.com/search?q=Codina) | N/A |
+| 13 | [Lucas Piraino](http://twitter.com/search?q=Lucas+Piraino) | N/A |
+| 14 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 15 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 17 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 18 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 19 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
+| 20 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
+| 21 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 22 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 23 | [PUMA](http://twitter.com/search?q=PUMA) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 26 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 27 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
+| 28 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 29 | [Putre](http://twitter.com/search?q=Putre) | N/A |
+| 30 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 31 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 32 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 33 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 34 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 35 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
+| 36 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 37 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
+| 38 | [Pendejos](http://twitter.com/search?q=Pendejos) | N/A |
+| 39 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 40 | [Naranjo](http://twitter.com/search?q=Naranjo) | N/A |
+| 41 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 42 | [Alex Salazar](http://twitter.com/search?q=Alex+Salazar) | N/A |
+| 43 | [Secundarios](http://twitter.com/search?q=Secundarios) | N/A |
+| 44 | [Banksy](http://twitter.com/search?q=Banksy) | N/A |
+| 45 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
+| 46 | [MANGA DE COMUNISTAS](http://twitter.com/search?q=MANGA+DE+COMUNISTAS) | N/A |
+| 47 | [Comisión de Ética](http://twitter.com/search?q=Comisi%c3%b3n+de+%c3%89tica) | N/A |
+| 48 | [Avanzamos](http://twitter.com/search?q=Avanzamos) | N/A |
+| 49 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
+| 50 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
 
 
 

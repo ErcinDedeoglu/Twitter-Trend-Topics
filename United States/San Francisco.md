@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-13 03:17:36 UTC`
+📆 Last Updated: `2023-04-13 04:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 2 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
-| 3 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
-| 4 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 5 | [#cashapptrivia](http://twitter.com/search?q=%23cashapptrivia) | N/A |
-| 6 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 7 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 8 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 1 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 2 | [Oracle Park](http://twitter.com/search?q=Oracle+Park) | N/A |
+| 3 | [Kapler](http://twitter.com/search?q=Kapler) | N/A |
+| 4 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 5 | [Joey Bart](http://twitter.com/search?q=Joey+Bart) | N/A |
+| 6 | [Farhan](http://twitter.com/search?q=Farhan) | Farhan is an Arabic name meaning "happy" or "joyful". |
+| 7 | [#BeatLA](http://twitter.com/search?q=%23BeatLA) | N/A |
+| 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 9 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 10 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 11 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 12 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
-| 13 | [Cinemax](http://twitter.com/search?q=Cinemax) | N/A |
-| 14 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 15 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
-| 16 | [Defund](http://twitter.com/search?q=Defund) | N/A |
-| 17 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 18 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
-| 19 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 20 | [Fetterman](http://twitter.com/search?q=Fetterman) | N/A |
-| 21 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 22 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 23 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 24 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 25 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 26 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 27 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 28 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 29 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 30 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 31 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 32 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 33 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 34 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 35 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 36 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 37 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 38 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 10 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 11 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 12 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 13 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 14 | [Tim Scott](http://twitter.com/search?q=Tim+Scott) | N/A |
+| 15 | [Discovery](http://twitter.com/search?q=Discovery) | N/A |
+| 16 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 17 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 19 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 20 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 21 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 22 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 23 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 24 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 25 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 26 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 27 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 28 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 29 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 30 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 31 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 32 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 33 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 34 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
+| 35 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 36 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 37 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 38 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
 | 39 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 40 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 41 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 42 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 43 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 44 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 45 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 46 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 47 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 48 | [Bryce Johnson](http://twitter.com/search?q=Bryce+Johnson) | N/A |
-| 49 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 40 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
+| 41 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 42 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 43 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 44 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 45 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 46 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 47 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 48 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
+| 49 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 50 | [Lego](http://twitter.com/search?q=Lego) | N/A |
 
 
 

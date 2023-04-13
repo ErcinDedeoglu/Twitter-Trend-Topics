@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-13 03:17:36 UTC`
+📆 Last Updated: `2023-04-13 04:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 2 | [Nate](http://twitter.com/search?q=Nate) | N/A |
+| 1 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 2 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 | 3 | [#NCTDREAM_THEDREAMSHOW2](http://twitter.com/search?q=%23NCTDREAM_THEDREAMSHOW2) | N/A |
-| 4 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 5 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
-| 6 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 7 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 8 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 9 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 10 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 4 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 5 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 6 | [#THEDREAMSHOW2_in_HOUSTON](http://twitter.com/search?q=%23THEDREAMSHOW2_in_HOUSTON) | N/A |
+| 7 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 8 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 9 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 10 | [Nate](http://twitter.com/search?q=Nate) | N/A |
 | 11 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 12 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 13 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 14 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 15 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 16 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 17 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 18 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 19 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 20 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 21 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 22 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 23 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 24 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 25 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 26 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 27 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 28 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 29 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 30 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 31 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 32 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 33 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 34 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 35 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 36 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 37 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 38 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 39 | [Bryce Johnson](http://twitter.com/search?q=Bryce+Johnson) | N/A |
-| 40 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 41 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 42 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 43 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 44 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 45 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 46 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 47 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 48 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 13 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 14 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 15 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 16 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 17 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 18 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 19 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 20 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 21 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 22 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 23 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 24 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 25 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 26 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 27 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 28 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
+| 29 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 30 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 31 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 32 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 33 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 34 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 35 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 36 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
+| 37 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 38 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 39 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 40 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 41 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 42 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
+| 43 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 44 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 45 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 46 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 47 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 48 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
 
 
 

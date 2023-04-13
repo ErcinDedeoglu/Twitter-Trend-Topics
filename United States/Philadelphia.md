@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-04-13 03:17:34 UTC`
+📆 Last Updated: `2023-04-13 04:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 3 | [Burke](http://twitter.com/search?q=Burke) | N/A |
-| 4 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
-| 5 | [Kimbrel](http://twitter.com/search?q=Kimbrel) | Kimbrel is a surname of German origin. It is derived from the Old German word "kimbar" which means "warrior". In English, it can be translated to mean "brave warrior". |
-| 6 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 7 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 8 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 9 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
-| 10 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 11 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 12 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 13 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 15 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 16 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 17 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 18 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 19 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 20 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 21 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 22 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 23 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 24 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
-| 25 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 26 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 27 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 28 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 29 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 30 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 31 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 32 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 33 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 34 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 35 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 36 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 37 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 38 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
-| 39 | [Bryce Johnson](http://twitter.com/search?q=Bryce+Johnson) | N/A |
-| 40 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 41 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 42 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 43 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 44 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 45 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 46 | [Kershaw](http://twitter.com/search?q=Kershaw) | N/A |
-| 47 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 48 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 49 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 50 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
+| 1 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 2 | [McGlynn](http://twitter.com/search?q=McGlynn) | N/A |
+| 3 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 4 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 5 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 6 | [Geno](http://twitter.com/search?q=Geno) | Geno is a shortened form of the name "Genovese," which is an Italian surname. It can also be used as a nickname for someone named Eugene or Gene. In English, it means "of Genoa," referring to the city in Italy. |
+| 7 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 8 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 9 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 10 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 11 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 12 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 13 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 14 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 15 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 16 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 17 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 18 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 19 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 20 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 21 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 22 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 23 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 24 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 25 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 26 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 27 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 28 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 29 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 30 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 31 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 32 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 33 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 34 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
+| 35 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 36 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 37 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 38 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 39 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
+| 40 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 41 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 42 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
+| 43 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 44 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 45 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 46 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 47 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 48 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
+| 49 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 50 | [Chet](http://twitter.com/search?q=Chet) | N/A |
 
 
 

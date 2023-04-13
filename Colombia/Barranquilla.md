@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-04-13 03:16:59 UTC`
+📆 Last Updated: `2023-04-13 04:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,44 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
 | 2 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
 | 3 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 4 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 5 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
-| 6 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 7 | [Bogdan](http://twitter.com/search?q=Bogdan) | N/A |
-| 8 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 9 | [#DesafioTheBox3](http://twitter.com/search?q=%23DesafioTheBox3) | N/A |
-| 10 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 11 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 12 | [Omega](http://twitter.com/search?q=Omega) | N/A |
-| 13 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 14 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 15 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
-| 16 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 17 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
-| 18 | [Violeta](http://twitter.com/search?q=Violeta) | N/A |
-| 19 | [Secuestro](http://twitter.com/search?q=Secuestro) | N/A |
-| 20 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 21 | [#CelebraLaVida](http://twitter.com/search?q=%23CelebraLaVida) | N/A |
-| 22 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
-| 23 | [Atentado](http://twitter.com/search?q=Atentado) | N/A |
-| 24 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
-| 25 | [Caicedonia](http://twitter.com/search?q=Caicedonia) | N/A |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 27 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 28 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 4 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 5 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 6 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
+| 7 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 8 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 9 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 10 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 11 | [Bogdan](http://twitter.com/search?q=Bogdan) | N/A |
+| 12 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 13 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 14 | [Miguel Monsalve](http://twitter.com/search?q=Miguel+Monsalve) | N/A |
+| 15 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
+| 16 | [Mayer](http://twitter.com/search?q=Mayer) | N/A |
+| 17 | [Violeta](http://twitter.com/search?q=Violeta) | N/A |
+| 18 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 19 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
+| 20 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
+| 21 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 22 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 23 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 24 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 25 | [Atentado](http://twitter.com/search?q=Atentado) | N/A |
+| 26 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 27 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
+| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 29 | [Barragán](http://twitter.com/search?q=Barrag%c3%a1n) | N/A |
-| 30 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 33 | [La Tebaida](http://twitter.com/search?q=La+Tebaida) | N/A |
-| 34 | [Cartago](http://twitter.com/search?q=Cartago) | N/A |
-| 35 | [Culpa de Petro](http://twitter.com/search?q=Culpa+de+Petro) | N/A |
-| 36 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 37 | [Beta](http://twitter.com/search?q=Beta) | N/A |
-| 38 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 39 | [Lina](http://twitter.com/search?q=Lina) | N/A |
-| 40 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
-| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 42 | [Toribío](http://twitter.com/search?q=Torib%c3%ado) | N/A |
-| 43 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 44 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
-| 45 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
-| 46 | [#SerieRedmiNote12](http://twitter.com/search?q=%23SerieRedmiNote12) | N/A |
+| 30 | [Valle del Cauca](http://twitter.com/search?q=Valle+del+Cauca) | N/A |
+| 31 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 32 | [Atanasio Girardot](http://twitter.com/search?q=Atanasio+Girardot) | N/A |
+| 33 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 34 | [Culpa de Petro](http://twitter.com/search?q=Culpa+de+Petro) | N/A |
+| 35 | [beta](http://twitter.com/search?q=beta) | N/A |
+| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 37 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 38 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 39 | [#CelebraLaVida](http://twitter.com/search?q=%23CelebraLaVida) | N/A |
+| 40 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
+| 41 | [#SerieRedmiNote12](http://twitter.com/search?q=%23SerieRedmiNote12) | N/A |
 
 
 
