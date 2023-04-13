@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-04-13 09:16:49 UTC`
+📆 Last Updated: `2023-04-13 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 2 | [#GalaxyS235G](http://twitter.com/search?q=%23GalaxyS235G) | N/A |
 | 3 | [#MudikGratisDariGanjar](http://twitter.com/search?q=%23MudikGratisDariGanjar) | N/A |
 | 4 | [Manteb Nih PS-08](http://twitter.com/search?q=Manteb+Nih+PS-08) | N/A |
-| 5 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
-| 6 | [PS Sang Patriot](http://twitter.com/search?q=PS+Sang+Patriot) | N/A |
-| 7 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
-| 8 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 9 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 10 | [Yudo Andreawan](http://twitter.com/search?q=Yudo+Andreawan) | N/A |
-| 11 | [MC JOHNNY](http://twitter.com/search?q=MC+JOHNNY) | N/A |
-| 12 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
-| 13 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 14 | [Paras](http://twitter.com/search?q=Paras) | N/A |
+| 5 | [PS Sang Patriot](http://twitter.com/search?q=PS+Sang+Patriot) | N/A |
+| 6 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 7 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
+| 8 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
+| 9 | [Yudo Andreawan](http://twitter.com/search?q=Yudo+Andreawan) | N/A |
+| 10 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
+| 11 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 12 | [MC JOHNNY](http://twitter.com/search?q=MC+JOHNNY) | N/A |
+| 13 | [Kota Depok](http://twitter.com/search?q=Kota+Depok) | N/A |
+| 14 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
 | 15 | [Bea Cukai](http://twitter.com/search?q=Bea+Cukai) | N/A |
-| 16 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 17 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
-| 18 | [Simposium Nasional](http://twitter.com/search?q=Simposium+Nasional) | N/A |
-| 19 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 20 | [Lavender](http://twitter.com/search?q=Lavender) | N/A |
-| 21 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 22 | [Maling](http://twitter.com/search?q=Maling) | N/A |
-| 23 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
-| 24 | [Cream](http://twitter.com/search?q=Cream) | N/A |
-| 25 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 26 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 27 | [Nastar](http://twitter.com/search?q=Nastar) | N/A |
-| 28 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
+| 16 | [Paras](http://twitter.com/search?q=Paras) | N/A |
+| 17 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 18 | [Kementerian BUMN](http://twitter.com/search?q=Kementerian+BUMN) | N/A |
+| 19 | [Yati](http://twitter.com/search?q=Yati) | N/A |
+| 20 | [Kamis](http://twitter.com/search?q=Kamis) | N/A |
+| 21 | [Maling](http://twitter.com/search?q=Maling) | N/A |
+| 22 | [Lavender](http://twitter.com/search?q=Lavender) | N/A |
+| 23 | [Cream](http://twitter.com/search?q=Cream) | N/A |
+| 24 | [Stasiun Gambir](http://twitter.com/search?q=Stasiun+Gambir) | N/A |
+| 25 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 26 | [Nastar](http://twitter.com/search?q=Nastar) | N/A |
+| 27 | [Redmi Note 12 Series](http://twitter.com/search?q=Redmi+Note+12+Series) | N/A |
+| 28 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 29 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
 | 30 | [Habib](http://twitter.com/search?q=Habib) | N/A |
-| 31 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 32 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 33 | [Yati](http://twitter.com/search?q=Yati) | N/A |
-| 34 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
-| 35 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
-| 36 | [#AwesomeNightography](http://twitter.com/search?q=%23AwesomeNightography) | N/A |
+| 31 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 32 | [#CelebrateWithIRENE](http://twitter.com/search?q=%23CelebrateWithIRENE) | N/A |
+| 33 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 34 | [#AwesomeNightography](http://twitter.com/search?q=%23AwesomeNightography) | N/A |
+| 35 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
+| 36 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
 | 37 | [#FxckMyLife4MPreorder](http://twitter.com/search?q=%23FxckMyLife4MPreorder) | N/A |
-| 38 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 39 | [#RamadandiShopeexOPPO](http://twitter.com/search?q=%23RamadandiShopeexOPPO) | N/A |
-| 40 | [#Nnattawin](http://twitter.com/search?q=%23Nnattawin) | #Nnattawin is an Indigenous hashtag used on social media to celebrate and recognize Indigenous people, cultures, and communities. It is derived from the Cree word “Nnattawin” which means “we are here” or “we are still here.” |
-| 41 | [#GanjarBawaKemajuan](http://twitter.com/search?q=%23GanjarBawaKemajuan) | N/A |
-| 42 | [#IDIKemanaAja](http://twitter.com/search?q=%23IDIKemanaAja) | N/A |
-| 43 | [#GajiDokterTimpang](http://twitter.com/search?q=%23GajiDokterTimpang) | N/A |
-| 44 | [#TheEighthSenseEp6](http://twitter.com/search?q=%23TheEighthSenseEp6) | N/A |
-| 45 | [#MilePhakphum](http://twitter.com/search?q=%23MilePhakphum) | N/A |
-| 46 | [#BUMNMenggerakkanIndonesiaMaju](http://twitter.com/search?q=%23BUMNMenggerakkanIndonesiaMaju) | N/A |
-| 47 | [#25TahunKementerianBUMN](http://twitter.com/search?q=%2325TahunKementerianBUMN) | N/A |
-| 48 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 38 | [#RamadandiShopeexOPPO](http://twitter.com/search?q=%23RamadandiShopeexOPPO) | N/A |
+| 39 | [#IDIKemanaAja](http://twitter.com/search?q=%23IDIKemanaAja) | N/A |
+| 40 | [#GajiDokterTimpang](http://twitter.com/search?q=%23GajiDokterTimpang) | N/A |
+| 41 | [#Nnattawin](http://twitter.com/search?q=%23Nnattawin) | #Nnattawin is an Indigenous hashtag used on social media to celebrate and recognize Indigenous people, cultures, and communities. It is derived from the Cree word “Nnattawin” which means “we are here” or “we are still here.” |
+| 42 | [#BUMNMenggerakkanIndonesiaMaju](http://twitter.com/search?q=%23BUMNMenggerakkanIndonesiaMaju) | N/A |
+| 43 | [#MilePhakphum](http://twitter.com/search?q=%23MilePhakphum) | N/A |
+| 44 | [#2M500kBsumLoveBible](http://twitter.com/search?q=%232M500kBsumLoveBible) | N/A |
+| 45 | [#PemiluSerentak2024](http://twitter.com/search?q=%23PemiluSerentak2024) | N/A |
+| 46 | [#ZeeLetter](http://twitter.com/search?q=%23ZeeLetter) | N/A |
+| 47 | [#ditjenpas](http://twitter.com/search?q=%23ditjenpas) | N/A |
 
 
 

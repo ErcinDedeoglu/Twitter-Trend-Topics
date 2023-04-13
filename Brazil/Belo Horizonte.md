@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-04-13 09:16:38 UTC`
+📆 Last Updated: `2023-04-13 10:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,43 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 2 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 1 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 2 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
 | 3 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
 | 4 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
 | 5 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 6 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 7 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 6 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 7 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 8 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 9 | [maycon](http://twitter.com/search?q=maycon) | N/A |
-| 10 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 11 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 12 | [Karol Conka](http://twitter.com/search?q=Karol+Conka) | N/A |
-| 13 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 14 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
-| 15 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
-| 16 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
-| 17 | [hyoran](http://twitter.com/search?q=hyoran) | N/A |
-| 18 | [NAVARRO](http://twitter.com/search?q=NAVARRO) | N/A |
-| 19 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 20 | [Lumena](http://twitter.com/search?q=Lumena) | N/A |
-| 21 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 9 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 10 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 11 | [Karol Conka](http://twitter.com/search?q=Karol+Conka) | N/A |
+| 12 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 13 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
+| 14 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 15 | [OMISSA](http://twitter.com/search?q=OMISSA) | N/A |
+| 16 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 17 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
+| 18 | [Machismo](http://twitter.com/search?q=Machismo) | N/A |
+| 19 | [Veveta](http://twitter.com/search?q=Veveta) | N/A |
+| 20 | [#FicaBlack](http://twitter.com/search?q=%23FicaBlack) | N/A |
+| 21 | [Lumena](http://twitter.com/search?q=Lumena) | N/A |
 | 22 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
-| 23 | [Machista](http://twitter.com/search?q=Machista) | N/A |
-| 24 | [OMISSA](http://twitter.com/search?q=OMISSA) | N/A |
-| 25 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
-| 26 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
-| 27 | [ypiranga](http://twitter.com/search?q=ypiranga) | N/A |
-| 28 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
-| 29 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 30 | [Branca](http://twitter.com/search?q=Branca) | N/A |
-| 31 | [Duílio](http://twitter.com/search?q=Du%c3%adlio) | N/A |
-| 32 | [du queiroz](http://twitter.com/search?q=du+queiroz) | N/A |
-| 33 | [Bruna e Larissa](http://twitter.com/search?q=Bruna+e+Larissa) | N/A |
-| 34 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 35 | [Mangueirão](http://twitter.com/search?q=Mangueir%c3%a3o) | N/A |
-| 36 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 37 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 38 | [EXPULSO](http://twitter.com/search?q=EXPULSO) | N/A |
-| 39 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 40 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 41 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 42 | [ASSEDIADOR](http://twitter.com/search?q=ASSEDIADOR) | N/A |
-| 43 | [bruno viana](http://twitter.com/search?q=bruno+viana) | N/A |
-| 44 | [Insuportáveis](http://twitter.com/search?q=Insuport%c3%a1veis) | N/A |
-| 45 | [Votem](http://twitter.com/search?q=Votem) | N/A |
+| 23 | [Diggo](http://twitter.com/search?q=Diggo) | N/A |
+| 24 | [Machista](http://twitter.com/search?q=Machista) | N/A |
+| 25 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 26 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 27 | [#ForaCezarBlack](http://twitter.com/search?q=%23ForaCezarBlack) | N/A |
+| 28 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
+| 29 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 30 | [hyoran](http://twitter.com/search?q=hyoran) | N/A |
+| 31 | [Júnior Santos](http://twitter.com/search?q=J%c3%banior+Santos) | N/A |
+| 32 | [mangueirão](http://twitter.com/search?q=mangueir%c3%a3o) | N/A |
+| 33 | [Silvio Almeida](http://twitter.com/search?q=Silvio+Almeida) | Silvio Almeida is a Portuguese name. It is derived from the Latin words silva (meaning forest) and almeida (meaning defender). The name can be translated to mean "defender of the forest". |
+| 34 | [du queiroz](http://twitter.com/search?q=du+queiroz) | N/A |
+| 35 | [Branca](http://twitter.com/search?q=Branca) | N/A |
+| 36 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 37 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-13 09:16:40 UTC`
+📆 Last Updated: `2023-04-13 10:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#5sosgliwice](http://twitter.com/search?q=%235sosgliwice) | N/A |
-| 2 | [#Katyń](http://twitter.com/search?q=%23Katy%c5%84) | N/A |
+| 1 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 2 | [#5sosgliwice](http://twitter.com/search?q=%235sosgliwice) | N/A |
 | 3 | [#famemma18](http://twitter.com/search?q=%23famemma18) | N/A |
-| 4 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 5 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 6 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 7 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 8 | [Jacek Kurski](http://twitter.com/search?q=Jacek+Kurski) | N/A |
-| 9 | [Harry'ego](http://twitter.com/search?q=Harry%27ego) | N/A |
-| 10 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
-| 11 | [Jakubiak](http://twitter.com/search?q=Jakubiak) | N/A |
-| 12 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 13 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 14 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 4 | [#TrenujJakŻołnierz](http://twitter.com/search?q=%23TrenujJak%c5%bbo%c5%82nierz) | N/A |
+| 5 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 6 | [Satka](http://twitter.com/search?q=Satka) | N/A |
+| 7 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 9 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 10 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
+| 11 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 12 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
+| 13 | [Jacek Kurski](http://twitter.com/search?q=Jacek+Kurski) | N/A |
+| 14 | [Rzepy](http://twitter.com/search?q=Rzepy) | N/A |
 | 15 | [Zboże](http://twitter.com/search?q=Zbo%c5%bce) | N/A |
-| 16 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 17 | [Rzepy](http://twitter.com/search?q=Rzepy) | N/A |
-| 18 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 19 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 21 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 22 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 23 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 24 | [Cedrob](http://twitter.com/search?q=Cedrob) | N/A |
-| 25 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 26 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
-| 27 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 28 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
-| 29 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 30 | [osimhena](http://twitter.com/search?q=osimhena) | N/A |
-| 31 | [Testnet Foxes](http://twitter.com/search?q=Testnet+Foxes) | N/A |
-| 32 | [dzień czekolady](http://twitter.com/search?q=dzie%c5%84+czekolady) | N/A |
-| 33 | [Rzepie](http://twitter.com/search?q=Rzepie) | N/A |
-| 34 | [Waszyngtonie](http://twitter.com/search?q=Waszyngtonie) | N/A |
-| 35 | [SolPol](http://twitter.com/search?q=SolPol) | N/A |
-| 36 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 37 | [Piotr Wesołowski](http://twitter.com/search?q=Piotr+Weso%c5%82owski) | N/A |
-| 38 | [Komisji Europejskiej](http://twitter.com/search?q=Komisji+Europejskiej) | N/A |
-| 39 | [Sakowski](http://twitter.com/search?q=Sakowski) | N/A |
-| 40 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
-| 41 | [Anguissy](http://twitter.com/search?q=Anguissy) | N/A |
-| 42 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 43 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 45 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
-| 46 | [Kima](http://twitter.com/search?q=Kima) | N/A |
-| 47 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 48 | [The Blues](http://twitter.com/search?q=The+Blues) | N/A |
+| 16 | [Fiorentiny](http://twitter.com/search?q=Fiorentiny) | N/A |
+| 17 | [Chrabota](http://twitter.com/search?q=Chrabota) | N/A |
+| 18 | [Jakubiak](http://twitter.com/search?q=Jakubiak) | N/A |
+| 19 | [Komisja Europejska](http://twitter.com/search?q=Komisja+Europejska) | N/A |
+| 20 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 21 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 22 | [TSUE](http://twitter.com/search?q=TSUE) | N/A |
+| 23 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 24 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 25 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 26 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 27 | [Lasy](http://twitter.com/search?q=Lasy) | N/A |
+| 28 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 29 | [Cedrob](http://twitter.com/search?q=Cedrob) | N/A |
+| 30 | [Kołodziejczak](http://twitter.com/search?q=Ko%c5%82odziejczak) | N/A |
+| 31 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 32 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 33 | [dzień czekolady](http://twitter.com/search?q=dzie%c5%84+czekolady) | N/A |
+| 34 | [Rzepie](http://twitter.com/search?q=Rzepie) | N/A |
+| 35 | [Krakowie](http://twitter.com/search?q=Krakowie) | N/A |
+| 36 | [Sakowski](http://twitter.com/search?q=Sakowski) | N/A |
+| 37 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 38 | [piotr wesołowski](http://twitter.com/search?q=piotr+weso%c5%82owski) | N/A |
+| 39 | [Imię Róży](http://twitter.com/search?q=Imi%c4%99+R%c3%b3%c5%bcy) | N/A |
+| 40 | [Morawieckiego](http://twitter.com/search?q=Morawieckiego) | N/A |
+| 41 | [Testnet Foxes](http://twitter.com/search?q=Testnet+Foxes) | N/A |
+| 42 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
+| 43 | [Diduszko](http://twitter.com/search?q=Diduszko) | N/A |
+| 44 | [Cześć Michał](http://twitter.com/search?q=Cze%c5%9b%c4%87+Micha%c5%82) | N/A |
+| 45 | [liga mistrzów](http://twitter.com/search?q=liga+mistrz%c3%b3w) | N/A |
+| 46 | [Bartek](http://twitter.com/search?q=Bartek) | N/A |
+| 47 | [Robaki](http://twitter.com/search?q=Robaki) | N/A |
+| 48 | [Macrona](http://twitter.com/search?q=Macrona) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-04-13 09:17:13 UTC`
+📆 Last Updated: `2023-04-13 10:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Salt Lake City](http://twitter.com/search?q=Salt+Lake+City) | N/A |
 | 2 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 3 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 4 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 5 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 6 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 7 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 8 | [#Picard](http://twitter.com/search?q=%23Picard) | N/A |
-| 9 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
-| 10 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 3 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 4 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 5 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 7 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 8 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 9 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 10 | [#Wordle663](http://twitter.com/search?q=%23Wordle663) | N/A |
 | 11 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 12 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 13 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 14 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 15 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
-| 16 | [#DCTitans](http://twitter.com/search?q=%23DCTitans) | N/A |
-| 17 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
-| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 19 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 21 | [Dort](http://twitter.com/search?q=Dort) | N/A |
-| 22 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 23 | [Pels](http://twitter.com/search?q=Pels) | N/A |
-| 24 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 25 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 26 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 27 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 28 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 29 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 30 | [Episode 9](http://twitter.com/search?q=Episode+9) | N/A |
-| 31 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 12 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 13 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 14 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 15 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 16 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 17 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 18 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 19 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 20 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 21 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 22 | [Episode 9](http://twitter.com/search?q=Episode+9) | N/A |
+| 23 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 24 | [Pels](http://twitter.com/search?q=Pels) | N/A |
+| 25 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 26 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 27 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 28 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 29 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 30 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 31 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 32 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 33 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 34 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 35 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 36 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 33 | [Dort](http://twitter.com/search?q=Dort) | N/A |
+| 34 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 35 | [Cudi](http://twitter.com/search?q=Cudi) | N/A |
+| 36 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
 | 37 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 38 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 39 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 40 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 41 | [Calvin Harris](http://twitter.com/search?q=Calvin+Harris) | N/A |
-| 42 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
-| 43 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
-| 44 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 45 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
-| 46 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 47 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 48 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 49 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 38 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 39 | [Yachty](http://twitter.com/search?q=Yachty) | Yachty is a slang term used to refer to someone who is wealthy and enjoys luxury items, such as yachts. It can also be used to describe someone who lives a lavish lifestyle. |
+| 40 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 41 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
+| 42 | [Herb](http://twitter.com/search?q=Herb) | Herb is a noun that refers to a plant that does not have a woody stem and usually dies back at the end of each growing season. It is used in cooking, medicine, and other areas. In English, the word herb can also refer to any aromatic plant material used for flavoring or scenting food, medicines, or other products. |
+| 43 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 44 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 45 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 46 | [Scheana](http://twitter.com/search?q=Scheana) | N/A |
+| 47 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 48 | [Zach Lavine](http://twitter.com/search?q=Zach+Lavine) | Zach Lavine is an American professional basketball player who currently plays for the Chicago Bulls of the National Basketball Association (NBA). He is known for his high-flying dunks and acrobatic layups. |
+| 49 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
 
 
 

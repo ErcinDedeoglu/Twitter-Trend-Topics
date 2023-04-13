@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-13 09:16:38 UTC`
+📆 Last Updated: `2023-04-13 10:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Peru](</Peru>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Daniel Urresti](http://twitter.com/search?q=Daniel+Urresti) | N/A |
-| 2 | [Hugo Bustíos](http://twitter.com/search?q=Hugo+Bust%c3%ados) | N/A |
-| 3 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
-| 4 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 2 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
+| 3 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 4 | [Hugo Bustíos](http://twitter.com/search?q=Hugo+Bust%c3%ados) | N/A |
 | 5 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 6 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
+| 6 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
 | 7 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 8 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 9 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
-| 10 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 11 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
-| 12 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
-| 13 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 14 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
+| 10 | [sergio tarache](http://twitter.com/search?q=sergio+tarache) | N/A |
+| 11 | [Katherine Gómez](http://twitter.com/search?q=Katherine+G%c3%b3mez) | N/A |
+| 12 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
+| 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 14 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 15 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
-| 16 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 17 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 18 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 19 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 20 | [#perupaisdevioladores](http://twitter.com/search?q=%23perupaisdevioladores) | N/A |
+| 18 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
+| 19 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 20 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
 | 21 | [Puno](http://twitter.com/search?q=Puno) | Puno is a city in Peru located on the shores of Lake Titicaca. It is the capital of the Puno Region and the Puno Province with a population of approximately 140,000 people. The name Puno comes from the Quechua language and means "the place of rest". |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
-| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 25 | [Teleticket](http://twitter.com/search?q=Teleticket) | N/A |
-| 26 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 27 | [#avancesdegestión](http://twitter.com/search?q=%23avancesdegesti%c3%b3n) | N/A |
-| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 29 | [Tibisay](http://twitter.com/search?q=Tibisay) | N/A |
-| 30 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
-| 31 | [Gerardo](http://twitter.com/search?q=Gerardo) | N/A |
-| 32 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 33 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 34 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 35 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
-| 36 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
-| 37 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
-| 38 | [Otarola](http://twitter.com/search?q=Otarola) | Otarola is a Spanish surname. It is derived from the Basque word "otar", which means "wolf". In English, the meaning of Otarola is "son of the wolf". |
-| 39 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
-| 40 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
-| 41 | [Alessia](http://twitter.com/search?q=Alessia) | Alessia is an Italian female name, derived from the Greek name Alexia, which means "defender of mankind". |
-| 42 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
-| 43 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 44 | [cajamarca](http://twitter.com/search?q=cajamarca) | N/A |
+| 22 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 24 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 25 | [#MagalyTvLaFirme](http://twitter.com/search?q=%23MagalyTvLaFirme) | N/A |
+| 26 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 28 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 29 | [Gerardo](http://twitter.com/search?q=Gerardo) | N/A |
+| 30 | [Teleticket](http://twitter.com/search?q=Teleticket) | N/A |
+| 31 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
+| 32 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
+| 33 | [#niunamenos](http://twitter.com/search?q=%23niunamenos) | N/A |
+| 34 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 35 | [Cortina](http://twitter.com/search?q=Cortina) | N/A |
+| 36 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 37 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 38 | [cajamarca](http://twitter.com/search?q=cajamarca) | N/A |
+| 39 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
+| 40 | [jaiden](http://twitter.com/search?q=jaiden) | N/A |
+| 41 | [Otarola](http://twitter.com/search?q=Otarola) | Otarola is a Spanish surname. It is derived from the Basque word "otar", which means "wolf". In English, the meaning of Otarola is "son of the wolf". |
+| 42 | [Amilcar](http://twitter.com/search?q=Amilcar) | N/A |
+| 43 | [Brunella](http://twitter.com/search?q=Brunella) | N/A |
+| 44 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
 | 45 | [Secretario General](http://twitter.com/search?q=Secretario+General) | N/A |
-| 46 | [Sunedu](http://twitter.com/search?q=Sunedu) | N/A |
-| 47 | [lesiones leves](http://twitter.com/search?q=lesiones+leves) | N/A |
-| 48 | [Amilcar](http://twitter.com/search?q=Amilcar) | N/A |
-| 49 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 50 | [PENA DE MUERTE](http://twitter.com/search?q=PENA+DE+MUERTE) | N/A |
+| 46 | [dafonseka](http://twitter.com/search?q=dafonseka) | N/A |
+| 47 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
+| 48 | [Betssy Chávez](http://twitter.com/search?q=Betssy+Ch%c3%a1vez) | N/A |
+| 49 | [chicho mohme](http://twitter.com/search?q=chicho+mohme) | N/A |
+| 50 | [sunedu](http://twitter.com/search?q=sunedu) | N/A |
 
 
 
