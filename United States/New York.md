@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-13 01:43:28 UTC`
+📆 Last Updated: `2023-04-13 02:29:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NFTNYC](http://twitter.com/search?q=%23NFTNYC) | N/A |
-| 2 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 3 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 2 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 3 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
 | 4 | [Dobson](http://twitter.com/search?q=Dobson) | N/A |
-| 5 | [Hudson Fasching](http://twitter.com/search?q=Hudson+Fasching) | N/A |
+| 5 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
 | 6 | [Lil Wayne](http://twitter.com/search?q=Lil+Wayne) | Lil Wayne is the stage name of American rapper Dwayne Michael Carter Jr. He is one of the most successful and influential hip-hop artists of all time, having sold over 120 million records worldwide. The name Lil Wayne is derived from his childhood nickname, "Weezy". |
-| 7 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 8 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 9 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
-| 10 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 13 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 14 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 15 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 16 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 17 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 18 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
-| 19 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 20 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 21 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 22 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
-| 23 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 24 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
-| 25 | [Sting](http://twitter.com/search?q=Sting) | N/A |
-| 26 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 27 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
-| 28 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 29 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 30 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
-| 31 | [Wardlow](http://twitter.com/search?q=Wardlow) | N/A |
-| 32 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 33 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 34 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
-| 35 | [Gary Trent](http://twitter.com/search?q=Gary+Trent) | Gary Trent is a nickname given to someone who is strong, reliable, and dependable. It is derived from the name of the former NBA player Gary Trent, who was known for his strength and dependability on the court. |
-| 36 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
-| 37 | [Bullet Club Gold](http://twitter.com/search?q=Bullet+Club+Gold) | N/A |
-| 38 | [Cutler](http://twitter.com/search?q=Cutler) | N/A |
-| 39 | [Patrick Williams](http://twitter.com/search?q=Patrick+Williams) | N/A |
-| 40 | [Buddy Matthews](http://twitter.com/search?q=Buddy+Matthews) | N/A |
-| 41 | [Swerve](http://twitter.com/search?q=Swerve) | Swerve is a slang term that means to suddenly change direction or to avoid something. It can also be used to describe a sudden change in attitude or behavior. |
-| 42 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 43 | [Nakazawa](http://twitter.com/search?q=Nakazawa) | N/A |
-| 44 | [Feinstein](http://twitter.com/search?q=Feinstein) | Feinstein is a surname of German origin. It is derived from the German word "stein" meaning "stone". The name is often associated with the Jewish faith, as it is a common Jewish surname. In English, Feinstein means "stone-dweller". |
-| 45 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 46 | [Hobbs](http://twitter.com/search?q=Hobbs) | N/A |
-| 47 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
-| 48 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
-| 49 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 50 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 7 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 8 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 9 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 10 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 11 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 12 | [Missouri](http://twitter.com/search?q=Missouri) | Missouri is a state in the Midwestern United States. It is bordered by Iowa, Illinois, Kentucky, Tennessee, Arkansas, Oklahoma, Kansas and Nebraska. The name Missouri comes from the Native American tribe of the same name and means "town of the large canoes". |
+| 13 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 14 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 15 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 16 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 17 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 18 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 19 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 20 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 21 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 22 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 23 | [#Survivor](http://twitter.com/search?q=%23Survivor) | N/A |
+| 24 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 25 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 26 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 27 | [Darby](http://twitter.com/search?q=Darby) | Darby is a name of English origin, derived from the Old Norse name Djúrbergi, meaning "deer-protected hill". It is also a nickname for the town of Derby in England. |
+| 28 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
+| 29 | [Lu Dort](http://twitter.com/search?q=Lu+Dort) | N/A |
+| 30 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 31 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
+| 32 | [Barbara](http://twitter.com/search?q=Barbara) | N/A |
+| 33 | [Darin Ruf](http://twitter.com/search?q=Darin+Ruf) | N/A |
+| 34 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 35 | [Sting](http://twitter.com/search?q=Sting) | N/A |
+| 36 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 37 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 38 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 39 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 40 | [Gary Trent](http://twitter.com/search?q=Gary+Trent) | Gary Trent is a nickname given to someone who is strong, reliable, and dependable. It is derived from the name of the former NBA player Gary Trent, who was known for his strength and dependability on the court. |
+| 41 | [Frannie](http://twitter.com/search?q=Frannie) | N/A |
+| 42 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 43 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 44 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 45 | [Yam Yam](http://twitter.com/search?q=Yam+Yam) | N/A |
+| 46 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 47 | [Taraji](http://twitter.com/search?q=Taraji) | N/A |
+| 48 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 49 | [Bullet Club Gold](http://twitter.com/search?q=Bullet+Club+Gold) | N/A |
+| 50 | [Chris Sale](http://twitter.com/search?q=Chris+Sale) | N/A |
 
 
 

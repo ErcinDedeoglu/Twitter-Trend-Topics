@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chihuahua
 
-📆 Last Updated: `2023-04-13 01:42:47 UTC`
+📆 Last Updated: `2023-04-13 02:29:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#AuroraXSopitas](http://twitter.com/search?q=%23AuroraXSopitas) | N/A |
 | 2 | [WE LOVE QSMP](http://twitter.com/search?q=WE+LOVE+QSMP) | N/A |
-| 3 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 4 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 5 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 6 | [#StreamPeoplePt2](http://twitter.com/search?q=%23StreamPeoplePt2) | N/A |
-| 7 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
-| 8 | [#LoQueRealmenteImporta](http://twitter.com/search?q=%23LoQueRealmenteImporta) | N/A |
-| 9 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 10 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
-| 11 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 12 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 13 | [MAÑANA 1TRAGO](http://twitter.com/search?q=MA%c3%91ANA+1TRAGO) | N/A |
-| 14 | [#TatatiuEnConvoy](http://twitter.com/search?q=%23TatatiuEnConvoy) | N/A |
-| 15 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 16 | [Slime](http://twitter.com/search?q=Slime) | N/A |
-| 17 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
-| 18 | [JUAN CUBITO](http://twitter.com/search?q=JUAN+CUBITO) | N/A |
-| 19 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
-| 20 | [Clasismo](http://twitter.com/search?q=Clasismo) | N/A |
-| 21 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 22 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 23 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 24 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 25 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 26 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 27 | [Randy Arozarena](http://twitter.com/search?q=Randy+Arozarena) | N/A |
-| 28 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 29 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 30 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 31 | [Adán Augusto López](http://twitter.com/search?q=Ad%c3%a1n+Augusto+L%c3%b3pez) | N/A |
+| 3 | [Diego Cocca](http://twitter.com/search?q=Diego+Cocca) | N/A |
+| 4 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 5 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 6 | [#BullsNation](http://twitter.com/search?q=%23BullsNation) | N/A |
+| 7 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 8 | [#StreamPeoplePt2](http://twitter.com/search?q=%23StreamPeoplePt2) | N/A |
+| 9 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
+| 10 | [#BuyPeoplePt2](http://twitter.com/search?q=%23BuyPeoplePt2) | N/A |
+| 11 | [#LoQueRealmenteImporta](http://twitter.com/search?q=%23LoQueRealmenteImporta) | N/A |
+| 12 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 13 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 14 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 15 | [Hokkaido](http://twitter.com/search?q=Hokkaido) | N/A |
+| 16 | [MAÑANA 1TRAGO](http://twitter.com/search?q=MA%c3%91ANA+1TRAGO) | N/A |
+| 17 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 18 | [Julián Quiñones](http://twitter.com/search?q=Juli%c3%a1n+Qui%c3%b1ones) | N/A |
+| 19 | [Camilo Vargas](http://twitter.com/search?q=Camilo+Vargas) | N/A |
+| 20 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
+| 21 | [ME TOO](http://twitter.com/search?q=ME+TOO) | N/A |
+| 22 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 23 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
+| 26 | [Slime](http://twitter.com/search?q=Slime) | N/A |
+| 27 | [Clasismo](http://twitter.com/search?q=Clasismo) | N/A |
+| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 29 | [JUAN CUBITO](http://twitter.com/search?q=JUAN+CUBITO) | N/A |
+| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 32 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 33 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
-| 34 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 35 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 36 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 37 | [Jueves 13](http://twitter.com/search?q=Jueves+13) | N/A |
-| 38 | [California](http://twitter.com/search?q=California) | N/A |
-| 39 | [Jonathan Orozco](http://twitter.com/search?q=Jonathan+Orozco) | N/A |
+| 33 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 34 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 35 | [Adán Augusto López](http://twitter.com/search?q=Ad%c3%a1n+Augusto+L%c3%b3pez) | N/A |
+| 36 | [Juanaflippa](http://twitter.com/search?q=Juanaflippa) | N/A |
+| 37 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
+| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 39 | [Nuevo Laredo](http://twitter.com/search?q=Nuevo+Laredo) | N/A |
 | 40 | [Krauze](http://twitter.com/search?q=Krauze) | N/A |
-| 41 | [Jefa de Gobierno](http://twitter.com/search?q=Jefa+de+Gobierno) | Jefa de Gobierno is a Spanish term that translates to "Head of Government" in English. It is used to refer to the highest-ranking elected official in a city or region, such as the mayor or governor. |
-| 42 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 43 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 44 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 45 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 46 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 47 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 48 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
-| 49 | [Hogwarts](http://twitter.com/search?q=Hogwarts) | N/A |
+| 41 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 42 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 43 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 44 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 45 | [California](http://twitter.com/search?q=California) | N/A |
+| 46 | [El Hoyo](http://twitter.com/search?q=El+Hoyo) | N/A |
+| 47 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
+| 48 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 49 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 
 
 

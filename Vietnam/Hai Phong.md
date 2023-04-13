@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-04-13 01:43:12 UTC`
+📆 Last Updated: `2023-04-13 02:29:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ENGLOT_GalaNightMGT2023](http://twitter.com/search?q=%23ENGLOT_GalaNightMGT2023) | N/A |
-| 2 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
-| 3 | [#폭풍전야](http://twitter.com/search?q=%23%ed%8f%ad%ed%92%8d%ec%a0%84%ec%95%bc) | N/A |
-| 4 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 5 | [#tpst_난장_mv_teaser](http://twitter.com/search?q=%23tpst_%eb%82%9c%ec%9e%a5_mv_teaser) | N/A |
-| 6 | [Protector Cover](http://twitter.com/search?q=Protector+Cover) | N/A |
-| 7 | [#BillboardCorrupt](http://twitter.com/search?q=%23BillboardCorrupt) | N/A |
-| 8 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 1 | [#2M500kBsumLoveBible](http://twitter.com/search?q=%232M500kBsumLoveBible) | N/A |
+| 2 | [Đủ 50ETHs](http://twitter.com/search?q=%c4%90%e1%bb%a7+50ETHs) | N/A |
+| 3 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 4 | [#ENGLOT_GalaNightMGT2023](http://twitter.com/search?q=%23ENGLOT_GalaNightMGT2023) | N/A |
+| 5 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 6 | [#MVติดเธอ](http://twitter.com/search?q=%23MV%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 7 | [#tpst_난장_mv_teaser](http://twitter.com/search?q=%23tpst_%eb%82%9c%ec%9e%a5_mv_teaser) | N/A |
+| 8 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
 | 9 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 10 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 11 | [Snow Boots](http://twitter.com/search?q=Snow+Boots) | N/A |
-| 12 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 10 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 11 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 12 | [Cover Protector](http://twitter.com/search?q=Cover+Protector) | N/A |
 | 13 | [RESPECT BTS](http://twitter.com/search?q=RESPECT+BTS) | N/A |
-| 14 | [Calaveras Skull](http://twitter.com/search?q=Calaveras+Skull) | N/A |
-| 15 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
-| 16 | [Sugar Skull Girl](http://twitter.com/search?q=Sugar+Skull+Girl) | N/A |
-| 17 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 18 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 19 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 20 | [Hongkong](http://twitter.com/search?q=Hongkong) | N/A |
-| 21 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
-| 22 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 23 | [sài gòn](http://twitter.com/search?q=s%c3%a0i+g%c3%b2n) | N/A |
-| 24 | [jennie](http://twitter.com/search?q=jennie) | N/A |
-| 25 | [$AGI](http://twitter.com/search?q=%24AGI) | N/A |
-| 26 | [Flokiceo](http://twitter.com/search?q=Flokiceo) | N/A |
-| 27 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
-| 28 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 29 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
-| 32 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 33 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 34 | [Sell](http://twitter.com/search?q=Sell) | N/A |
-| 35 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
-| 36 | [biết](http://twitter.com/search?q=bi%e1%ba%bft) | N/A |
-| 37 | [Thương](http://twitter.com/search?q=Th%c6%b0%c6%a1ng) | N/A |
-| 38 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 39 | [XP and Suiswap Points](http://twitter.com/search?q=XP+and+Suiswap+Points) | N/A |
-| 40 | [Bitget](http://twitter.com/search?q=Bitget) | N/A |
-| 41 | [Altcoin](http://twitter.com/search?q=Altcoin) | N/A |
-| 42 | [Nhật Bản](http://twitter.com/search?q=Nh%e1%ba%adt+B%e1%ba%a3n) | N/A |
-| 43 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 44 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
-| 45 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
-| 46 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 48 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 14 | [Day of The Dead](http://twitter.com/search?q=Day+of+The+Dead) | N/A |
+| 15 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 16 | [Songkran](http://twitter.com/search?q=Songkran) | N/A |
+| 17 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 18 | [Calaveras Skull](http://twitter.com/search?q=Calaveras+Skull) | N/A |
+| 19 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
+| 20 | [RESPECT JIMIN](http://twitter.com/search?q=RESPECT+JIMIN) | N/A |
+| 21 | [$AGI](http://twitter.com/search?q=%24AGI) | N/A |
+| 22 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
+| 23 | [Justin Sun](http://twitter.com/search?q=Justin+Sun) | N/A |
+| 24 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 25 | [tiệm](http://twitter.com/search?q=ti%e1%bb%87m) | N/A |
+| 26 | [Hồng Kông](http://twitter.com/search?q=H%e1%bb%93ng+K%c3%b4ng) | N/A |
+| 27 | [Top 3](http://twitter.com/search?q=Top+3) | N/A |
+| 28 | [Layer 1](http://twitter.com/search?q=Layer+1) | N/A |
+| 29 | [Jubail](http://twitter.com/search?q=Jubail) | N/A |
+| 30 | [Aptos](http://twitter.com/search?q=Aptos) | N/A |
+| 31 | [Quốc](http://twitter.com/search?q=Qu%e1%bb%91c) | N/A |
+| 32 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 33 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 34 | [Bitget](http://twitter.com/search?q=Bitget) | N/A |
+| 35 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 36 | [XP and Suiswap Points](http://twitter.com/search?q=XP+and+Suiswap+Points) | N/A |
+| 37 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 38 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 39 | [nhật bản](http://twitter.com/search?q=nh%e1%ba%adt+b%e1%ba%a3n) | N/A |
+| 40 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 41 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
+| 42 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 43 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 44 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 45 | [Chơi](http://twitter.com/search?q=Ch%c6%a1i) | N/A |
+| 46 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 47 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
+| 48 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 49 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 50 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
 
 
 

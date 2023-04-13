@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-13 01:42:53 UTC`
+📆 Last Updated: `2023-04-13 02:29:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 2 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
-| 3 | [Ewerton](http://twitter.com/search?q=Ewerton) | N/A |
-| 4 | [Renan](http://twitter.com/search?q=Renan) | N/A |
-| 5 | [Enderson](http://twitter.com/search?q=Enderson) | N/A |
-| 6 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 1 | [Matheus Vargas](http://twitter.com/search?q=Matheus+Vargas) | N/A |
+| 2 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
+| 3 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 4 | [Vuaden](http://twitter.com/search?q=Vuaden) | N/A |
+| 5 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 6 | [Ewerton](http://twitter.com/search?q=Ewerton) | N/A |
 | 7 | [Edinho](http://twitter.com/search?q=Edinho) | N/A |
-| 8 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
-| 9 | [Sabino](http://twitter.com/search?q=Sabino) | N/A |
-| 10 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
-| 11 | [Luciano Juba](http://twitter.com/search?q=Luciano+Juba) | N/A |
-| 12 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 13 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
-| 14 | [Labandeira](http://twitter.com/search?q=Labandeira) | N/A |
-| 15 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 18 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
-| 19 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 8 | [Renan](http://twitter.com/search?q=Renan) | N/A |
+| 9 | [Enderson](http://twitter.com/search?q=Enderson) | N/A |
+| 10 | [Pedro Martins](http://twitter.com/search?q=Pedro+Martins) | N/A |
+| 11 | [Vagner Love](http://twitter.com/search?q=Vagner+Love) | N/A |
+| 12 | [Sabino](http://twitter.com/search?q=Sabino) | N/A |
+| 13 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
+| 14 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
+| 15 | [Labandeira](http://twitter.com/search?q=Labandeira) | N/A |
+| 16 | [Raquel Lyra](http://twitter.com/search?q=Raquel+Lyra) | N/A |
+| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 18 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 19 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
 | 20 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 21 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 21 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
 | 22 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 23 | [Alexandre Jesus](http://twitter.com/search?q=Alexandre+Jesus) | N/A |
-| 24 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 25 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
-| 26 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
-| 27 | [Luis Guilherme](http://twitter.com/search?q=Luis+Guilherme) | N/A |
-| 28 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
-| 29 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 30 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
-| 31 | [Daronco](http://twitter.com/search?q=Daronco) | N/A |
-| 32 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
-| 33 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 34 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 35 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 36 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
-| 37 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 38 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 23 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 24 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 25 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 26 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 27 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
+| 28 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 29 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 30 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 31 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 32 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 33 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 34 | [Alexandre Jesus](http://twitter.com/search?q=Alexandre+Jesus) | N/A |
+| 35 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
+| 36 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 37 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
+| 38 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
 | 39 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 40 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 41 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 42 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 43 | [Alef Manga](http://twitter.com/search?q=Alef+Manga) | N/A |
-| 44 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 45 | [Isaac](http://twitter.com/search?q=Isaac) | N/A |
-| 46 | [Jhon Jhon](http://twitter.com/search?q=Jhon+Jhon) | N/A |
-| 47 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 48 | [Fábio Santos](http://twitter.com/search?q=F%c3%a1bio+Santos) | Fábio Santos is a Portuguese name. It is derived from the Latin name Fabius, which means "bean grower" or "bean farmer". In English, it can be translated to mean "Bean Farmer". |
-| 49 | [Coritiba](http://twitter.com/search?q=Coritiba) | N/A |
-| 50 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 40 | [#ForaAline](http://twitter.com/search?q=%23ForaAline) | N/A |
+| 41 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 42 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
+| 43 | [Luis Guilherme](http://twitter.com/search?q=Luis+Guilherme) | N/A |
+| 44 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 45 | [Muriqui](http://twitter.com/search?q=Muriqui) | N/A |
+| 46 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 47 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 48 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
+| 49 | [Athletico](http://twitter.com/search?q=Athletico) | N/A |
+| 50 | [Karol Conka](http://twitter.com/search?q=Karol+Conka) | N/A |
 
 
 

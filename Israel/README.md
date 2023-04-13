@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-13 01:43:35 UTC`
+📆 Last Updated: `2023-04-13 02:29:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Israel
 | ------- | ------------ | ------------ |
 | 1 | [מאיר שלו](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%a9%d7%9c%d7%95) | N/A |
 | 2 | [חג מימונה שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%9e%d7%99%d7%9e%d7%95%d7%a0%d7%94+%d7%a9%d7%9e%d7%97) | N/A |
-| 3 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 4 | [אור הלר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%94%d7%9c%d7%a8) | N/A |
-| 5 | [אורן חזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9f+%d7%97%d7%96%d7%9f) | N/A |
-| 6 | [רומן רוסי](http://twitter.com/search?q=%d7%a8%d7%95%d7%9e%d7%9f+%d7%a8%d7%95%d7%a1%d7%99) | N/A |
+| 3 | [אור הלר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%94%d7%9c%d7%a8) | N/A |
+| 4 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 5 | [קיץ בריא](http://twitter.com/search?q=%d7%a7%d7%99%d7%a5+%d7%91%d7%a8%d7%99%d7%90) | N/A |
+| 6 | [אורן חזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9f+%d7%97%d7%96%d7%9f) | N/A |
 | 7 | [עשה מילואים](http://twitter.com/search?q=%d7%a2%d7%a9%d7%94+%d7%9e%d7%99%d7%9c%d7%95%d7%90%d7%99%d7%9d) | N/A |
-| 8 | [חג המימונה](http://twitter.com/search?q=%d7%97%d7%92+%d7%94%d7%9e%d7%99%d7%9e%d7%95%d7%a0%d7%94) | N/A |
-| 9 | [של המימונה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%9e%d7%99%d7%9e%d7%95%d7%a0%d7%94) | N/A |
+| 8 | [רומן רוסי](http://twitter.com/search?q=%d7%a8%d7%95%d7%9e%d7%9f+%d7%a8%d7%95%d7%a1%d7%99) | N/A |
+| 9 | [הפועל ירושלים](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
 | 10 | [של שלו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%9c%d7%95) | N/A |
-| 11 | [לימור לבנת](http://twitter.com/search?q=%d7%9c%d7%99%d7%9e%d7%95%d7%a8+%d7%9c%d7%91%d7%a0%d7%aa) | N/A |
-| 12 | [של לה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%94) | N/A |
-| 13 | [שולמית אלוני](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%9e%d7%99%d7%aa+%d7%90%d7%9c%d7%95%d7%a0%d7%99) | N/A |
-| 14 | [שלומי רייזמן](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95%d7%9e%d7%99+%d7%a8%d7%99%d7%99%d7%96%d7%9e%d7%9f) | N/A |
-| 15 | [ריאל מדריד](http://twitter.com/search?q=%d7%a8%d7%99%d7%90%d7%9c+%d7%9e%d7%93%d7%a8%d7%99%d7%93) | N/A |
-| 16 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 17 | [ראש ממשלה של](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94+%d7%a9%d7%9c) | N/A |
-| 18 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 19 | [Lucy](http://twitter.com/search?q=Lucy) | N/A |
-| 20 | [אוהד מכבי חיפה](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 21 | [ארגון גזעני](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%92%d7%96%d7%a2%d7%a0%d7%99) | N/A |
-| 22 | [ניר אורבך](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%90%d7%95%d7%a8%d7%91%d7%9a) | N/A |
-| 23 | [סופר ענק](http://twitter.com/search?q=%d7%a1%d7%95%d7%a4%d7%a8+%d7%a2%d7%a0%d7%a7) | N/A |
-| 24 | [אח שכול](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9b%d7%95%d7%9c) | N/A |
-| 25 | [דני ב](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%91) | N/A |
-| 26 | [tsukasa](http://twitter.com/search?q=tsukasa) | N/A |
-| 27 | [ארגון לה](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%9c%d7%94) | N/A |
-| 28 | [הפועל תל אביב](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
-| 29 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
-| 30 | [ים סוף](http://twitter.com/search?q=%d7%99%d7%9d+%d7%a1%d7%95%d7%a3) | N/A |
-| 31 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 32 | [אמיר אוחנה](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%95%d7%97%d7%a0%d7%94) | N/A |
-| 33 | [מדירה שינה](http://twitter.com/search?q=%d7%9e%d7%93%d7%99%d7%a8%d7%94+%d7%a9%d7%99%d7%a0%d7%94) | N/A |
-| 34 | [שקרן בן שקרן](http://twitter.com/search?q=%d7%a9%d7%a7%d7%a8%d7%9f+%d7%91%d7%9f+%d7%a9%d7%a7%d7%a8%d7%9f) | N/A |
-| 35 | [אוהד חיפה](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%97%d7%99%d7%a4%d7%94) | N/A |
-| 36 | [ליצן החצר](http://twitter.com/search?q=%d7%9c%d7%99%d7%a6%d7%9f+%d7%94%d7%97%d7%a6%d7%a8) | N/A |
-| 37 | [שר התרבות](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%aa%d7%a8%d7%91%d7%95%d7%aa) | N/A |
-| 38 | [שר פנים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%a4%d7%a0%d7%99%d7%9d) | N/A |
-| 39 | [עמוס עוז](http://twitter.com/search?q=%d7%a2%d7%9e%d7%95%d7%a1+%d7%a2%d7%95%d7%96) | N/A |
-| 40 | [בן כספית](http://twitter.com/search?q=%d7%91%d7%9f+%d7%9b%d7%a1%d7%a4%d7%99%d7%aa) | N/A |
-| 41 | [ציר מדיני](http://twitter.com/search?q=%d7%a6%d7%99%d7%a8+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
-| 42 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 43 | [שביעי של פסח](http://twitter.com/search?q=%d7%a9%d7%91%d7%99%d7%a2%d7%99+%d7%a9%d7%9c+%d7%a4%d7%a1%d7%97) | N/A |
-| 44 | [חבר ליכוד](http://twitter.com/search?q=%d7%97%d7%91%d7%a8+%d7%9c%d7%99%d7%9b%d7%95%d7%93) | N/A |
-| 45 | [עובד שם](http://twitter.com/search?q=%d7%a2%d7%95%d7%91%d7%93+%d7%a9%d7%9d) | N/A |
-| 46 | [ר הכנסת](http://twitter.com/search?q=%d7%a8+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 47 | [maia](http://twitter.com/search?q=maia) | N/A |
-| 48 | [של הגשש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%92%d7%a9%d7%a9) | N/A |
-| 49 | [איש קטן](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%a7%d7%98%d7%9f) | N/A |
-| 50 | [חבר לה](http://twitter.com/search?q=%d7%97%d7%91%d7%a8+%d7%9c%d7%94) | N/A |
+| 11 | [גיל בני](http://twitter.com/search?q=%d7%92%d7%99%d7%9c+%d7%91%d7%a0%d7%99) | N/A |
+| 12 | [ניר אורבך](http://twitter.com/search?q=%d7%a0%d7%99%d7%a8+%d7%90%d7%95%d7%a8%d7%91%d7%9a) | N/A |
+| 13 | [ריאל מדריד](http://twitter.com/search?q=%d7%a8%d7%99%d7%90%d7%9c+%d7%9e%d7%93%d7%a8%d7%99%d7%93) | N/A |
+| 14 | [שולמית אלוני](http://twitter.com/search?q=%d7%a9%d7%95%d7%9c%d7%9e%d7%99%d7%aa+%d7%90%d7%9c%d7%95%d7%a0%d7%99) | N/A |
+| 15 | [איש קטן](http://twitter.com/search?q=%d7%90%d7%99%d7%a9+%d7%a7%d7%98%d7%9f) | N/A |
+| 16 | [סופר ענק](http://twitter.com/search?q=%d7%a1%d7%95%d7%a4%d7%a8+%d7%a2%d7%a0%d7%a7) | N/A |
+| 17 | [רומפלנאכט שמח](http://twitter.com/search?q=%d7%a8%d7%95%d7%9e%d7%a4%d7%9c%d7%a0%d7%90%d7%9b%d7%98+%d7%a9%d7%9e%d7%97) | N/A |
+| 18 | [לימור לבנת](http://twitter.com/search?q=%d7%9c%d7%99%d7%9e%d7%95%d7%a8+%d7%9c%d7%91%d7%a0%d7%aa) | N/A |
+| 19 | [מדירה שינה](http://twitter.com/search?q=%d7%9e%d7%93%d7%99%d7%a8%d7%94+%d7%a9%d7%99%d7%a0%d7%94) | N/A |
+| 20 | [של נתניהו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 21 | [יום השואה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%a9%d7%95%d7%90%d7%94) | N/A |
+| 22 | [ראש ממשלה של](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%9e%d7%9e%d7%a9%d7%9c%d7%94+%d7%a9%d7%9c) | N/A |
+| 23 | [דני ב](http://twitter.com/search?q=%d7%93%d7%a0%d7%99+%d7%91) | N/A |
+| 24 | [עם מופלטה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%9e%d7%95%d7%a4%d7%9c%d7%98%d7%94) | N/A |
+| 25 | [אוהד מכבי חיפה](http://twitter.com/search?q=%d7%90%d7%95%d7%94%d7%93+%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 26 | [עמוס עוז](http://twitter.com/search?q=%d7%a2%d7%9e%d7%95%d7%a1+%d7%a2%d7%95%d7%96) | N/A |
+| 27 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 28 | [שביעי של פסח](http://twitter.com/search?q=%d7%a9%d7%91%d7%99%d7%a2%d7%99+%d7%a9%d7%9c+%d7%a4%d7%a1%d7%97) | N/A |
+| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 30 | [ארגון גזעני](http://twitter.com/search?q=%d7%90%d7%a8%d7%92%d7%95%d7%9f+%d7%92%d7%96%d7%a2%d7%a0%d7%99) | N/A |
+| 31 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 32 | [ק אתונה](http://twitter.com/search?q=%d7%a7+%d7%90%d7%aa%d7%95%d7%a0%d7%94) | N/A |
+| 33 | [עם חמאה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%9e%d7%90%d7%94) | N/A |
+| 34 | [אח שכול](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9b%d7%95%d7%9c) | N/A |
+| 35 | [שר התרבות](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%aa%d7%a8%d7%91%d7%95%d7%aa) | N/A |
+| 36 | [היא מראה](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%9e%d7%a8%d7%90%d7%94) | N/A |
+| 37 | [שקרן בן שקרן](http://twitter.com/search?q=%d7%a9%d7%a7%d7%a8%d7%9f+%d7%91%d7%9f+%d7%a9%d7%a7%d7%a8%d7%9f) | N/A |
+| 38 | [تشيلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a) | تشيلسي (pronounced "Tshee-lee-see") is a term used to refer to the English football club, Chelsea FC. It is derived from the club's name, which is an abbreviation of "Chelsea Football Club". In English, it can be translated as "Chelsea". |
+| 39 | [של סבתא שלי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%91%d7%aa%d7%90+%d7%a9%d7%9c%d7%99) | N/A |
+| 40 | [Mimouna](http://twitter.com/search?q=Mimouna) | N/A |
+| 41 | [עם דבש](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%93%d7%91%d7%a9) | N/A |
+| 42 | [של לה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%94) | N/A |
+| 43 | [חג שני](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%a0%d7%99) | N/A |
+| 44 | [ציר מדיני](http://twitter.com/search?q=%d7%a6%d7%99%d7%a8+%d7%9e%d7%93%d7%99%d7%a0%d7%99) | N/A |
+| 45 | [חבר ליכוד](http://twitter.com/search?q=%d7%97%d7%91%d7%a8+%d7%9c%d7%99%d7%9b%d7%95%d7%93) | N/A |
+| 46 | [שלומי רייזמן](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95%d7%9e%d7%99+%d7%a8%d7%99%d7%99%d7%96%d7%9e%d7%9f) | N/A |
+| 47 | [שר פנים](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%a4%d7%a0%d7%99%d7%9d) | N/A |
+| 48 | [العشر الاواخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b4%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1) | N/A |
+| 49 | [חבר לה](http://twitter.com/search?q=%d7%97%d7%91%d7%a8+%d7%9c%d7%94) | N/A |
+| 50 | [מזג אוויר](http://twitter.com/search?q=%d7%9e%d7%96%d7%92+%d7%90%d7%95%d7%95%d7%99%d7%a8) | N/A |
 
 
 
