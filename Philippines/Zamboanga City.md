@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-04-13 02:29:32 UTC`
+📆 Last Updated: `2023-04-13 03:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 2 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
-| 3 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
-| 4 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 2 | [#KathrynForrealmeC55](http://twitter.com/search?q=%23KathrynForrealmeC55) | N/A |
+| 3 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
+| 4 | [#fallenmisfitlost_photo](http://twitter.com/search?q=%23fallenmisfitlost_photo) | N/A |
 | 5 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 6 | [BGYO VIVID OUT NOW](http://twitter.com/search?q=BGYO+VIVID+OUT+NOW) | N/A |
-| 7 | [#KathrynForrealmeC55](http://twitter.com/search?q=%23KathrynForrealmeC55) | N/A |
-| 8 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
-| 9 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
-| 10 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 11 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 12 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 13 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 6 | [#MyChildhoodIssues](http://twitter.com/search?q=%23MyChildhoodIssues) | N/A |
+| 7 | [fml official photo 1](http://twitter.com/search?q=fml+official+photo+1) | N/A |
+| 8 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
+| 9 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 10 | [ChiCo POOLinLove](http://twitter.com/search?q=ChiCo+POOLinLove) | N/A |
+| 11 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 12 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 13 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 14 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 15 | [Jun Villamor](http://twitter.com/search?q=Jun+Villamor) | N/A |
-| 16 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 17 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 18 | [pluus reply time](http://twitter.com/search?q=pluus+reply+time) | N/A |
-| 19 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 20 | [Push](http://twitter.com/search?q=Push) | N/A |
-| 21 | [ChiCo POOLinLove](http://twitter.com/search?q=ChiCo+POOLinLove) | N/A |
-| 22 | [BINI STRINGS DANCE PRACTICE](http://twitter.com/search?q=BINI+STRINGS+DANCE+PRACTICE) | N/A |
-| 23 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 24 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 15 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 16 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
+| 17 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 18 | [Push](http://twitter.com/search?q=Push) | N/A |
+| 19 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 20 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 21 | [wind and wish coming soon](http://twitter.com/search?q=wind+and+wish+coming+soon) | N/A |
+| 22 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
+| 23 | [d-2 to paraiso](http://twitter.com/search?q=d-2+to+paraiso) | N/A |
+| 24 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 25 | [D2 KDLEXPETA COMEBACK](http://twitter.com/search?q=D2+KDLEXPETA+COMEBACK) | N/A |
+| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 27 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 28 | [D2 KDLEXPETA COMEBACK](http://twitter.com/search?q=D2+KDLEXPETA+COMEBACK) | N/A |
-| 29 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 30 | [d-2 to paraiso](http://twitter.com/search?q=d-2+to+paraiso) | N/A |
-| 31 | [wind and wish coming soon](http://twitter.com/search?q=wind+and+wish+coming+soon) | N/A |
-| 32 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 33 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 34 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 35 | [happy 2months hori7on](http://twitter.com/search?q=happy+2months+hori7on) | N/A |
-| 36 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 37 | [Polillo Islands](http://twitter.com/search?q=Polillo+Islands) | N/A |
-| 38 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
-| 39 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 40 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
-| 41 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
-| 42 | [Percy Lapid](http://twitter.com/search?q=Percy+Lapid) | N/A |
-| 43 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
-| 44 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
-| 45 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 46 | [svt run for your life](http://twitter.com/search?q=svt+run+for+your+life) | N/A |
-| 47 | [Sungjin](http://twitter.com/search?q=Sungjin) | N/A |
-| 48 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
-| 49 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 50 | [Bureau of Corrections](http://twitter.com/search?q=Bureau+of+Corrections) | N/A |
+| 28 | [ralphgail theliarloveteam](http://twitter.com/search?q=ralphgail+theliarloveteam) | N/A |
+| 29 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 30 | [happy 2months hori7on](http://twitter.com/search?q=happy+2months+hori7on) | N/A |
+| 31 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 32 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
+| 33 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
+| 34 | [Millie Bobby Brown](http://twitter.com/search?q=Millie+Bobby+Brown) | N/A |
+| 35 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
+| 36 | [Jungwon](http://twitter.com/search?q=Jungwon) | N/A |
+| 37 | [Percy Lapid](http://twitter.com/search?q=Percy+Lapid) | N/A |
+| 38 | [twolong liam](http://twitter.com/search?q=twolong+liam) | N/A |
+| 39 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 40 | [Conley](http://twitter.com/search?q=Conley) | N/A |
+| 41 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 42 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 43 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 44 | [anji paraiso mediacon](http://twitter.com/search?q=anji+paraiso+mediacon) | N/A |
+| 45 | [Bureau of Corrections](http://twitter.com/search?q=Bureau+of+Corrections) | N/A |
+| 46 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 47 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
+| 48 | [Low Pressure Area](http://twitter.com/search?q=Low+Pressure+Area) | N/A |
+| 49 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 50 | [DANIEL FOR HANA SHAMPOO](http://twitter.com/search?q=DANIEL+FOR+HANA+SHAMPOO) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-04-13 02:29:10 UTC`
+📆 Last Updated: `2023-04-13 03:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 2 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 3 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 4 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 5 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 6 | [Guedes](http://twitter.com/search?q=Guedes) | N/A |
-| 7 | [Pará](http://twitter.com/search?q=Par%c3%a1) | N/A |
-| 8 | [Navagol](http://twitter.com/search?q=Navagol) | N/A |
-| 9 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
-| 10 | [Matheus Araújo](http://twitter.com/search?q=Matheus+Ara%c3%bajo) | N/A |
-| 11 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
-| 12 | [Sylvinho](http://twitter.com/search?q=Sylvinho) | N/A |
-| 13 | [Gustavo Lopes](http://twitter.com/search?q=Gustavo+Lopes) | N/A |
-| 14 | [Giovani](http://twitter.com/search?q=Giovani) | Giovani is an Italian name, derived from the Latin name Iohannes, which means "God is gracious". In English, it is usually translated as John. |
-| 15 | [Bidu](http://twitter.com/search?q=Bidu) | N/A |
-| 16 | [Mia Goth](http://twitter.com/search?q=Mia+Goth) | Mia Goth is an English actress and model. She is best known for her roles in the films Nymphomaniac, A Cure for Wellness, and High Life. Her name is a combination of her first name, Mia, and her mother's maiden name, Goth. |
-| 17 | [Série C](http://twitter.com/search?q=S%c3%a9rie+C) | N/A |
-| 18 | [Egídio](http://twitter.com/search?q=Eg%c3%addio) | N/A |
-| 19 | [#PALxTOM](http://twitter.com/search?q=%23PALxTOM) | N/A |
-| 20 | [O PALMEIRAS É O TIME DO AMOR](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DO+AMOR) | N/A |
-| 21 | [O PALMEIRAS É O TIME DA VIRADA](http://twitter.com/search?q=O+PALMEIRAS+%c3%89+O+TIME+DA+VIRADA) | N/A |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [#CopaDoBrasil](http://twitter.com/search?q=%23CopaDoBrasil) | N/A |
-| 24 | [John John](http://twitter.com/search?q=John+John) | N/A |
-| 25 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 26 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 27 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
-| 28 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 29 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 30 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 31 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
-| 32 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
-| 33 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 2 | [Série C](http://twitter.com/search?q=S%c3%a9rie+C) | N/A |
+| 3 | [Guedes](http://twitter.com/search?q=Guedes) | N/A |
+| 4 | [Bruno Mendez](http://twitter.com/search?q=Bruno+Mendez) | N/A |
+| 5 | [Navagol](http://twitter.com/search?q=Navagol) | N/A |
+| 6 | [Richard Rios](http://twitter.com/search?q=Richard+Rios) | N/A |
+| 7 | [Matheus Araújo](http://twitter.com/search?q=Matheus+Ara%c3%bajo) | N/A |
+| 8 | [Jhon Jhon](http://twitter.com/search?q=Jhon+Jhon) | N/A |
+| 9 | [Timão](http://twitter.com/search?q=Tim%c3%a3o) | N/A |
+| 10 | [Vanderlan](http://twitter.com/search?q=Vanderlan) | N/A |
+| 11 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
+| 12 | [Alessandro](http://twitter.com/search?q=Alessandro) | N/A |
+| 13 | [Técnico](http://twitter.com/search?q=T%c3%a9cnico) | N/A |
+| 14 | [Cleber Machado](http://twitter.com/search?q=Cleber+Machado) | Cleber Machado is a Brazilian journalist and television presenter. He is best known for his work on the Globo network, where he has presented various programs such as Jornal Nacional, Fantástico, and Esporte Espetacular. In English, Cleber Machado means "brilliant warrior". |
+| 15 | [Gustavo Lopes](http://twitter.com/search?q=Gustavo+Lopes) | N/A |
+| 16 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 18 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 19 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 20 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 21 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 22 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 23 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 24 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 25 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 26 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 27 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
+| 28 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 29 | [Pavon](http://twitter.com/search?q=Pavon) | N/A |
+| 30 | [Barletta](http://twitter.com/search?q=Barletta) | N/A |
+| 31 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 32 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
+| 33 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
 | 34 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
-| 35 | [Brasil de Pelotas](http://twitter.com/search?q=Brasil+de+Pelotas) | Brasil de Pelotas is a Brazilian football club based in the city of Pelotas, Rio Grande do Sul. The club was founded in 1912 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name of the club literally translates to "Brazil from Pelotas" in English. |
-| 36 | [Yuri Alberto](http://twitter.com/search?q=Yuri+Alberto) | Yuri Alberto is a Spanish name. It is a combination of the names Yuri, which is derived from the Russian name Yuriy, meaning "farmer," and Alberto, which is derived from the Germanic name Adalbert, meaning "noble and bright." |
-| 37 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
-| 38 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 39 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
-| 40 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 41 | [Alexandre Jesus](http://twitter.com/search?q=Alexandre+Jesus) | N/A |
-| 42 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
-| 43 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
-| 44 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 45 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
-| 46 | [#ForaAline](http://twitter.com/search?q=%23ForaAline) | N/A |
-| 47 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 48 | [Di Plácido](http://twitter.com/search?q=Di+Pl%c3%a1cido) | N/A |
-| 49 | [Luis Guilherme](http://twitter.com/search?q=Luis+Guilherme) | N/A |
-| 50 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 35 | [Ypiranga](http://twitter.com/search?q=Ypiranga) | N/A |
+| 36 | [Rebecca](http://twitter.com/search?q=Rebecca) | N/A |
+| 37 | [Junior Santos](http://twitter.com/search?q=Junior+Santos) | N/A |
+| 38 | [Karol Conka](http://twitter.com/search?q=Karol+Conka) | N/A |
+| 39 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 40 | [Veveta](http://twitter.com/search?q=Veveta) | N/A |
+| 41 | [Duílio](http://twitter.com/search?q=Du%c3%adlio) | N/A |
+| 42 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 43 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 44 | [Essa Bruna](http://twitter.com/search?q=Essa+Bruna) | Essa Bruna is a Portuguese phrase that translates to "this brunette" in English. It is typically used to refer to a woman with brown hair. |
+| 45 | [Tombense](http://twitter.com/search?q=Tombense) | N/A |
+| 46 | [Lucas Perri](http://twitter.com/search?q=Lucas+Perri) | N/A |
+| 47 | [Jr Santos](http://twitter.com/search?q=Jr+Santos) | N/A |
+| 48 | [Marlon Freitas](http://twitter.com/search?q=Marlon+Freitas) | Marlon Freitas is a Brazilian name. It is derived from the Latin words "mar" (sea) and "lon" (strong). The name can be translated to mean "strong sea". |
+| 49 | [Alexandre Jesus](http://twitter.com/search?q=Alexandre+Jesus) | N/A |
+| 50 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 
 
 

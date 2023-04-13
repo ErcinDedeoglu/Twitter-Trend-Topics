@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-04-13 02:29:26 UTC`
+📆 Last Updated: `2023-04-13 03:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ちょうどいいラジオ](http://twitter.com/search?q=%23%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9%e3%81%84%e3%81%84%e3%83%a9%e3%82%b8%e3%82%aa) | N/A |
+| 1 | [ラヴィット](http://twitter.com/search?q=%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | ラヴィット is a Japanese word that means "love it". It is often used to express enthusiasm or approval for something. |
 | 2 | [ジャニーズ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%ba) | ジャニーズ is a Japanese talent agency and entertainment production company. It is one of the largest and most successful talent agencies in Japan, representing many popular artists and groups. The name comes from the first two letters of the words "Johnny" and "Associates". |
-| 3 | [#HappyShoseiDay](http://twitter.com/search?q=%23HappyShoseiDay) | N/A |
-| 4 | [ステロイド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
-| 5 | [#咲き誇れ23歳の大平祥生](http://twitter.com/search?q=%23%e5%92%b2%e3%81%8d%e8%aa%87%e3%82%8c23%e6%ad%b3%e3%81%ae%e5%a4%a7%e5%b9%b3%e7%a5%a5%e7%94%9f) | N/A |
-| 6 | [共同通信](http://twitter.com/search?q=%e5%85%b1%e5%90%8c%e9%80%9a%e4%bf%a1) | 共同通信 (Kyōdō Tsūshin) is a Japanese term meaning "mutual communication". It refers to the process of exchanging information between two or more parties in order to reach a common understanding. This could include verbal communication, written communication, or any other form of communication. |
-| 7 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 8 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 9 | [#カヌレット](http://twitter.com/search?q=%23%e3%82%ab%e3%83%8c%e3%83%ac%e3%83%83%e3%83%88) | N/A |
+| 3 | [ステロイド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
+| 4 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 5 | [Jアラート](http://twitter.com/search?q=J%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%88) | N/A |
+| 6 | [チキンタツタ](http://twitter.com/search?q=%e3%83%81%e3%82%ad%e3%83%b3%e3%82%bf%e3%83%84%e3%82%bf) | N/A |
+| 7 | [#カヌレット](http://twitter.com/search?q=%23%e3%82%ab%e3%83%8c%e3%83%ac%e3%83%83%e3%83%88) | N/A |
+| 8 | [北海道周辺](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%91%a8%e8%be%ba) | N/A |
+| 9 | [#喫茶店の日](http://twitter.com/search?q=%23%e5%96%ab%e8%8c%b6%e5%ba%97%e3%81%ae%e6%97%a5) | N/A |
 | 10 | [空襲警報](http://twitter.com/search?q=%e7%a9%ba%e8%a5%b2%e8%ad%a6%e5%a0%b1) | N/A |
-| 11 | [建物の中](http://twitter.com/search?q=%e5%bb%ba%e7%89%a9%e3%81%ae%e4%b8%ad) | N/A |
-| 12 | [#喫茶店の日](http://twitter.com/search?q=%23%e5%96%ab%e8%8c%b6%e5%ba%97%e3%81%ae%e6%97%a5) | N/A |
-| 13 | [シェルター](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ab%e3%82%bf%e3%83%bc) | N/A |
-| 14 | [緊急速報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e9%80%9f%e5%a0%b1) | N/A |
-| 15 | [チキンタツタ](http://twitter.com/search?q=%e3%83%81%e3%82%ad%e3%83%b3%e3%82%bf%e3%83%84%e3%82%bf) | N/A |
-| 16 | [EEZ外](http://twitter.com/search?q=EEZ%e5%a4%96) | N/A |
-| 17 | [遺憾の意](http://twitter.com/search?q=%e9%81%ba%e6%86%be%e3%81%ae%e6%84%8f) | N/A |
-| 18 | [黄砂のせい](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
-| 19 | [落下確認](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e7%a2%ba%e8%aa%8d) | N/A |
-| 20 | [朝っぱら](http://twitter.com/search?q=%e6%9c%9d%e3%81%a3%e3%81%b1%e3%82%89) | N/A |
-| 21 | [対象地域](http://twitter.com/search?q=%e5%af%be%e8%b1%a1%e5%9c%b0%e5%9f%9f) | N/A |
-| 22 | [人騒がせ](http://twitter.com/search?q=%e4%ba%ba%e9%a8%92%e3%81%8c%e3%81%9b) | N/A |
-| 23 | [黄砂の影響](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e5%bd%b1%e9%9f%bf) | N/A |
-| 24 | [デローザンの娘](http://twitter.com/search?q=%e3%83%87%e3%83%ad%e3%83%bc%e3%82%b6%e3%83%b3%e3%81%ae%e5%a8%98) | N/A |
-| 25 | [政府発表](http://twitter.com/search?q=%e6%94%bf%e5%ba%9c%e7%99%ba%e8%a1%a8) | N/A |
-| 26 | [国民保護情報](http://twitter.com/search?q=%e5%9b%bd%e6%b0%91%e4%bf%9d%e8%ad%b7%e6%83%85%e5%a0%b1) | N/A |
-| 27 | [エムネット](http://twitter.com/search?q=%e3%82%a8%e3%83%a0%e3%83%8d%e3%83%83%e3%83%88) | N/A |
-| 28 | [日本政府](http://twitter.com/search?q=%e6%97%a5%e6%9c%ac%e6%94%bf%e5%ba%9c) | N/A |
-| 29 | [秋春制移行](http://twitter.com/search?q=%e7%a7%8b%e6%98%a5%e5%88%b6%e7%a7%bb%e8%a1%8c) | N/A |
-| 30 | [オオカミ少年](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f%e5%b0%91%e5%b9%b4) | N/A |
-| 31 | [ルートビア](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%88%e3%83%93%e3%82%a2) | N/A |
-| 32 | [結婚報告会見](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e5%a0%b1%e5%91%8a%e4%bc%9a%e8%a6%8b) | N/A |
-| 33 | [かあさんといっしょ](http://twitter.com/search?q=%e3%81%8b%e3%81%82%e3%81%95%e3%82%93%e3%81%a8%e3%81%84%e3%81%a3%e3%81%97%e3%82%87) | N/A |
-| 34 | [ビックカメラ](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
-| 35 | [サイレン](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%ac%e3%83%b3) | N/A |
-| 36 | [落下地点](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e5%9c%b0%e7%82%b9) | N/A |
-| 37 | [部屋干し](http://twitter.com/search?q=%e9%83%a8%e5%b1%8b%e5%b9%b2%e3%81%97) | N/A |
-| 38 | [範囲広すぎ](http://twitter.com/search?q=%e7%af%84%e5%9b%b2%e5%ba%83%e3%81%99%e3%81%8e) | N/A |
-| 39 | [PADDB](http://twitter.com/search?q=PADDB) | N/A |
-| 40 | [交通機関](http://twitter.com/search?q=%e4%ba%a4%e9%80%9a%e6%a9%9f%e9%96%a2) | N/A |
-| 41 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 42 | [クズの本懐](http://twitter.com/search?q=%e3%82%af%e3%82%ba%e3%81%ae%e6%9c%ac%e6%87%90) | N/A |
-| 43 | [容認の姿勢](http://twitter.com/search?q=%e5%ae%b9%e8%aa%8d%e3%81%ae%e5%a7%bf%e5%8b%a2) | N/A |
+| 11 | [#UHA味覚糖](http://twitter.com/search?q=%23UHA%e5%91%b3%e8%a6%9a%e7%b3%96) | N/A |
+| 12 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
+| 13 | [#BEFIRST](http://twitter.com/search?q=%23BEFIRST) | N/A |
+| 14 | [三日月宗近モード](http://twitter.com/search?q=%e4%b8%89%e6%97%a5%e6%9c%88%e5%ae%97%e8%bf%91%e3%83%a2%e3%83%bc%e3%83%89) | N/A |
+| 15 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
+| 16 | [シェルター](http://twitter.com/search?q=%e3%82%b7%e3%82%a7%e3%83%ab%e3%82%bf%e3%83%bc) | N/A |
+| 17 | [黄砂のせい](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e3%81%9b%e3%81%84) | N/A |
+| 18 | [建物の中](http://twitter.com/search?q=%e5%bb%ba%e7%89%a9%e3%81%ae%e4%b8%ad) | N/A |
+| 19 | [一流の営業マン](http://twitter.com/search?q=%e4%b8%80%e6%b5%81%e3%81%ae%e5%96%b6%e6%a5%ad%e3%83%9e%e3%83%b3) | N/A |
+| 20 | [緊急速報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e9%80%9f%e5%a0%b1) | N/A |
+| 21 | [北海道大丈夫](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
+| 22 | [ザ・グリード](http://twitter.com/search?q=%e3%82%b6%e3%83%bb%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%89) | N/A |
+| 23 | [北海道のどこ](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e3%81%a9%e3%81%93) | N/A |
+| 24 | [黄砂の影響](http://twitter.com/search?q=%e9%bb%84%e7%a0%82%e3%81%ae%e5%bd%b1%e9%9f%bf) | N/A |
+| 25 | [EEZ外](http://twitter.com/search?q=EEZ%e5%a4%96) | N/A |
+| 26 | [遺憾の意](http://twitter.com/search?q=%e9%81%ba%e6%86%be%e3%81%ae%e6%84%8f) | N/A |
+| 27 | [北海道の方](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e6%96%b9) | N/A |
+| 28 | [結婚報告会見](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e5%a0%b1%e5%91%8a%e4%bc%9a%e8%a6%8b) | N/A |
+| 29 | [横山さん体調不良](http://twitter.com/search?q=%e6%a8%aa%e5%b1%b1%e3%81%95%e3%82%93%e4%bd%93%e8%aa%bf%e4%b8%8d%e8%89%af) | N/A |
+| 30 | [ソウルリゾネーター](http://twitter.com/search?q=%e3%82%bd%e3%82%a6%e3%83%ab%e3%83%aa%e3%82%be%e3%83%8d%e3%83%bc%e3%82%bf%e3%83%bc) | N/A |
+| 31 | [人騒がせ](http://twitter.com/search?q=%e4%ba%ba%e9%a8%92%e3%81%8c%e3%81%9b) | N/A |
+| 32 | [クズの本懐](http://twitter.com/search?q=%e3%82%af%e3%82%ba%e3%81%ae%e6%9c%ac%e6%87%90) | N/A |
+| 33 | [マイキャラグッズ](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%b0%e3%83%83%e3%82%ba) | N/A |
+| 34 | [落下確認](http://twitter.com/search?q=%e8%90%bd%e4%b8%8b%e7%a2%ba%e8%aa%8d) | N/A |
+| 35 | [PADDB](http://twitter.com/search?q=PADDB) | N/A |
+| 36 | [オオカミ少年](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f%e5%b0%91%e5%b9%b4) | N/A |
+| 37 | [デローザンの娘](http://twitter.com/search?q=%e3%83%87%e3%83%ad%e3%83%bc%e3%82%b6%e3%83%b3%e3%81%ae%e5%a8%98) | N/A |
+| 38 | [ビックカメラ](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%af%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
+| 39 | [天ぷらの衣](http://twitter.com/search?q=%e5%a4%a9%e3%81%b7%e3%82%89%e3%81%ae%e8%a1%a3) | N/A |
+| 40 | [ごはんタツタ](http://twitter.com/search?q=%e3%81%94%e3%81%af%e3%82%93%e3%82%bf%e3%83%84%e3%82%bf) | N/A |
+| 41 | [北海道沖](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e6%b2%96) | N/A |
+| 42 | [ロジャー](http://twitter.com/search?q=%e3%83%ad%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 43 | [FANTASIA円盤](http://twitter.com/search?q=FANTASIA%e5%86%86%e7%9b%a4) | N/A |
 | 44 | [小西洋之議員のサル発言](http://twitter.com/search?q=%e5%b0%8f%e8%a5%bf%e6%b4%8b%e4%b9%8b%e8%ad%b0%e5%93%a1%e3%81%ae%e3%82%b5%e3%83%ab%e7%99%ba%e8%a8%80) | N/A |
-| 45 | [登校時間](http://twitter.com/search?q=%e7%99%bb%e6%a0%a1%e6%99%82%e9%96%93) | N/A |
-| 46 | [地震速報](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e9%80%9f%e5%a0%b1) | 地震速報 (Jishin Sokuho) is a Japanese term meaning "earthquake bulletin". It is an alert system used to inform the public of earthquakes in Japan. The system provides information on the magnitude, location, and intensity of earthquakes, as well as any potential tsunami warnings. |
-| 47 | [ラヴィット](http://twitter.com/search?q=%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | ラヴィット is a Japanese word that means "love it". It is often used to express enthusiasm or approval for something. |
-| 48 | [立民・杉尾氏](http://twitter.com/search?q=%e7%ab%8b%e6%b0%91%e3%83%bb%e6%9d%89%e5%b0%be%e6%b0%8f) | N/A |
-| 49 | [エリアメール](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%82%a2%e3%83%a1%e3%83%bc%e3%83%ab) | N/A |
+| 45 | [朝っぱら](http://twitter.com/search?q=%e6%9c%9d%e3%81%a3%e3%81%b1%e3%82%89) | N/A |
+| 46 | [対象地域](http://twitter.com/search?q=%e5%af%be%e8%b1%a1%e5%9c%b0%e5%9f%9f) | N/A |
+| 47 | [北海道全域](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%85%a8%e5%9f%9f) | N/A |
+| 48 | [ライバーカメラ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%90%e3%83%bc%e3%82%ab%e3%83%a1%e3%83%a9) | N/A |
+| 49 | [立民・杉尾氏](http://twitter.com/search?q=%e7%ab%8b%e6%b0%91%e3%83%bb%e6%9d%89%e5%b0%be%e6%b0%8f) | N/A |
 
 
 

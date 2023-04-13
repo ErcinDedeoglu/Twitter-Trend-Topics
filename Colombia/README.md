@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-13 02:29:57 UTC`
+📆 Last Updated: `2023-04-13 03:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,49 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 2 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 3 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 4 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
-| 5 | [#DesafioTheBox](http://twitter.com/search?q=%23DesafioTheBox) | N/A |
-| 6 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 2 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
+| 3 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 4 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 5 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
+| 6 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
 | 7 | [Bogdan](http://twitter.com/search?q=Bogdan) | N/A |
-| 8 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 9 | [Omega](http://twitter.com/search?q=Omega) | N/A |
-| 10 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
-| 11 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
-| 12 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 13 | [El Cali](http://twitter.com/search?q=El+Cali) | N/A |
-| 14 | [#SerieRedmiNote12](http://twitter.com/search?q=%23SerieRedmiNote12) | N/A |
-| 15 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
-| 16 | [#CelebraLaVida](http://twitter.com/search?q=%23CelebraLaVida) | N/A |
-| 17 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 18 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
-| 19 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 20 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
-| 21 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 22 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
-| 23 | [Barragán](http://twitter.com/search?q=Barrag%c3%a1n) | N/A |
-| 24 | [Caicedonia](http://twitter.com/search?q=Caicedonia) | N/A |
-| 25 | [Cartago](http://twitter.com/search?q=Cartago) | N/A |
-| 26 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
-| 27 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 28 | [La Tebaida](http://twitter.com/search?q=La+Tebaida) | N/A |
-| 29 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 30 | [Secuestro](http://twitter.com/search?q=Secuestro) | N/A |
-| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 32 | [Culpa de Petro](http://twitter.com/search?q=Culpa+de+Petro) | N/A |
-| 33 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 34 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 35 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 8 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 9 | [#DesafioTheBox3](http://twitter.com/search?q=%23DesafioTheBox3) | N/A |
+| 10 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 11 | [Monsalve](http://twitter.com/search?q=Monsalve) | Monsalve is a Spanish surname. It is derived from the Latin word mons meaning "mountain" and alveus meaning "valley". In English, it can be translated to mean "mountain valley". |
+| 12 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 13 | [Violeta](http://twitter.com/search?q=Violeta) | N/A |
+| 14 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 15 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 16 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 17 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 18 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
+| 19 | [Secuestro](http://twitter.com/search?q=Secuestro) | N/A |
+| 20 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 21 | [#VentinoLaSerie](http://twitter.com/search?q=%23VentinoLaSerie) | N/A |
+| 22 | [#CelebraLaVida](http://twitter.com/search?q=%23CelebraLaVida) | N/A |
+| 23 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 24 | [Atentado](http://twitter.com/search?q=Atentado) | N/A |
+| 25 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
+| 26 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 27 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 28 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 29 | [Barragán](http://twitter.com/search?q=Barrag%c3%a1n) | N/A |
+| 30 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 32 | [Sara](http://twitter.com/search?q=Sara) | N/A |
+| 33 | [La Tebaida](http://twitter.com/search?q=La+Tebaida) | N/A |
+| 34 | [Cartago](http://twitter.com/search?q=Cartago) | N/A |
+| 35 | [Culpa de Petro](http://twitter.com/search?q=Culpa+de+Petro) | N/A |
 | 36 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 38 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 39 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
-| 40 | [Salamanca](http://twitter.com/search?q=Salamanca) | N/A |
-| 41 | [Tibisay](http://twitter.com/search?q=Tibisay) | N/A |
+| 37 | [Beta](http://twitter.com/search?q=Beta) | N/A |
+| 38 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 39 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 40 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 43 | [#LALIGAxWIN](http://twitter.com/search?q=%23LALIGAxWIN) | N/A |
+| 44 | [#SerieRedmiNote12](http://twitter.com/search?q=%23SerieRedmiNote12) | N/A |
 
 
 
