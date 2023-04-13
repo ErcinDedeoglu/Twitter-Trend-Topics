@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vancouver
 
-📆 Last Updated: `2023-04-13 05:16:36 UTC`
+📆 Last Updated: `2023-04-13 06:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,40 @@ This is top 50 for [Canada](</Canada>)
 | 4 | [Nikita Zadorov](http://twitter.com/search?q=Nikita+Zadorov) | N/A |
 | 5 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
 | 6 | [Dustin Wolf](http://twitter.com/search?q=Dustin+Wolf) | N/A |
-| 7 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 8 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 7 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 8 | [Raps](http://twitter.com/search?q=Raps) | N/A |
 | 9 | [Coronato](http://twitter.com/search?q=Coronato) | N/A |
-| 10 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 11 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 10 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 11 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 13 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
 | 14 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
 | 15 | [BC United](http://twitter.com/search?q=BC+United) | N/A |
-| 16 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 17 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
-| 18 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 16 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 17 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 18 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
 | 19 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 20 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
-| 21 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 22 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 23 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
-| 24 | [Fred VanVleet](http://twitter.com/search?q=Fred+VanVleet) | N/A |
-| 25 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
+| 20 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 21 | [#Survivor44](http://twitter.com/search?q=%23Survivor44) | N/A |
+| 22 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
+| 23 | [Jays](http://twitter.com/search?q=Jays) | Jays is a slang term for the Toronto Blue Jays, a Major League Baseball team based in Toronto, Canada. |
+| 24 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 25 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
 | 26 | [Vladdy](http://twitter.com/search?q=Vladdy) | N/A |
-| 27 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 28 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
-| 29 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
-| 30 | [Jason Spezza](http://twitter.com/search?q=Jason+Spezza) | N/A |
-| 31 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 27 | [Barnes](http://twitter.com/search?q=Barnes) | N/A |
+| 28 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 29 | [Jason Spezza](http://twitter.com/search?q=Jason+Spezza) | N/A |
+| 30 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
+| 31 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
 | 32 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 33 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 34 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 35 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 36 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 37 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 38 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 39 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 40 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 41 | [Freddy](http://twitter.com/search?q=Freddy) | N/A |
-| 42 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 43 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
-| 44 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 45 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 46 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
-| 47 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 48 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
-| 49 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
+| 33 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 34 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 35 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 36 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 37 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
+| 38 | [#Isles](http://twitter.com/search?q=%23Isles) | N/A |
+| 39 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 40 | [#DefundCBC](http://twitter.com/search?q=%23DefundCBC) | N/A |
 
 
 

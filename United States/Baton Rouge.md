@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-04-13 05:17:16 UTC`
+📆 Last Updated: `2023-04-13 06:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
 | 3 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
 | 4 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 5 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
-| 6 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 5 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 6 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
 | 7 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 8 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 10 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 11 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 8 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 9 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 10 | [Max Muncy](http://twitter.com/search?q=Max+Muncy) | N/A |
+| 11 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
 | 12 | [CJ McCollum](http://twitter.com/search?q=CJ+McCollum) | N/A |
-| 13 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 13 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 14 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 15 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 16 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 17 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 15 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 16 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 17 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 18 | [Dort](http://twitter.com/search?q=Dort) | N/A |
 | 19 | [Pels](http://twitter.com/search?q=Pels) | N/A |
 | 20 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 21 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
-| 22 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
-| 23 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 24 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 25 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 26 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 27 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
-| 28 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
-| 29 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 30 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 31 | [Alton](http://twitter.com/search?q=Alton) | N/A |
-| 32 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 33 | [Testing](http://twitter.com/search?q=Testing) | N/A |
-| 34 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
-| 35 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 36 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
-| 37 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 38 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 39 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
-| 40 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 41 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 42 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 43 | [Sam Presti](http://twitter.com/search?q=Sam+Presti) | N/A |
-| 44 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
-| 45 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 46 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
-| 47 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 21 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 22 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
+| 23 | [Herb Jones](http://twitter.com/search?q=Herb+Jones) | N/A |
+| 24 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 25 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 26 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 27 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 28 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 29 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 30 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 31 | [Taylor Rogers](http://twitter.com/search?q=Taylor+Rogers) | N/A |
+| 32 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 33 | [Alton](http://twitter.com/search?q=Alton) | N/A |
+| 34 | [Josh Richardson](http://twitter.com/search?q=Josh+Richardson) | N/A |
+| 35 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 36 | [Testing](http://twitter.com/search?q=Testing) | N/A |
+| 37 | [Willie Green](http://twitter.com/search?q=Willie+Green) | N/A |
+| 38 | [Freddie Freeman](http://twitter.com/search?q=Freddie+Freeman) | N/A |
+| 39 | [Jaylin Williams](http://twitter.com/search?q=Jaylin+Williams) | N/A |
+| 40 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 41 | [Sam Presti](http://twitter.com/search?q=Sam+Presti) | N/A |
+| 42 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 43 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 44 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 45 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 46 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 47 | [Schwartz](http://twitter.com/search?q=Schwartz) | N/A |
 | 48 | [Bryce Johnson](http://twitter.com/search?q=Bryce+Johnson) | N/A |
-| 49 | [Keith Lee](http://twitter.com/search?q=Keith+Lee) | Keith Lee is a professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Keith, and his middle name, Lee. The name has become synonymous with his larger-than-life persona and in-ring style. In English, the phrase "Keith Lee" is used to refer to the wrestler himself. |
-| 50 | [Nick Nurse](http://twitter.com/search?q=Nick+Nurse) | N/A |
+| 49 | [Stripling](http://twitter.com/search?q=Stripling) | N/A |
+| 50 | [Lala](http://twitter.com/search?q=Lala) | N/A |
 
 
 

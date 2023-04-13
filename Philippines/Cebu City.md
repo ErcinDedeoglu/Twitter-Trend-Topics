@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-04-13 05:17:03 UTC`
+📆 Last Updated: `2023-04-13 06:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 2 | [pienally its vibrent](http://twitter.com/search?q=pienally+its+vibrent) | N/A |
-| 3 | [#fallenmisfitlost_photo](http://twitter.com/search?q=%23fallenmisfitlost_photo) | N/A |
-| 4 | [KATHRYN IS VJEWELED](http://twitter.com/search?q=KATHRYN+IS+VJEWELED) | N/A |
-| 5 | [#VJewelryxKathrynBernardo](http://twitter.com/search?q=%23VJewelryxKathrynBernardo) | N/A |
-| 6 | [fml official photo 1](http://twitter.com/search?q=fml+official+photo+1) | N/A |
-| 7 | [#askpluus](http://twitter.com/search?q=%23askpluus) | N/A |
-| 8 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
-| 9 | [BGYO VIVID OUT NOW](http://twitter.com/search?q=BGYO+VIVID+OUT+NOW) | N/A |
-| 10 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 2 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
+| 3 | [#FML_D11](http://twitter.com/search?q=%23FML_D11) | N/A |
+| 4 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 5 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 6 | [#30thSpringWithSEHUN](http://twitter.com/search?q=%2330thSpringWithSEHUN) | N/A |
+| 7 | [pienally its vibrent](http://twitter.com/search?q=pienally+its+vibrent) | N/A |
+| 8 | [BGYO VIVID OUT NOW](http://twitter.com/search?q=BGYO+VIVID+OUT+NOW) | N/A |
+| 9 | [KATHRYN IS VJEWELED](http://twitter.com/search?q=KATHRYN+IS+VJEWELED) | N/A |
+| 10 | [#VJewelryxKathrynBernardo](http://twitter.com/search?q=%23VJewelryxKathrynBernardo) | N/A |
 | 11 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
 | 12 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
-| 13 | [ChiCo POOLinLove](http://twitter.com/search?q=ChiCo+POOLinLove) | N/A |
-| 14 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 15 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 16 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
-| 17 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
-| 18 | [d-2 to paraiso](http://twitter.com/search?q=d-2+to+paraiso) | N/A |
-| 19 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 20 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | N/A |
-| 21 | [Low Pressure Area](http://twitter.com/search?q=Low+Pressure+Area) | N/A |
-| 22 | [d2 kdlexpeta comeback](http://twitter.com/search?q=d2+kdlexpeta+comeback) | N/A |
-| 23 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 24 | [ralphgail theliarloveteam](http://twitter.com/search?q=ralphgail+theliarloveteam) | N/A |
-| 25 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 26 | [Push](http://twitter.com/search?q=Push) | N/A |
-| 27 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
-| 28 | [happy 2months hori7on](http://twitter.com/search?q=happy+2months+hori7on) | N/A |
-| 29 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 31 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 13 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
+| 14 | [gordon ramsay](http://twitter.com/search?q=gordon+ramsay) | N/A |
+| 15 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
+| 16 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
+| 17 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 18 | [BINI STRINGS DANCE PRACTICE](http://twitter.com/search?q=BINI+STRINGS+DANCE+PRACTICE) | N/A |
+| 19 | [ChiCo POOLinLove](http://twitter.com/search?q=ChiCo+POOLinLove) | N/A |
+| 20 | [4 MILLION](http://twitter.com/search?q=4+MILLION) | N/A |
+| 21 | [D2 KDLEXPETA COMEBACK](http://twitter.com/search?q=D2+KDLEXPETA+COMEBACK) | N/A |
+| 22 | [d-2 to paraiso](http://twitter.com/search?q=d-2+to+paraiso) | N/A |
+| 23 | [Schroder](http://twitter.com/search?q=Schroder) | Schroder is a German surname derived from the Old German word "schrodar," meaning "armorer" or "blacksmith." It is also a common given name in Germany, derived from the same root. |
+| 24 | [happy 2months hori7on](http://twitter.com/search?q=happy+2months+hori7on) | N/A |
+| 25 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 26 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 27 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
+| 28 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
+| 29 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
+| 30 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 31 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
 | 32 | [FLOWER SECOND WIN](http://twitter.com/search?q=FLOWER+SECOND+WIN) | N/A |
-| 33 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
-| 34 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 35 | [Mcdo](http://twitter.com/search?q=Mcdo) | N/A |
-| 36 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
-| 37 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 38 | [twolong liam](http://twitter.com/search?q=twolong+liam) | N/A |
-| 39 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 40 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 41 | [Conley](http://twitter.com/search?q=Conley) | N/A |
-| 42 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 43 | [anji paraiso mediacon](http://twitter.com/search?q=anji+paraiso+mediacon) | N/A |
-| 44 | [JUNHOE IN BORA DEBORAH](http://twitter.com/search?q=JUNHOE+IN+BORA+DEBORAH) | N/A |
-| 45 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 46 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
-| 47 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 48 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
-| 49 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 50 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 33 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
+| 34 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
+| 35 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 38 | [SVT RUN FOR YOUR LIFE](http://twitter.com/search?q=SVT+RUN+FOR+YOUR+LIFE) | N/A |
+| 39 | [Taeyang](http://twitter.com/search?q=Taeyang) | Taeyang is a Korean name meaning "sun" or "sunlight". It is also the stage name of a South Korean singer and dancer, who is a member of the K-pop group Big Bang. |
+| 40 | [Gose](http://twitter.com/search?q=Gose) | N/A |
+| 41 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 42 | [Sungjin](http://twitter.com/search?q=Sungjin) | N/A |
+| 43 | [Nahida](http://twitter.com/search?q=Nahida) | N/A |
+| 44 | [ralphgail theliarloveteam](http://twitter.com/search?q=ralphgail+theliarloveteam) | N/A |
+| 45 | [anji paraiso mediacon](http://twitter.com/search?q=anji+paraiso+mediacon) | N/A |
+| 46 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 47 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
+| 48 | [Pulse Asia](http://twitter.com/search?q=Pulse+Asia) | N/A |
+| 49 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 50 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
 
 
 
