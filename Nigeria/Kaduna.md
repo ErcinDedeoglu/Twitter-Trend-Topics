@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-13 13:18:59 UTC`
+📆 Last Updated: `2023-04-13 14:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Teesas7HabitsBootCamp](http://twitter.com/search?q=%23Teesas7HabitsBootCamp) | N/A |
-| 2 | [#ZEbetxBigOdds](http://twitter.com/search?q=%23ZEbetxBigOdds) | N/A |
-| 3 | [#GrownByBigIcee](http://twitter.com/search?q=%23GrownByBigIcee) | N/A |
-| 4 | [#SupremeTipsMaster](http://twitter.com/search?q=%23SupremeTipsMaster) | N/A |
-| 5 | [#recitation_themovie](http://twitter.com/search?q=%23recitation_themovie) | N/A |
-| 6 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 1 | [#ZEbetxBigOdds](http://twitter.com/search?q=%23ZEbetxBigOdds) | N/A |
+| 2 | [#grownbybigicee](http://twitter.com/search?q=%23grownbybigicee) | N/A |
+| 3 | [#recitation_themovie](http://twitter.com/search?q=%23recitation_themovie) | N/A |
+| 4 | [#Teesas7HabitsBootCamp](http://twitter.com/search?q=%23Teesas7HabitsBootCamp) | N/A |
+| 5 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 6 | [#ConsumersValueAwards2023](http://twitter.com/search?q=%23ConsumersValueAwards2023) | N/A |
 | 7 | [Banana Island](http://twitter.com/search?q=Banana+Island) | N/A |
 | 8 | [Zanku](http://twitter.com/search?q=Zanku) | N/A |
-| 9 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 10 | [Woodberry](http://twitter.com/search?q=Woodberry) | N/A |
-| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 12 | [Lagos Anthem](http://twitter.com/search?q=Lagos+Anthem) | N/A |
-| 13 | [Omo Ologo](http://twitter.com/search?q=Omo+Ologo) | N/A |
-| 14 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 15 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 16 | [The British](http://twitter.com/search?q=The+British) | N/A |
-| 17 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 18 | [YVONNE THE BRAND](http://twitter.com/search?q=YVONNE+THE+BRAND) | N/A |
-| 19 | [50 HTML](http://twitter.com/search?q=50+HTML) | N/A |
-| 20 | [Isale Eko](http://twitter.com/search?q=Isale+Eko) | N/A |
-| 21 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
-| 22 | [Heathrow](http://twitter.com/search?q=Heathrow) | N/A |
-| 23 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 24 | [Christ](http://twitter.com/search?q=Christ) | N/A |
-| 25 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 26 | [THE LORD HAS COMPLETED IT](http://twitter.com/search?q=THE+LORD+HAS+COMPLETED+IT) | N/A |
-| 27 | [The UK](http://twitter.com/search?q=The+UK) | N/A |
-| 28 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 31 | [Bolanle](http://twitter.com/search?q=Bolanle) | N/A |
-| 32 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 33 | [Ale Yi](http://twitter.com/search?q=Ale+Yi) | N/A |
-| 34 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
-| 35 | [Commando](http://twitter.com/search?q=Commando) | N/A |
-| 36 | [Saga](http://twitter.com/search?q=Saga) | N/A |
-| 37 | [Yeye Boyfriend](http://twitter.com/search?q=Yeye+Boyfriend) | N/A |
-| 38 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 39 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 40 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 41 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 42 | [Mecca](http://twitter.com/search?q=Mecca) | N/A |
-| 43 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
-| 44 | [CSS & JavaScript](http://twitter.com/search?q=CSS+%26+JavaScript) | N/A |
-| 45 | [Frames](http://twitter.com/search?q=Frames) | N/A |
-| 46 | [Chilly](http://twitter.com/search?q=Chilly) | N/A |
-| 47 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
-| 48 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 49 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 50 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 9 | [Lagos Anthem](http://twitter.com/search?q=Lagos+Anthem) | N/A |
+| 10 | [Omo Ologo](http://twitter.com/search?q=Omo+Ologo) | N/A |
+| 11 | [Woodberry](http://twitter.com/search?q=Woodberry) | N/A |
+| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 13 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 14 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 15 | [50 HTML](http://twitter.com/search?q=50+HTML) | N/A |
+| 16 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 17 | [Dino](http://twitter.com/search?q=Dino) | Dino is short for dinosaur, which is an extinct species of large reptiles that lived during the Mesozoic Era. |
+| 18 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 19 | [Yeye Boyfriend](http://twitter.com/search?q=Yeye+Boyfriend) | N/A |
+| 20 | [Heathrow](http://twitter.com/search?q=Heathrow) | N/A |
+| 21 | [YVONNE THE BRAND](http://twitter.com/search?q=YVONNE+THE+BRAND) | N/A |
+| 22 | [Isale Eko](http://twitter.com/search?q=Isale+Eko) | N/A |
+| 23 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 24 | [Bolanle](http://twitter.com/search?q=Bolanle) | N/A |
+| 25 | [Candy Bleakz](http://twitter.com/search?q=Candy+Bleakz) | N/A |
+| 26 | [The British](http://twitter.com/search?q=The+British) | N/A |
+| 27 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [The UK](http://twitter.com/search?q=The+UK) | N/A |
+| 30 | [Christ](http://twitter.com/search?q=Christ) | N/A |
+| 31 | [CSS & JavaScript](http://twitter.com/search?q=CSS+%26+JavaScript) | N/A |
+| 32 | [the lord has completed it](http://twitter.com/search?q=the+lord+has+completed+it) | N/A |
+| 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 34 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 35 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [Nini](http://twitter.com/search?q=Nini) | N/A |
+| 38 | [Chilly](http://twitter.com/search?q=Chilly) | N/A |
+| 39 | [Rodri](http://twitter.com/search?q=Rodri) | Rodri is a Spanish name, derived from the Germanic name Roderick. It is a masculine given name meaning "famous power". |
+| 40 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
+| 41 | [Mecca](http://twitter.com/search?q=Mecca) | N/A |
+| 42 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 43 | [Ale Yi](http://twitter.com/search?q=Ale+Yi) | N/A |
+| 44 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 45 | [Road to CDK](http://twitter.com/search?q=Road+to+CDK) | N/A |
+| 46 | [British Government](http://twitter.com/search?q=British+Government) | N/A |
+| 47 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 48 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 49 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
 
 
 

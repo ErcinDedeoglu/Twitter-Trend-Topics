@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-13 13:19:17 UTC`
+📆 Last Updated: `2023-04-13 14:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 2 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 4 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 5 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 1 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 2 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 3 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 5 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 6 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 | 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 10 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 11 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 11 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 | 12 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 13 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 14 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 15 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 16 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 17 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 18 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 19 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 20 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 21 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 22 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 23 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 24 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 25 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 26 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
-| 27 | [Peekaboo](http://twitter.com/search?q=Peekaboo) | N/A |
-| 28 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 29 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 30 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 31 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
-| 32 | [NPR & PBS](http://twitter.com/search?q=NPR+%26+PBS) | N/A |
-| 33 | [Fifth Circuit](http://twitter.com/search?q=Fifth+Circuit) | N/A |
-| 34 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 35 | [Comstock Act](http://twitter.com/search?q=Comstock+Act) | N/A |
-| 36 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 37 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 38 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 39 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 13 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 14 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 15 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 16 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 17 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 18 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 19 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 21 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 22 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 23 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 24 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 25 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 26 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 27 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 28 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 29 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 30 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
+| 31 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 32 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 33 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 34 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
+| 35 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 36 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 37 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 38 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 39 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
 | 40 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
-| 41 | [Thomas Jefferson](http://twitter.com/search?q=Thomas+Jefferson) | N/A |
-| 42 | [Match Day](http://twitter.com/search?q=Match+Day) | N/A |
-| 43 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 44 | [G'morning](http://twitter.com/search?q=G%27morning) | N/A |
-| 45 | [Rat Czar](http://twitter.com/search?q=Rat+Czar) | N/A |
-| 46 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 47 | [alton](http://twitter.com/search?q=alton) | N/A |
-| 48 | [SpaceX](http://twitter.com/search?q=SpaceX) | N/A |
-| 49 | [Broward](http://twitter.com/search?q=Broward) | N/A |
+| 41 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 42 | [hiroto](http://twitter.com/search?q=hiroto) | N/A |
+| 43 | [Peekaboo](http://twitter.com/search?q=Peekaboo) | N/A |
+| 44 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
+| 45 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
+| 46 | [Thomas Jefferson](http://twitter.com/search?q=Thomas+Jefferson) | N/A |
+| 47 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
+| 48 | [Fifth Circuit](http://twitter.com/search?q=Fifth+Circuit) | N/A |
+| 49 | [Lego](http://twitter.com/search?q=Lego) | N/A |
 
 
 

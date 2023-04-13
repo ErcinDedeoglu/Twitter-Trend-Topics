@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-13 13:19:23 UTC`
+📆 Last Updated: `2023-04-13 14:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 2 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 3 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 4 | [#CosasQueMeDanSuerte](http://twitter.com/search?q=%23CosasQueMeDanSuerte) | N/A |
-| 5 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 6 | [#ComicMañanero](http://twitter.com/search?q=%23ComicMa%c3%b1anero) | N/A |
-| 7 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 8 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 9 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 11 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 12 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 13 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 2 | [#KornoGritón](http://twitter.com/search?q=%23KornoGrit%c3%b3n) | N/A |
+| 3 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 4 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
+| 5 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 6 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 8 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 9 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 10 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 11 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 12 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
+| 13 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
 | 14 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 15 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 16 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 17 | [Philadelphia](http://twitter.com/search?q=Philadelphia) | Philadelphia is the largest city in the state of Pennsylvania in the United States. It is located along the Delaware and Schuylkill rivers and is known for its rich history, culture, and attractions. The name Philadelphia comes from the Greek words for "brotherly love," reflecting the city's commitment to brotherhood and unity. |
-| 18 | [we love qsmp](http://twitter.com/search?q=we+love+qsmp) | N/A |
-| 19 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 20 | [Aldo Rocha](http://twitter.com/search?q=Aldo+Rocha) | N/A |
-| 21 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 23 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 24 | [Faby](http://twitter.com/search?q=Faby) | N/A |
-| 25 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 26 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 27 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 28 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 29 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 30 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 31 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 32 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 33 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
-| 34 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 35 | [Voldemort](http://twitter.com/search?q=Voldemort) | N/A |
-| 36 | [BPM IS COMING](http://twitter.com/search?q=BPM+IS+COMING) | N/A |
-| 37 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 38 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 39 | [mañana 1trago](http://twitter.com/search?q=ma%c3%b1ana+1trago) | N/A |
-| 40 | [Generación X](http://twitter.com/search?q=Generaci%c3%b3n+X) | N/A |
-| 41 | [HOKKAIDO](http://twitter.com/search?q=HOKKAIDO) | N/A |
-| 42 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 43 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 44 | [julián quiñones](http://twitter.com/search?q=juli%c3%a1n+qui%c3%b1ones) | N/A |
-| 45 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 46 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 47 | [Krauze](http://twitter.com/search?q=Krauze) | N/A |
-| 48 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 49 | [ozziel herrera](http://twitter.com/search?q=ozziel+herrera) | N/A |
-| 50 | [magnus skylstad](http://twitter.com/search?q=magnus+skylstad) | N/A |
+| 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 16 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 17 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 19 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 22 | [we love qsmp](http://twitter.com/search?q=we+love+qsmp) | N/A |
+| 23 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 25 | [aldo rocha](http://twitter.com/search?q=aldo+rocha) | N/A |
+| 26 | [Philadelphia Union](http://twitter.com/search?q=Philadelphia+Union) | N/A |
+| 27 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 28 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 29 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 30 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 31 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
+| 32 | [Faby](http://twitter.com/search?q=Faby) | N/A |
+| 33 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 34 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 35 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 36 | [Generación X](http://twitter.com/search?q=Generaci%c3%b3n+X) | N/A |
+| 37 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 38 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 39 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 40 | [Bo Derek](http://twitter.com/search?q=Bo+Derek) | N/A |
+| 41 | [Yuri Gagarin](http://twitter.com/search?q=Yuri+Gagarin) | N/A |
+| 42 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 43 | [ARMY UNITED FOR PEOPLE PT2](http://twitter.com/search?q=ARMY+UNITED+FOR+PEOPLE+PT2) | N/A |
+| 44 | [Jonathan Orozco](http://twitter.com/search?q=Jonathan+Orozco) | N/A |
+| 45 | [bpm is coming](http://twitter.com/search?q=bpm+is+coming) | N/A |
+| 46 | [krauze](http://twitter.com/search?q=krauze) | N/A |
+| 47 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 48 | [Jueves 13](http://twitter.com/search?q=Jueves+13) | N/A |
+| 49 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 50 | [mañana 1trago](http://twitter.com/search?q=ma%c3%b1ana+1trago) | N/A |
 
 
 

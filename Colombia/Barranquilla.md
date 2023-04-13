@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-04-13 13:18:38 UTC`
+📆 Last Updated: `2023-04-13 14:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NuestraRealidadEs](http://twitter.com/search?q=%23NuestraRealidadEs) | N/A |
-| 2 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
-| 3 | [#GraciasHeroes](http://twitter.com/search?q=%23GraciasHeroes) | N/A |
-| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 1 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
+| 2 | [#NuestraRealidadEs](http://twitter.com/search?q=%23NuestraRealidadEs) | N/A |
+| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 4 | [#GraciasHeroes](http://twitter.com/search?q=%23GraciasHeroes) | N/A |
 | 5 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
 | 6 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
 | 7 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
-| 8 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 9 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 10 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
-| 11 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 12 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 8 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
+| 9 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 10 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 11 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 12 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
 | 13 | [#NoMeSorprende](http://twitter.com/search?q=%23NoMeSorprende) | N/A |
-| 14 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 15 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
-| 16 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 14 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 15 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 17 | [Coronell](http://twitter.com/search?q=Coronell) | N/A |
-| 18 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 19 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 20 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 21 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 22 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
+| 18 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 19 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 20 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 21 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 22 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 23 | [Beto Coral](http://twitter.com/search?q=Beto+Coral) | N/A |
-| 24 | [toribío](http://twitter.com/search?q=torib%c3%ado) | N/A |
-| 25 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 26 | [Bogdan](http://twitter.com/search?q=Bogdan) | N/A |
-| 27 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 28 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 29 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
-| 30 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
-| 31 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 32 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 33 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
-| 34 | [Autopistas del Café](http://twitter.com/search?q=Autopistas+del+Caf%c3%a9) | N/A |
-| 35 | [Barragán](http://twitter.com/search?q=Barrag%c3%a1n) | N/A |
-| 36 | [Salamanca](http://twitter.com/search?q=Salamanca) | N/A |
-| 37 | [Transporte](http://twitter.com/search?q=Transporte) | N/A |
-| 38 | [miguel monsalve](http://twitter.com/search?q=miguel+monsalve) | N/A |
-| 39 | [Caicedonia](http://twitter.com/search?q=Caicedonia) | N/A |
-| 40 | [Atentado](http://twitter.com/search?q=Atentado) | N/A |
-| 41 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 42 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 43 | [Cartago](http://twitter.com/search?q=Cartago) | N/A |
-| 44 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 45 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 46 | [La Tebaida](http://twitter.com/search?q=La+Tebaida) | N/A |
-| 47 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 48 | [Facundo](http://twitter.com/search?q=Facundo) | N/A |
+| 24 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 25 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 26 | [Toribío](http://twitter.com/search?q=Torib%c3%ado) | N/A |
+| 27 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
+| 28 | [William Salamanca](http://twitter.com/search?q=William+Salamanca) | N/A |
+| 29 | [Ecopetrol](http://twitter.com/search?q=Ecopetrol) | Ecopetrol is a Colombian oil and gas company. It is the largest company in Colombia and one of the largest companies in Latin America. The name Ecopetrol is derived from the Spanish words "eco" (ecology) and "petrol" (petroleum). In English, it means "ecological petroleum". |
+| 30 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 31 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
+| 32 | [Bogdan](http://twitter.com/search?q=Bogdan) | N/A |
+| 33 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 35 | [Racero](http://twitter.com/search?q=Racero) | N/A |
+| 36 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 37 | [Capitolio](http://twitter.com/search?q=Capitolio) | N/A |
+| 38 | [Autopistas del Café](http://twitter.com/search?q=Autopistas+del+Caf%c3%a9) | N/A |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 41 | [Barragán](http://twitter.com/search?q=Barrag%c3%a1n) | N/A |
+| 42 | [Armenia](http://twitter.com/search?q=Armenia) | N/A |
+| 43 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 44 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 45 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
+| 46 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 47 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 48 | [Invima](http://twitter.com/search?q=Invima) | N/A |
+| 49 | [Atentado](http://twitter.com/search?q=Atentado) | N/A |
 
 
 

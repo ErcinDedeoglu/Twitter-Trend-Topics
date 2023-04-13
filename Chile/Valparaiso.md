@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-13 13:18:38 UTC`
+📆 Last Updated: `2023-04-13 14:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,50 +18,53 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 2 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
 | 3 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 5 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 6 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
-| 7 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
-| 8 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 9 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 10 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 11 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
-| 12 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 13 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 14 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 15 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 16 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
-| 17 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 18 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 19 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 20 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
-| 21 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 22 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
-| 23 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 25 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 26 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 27 | [edo caroe](http://twitter.com/search?q=edo+caroe) | N/A |
-| 28 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
-| 29 | [Arica](http://twitter.com/search?q=Arica) | N/A |
-| 30 | [Diego Ibáñez](http://twitter.com/search?q=Diego+Ib%c3%a1%c3%b1ez) | N/A |
-| 31 | [consejo de defensa del estado](http://twitter.com/search?q=consejo+de+defensa+del+estado) | N/A |
-| 32 | [las 40](http://twitter.com/search?q=las+40) | N/A |
-| 33 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 34 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 35 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
-| 36 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 37 | [Alberto Plaza](http://twitter.com/search?q=Alberto+Plaza) | N/A |
-| 38 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
-| 39 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 40 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 41 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 42 | [PYMES](http://twitter.com/search?q=PYMES) | N/A |
-| 43 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 44 | [General Yañez](http://twitter.com/search?q=General+Ya%c3%b1ez) | N/A |
-| 45 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 46 | [Lo Barnechea](http://twitter.com/search?q=Lo+Barnechea) | N/A |
-| 47 | [codina](http://twitter.com/search?q=codina) | N/A |
+| 4 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
+| 5 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 6 | [#LaGranAutopiZta](http://twitter.com/search?q=%23LaGranAutopiZta) | N/A |
+| 7 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 9 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 10 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 11 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
+| 12 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
+| 13 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 14 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
+| 15 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
+| 16 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
+| 17 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 18 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
+| 19 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
+| 20 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 21 | [edo caroe](http://twitter.com/search?q=edo+caroe) | N/A |
+| 22 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 23 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 24 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 25 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
+| 26 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 27 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
+| 28 | [Putre](http://twitter.com/search?q=Putre) | N/A |
+| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 30 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 31 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
+| 32 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
+| 33 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 34 | [Cuicos](http://twitter.com/search?q=Cuicos) | N/A |
+| 35 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 36 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 37 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
+| 38 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 39 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 40 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 41 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 42 | [Arica](http://twitter.com/search?q=Arica) | N/A |
+| 43 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 44 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
+| 45 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 46 | [Beto](http://twitter.com/search?q=Beto) | N/A |
+| 47 | [Pendejos](http://twitter.com/search?q=Pendejos) | N/A |
+| 48 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
+| 49 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 50 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
 
 
 

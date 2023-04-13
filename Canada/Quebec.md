@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-13 13:18:30 UTC`
+📆 Last Updated: `2023-04-13 14:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 2 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 3 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 4 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
-| 5 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 6 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 7 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 8 | [#StartrekPicardSeason3](http://twitter.com/search?q=%23StartrekPicardSeason3) | N/A |
-| 9 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 11 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 13 | [c1y vba](http://twitter.com/search?q=c1y+vba) | N/A |
-| 14 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 15 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 16 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 17 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 18 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
-| 19 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
-| 20 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 21 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
-| 22 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 23 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
-| 24 | [Masai](http://twitter.com/search?q=Masai) | N/A |
-| 25 | [Dustin Wolf](http://twitter.com/search?q=Dustin+Wolf) | N/A |
-| 26 | [FRED VANVLEET](http://twitter.com/search?q=FRED+VANVLEET) | N/A |
-| 27 | [Most Improved](http://twitter.com/search?q=Most+Improved) | N/A |
-| 28 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 29 | [Most Disappointing](http://twitter.com/search?q=Most+Disappointing) | N/A |
-| 30 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
-| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 32 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 33 | [Guilda](http://twitter.com/search?q=Guilda) | N/A |
-| 34 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 35 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
-| 36 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 37 | [Jason Spezza](http://twitter.com/search?q=Jason+Spezza) | N/A |
-| 38 | [luis rivera](http://twitter.com/search?q=luis+rivera) | N/A |
-| 39 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 40 | [NICK NURSE](http://twitter.com/search?q=NICK+NURSE) | N/A |
+| 1 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 2 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 3 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 4 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 5 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
+| 6 | [Trudeau Foundation](http://twitter.com/search?q=Trudeau+Foundation) | N/A |
+| 7 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 8 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
+| 9 | [#tfpredict](http://twitter.com/search?q=%23tfpredict) | N/A |
+| 10 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 11 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 12 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 13 | [#dayofpink](http://twitter.com/search?q=%23dayofpink) | N/A |
+| 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 15 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 16 | [Experts](http://twitter.com/search?q=Experts) | N/A |
+| 17 | [Hartman](http://twitter.com/search?q=Hartman) | N/A |
+| 18 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 19 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 20 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 21 | [Guilda](http://twitter.com/search?q=Guilda) | N/A |
+| 22 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 23 | [Dustin Wolf](http://twitter.com/search?q=Dustin+Wolf) | N/A |
+| 24 | [Most Improved](http://twitter.com/search?q=Most+Improved) | N/A |
+| 25 | [Breakout Player](http://twitter.com/search?q=Breakout+Player) | N/A |
+| 26 | [Most Disappointing](http://twitter.com/search?q=Most+Disappointing) | N/A |
+| 27 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 28 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
+| 29 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 30 | [Siakam](http://twitter.com/search?q=Siakam) | Siakam is a surname of African origin. It is derived from the word "siaka," which means "king" in the Bambara language. In English, it can be translated to mean "kingly." |
+| 31 | [Masai](http://twitter.com/search?q=Masai) | N/A |
+| 32 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 33 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 34 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 35 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 36 | [Jason Spezza](http://twitter.com/search?q=Jason+Spezza) | N/A |
+| 37 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 38 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 39 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 40 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
 | 41 | [kevin kiermaier](http://twitter.com/search?q=kevin+kiermaier) | N/A |
-| 42 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 43 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
-| 44 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 45 | [kyle Lowry](http://twitter.com/search?q=kyle+Lowry) | N/A |
-| 46 | [Coronato](http://twitter.com/search?q=Coronato) | N/A |
-| 47 | [sportsnet now](http://twitter.com/search?q=sportsnet+now) | N/A |
-| 48 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
-| 49 | [BC United](http://twitter.com/search?q=BC+United) | N/A |
-| 50 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 42 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 43 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
+| 44 | [Coronato](http://twitter.com/search?q=Coronato) | N/A |
+| 45 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 46 | [luis rivera](http://twitter.com/search?q=luis+rivera) | N/A |
+| 47 | [Gausman](http://twitter.com/search?q=Gausman) | N/A |
+| 48 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 49 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
+| 50 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 
 
 

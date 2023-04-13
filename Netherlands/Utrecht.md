@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-13 13:18:47 UTC`
+📆 Last Updated: `2023-04-13 14:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [LAKS](http://twitter.com/search?q=LAKS) | N/A |
-| 2 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
-| 3 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 4 | [maxima](http://twitter.com/search?q=maxima) | N/A |
-| 5 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
-| 6 | [#vogelexcursie](http://twitter.com/search?q=%23vogelexcursie) | N/A |
-| 7 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
-| 8 | [#PCST2023](http://twitter.com/search?q=%23PCST2023) | N/A |
-| 9 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 10 | [#woke](http://twitter.com/search?q=%23woke) | N/A |
-| 11 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 12 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
-| 13 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 2 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 3 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
+| 4 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
+| 5 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
+| 6 | [Eric Corton](http://twitter.com/search?q=Eric+Corton) | N/A |
+| 7 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
+| 8 | [#woke](http://twitter.com/search?q=%23woke) | N/A |
+| 9 | [#vogelexcursie](http://twitter.com/search?q=%23vogelexcursie) | N/A |
+| 10 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
+| 11 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 12 | [nieuwegein](http://twitter.com/search?q=nieuwegein) | N/A |
+| 13 | [John Mayer](http://twitter.com/search?q=John+Mayer) | N/A |
 | 14 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 15 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 16 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
-| 17 | [Wierd Duk](http://twitter.com/search?q=Wierd+Duk) | N/A |
-| 18 | [kruk](http://twitter.com/search?q=kruk) | N/A |
-| 19 | [Hoogeveen](http://twitter.com/search?q=Hoogeveen) | N/A |
-| 20 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
-| 21 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
-| 22 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 23 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 25 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
-| 26 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 28 | [Bente](http://twitter.com/search?q=Bente) | N/A |
-| 29 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 30 | [financiën](http://twitter.com/search?q=financi%c3%abn) | N/A |
-| 31 | [Lydia Daniël](http://twitter.com/search?q=Lydia+Dani%c3%abl) | N/A |
-| 32 | [Koning](http://twitter.com/search?q=Koning) | N/A |
-| 33 | [Burg](http://twitter.com/search?q=Burg) | N/A |
-| 34 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 35 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 36 | [Belangenverstrengeling](http://twitter.com/search?q=Belangenverstrengeling) | N/A |
+| 15 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 16 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 17 | [Floriade](http://twitter.com/search?q=Floriade) | N/A |
+| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 20 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 21 | [Kruk](http://twitter.com/search?q=Kruk) | N/A |
+| 22 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 23 | [Taalpolitie](http://twitter.com/search?q=Taalpolitie) | N/A |
+| 24 | [Bijlmerramp](http://twitter.com/search?q=Bijlmerramp) | N/A |
+| 25 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 26 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 27 | [Tweede Kamer](http://twitter.com/search?q=Tweede+Kamer) | N/A |
+| 28 | [Fotmob](http://twitter.com/search?q=Fotmob) | N/A |
+| 29 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 30 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 31 | [Wierd](http://twitter.com/search?q=Wierd) | N/A |
+| 32 | [Jetten](http://twitter.com/search?q=Jetten) | N/A |
+| 33 | [Rotterdam](http://twitter.com/search?q=Rotterdam) | N/A |
+| 34 | [lydia daniël](http://twitter.com/search?q=lydia+dani%c3%abl) | N/A |
+| 35 | [Financiën](http://twitter.com/search?q=Financi%c3%abn) | N/A |
+| 36 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
 | 37 | [Haga](http://twitter.com/search?q=Haga) | N/A |
-| 38 | [Manc](http://twitter.com/search?q=Manc) | N/A |
-| 39 | [Beringzee](http://twitter.com/search?q=Beringzee) | N/A |
-| 40 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 41 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
-| 42 | [bedreigingen](http://twitter.com/search?q=bedreigingen) | N/A |
-| 43 | [Jan Slagter](http://twitter.com/search?q=Jan+Slagter) | N/A |
-| 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 45 | [Omroep Max](http://twitter.com/search?q=Omroep+Max) | N/A |
-| 46 | [buijs](http://twitter.com/search?q=buijs) | N/A |
-| 47 | [Ugandese](http://twitter.com/search?q=Ugandese) | N/A |
-| 48 | [Op 13](http://twitter.com/search?q=Op+13) | N/A |
+| 38 | [MANC](http://twitter.com/search?q=MANC) | N/A |
+| 39 | [Laurens](http://twitter.com/search?q=Laurens) | N/A |
+| 40 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 41 | [Belangenverstrengeling](http://twitter.com/search?q=Belangenverstrengeling) | N/A |
+| 42 | [zijldijk](http://twitter.com/search?q=zijldijk) | N/A |
+| 43 | [Omroep Max](http://twitter.com/search?q=Omroep+Max) | N/A |
+| 44 | [Statenleden](http://twitter.com/search?q=Statenleden) | N/A |
+| 45 | [Beringzee](http://twitter.com/search?q=Beringzee) | N/A |
+| 46 | [Koningsdag](http://twitter.com/search?q=Koningsdag) | N/A |
+| 47 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 48 | [hoogeveen](http://twitter.com/search?q=hoogeveen) | N/A |
 
 
 
