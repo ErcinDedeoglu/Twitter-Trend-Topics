@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-13 10:18:12 UTC`
+📆 Last Updated: `2023-04-13 11:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 2 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
-| 5 | [#ASongOrMovieForAnnoying](http://twitter.com/search?q=%23ASongOrMovieForAnnoying) | N/A |
-| 6 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 10 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
-| 11 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
-| 12 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 13 | [Waterloo](http://twitter.com/search?q=Waterloo) | N/A |
-| 14 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 15 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
-| 16 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 17 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 18 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 19 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 20 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 21 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 22 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 23 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
-| 24 | [Jamie Oliver](http://twitter.com/search?q=Jamie+Oliver) | N/A |
-| 25 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 26 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 27 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
-| 28 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
-| 29 | [Archie](http://twitter.com/search?q=Archie) | N/A |
-| 30 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
-| 31 | [GRR Bill](http://twitter.com/search?q=GRR+Bill) | N/A |
-| 32 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
-| 33 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 34 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
-| 35 | [Kwarteng](http://twitter.com/search?q=Kwarteng) | N/A |
-| 36 | [MSPs](http://twitter.com/search?q=MSPs) | N/A |
-| 37 | [Happy Birthday Dorah](http://twitter.com/search?q=Happy+Birthday+Dorah) | N/A |
-| 38 | [Heritage Foundation](http://twitter.com/search?q=Heritage+Foundation) | N/A |
-| 39 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 40 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 41 | [#ToriesOut280](http://twitter.com/search?q=%23ToriesOut280) | N/A |
-| 42 | [#UKSG2023](http://twitter.com/search?q=%23UKSG2023) | N/A |
-| 43 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 44 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 45 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 46 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 47 | [#GAConf23](http://twitter.com/search?q=%23GAConf23) | N/A |
-| 48 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 49 | [#Wordle663](http://twitter.com/search?q=%23Wordle663) | N/A |
-| 50 | [#Coronation](http://twitter.com/search?q=%23Coronation) | N/A |
+| 1 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 3 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 4 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 5 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
+| 6 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
+| 7 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
+| 10 | [#ASongOrMovieForAnnoying](http://twitter.com/search?q=%23ASongOrMovieForAnnoying) | N/A |
+| 11 | [#UKSG2023](http://twitter.com/search?q=%23UKSG2023) | N/A |
+| 12 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 13 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
+| 14 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
+| 15 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 16 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 17 | [Waterloo](http://twitter.com/search?q=Waterloo) | N/A |
+| 18 | [Black & Tans](http://twitter.com/search?q=Black+%26+Tans) | N/A |
+| 19 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 20 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 21 | [Jerry Hall](http://twitter.com/search?q=Jerry+Hall) | N/A |
+| 22 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
+| 23 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
+| 24 | [Graeme](http://twitter.com/search?q=Graeme) | N/A |
+| 25 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
+| 26 | [Chris Philp](http://twitter.com/search?q=Chris+Philp) | Chris Philp is the name of a British Conservative politician who has been the Member of Parliament (MP) for Croydon South since 2015. |
+| 27 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 28 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 29 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 30 | [Jamie Oliver](http://twitter.com/search?q=Jamie+Oliver) | N/A |
+| 31 | [JK Rowling](http://twitter.com/search?q=JK+Rowling) | N/A |
+| 32 | [MSPs](http://twitter.com/search?q=MSPs) | N/A |
+| 33 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 34 | [Holyrood](http://twitter.com/search?q=Holyrood) | Holyrood is the name of the Scottish Parliament building in Edinburgh, Scotland. It is derived from the term "Holy Cross", which refers to a relic believed to be part of the True Cross on which Jesus was crucified. The term is also used to refer to the surrounding area, which includes the Palace of Holyroodhouse and other historic sites. |
+| 35 | [Baroness Warsi](http://twitter.com/search?q=Baroness+Warsi) | N/A |
+| 36 | [Archie](http://twitter.com/search?q=Archie) | N/A |
+| 37 | [Scottish Parliament](http://twitter.com/search?q=Scottish+Parliament) | The Scottish Parliament is the devolved legislature of Scotland, located in Edinburgh. It has the power to make laws on a range of issues that are devolved from the UK Parliament, such as health, education, justice and the environment. It is made up of 129 elected Members of the Scottish Parliament (MSPs) who are elected by the people of Scotland. |
+| 38 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 39 | [Jeff Hardy](http://twitter.com/search?q=Jeff+Hardy) | N/A |
+| 40 | [GRR Bill](http://twitter.com/search?q=GRR+Bill) | N/A |
+| 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 42 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 43 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 44 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 45 | [Heritage Foundation](http://twitter.com/search?q=Heritage+Foundation) | N/A |
+| 46 | [Section 35](http://twitter.com/search?q=Section+35) | Section 35 of the Canadian Constitution is a provision that recognizes and affirms the existing Aboriginal and treaty rights of the Aboriginal peoples of Canada. It states that these rights are recognized and affirmed as being “existing aboriginal and treaty rights”, including the right to self-government. This section also allows for the federal government to pass laws in relation to these rights, as long as they are consistent with the Constitution. |
+| 47 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 48 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
+| 49 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 50 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
 
 
 

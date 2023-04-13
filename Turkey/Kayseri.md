@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-04-13 10:17:56 UTC`
+📆 Last Updated: `2023-04-13 11:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Namussuz Siyaset](http://twitter.com/search?q=Namussuz+Siyaset) | N/A |
-| 2 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 1 | [Togg](http://twitter.com/search?q=Togg) | N/A |
+| 2 | [Namussuz Siyaset](http://twitter.com/search?q=Namussuz+Siyaset) | N/A |
 | 3 | [#EytAdaletArayışında](http://twitter.com/search?q=%23EytAdaletAray%c4%b1%c5%9f%c4%b1nda) | N/A |
-| 4 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 5 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
-| 6 | [ÇYDD](http://twitter.com/search?q=%c3%87YDD) | N/A |
-| 7 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 8 | [#BenimDavamStaj](http://twitter.com/search?q=%23BenimDavamStaj) | N/A |
-| 9 | [Demet Özdemir](http://twitter.com/search?q=Demet+%c3%96zdemir) | N/A |
-| 10 | [Oğuzhan Koç](http://twitter.com/search?q=O%c4%9fuzhan+Ko%c3%a7) | N/A |
-| 11 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 12 | [TÜRKİYE YÜZYILI BAŞLIYOR](http://twitter.com/search?q=T%c3%9cRK%c4%b0YE+Y%c3%9cZYILI+BA%c5%9eLIYOR) | N/A |
-| 13 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
-| 14 | [GümbürGümbür Geliyoruz](http://twitter.com/search?q=G%c3%bcmb%c3%bcrG%c3%bcmb%c3%bcr+Geliyoruz) | N/A |
-| 15 | [Görgüsüzlük](http://twitter.com/search?q=G%c3%b6rg%c3%bcs%c3%bczl%c3%bck) | N/A |
-| 16 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
-| 17 | [Cunda Adası](http://twitter.com/search?q=Cunda+Adas%c4%b1) | N/A |
-| 18 | [Tarifeli](http://twitter.com/search?q=Tarifeli) | N/A |
-| 19 | [Ergün Atalay](http://twitter.com/search?q=Erg%c3%bcn+Atalay) | N/A |
-| 20 | [Emin Çapa](http://twitter.com/search?q=Emin+%c3%87apa) | N/A |
-| 21 | [Numan](http://twitter.com/search?q=Numan) | N/A |
-| 22 | [Saati 12](http://twitter.com/search?q=Saati+12) | N/A |
-| 23 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 24 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
-| 25 | [Güney Kore](http://twitter.com/search?q=G%c3%bcney+Kore) | N/A |
-| 26 | [Sayın Bakan](http://twitter.com/search?q=Say%c4%b1n+Bakan) | N/A |
-| 27 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
-| 28 | [Devletin](http://twitter.com/search?q=Devletin) | N/A |
-| 29 | [Toog](http://twitter.com/search?q=Toog) | N/A |
-| 30 | [Hikmet Çetin](http://twitter.com/search?q=Hikmet+%c3%87etin) | N/A |
-| 31 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
-| 32 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
-| 33 | [Süper Lig'e](http://twitter.com/search?q=S%c3%bcper+Lig%27e) | N/A |
-| 34 | [Karun](http://twitter.com/search?q=Karun) | N/A |
-| 35 | [14 Nisan Cuma](http://twitter.com/search?q=14+Nisan+Cuma) | N/A |
-| 36 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
-| 37 | [Zina](http://twitter.com/search?q=Zina) | N/A |
-| 38 | [Kızılayı](http://twitter.com/search?q=K%c4%b1z%c4%b1lay%c4%b1) | N/A |
-| 39 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
-| 40 | [ERDOĞAN KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+KAZANACAK) | N/A |
-| 41 | [Parasını](http://twitter.com/search?q=Paras%c4%b1n%c4%b1) | N/A |
-| 42 | [#SeçimVeGeçim](http://twitter.com/search?q=%23Se%c3%a7imVeGe%c3%a7im) | N/A |
-| 43 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
-| 44 | [#OrhanVeliKanık](http://twitter.com/search?q=%23OrhanVeliKan%c4%b1k) | N/A |
-| 45 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
-| 46 | [#BiletDükkanı](http://twitter.com/search?q=%23BiletD%c3%bckkan%c4%b1) | N/A |
-| 47 | [#gunaydın](http://twitter.com/search?q=%23gunayd%c4%b1n) | N/A |
+| 4 | [Volkan Bayarslan](http://twitter.com/search?q=Volkan+Bayarslan) | N/A |
+| 5 | [ÇYDD](http://twitter.com/search?q=%c3%87YDD) | N/A |
+| 6 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 7 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
+| 8 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
+| 9 | [#BenimDavamStaj](http://twitter.com/search?q=%23BenimDavamStaj) | N/A |
+| 10 | [TÜRKİYE YÜZYILI BAŞLIYOR](http://twitter.com/search?q=T%c3%9cRK%c4%b0YE+Y%c3%9cZYILI+BA%c5%9eLIYOR) | N/A |
+| 11 | [Oğuzhan Koç](http://twitter.com/search?q=O%c4%9fuzhan+Ko%c3%a7) | N/A |
+| 12 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
+| 13 | [Cunda Adası](http://twitter.com/search?q=Cunda+Adas%c4%b1) | N/A |
+| 14 | [Varank](http://twitter.com/search?q=Varank) | N/A |
+| 15 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
+| 16 | [Demet Özdemir](http://twitter.com/search?q=Demet+%c3%96zdemir) | N/A |
+| 17 | [#OrhanVeliKanık](http://twitter.com/search?q=%23OrhanVeliKan%c4%b1k) | N/A |
+| 18 | [Görgüsüzlük](http://twitter.com/search?q=G%c3%b6rg%c3%bcs%c3%bczl%c3%bck) | N/A |
+| 19 | [İçişleri Bakanlığı'ndan 81](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakanl%c4%b1%c4%9f%c4%b1%27ndan+81) | N/A |
+| 20 | [Tarifeli](http://twitter.com/search?q=Tarifeli) | N/A |
+| 21 | [Emin Çapa](http://twitter.com/search?q=Emin+%c3%87apa) | N/A |
+| 22 | [Cumhurbaşkanlığı](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 23 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
+| 24 | [Güney Kore](http://twitter.com/search?q=G%c3%bcney+Kore) | N/A |
+| 25 | [GümbürGümbür Geliyoruz](http://twitter.com/search?q=G%c3%bcmb%c3%bcrG%c3%bcmb%c3%bcr+Geliyoruz) | N/A |
+| 26 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 27 | [Numan](http://twitter.com/search?q=Numan) | N/A |
+| 28 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
+| 29 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
+| 30 | [ERDOĞAN KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+KAZANACAK) | N/A |
+| 31 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
+| 32 | [Saati 12](http://twitter.com/search?q=Saati+12) | N/A |
+| 33 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
+| 34 | [Devletin](http://twitter.com/search?q=Devletin) | N/A |
+| 35 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
+| 36 | [14 Nisan Cuma](http://twitter.com/search?q=14+Nisan+Cuma) | N/A |
+| 37 | [Karun](http://twitter.com/search?q=Karun) | N/A |
+| 38 | [Zina](http://twitter.com/search?q=Zina) | N/A |
+| 39 | [İmar](http://twitter.com/search?q=%c4%b0mar) | N/A |
+| 40 | [Toog](http://twitter.com/search?q=Toog) | N/A |
+| 41 | [kızılayı](http://twitter.com/search?q=k%c4%b1z%c4%b1lay%c4%b1) | N/A |
+| 42 | [Hikmet Çetin](http://twitter.com/search?q=Hikmet+%c3%87etin) | N/A |
+| 43 | [Sarayın](http://twitter.com/search?q=Saray%c4%b1n) | N/A |
+| 44 | [Soğanı](http://twitter.com/search?q=So%c4%9fan%c4%b1) | N/A |
+| 45 | [Günaydınnnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnnn) | N/A |
+| 46 | [Kuzey Kore](http://twitter.com/search?q=Kuzey+Kore) | N/A |
+| 47 | [#Erzurum](http://twitter.com/search?q=%23Erzurum) | N/A |
+| 48 | [#CVKMD](http://twitter.com/search?q=%23CVKMD) | N/A |
 
 
 

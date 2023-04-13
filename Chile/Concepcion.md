@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-13 10:17:26 UTC`
+📆 Last Updated: `2023-04-13 11:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 2 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
 | 3 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 4 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
-| 5 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 6 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 7 | [liceo de aplicación](http://twitter.com/search?q=liceo+de+aplicaci%c3%b3n) | N/A |
-| 8 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 9 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 10 | [#thevoicechv](http://twitter.com/search?q=%23thevoicechv) | N/A |
-| 11 | [#estadodeexcepcion](http://twitter.com/search?q=%23estadodeexcepcion) | N/A |
+| 4 | [#meganoticiasamanece](http://twitter.com/search?q=%23meganoticiasamanece) | N/A |
+| 5 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
+| 6 | [#SinFiltros](http://twitter.com/search?q=%23SinFiltros) | N/A |
+| 7 | [#despiertaconchv](http://twitter.com/search?q=%23despiertaconchv) | N/A |
+| 8 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
+| 9 | [liceo de aplicación](http://twitter.com/search?q=liceo+de+aplicaci%c3%b3n) | N/A |
+| 10 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
+| 11 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 12 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 13 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 14 | [luka tudor](http://twitter.com/search?q=luka+tudor) | N/A |
-| 15 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 16 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
-| 17 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
-| 20 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 21 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
-| 22 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 23 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 24 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 25 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 27 | [PYMES](http://twitter.com/search?q=PYMES) | N/A |
+| 13 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 14 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
+| 15 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 16 | [Putre](http://twitter.com/search?q=Putre) | N/A |
+| 17 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
+| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 19 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 20 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 21 | [OPORTUNISMO](http://twitter.com/search?q=OPORTUNISMO) | N/A |
+| 22 | [Diego Ibáñez](http://twitter.com/search?q=Diego+Ib%c3%a1%c3%b1ez) | N/A |
+| 23 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
+| 24 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
+| 25 | [Alex Salazar](http://twitter.com/search?q=Alex+Salazar) | N/A |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
 | 28 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 29 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
-| 30 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 31 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
-| 32 | [Pendejos](http://twitter.com/search?q=Pendejos) | N/A |
-| 33 | [Alex Salazar](http://twitter.com/search?q=Alex+Salazar) | N/A |
-| 34 | [comisión de ética](http://twitter.com/search?q=comisi%c3%b3n+de+%c3%a9tica) | N/A |
-| 35 | [cañete](http://twitter.com/search?q=ca%c3%b1ete) | N/A |
-| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 37 | [MANGA DE COMUNISTAS](http://twitter.com/search?q=MANGA+DE+COMUNISTAS) | N/A |
-| 38 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 39 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 40 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 41 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 42 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 43 | [secundarios](http://twitter.com/search?q=secundarios) | N/A |
-| 44 | [Bellolio](http://twitter.com/search?q=Bellolio) | N/A |
-| 45 | [lumaco](http://twitter.com/search?q=lumaco) | N/A |
-| 46 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
-| 47 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 48 | [AVANZAMOS](http://twitter.com/search?q=AVANZAMOS) | N/A |
-| 49 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 50 | [codina](http://twitter.com/search?q=codina) | N/A |
+| 30 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 31 | [PYMES](http://twitter.com/search?q=PYMES) | N/A |
+| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 33 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 34 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 36 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 37 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 38 | [lo barnechea](http://twitter.com/search?q=lo+barnechea) | N/A |
+| 39 | [Arica](http://twitter.com/search?q=Arica) | N/A |
+| 40 | [Alberto Plaza](http://twitter.com/search?q=Alberto+Plaza) | N/A |
+| 41 | [manga de comunistas](http://twitter.com/search?q=manga+de+comunistas) | N/A |
+| 42 | [codina](http://twitter.com/search?q=codina) | N/A |
+| 43 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 44 | [General Yañez](http://twitter.com/search?q=General+Ya%c3%b1ez) | N/A |
+| 45 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
+| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 47 | [felipe rojas](http://twitter.com/search?q=felipe+rojas) | N/A |
+| 48 | [Partido Liberal](http://twitter.com/search?q=Partido+Liberal) | N/A |
+| 49 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
+| 50 | [jorge massardo](http://twitter.com/search?q=jorge+massardo) | N/A |
 
 
 

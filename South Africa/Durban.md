@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-04-13 10:17:48 UTC`
+📆 Last Updated: `2023-04-13 11:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,36 +16,36 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DrNandiphaMagudumana](http://twitter.com/search?q=%23DrNandiphaMagudumana) | N/A |
-| 2 | [#NedbankPrivateClients](http://twitter.com/search?q=%23NedbankPrivateClients) | N/A |
-| 3 | [UNFILTERED WITH TSATSII](http://twitter.com/search?q=UNFILTERED+WITH+TSATSII) | N/A |
-| 4 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 5 | [#SAIC2023](http://twitter.com/search?q=%23SAIC2023) | N/A |
-| 6 | [Kgosi Mampuru](http://twitter.com/search?q=Kgosi+Mampuru) | N/A |
-| 7 | [Kokstad](http://twitter.com/search?q=Kokstad) | N/A |
-| 8 | [SAPS Tanzania](http://twitter.com/search?q=SAPS+Tanzania) | N/A |
+| 2 | [#DrNandiphaMagudumana](http://twitter.com/search?q=%23DrNandiphaMagudumana) | N/A |
+| 3 | [#NedbankPrivateClients](http://twitter.com/search?q=%23NedbankPrivateClients) | N/A |
+| 4 | [Karoo](http://twitter.com/search?q=Karoo) | N/A |
+| 5 | [UNFILTERED WITH TSATSII](http://twitter.com/search?q=UNFILTERED+WITH+TSATSII) | N/A |
+| 6 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 7 | [#SAIC2023](http://twitter.com/search?q=%23SAIC2023) | N/A |
+| 8 | [Kokstad](http://twitter.com/search?q=Kokstad) | N/A |
 | 9 | [#InvestSA](http://twitter.com/search?q=%23InvestSA) | N/A |
-| 10 | [Chriselda](http://twitter.com/search?q=Chriselda) | N/A |
-| 11 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 12 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
+| 10 | [Kgosi Mampuru](http://twitter.com/search?q=Kgosi+Mampuru) | N/A |
+| 11 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 12 | [Chriselda](http://twitter.com/search?q=Chriselda) | N/A |
 | 13 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
-| 14 | [#AskAMan](http://twitter.com/search?q=%23AskAMan) | N/A |
+| 14 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
 | 15 | [MacG](http://twitter.com/search?q=MacG) | N/A |
-| 16 | [President Cyril Ramaphosa](http://twitter.com/search?q=President+Cyril+Ramaphosa) | N/A |
-| 17 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 18 | [Lanseria](http://twitter.com/search?q=Lanseria) | N/A |
-| 19 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
-| 20 | [Chippa](http://twitter.com/search?q=Chippa) | N/A |
-| 21 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 22 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
-| 23 | [Thabiso](http://twitter.com/search?q=Thabiso) | N/A |
-| 24 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 26 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 27 | [#BreakAwayWithKhutsoTheledi](http://twitter.com/search?q=%23BreakAwayWithKhutsoTheledi) | N/A |
-| 28 | [#Stage6](http://twitter.com/search?q=%23Stage6) | N/A |
-| 29 | [#PanadoSA](http://twitter.com/search?q=%23PanadoSA) | N/A |
-| 30 | [#ADoseOfCare](http://twitter.com/search?q=%23ADoseOfCare) | N/A |
-| 31 | [#wooliesbeauty](http://twitter.com/search?q=%23wooliesbeauty) | N/A |
+| 16 | [bloemfontein](http://twitter.com/search?q=bloemfontein) | N/A |
+| 17 | [Penuel](http://twitter.com/search?q=Penuel) | N/A |
+| 18 | [President Cyril Ramaphosa](http://twitter.com/search?q=President+Cyril+Ramaphosa) | N/A |
+| 19 | [Chippa](http://twitter.com/search?q=Chippa) | N/A |
+| 20 | [Sandton](http://twitter.com/search?q=Sandton) | N/A |
+| 21 | [Woolies](http://twitter.com/search?q=Woolies) | N/A |
+| 22 | [Thabiso](http://twitter.com/search?q=Thabiso) | N/A |
+| 23 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
+| 24 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 25 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
+| 26 | [Malawi](http://twitter.com/search?q=Malawi) | N/A |
+| 27 | [Lanseria](http://twitter.com/search?q=Lanseria) | N/A |
+| 28 | [Gayton](http://twitter.com/search?q=Gayton) | N/A |
+| 29 | [#BreakAwayWithKhutsoTheledi](http://twitter.com/search?q=%23BreakAwayWithKhutsoTheledi) | N/A |
+| 30 | [#Stage6](http://twitter.com/search?q=%23Stage6) | N/A |
+| 31 | [#askaman](http://twitter.com/search?q=%23askaman) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-13 10:17:32 UTC`
+📆 Last Updated: `2023-04-13 11:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,51 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 2 | [#Cannes2023](http://twitter.com/search?q=%23Cannes2023) | N/A |
-| 3 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 4 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 5 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 1 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
+| 3 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 4 | [#Cannes2023](http://twitter.com/search?q=%23Cannes2023) | N/A |
+| 5 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
 | 6 | [Remis](http://twitter.com/search?q=Remis) | N/A |
-| 7 | [Demain 19h](http://twitter.com/search?q=Demain+19h) | N/A |
-| 8 | [Quatennens](http://twitter.com/search?q=Quatennens) | N/A |
-| 9 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 10 | [Bourdin](http://twitter.com/search?q=Bourdin) | N/A |
-| 11 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 14 | [Thierry Frémaux](http://twitter.com/search?q=Thierry+Fr%c3%a9maux) | N/A |
-| 15 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 16 | [Conseil](http://twitter.com/search?q=Conseil) | N/A |
-| 17 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 20 | [Wes Anderson](http://twitter.com/search?q=Wes+Anderson) | N/A |
-| 21 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 7 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 8 | [Ken Loach](http://twitter.com/search?q=Ken+Loach) | N/A |
+| 9 | [Thierry Frémaux](http://twitter.com/search?q=Thierry+Fr%c3%a9maux) | N/A |
+| 10 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 11 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 12 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
+| 13 | [Grève du 13](http://twitter.com/search?q=Gr%c3%a8ve+du+13) | N/A |
+| 14 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
+| 15 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 16 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 17 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 18 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 19 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
+| 20 | [JUICE](http://twitter.com/search?q=JUICE) | N/A |
+| 21 | [EN DIRECT](http://twitter.com/search?q=EN+DIRECT) | N/A |
 | 22 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 23 | [Iris Knobloch](http://twitter.com/search?q=Iris+Knobloch) | N/A |
-| 24 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 25 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 26 | [BRAHIM DIAZ](http://twitter.com/search?q=BRAHIM+DIAZ) | N/A |
-| 27 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 28 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 29 | [Le COR](http://twitter.com/search?q=Le+COR) | N/A |
-| 30 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 31 | [Ardentes](http://twitter.com/search?q=Ardentes) | N/A |
-| 32 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 33 | [GP Explorer 2](http://twitter.com/search?q=GP+Explorer+2) | N/A |
-| 34 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 35 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 36 | [Mediapart](http://twitter.com/search?q=Mediapart) | N/A |
-| 37 | [Bercoff](http://twitter.com/search?q=Bercoff) | N/A |
-| 38 | [Pays-Bas](http://twitter.com/search?q=Pays-Bas) | N/A |
-| 39 | [Licra](http://twitter.com/search?q=Licra) | N/A |
-| 40 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 41 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 42 | [Reece James](http://twitter.com/search?q=Reece+James) | Reece James is a masculine given name of English origin. It is derived from the Old English elements rēad (red) and cēosan (to choose). The name can also be spelled as Reece or Reecey. |
-| 43 | [Jacques Gaillot](http://twitter.com/search?q=Jacques+Gaillot) | N/A |
-| 44 | [Guillaume Pley](http://twitter.com/search?q=Guillaume+Pley) | N/A |
-| 45 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
-| 46 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
-| 47 | [Liebig](http://twitter.com/search?q=Liebig) | N/A |
+| 23 | [Égypte](http://twitter.com/search?q=%c3%89gypte) | N/A |
+| 24 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 25 | [La LDH](http://twitter.com/search?q=La+LDH) | N/A |
+| 26 | [CVEC](http://twitter.com/search?q=CVEC) | N/A |
+| 27 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
+| 28 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
+| 29 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 30 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 31 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 32 | [Licra](http://twitter.com/search?q=Licra) | N/A |
+| 33 | [Jeudi 13](http://twitter.com/search?q=Jeudi+13) | N/A |
+| 34 | [CNRS](http://twitter.com/search?q=CNRS) | N/A |
+| 35 | [#ReformeDesRetaites](http://twitter.com/search?q=%23ReformeDesRetaites) | N/A |
+| 36 | [#DartyGaming](http://twitter.com/search?q=%23DartyGaming) | N/A |
+| 37 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 38 | [#Conseil_Constitutionnel](http://twitter.com/search?q=%23Conseil_Constitutionnel) | N/A |
+| 39 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 40 | [#Schiappa](http://twitter.com/search?q=%23Schiappa) | N/A |
+| 41 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
+| 42 | [#DevoxxFR](http://twitter.com/search?q=%23DevoxxFR) | N/A |
+| 43 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 44 | [#recrutement](http://twitter.com/search?q=%23recrutement) | N/A |
+| 45 | [#CarlaMoreau](http://twitter.com/search?q=%23CarlaMoreau) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-04-13 10:17:35 UTC`
+📆 Last Updated: `2023-04-13 11:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#13aprile](http://twitter.com/search?q=%2313aprile) | N/A |
 | 3 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
 | 4 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 5 | [#PensavoA](http://twitter.com/search?q=%23PensavoA) | N/A |
-| 6 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 7 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
-| 8 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 9 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
-| 10 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 11 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 12 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 13 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 14 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 15 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 16 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
-| 17 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 18 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 19 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
-| 20 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 5 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 6 | [#PensavoA](http://twitter.com/search?q=%23PensavoA) | N/A |
+| 7 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 8 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
+| 9 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 10 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 11 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 12 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 13 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 14 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 15 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
+| 16 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 17 | [Kjaer](http://twitter.com/search?q=Kjaer) | N/A |
+| 18 | [Rebic](http://twitter.com/search?q=Rebic) | N/A |
+| 19 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 20 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 21 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 22 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 23 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
-| 24 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 25 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 26 | [BRAHIM DIAZ](http://twitter.com/search?q=BRAHIM+DIAZ) | N/A |
+| 22 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
+| 23 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 24 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
+| 25 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
+| 26 | [Brahim Diaz](http://twitter.com/search?q=Brahim+Diaz) | N/A |
 | 27 | [Cannavaro](http://twitter.com/search?q=Cannavaro) | N/A |
-| 28 | [Arbitraggio](http://twitter.com/search?q=Arbitraggio) | N/A |
-| 29 | [Pietro Orlandi](http://twitter.com/search?q=Pietro+Orlandi) | N/A |
-| 30 | [Meret](http://twitter.com/search?q=Meret) | Meret is a female given name of Egyptian origin. It is derived from the Ancient Egyptian word "meryt" which means "beloved". In English, it can be translated to mean "beloved one". |
-| 31 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
-| 32 | [Igor Novara](http://twitter.com/search?q=Igor+Novara) | N/A |
-| 33 | [Elmas](http://twitter.com/search?q=Elmas) | N/A |
+| 28 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
+| 29 | [Arbitraggio](http://twitter.com/search?q=Arbitraggio) | N/A |
+| 30 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 31 | [gisella](http://twitter.com/search?q=gisella) | N/A |
+| 32 | [Arbitro](http://twitter.com/search?q=Arbitro) | N/A |
+| 33 | [Pietro Orlandi](http://twitter.com/search?q=Pietro+Orlandi) | N/A |
 | 34 | [Rosetti](http://twitter.com/search?q=Rosetti) | N/A |
-| 35 | [Joao Mario](http://twitter.com/search?q=Joao+Mario) | N/A |
-| 36 | [Campovolo](http://twitter.com/search?q=Campovolo) | N/A |
-| 37 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
-| 38 | [Arbitro](http://twitter.com/search?q=Arbitro) | N/A |
-| 39 | [Bersani](http://twitter.com/search?q=Bersani) | N/A |
-| 40 | [Piccinini](http://twitter.com/search?q=Piccinini) | N/A |
-| 41 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 42 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 43 | [Gisella](http://twitter.com/search?q=Gisella) | N/A |
-| 44 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
-| 45 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
-| 46 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 47 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 48 | [Saelemaekers](http://twitter.com/search?q=Saelemaekers) | N/A |
-| 49 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
-| 50 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 35 | [Campovolo](http://twitter.com/search?q=Campovolo) | N/A |
+| 36 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
+| 37 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
+| 38 | [Hurkacz](http://twitter.com/search?q=Hurkacz) | N/A |
+| 39 | [Piccinini](http://twitter.com/search?q=Piccinini) | N/A |
+| 40 | [Tomori](http://twitter.com/search?q=Tomori) | Tomori is a Japanese surname. It is derived from the Japanese words "tomo" (friend) and "ri" (village). In English, it can be translated to mean "Friendly Village". |
+| 41 | [Nanni Moretti](http://twitter.com/search?q=Nanni+Moretti) | N/A |
+| 42 | [Demet](http://twitter.com/search?q=Demet) | N/A |
+| 43 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
+| 44 | [Elmas](http://twitter.com/search?q=Elmas) | N/A |
+| 45 | [Saelemaekers](http://twitter.com/search?q=Saelemaekers) | N/A |
+| 46 | [Igor Novara](http://twitter.com/search?q=Igor+Novara) | N/A |
+| 47 | [Lobotka](http://twitter.com/search?q=Lobotka) | N/A |
+| 48 | [Regioni](http://twitter.com/search?q=Regioni) | N/A |
+| 49 | [İstanbul](http://twitter.com/search?q=%c4%b0stanbul) | N/A |
+| 50 | [Calabria](http://twitter.com/search?q=Calabria) | Calabria is a region in southern Italy. It is located at the "toe" of the Italian peninsula and is bordered by the Tyrrhenian Sea to the west, the Ionian Sea to the south, and the Apennine Mountains to the north. In English, Calabria means "the heel of Italy". |
 
 
 

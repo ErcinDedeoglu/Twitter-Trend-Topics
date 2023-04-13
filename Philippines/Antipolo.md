@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-04-13 10:17:45 UTC`
+📆 Last Updated: `2023-04-13 11:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 2 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 3 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 4 | [#CelebrateWithIRENE](http://twitter.com/search?q=%23CelebrateWithIRENE) | N/A |
-| 5 | [#RedmiNote12Series](http://twitter.com/search?q=%23RedmiNote12Series) | N/A |
-| 6 | [D1 KDLEXPETA COMEBACK](http://twitter.com/search?q=D1+KDLEXPETA+COMEBACK) | N/A |
-| 7 | [MUSICAL WONDERMAN KD](http://twitter.com/search?q=MUSICAL+WONDERMAN+KD) | N/A |
-| 8 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
-| 9 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
-| 10 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 11 | [#FadedMonoLife_Photo](http://twitter.com/search?q=%23FadedMonoLife_Photo) | N/A |
-| 12 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 1 | [#DavidLicauco](http://twitter.com/search?q=%23DavidLicauco) | N/A |
+| 2 | [#FLOWER3rdWIN](http://twitter.com/search?q=%23FLOWER3rdWIN) | N/A |
+| 3 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 4 | [#RedmiNote12Series](http://twitter.com/search?q=%23RedmiNote12Series) | N/A |
+| 5 | [#JISOO3rdWin](http://twitter.com/search?q=%23JISOO3rdWin) | N/A |
+| 6 | [#NasaIyoAngPanalo](http://twitter.com/search?q=%23NasaIyoAngPanalo) | N/A |
+| 7 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
+| 8 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
+| 9 | [MUSICAL WONDERMAN KD](http://twitter.com/search?q=MUSICAL+WONDERMAN+KD) | N/A |
+| 10 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
+| 11 | [WOOZI](http://twitter.com/search?q=WOOZI) | N/A |
+| 12 | [True Baptism](http://twitter.com/search?q=True+Baptism) | N/A |
 | 13 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
-| 14 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 14 | [D1 KDLEXPETA COMEBACK](http://twitter.com/search?q=D1+KDLEXPETA+COMEBACK) | N/A |
 | 15 | [CutiePIE EIAN IS BACK](http://twitter.com/search?q=CutiePIE+EIAN+IS+BACK) | N/A |
-| 16 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 17 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
-| 18 | [pluus reply time](http://twitter.com/search?q=pluus+reply+time) | N/A |
-| 19 | [ENHYPEN MAY COMEBACK](http://twitter.com/search?q=ENHYPEN+MAY+COMEBACK) | N/A |
-| 20 | [ROTC](http://twitter.com/search?q=ROTC) | N/A |
-| 21 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
-| 22 | [D-1 TO PARAISO](http://twitter.com/search?q=D-1+TO+PARAISO) | N/A |
-| 23 | [UNFORGIVEN 2ND CONCEPT](http://twitter.com/search?q=UNFORGIVEN+2ND+CONCEPT) | N/A |
-| 24 | [bini strings dance practice](http://twitter.com/search?q=bini+strings+dance+practice) | N/A |
+| 16 | [VERNON](http://twitter.com/search?q=VERNON) | VERNON is a French surname derived from the Latin word "vernus" meaning "springtime". It is also a given name, derived from the same root. |
+| 17 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
+| 18 | [D-1 TO PARAISO](http://twitter.com/search?q=D-1+TO+PARAISO) | N/A |
+| 19 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
+| 20 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 21 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
+| 22 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
+| 23 | [Luzon](http://twitter.com/search?q=Luzon) | N/A |
+| 24 | [jeno](http://twitter.com/search?q=jeno) | N/A |
 | 25 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 26 | [chico poolinlove](http://twitter.com/search?q=chico+poolinlove) | N/A |
-| 27 | [Pak Na Pak with Prince](http://twitter.com/search?q=Pak+Na+Pak+with+Prince) | N/A |
-| 28 | [PIEnally ITS VIBRENT](http://twitter.com/search?q=PIEnally+ITS+VIBRENT) | N/A |
-| 29 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 30 | [Gordon Ramsay](http://twitter.com/search?q=Gordon+Ramsay) | N/A |
-| 31 | [happy 2months hori7on](http://twitter.com/search?q=happy+2months+hori7on) | N/A |
-| 32 | [MELODY OF SCENTS D4](http://twitter.com/search?q=MELODY+OF+SCENTS+D4) | N/A |
-| 33 | [KATHRYN IS VJEWELED](http://twitter.com/search?q=KATHRYN+IS+VJEWELED) | N/A |
-| 34 | [brent manalo katropie](http://twitter.com/search?q=brent+manalo+katropie) | N/A |
-| 35 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 36 | [junhoe in bora deborah](http://twitter.com/search?q=junhoe+in+bora+deborah) | N/A |
-| 37 | [flower second win](http://twitter.com/search?q=flower+second+win) | N/A |
-| 38 | [Tropical Depression](http://twitter.com/search?q=Tropical+Depression) | N/A |
-| 39 | [sins against the holy spirit](http://twitter.com/search?q=sins+against+the+holy+spirit) | N/A |
-| 40 | [Seungyoon](http://twitter.com/search?q=Seungyoon) | N/A |
-| 41 | [svt run for your life](http://twitter.com/search?q=svt+run+for+your+life) | N/A |
-| 42 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 43 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
-| 44 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | N/A |
-| 45 | [Inang](http://twitter.com/search?q=Inang) | Inang is a Tagalog word that means "mother." |
-| 46 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
-| 47 | [Sungjin](http://twitter.com/search?q=Sungjin) | N/A |
-| 48 | [seulgi](http://twitter.com/search?q=seulgi) | Seulgi is a Korean name that means "wisdom and justice". It is often given to girls and is derived from the Sino-Korean characters for "wise" (seon) and "justice" (gi). |
-| 49 | [WE LOVE YOU JIN](http://twitter.com/search?q=WE+LOVE+YOU+JIN) | N/A |
-| 50 | [Which AESPA](http://twitter.com/search?q=Which+AESPA) | N/A |
+| 26 | [SUNWOO](http://twitter.com/search?q=SUNWOO) | N/A |
+| 27 | [wonu](http://twitter.com/search?q=wonu) | N/A |
+| 28 | [#PuregoldxJustinDeDios](http://twitter.com/search?q=%23PuregoldxJustinDeDios) | N/A |
+| 29 | [#Puregold25Years](http://twitter.com/search?q=%23Puregold25Years) | N/A |
+| 30 | [#04ATIN2023](http://twitter.com/search?q=%2304ATIN2023) | N/A |
+| 31 | [#CelebrateWithIRENE](http://twitter.com/search?q=%23CelebrateWithIRENE) | N/A |
+| 32 | [#LiveVivid](http://twitter.com/search?q=%23LiveVivid) | N/A |
+| 33 | [#REDVELVETinMNL2023](http://twitter.com/search?q=%23REDVELVETinMNL2023) | N/A |
+| 34 | [#FamilyFeudBenAndBen](http://twitter.com/search?q=%23FamilyFeudBenAndBen) | N/A |
+| 35 | [#FxckMyLife4MPreorder](http://twitter.com/search?q=%23FxckMyLife4MPreorder) | N/A |
+| 36 | [#MasMabilisSaLazada](http://twitter.com/search?q=%23MasMabilisSaLazada) | N/A |
+| 37 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 38 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
+| 39 | [#BT21](http://twitter.com/search?q=%23BT21) | #BT21 is a line of characters created by the South Korean boy band BTS in collaboration with LINE FRIENDS. The characters are meant to represent each of the seven members of BTS and have become popular in South Korea and around the world. The name BT21 is a combination of BTS and 21, which stands for the seven members of the group. |
+| 40 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
+| 41 | [#PakNaPakHostingNiPrince](http://twitter.com/search?q=%23PakNaPakHostingNiPrince) | N/A |
+| 42 | [#McDoPH](http://twitter.com/search?q=%23McDoPH) | N/A |
+| 43 | [#LazadaPH](http://twitter.com/search?q=%23LazadaPH) | N/A |
+| 44 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
+| 45 | [#PureDoctrinesOfChrist](http://twitter.com/search?q=%23PureDoctrinesOfChrist) | N/A |
+| 46 | [#BOYCOTTEBxAPTxGMA764](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA764) | N/A |
+| 47 | [#walangpasok](http://twitter.com/search?q=%23walangpasok) | N/A |
 
 
 
