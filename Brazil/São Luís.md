@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-04-13 16:17:36 UTC`
+📆 Last Updated: `2023-04-13 17:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
 | 2 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 3 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 4 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 6 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 7 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
-| 8 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 9 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 11 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 12 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 14 | [IEM Rio](http://twitter.com/search?q=IEM+Rio) | N/A |
+| 5 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 6 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 7 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 8 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 9 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 10 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [IEM Rio](http://twitter.com/search?q=IEM+Rio) | N/A |
+| 13 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
+| 14 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 15 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 16 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
-| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 18 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 19 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 20 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
-| 21 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
-| 22 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 23 | [#diadobeijo](http://twitter.com/search?q=%23diadobeijo) | N/A |
-| 24 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
-| 25 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 26 | [BOLSONARO INELEGÍVEL](http://twitter.com/search?q=BOLSONARO+INELEG%c3%8dVEL) | N/A |
+| 16 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 18 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
+| 19 | [#OsDonosDaBola](http://twitter.com/search?q=%23OsDonosDaBola) | N/A |
+| 20 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 21 | [#DiadoBeijo](http://twitter.com/search?q=%23DiadoBeijo) | N/A |
+| 22 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
+| 23 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 24 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 25 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 26 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
 | 27 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 28 | [AGUST D IS COMING](http://twitter.com/search?q=AGUST+D+IS+COMING) | N/A |
+| 28 | [Devi](http://twitter.com/search?q=Devi) | N/A |
 | 29 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
-| 30 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 31 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 32 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 33 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 34 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
-| 35 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 36 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 37 | [Woongki](http://twitter.com/search?q=Woongki) | N/A |
-| 38 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 39 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 40 | [Negueba](http://twitter.com/search?q=Negueba) | N/A |
-| 41 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
-| 42 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 43 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 44 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 45 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
-| 46 | [Zeldinha](http://twitter.com/search?q=Zeldinha) | N/A |
-| 47 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 48 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
-| 49 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 30 | [BOLSONARO INELEGÍVEL](http://twitter.com/search?q=BOLSONARO+INELEG%c3%8dVEL) | N/A |
+| 31 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 32 | [Negueba](http://twitter.com/search?q=Negueba) | N/A |
+| 33 | [AGUST D IS COMING](http://twitter.com/search?q=AGUST+D+IS+COMING) | N/A |
+| 34 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 35 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 36 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 37 | [Ícaro](http://twitter.com/search?q=%c3%8dcaro) | N/A |
+| 38 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 39 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 40 | [Woongki](http://twitter.com/search?q=Woongki) | N/A |
+| 41 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 42 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 43 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
+| 44 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
+| 45 | [João Gomes e Ary](http://twitter.com/search?q=Jo%c3%a3o+Gomes+e+Ary) | N/A |
+| 46 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 47 | [Gene Simmons](http://twitter.com/search?q=Gene+Simmons) | N/A |
+| 48 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 49 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
 
 
 

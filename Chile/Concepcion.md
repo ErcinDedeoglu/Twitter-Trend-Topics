@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-13 16:17:32 UTC`
+📆 Last Updated: `2023-04-13 17:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 2 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
-| 3 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 5 | [#LaGranAutopiZta](http://twitter.com/search?q=%23LaGranAutopiZta) | N/A |
-| 6 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 7 | [#GobiernoInforma](http://twitter.com/search?q=%23GobiernoInforma) | N/A |
-| 8 | [#Violeta](http://twitter.com/search?q=%23Violeta) | N/A |
-| 9 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 11 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 12 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 2 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 3 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 4 | [#LaGranAutopiZta](http://twitter.com/search?q=%23LaGranAutopiZta) | N/A |
+| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 6 | [#GobiernoInforma](http://twitter.com/search?q=%23GobiernoInforma) | N/A |
+| 7 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
+| 8 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
+| 9 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 10 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 11 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 12 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
 | 13 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
-| 14 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 15 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
-| 16 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 17 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 18 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
-| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 20 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 21 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 22 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
-| 23 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 14 | [Putre](http://twitter.com/search?q=Putre) | N/A |
+| 15 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 16 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
+| 17 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 18 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 19 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 21 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
+| 22 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 23 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
 | 24 | [Diego Ibáñez](http://twitter.com/search?q=Diego+Ib%c3%a1%c3%b1ez) | N/A |
-| 25 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 26 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 27 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
-| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 29 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
-| 30 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 31 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
+| 25 | [3 carabineros](http://twitter.com/search?q=3+carabineros) | N/A |
+| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 27 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
+| 28 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 29 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 30 | [Arica](http://twitter.com/search?q=Arica) | N/A |
+| 31 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
 | 32 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 33 | [Arica](http://twitter.com/search?q=Arica) | N/A |
-| 34 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
 | 35 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 37 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 38 | [Donas](http://twitter.com/search?q=Donas) | N/A |
-| 39 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
-| 40 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
-| 41 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
-| 42 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
-| 43 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 44 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
-| 45 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 46 | [General Yañez](http://twitter.com/search?q=General+Ya%c3%b1ez) | N/A |
-| 47 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
-| 48 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 49 | [Alberto Plaza](http://twitter.com/search?q=Alberto+Plaza) | N/A |
-| 50 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
+| 36 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 37 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 38 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
+| 39 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 40 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 41 | [General Yañez](http://twitter.com/search?q=General+Ya%c3%b1ez) | N/A |
+| 42 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
+| 43 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 44 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 45 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 46 | [Alberto Plaza](http://twitter.com/search?q=Alberto+Plaza) | N/A |
+| 47 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
+| 48 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 49 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
+| 50 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 
 
 

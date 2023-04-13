@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-04-13 16:17:25 UTC`
+📆 Last Updated: `2023-04-13 17:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
 | 3 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
 | 4 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 5 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 5 | [Craig](http://twitter.com/search?q=Craig) | N/A |
 | 6 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 7 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 8 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 10 | [#AintreeFestival](http://twitter.com/search?q=%23AintreeFestival) | N/A |
+| 7 | [Dancing On My Own](http://twitter.com/search?q=Dancing+On+My+Own) | N/A |
+| 8 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 9 | [Dysart Enos](http://twitter.com/search?q=Dysart+Enos) | N/A |
+| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
 | 11 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 12 | [Famous Clermont](http://twitter.com/search?q=Famous+Clermont) | N/A |
-| 13 | [#IStandWithHenrietta](http://twitter.com/search?q=%23IStandWithHenrietta) | N/A |
-| 14 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
-| 15 | [#CollectiveNounsInFilmsOrSongs](http://twitter.com/search?q=%23CollectiveNounsInFilmsOrSongs) | N/A |
-| 16 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 17 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
-| 18 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 19 | [Zenta](http://twitter.com/search?q=Zenta) | N/A |
-| 20 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 21 | [Bo Zenith](http://twitter.com/search?q=Bo+Zenith) | N/A |
-| 22 | [Nico](http://twitter.com/search?q=Nico) | N/A |
-| 23 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 24 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 25 | [Banbridge](http://twitter.com/search?q=Banbridge) | N/A |
-| 26 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
-| 27 | [Sherwood Forest](http://twitter.com/search?q=Sherwood+Forest) | N/A |
+| 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 13 | [#AintreeFestival](http://twitter.com/search?q=%23AintreeFestival) | N/A |
+| 14 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 15 | [Famous Clermont](http://twitter.com/search?q=Famous+Clermont) | N/A |
+| 16 | [#IStandWithHenrietta](http://twitter.com/search?q=%23IStandWithHenrietta) | N/A |
+| 17 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
+| 18 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 20 | [Douglas Talking](http://twitter.com/search?q=Douglas+Talking) | N/A |
+| 21 | [Deji](http://twitter.com/search?q=Deji) | N/A |
+| 22 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
+| 23 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 24 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 25 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 26 | [Bo Zenith](http://twitter.com/search?q=Bo+Zenith) | N/A |
+| 27 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
 | 28 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
-| 29 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 30 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 31 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
-| 32 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 29 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 30 | [Sherwood Forest](http://twitter.com/search?q=Sherwood+Forest) | N/A |
+| 31 | [Zenta](http://twitter.com/search?q=Zenta) | N/A |
+| 32 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 33 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 34 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 35 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 36 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
-| 37 | [Sophia Bush](http://twitter.com/search?q=Sophia+Bush) | N/A |
-| 38 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 39 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 40 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
-| 41 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 42 | [Warsi](http://twitter.com/search?q=Warsi) | N/A |
-| 43 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 44 | [Saint Roi](http://twitter.com/search?q=Saint+Roi) | N/A |
-| 45 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
-| 46 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 47 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 48 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 49 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
+| 34 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 35 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
+| 36 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 37 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 38 | [Warsi](http://twitter.com/search?q=Warsi) | N/A |
+| 39 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 40 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 41 | [Sophia Bush](http://twitter.com/search?q=Sophia+Bush) | N/A |
+| 42 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 43 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 44 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 45 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 46 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 47 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
+| 48 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 49 | [Banbridge](http://twitter.com/search?q=Banbridge) | N/A |
 | 50 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
 
 

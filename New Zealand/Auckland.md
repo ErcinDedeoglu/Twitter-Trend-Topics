@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-13 16:18:12 UTC`
+📆 Last Updated: `2023-04-13 17:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
+| 1 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
 | 2 | [#asbte2023](http://twitter.com/search?q=%23asbte2023) | N/A |
-| 3 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 3 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
 | 4 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 5 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
 | 6 | [Covid](http://twitter.com/search?q=Covid) | N/A |
@@ -38,8 +38,8 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 21 | [christopher luxon](http://twitter.com/search?q=christopher+luxon) | N/A |
 | 22 | [Mayor](http://twitter.com/search?q=Mayor) | N/A |
 | 23 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 24 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 25 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 24 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 25 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
 | 26 | [ricky](http://twitter.com/search?q=ricky) | N/A |
 | 27 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 28 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |

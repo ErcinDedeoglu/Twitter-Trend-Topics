@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-04-13 16:18:14 UTC`
+📆 Last Updated: `2023-04-13 17:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
 | 2 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 3 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 4 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 5 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 6 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 7 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 8 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 10 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 11 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
-| 12 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 13 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 14 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 15 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 16 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 17 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 18 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 19 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 20 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
-| 21 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 22 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 24 | [#WhenNoOneIsLooking](http://twitter.com/search?q=%23WhenNoOneIsLooking) | N/A |
-| 25 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 26 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 27 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 3 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 4 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 6 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 7 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 8 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 10 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 11 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 12 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 13 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 14 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 15 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 16 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 17 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 18 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
+| 19 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 20 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 21 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 22 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 23 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 24 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 25 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 26 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 27 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
 | 28 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 29 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 30 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 31 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 32 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 33 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 34 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 35 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
-| 36 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 37 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 38 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 39 | [Teba](http://twitter.com/search?q=Teba) | N/A |
-| 40 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 41 | [Married With Children](http://twitter.com/search?q=Married+With+Children) | N/A |
-| 42 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
-| 43 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 44 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 45 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 46 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
-| 47 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 48 | [Game of the Year](http://twitter.com/search?q=Game+of+the+Year) | N/A |
-| 49 | [Gerudo](http://twitter.com/search?q=Gerudo) | N/A |
-| 50 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 29 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 30 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 31 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
+| 32 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 33 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
+| 34 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 35 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 36 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 37 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 38 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
+| 39 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
+| 40 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 41 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
+| 42 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 43 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 44 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 45 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 46 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 47 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 48 | [Letitia James](http://twitter.com/search?q=Letitia+James) | N/A |
+| 49 | [Dracula](http://twitter.com/search?q=Dracula) | N/A |
+| 50 | [keita](http://twitter.com/search?q=keita) | N/A |
 
 
 

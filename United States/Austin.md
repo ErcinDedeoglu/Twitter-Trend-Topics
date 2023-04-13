@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-13 16:18:13 UTC`
+📆 Last Updated: `2023-04-13 17:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 2 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 3 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 4 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 5 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 6 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 7 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 9 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
-| 10 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
-| 11 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 12 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
-| 13 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
-| 14 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 15 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 16 | [Demise](http://twitter.com/search?q=Demise) | N/A |
-| 17 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 18 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 19 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
-| 20 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 21 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 23 | [#WhenNoOneIsLooking](http://twitter.com/search?q=%23WhenNoOneIsLooking) | N/A |
-| 24 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 25 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 26 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 27 | [DACA](http://twitter.com/search?q=DACA) | N/A |
-| 28 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 29 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
-| 30 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 31 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 32 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 33 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 2 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 3 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 5 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
+| 6 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 7 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 9 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 10 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 11 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 12 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 13 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 14 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 15 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 16 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 17 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
+| 18 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 19 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 20 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 21 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 22 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 23 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 24 | [Air National Guardsman](http://twitter.com/search?q=Air+National+Guardsman) | N/A |
+| 25 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 26 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 27 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 28 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 29 | [Parcells](http://twitter.com/search?q=Parcells) | N/A |
+| 30 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
+| 31 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 32 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 33 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 | 34 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
-| 35 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 36 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 37 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 38 | [Teba](http://twitter.com/search?q=Teba) | N/A |
-| 39 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 40 | [Married With Children](http://twitter.com/search?q=Married+With+Children) | N/A |
-| 41 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
-| 42 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 43 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 44 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 45 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
-| 46 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 47 | [Game of the Year](http://twitter.com/search?q=Game+of+the+Year) | N/A |
-| 48 | [Gerudo](http://twitter.com/search?q=Gerudo) | N/A |
+| 35 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 36 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 37 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
+| 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 39 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
+| 40 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 41 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 42 | [Thug Shaker Central](http://twitter.com/search?q=Thug+Shaker+Central) | N/A |
+| 43 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 44 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 45 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 46 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 47 | [Letitia James](http://twitter.com/search?q=Letitia+James) | N/A |
+| 48 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
 
 
 

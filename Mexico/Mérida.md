@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-04-13 16:17:29 UTC`
+📆 Last Updated: `2023-04-13 17:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,43 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 4 | [#KornoGritón](http://twitter.com/search?q=%23KornoGrit%c3%b3n) | N/A |
-| 5 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 2 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 4 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 5 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
 | 6 | [#PoderosoCampechano](http://twitter.com/search?q=%23PoderosoCampechano) | N/A |
-| 7 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 8 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
-| 9 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 10 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 11 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 13 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 14 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 15 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 16 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
-| 17 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 18 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
-| 19 | [18 Oriente](http://twitter.com/search?q=18+Oriente) | N/A |
-| 20 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 21 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 22 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 23 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 24 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 25 | [we love qsmp](http://twitter.com/search?q=we+love+qsmp) | N/A |
-| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 27 | [Philadelphia Union](http://twitter.com/search?q=Philadelphia+Union) | N/A |
-| 28 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 29 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 30 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 31 | [Enrique Flores Magón](http://twitter.com/search?q=Enrique+Flores+Mag%c3%b3n) | N/A |
-| 32 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 33 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 34 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 35 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 36 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 37 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
-| 38 | [Jueves 13](http://twitter.com/search?q=Jueves+13) | N/A |
-| 39 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 40 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 41 | [Aldo rocha](http://twitter.com/search?q=Aldo+rocha) | N/A |
-| 42 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 43 | [Teresa Castro Corro](http://twitter.com/search?q=Teresa+Castro+Corro) | N/A |
-| 44 | [Leroy Sané](http://twitter.com/search?q=Leroy+San%c3%a9) | N/A |
-| 45 | [Andrea Chávez](http://twitter.com/search?q=Andrea+Ch%c3%a1vez) | N/A |
-| 46 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 47 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 48 | [Revira EU a México](http://twitter.com/search?q=Revira+EU+a+M%c3%a9xico) | N/A |
+| 7 | [#KornoGritón](http://twitter.com/search?q=%23KornoGrit%c3%b3n) | N/A |
+| 8 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 9 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 10 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 11 | [Sadio Mané](http://twitter.com/search?q=Sadio+Man%c3%a9) | N/A |
+| 12 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 13 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 14 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 15 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 16 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 17 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 18 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 19 | [Jueves 13](http://twitter.com/search?q=Jueves+13) | N/A |
+| 20 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 21 | [Andrea Chávez](http://twitter.com/search?q=Andrea+Ch%c3%a1vez) | N/A |
+| 22 | [Moreira](http://twitter.com/search?q=Moreira) | N/A |
+| 23 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 24 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
+| 25 | [Belisario Domínguez](http://twitter.com/search?q=Belisario+Dom%c3%adnguez) | N/A |
+| 26 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 27 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 28 | [Constitución](http://twitter.com/search?q=Constituci%c3%b3n) | N/A |
+| 29 | [Garduño](http://twitter.com/search?q=Gardu%c3%b1o) | N/A |
+| 30 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 31 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
+| 32 | [#comicmañanero](http://twitter.com/search?q=%23comicma%c3%b1anero) | N/A |
+| 33 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
+| 34 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 35 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 36 | [#MareaRosa](http://twitter.com/search?q=%23MareaRosa) | N/A |
+| 37 | [#ConferenciaPresidente](http://twitter.com/search?q=%23ConferenciaPresidente) | N/A |
+| 38 | [#Mañanera](http://twitter.com/search?q=%23Ma%c3%b1anera) | N/A |
 
 
 
