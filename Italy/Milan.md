@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-13 15:17:36 UTC`
+📆 Last Updated: `2023-04-13 16:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,52 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 2 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 3 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 4 | [#Giletti](http://twitter.com/search?q=%23Giletti) | N/A |
-| 5 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 6 | [#giornatamondialedelbacio](http://twitter.com/search?q=%23giornatamondialedelbacio) | N/A |
-| 7 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
-| 8 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 9 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
-| 10 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 11 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 12 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 13 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 14 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 15 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
-| 16 | [Demir](http://twitter.com/search?q=Demir) | N/A |
-| 17 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 18 | [Hurkacz](http://twitter.com/search?q=Hurkacz) | N/A |
-| 19 | [Satta](http://twitter.com/search?q=Satta) | N/A |
-| 20 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
-| 21 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 22 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 23 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 24 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
+| 2 | [#Giletti](http://twitter.com/search?q=%23Giletti) | N/A |
+| 3 | [#edoonair](http://twitter.com/search?q=%23edoonair) | N/A |
+| 4 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 5 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 6 | [#NonelArena](http://twitter.com/search?q=%23NonelArena) | N/A |
+| 7 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 8 | [#giornatamondialedelbacio](http://twitter.com/search?q=%23giornatamondialedelbacio) | N/A |
+| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 10 | [Tancredi](http://twitter.com/search?q=Tancredi) | N/A |
+| 11 | [Djokovic](http://twitter.com/search?q=Djokovic) | Djokovic is a surname of Serbian origin. It is derived from the given name Djoko, which is a diminutive of the name Jovan (John). The meaning of Djokovic in English is "son of John". |
+| 12 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 14 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 15 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 16 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 17 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 18 | [Gianni](http://twitter.com/search?q=Gianni) | N/A |
+| 19 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 20 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 21 | [Letta](http://twitter.com/search?q=Letta) | N/A |
+| 22 | [Richetti](http://twitter.com/search?q=Richetti) | N/A |
+| 23 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 24 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
 | 25 | [Regioni](http://twitter.com/search?q=Regioni) | N/A |
-| 26 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
-| 27 | [Tonali](http://twitter.com/search?q=Tonali) | Tonali is a Nahuatl word meaning “unity” or “oneness.” It is often used to refer to the unity of all things, as well as the interconnectedness of all living beings. It is also used to refer to the idea that all things are connected and part of a larger whole. |
-| 28 | [#MaryQuant](http://twitter.com/search?q=%23MaryQuant) | N/A |
-| 29 | [#13aprile](http://twitter.com/search?q=%2313aprile) | N/A |
-| 30 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 31 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 32 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
-| 33 | [#ItaliaViva](http://twitter.com/search?q=%23ItaliaViva) | N/A |
-| 34 | [#Aouar](http://twitter.com/search?q=%23Aouar) | N/A |
-| 35 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
-| 36 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
-| 37 | [#RolexMonteCarloMasters](http://twitter.com/search?q=%23RolexMonteCarloMasters) | N/A |
-| 38 | [#SerkanÇayoğlu](http://twitter.com/search?q=%23Serkan%c3%87ayo%c4%9flu) | N/A |
+| 26 | [#MaryQuant](http://twitter.com/search?q=%23MaryQuant) | N/A |
+| 27 | [#equatore](http://twitter.com/search?q=%23equatore) | N/A |
+| 28 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 29 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 30 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
+| 31 | [#Musetti](http://twitter.com/search?q=%23Musetti) | N/A |
+| 32 | [#ginevra](http://twitter.com/search?q=%23ginevra) | N/A |
+| 33 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 34 | [#JuliaItuma](http://twitter.com/search?q=%23JuliaItuma) | N/A |
+| 35 | [#13aprile](http://twitter.com/search?q=%2313aprile) | N/A |
+| 36 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
+| 37 | [#Pomeriggio5](http://twitter.com/search?q=%23Pomeriggio5) | N/A |
+| 38 | [#ItaliaViva](http://twitter.com/search?q=%23ItaliaViva) | N/A |
+| 39 | [#aouar](http://twitter.com/search?q=%23aouar) | N/A |
+| 40 | [#italgym](http://twitter.com/search?q=%23italgym) | N/A |
+| 41 | [#Berrettini](http://twitter.com/search?q=%23Berrettini) | N/A |
+| 42 | [#Cannes2023](http://twitter.com/search?q=%23Cannes2023) | N/A |
+| 43 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 44 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
+| 45 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
+| 46 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 47 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
 
 
 

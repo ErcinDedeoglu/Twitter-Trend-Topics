@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-04-13 15:17:28 UTC`
+📆 Last Updated: `2023-04-13 16:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Bruno Viana](http://twitter.com/search?q=Bruno+Viana) | N/A |
 | 2 | [Shein](http://twitter.com/search?q=Shein) | N/A |
 | 3 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 4 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 5 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 6 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 7 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 8 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 5 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 7 | [Ghost](http://twitter.com/search?q=Ghost) | N/A |
+| 8 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 9 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 10 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 11 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 12 | [BOLSONARO INELEGÍVEL](http://twitter.com/search?q=BOLSONARO+INELEG%c3%8dVEL) | N/A |
-| 13 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
-| 14 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 15 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 17 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 18 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 19 | [#ForaAline](http://twitter.com/search?q=%23ForaAline) | N/A |
-| 20 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 21 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
-| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 23 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
-| 24 | [Woongki](http://twitter.com/search?q=Woongki) | N/A |
-| 25 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
-| 26 | [jessie ware](http://twitter.com/search?q=jessie+ware) | N/A |
-| 27 | [#diadobeijo](http://twitter.com/search?q=%23diadobeijo) | N/A |
-| 28 | [#보이즈플래닛](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b) | N/A |
-| 29 | [Negueba](http://twitter.com/search?q=Negueba) | N/A |
-| 30 | [Ituma](http://twitter.com/search?q=Ituma) | N/A |
-| 31 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 32 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 33 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
-| 34 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 35 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 36 | [Taerae](http://twitter.com/search?q=Taerae) | N/A |
-| 37 | [Bruna Griphao](http://twitter.com/search?q=Bruna+Griphao) | N/A |
-| 38 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 39 | [Itachi](http://twitter.com/search?q=Itachi) | N/A |
-| 40 | [Gene Simmons](http://twitter.com/search?q=Gene+Simmons) | N/A |
-| 41 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 42 | [Huawei](http://twitter.com/search?q=Huawei) | N/A |
-| 43 | [Dilma Rousseff](http://twitter.com/search?q=Dilma+Rousseff) | N/A |
-| 44 | [hyuna](http://twitter.com/search?q=hyuna) | Hyuna is a Korean female given name. It is derived from the Sino-Korean word meaning “shining,” and can also be interpreted to mean “intelligent and beautiful.” |
-| 45 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 46 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 47 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 48 | [X-Men](http://twitter.com/search?q=X-Men) | N/A |
-| 49 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
-| 50 | [Xangai](http://twitter.com/search?q=Xangai) | N/A |
+| 10 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 11 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 13 | [IEM Rio](http://twitter.com/search?q=IEM+Rio) | N/A |
+| 14 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 15 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
+| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 17 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 18 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 19 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
+| 20 | [Viih Tube](http://twitter.com/search?q=Viih+Tube) | Viih Tube is a Brazilian YouTube channel created by Viih Rohden. It features videos about beauty, lifestyle, fashion, and other topics related to the life of a young woman. The name Viih Tube is a combination of the creator's name and the word "tube," which is slang for YouTube. In English, Viih Tube means "Viih's YouTube channel." |
+| 21 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 22 | [#diadobeijo](http://twitter.com/search?q=%23diadobeijo) | N/A |
+| 23 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
+| 24 | [BOLSONARO INELEGÍVEL](http://twitter.com/search?q=BOLSONARO+INELEG%c3%8dVEL) | N/A |
+| 25 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 26 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | N/A |
+| 27 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 28 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 29 | [AGUST D IS COMING](http://twitter.com/search?q=AGUST+D+IS+COMING) | N/A |
+| 30 | [Gyuvin](http://twitter.com/search?q=Gyuvin) | N/A |
+| 31 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
+| 32 | [Eliezer](http://twitter.com/search?q=Eliezer) | N/A |
+| 33 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 34 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
+| 35 | [Woongki](http://twitter.com/search?q=Woongki) | N/A |
+| 36 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
+| 37 | [Gunwook](http://twitter.com/search?q=Gunwook) | N/A |
+| 38 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 39 | [Negueba](http://twitter.com/search?q=Negueba) | N/A |
+| 40 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 41 | [Jessie Ware](http://twitter.com/search?q=Jessie+Ware) | N/A |
+| 42 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 43 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 44 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 45 | [Al Nassr](http://twitter.com/search?q=Al+Nassr) | Al Nassr is a Saudi Arabian professional football club based in Riyadh. The name Al Nassr translates to "The Victory" in English. The club was founded in 1955 and has won multiple domestic and international titles, including the Saudi Professional League, the King Cup of Champions, and the Asian Club Championship. |
+| 46 | [Zeldinha](http://twitter.com/search?q=Zeldinha) | N/A |
+| 47 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 48 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 49 | [SEVENTEEN](http://twitter.com/search?q=SEVENTEEN) | SEVENTEEN is a South Korean boy band formed by Pledis Entertainment in 2015. The group consists of thirteen members divided into three sub-units, each with a different area of specialization: hip-hop, vocal, and performance. The group's name is a reference to the number of members in the group. In English, SEVENTEEN means seventeen members. |
+| 50 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaga
 
-📆 Last Updated: `2023-04-13 15:17:38 UTC`
+📆 Last Updated: `2023-04-13 16:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gaming Days](http://twitter.com/search?q=Gaming+Days) | N/A |
+| 1 | [El PP](http://twitter.com/search?q=El+PP) | N/A |
 | 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 3 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 4 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 5 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 6 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 7 | [#Solos13A](http://twitter.com/search?q=%23Solos13A) | N/A |
-| 8 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 3 | [Gaming Days](http://twitter.com/search?q=Gaming+Days) | N/A |
+| 4 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 5 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 6 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 7 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 9 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 10 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 11 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
-| 12 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
-| 13 | [#MinecraftDondeQuieras](http://twitter.com/search?q=%23MinecraftDondeQuieras) | N/A |
-| 14 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 15 | [matthew](http://twitter.com/search?q=matthew) | N/A |
-| 16 | [#KrashxVidal](http://twitter.com/search?q=%23KrashxVidal) | N/A |
-| 17 | [Rafael Gordillo](http://twitter.com/search?q=Rafael+Gordillo) | N/A |
-| 18 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 19 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
-| 20 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 21 | [Marta Sánchez](http://twitter.com/search?q=Marta+S%c3%a1nchez) | N/A |
-| 22 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 23 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 24 | [Del Pino](http://twitter.com/search?q=Del+Pino) | N/A |
-| 25 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 26 | [III Guerra Mundial](http://twitter.com/search?q=III+Guerra+Mundial) | N/A |
-| 27 | [Eva Soriano](http://twitter.com/search?q=Eva+Soriano) | N/A |
-| 28 | [Víctor Erice](http://twitter.com/search?q=V%c3%adctor+Erice) | N/A |
-| 29 | [Huelva](http://twitter.com/search?q=Huelva) | N/A |
-| 30 | [Los Planetas](http://twitter.com/search?q=Los+Planetas) | N/A |
-| 31 | [Carla Simón](http://twitter.com/search?q=Carla+Sim%c3%b3n) | N/A |
-| 32 | [Junts](http://twitter.com/search?q=Junts) | N/A |
-| 33 | [Desokupa](http://twitter.com/search?q=Desokupa) | N/A |
-| 34 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 35 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
-| 36 | [Sindy](http://twitter.com/search?q=Sindy) | N/A |
-| 37 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 38 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
-| 39 | [Juice](http://twitter.com/search?q=Juice) | N/A |
-| 40 | [Torrente](http://twitter.com/search?q=Torrente) | N/A |
-| 41 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 42 | [Santiago Segura](http://twitter.com/search?q=Santiago+Segura) | N/A |
-| 43 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 44 | [Comisión Europea](http://twitter.com/search?q=Comisi%c3%b3n+Europea) | N/A |
-| 45 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
-| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 47 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
-| 48 | [Parque Nacional](http://twitter.com/search?q=Parque+Nacional) | N/A |
+| 10 | [#Solos13A](http://twitter.com/search?q=%23Solos13A) | N/A |
+| 11 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 12 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 13 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 14 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 15 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 16 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 17 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 18 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 19 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 20 | [#LaPromesa](http://twitter.com/search?q=%23LaPromesa) | N/A |
+| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 22 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 23 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 24 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 25 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 26 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 27 | [#MinecraftDondeQuieras](http://twitter.com/search?q=%23MinecraftDondeQuieras) | N/A |
+| 28 | [Eva Soriano](http://twitter.com/search?q=Eva+Soriano) | N/A |
+| 29 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
+| 30 | [Hyundai](http://twitter.com/search?q=Hyundai) | N/A |
+| 31 | [Rafael Gordillo](http://twitter.com/search?q=Rafael+Gordillo) | N/A |
+| 32 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 33 | [Los Planetas](http://twitter.com/search?q=Los+Planetas) | N/A |
+| 34 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 35 | [III Guerra Mundial](http://twitter.com/search?q=III+Guerra+Mundial) | N/A |
+| 36 | [El ÚNICO](http://twitter.com/search?q=El+%c3%9aNICO) | N/A |
+| 37 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 38 | [Croacia](http://twitter.com/search?q=Croacia) | N/A |
+| 39 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 40 | [Exclusiva](http://twitter.com/search?q=Exclusiva) | N/A |
+| 41 | [Holanda](http://twitter.com/search?q=Holanda) | N/A |
+| 42 | [Rafael del Pino](http://twitter.com/search?q=Rafael+del+Pino) | N/A |
+| 43 | [Huelva](http://twitter.com/search?q=Huelva) | N/A |
+| 44 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 45 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 46 | [Ciudad Deportiva](http://twitter.com/search?q=Ciudad+Deportiva) | N/A |
+| 47 | [Sindy](http://twitter.com/search?q=Sindy) | N/A |
+| 48 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 
 
 

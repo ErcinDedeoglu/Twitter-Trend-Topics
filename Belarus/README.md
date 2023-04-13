@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-13 15:18:17 UTC`
+📆 Last Updated: `2023-04-13 16:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,37 +16,32 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 2 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
-| 3 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 4 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | N/A |
-| 5 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 6 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 7 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
-| 8 | [Беларуси](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 9 | [Минске](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | N/A |
-| 10 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 11 | [#TogetherMV](http://twitter.com/search?q=%23TogetherMV) | N/A |
-| 12 | [Тигнари](http://twitter.com/search?q=%d0%a2%d0%b8%d0%b3%d0%bd%d0%b0%d1%80%d0%b8) | N/A |
-| 13 | [Гомельской](http://twitter.com/search?q=%d0%93%d0%be%d0%bc%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 14 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | N/A |
-| 15 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 16 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
-| 17 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
-| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 19 | [бресте](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
-| 20 | [самое](http://twitter.com/search?q=%d1%81%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
-| 21 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
-| 22 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
-| 23 | [#TogetherByDimash](http://twitter.com/search?q=%23TogetherByDimash) | N/A |
-| 24 | [#newmusic](http://twitter.com/search?q=%23newmusic) | N/A |
-| 25 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
-| 26 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 27 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
-| 28 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 29 | [#ГолосВремени](http://twitter.com/search?q=%23%d0%93%d0%be%d0%bb%d0%be%d1%81%d0%92%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8) | N/A |
-| 30 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 31 | [#DimashQudaibergen](http://twitter.com/search?q=%23DimashQudaibergen) | N/A |
-| 32 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
+| 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 3 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 4 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
+| 5 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 6 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 7 | [#Фото](http://twitter.com/search?q=%23%d0%a4%d0%be%d1%82%d0%be) | N/A |
+| 8 | [АААА](http://twitter.com/search?q=%d0%90%d0%90%d0%90%d0%90) | N/A |
+| 9 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 10 | [Дзякую](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
+| 11 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 12 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 13 | [Кавеха](http://twitter.com/search?q=%d0%9a%d0%b0%d0%b2%d0%b5%d1%85%d0%b0) | N/A |
+| 14 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | N/A |
+| 15 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 16 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | N/A |
+| 17 | [согласен](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 18 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 19 | [#newmusic](http://twitter.com/search?q=%23newmusic) | N/A |
+| 20 | [#TogetherMV](http://twitter.com/search?q=%23TogetherMV) | N/A |
+| 21 | [#TogetherByDimash](http://twitter.com/search?q=%23TogetherByDimash) | N/A |
+| 22 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 23 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 24 | [#корольишут](http://twitter.com/search?q=%23%d0%ba%d0%be%d1%80%d0%be%d0%bb%d1%8c%d0%b8%d1%88%d1%83%d1%82) | N/A |
+| 25 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
+| 26 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 27 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
 
 
 

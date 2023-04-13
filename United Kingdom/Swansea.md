@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-04-13 15:17:20 UTC`
+📆 Last Updated: `2023-04-13 16:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 2 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 3 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 4 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
-| 5 | [#IStandWithHenrietta](http://twitter.com/search?q=%23IStandWithHenrietta) | N/A |
-| 6 | [Bo Zenith](http://twitter.com/search?q=Bo+Zenith) | N/A |
-| 7 | [Zenta](http://twitter.com/search?q=Zenta) | N/A |
-| 8 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 1 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 2 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 3 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 4 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 5 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 6 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 8 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
 | 9 | [#AintreeFestival](http://twitter.com/search?q=%23AintreeFestival) | N/A |
-| 10 | [Banbridge](http://twitter.com/search?q=Banbridge) | N/A |
-| 11 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 12 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 15 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 16 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
-| 17 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 18 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 19 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 20 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 21 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
-| 22 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 23 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
-| 24 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
-| 25 | [Saint Roi](http://twitter.com/search?q=Saint+Roi) | N/A |
-| 26 | [Sophia Bush](http://twitter.com/search?q=Sophia+Bush) | N/A |
-| 27 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 28 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
-| 29 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
-| 30 | [David Fairclough](http://twitter.com/search?q=David+Fairclough) | N/A |
-| 31 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
-| 32 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 33 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 34 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 35 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
-| 36 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
-| 37 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 38 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
-| 39 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
-| 40 | [Sadio Mane](http://twitter.com/search?q=Sadio+Mane) | N/A |
-| 41 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 10 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 11 | [Famous Clermont](http://twitter.com/search?q=Famous+Clermont) | N/A |
+| 12 | [#IStandWithHenrietta](http://twitter.com/search?q=%23IStandWithHenrietta) | N/A |
+| 13 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
+| 14 | [#CollectiveNounsInFilmsOrSongs](http://twitter.com/search?q=%23CollectiveNounsInFilmsOrSongs) | N/A |
+| 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 16 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 17 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 18 | [Zenta](http://twitter.com/search?q=Zenta) | N/A |
+| 19 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 20 | [Bo Zenith](http://twitter.com/search?q=Bo+Zenith) | N/A |
+| 21 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 22 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 23 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 24 | [Banbridge](http://twitter.com/search?q=Banbridge) | N/A |
+| 25 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 26 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 27 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 28 | [Sherwood Forest](http://twitter.com/search?q=Sherwood+Forest) | N/A |
+| 29 | [Douglas Talking](http://twitter.com/search?q=Douglas+Talking) | N/A |
+| 30 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 31 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
+| 32 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
+| 33 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
+| 34 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 35 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 36 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 37 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 38 | [Sophia Bush](http://twitter.com/search?q=Sophia+Bush) | N/A |
+| 39 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 40 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 41 | [Warsi](http://twitter.com/search?q=Warsi) | N/A |
 | 42 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 43 | [CAMRA](http://twitter.com/search?q=CAMRA) | N/A |
-| 44 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 45 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
-| 46 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 47 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 48 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 43 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 44 | [Saint Roi](http://twitter.com/search?q=Saint+Roi) | N/A |
+| 45 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 46 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
+| 47 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 48 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
 
 
 

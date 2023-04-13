@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-04-13 15:18:15 UTC`
+📆 Last Updated: `2023-04-13 16:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 2 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 3 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 4 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 5 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 11 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 12 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 13 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 16 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 17 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 18 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 19 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 20 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 21 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 3 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 4 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 5 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 6 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 7 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 8 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 10 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 11 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
+| 12 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 13 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 14 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 15 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 16 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 17 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 18 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 19 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 20 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 21 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 22 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 23 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 24 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 25 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 26 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 27 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 28 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 29 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 30 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 32 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 33 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 34 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 35 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 36 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 37 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 38 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 39 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
-| 40 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 41 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 42 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 43 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
-| 44 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
-| 45 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 46 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 47 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 48 | [Homestuck](http://twitter.com/search?q=Homestuck) | N/A |
-| 49 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 50 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 23 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 24 | [#WhenNoOneIsLooking](http://twitter.com/search?q=%23WhenNoOneIsLooking) | N/A |
+| 25 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 26 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 27 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 28 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 29 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
+| 30 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 31 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 32 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 33 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 34 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 35 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
+| 36 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 37 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 38 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 39 | [Teba](http://twitter.com/search?q=Teba) | N/A |
+| 40 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 41 | [Married With Children](http://twitter.com/search?q=Married+With+Children) | N/A |
+| 42 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
+| 43 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 44 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 45 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 46 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 47 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
+| 48 | [Game of the Year](http://twitter.com/search?q=Game+of+the+Year) | N/A |
+| 49 | [Gerudo](http://twitter.com/search?q=Gerudo) | N/A |
+| 50 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
 
 
 

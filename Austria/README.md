@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-13 15:18:16 UTC`
+📆 Last Updated: `2023-04-13 16:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 1 | [Massenschlägerei](http://twitter.com/search?q=Massenschl%c3%a4gerei) | N/A |
 | 2 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 3 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 4 | [Brunnenmarkt](http://twitter.com/search?q=Brunnenmarkt) | N/A |
-| 5 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
-| 6 | [#oebb](http://twitter.com/search?q=%23oebb) | N/A |
-| 7 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
-| 8 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 9 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 10 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 11 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 3 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 4 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 5 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 6 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
+| 7 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 8 | [#oebb](http://twitter.com/search?q=%23oebb) | N/A |
+| 9 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 10 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
+| 11 | [Armut](http://twitter.com/search?q=Armut) | N/A |
 | 12 | [Auflagen](http://twitter.com/search?q=Auflagen) | N/A |
-| 13 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
+| 13 | [brunnenmarkt](http://twitter.com/search?q=brunnenmarkt) | N/A |
 | 14 | [#Cannabis](http://twitter.com/search?q=%23Cannabis) | N/A |
-| 15 | [plakolm](http://twitter.com/search?q=plakolm) | N/A |
-| 16 | [Störung](http://twitter.com/search?q=St%c3%b6rung) | N/A |
-| 17 | [tagespresse](http://twitter.com/search?q=tagespresse) | N/A |
-| 18 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 19 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 20 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 21 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
-| 22 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 23 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
-| 24 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 25 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 26 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 27 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 28 | [Dialekt](http://twitter.com/search?q=Dialekt) | N/A |
-| 29 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 30 | [Jössas](http://twitter.com/search?q=J%c3%b6ssas) | N/A |
-| 31 | [Grenzkontrollen](http://twitter.com/search?q=Grenzkontrollen) | N/A |
-| 32 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
-| 33 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 34 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 35 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
-| 36 | [Drukos](http://twitter.com/search?q=Drukos) | N/A |
-| 37 | [Wiener Schnitzel](http://twitter.com/search?q=Wiener+Schnitzel) | N/A |
-| 38 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 39 | [Arbeitskräfte](http://twitter.com/search?q=Arbeitskr%c3%a4fte) | N/A |
-| 40 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 41 | [Märchen](http://twitter.com/search?q=M%c3%a4rchen) | N/A |
-| 42 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
-| 43 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
-| 44 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 45 | [Livestream](http://twitter.com/search?q=Livestream) | N/A |
-| 46 | [Konsumenten](http://twitter.com/search?q=Konsumenten) | N/A |
-| 47 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 48 | [Bauer](http://twitter.com/search?q=Bauer) | Bauer is a German surname meaning "farmer" or "peasant". It is also used as a given name. |
-| 49 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
-| 50 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
+| 15 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 16 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
+| 17 | [Störung](http://twitter.com/search?q=St%c3%b6rung) | N/A |
+| 18 | [helmut](http://twitter.com/search?q=helmut) | N/A |
+| 19 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
+| 20 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 21 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 22 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
+| 23 | [Dialekt](http://twitter.com/search?q=Dialekt) | N/A |
+| 24 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
+| 25 | [Mitteln](http://twitter.com/search?q=Mitteln) | N/A |
+| 26 | [Mail](http://twitter.com/search?q=Mail) | N/A |
+| 27 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 28 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 29 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 30 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 31 | [#MCIFCB](http://twitter.com/search?q=%23MCIFCB) | N/A |
+| 32 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 33 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
+| 34 | [tagespresse](http://twitter.com/search?q=tagespresse) | N/A |
+| 35 | [Grenzkontrollen](http://twitter.com/search?q=Grenzkontrollen) | N/A |
+| 36 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 37 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 38 | [Menge](http://twitter.com/search?q=Menge) | N/A |
+| 39 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 40 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
+| 41 | [Karte](http://twitter.com/search?q=Karte) | N/A |
+| 42 | [Blöd](http://twitter.com/search?q=Bl%c3%b6d) | N/A |
+| 43 | [Migration](http://twitter.com/search?q=Migration) | N/A |
+| 44 | [Familien](http://twitter.com/search?q=Familien) | N/A |
+| 45 | [Jugendliche](http://twitter.com/search?q=Jugendliche) | N/A |
+| 46 | [Termin](http://twitter.com/search?q=Termin) | N/A |
+| 47 | [Verantwortlichen](http://twitter.com/search?q=Verantwortlichen) | N/A |
+| 48 | [Technik](http://twitter.com/search?q=Technik) | N/A |
+| 49 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 50 | [Kasperl](http://twitter.com/search?q=Kasperl) | N/A |
 
 
 

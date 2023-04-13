@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-04-13 15:17:17 UTC`
+📆 Last Updated: `2023-04-13 16:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Schumacher](http://twitter.com/search?q=Schumacher) | N/A |
-| 2 | [#bbccricket](http://twitter.com/search?q=%23bbccricket) | N/A |
-| 3 | [#BidenVisit](http://twitter.com/search?q=%23BidenVisit) | N/A |
-| 4 | [#journorequest](http://twitter.com/search?q=%23journorequest) | N/A |
-| 5 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 6 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 8 | [RIP Craig](http://twitter.com/search?q=RIP+Craig) | N/A |
-| 9 | [#IStandWithHenrietta](http://twitter.com/search?q=%23IStandWithHenrietta) | N/A |
-| 10 | [Bo Zenith](http://twitter.com/search?q=Bo+Zenith) | N/A |
-| 11 | [Zenta](http://twitter.com/search?q=Zenta) | N/A |
-| 12 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 13 | [Banbridge](http://twitter.com/search?q=Banbridge) | N/A |
-| 14 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 15 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 16 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 17 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 18 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
-| 19 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 20 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 21 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 22 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 23 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
-| 24 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 25 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
-| 26 | [Saint Roi](http://twitter.com/search?q=Saint+Roi) | N/A |
-| 27 | [Sophia Bush](http://twitter.com/search?q=Sophia+Bush) | N/A |
-| 28 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 29 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
-| 30 | [Rita Ora](http://twitter.com/search?q=Rita+Ora) | N/A |
-| 31 | [David Fairclough](http://twitter.com/search?q=David+Fairclough) | N/A |
-| 32 | [Jim Clark](http://twitter.com/search?q=Jim+Clark) | N/A |
-| 33 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 34 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 35 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 36 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
-| 37 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
-| 38 | [Caicedo](http://twitter.com/search?q=Caicedo) | Caicedo is a Spanish surname derived from the name of a town in the province of Cuenca, Spain. In English, it means "from Caicedo". |
-| 39 | [Peter Davison](http://twitter.com/search?q=Peter+Davison) | N/A |
-| 40 | [Sadio Mane](http://twitter.com/search?q=Sadio+Mane) | N/A |
-| 41 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 42 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 43 | [CAMRA](http://twitter.com/search?q=CAMRA) | N/A |
-| 44 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 45 | [Dan Wootton](http://twitter.com/search?q=Dan+Wootton) | N/A |
-| 46 | [Senna](http://twitter.com/search?q=Senna) | N/A |
-| 47 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 48 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 49 | [Chilly](http://twitter.com/search?q=Chilly) | N/A |
+| 1 | [Stage Star](http://twitter.com/search?q=Stage+Star) | N/A |
+| 2 | [Bud Light](http://twitter.com/search?q=Bud+Light) | N/A |
+| 3 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 4 | [Redfall](http://twitter.com/search?q=Redfall) | Redfall is a term used to describe the fall of a government or regime, usually one that is characterized by bloodshed and violence. It is derived from the color red, which is often associated with revolution and bloodshed. |
+| 5 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 6 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 7 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 8 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 9 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 10 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 11 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 12 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 13 | [#AintreeFestival](http://twitter.com/search?q=%23AintreeFestival) | N/A |
+| 14 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 15 | [Famous Clermont](http://twitter.com/search?q=Famous+Clermont) | N/A |
+| 16 | [#IStandWithHenrietta](http://twitter.com/search?q=%23IStandWithHenrietta) | N/A |
+| 17 | [Ahoy Senor](http://twitter.com/search?q=Ahoy+Senor) | N/A |
+| 18 | [#CollectiveNounsInFilmsOrSongs](http://twitter.com/search?q=%23CollectiveNounsInFilmsOrSongs) | N/A |
+| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 20 | [Brian Hughes](http://twitter.com/search?q=Brian+Hughes) | N/A |
+| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 22 | [Zenta](http://twitter.com/search?q=Zenta) | N/A |
+| 23 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 24 | [Bo Zenith](http://twitter.com/search?q=Bo+Zenith) | N/A |
+| 25 | [Nico](http://twitter.com/search?q=Nico) | N/A |
+| 26 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 27 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 28 | [Banbridge](http://twitter.com/search?q=Banbridge) | N/A |
+| 29 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 30 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 31 | [Sherwood Forest](http://twitter.com/search?q=Sherwood+Forest) | N/A |
+| 32 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 33 | [Douglas Talking](http://twitter.com/search?q=Douglas+Talking) | N/A |
+| 34 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 35 | [Haydock](http://twitter.com/search?q=Haydock) | N/A |
+| 36 | [Afternoon](http://twitter.com/search?q=Afternoon) | N/A |
+| 37 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
+| 38 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 39 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 40 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 41 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 42 | [Sophia Bush](http://twitter.com/search?q=Sophia+Bush) | N/A |
+| 43 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 44 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 45 | [Warsi](http://twitter.com/search?q=Warsi) | N/A |
+| 46 | [Mac Allister](http://twitter.com/search?q=Mac+Allister) | N/A |
+| 47 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 48 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 49 | [Saint Roi](http://twitter.com/search?q=Saint+Roi) | N/A |
 
 
 

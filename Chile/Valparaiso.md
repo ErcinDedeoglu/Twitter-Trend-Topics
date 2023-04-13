@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-13 15:17:25 UTC`
+📆 Last Updated: `2023-04-13 16:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,52 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 2 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 3 | [#40Horas](http://twitter.com/search?q=%2340Horas) | N/A |
-| 4 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 2 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 3 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 5 | [#LaGranAutopiZta](http://twitter.com/search?q=%23LaGranAutopiZta) | N/A |
-| 6 | [#ContigoCHV](http://twitter.com/search?q=%23ContigoCHV) | N/A |
+| 6 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 7 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 8 | [#cafeconnata](http://twitter.com/search?q=%23cafeconnata) | N/A |
-| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
+| 8 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
+| 9 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 10 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
 | 11 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 12 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 13 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
-| 14 | [Hotuiti](http://twitter.com/search?q=Hotuiti) | N/A |
+| 12 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
+| 13 | [Putre](http://twitter.com/search?q=Putre) | N/A |
+| 14 | [ricky](http://twitter.com/search?q=ricky) | N/A |
 | 15 | [Liceo de Aplicación](http://twitter.com/search?q=Liceo+de+Aplicaci%c3%b3n) | N/A |
-| 16 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
-| 17 | [Ugarte](http://twitter.com/search?q=Ugarte) | Ugarte is a Spanish surname. It is derived from the Latin word "Ugatus," which means "yoke." In English, it can be translated to mean "one who is yoked." |
-| 18 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 19 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
-| 20 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 21 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 22 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 23 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 24 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
-| 25 | [Chong](http://twitter.com/search?q=Chong) | N/A |
-| 26 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
-| 27 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
-| 28 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 29 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 16 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 17 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
+| 18 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
+| 19 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 20 | [Diego Ibáñez](http://twitter.com/search?q=Diego+Ib%c3%a1%c3%b1ez) | N/A |
+| 21 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 22 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 23 | [3 Carabineros](http://twitter.com/search?q=3+Carabineros) | N/A |
+| 24 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 25 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
+| 26 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 27 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
+| 28 | [Chong](http://twitter.com/search?q=Chong) | N/A |
+| 29 | [Arica](http://twitter.com/search?q=Arica) | N/A |
 | 30 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 31 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
-| 32 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
-| 33 | [Cuicos](http://twitter.com/search?q=Cuicos) | N/A |
-| 34 | [Enzo Fernández](http://twitter.com/search?q=Enzo+Fern%c3%a1ndez) | N/A |
-| 35 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
-| 36 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 37 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 38 | [Consejo de Defensa del Estado](http://twitter.com/search?q=Consejo+de+Defensa+del+Estado) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 41 | [Arica](http://twitter.com/search?q=Arica) | N/A |
-| 42 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 43 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 44 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 45 | [Pendejos](http://twitter.com/search?q=Pendejos) | N/A |
-| 46 | [Pymes](http://twitter.com/search?q=Pymes) | N/A |
-| 47 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
-| 48 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
-| 49 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 50 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
+| 31 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 33 | [Tsitsipas](http://twitter.com/search?q=Tsitsipas) | Tsitsipas is a Greek surname. It is derived from the Greek word "tsitsi" which means "pearl". In English, it can be translated to mean "pearl-bearer". |
+| 34 | [Donas](http://twitter.com/search?q=Donas) | N/A |
+| 35 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 36 | [Buitre](http://twitter.com/search?q=Buitre) | N/A |
+| 37 | [Providencia](http://twitter.com/search?q=Providencia) | N/A |
+| 38 | [Las 40](http://twitter.com/search?q=Las+40) | N/A |
+| 39 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 40 | [Cañete](http://twitter.com/search?q=Ca%c3%b1ete) | N/A |
+| 41 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 42 | [General Yañez](http://twitter.com/search?q=General+Ya%c3%b1ez) | N/A |
+| 43 | [La Ligua](http://twitter.com/search?q=La+Ligua) | N/A |
+| 44 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
+| 45 | [Alberto Plaza](http://twitter.com/search?q=Alberto+Plaza) | N/A |
+| 46 | [Luka Tudor](http://twitter.com/search?q=Luka+Tudor) | N/A |
+| 47 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 
 
 

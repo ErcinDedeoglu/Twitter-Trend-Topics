@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-04-13 15:18:14 UTC`
+📆 Last Updated: `2023-04-13 16:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 2 | [#FLwx](http://twitter.com/search?q=%23FLwx) | N/A |
-| 3 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 4 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 5 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 8 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 10 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 11 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 13 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 14 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 15 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 17 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 18 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 20 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 21 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 22 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 23 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 24 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 25 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 26 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 27 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 28 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 29 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 1 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 2 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 3 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 4 | [Daytona](http://twitter.com/search?q=Daytona) | N/A |
+| 5 | [Broward](http://twitter.com/search?q=Broward) | N/A |
+| 6 | [#flwx](http://twitter.com/search?q=%23flwx) | N/A |
+| 7 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 8 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 9 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 10 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 11 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 12 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 13 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 14 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 15 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
+| 16 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 17 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
+| 18 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 19 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 20 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 21 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 22 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 23 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 24 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 25 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 26 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 27 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 28 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 29 | [DACA](http://twitter.com/search?q=DACA) | N/A |
 | 30 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 31 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 32 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 33 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 34 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 35 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 36 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 37 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
-| 38 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 39 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 40 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 41 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
-| 42 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
-| 43 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 44 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 45 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 46 | [Homestuck](http://twitter.com/search?q=Homestuck) | N/A |
-| 47 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 48 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 49 | [hiroto](http://twitter.com/search?q=hiroto) | N/A |
+| 31 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 32 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 33 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 34 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 35 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 36 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
+| 37 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 38 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 39 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 40 | [Teba](http://twitter.com/search?q=Teba) | N/A |
+| 41 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 42 | [Married With Children](http://twitter.com/search?q=Married+With+Children) | N/A |
+| 43 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
+| 44 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 45 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 46 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 47 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 48 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
+| 49 | [Game of the Year](http://twitter.com/search?q=Game+of+the+Year) | N/A |
 
 
 

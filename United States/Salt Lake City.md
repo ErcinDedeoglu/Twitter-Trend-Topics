@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-04-13 15:18:13 UTC`
+📆 Last Updated: `2023-04-13 16:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Salt Lake City](http://twitter.com/search?q=Salt+Lake+City) | N/A |
-| 2 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 3 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
-| 4 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 5 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 7 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 8 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 9 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 11 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 12 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 1 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 2 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 3 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 4 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 5 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 6 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [Chinatown](http://twitter.com/search?q=Chinatown) | N/A |
+| 9 | [Cleveland Browns Stadium](http://twitter.com/search?q=Cleveland+Browns+Stadium) | N/A |
+| 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 11 | [Sidon](http://twitter.com/search?q=Sidon) | N/A |
+| 12 | [Breath of the Wild](http://twitter.com/search?q=Breath+of+the+Wild) | N/A |
 | 13 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 14 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 15 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 17 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 18 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 19 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 20 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 21 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 22 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 23 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 24 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 25 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 26 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 27 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 28 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 29 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 30 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
-| 31 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
-| 32 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 33 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 34 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
-| 35 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 36 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 37 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 38 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
-| 39 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 40 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 41 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 42 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
-| 43 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 44 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 45 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 46 | [Homestuck](http://twitter.com/search?q=Homestuck) | N/A |
-| 47 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
-| 48 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 49 | [hiroto](http://twitter.com/search?q=hiroto) | N/A |
+| 14 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 15 | [Demise](http://twitter.com/search?q=Demise) | N/A |
+| 16 | [Zonai](http://twitter.com/search?q=Zonai) | N/A |
+| 17 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 18 | [Hylia](http://twitter.com/search?q=Hylia) | N/A |
+| 19 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 20 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 21 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 22 | [Hyrule](http://twitter.com/search?q=Hyrule) | N/A |
+| 23 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 24 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 25 | [DACA](http://twitter.com/search?q=DACA) | N/A |
+| 26 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
+| 27 | [Matt Mercer](http://twitter.com/search?q=Matt+Mercer) | N/A |
+| 28 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 29 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 30 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 31 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 32 | [King Krule](http://twitter.com/search?q=King+Krule) | N/A |
+| 33 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 34 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 35 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 36 | [Teba](http://twitter.com/search?q=Teba) | N/A |
+| 37 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
+| 38 | [Married With Children](http://twitter.com/search?q=Married+With+Children) | N/A |
+| 39 | [FirstEnergy](http://twitter.com/search?q=FirstEnergy) | N/A |
+| 40 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 41 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
+| 42 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 43 | [Uncle Phil](http://twitter.com/search?q=Uncle+Phil) | N/A |
+| 44 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
+| 45 | [Game of the Year](http://twitter.com/search?q=Game+of+the+Year) | N/A |
+| 46 | [Gerudo](http://twitter.com/search?q=Gerudo) | N/A |
+| 47 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 48 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 49 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
 
 
 
