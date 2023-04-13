@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-13 14:17:40 UTC`
+📆 Last Updated: `2023-04-13 15:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
 | 3 | [eToro](http://twitter.com/search?q=eToro) | N/A |
 | 4 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 5 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 6 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 7 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 5 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 6 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 7 | [Basel](http://twitter.com/search?q=Basel) | N/A |
 | 8 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
 | 9 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
 | 10 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
@@ -40,29 +40,29 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Lugano](http://twitter.com/search?q=Lugano) | N/A |
 | 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 25 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 26 | [Sondersession](http://twitter.com/search?q=Sondersession) | N/A |
-| 27 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 28 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 29 | [armut](http://twitter.com/search?q=armut) | N/A |
-| 30 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 31 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
-| 32 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 33 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
-| 34 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 35 | [Handel](http://twitter.com/search?q=Handel) | N/A |
-| 36 | [Boni](http://twitter.com/search?q=Boni) | N/A |
-| 37 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 38 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 40 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 26 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 27 | [Sondersession](http://twitter.com/search?q=Sondersession) | N/A |
+| 28 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 29 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 30 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 31 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 32 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 33 | [Debakel](http://twitter.com/search?q=Debakel) | N/A |
+| 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 35 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 36 | [Handel](http://twitter.com/search?q=Handel) | N/A |
+| 37 | [Boni](http://twitter.com/search?q=Boni) | N/A |
+| 38 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 40 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 41 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 42 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
 | 43 | [Gelder](http://twitter.com/search?q=Gelder) | N/A |
-| 44 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
-| 45 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
-| 46 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
-| 47 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 48 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 44 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 45 | [Marseille](http://twitter.com/search?q=Marseille) | N/A |
+| 46 | [Stimmen](http://twitter.com/search?q=Stimmen) | N/A |
+| 47 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
 
 
 

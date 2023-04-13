@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-13 14:18:13 UTC`
+📆 Last Updated: `2023-04-13 15:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for Guatemala
 | 23 | [#vamoscremas](http://twitter.com/search?q=%23vamoscremas) | N/A |
 | 24 | [#nelsoncarreras](http://twitter.com/search?q=%23nelsoncarreras) | N/A |
 | 25 | [#todoelmundohabladejamie](http://twitter.com/search?q=%23todoelmundohabladejamie) | N/A |
-| 26 | [fríos](http://twitter.com/search?q=fr%c3%ados) | N/A |
-| 27 | [el trébol](http://twitter.com/search?q=el+tr%c3%a9bol) | N/A |
-| 28 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 29 | [you will make us proud nelson](http://twitter.com/search?q=you+will+make+us+proud+nelson) | N/A |
-| 30 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
-| 31 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 32 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 33 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 34 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
-| 35 | [Cobán Imperial](http://twitter.com/search?q=Cob%c3%a1n+Imperial) | N/A |
-| 36 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 40 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 41 | [guastatoya](http://twitter.com/search?q=guastatoya) | N/A |
-| 42 | [Londres](http://twitter.com/search?q=Londres) | N/A |
-| 43 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
-| 44 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 45 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 46 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
-| 47 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
-| 48 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 49 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
-| 50 | [san vicente pacaya](http://twitter.com/search?q=san+vicente+pacaya) | N/A |
+| 26 | [el trébol](http://twitter.com/search?q=el+tr%c3%a9bol) | N/A |
+| 27 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 28 | [you will make us proud nelson](http://twitter.com/search?q=you+will+make+us+proud+nelson) | N/A |
+| 29 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 30 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 31 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 32 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
+| 33 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
+| 34 | [Cobán Imperial](http://twitter.com/search?q=Cob%c3%a1n+Imperial) | N/A |
+| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 36 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 38 | [guastatoya](http://twitter.com/search?q=guastatoya) | N/A |
+| 39 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
+| 40 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
+| 41 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 42 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 43 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 44 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 45 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
+| 46 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 47 | [Sterling](http://twitter.com/search?q=Sterling) | Sterling is a term used to refer to the British pound, the official currency of the United Kingdom. It is also used to refer to anything of high quality or value. |
+| 48 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 49 | [san vicente pacaya](http://twitter.com/search?q=san+vicente+pacaya) | N/A |
+| 50 | [Doroteo](http://twitter.com/search?q=Doroteo) | N/A |
 
 
 

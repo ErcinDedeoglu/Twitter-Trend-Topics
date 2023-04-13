@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-13 14:18:18 UTC`
+📆 Last Updated: `2023-04-13 15:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Ukraine
 | 3 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
 | 4 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
 | 5 | [#BlackSeaSecurityConference](http://twitter.com/search?q=%23BlackSeaSecurityConference) | N/A |
-| 6 | [UN Security Council](http://twitter.com/search?q=UN+Security+Council) | N/A |
-| 7 | [ИГИЛ](http://twitter.com/search?q=%d0%98%d0%93%d0%98%d0%9b) | N/A |
+| 6 | [ИГИЛ](http://twitter.com/search?q=%d0%98%d0%93%d0%98%d0%9b) | N/A |
+| 7 | [UN Security Council](http://twitter.com/search?q=UN+Security+Council) | N/A |
 | 8 | [одессу](http://twitter.com/search?q=%d0%be%d0%b4%d0%b5%d1%81%d1%81%d1%83) | N/A |
 | 9 | [Hugs](http://twitter.com/search?q=Hugs) | N/A |
 | 10 | [Expected](http://twitter.com/search?q=Expected) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for Ukraine
 | 17 | [Hopeful](http://twitter.com/search?q=Hopeful) | N/A |
 | 18 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 19 | [Exciting](http://twitter.com/search?q=Exciting) | N/A |
-| 20 | [Nikopol](http://twitter.com/search?q=Nikopol) | N/A |
-| 21 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 23 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
-| 24 | [Чечне](http://twitter.com/search?q=%d0%a7%d0%b5%d1%87%d0%bd%d0%b5) | N/A |
-| 25 | [#indiegame](http://twitter.com/search?q=%23indiegame) | N/A |
-| 26 | [Неужели](http://twitter.com/search?q=%d0%9d%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
-| 27 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
-| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 29 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
-| 30 | [#trading](http://twitter.com/search?q=%23trading) | N/A |
-| 31 | [Хочется](http://twitter.com/search?q=%d0%a5%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f) | N/A |
-| 32 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
-| 33 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 34 | [UNSC](http://twitter.com/search?q=UNSC) | N/A |
-| 35 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
-| 36 | [Донецкой](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%be%d0%b9) | N/A |
-| 37 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 38 | [CEXs](http://twitter.com/search?q=CEXs) | N/A |
-| 39 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 20 | [#zkSync](http://twitter.com/search?q=%23zkSync) | N/A |
+| 21 | [nikopol](http://twitter.com/search?q=nikopol) | N/A |
+| 22 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [#лигачемпионов](http://twitter.com/search?q=%23%d0%bb%d0%b8%d0%b3%d0%b0%d1%87%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
+| 25 | [Чечне](http://twitter.com/search?q=%d0%a7%d0%b5%d1%87%d0%bd%d0%b5) | N/A |
+| 26 | [#musicpromotion](http://twitter.com/search?q=%23musicpromotion) | N/A |
+| 27 | [Неужели](http://twitter.com/search?q=%d0%9d%d0%b5%d1%83%d0%b6%d0%b5%d0%bb%d0%b8) | N/A |
+| 28 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
+| 29 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 30 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
+| 31 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 32 | [Хочется](http://twitter.com/search?q=%d0%a5%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f) | N/A |
+| 33 | [Питере](http://twitter.com/search?q=%d0%9f%d0%b8%d1%82%d0%b5%d1%80%d0%b5) | N/A |
+| 34 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 35 | [UNSC](http://twitter.com/search?q=UNSC) | N/A |
+| 36 | [The Guardian](http://twitter.com/search?q=The+Guardian) | N/A |
+| 37 | [Донецкой](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%be%d0%b9) | N/A |
+| 38 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 39 | [CEXs](http://twitter.com/search?q=CEXs) | N/A |
 | 40 | [$TFS](http://twitter.com/search?q=%24TFS) | N/A |
 | 41 | [atacms](http://twitter.com/search?q=atacms) | N/A |
-| 42 | [Марс](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d1%81) | N/A |
-| 43 | [The Washington Post](http://twitter.com/search?q=The+Washington+Post) | N/A |
-| 44 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
-| 45 | [спартак](http://twitter.com/search?q=%d1%81%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%ba) | N/A |
-| 46 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
-| 47 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
-| 48 | [535% APR](http://twitter.com/search?q=535%25+APR) | N/A |
-| 49 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
-| 50 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 42 | [марс](http://twitter.com/search?q=%d0%bc%d0%b0%d1%80%d1%81) | N/A |
+| 43 | [$BTC](http://twitter.com/search?q=%24BTC) | N/A |
+| 44 | [спартак](http://twitter.com/search?q=%d1%81%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%ba) | N/A |
+| 45 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
+| 46 | [Красивая](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%b0%d1%8f) | N/A |
+| 47 | [535% APR](http://twitter.com/search?q=535%25+APR) | N/A |
+| 48 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [POWs](http://twitter.com/search?q=POWs) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-13 14:18:03 UTC`
+📆 Last Updated: `2023-04-13 15:18:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [United States](</United States>)
 | 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 5 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
 | 6 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 7 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 8 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 9 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 10 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 11 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 12 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 13 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 11 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 12 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 13 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 16 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
-| 17 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 18 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
-| 19 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 20 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 21 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 22 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
-| 23 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
-| 24 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 25 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
-| 26 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 27 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 28 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
-| 29 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
-| 30 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 31 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 32 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 33 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
-| 34 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
-| 35 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
-| 36 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 37 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 38 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
-| 39 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
-| 40 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
-| 41 | [hiroto](http://twitter.com/search?q=hiroto) | N/A |
-| 42 | [Peekaboo](http://twitter.com/search?q=Peekaboo) | N/A |
-| 43 | [Kishimoto](http://twitter.com/search?q=Kishimoto) | N/A |
+| 15 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 16 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 17 | [PBS and NPR](http://twitter.com/search?q=PBS+and+NPR) | N/A |
+| 18 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 19 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 20 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 21 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 22 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 23 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 24 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 25 | [NPR and PBS](http://twitter.com/search?q=NPR+and+PBS) | N/A |
+| 26 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 27 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 28 | [Married with Children](http://twitter.com/search?q=Married+with+Children) | N/A |
+| 29 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 30 | [Sinclair](http://twitter.com/search?q=Sinclair) | N/A |
+| 31 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 32 | [Daily Quordle 444](http://twitter.com/search?q=Daily+Quordle+444) | N/A |
+| 33 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 34 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 35 | [South Florida](http://twitter.com/search?q=South+Florida) | N/A |
+| 36 | [zhang hao](http://twitter.com/search?q=zhang+hao) | N/A |
+| 37 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 38 | [Al Green](http://twitter.com/search?q=Al+Green) | N/A |
+| 39 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 40 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 41 | [Al Bundy](http://twitter.com/search?q=Al+Bundy) | N/A |
+| 42 | [Cannes](http://twitter.com/search?q=Cannes) | N/A |
+| 43 | [4% ABV](http://twitter.com/search?q=4%25+ABV) | N/A |
 | 44 | [WaPo](http://twitter.com/search?q=WaPo) | N/A |
-| 45 | [Thomas Jefferson](http://twitter.com/search?q=Thomas+Jefferson) | N/A |
-| 46 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 47 | [Fifth Circuit](http://twitter.com/search?q=Fifth+Circuit) | N/A |
-| 48 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 49 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 45 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 46 | [Seowon](http://twitter.com/search?q=Seowon) | N/A |
+| 47 | [5th Circuit](http://twitter.com/search?q=5th+Circuit) | N/A |
+| 48 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 49 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
 
 
 

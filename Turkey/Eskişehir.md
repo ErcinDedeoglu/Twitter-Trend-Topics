@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-04-13 14:18:01 UTC`
+📆 Last Updated: `2023-04-13 15:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ÇöküşEkonomisi](http://twitter.com/search?q=%23%c3%87%c3%b6k%c3%bc%c5%9fEkonomisi) | N/A |
-| 2 | [CbPomemde YasEsnetin](http://twitter.com/search?q=CbPomemde+YasEsnetin) | N/A |
-| 3 | [sncb30donempomememujde](http://twitter.com/search?q=sncb30donempomememujde) | N/A |
-| 4 | [Seninkini](http://twitter.com/search?q=Seninkini) | N/A |
-| 5 | [#ProjeYalanTabelaGerçek](http://twitter.com/search?q=%23ProjeYalanTabelaGer%c3%a7ek) | N/A |
-| 6 | [#pdryeyeninormekatama](http://twitter.com/search?q=%23pdryeyeninormekatama) | N/A |
-| 7 | [Togg](http://twitter.com/search?q=Togg) | N/A |
-| 8 | [#pomem30hemen](http://twitter.com/search?q=%23pomem30hemen) | N/A |
+| 1 | [#RecepTayyipErdoğan](http://twitter.com/search?q=%23RecepTayyipErdo%c4%9fan) | N/A |
+| 2 | [#ÇöküşEkonomisi](http://twitter.com/search?q=%23%c3%87%c3%b6k%c3%bc%c5%9fEkonomisi) | N/A |
+| 3 | [CbPomemde YasEsnetin](http://twitter.com/search?q=CbPomemde+YasEsnetin) | N/A |
+| 4 | [sncb30donempomememujde](http://twitter.com/search?q=sncb30donempomememujde) | N/A |
+| 5 | [Seninkini](http://twitter.com/search?q=Seninkini) | N/A |
+| 6 | [#ProjeYalanTabelaGerçek](http://twitter.com/search?q=%23ProjeYalanTabelaGer%c3%a7ek) | N/A |
+| 7 | [#pdryeyeninormekatama](http://twitter.com/search?q=%23pdryeyeninormekatama) | N/A |
+| 8 | [Togg](http://twitter.com/search?q=Togg) | N/A |
 | 9 | [Mahkeme](http://twitter.com/search?q=Mahkeme) | N/A |
-| 10 | [Varank](http://twitter.com/search?q=Varank) | N/A |
-| 11 | [TÜRKİYE YÜZYILI BAŞLIYOR](http://twitter.com/search?q=T%c3%9cRK%c4%b0YE+Y%c3%9cZYILI+BA%c5%9eLIYOR) | N/A |
-| 12 | [Mazbut Vakıflar](http://twitter.com/search?q=Mazbut+Vak%c4%b1flar) | N/A |
-| 13 | [Volkan Bayarslan](http://twitter.com/search?q=Volkan+Bayarslan) | N/A |
-| 14 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
+| 10 | [Haluk Levent](http://twitter.com/search?q=Haluk+Levent) | N/A |
+| 11 | [Varank](http://twitter.com/search?q=Varank) | N/A |
+| 12 | [TÜRKİYE YÜZYILI BAŞLIYOR](http://twitter.com/search?q=T%c3%9cRK%c4%b0YE+Y%c3%9cZYILI+BA%c5%9eLIYOR) | N/A |
+| 13 | [Mazbut Vakıflar](http://twitter.com/search?q=Mazbut+Vak%c4%b1flar) | N/A |
+| 14 | [Volkan Bayarslan](http://twitter.com/search?q=Volkan+Bayarslan) | N/A |
 | 15 | [Fakir](http://twitter.com/search?q=Fakir) | N/A |
-| 16 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
-| 17 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
-| 18 | [ÇYDD](http://twitter.com/search?q=%c3%87YDD) | N/A |
+| 16 | [Julia Ituma](http://twitter.com/search?q=Julia+Ituma) | N/A |
+| 17 | [ÇYDD](http://twitter.com/search?q=%c3%87YDD) | N/A |
+| 18 | [Fazıl](http://twitter.com/search?q=Faz%c4%b1l) | N/A |
 | 19 | [Atilla Karaoğlan](http://twitter.com/search?q=Atilla+Karao%c4%9flan) | Atilla Karaoğlan is a Turkish folk hero and the protagonist of a popular epic poem. The name Atilla Karaoğlan translates to "Atilla the Brave" in English. The poem tells the story of Atilla's heroic deeds and his struggles against injustice. |
-| 20 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
-| 21 | [Demet Özdemir](http://twitter.com/search?q=Demet+%c3%96zdemir) | N/A |
-| 22 | [İçişleri Bakanlığı'ndan 81](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakanl%c4%b1%c4%9f%c4%b1%27ndan+81) | N/A |
-| 23 | [Görgüsüzlük](http://twitter.com/search?q=G%c3%b6rg%c3%bcs%c3%bczl%c3%bck) | N/A |
-| 24 | [Cunda Adası](http://twitter.com/search?q=Cunda+Adas%c4%b1) | N/A |
-| 25 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
+| 20 | [Jelibon](http://twitter.com/search?q=Jelibon) | N/A |
+| 21 | [Nagehan](http://twitter.com/search?q=Nagehan) | Nagehan is a Turkish female name, derived from the Arabic word najah, which means “success” or “victory”. In English, it can be translated to mean “successful” or “victorious”. |
+| 22 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 23 | [İçişleri Bakanlığı'ndan 81](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakanl%c4%b1%c4%9f%c4%b1%27ndan+81) | N/A |
+| 24 | [Görgüsüzlük](http://twitter.com/search?q=G%c3%b6rg%c3%bcs%c3%bczl%c3%bck) | N/A |
+| 25 | [Cunda Adası](http://twitter.com/search?q=Cunda+Adas%c4%b1) | N/A |
 | 26 | [Namussuz Siyaset](http://twitter.com/search?q=Namussuz+Siyaset) | N/A |
-| 27 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
-| 28 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
-| 29 | [Emin Çapa](http://twitter.com/search?q=Emin+%c3%87apa) | N/A |
-| 30 | [14 Nisan Cuma](http://twitter.com/search?q=14+Nisan+Cuma) | N/A |
-| 31 | [Oğuzhan Koç](http://twitter.com/search?q=O%c4%9fuzhan+Ko%c3%a7) | N/A |
-| 32 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 27 | [Adıyaman](http://twitter.com/search?q=Ad%c4%b1yaman) | N/A |
+| 28 | [Demet Özdemir](http://twitter.com/search?q=Demet+%c3%96zdemir) | N/A |
+| 29 | [Nadir](http://twitter.com/search?q=Nadir) | N/A |
+| 30 | [Emin Çapa](http://twitter.com/search?q=Emin+%c3%87apa) | N/A |
+| 31 | [Kürtçe](http://twitter.com/search?q=K%c3%bcrt%c3%a7e) | N/A |
+| 32 | [Oğuzhan Koç](http://twitter.com/search?q=O%c4%9fuzhan+Ko%c3%a7) | N/A |
 | 33 | [ERDOĞAN KAZANACAK](http://twitter.com/search?q=ERDO%c4%9eAN+KAZANACAK) | N/A |
-| 34 | [Numan](http://twitter.com/search?q=Numan) | N/A |
-| 35 | [Tarifeli](http://twitter.com/search?q=Tarifeli) | N/A |
-| 36 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
-| 37 | [Sayın Bakan](http://twitter.com/search?q=Say%c4%b1n+Bakan) | N/A |
-| 38 | [Kına](http://twitter.com/search?q=K%c4%b1na) | N/A |
+| 34 | [14 Nisan Cuma](http://twitter.com/search?q=14+Nisan+Cuma) | N/A |
+| 35 | [Numan](http://twitter.com/search?q=Numan) | N/A |
+| 36 | [Tarifeli](http://twitter.com/search?q=Tarifeli) | N/A |
+| 37 | [Nevzat](http://twitter.com/search?q=Nevzat) | N/A |
+| 38 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
 | 39 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 40 | [Sarayın](http://twitter.com/search?q=Saray%c4%b1n) | N/A |
-| 41 | [Saati 12](http://twitter.com/search?q=Saati+12) | N/A |
-| 42 | [Muleka](http://twitter.com/search?q=Muleka) | Muleka is a Swahili word that means "child" or "offspring". It is often used as a term of endearment for a young person. |
-| 43 | [Cumhurbaşkanlığı](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
-| 44 | [güney kore](http://twitter.com/search?q=g%c3%bcney+kore) | N/A |
-| 45 | [AFyoksa OydaYok](http://twitter.com/search?q=AFyoksa+OydaYok) | N/A |
-| 46 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
-| 47 | [tl'ye](http://twitter.com/search?q=tl%27ye) | N/A |
-| 48 | [15 Nisan Cumartesi](http://twitter.com/search?q=15+Nisan+Cumartesi) | N/A |
+| 40 | [Kına](http://twitter.com/search?q=K%c4%b1na) | N/A |
+| 41 | [Cumhurbaşkanlığı](http://twitter.com/search?q=Cumhurba%c5%9fkanl%c4%b1%c4%9f%c4%b1) | N/A |
+| 42 | [Sarayın](http://twitter.com/search?q=Saray%c4%b1n) | N/A |
+| 43 | [Saati 12](http://twitter.com/search?q=Saati+12) | N/A |
+| 44 | [Sayın Bakan](http://twitter.com/search?q=Say%c4%b1n+Bakan) | N/A |
+| 45 | [Muleka](http://twitter.com/search?q=Muleka) | Muleka is a Swahili word that means "child" or "offspring". It is often used as a term of endearment for a young person. |
+| 46 | [Güney Kore](http://twitter.com/search?q=G%c3%bcney+Kore) | N/A |
+| 47 | [Türkçülük](http://twitter.com/search?q=T%c3%bcrk%c3%a7%c3%bcl%c3%bck) | N/A |
+| 48 | [tl'ye](http://twitter.com/search?q=tl%27ye) | N/A |
 
 
 

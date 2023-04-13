@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-04-13 14:17:49 UTC`
+📆 Last Updated: `2023-04-13 15:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 2 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 3 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 4 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 5 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 6 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 7 | [AlexaSRH Summer Remix](http://twitter.com/search?q=AlexaSRH+Summer+Remix) | N/A |
-| 8 | [#StayRightHereRemix](http://twitter.com/search?q=%23StayRightHereRemix) | N/A |
-| 9 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 10 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 11 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 12 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
-| 13 | [#WalangPasok](http://twitter.com/search?q=%23WalangPasok) | N/A |
-| 14 | [SUPERIORITY PerformanceVideo](http://twitter.com/search?q=SUPERIORITY+PerformanceVideo) | N/A |
-| 15 | [#FLOWER3rdWin](http://twitter.com/search?q=%23FLOWER3rdWin) | N/A |
-| 16 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
-| 17 | [#Puregold25Years](http://twitter.com/search?q=%23Puregold25Years) | N/A |
-| 18 | [Wang Zihao](http://twitter.com/search?q=Wang+Zihao) | N/A |
-| 19 | [cRUSSh Ng Bayan](http://twitter.com/search?q=cRUSSh+Ng+Bayan) | N/A |
-| 20 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 21 | [True Baptism](http://twitter.com/search?q=True+Baptism) | N/A |
-| 22 | [JUNHOE AS YANG JINHO](http://twitter.com/search?q=JUNHOE+AS+YANG+JINHO) | N/A |
-| 23 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
-| 24 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 25 | [hiroto](http://twitter.com/search?q=hiroto) | N/A |
-| 26 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
-| 27 | [FLUSTERED ChiCo](http://twitter.com/search?q=FLUSTERED+ChiCo) | N/A |
-| 28 | [DavidXKaren OnYoutube](http://twitter.com/search?q=DavidXKaren+OnYoutube) | N/A |
-| 29 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
-| 30 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 1 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
+| 2 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
+| 3 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
+| 4 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 5 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 6 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 7 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 8 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 9 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 10 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 11 | [#StayRightHereRemix](http://twitter.com/search?q=%23StayRightHereRemix) | N/A |
+| 12 | [AlexaSRH Summer Remix](http://twitter.com/search?q=AlexaSRH+Summer+Remix) | N/A |
+| 13 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 14 | [#DLPanic](http://twitter.com/search?q=%23DLPanic) | N/A |
+| 15 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 16 | [SUPERIORITY PerformanceVideo](http://twitter.com/search?q=SUPERIORITY+PerformanceVideo) | N/A |
+| 17 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 18 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
+| 19 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 20 | [JUNHOE AS YANG JINHO](http://twitter.com/search?q=JUNHOE+AS+YANG+JINHO) | N/A |
+| 21 | [Wang Zihao](http://twitter.com/search?q=Wang+Zihao) | N/A |
+| 22 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 23 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 24 | [cRUSSh Ng Bayan](http://twitter.com/search?q=cRUSSh+Ng+Bayan) | N/A |
+| 25 | [Yeontan](http://twitter.com/search?q=Yeontan) | Yeontan is the name of a pet dog owned by South Korean singer and actor Kim Taehyung, also known as V from the K-pop group BTS. The name Yeontan is a combination of the Korean words for “shadow” (yeon) and “fire” (tan). In English, it can be translated to mean “shadow fire.” |
+| 26 | [FLUSTERED ChiCo](http://twitter.com/search?q=FLUSTERED+ChiCo) | N/A |
+| 27 | [hiroto](http://twitter.com/search?q=hiroto) | N/A |
+| 28 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
+| 29 | [DavidXKaren OnYoutube](http://twitter.com/search?q=DavidXKaren+OnYoutube) | N/A |
+| 30 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
 | 31 | [D-1 TO PARAISO](http://twitter.com/search?q=D-1+TO+PARAISO) | N/A |
-| 32 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
-| 33 | [CutiePIE EIAN IS BACK](http://twitter.com/search?q=CutiePIE+EIAN+IS+BACK) | N/A |
-| 34 | [MUSICAL WONDERMAN KD](http://twitter.com/search?q=MUSICAL+WONDERMAN+KD) | N/A |
-| 35 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 36 | [Taetae](http://twitter.com/search?q=Taetae) | Taetae is a Korean term of endearment used to refer to someone close to you, such as a friend or family member. It is similar to the English terms "honey" or "sweetheart". |
-| 37 | [Crystal](http://twitter.com/search?q=Crystal) | N/A |
-| 38 | [Pabulong](http://twitter.com/search?q=Pabulong) | N/A |
-| 39 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
-| 40 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 41 | [D1 KDLEXPETA COMEBACK](http://twitter.com/search?q=D1+KDLEXPETA+COMEBACK) | N/A |
-| 42 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 43 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 44 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 45 | [Luzon](http://twitter.com/search?q=Luzon) | N/A |
-| 46 | [R to V](http://twitter.com/search?q=R+to+V) | N/A |
-| 47 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
+| 32 | [Pabulong](http://twitter.com/search?q=Pabulong) | N/A |
+| 33 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
+| 34 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 35 | [Taetae](http://twitter.com/search?q=Taetae) | Taetae is a Korean term of endearment used to refer to someone close to you, such as a friend or family member. It is similar to the English terms "honey" or "sweetheart". |
+| 36 | [Crystal](http://twitter.com/search?q=Crystal) | N/A |
+| 37 | [FML 4M PRE ORDER](http://twitter.com/search?q=FML+4M+PRE+ORDER) | N/A |
+| 38 | [D1 KDLEXPETA COMEBACK](http://twitter.com/search?q=D1+KDLEXPETA+COMEBACK) | N/A |
+| 39 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 40 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
+| 41 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 42 | [Luzon](http://twitter.com/search?q=Luzon) | N/A |
+| 43 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
+| 44 | [#WalangPasok](http://twitter.com/search?q=%23WalangPasok) | N/A |
+| 45 | [#FLOWER3rdWin](http://twitter.com/search?q=%23FLOWER3rdWin) | N/A |
+| 46 | [#TrueToLoveEP2](http://twitter.com/search?q=%23TrueToLoveEP2) | N/A |
+| 47 | [#보라데보라_EP2](http://twitter.com/search?q=%23%eb%b3%b4%eb%9d%bc%eb%8d%b0%eb%b3%b4%eb%9d%bc_EP2) | N/A |
 
 
 

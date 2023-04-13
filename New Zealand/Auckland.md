@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-13 14:18:02 UTC`
+📆 Last Updated: `2023-04-13 15:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 7 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
 | 8 | [Shaneel Lal](http://twitter.com/search?q=Shaneel+Lal) | N/A |
 | 9 | [Brown](http://twitter.com/search?q=Brown) | N/A |
-| 10 | [Queen](http://twitter.com/search?q=Queen) | N/A |
-| 11 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 12 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 13 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 10 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 11 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
+| 12 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 13 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 14 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 15 | [#PortfolioDay](http://twitter.com/search?q=%23PortfolioDay) | #PortfolioDay is an online event that takes place on the first Tuesday of every month. It is a day for creatives to share their work and connect with other professionals in the industry. The purpose of #PortfolioDay is to showcase creative work, provide feedback, and build relationships with other creatives. |
 | 16 | [Council](http://twitter.com/search?q=Council) | N/A |
@@ -40,17 +40,17 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 23 | [Goff](http://twitter.com/search?q=Goff) | Goff is a slang term used to describe someone who is socially awkward or clumsy. It is derived from the acronym "GOFF," which stands for "geeky, odd, funny, and/or freaky." |
 | 24 | [Anne Perry](http://twitter.com/search?q=Anne+Perry) | N/A |
 | 25 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
-| 26 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
+| 26 | [ricky](http://twitter.com/search?q=ricky) | N/A |
 | 27 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
 | 28 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
 | 29 | [Judith](http://twitter.com/search?q=Judith) | N/A |
 | 30 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 31 | [#Wellington](http://twitter.com/search?q=%23Wellington) | N/A |
-| 32 | [Maori](http://twitter.com/search?q=Maori) | N/A |
-| 33 | [Rats](http://twitter.com/search?q=Rats) | N/A |
-| 34 | [te mana o te wai](http://twitter.com/search?q=te+mana+o+te+wai) | N/A |
-| 35 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 36 | [California](http://twitter.com/search?q=California) | N/A |
+| 32 | [Rats](http://twitter.com/search?q=Rats) | N/A |
+| 33 | [te mana o te wai](http://twitter.com/search?q=te+mana+o+te+wai) | N/A |
+| 34 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 35 | [California](http://twitter.com/search?q=California) | N/A |
+| 36 | [Maori](http://twitter.com/search?q=Maori) | N/A |
 | 37 | [Government](http://twitter.com/search?q=Government) | N/A |
 | 38 | [Canterbury](http://twitter.com/search?q=Canterbury) | N/A |
 | 39 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Durban
 
-📆 Last Updated: `2023-04-13 14:17:52 UTC`
+📆 Last Updated: `2023-04-13 15:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [South Africa](</South Africa>)
 | 6 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
 | 7 | [Moshe](http://twitter.com/search?q=Moshe) | N/A |
 | 8 | [UNSTOPPABLE KHOSI](http://twitter.com/search?q=UNSTOPPABLE+KHOSI) | N/A |
-| 9 | [Annie](http://twitter.com/search?q=Annie) | N/A |
-| 10 | [Kgosi Mampuru](http://twitter.com/search?q=Kgosi+Mampuru) | N/A |
-| 11 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 12 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 13 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 14 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 15 | [UNFILTERED WITH TSATSII](http://twitter.com/search?q=UNFILTERED+WITH+TSATSII) | N/A |
-| 16 | [Kokstad](http://twitter.com/search?q=Kokstad) | N/A |
-| 17 | [Chriselda](http://twitter.com/search?q=Chriselda) | N/A |
-| 18 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 19 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
-| 20 | [Lanseria](http://twitter.com/search?q=Lanseria) | N/A |
-| 21 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
-| 22 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 9 | [Kgosi Mampuru](http://twitter.com/search?q=Kgosi+Mampuru) | N/A |
+| 10 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 11 | [Annie](http://twitter.com/search?q=Annie) | N/A |
+| 12 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 13 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
+| 14 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 15 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 16 | [UNFILTERED WITH TSATSII](http://twitter.com/search?q=UNFILTERED+WITH+TSATSII) | N/A |
+| 17 | [Kokstad](http://twitter.com/search?q=Kokstad) | N/A |
+| 18 | [Chriselda](http://twitter.com/search?q=Chriselda) | N/A |
+| 19 | [The Crown](http://twitter.com/search?q=The+Crown) | N/A |
+| 20 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 21 | [Ruan](http://twitter.com/search?q=Ruan) | N/A |
+| 22 | [Lanseria](http://twitter.com/search?q=Lanseria) | N/A |
 | 23 | [1 DAY TO JUICY JAY GRADUATION](http://twitter.com/search?q=1+DAY+TO+JUICY+JAY+GRADUATION) | N/A |
-| 24 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 25 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
-| 26 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 27 | [Karoo](http://twitter.com/search?q=Karoo) | N/A |
-| 28 | [Glynnis Breytenbach](http://twitter.com/search?q=Glynnis+Breytenbach) | N/A |
-| 29 | [JUICY JAY X GRADUATION ZONE](http://twitter.com/search?q=JUICY+JAY+X+GRADUATION+ZONE) | N/A |
-| 30 | [thabang today and forever](http://twitter.com/search?q=thabang+today+and+forever) | N/A |
-| 31 | [tsatsii is loved](http://twitter.com/search?q=tsatsii+is+loved) | N/A |
-| 32 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 33 | [GRACEFUL KHOSI](http://twitter.com/search?q=GRACEFUL+KHOSI) | N/A |
+| 24 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 25 | [Bloemfontein](http://twitter.com/search?q=Bloemfontein) | N/A |
+| 26 | [Glynnis Breytenbach](http://twitter.com/search?q=Glynnis+Breytenbach) | N/A |
+| 27 | [JUICY JAY X GRADUATION ZONE](http://twitter.com/search?q=JUICY+JAY+X+GRADUATION+ZONE) | N/A |
+| 28 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 29 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 30 | [Karoo](http://twitter.com/search?q=Karoo) | N/A |
+| 31 | [thabang today and forever](http://twitter.com/search?q=thabang+today+and+forever) | N/A |
+| 32 | [tsatsii is loved](http://twitter.com/search?q=tsatsii+is+loved) | N/A |
+| 33 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 | 34 | [President Cyril Ramaphosa](http://twitter.com/search?q=President+Cyril+Ramaphosa) | N/A |
 | 35 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
 | 36 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 37 | [minister of electricity](http://twitter.com/search?q=minister+of+electricity) | N/A |
-| 38 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Thabiso](http://twitter.com/search?q=Thabiso) | N/A |
-| 41 | [Ananias Mathe](http://twitter.com/search?q=Ananias+Mathe) | N/A |
-| 42 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 43 | [chippa](http://twitter.com/search?q=chippa) | N/A |
-| 44 | [De Ruyter](http://twitter.com/search?q=De+Ruyter) | N/A |
-| 45 | [JICS](http://twitter.com/search?q=JICS) | N/A |
-| 46 | [TBANGERS 2K CHALLENGE](http://twitter.com/search?q=TBANGERS+2K+CHALLENGE) | N/A |
-| 47 | [Raptor](http://twitter.com/search?q=Raptor) | N/A |
-| 48 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 49 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 50 | [Bushiri](http://twitter.com/search?q=Bushiri) | N/A |
+| 37 | [GRACEFUL KHOSI](http://twitter.com/search?q=GRACEFUL+KHOSI) | N/A |
+| 38 | [minister of electricity](http://twitter.com/search?q=minister+of+electricity) | N/A |
+| 39 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [Thabiso](http://twitter.com/search?q=Thabiso) | N/A |
+| 42 | [Ananias Mathe](http://twitter.com/search?q=Ananias+Mathe) | N/A |
+| 43 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 44 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 45 | [TBANGERS 2K CHALLENGE](http://twitter.com/search?q=TBANGERS+2K+CHALLENGE) | N/A |
+| 46 | [JICS](http://twitter.com/search?q=JICS) | N/A |
+| 47 | [Dyantyi](http://twitter.com/search?q=Dyantyi) | N/A |
+| 48 | [Raptor](http://twitter.com/search?q=Raptor) | N/A |
+| 49 | [Chippa](http://twitter.com/search?q=Chippa) | N/A |
+| 50 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
 
 
 

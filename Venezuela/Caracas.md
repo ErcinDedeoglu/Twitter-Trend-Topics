@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Caracas
 
-📆 Last Updated: `2023-04-13 14:17:30 UTC`
+📆 Last Updated: `2023-04-13 15:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 9 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
 | 10 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
 | 11 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
-| 12 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 13 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 14 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
-| 15 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 16 | [#13DeAbril](http://twitter.com/search?q=%2313DeAbril) | N/A |
+| 12 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 13 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 14 | [#13DeAbril](http://twitter.com/search?q=%2313DeAbril) | N/A |
+| 15 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 16 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
 | 17 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
 | 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 19 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 20 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
-| 21 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
+| 20 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
+| 21 | [Milicia Nacional Bolivariana](http://twitter.com/search?q=Milicia+Nacional+Bolivariana) | N/A |
 | 22 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
-| 23 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 24 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 25 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
-| 26 | [Día Internacional del Beso](http://twitter.com/search?q=D%c3%ada+Internacional+del+Beso) | N/A |
-| 27 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 28 | [Francisco Linares Alcántara](http://twitter.com/search?q=Francisco+Linares+Alc%c3%a1ntara) | N/A |
+| 23 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
+| 24 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
+| 25 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
+| 26 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
+| 27 | [Día Internacional del Beso](http://twitter.com/search?q=D%c3%ada+Internacional+del+Beso) | N/A |
+| 28 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
 | 29 | [Av. Libertador](http://twitter.com/search?q=Av.+Libertador) | N/A |
-| 30 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 31 | [Luis Arráez](http://twitter.com/search?q=Luis+Arr%c3%a1ez) | N/A |
-| 32 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 33 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 32 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 33 | [Francisco Linares Alcántara](http://twitter.com/search?q=Francisco+Linares+Alc%c3%a1ntara) | N/A |
 | 34 | [Consejo Nacional Electoral](http://twitter.com/search?q=Consejo+Nacional+Electoral) | N/A |
 | 35 | [Infierno](http://twitter.com/search?q=Infierno) | N/A |
-| 36 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 37 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 36 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 37 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
 | 38 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
 | 39 | [Las Tres Gracias](http://twitter.com/search?q=Las+Tres+Gracias) | N/A |
-| 40 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 41 | [Aldemaro Romero](http://twitter.com/search?q=Aldemaro+Romero) | N/A |
-| 42 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
-| 43 | [Mariela Alcalá](http://twitter.com/search?q=Mariela+Alcal%c3%a1) | N/A |
-| 44 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 45 | [Discos](http://twitter.com/search?q=Discos) | N/A |
-| 46 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 47 | [Arda](http://twitter.com/search?q=Arda) | Arda is a term used in J.R.R. Tolkien's fantasy world of Middle-earth, referring to the world itself and its inhabitants. It is derived from the Quenya word arda, meaning "region" or "realm". |
-| 48 | [Benjamín Rausseo](http://twitter.com/search?q=Benjam%c3%adn+Rausseo) | N/A |
-| 49 | [Carmen Julia Alvarez](http://twitter.com/search?q=Carmen+Julia+Alvarez) | N/A |
-| 50 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 40 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 41 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
+| 42 | [Codo](http://twitter.com/search?q=Codo) | N/A |
+| 43 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 44 | [aldemaro romero](http://twitter.com/search?q=aldemaro+romero) | N/A |
+| 45 | [Rubio](http://twitter.com/search?q=Rubio) | N/A |
+| 46 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
+| 47 | [Mariela Alcalá](http://twitter.com/search?q=Mariela+Alcal%c3%a1) | N/A |
+| 48 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 49 | [Discos](http://twitter.com/search?q=Discos) | N/A |
+| 50 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
 
 
 

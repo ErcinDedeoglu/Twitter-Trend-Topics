@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-13 14:17:36 UTC`
+📆 Last Updated: `2023-04-13 15:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Germany](</Germany>)
 | 5 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
 | 6 | [#KampfderRealityStars](http://twitter.com/search?q=%23KampfderRealityStars) | N/A |
 | 7 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 8 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 9 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 10 | [RICKY](http://twitter.com/search?q=RICKY) | N/A |
-| 11 | [MATTHEW](http://twitter.com/search?q=MATTHEW) | N/A |
-| 12 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 13 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 14 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 8 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 9 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 10 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 11 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 12 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 13 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 14 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
 | 15 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
-| 16 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
-| 17 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 18 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
-| 19 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
+| 16 | [matthew](http://twitter.com/search?q=matthew) | N/A |
+| 17 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
+| 18 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
+| 19 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
 | 20 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
 | 21 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
-| 22 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 23 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 24 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 26 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
-| 27 | [Please Stärke die FDP](http://twitter.com/search?q=Please+St%c3%a4rke+die+FDP) | N/A |
+| 22 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 23 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
+| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 25 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
+| 26 | [Please Stärke die FDP](http://twitter.com/search?q=Please+St%c3%a4rke+die+FDP) | N/A |
+| 27 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 28 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 29 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 30 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
-| 31 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 32 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
-| 33 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 34 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 35 | [Ideologie vor Vernunft](http://twitter.com/search?q=Ideologie+vor+Vernunft) | N/A |
-| 36 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 37 | [Enthauptung](http://twitter.com/search?q=Enthauptung) | N/A |
+| 29 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 30 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 31 | [Mützenich](http://twitter.com/search?q=M%c3%bctzenich) | N/A |
+| 32 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 33 | [Ideologie vor Vernunft](http://twitter.com/search?q=Ideologie+vor+Vernunft) | N/A |
+| 34 | [Enthauptung](http://twitter.com/search?q=Enthauptung) | N/A |
+| 35 | [Oktoberfest](http://twitter.com/search?q=Oktoberfest) | N/A |
+| 36 | [Suspendierung](http://twitter.com/search?q=Suspendierung) | N/A |
+| 37 | [keita](http://twitter.com/search?q=keita) | N/A |
 | 38 | [Staatsschutz](http://twitter.com/search?q=Staatsschutz) | N/A |
-| 39 | [Oktoberfest](http://twitter.com/search?q=Oktoberfest) | N/A |
-| 40 | [Suspendierung](http://twitter.com/search?q=Suspendierung) | N/A |
-| 41 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
-| 42 | [lens airdrop](http://twitter.com/search?q=lens+airdrop) | N/A |
-| 43 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 44 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
-| 45 | [Lächelnde Gegenstände](http://twitter.com/search?q=L%c3%a4chelnde+Gegenst%c3%a4nde) | N/A |
-| 46 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
-| 47 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
-| 48 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 39 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
+| 40 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 41 | [Lächelnde Gegenstände](http://twitter.com/search?q=L%c3%a4chelnde+Gegenst%c3%a4nde) | N/A |
+| 42 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 43 | [FC Hollywood](http://twitter.com/search?q=FC+Hollywood) | N/A |
+| 44 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 45 | [Radfahrerin](http://twitter.com/search?q=Radfahrerin) | N/A |
+| 46 | [die mehrheit der deutschen](http://twitter.com/search?q=die+mehrheit+der+deutschen) | N/A |
+| 47 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
+| 48 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 
 
 
