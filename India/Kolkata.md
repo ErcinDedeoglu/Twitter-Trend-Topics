@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kolkata
 
-📆 Last Updated: `2023-04-13 23:17:44 UTC`
+📆 Last Updated: `2023-04-14 00:27:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MercedesAMG](http://twitter.com/search?q=%23MercedesAMG) | N/A |
-| 2 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 4 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 5 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 6 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 7 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 8 | [#AmbedkarJayanti](http://twitter.com/search?q=%23AmbedkarJayanti) | N/A |
-| 9 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 10 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 11 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 12 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 13 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 14 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 15 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 16 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 17 | [भीमराव अम्बेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%ae%e0%a5%8d%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 18 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 20 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 24 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 25 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 26 | [B Cutting](http://twitter.com/search?q=B+Cutting) | N/A |
-| 27 | [Sam Curran](http://twitter.com/search?q=Sam+Curran) | Sam Curran is a professional cricketer from England. He is a left-arm fast-medium bowler and left-handed batsman who plays for the England national cricket team and Surrey County Cricket Club. He made his international debut in 2018 and has since become an important member of the team, playing in all three formats of the game. The meaning of Sam Curran in English is "a talented cricketer from England". |
-| 28 | [David W](http://twitter.com/search?q=David+W) | N/A |
-| 29 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
-| 30 | [Vikas Dubey](http://twitter.com/search?q=Vikas+Dubey) | N/A |
-| 31 | [अंबेडकर जयंती](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 32 | [#JaiBhim](http://twitter.com/search?q=%23JaiBhim) | N/A |
-| 33 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 34 | [#PBKSvGT](http://twitter.com/search?q=%23PBKSvGT) | N/A |
-| 35 | [#bhimjayanti2023](http://twitter.com/search?q=%23bhimjayanti2023) | N/A |
-| 36 | [#தமிழ்புத்தாண்டு](http://twitter.com/search?q=%23%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%8d%e0%ae%aa%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%ae%be%e0%ae%a3%e0%af%8d%e0%ae%9f%e0%af%81) | N/A |
-| 37 | [#TamilNewYear2023](http://twitter.com/search?q=%23TamilNewYear2023) | N/A |
-| 38 | [#AsadAhmedEncounter](http://twitter.com/search?q=%23AsadAhmedEncounter) | N/A |
-| 39 | [#JaiBheem](http://twitter.com/search?q=%23JaiBheem) | N/A |
-| 40 | [#1YearForKGF2Rampage](http://twitter.com/search?q=%231YearForKGF2Rampage) | N/A |
-| 41 | [#जयभीम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af%e0%a4%ad%e0%a5%80%e0%a4%ae) | N/A |
-| 42 | [#Jawan](http://twitter.com/search?q=%23Jawan) | N/A |
-| 43 | [#Bihu](http://twitter.com/search?q=%23Bihu) | N/A |
-| 44 | [#SchoolCollegeAniLife](http://twitter.com/search?q=%23SchoolCollegeAniLife) | N/A |
-| 45 | [#एनकाउंटर](http://twitter.com/search?q=%23%e0%a4%8f%e0%a4%a8%e0%a4%95%e0%a4%be%e0%a4%89%e0%a4%82%e0%a4%9f%e0%a4%b0) | N/A |
+| 1 | [Rahul Gandhi](http://twitter.com/search?q=Rahul+Gandhi) | N/A |
+| 2 | [#Encounter](http://twitter.com/search?q=%23Encounter) | N/A |
+| 3 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 4 | [#AtiqueAhmed](http://twitter.com/search?q=%23AtiqueAhmed) | N/A |
+| 5 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
+| 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 7 | [#mercedesamg](http://twitter.com/search?q=%23mercedesamg) | N/A |
+| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 9 | [#AmbedkarJayanti2023](http://twitter.com/search?q=%23AmbedkarJayanti2023) | N/A |
+| 10 | [#मिट्टी_में_मिला_दूंगा](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%bf%e0%a4%9f%e0%a5%8d%e0%a4%9f%e0%a5%80_%e0%a4%ae%e0%a5%87%e0%a4%82_%e0%a4%ae%e0%a4%bf%e0%a4%b2%e0%a4%be_%e0%a4%a6%e0%a5%82%e0%a4%82%e0%a4%97%e0%a4%be) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [असद अहमद](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 13 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 14 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
+| 15 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 16 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 17 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 18 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 19 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 20 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 21 | [गुड्डू मुस्लिम](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%a1%e0%a5%8d%e0%a4%a1%e0%a5%82+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
+| 22 | [हेमंत यादव](http://twitter.com/search?q=%e0%a4%b9%e0%a5%87%e0%a4%ae%e0%a4%82%e0%a4%a4+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 23 | [Umesh Pal](http://twitter.com/search?q=Umesh+Pal) | N/A |
+| 24 | [अंतरराष्ट्रीय जाट](http://twitter.com/search?q=%e0%a4%85%e0%a4%82%e0%a4%a4%e0%a4%b0%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%be%e0%a4%9f) | N/A |
+| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 26 | [Vikas Dubey](http://twitter.com/search?q=Vikas+Dubey) | N/A |
+| 27 | [अखिलेश यादव](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 28 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 29 | [Chronology Of Events InSSRCase](http://twitter.com/search?q=Chronology+Of+Events+InSSRCase) | N/A |
+| 30 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 31 | [Mohit Sharma](http://twitter.com/search?q=Mohit+Sharma) | N/A |
+| 32 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 33 | [पूर्व संध्या](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be) | पूर्व संध्या is a Sanskrit phrase meaning "evening prayer". It is a Hindu ritual performed at the end of the day, usually around sunset, to thank the gods for their blessings and ask for protection and guidance. In English, it can be translated as "evening prayer". |
+| 34 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 35 | [David W](http://twitter.com/search?q=David+W) | N/A |
+| 36 | [आदित्य राणा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
+| 37 | [इंडिया मुस्लिम](http://twitter.com/search?q=%e0%a4%87%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%ae%e0%a5%81%e0%a4%b8%e0%a5%8d%e0%a4%b2%e0%a4%bf%e0%a4%ae) | N/A |
+| 38 | [उत्तर प्रदेश](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%b0+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | उत्तर प्रदेश (Uttar Pradesh) is a state in northern India. It is the most populous state in the country and has a population of over 200 million people. The name literally translates to "Northern Province" in English. |
+| 39 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 40 | [गुलाम मोहम्मद](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 41 | [Jhansi](http://twitter.com/search?q=Jhansi) | N/A |
+| 42 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
+| 43 | [pinnacle of indian cinema yash](http://twitter.com/search?q=pinnacle+of+indian+cinema+yash) | N/A |
+| 44 | [योगी आदित्यनाथ](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 45 | [Rahul Tewatia](http://twitter.com/search?q=Rahul+Tewatia) | N/A |
+| 46 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 48 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 49 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 50 | [B Cutting](http://twitter.com/search?q=B+Cutting) | N/A |
 
 
 

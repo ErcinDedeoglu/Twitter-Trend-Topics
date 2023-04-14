@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-04-13 23:17:51 UTC`
+📆 Last Updated: `2023-04-14 00:27:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 2 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 3 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 4 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 5 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 7 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 8 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
-| 9 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 10 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 11 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 13 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 14 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 15 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 16 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 17 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 18 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 19 | [Keion White](http://twitter.com/search?q=Keion+White) | N/A |
-| 20 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 21 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 22 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 23 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 24 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
+| 1 | [#moleg](http://twitter.com/search?q=%23moleg) | N/A |
+| 2 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 3 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 4 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
+| 5 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 6 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 7 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 8 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 9 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 10 | [#AskIrvine](http://twitter.com/search?q=%23AskIrvine) | N/A |
+| 11 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 13 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 14 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 15 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 16 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
+| 17 | [Michael A. Taylor](http://twitter.com/search?q=Michael+A.+Taylor) | N/A |
+| 18 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 19 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
+| 20 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 21 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 22 | [Landy](http://twitter.com/search?q=Landy) | N/A |
+| 23 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 24 | [Night of Champions](http://twitter.com/search?q=Night+of+Champions) | N/A |
 | 25 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 26 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 27 | [Air National Guard](http://twitter.com/search?q=Air+National+Guard) | N/A |
-| 28 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 29 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 30 | [Clive](http://twitter.com/search?q=Clive) | N/A |
-| 31 | [Chelsea Manning](http://twitter.com/search?q=Chelsea+Manning) | N/A |
-| 32 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 33 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 34 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 37 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 38 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
-| 39 | [Landy](http://twitter.com/search?q=Landy) | N/A |
-| 40 | [Lauderdale](http://twitter.com/search?q=Lauderdale) | N/A |
-| 41 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 42 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 43 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 44 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 45 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 46 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 26 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 27 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
+| 28 | [Edouard Julien](http://twitter.com/search?q=Edouard+Julien) | N/A |
+| 29 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
+| 30 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 31 | [Keion White](http://twitter.com/search?q=Keion+White) | N/A |
+| 32 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 33 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
+| 34 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 36 | [Paul O’Neill](http://twitter.com/search?q=Paul+O%e2%80%99Neill) | N/A |
+| 37 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 38 | [Chelsea Manning](http://twitter.com/search?q=Chelsea+Manning) | N/A |
+| 39 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
+| 40 | [Mertz](http://twitter.com/search?q=Mertz) | N/A |
+| 41 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
+| 42 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 43 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 44 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 45 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
+| 46 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 47 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 48 | [Bailey Falter](http://twitter.com/search?q=Bailey+Falter) | N/A |
+| 49 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 
 
 

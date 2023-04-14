@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-13 23:17:20 UTC`
+📆 Last Updated: `2023-04-14 00:27:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
 | 2 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
-| 3 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 4 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 5 | [#LCHFIO](http://twitter.com/search?q=%23LCHFIO) | N/A |
-| 6 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 3 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 4 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 5 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 6 | [#LCHFIO](http://twitter.com/search?q=%23LCHFIO) | N/A |
 | 7 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
 | 8 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 9 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
 | 10 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 12 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 13 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 14 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 15 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 16 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 17 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 18 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 19 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
-| 20 | [Sevilli](http://twitter.com/search?q=Sevilli) | N/A |
-| 21 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 22 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 23 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 24 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 25 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
-| 26 | [Gliński](http://twitter.com/search?q=Gli%c5%84ski) | N/A |
+| 11 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
+| 12 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 13 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 14 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 15 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 16 | [Satka](http://twitter.com/search?q=Satka) | N/A |
+| 17 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 18 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
+| 19 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 20 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 21 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 22 | [Gliński](http://twitter.com/search?q=Gli%c5%84ski) | N/A |
+| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 24 | [Violi](http://twitter.com/search?q=Violi) | N/A |
+| 25 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 27 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 28 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 29 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 30 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 31 | [Ikone](http://twitter.com/search?q=Ikone) | N/A |
-| 32 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 33 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 34 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 35 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 36 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 37 | [kurski](http://twitter.com/search?q=kurski) | N/A |
-| 38 | [Pentagonu](http://twitter.com/search?q=Pentagonu) | N/A |
-| 39 | [Ligi Konferencji](http://twitter.com/search?q=Ligi+Konferencji) | N/A |
-| 40 | [Dagerstala](http://twitter.com/search?q=Dagerstala) | N/A |
-| 41 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 42 | [Nauki](http://twitter.com/search?q=Nauki) | N/A |
-| 43 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
-| 44 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 45 | [Imię Róży](http://twitter.com/search?q=Imi%c4%99+R%c3%b3%c5%bcy) | N/A |
-| 46 | [Sportingiem](http://twitter.com/search?q=Sportingiem) | N/A |
-| 47 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
-| 48 | [Bramkarz](http://twitter.com/search?q=Bramkarz) | N/A |
-| 49 | [Kujda](http://twitter.com/search?q=Kujda) | N/A |
+| 28 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
+| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 30 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 31 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 32 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 33 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 34 | [Pentagonu](http://twitter.com/search?q=Pentagonu) | N/A |
+| 35 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
+| 36 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
+| 37 | [Ministra Edukacji](http://twitter.com/search?q=Ministra+Edukacji) | N/A |
+| 38 | [Franek](http://twitter.com/search?q=Franek) | N/A |
+| 39 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 40 | [Ligi Konferencji](http://twitter.com/search?q=Ligi+Konferencji) | N/A |
+| 41 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
+| 42 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 43 | [Nauki](http://twitter.com/search?q=Nauki) | N/A |
+| 44 | [Legię](http://twitter.com/search?q=Legi%c4%99) | N/A |
+| 45 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
+| 46 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 47 | [Dagerstala](http://twitter.com/search?q=Dagerstala) | N/A |
+| 48 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
+| 49 | [diduszko](http://twitter.com/search?q=diduszko) | N/A |
 
 
 

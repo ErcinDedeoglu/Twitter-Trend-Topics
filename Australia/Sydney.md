@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sydney
 
-📆 Last Updated: `2023-04-13 23:17:30 UTC`
+📆 Last Updated: `2023-04-14 00:27:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [#AFLCrowsBlues](http://twitter.com/search?q=%23AFLCrowsBlues) | N/A |
 | 3 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
 | 4 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
-| 5 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 6 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 5 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 6 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
 | 7 | [#NRLDolphinsSouths](http://twitter.com/search?q=%23NRLDolphinsSouths) | N/A |
-| 8 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 9 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [#CycloneIlsa](http://twitter.com/search?q=%23CycloneIlsa) | N/A |
-| 12 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 13 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 14 | [Plowman](http://twitter.com/search?q=Plowman) | N/A |
-| 15 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 16 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
-| 17 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 18 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 19 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 21 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 22 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 23 | [Port Hedland](http://twitter.com/search?q=Port+Hedland) | N/A |
-| 24 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 25 | [Bedout Island](http://twitter.com/search?q=Bedout+Island) | N/A |
-| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 27 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
-| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 29 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
-| 30 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 8 | [#CycloneIlsa](http://twitter.com/search?q=%23CycloneIlsa) | N/A |
+| 9 | [#weflyasone](http://twitter.com/search?q=%23weflyasone) | N/A |
+| 10 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [Plowman](http://twitter.com/search?q=Plowman) | N/A |
+| 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 14 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 15 | [Josh Giddey](http://twitter.com/search?q=Josh+Giddey) | Josh Giddey is an Australian basketball player who currently plays for the Adelaide 36ers in the National Basketball League (NBL). He is considered one of the top prospects for the 2021 NBA Draft. The phrase "Josh Giddey" is used to refer to his potential as a professional basketball player. |
+| 16 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 17 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 18 | [Port Hedland](http://twitter.com/search?q=Port+Hedland) | N/A |
+| 19 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 20 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 21 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
+| 24 | [Bedout Island](http://twitter.com/search?q=Bedout+Island) | N/A |
+| 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 26 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
+| 27 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 28 | [The ABC](http://twitter.com/search?q=The+ABC) | N/A |
+| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 30 | [George Pell](http://twitter.com/search?q=George+Pell) | George Pell is the name of an Australian cardinal and former Vatican official who was convicted in 2018 of child sexual abuse. He was sentenced to six years in prison. The meaning of his name in English is "one who is strong and powerful". |
 | 31 | [Crom](http://twitter.com/search?q=Crom) | N/A |
-| 32 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 33 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
-| 34 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 36 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 37 | [Curnow](http://twitter.com/search?q=Curnow) | N/A |
-| 38 | [Ubisoft](http://twitter.com/search?q=Ubisoft) | Ubisoft is a French video game company that develops, publishes, and distributes video games worldwide. The name Ubisoft is a combination of the words "ubiquity" and "soft", which together mean "ubiquitous software". |
-| 39 | [Isaako](http://twitter.com/search?q=Isaako) | N/A |
-| 40 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 41 | [ben keays](http://twitter.com/search?q=ben+keays) | N/A |
-| 42 | [60fps](http://twitter.com/search?q=60fps) | N/A |
-| 43 | [Aitken](http://twitter.com/search?q=Aitken) | N/A |
-| 44 | [Cowan](http://twitter.com/search?q=Cowan) | N/A |
+| 32 | [Latrell](http://twitter.com/search?q=Latrell) | N/A |
+| 33 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 34 | [Curnow](http://twitter.com/search?q=Curnow) | N/A |
+| 35 | [Cat 5](http://twitter.com/search?q=Cat+5) | N/A |
+| 36 | [Morning Rob](http://twitter.com/search?q=Morning+Rob) | N/A |
+| 37 | [Isaako](http://twitter.com/search?q=Isaako) | N/A |
+| 38 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 39 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
+| 40 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 41 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 42 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 43 | [60fps](http://twitter.com/search?q=60fps) | N/A |
+| 44 | [McGovern](http://twitter.com/search?q=McGovern) | N/A |
 | 45 | [Darren Clarke](http://twitter.com/search?q=Darren+Clarke) | N/A |
-| 46 | [Wesley Mission](http://twitter.com/search?q=Wesley+Mission) | N/A |
-| 47 | [african gangs](http://twitter.com/search?q=african+gangs) | N/A |
-| 48 | [Clarence Thomas](http://twitter.com/search?q=Clarence+Thomas) | N/A |
-| 49 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 50 | [darcy fogarty](http://twitter.com/search?q=darcy+fogarty) | N/A |
+| 46 | [Eddie Betts](http://twitter.com/search?q=Eddie+Betts) | N/A |
+| 47 | [Laird](http://twitter.com/search?q=Laird) | N/A |
+| 48 | [Wesley Mission](http://twitter.com/search?q=Wesley+Mission) | N/A |
+| 49 | [Voss](http://twitter.com/search?q=Voss) | N/A |
+| 50 | [Hollands](http://twitter.com/search?q=Hollands) | N/A |
 
 
 

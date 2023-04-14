@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-13 23:17:07 UTC`
+📆 Last Updated: `2023-04-14 00:26:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 2 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 4 | [#SVGala7](http://twitter.com/search?q=%23SVGala7) | N/A |
-| 5 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 6 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 7 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 8 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 9 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 10 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 1 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 2 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 3 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 5 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 6 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
+| 7 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 8 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 9 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 10 | [#SVGala7](http://twitter.com/search?q=%23SVGala7) | N/A |
 | 11 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
-| 12 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 13 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 14 | [#LALI](http://twitter.com/search?q=%23LALI) | N/A |
-| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 16 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 17 | [FF16](http://twitter.com/search?q=FF16) | N/A |
-| 18 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 20 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 21 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 23 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 24 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 25 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 26 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 27 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 28 | [オレンジデー](http://twitter.com/search?q=%e3%82%aa%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%87%e3%83%bc) | N/A |
-| 29 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 30 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 31 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 32 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 33 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
-| 34 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 35 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 36 | [米津玄師](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e7%8e%84%e5%b8%ab) | 米津玄師 (Kenshi Yonezu) is a Japanese singer-songwriter, musician, and record producer. He is best known for his hit single "Lemon", which topped the Japanese Oricon Singles Chart in 2018. In English, his name translates to "Mystic Rice Field Master". |
-| 37 | [ポケモンカード](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 38 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 39 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 41 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 42 | [転売ヤー](http://twitter.com/search?q=%e8%bb%a2%e5%a3%b2%e3%83%a4%e3%83%bc) | N/A |
-| 43 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 44 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 45 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 46 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
-| 47 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 48 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 49 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 50 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
+| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 13 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 14 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
+| 15 | [FF16](http://twitter.com/search?q=FF16) | N/A |
+| 16 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 17 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 18 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 19 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 20 | [ポケモンカード](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 21 | [DEMI LOVATO](http://twitter.com/search?q=DEMI+LOVATO) | N/A |
+| 22 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 23 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
+| 24 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
+| 25 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
+| 26 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 27 | [転売ヤー](http://twitter.com/search?q=%e8%bb%a2%e5%a3%b2%e3%83%a4%e3%83%bc) | N/A |
+| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 29 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 30 | [米津玄師](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e7%8e%84%e5%b8%ab) | 米津玄師 (Kenshi Yonezu) is a Japanese singer-songwriter, musician, and record producer. He is best known for his hit single "Lemon", which topped the Japanese Oricon Singles Chart in 2018. In English, his name translates to "Mystic Rice Field Master". |
+| 31 | [オレンジデー](http://twitter.com/search?q=%e3%82%aa%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%87%e3%83%bc) | N/A |
+| 32 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 33 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
+| 34 | [前髪クネ男](http://twitter.com/search?q=%e5%89%8d%e9%ab%aa%e3%82%af%e3%83%8d%e7%94%b7) | N/A |
+| 35 | [試練バグ](http://twitter.com/search?q=%e8%a9%a6%e7%b7%b4%e3%83%90%e3%82%b0) | N/A |
+| 36 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 37 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 38 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 39 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 40 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 41 | [米津さん](http://twitter.com/search?q=%e7%b1%b3%e6%b4%a5%e3%81%95%e3%82%93) | N/A |
+| 42 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 43 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 44 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 45 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 46 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
+| 47 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 48 | [警察沙汰](http://twitter.com/search?q=%e8%ad%a6%e5%af%9f%e6%b2%99%e6%b1%b0) | N/A |
+| 49 | [ESTOY CON TU KARMA](http://twitter.com/search?q=ESTOY+CON+TU+KARMA) | N/A |
+| 50 | [1TRAGO PA OLVIDARTE](http://twitter.com/search?q=1TRAGO+PA+OLVIDARTE) | N/A |
 
 
 
