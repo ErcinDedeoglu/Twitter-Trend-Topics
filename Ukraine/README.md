@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-14 11:18:14 UTC`
+📆 Last Updated: `2023-04-14 12:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Ukraine
 | 9 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
 | 10 | [Odesa](http://twitter.com/search?q=Odesa) | N/A |
 | 11 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 12 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 12 | [Hugs](http://twitter.com/search?q=Hugs) | N/A |
 | 13 | [Depressing](http://twitter.com/search?q=Depressing) | N/A |
-| 14 | [Hugs](http://twitter.com/search?q=Hugs) | N/A |
-| 15 | [Oops](http://twitter.com/search?q=Oops) | N/A |
-| 16 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 17 | [#Decentralization](http://twitter.com/search?q=%23Decentralization) | N/A |
-| 18 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 19 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 20 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 21 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
-| 22 | [Fascinating](http://twitter.com/search?q=Fascinating) | N/A |
-| 23 | [Ukrainian PoW](http://twitter.com/search?q=Ukrainian+PoW) | N/A |
-| 24 | [Запорожье](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%be%d1%80%d0%be%d0%b6%d1%8c%d0%b5) | N/A |
-| 25 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 26 | [Пентагона](http://twitter.com/search?q=%d0%9f%d0%b5%d0%bd%d1%82%d0%b0%d0%b3%d0%be%d0%bd%d0%b0) | N/A |
-| 27 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 28 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
-| 29 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 30 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 31 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
-| 32 | [$tfs](http://twitter.com/search?q=%24tfs) | N/A |
-| 33 | [игил](http://twitter.com/search?q=%d0%b8%d0%b3%d0%b8%d0%bb) | N/A |
-| 34 | [Hopeful](http://twitter.com/search?q=Hopeful) | N/A |
-| 35 | [Washington Post](http://twitter.com/search?q=Washington+Post) | N/A |
-| 36 | [Справедливо](http://twitter.com/search?q=%d0%a1%d0%bf%d1%80%d0%b0%d0%b2%d0%b5%d0%b4%d0%bb%d0%b8%d0%b2%d0%be) | N/A |
-| 37 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 38 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 39 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 40 | [Така](http://twitter.com/search?q=%d0%a2%d0%b0%d0%ba%d0%b0) | N/A |
-| 41 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 42 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 43 | [Бахмута](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
+| 14 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 15 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 16 | [#Decentralization](http://twitter.com/search?q=%23Decentralization) | N/A |
+| 17 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 18 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 19 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
+| 20 | [Fascinating](http://twitter.com/search?q=Fascinating) | N/A |
+| 21 | [ukrainian pow](http://twitter.com/search?q=ukrainian+pow) | N/A |
+| 22 | [запорожье](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%be%d1%80%d0%be%d0%b6%d1%8c%d0%b5) | N/A |
+| 23 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
+| 24 | [Пентагона](http://twitter.com/search?q=%d0%9f%d0%b5%d0%bd%d1%82%d0%b0%d0%b3%d0%be%d0%bd%d0%b0) | N/A |
+| 25 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 26 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
+| 27 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 28 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 29 | [#Poland](http://twitter.com/search?q=%23Poland) | N/A |
+| 30 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 31 | [$tfs](http://twitter.com/search?q=%24tfs) | N/A |
+| 32 | [игил](http://twitter.com/search?q=%d0%b8%d0%b3%d0%b8%d0%bb) | N/A |
+| 33 | [Hopeful](http://twitter.com/search?q=Hopeful) | N/A |
+| 34 | [Washington Post](http://twitter.com/search?q=Washington+Post) | N/A |
+| 35 | [Справедливо](http://twitter.com/search?q=%d0%a1%d0%bf%d1%80%d0%b0%d0%b2%d0%b5%d0%b4%d0%bb%d0%b8%d0%b2%d0%be) | N/A |
+| 36 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 37 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
+| 38 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 39 | [така](http://twitter.com/search?q=%d1%82%d0%b0%d0%ba%d0%b0) | N/A |
+| 40 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 41 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 42 | [Бахмута](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
+| 43 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
 | 44 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
 | 45 | [Japan](http://twitter.com/search?q=Japan) | N/A |
 | 46 | [UN Security Council](http://twitter.com/search?q=UN+Security+Council) | N/A |
-| 47 | [Understood](http://twitter.com/search?q=Understood) | N/A |
-| 48 | [CEXs](http://twitter.com/search?q=CEXs) | N/A |
-| 49 | [Layer 1](http://twitter.com/search?q=Layer+1) | N/A |
-| 50 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 47 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 48 | [Understood](http://twitter.com/search?q=Understood) | N/A |
+| 49 | [CEXs](http://twitter.com/search?q=CEXs) | N/A |
+| 50 | [Layer 1](http://twitter.com/search?q=Layer+1) | N/A |
 
 
 

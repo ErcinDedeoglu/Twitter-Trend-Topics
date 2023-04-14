@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-14 11:17:24 UTC`
+📆 Last Updated: `2023-04-14 12:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,37 +31,37 @@ This is top 50 for [France](</France>)
 | 14 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
 | 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 16 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 17 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 18 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 19 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 21 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 22 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 23 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 24 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 25 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 26 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
-| 27 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 28 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 29 | [Porchefontaine](http://twitter.com/search?q=Porchefontaine) | N/A |
+| 17 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 18 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 20 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 21 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 22 | [Maldini Ramos](http://twitter.com/search?q=Maldini+Ramos) | N/A |
+| 23 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
+| 24 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 25 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
+| 26 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 27 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 28 | [Tapie](http://twitter.com/search?q=Tapie) | N/A |
+| 29 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
 | 30 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 31 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 32 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 31 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 32 | [Gota](http://twitter.com/search?q=Gota) | N/A |
 | 33 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 34 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 35 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 36 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 37 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 38 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 34 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 35 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 36 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 37 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 38 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
 | 39 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
 | 40 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 41 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 41 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
 | 42 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
 | 43 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 44 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 45 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 46 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 47 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
+| 44 | [Packers](http://twitter.com/search?q=Packers) | Packers is a term used to refer to the Green Bay Packers, an American professional football team based in Green Bay, Wisconsin. The team competes in the National Football League (NFL) as a member of the NFC North division. The Packers are the third-oldest franchise in the NFL, having been founded in 1919, and are the only non-profit, community-owned major league professional sports team based in the United States. |
+| 45 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 46 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 47 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
 
 
 

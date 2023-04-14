@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-04-14 11:17:22 UTC`
+📆 Last Updated: `2023-04-14 12:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#13Abr](http://twitter.com/search?q=%2313Abr) | N/A |
 | 2 | [#RebeliónCívicoMilitar](http://twitter.com/search?q=%23Rebeli%c3%b3nC%c3%advicoMilitar) | N/A |
-| 3 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 4 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
-| 5 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
+| 3 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
+| 4 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 5 | [todo 11](http://twitter.com/search?q=todo+11) | N/A |
 | 6 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
 | 7 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
@@ -29,15 +29,15 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 12 | [El 13](http://twitter.com/search?q=El+13) | N/A |
 | 13 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
 | 14 | [milicia bolivariana](http://twitter.com/search?q=milicia+bolivariana) | N/A |
-| 15 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 16 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 17 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 15 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 16 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 17 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
 | 18 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
 | 19 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 20 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 20 | [enrique mendoza](http://twitter.com/search?q=enrique+mendoza) | N/A |
 | 21 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
 | 22 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
-| 23 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
+| 23 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
 | 24 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
 | 25 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 26 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
@@ -48,11 +48,11 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 31 | [gilberto correa](http://twitter.com/search?q=gilberto+correa) | N/A |
 | 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 33 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
-| 34 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
+| 34 | [poder electoral](http://twitter.com/search?q=poder+electoral) | N/A |
 | 35 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
 | 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 37 | [milicia nacional bolivariana](http://twitter.com/search?q=milicia+nacional+bolivariana) | N/A |
-| 38 | [Cardenal Castillo Lara](http://twitter.com/search?q=Cardenal+Castillo+Lara) | N/A |
+| 38 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
 | 39 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
 | 40 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
 | 41 | [Codo](http://twitter.com/search?q=Codo) | N/A |

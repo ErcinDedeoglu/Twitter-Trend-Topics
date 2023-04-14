@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-04-14 11:17:49 UTC`
+📆 Last Updated: `2023-04-14 12:18:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,33 +38,33 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 21 | [akash ram](http://twitter.com/search?q=akash+ram) | N/A |
 | 22 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 23 | [sami ibrahim](http://twitter.com/search?q=sami+ibrahim) | N/A |
-| 24 | [gul bukhari](http://twitter.com/search?q=gul+bukhari) | N/A |
+| 24 | [Gul Bukhari](http://twitter.com/search?q=Gul+Bukhari) | N/A |
 | 25 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
 | 26 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 27 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
-| 28 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 29 | [Unequal](http://twitter.com/search?q=Unequal) | N/A |
-| 30 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
-| 31 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 32 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
-| 33 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
+| 27 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 28 | [Unequal](http://twitter.com/search?q=Unequal) | N/A |
+| 29 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
+| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 31 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
+| 32 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
+| 33 | [Down With Israel](http://twitter.com/search?q=Down+With+Israel) | N/A |
 | 34 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
 | 35 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 36 | [Skipper](http://twitter.com/search?q=Skipper) | N/A |
-| 37 | [Down with Israel](http://twitter.com/search?q=Down+with+Israel) | N/A |
-| 38 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 39 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 40 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 41 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 42 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 43 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 44 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 45 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 46 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 47 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 48 | [Contempt](http://twitter.com/search?q=Contempt) | N/A |
-| 49 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 50 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 37 | [Saim](http://twitter.com/search?q=Saim) | N/A |
+| 38 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 39 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 40 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 41 | [Imam Khamenei](http://twitter.com/search?q=Imam+Khamenei) | N/A |
+| 42 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 43 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 44 | [Contempt](http://twitter.com/search?q=Contempt) | N/A |
+| 45 | [Maine](http://twitter.com/search?q=Maine) | N/A |
+| 46 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 47 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
+| 48 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 49 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 50 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
 
 
 

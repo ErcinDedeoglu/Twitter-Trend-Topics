@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-04-14 11:17:07 UTC`
+📆 Last Updated: `2023-04-14 12:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 2 | [#身長から160cm引いた数だけ喋れ](http://twitter.com/search?q=%23%e8%ba%ab%e9%95%b7%e3%81%8b%e3%82%89160cm%e5%bc%95%e3%81%84%e3%81%9f%e6%95%b0%e3%81%a0%e3%81%91%e5%96%8b%e3%82%8c) | N/A |
-| 3 | [#AmbedkarJayanti](http://twitter.com/search?q=%23AmbedkarJayanti) | N/A |
-| 4 | [シャニライ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%a9%e3%82%a4) | N/A |
-| 5 | [#BanglarBhumiteShah](http://twitter.com/search?q=%23BanglarBhumiteShah) | N/A |
-| 6 | [#aespa_is_back](http://twitter.com/search?q=%23aespa_is_back) | N/A |
-| 7 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
-| 8 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
-| 9 | [球審白井](http://twitter.com/search?q=%e7%90%83%e5%af%a9%e7%99%bd%e4%ba%95) | N/A |
-| 10 | [アジアツアー](http://twitter.com/search?q=%e3%82%a2%e3%82%b8%e3%82%a2%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
-| 11 | [#みんなお待たせトマたまカレーうどん](http://twitter.com/search?q=%23%e3%81%bf%e3%82%93%e3%81%aa%e3%81%8a%e5%be%85%e3%81%9f%e3%81%9b%e3%83%88%e3%83%9e%e3%81%9f%e3%81%be%e3%82%ab%e3%83%ac%e3%83%bc%e3%81%86%e3%81%a9%e3%82%93) | N/A |
-| 12 | [Salud y República](http://twitter.com/search?q=Salud+y+Rep%c3%bablica) | N/A |
-| 13 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
-| 14 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 15 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
-| 16 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
-| 17 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 18 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
-| 19 | [ハピネット](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8d%e3%83%83%e3%83%88) | N/A |
-| 20 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
-| 21 | [転売ヤー](http://twitter.com/search?q=%e8%bb%a2%e5%a3%b2%e3%83%a4%e3%83%bc) | N/A |
-| 22 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 23 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 24 | [国際手配](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e6%89%8b%e9%85%8d) | N/A |
-| 25 | [二次元の世界](http://twitter.com/search?q=%e4%ba%8c%e6%ac%a1%e5%85%83%e3%81%ae%e4%b8%96%e7%95%8c) | N/A |
-| 26 | [新作アプリ](http://twitter.com/search?q=%e6%96%b0%e4%bd%9c%e3%82%a2%e3%83%97%e3%83%aa) | N/A |
-| 27 | [一生シチュー](http://twitter.com/search?q=%e4%b8%80%e7%94%9f%e3%82%b7%e3%83%81%e3%83%a5%e3%83%bc) | N/A |
-| 28 | [ポケモンカード](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
-| 29 | [牛1.8万頭](http://twitter.com/search?q=%e7%89%9b1.8%e4%b8%87%e9%a0%ad) | N/A |
-| 30 | [落とし主](http://twitter.com/search?q=%e8%90%bd%e3%81%a8%e3%81%97%e4%b8%bb) | N/A |
-| 31 | [Atty](http://twitter.com/search?q=Atty) | N/A |
-| 32 | [メトロック](http://twitter.com/search?q=%e3%83%a1%e3%83%88%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 33 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
-| 34 | [ドルチェ](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7) | N/A |
-| 35 | [無料10連](http://twitter.com/search?q=%e7%84%a1%e6%96%9910%e9%80%a3) | 無料10連 is a type of promotion offered by some Japanese mobile gaming companies. It refers to a free 10-draw of in-game items, such as coins, gems, or other virtual rewards. In English, it can be translated as "Free 10 Draw". |
-| 36 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
-| 37 | [ロックマン](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3) | N/A |
-| 38 | [賽銭泥棒](http://twitter.com/search?q=%e8%b3%bd%e9%8a%ad%e6%b3%a5%e6%a3%92) | N/A |
-| 39 | [バンナム傘下](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%8a%e3%83%a0%e5%82%98%e4%b8%8b) | N/A |
-| 40 | [Eboue](http://twitter.com/search?q=Eboue) | N/A |
-| 41 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
-| 42 | [KPQP](http://twitter.com/search?q=KPQP) | N/A |
-| 43 | [バクフーン](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%95%e3%83%bc%e3%83%b3) | N/A |
-| 44 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 45 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
-| 46 | [謝礼7万円](http://twitter.com/search?q=%e8%ac%9d%e7%a4%bc7%e4%b8%87%e5%86%86) | N/A |
-| 47 | [平将門の首塚](http://twitter.com/search?q=%e5%b9%b3%e5%b0%86%e9%96%80%e3%81%ae%e9%a6%96%e5%a1%9a) | N/A |
-| 48 | [十勝ハッシュドポテト](http://twitter.com/search?q=%e5%8d%81%e5%8b%9d%e3%83%8f%e3%83%83%e3%82%b7%e3%83%a5%e3%83%89%e3%83%9d%e3%83%86%e3%83%88) | N/A |
-| 49 | [白井球審](http://twitter.com/search?q=%e7%99%bd%e4%ba%95%e7%90%83%e5%af%a9) | N/A |
-| 50 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
+| 2 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
+| 3 | [#アニポケ](http://twitter.com/search?q=%23%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | #アニポケ is a hashtag used on Twitter in Japan to discuss the anime series Pokémon. It translates to "AniPoke" in English. |
+| 4 | [#身長から160cm引いた数だけ喋れ](http://twitter.com/search?q=%23%e8%ba%ab%e9%95%b7%e3%81%8b%e3%82%89160cm%e5%bc%95%e3%81%84%e3%81%9f%e6%95%b0%e3%81%a0%e3%81%91%e5%96%8b%e3%82%8c) | N/A |
+| 5 | [シャニライ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%a9%e3%82%a4) | N/A |
+| 6 | [#BSIRamadhanBernilai](http://twitter.com/search?q=%23BSIRamadhanBernilai) | N/A |
+| 7 | [#少クラ](http://twitter.com/search?q=%23%e5%b0%91%e3%82%af%e3%83%a9) | #少クラ is a hashtag used on social media in Japan to refer to the subculture of young people who are passionate about Japanese idol music. It is a combination of the words "少女" (shoujo, meaning "young girl") and "クラブ" (kurabu, meaning "club"). In English, it can be translated as "Young Idol Club". |
+| 8 | [#AmbedkarJayanti](http://twitter.com/search?q=%23AmbedkarJayanti) | N/A |
+| 9 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
+| 10 | [球審白井](http://twitter.com/search?q=%e7%90%83%e5%af%a9%e7%99%bd%e4%ba%95) | N/A |
+| 11 | [アジアツアー](http://twitter.com/search?q=%e3%82%a2%e3%82%b8%e3%82%a2%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
+| 12 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
+| 13 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 14 | [Salud y República](http://twitter.com/search?q=Salud+y+Rep%c3%bablica) | N/A |
+| 15 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 16 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
+| 17 | [ナンジャモ](http://twitter.com/search?q=%e3%83%8a%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a2) | N/A |
+| 18 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
+| 19 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 20 | [ハピネット](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8d%e3%83%83%e3%83%88) | N/A |
+| 21 | [KPQP](http://twitter.com/search?q=KPQP) | N/A |
+| 22 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 23 | [転売ヤー](http://twitter.com/search?q=%e8%bb%a2%e5%a3%b2%e3%83%a4%e3%83%bc) | N/A |
+| 24 | [新作アプリ](http://twitter.com/search?q=%e6%96%b0%e4%bd%9c%e3%82%a2%e3%83%97%e3%83%aa) | N/A |
+| 25 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 26 | [一生シチュー](http://twitter.com/search?q=%e4%b8%80%e7%94%9f%e3%82%b7%e3%83%81%e3%83%a5%e3%83%bc) | N/A |
+| 27 | [二次元の世界](http://twitter.com/search?q=%e4%ba%8c%e6%ac%a1%e5%85%83%e3%81%ae%e4%b8%96%e7%95%8c) | N/A |
+| 28 | [国際手配](http://twitter.com/search?q=%e5%9b%bd%e9%9a%9b%e6%89%8b%e9%85%8d) | N/A |
+| 29 | [ポケモンカード](http://twitter.com/search?q=%e3%83%9d%e3%82%b1%e3%83%a2%e3%83%b3%e3%82%ab%e3%83%bc%e3%83%89) | N/A |
+| 30 | [ドルチェ](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7) | N/A |
+| 31 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
+| 32 | [牛1.8万頭](http://twitter.com/search?q=%e7%89%9b1.8%e4%b8%87%e9%a0%ad) | N/A |
+| 33 | [マジェプリ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%82%a7%e3%83%97%e3%83%aa) | N/A |
+| 34 | [メトロック](http://twitter.com/search?q=%e3%83%a1%e3%83%88%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 35 | [ロックマン](http://twitter.com/search?q=%e3%83%ad%e3%83%83%e3%82%af%e3%83%9e%e3%83%b3) | N/A |
+| 36 | [Atty](http://twitter.com/search?q=Atty) | N/A |
+| 37 | [無料10連](http://twitter.com/search?q=%e7%84%a1%e6%96%9910%e9%80%a3) | 無料10連 is a type of promotion offered by some Japanese mobile gaming companies. It refers to a free 10-draw of in-game items, such as coins, gems, or other virtual rewards. In English, it can be translated as "Free 10 Draw". |
+| 38 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
+| 39 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
+| 40 | [落とし主](http://twitter.com/search?q=%e8%90%bd%e3%81%a8%e3%81%97%e4%b8%bb) | N/A |
+| 41 | [カントー](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%bc) | N/A |
+| 42 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
+| 43 | [Eboue](http://twitter.com/search?q=Eboue) | N/A |
+| 44 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
+| 45 | [バンナム傘下](http://twitter.com/search?q=%e3%83%90%e3%83%b3%e3%83%8a%e3%83%a0%e5%82%98%e4%b8%8b) | N/A |
+| 46 | [賽銭泥棒](http://twitter.com/search?q=%e8%b3%bd%e9%8a%ad%e6%b3%a5%e6%a3%92) | N/A |
+| 47 | [バクフーン](http://twitter.com/search?q=%e3%83%90%e3%82%af%e3%83%95%e3%83%bc%e3%83%b3) | N/A |
+| 48 | [異例の注意喚起](http://twitter.com/search?q=%e7%95%b0%e4%be%8b%e3%81%ae%e6%b3%a8%e6%84%8f%e5%96%9a%e8%b5%b7) | N/A |
+| 49 | [じゃりン子チエ](http://twitter.com/search?q=%e3%81%98%e3%82%83%e3%82%8a%e3%83%b3%e5%ad%90%e3%83%81%e3%82%a8) | N/A |
+| 50 | [十勝ハッシュドポテト](http://twitter.com/search?q=%e5%8d%81%e5%8b%9d%e3%83%8f%e3%83%83%e3%82%b7%e3%83%a5%e3%83%89%e3%83%9d%e3%83%86%e3%83%88) | N/A |
 
 
 

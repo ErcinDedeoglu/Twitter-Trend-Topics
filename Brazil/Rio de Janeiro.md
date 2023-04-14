@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-04-14 11:17:20 UTC`
+📆 Last Updated: `2023-04-14 12:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,8 +29,8 @@ This is top 50 for [Brazil](</Brazil>)
 | 12 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
 | 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 14 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 15 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
-| 16 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 15 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 16 | [ivete](http://twitter.com/search?q=ivete) | N/A |
 | 17 | [Shein](http://twitter.com/search?q=Shein) | N/A |
 | 18 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
 | 19 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
@@ -38,30 +38,30 @@ This is top 50 for [Brazil](</Brazil>)
 | 21 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
 | 22 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 | 23 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
-| 24 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
-| 25 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 26 | [VILLASANTI](http://twitter.com/search?q=VILLASANTI) | N/A |
-| 27 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 28 | [pior bbb](http://twitter.com/search?q=pior+bbb) | N/A |
-| 29 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 30 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 31 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
+| 24 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 25 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
+| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 27 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 28 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 29 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
+| 30 | [VILLASANTI](http://twitter.com/search?q=VILLASANTI) | N/A |
+| 31 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
 | 32 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 33 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 | 34 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 35 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
+| 35 | [Mario Jorge](http://twitter.com/search?q=Mario+Jorge) | N/A |
 | 36 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
 | 37 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
 | 38 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
-| 39 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 40 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
-| 41 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
-| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 43 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 39 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
+| 40 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
+| 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 42 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 43 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 44 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 45 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
 | 46 | [bruno rodrigues](http://twitter.com/search?q=bruno+rodrigues) | N/A |
-| 47 | [léo pereira](http://twitter.com/search?q=l%c3%a9o+pereira) | N/A |
+| 47 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
 | 48 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
 | 49 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
 | 50 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |

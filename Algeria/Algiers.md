@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-14 11:17:42 UTC`
+📆 Last Updated: `2023-04-14 12:18:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,8 +50,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 33 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 34 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
 | 35 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 36 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 37 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 36 | [الحضن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 37 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 38 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
 | 39 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 40 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |

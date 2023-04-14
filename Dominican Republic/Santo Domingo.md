@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-14 11:17:13 UTC`
+📆 Last Updated: `2023-04-14 12:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 3 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
 | 4 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
 | 5 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 6 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 6 | [gallup](http://twitter.com/search?q=gallup) | N/A |
 | 7 | [antonio duvergé](http://twitter.com/search?q=antonio+duverg%c3%a9) | N/A |
 | 8 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 9 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 25 | [napoleón estévez lavandier](http://twitter.com/search?q=napole%c3%b3n+est%c3%a9vez+lavandier) | N/A |
 | 26 | [ramón alburquerque](http://twitter.com/search?q=ram%c3%b3n+alburquerque) | N/A |
 | 27 | [estado de ee](http://twitter.com/search?q=estado+de+ee) | N/A |
-| 28 | [Casa de Campo](http://twitter.com/search?q=Casa+de+Campo) | N/A |
+| 28 | [casa de campo](http://twitter.com/search?q=casa+de+campo) | N/A |
 | 29 | [Día Internacional del Beso](http://twitter.com/search?q=D%c3%ada+Internacional+del+Beso) | N/A |
 | 30 | [#economia](http://twitter.com/search?q=%23economia) | N/A |
 | 31 | [4 normas iso](http://twitter.com/search?q=4+normas+iso) | N/A |

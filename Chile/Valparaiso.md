@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-14 11:17:17 UTC`
+📆 Last Updated: `2023-04-14 12:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Chile](</Chile>)
 | 2 | [Carter](http://twitter.com/search?q=Carter) | N/A |
 | 3 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
 | 4 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
-| 5 | [Talca](http://twitter.com/search?q=Talca) | N/A |
-| 6 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 5 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 6 | [Talca](http://twitter.com/search?q=Talca) | N/A |
 | 7 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
 | 8 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
 | 9 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
@@ -29,41 +29,40 @@ This is top 50 for [Chile](</Chile>)
 | 12 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
 | 13 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
 | 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 15 | [#GobiernoInforma](http://twitter.com/search?q=%23GobiernoInforma) | N/A |
-| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 17 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 18 | [oportunista](http://twitter.com/search?q=oportunista) | N/A |
-| 19 | [municipalidad de santiago](http://twitter.com/search?q=municipalidad+de+santiago) | N/A |
-| 20 | [INCOMPETENTE](http://twitter.com/search?q=INCOMPETENTE) | N/A |
-| 21 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 22 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 23 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 24 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 25 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 26 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 28 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 29 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 30 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
-| 31 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 32 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 33 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
-| 34 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 35 | [Manuel montt](http://twitter.com/search?q=Manuel+montt) | N/A |
-| 36 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
-| 37 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
-| 38 | [nayara vit](http://twitter.com/search?q=nayara+vit) | N/A |
-| 39 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 40 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
-| 41 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 42 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
-| 43 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
-| 44 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 45 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 46 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 47 | [Martín Cárcamo](http://twitter.com/search?q=Mart%c3%adn+C%c3%a1rcamo) | N/A |
-| 48 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
-| 49 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 15 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 16 | [oportunista](http://twitter.com/search?q=oportunista) | N/A |
+| 17 | [municipalidad de santiago](http://twitter.com/search?q=municipalidad+de+santiago) | N/A |
+| 18 | [INCOMPETENTE](http://twitter.com/search?q=INCOMPETENTE) | N/A |
+| 19 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 20 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 21 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 22 | [putre](http://twitter.com/search?q=putre) | N/A |
+| 23 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 25 | [los quillayes](http://twitter.com/search?q=los+quillayes) | N/A |
+| 26 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 27 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 28 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 29 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 30 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
+| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 32 | [manuel montt](http://twitter.com/search?q=manuel+montt) | N/A |
+| 33 | [cataldo](http://twitter.com/search?q=cataldo) | N/A |
+| 34 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
+| 35 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 36 | [nayara vit](http://twitter.com/search?q=nayara+vit) | N/A |
+| 37 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 38 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
+| 39 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 40 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 41 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
+| 42 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 43 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 44 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
+| 45 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 46 | [scotiabank](http://twitter.com/search?q=scotiabank) | N/A |
+| 47 | [las condes](http://twitter.com/search?q=las+condes) | N/A |
+| 48 | [Winter](http://twitter.com/search?q=Winter) | N/A |
 
 
 

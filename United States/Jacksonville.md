@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-04-14 11:17:59 UTC`
+📆 Last Updated: `2023-04-14 12:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 1 | [#TSTheErasTour](http://twitter.com/search?q=%23TSTheErasTour) | N/A |
 | 2 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
 | 3 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 4 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for [United States](</United States>)
 | 9 | [Nani](http://twitter.com/search?q=Nani) | N/A |
 | 10 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
 | 11 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 12 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 13 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 14 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 15 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 16 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 18 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 19 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 20 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 21 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 22 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 23 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 24 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 25 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 26 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 27 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 28 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 29 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 30 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 31 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 32 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 33 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 34 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 35 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
-| 36 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 37 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 39 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 40 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 41 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 42 | [Borg](http://twitter.com/search?q=Borg) | N/A |
-| 43 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
-| 44 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 45 | [Polynesian](http://twitter.com/search?q=Polynesian) | N/A |
-| 46 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
-| 47 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 48 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 49 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 50 | [Bow Wow](http://twitter.com/search?q=Bow+Wow) | N/A |
+| 12 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 13 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 14 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 15 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 16 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 17 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 18 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 19 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
+| 20 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 21 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 22 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 23 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 24 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 25 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 26 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 27 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 28 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 29 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 30 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 31 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
+| 32 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 33 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 34 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 35 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 36 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 37 | [Borg](http://twitter.com/search?q=Borg) | N/A |
+| 38 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
+| 39 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 40 | [Speak Now and Treacherous](http://twitter.com/search?q=Speak+Now+and+Treacherous) | N/A |
+| 41 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 42 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 43 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 44 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 45 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 46 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 47 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 48 | [Taker](http://twitter.com/search?q=Taker) | N/A |
+| 49 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 50 | [MrBeast](http://twitter.com/search?q=MrBeast) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-14 11:18:10 UTC`
+📆 Last Updated: `2023-04-14 12:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Lebanon
 | 14 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
 | 15 | [حبيب يونس](http://twitter.com/search?q=%d8%ad%d8%a8%d9%8a%d8%a8+%d9%8a%d9%88%d9%86%d8%b3) | N/A |
 | 16 | [الجبهه اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d9%87%d9%87+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 17 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 18 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | N/A |
-| 19 | [ماريان الحويك](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d9%83) | N/A |
-| 20 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 21 | [الامام القايد السيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 22 | [لبنان وطن](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d9%88%d8%b7%d9%86) | N/A |
-| 23 | [قانون الشراء العام](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 24 | [سبيل هدي سلوم](http://twitter.com/search?q=%d8%b3%d8%a8%d9%8a%d9%84+%d9%87%d8%af%d9%8a+%d8%b3%d9%84%d9%88%d9%85) | N/A |
-| 25 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
-| 26 | [وعد الاخره](http://twitter.com/search?q=%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%87) | N/A |
-| 27 | [التوقيف الاحتياطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%b7%d9%8a) | N/A |
-| 28 | [وزير العدل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 29 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
-| 30 | [طيران الشرق الاوسط](http://twitter.com/search?q=%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
-| 31 | [ناجي حايك](http://twitter.com/search?q=%d9%86%d8%a7%d8%ac%d9%8a+%d8%ad%d8%a7%d9%8a%d9%83) | N/A |
-| 32 | [الدوله السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 33 | [ساعات التغذيه](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%ba%d8%b0%d9%8a%d9%87) | N/A |
-| 34 | [التوقيت الصيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
-| 35 | [ابراهيم النابلسي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d9%86%d8%a7%d8%a8%d9%84%d8%b3%d9%8a) | N/A |
-| 36 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
-| 37 | [مكتب المجلس](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3) | N/A |
-| 38 | [حرب الاخرين](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%8a%d9%86) | N/A |
-| 39 | [لتحرير فلسطين](http://twitter.com/search?q=%d9%84%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1+%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
-| 40 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 41 | [ذكري اليمه](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d9%8a%d9%85%d9%87) | N/A |
-| 42 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 43 | [اليابان](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
-| 44 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 45 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
-| 46 | [رفيق الحريري](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
-| 47 | [الرحلات الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
-| 48 | [الاحتلال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 49 | [اللامركزيه الاداريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 50 | [والبحرين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
+| 17 | [تبادل الاسري](http://twitter.com/search?q=%d8%aa%d8%a8%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%8a) | N/A |
+| 18 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 19 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | N/A |
+| 20 | [ماريان الحويك](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d9%83) | N/A |
+| 21 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 22 | [الامام القايد السيد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%82%d8%a7%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 23 | [لبنان وطن](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86+%d9%88%d8%b7%d9%86) | N/A |
+| 24 | [قانون الشراء العام](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d9%88%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 25 | [سبيل هدي سلوم](http://twitter.com/search?q=%d8%b3%d8%a8%d9%8a%d9%84+%d9%87%d8%af%d9%8a+%d8%b3%d9%84%d9%88%d9%85) | N/A |
+| 26 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
+| 27 | [وعد الاخره](http://twitter.com/search?q=%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%87) | N/A |
+| 28 | [التوقيف الاحتياطي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%8a%d8%a7%d8%b7%d9%8a) | N/A |
+| 29 | [وزير العدل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 30 | [ترامب](http://twitter.com/search?q=%d8%aa%d8%b1%d8%a7%d9%85%d8%a8) | N/A |
+| 31 | [طيران الشرق الاوسط](http://twitter.com/search?q=%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
+| 32 | [ناجي حايك](http://twitter.com/search?q=%d9%86%d8%a7%d8%ac%d9%8a+%d8%ad%d8%a7%d9%8a%d9%83) | N/A |
+| 33 | [الدوله السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 34 | [ساعات التغذيه](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%ba%d8%b0%d9%8a%d9%87) | N/A |
+| 35 | [التوقيت الصيفي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d8%b5%d9%8a%d9%81%d9%8a) | N/A |
+| 36 | [ابراهيم النابلسي](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85+%d8%a7%d9%84%d9%86%d8%a7%d8%a8%d9%84%d8%b3%d9%8a) | N/A |
+| 37 | [الاحتلال الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 38 | [مكتب المجلس](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3) | N/A |
+| 39 | [حرب الاخرين](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a8+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%8a%d9%86) | N/A |
+| 40 | [لتحرير فلسطين](http://twitter.com/search?q=%d9%84%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1+%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
+| 41 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 42 | [ذكري اليمه](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d9%8a%d9%85%d9%87) | N/A |
+| 43 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 44 | [ياسر عرفات](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%b9%d8%b1%d9%81%d8%a7%d8%aa) | N/A |
+| 45 | [اليابان](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d8%a8%d8%a7%d9%86) | N/A |
+| 46 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 47 | [رفيق الحريري](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
+| 48 | [الرحلات الجويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%ad%d9%84%d8%a7%d8%aa+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d9%87) | N/A |
+| 49 | [الاحتلال السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 50 | [اللامركزيه الاداريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%a7%d9%85%d8%b1%d9%83%d8%b2%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
 
 
 

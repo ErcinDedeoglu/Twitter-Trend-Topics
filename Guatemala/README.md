@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-14 11:18:08 UTC`
+📆 Last Updated: `2023-04-14 12:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Guatemala
 | 6 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
 | 7 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
 | 8 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
-| 9 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
+| 9 | [carlos pineda](http://twitter.com/search?q=carlos+pineda) | N/A |
 | 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
@@ -36,7 +36,7 @@ This is top 50 for Guatemala
 | 19 | [santa catarina pinula](http://twitter.com/search?q=santa+catarina+pinula) | N/A |
 | 20 | [luis hernández azmitia](http://twitter.com/search?q=luis+hern%c3%a1ndez+azmitia) | N/A |
 | 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 22 | [Malacateco](http://twitter.com/search?q=Malacateco) | N/A |
+| 22 | [malacateco](http://twitter.com/search?q=malacateco) | N/A |
 | 23 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 24 | [ignacio fuentes](http://twitter.com/search?q=ignacio+fuentes) | N/A |
 | 25 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
@@ -51,13 +51,13 @@ This is top 50 for Guatemala
 | 34 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
 | 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
 | 36 | [mulet](http://twitter.com/search?q=mulet) | N/A |
-| 37 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 38 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 39 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
-| 40 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 41 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 42 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
-| 43 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 38 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
+| 39 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 40 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 41 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 42 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 43 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 44 | [El Progreso](http://twitter.com/search?q=El+Progreso) | N/A |
 | 45 | [plgp](http://twitter.com/search?q=plgp) | N/A |
 | 46 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |

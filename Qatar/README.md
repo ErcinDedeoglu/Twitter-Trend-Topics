@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-14 11:18:12 UTC`
+📆 Last Updated: `2023-04-14 12:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,11 +60,11 @@ This is top 50 for Qatar
 | 43 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
 | 44 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
 | 45 | [العرش العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b4+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 46 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 47 | [الاتحاد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 48 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 49 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 50 | [سالم](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85) | سالم (pronounced sa-lem) is an Arabic word meaning "safe" or "healthy". It is often used as a greeting or to wish someone well. |
+| 46 | [الاتحاد القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
+| 47 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
+| 48 | [الربع الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a8%d8%b9+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 49 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 50 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-14 11:17:18 UTC`
+📆 Last Updated: `2023-04-14 12:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 7 | [Posorja](http://twitter.com/search?q=Posorja) | N/A |
 | 8 | [penitenciaría del litoral](http://twitter.com/search?q=penitenciar%c3%ada+del+litoral) | N/A |
 | 9 | [LOES](http://twitter.com/search?q=LOES) | N/A |
-| 10 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
-| 11 | [Coco](http://twitter.com/search?q=Coco) | N/A |
-| 12 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
+| 10 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
+| 11 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
+| 12 | [Coco](http://twitter.com/search?q=Coco) | N/A |
 | 13 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
 | 14 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
 | 15 | [Glas](http://twitter.com/search?q=Glas) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 26 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 27 | [rodrigo paz](http://twitter.com/search?q=rodrigo+paz) | N/A |
 | 28 | [los tiguerones](http://twitter.com/search?q=los+tiguerones) | N/A |
-| 29 | [Andreina](http://twitter.com/search?q=Andreina) | N/A |
+| 29 | [andreina](http://twitter.com/search?q=andreina) | N/A |
 | 30 | [inter miami](http://twitter.com/search?q=inter+miami) | N/A |
 | 31 | [con 73](http://twitter.com/search?q=con+73) | N/A |
 | 32 | [leonardo campana](http://twitter.com/search?q=leonardo+campana) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 37 | [liga vs barcelona](http://twitter.com/search?q=liga+vs+barcelona) | N/A |
 | 38 | [pachakutik](http://twitter.com/search?q=pachakutik) | N/A |
 | 39 | [educación superior](http://twitter.com/search?q=educaci%c3%b3n+superior) | N/A |
-| 40 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
+| 40 | [alborada](http://twitter.com/search?q=alborada) | N/A |
 | 41 | [gualaceo](http://twitter.com/search?q=gualaceo) | N/A |
-| 42 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 43 | [incómodo](http://twitter.com/search?q=inc%c3%b3modo) | N/A |
-| 44 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 45 | [Guacharnaco](http://twitter.com/search?q=Guacharnaco) | N/A |
-| 46 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
+| 42 | [incómodo](http://twitter.com/search?q=inc%c3%b3modo) | N/A |
+| 43 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 44 | [guacharnaco](http://twitter.com/search?q=guacharnaco) | N/A |
+| 45 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
+| 46 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
 | 47 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
-| 48 | [Pascuales](http://twitter.com/search?q=Pascuales) | N/A |
-| 49 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
-| 50 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 48 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
+| 49 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
+| 50 | [hoy 13](http://twitter.com/search?q=hoy+13) | N/A |
 
 
 

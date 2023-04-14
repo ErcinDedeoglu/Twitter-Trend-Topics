@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-04-14 11:18:00 UTC`
+📆 Last Updated: `2023-04-14 12:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,20 +16,20 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 2 | [colin rea](http://twitter.com/search?q=colin+rea) | N/A |
-| 3 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 4 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 5 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 6 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 7 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 8 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
-| 9 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 10 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 11 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 12 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 13 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 2 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 3 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 4 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 5 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 6 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 7 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 8 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 9 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
+| 10 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 11 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 12 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 13 | [Effie](http://twitter.com/search?q=Effie) | N/A |
 | 14 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 15 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 15 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
 | 16 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
 | 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
 | 18 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
@@ -38,32 +38,32 @@ This is top 50 for [United States](</United States>)
 | 21 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
 | 22 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 23 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 24 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 25 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 26 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 27 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 28 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 29 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 30 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 31 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 32 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 33 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 34 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 35 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
-| 36 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 37 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 39 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 40 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 41 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 42 | [Borg](http://twitter.com/search?q=Borg) | N/A |
-| 43 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
-| 44 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 45 | [Polynesian](http://twitter.com/search?q=Polynesian) | N/A |
-| 46 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
-| 47 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 48 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 49 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 24 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 25 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 26 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 27 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 28 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 29 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 30 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 31 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 32 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 33 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
+| 34 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 35 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 36 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 37 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 38 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 39 | [Borg](http://twitter.com/search?q=Borg) | N/A |
+| 40 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
+| 41 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 42 | [Speak Now and Treacherous](http://twitter.com/search?q=Speak+Now+and+Treacherous) | N/A |
+| 43 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 44 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 45 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 46 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 47 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 48 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 49 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
 
 
 

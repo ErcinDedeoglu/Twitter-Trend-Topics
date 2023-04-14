@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-14 11:17:25 UTC`
+📆 Last Updated: `2023-04-14 12:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [Germany](</Germany>)
 | 8 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
 | 9 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
 | 10 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 11 | ['Komplementärfarben'](http://twitter.com/search?q=%27Komplement%c3%a4rfarben%27) | N/A |
-| 12 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
-| 13 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 14 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 11 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
+| 12 | ['Komplementärfarben'](http://twitter.com/search?q=%27Komplement%c3%a4rfarben%27) | N/A |
+| 13 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 14 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 15 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
 | 16 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 17 | [Messing](http://twitter.com/search?q=Messing) | N/A |
-| 18 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 19 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 17 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 18 | [Ulrike](http://twitter.com/search?q=Ulrike) | N/A |
+| 19 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
 | 20 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 21 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 22 | [Ulrike](http://twitter.com/search?q=Ulrike) | N/A |
-| 23 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 21 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 22 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 23 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 24 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 25 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 26 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 27 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 28 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 29 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
-| 30 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 25 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 26 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 27 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
+| 28 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 29 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
+| 30 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
 | 31 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
 | 32 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 33 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
-| 34 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
-| 35 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
-| 36 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
-| 37 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 38 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
-| 39 | [Energiesparen](http://twitter.com/search?q=Energiesparen) | N/A |
-| 40 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
-| 41 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 42 | [Erkältung](http://twitter.com/search?q=Erk%c3%a4ltung) | N/A |
-| 43 | [Nobelpreisträger](http://twitter.com/search?q=Nobelpreistr%c3%a4ger) | N/A |
-| 44 | [please stärke die fdp](http://twitter.com/search?q=please+st%c3%a4rke+die+fdp) | N/A |
-| 45 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 46 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 47 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 48 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 33 | [Messing](http://twitter.com/search?q=Messing) | N/A |
+| 34 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
+| 35 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 36 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
+| 37 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
+| 38 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 39 | [Erkältung](http://twitter.com/search?q=Erk%c3%a4ltung) | N/A |
+| 40 | [please stärke die fdp](http://twitter.com/search?q=please+st%c3%a4rke+die+fdp) | N/A |
+| 41 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 42 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 43 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 44 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 45 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 46 | [Rinder](http://twitter.com/search?q=Rinder) | N/A |
+| 47 | [Säure](http://twitter.com/search?q=S%c3%a4ure) | N/A |
+| 48 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
 
 
 

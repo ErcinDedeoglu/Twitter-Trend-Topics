@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-04-14 11:17:17 UTC`
+📆 Last Updated: `2023-04-14 12:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,19 +18,19 @@ This is top 50 for [Colombia](</Colombia>)
 | 1 | [Google](http://twitter.com/search?q=Google) | N/A |
 | 2 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
 | 3 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 4 | [Times](http://twitter.com/search?q=Times) | N/A |
-| 5 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
-| 6 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
+| 4 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
+| 5 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
+| 6 | [Times](http://twitter.com/search?q=Times) | N/A |
 | 7 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
 | 8 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
 | 9 | [secuestrados](http://twitter.com/search?q=secuestrados) | N/A |
 | 10 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
 | 11 | [Secuestro](http://twitter.com/search?q=Secuestro) | N/A |
 | 12 | [#anadenadie](http://twitter.com/search?q=%23anadenadie) | N/A |
-| 13 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 14 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
-| 15 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 16 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 13 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
+| 14 | [la vieja](http://twitter.com/search?q=la+vieja) | N/A |
+| 15 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 16 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 17 | [#NuestraRealidadEs](http://twitter.com/search?q=%23NuestraRealidadEs) | N/A |
 | 18 | [Homer](http://twitter.com/search?q=Homer) | N/A |
 | 19 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
@@ -42,7 +42,7 @@ This is top 50 for [Colombia](</Colombia>)
 | 25 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
 | 26 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 27 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
-| 28 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 28 | [carulla](http://twitter.com/search?q=carulla) | N/A |
 | 29 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
 | 30 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
 | 31 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-14 11:18:03 UTC`
+📆 Last Updated: `2023-04-14 12:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 2 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 3 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 4 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 5 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 6 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 7 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 8 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 9 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 10 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
-| 11 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 12 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 13 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 14 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 1 | [#LAKings](http://twitter.com/search?q=%23LAKings) | N/A |
+| 2 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 3 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 4 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 5 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 6 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 7 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 8 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 9 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
+| 10 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 11 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 12 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 13 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 14 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
 | 15 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 16 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 18 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 19 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 20 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 21 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 22 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 23 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 24 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 25 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 26 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 27 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 28 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 29 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 30 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 31 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 32 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 33 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 34 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 35 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 36 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 37 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
-| 38 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 39 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 40 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 41 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 42 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 43 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 44 | [Borg](http://twitter.com/search?q=Borg) | N/A |
-| 45 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
-| 46 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 47 | [Polynesian](http://twitter.com/search?q=Polynesian) | N/A |
-| 48 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
-| 49 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 16 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 18 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 19 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 20 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 21 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
+| 22 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 23 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 24 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 25 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 26 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 27 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 28 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 29 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 30 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 31 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 32 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 33 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
+| 34 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 35 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 36 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 37 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 38 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 39 | [Borg](http://twitter.com/search?q=Borg) | N/A |
+| 40 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
+| 41 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 42 | [Speak Now and Treacherous](http://twitter.com/search?q=Speak+Now+and+Treacherous) | N/A |
+| 43 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 44 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 45 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 46 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 47 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 48 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 49 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
 
 
 
