@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-04-14 20:18:17 UTC`
+📆 Last Updated: `2023-04-14 21:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ISOJ2023](http://twitter.com/search?q=%23ISOJ2023) | N/A |
-| 2 | [Game Day](http://twitter.com/search?q=Game+Day) | N/A |
-| 3 | [#Alphabetnetwork](http://twitter.com/search?q=%23Alphabetnetwork) | N/A |
-| 4 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 5 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 6 | [#MAGAWarOnWomensRights](http://twitter.com/search?q=%23MAGAWarOnWomensRights) | N/A |
-| 7 | [Mikey Williams](http://twitter.com/search?q=Mikey+Williams) | N/A |
-| 8 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 9 | [#UniswapHack](http://twitter.com/search?q=%23UniswapHack) | N/A |
-| 10 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [Miles Bridges](http://twitter.com/search?q=Miles+Bridges) | Miles Bridges is an American professional basketball player who currently plays for the Charlotte Hornets of the National Basketball Association (NBA). His name is a combination of his given name, Miles, and his mother's maiden name, Bridges. The phrase "Miles Bridges" can be used to refer to the basketball player himself. |
-| 13 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 14 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 15 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 16 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 17 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 18 | [Tony Gonzalez](http://twitter.com/search?q=Tony+Gonzalez) | N/A |
-| 19 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 20 | [After Hours](http://twitter.com/search?q=After+Hours) | N/A |
-| 21 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 22 | [Blippi](http://twitter.com/search?q=Blippi) | N/A |
-| 23 | [Justice Alito](http://twitter.com/search?q=Justice+Alito) | N/A |
-| 24 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 25 | [Drew Sample](http://twitter.com/search?q=Drew+Sample) | N/A |
-| 26 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 27 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 28 | [Revoke Cash](http://twitter.com/search?q=Revoke+Cash) | N/A |
-| 29 | [Liberty University](http://twitter.com/search?q=Liberty+University) | N/A |
-| 30 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 31 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 32 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 33 | [Maxie](http://twitter.com/search?q=Maxie) | N/A |
-| 34 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 35 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
-| 36 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 37 | [Johnny Cash](http://twitter.com/search?q=Johnny+Cash) | N/A |
-| 38 | [Drop a B&W](http://twitter.com/search?q=Drop+a+B%26W) | N/A |
-| 39 | [Dark and Darker](http://twitter.com/search?q=Dark+and+Darker) | "Dark and Darker" is an idiom that is used to describe a situation that is becoming increasingly worse or more difficult. It can be used to describe a situation that is getting more serious, or a problem that is becoming harder to solve. |
-| 40 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 41 | [Vampire Survivors](http://twitter.com/search?q=Vampire+Survivors) | N/A |
-| 42 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 43 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 44 | [One False Move](http://twitter.com/search?q=One+False+Move) | N/A |
-| 45 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 46 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 47 | [Waylon Jennings](http://twitter.com/search?q=Waylon+Jennings) | N/A |
-| 48 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 1 | [STAAR](http://twitter.com/search?q=STAAR) | N/A |
+| 2 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 3 | [#UniswapBreach](http://twitter.com/search?q=%23UniswapBreach) | N/A |
+| 4 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 5 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
+| 6 | [#Alphabetnetwork](http://twitter.com/search?q=%23Alphabetnetwork) | N/A |
+| 7 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 8 | [#MAGAWarOnWomensRights](http://twitter.com/search?q=%23MAGAWarOnWomensRights) | N/A |
+| 9 | [Mikey Williams](http://twitter.com/search?q=Mikey+Williams) | N/A |
+| 10 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 11 | [Glenn Beck](http://twitter.com/search?q=Glenn+Beck) | N/A |
+| 12 | [Standy](http://twitter.com/search?q=Standy) | N/A |
+| 13 | [Miles Bridges](http://twitter.com/search?q=Miles+Bridges) | Miles Bridges is an American professional basketball player who currently plays for the Charlotte Hornets of the National Basketball Association (NBA). His name is a combination of his given name, Miles, and his mother's maiden name, Bridges. The phrase "Miles Bridges" can be used to refer to the basketball player himself. |
+| 14 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 15 | [Vampire Survivors](http://twitter.com/search?q=Vampire+Survivors) | N/A |
+| 16 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 17 | [Tommy Milone](http://twitter.com/search?q=Tommy+Milone) | N/A |
+| 18 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 19 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 20 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 21 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 22 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 23 | [Atheism](http://twitter.com/search?q=Atheism) | N/A |
+| 24 | [Tony Gonzalez](http://twitter.com/search?q=Tony+Gonzalez) | N/A |
+| 25 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 26 | [Alucard](http://twitter.com/search?q=Alucard) | N/A |
+| 27 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 28 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 29 | [Castlevania](http://twitter.com/search?q=Castlevania) | N/A |
+| 30 | [Drew Sample](http://twitter.com/search?q=Drew+Sample) | N/A |
+| 31 | [Drop a B&W](http://twitter.com/search?q=Drop+a+B%26W) | N/A |
+| 32 | [Liberty University](http://twitter.com/search?q=Liberty+University) | N/A |
+| 33 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 34 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 35 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 36 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 37 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 40 | [Kristi Noem](http://twitter.com/search?q=Kristi+Noem) | N/A |
+| 41 | [Blippi](http://twitter.com/search?q=Blippi) | N/A |
+| 42 | [Brendan Whitworth](http://twitter.com/search?q=Brendan+Whitworth) | N/A |
+| 43 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 44 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 45 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
+| 46 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 47 | [Revoke Cash](http://twitter.com/search?q=Revoke+Cash) | N/A |
+| 48 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
 
 
 

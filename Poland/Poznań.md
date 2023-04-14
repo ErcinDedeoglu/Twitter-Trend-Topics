@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-14 20:17:43 UTC`
+📆 Last Updated: `2023-04-14 21:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 2 | [#WISSTA](http://twitter.com/search?q=%23WISSTA) | N/A |
-| 3 | [#ZAGGÓR](http://twitter.com/search?q=%23ZAGG%c3%93R) | N/A |
-| 4 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
-| 5 | [#lchfio](http://twitter.com/search?q=%23lchfio) | N/A |
-| 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 7 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 8 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 9 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 10 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 11 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 12 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 13 | [Stal](http://twitter.com/search?q=Stal) | N/A |
-| 14 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
-| 15 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
-| 16 | [Vamos Wisła](http://twitter.com/search?q=Vamos+Wis%c5%82a) | N/A |
-| 17 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
-| 18 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
-| 19 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 20 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 21 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
-| 22 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 23 | [Pani Profesor](http://twitter.com/search?q=Pani+Profesor) | N/A |
-| 24 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 25 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 26 | [Szmyta](http://twitter.com/search?q=Szmyta) | N/A |
-| 27 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 28 | [T-55](http://twitter.com/search?q=T-55) | N/A |
-| 29 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
-| 30 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 31 | [Tomasz L.](http://twitter.com/search?q=Tomasz+L.) | N/A |
-| 32 | [Czarnkiem](http://twitter.com/search?q=Czarnkiem) | N/A |
-| 33 | [Chrztu Polski](http://twitter.com/search?q=Chrztu+Polski) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 35 | [Broniarz](http://twitter.com/search?q=Broniarz) | N/A |
-| 36 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 37 | [Żakowski](http://twitter.com/search?q=%c5%bbakowski) | N/A |
-| 38 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 39 | [Berlingo](http://twitter.com/search?q=Berlingo) | N/A |
-| 40 | [Amsterdamie](http://twitter.com/search?q=Amsterdamie) | N/A |
-| 41 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 42 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 43 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 44 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 45 | [Weronika Falkowska](http://twitter.com/search?q=Weronika+Falkowska) | N/A |
-| 46 | [Gwarancja](http://twitter.com/search?q=Gwarancja) | N/A |
-| 47 | [Kujda](http://twitter.com/search?q=Kujda) | N/A |
-| 48 | [Szokujące](http://twitter.com/search?q=Szokuj%c4%85ce) | N/A |
-| 49 | [Miedwiediew](http://twitter.com/search?q=Miedwiediew) | N/A |
-| 50 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 1 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
+| 2 | [#ZAGGÓR](http://twitter.com/search?q=%23ZAGG%c3%93R) | N/A |
+| 3 | [#WISSTA](http://twitter.com/search?q=%23WISSTA) | N/A |
+| 4 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 5 | [#lpoacf](http://twitter.com/search?q=%23lpoacf) | N/A |
+| 6 | [#PlusLiga](http://twitter.com/search?q=%23PlusLiga) | N/A |
+| 7 | [Żyro](http://twitter.com/search?q=%c5%bbyro) | N/A |
+| 8 | [Młyński](http://twitter.com/search?q=M%c5%82y%c5%84ski) | N/A |
+| 9 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
+| 10 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 11 | [Starzyński](http://twitter.com/search?q=Starzy%c5%84ski) | N/A |
+| 12 | [Sobol](http://twitter.com/search?q=Sobol) | N/A |
+| 13 | [Stali](http://twitter.com/search?q=Stali) | N/A |
+| 14 | [Wisły](http://twitter.com/search?q=Wis%c5%82y) | N/A |
+| 15 | [Górnika](http://twitter.com/search?q=G%c3%b3rnika) | N/A |
+| 16 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 17 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 18 | [Tachi](http://twitter.com/search?q=Tachi) | N/A |
+| 19 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 20 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 21 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 22 | [Marcin Kamiński](http://twitter.com/search?q=Marcin+Kami%c5%84ski) | N/A |
+| 23 | [Junca](http://twitter.com/search?q=Junca) | N/A |
+| 24 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 25 | [Polska](http://twitter.com/search?q=Polska) | N/A |
+| 26 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
+| 27 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 28 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 29 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 30 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
+| 31 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 32 | [Miedź](http://twitter.com/search?q=Mied%c5%ba) | N/A |
+| 33 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
+| 34 | [Miedwiediew](http://twitter.com/search?q=Miedwiediew) | N/A |
+| 35 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 36 | [Senyszyn](http://twitter.com/search?q=Senyszyn) | N/A |
+| 37 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 38 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 39 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
+| 40 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 41 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
+| 42 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
+| 43 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 44 | [Ruchem](http://twitter.com/search?q=Ruchem) | N/A |
+| 45 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 46 | [Berlingo](http://twitter.com/search?q=Berlingo) | N/A |
+| 47 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 48 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 49 | [Czarnkiem](http://twitter.com/search?q=Czarnkiem) | N/A |
+| 50 | [Chrztu Polski](http://twitter.com/search?q=Chrztu+Polski) | N/A |
 
 
 

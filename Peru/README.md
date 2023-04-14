@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-14 20:18:23 UTC`
+📆 Last Updated: `2023-04-14 21:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Urresti](http://twitter.com/search?q=Urresti) | N/A |
-| 2 | [Eva Ayllón](http://twitter.com/search?q=Eva+Ayll%c3%b3n) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Surco](http://twitter.com/search?q=Surco) | N/A |
-| 5 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 6 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 7 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 8 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 9 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 2 | [Surco](http://twitter.com/search?q=Surco) | N/A |
+| 3 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 4 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 5 | [Eva Ayllón](http://twitter.com/search?q=Eva+Ayll%c3%b3n) | N/A |
+| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 7 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 8 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 9 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 10 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 11 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 12 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 13 | [#VoleyxMDeportes](http://twitter.com/search?q=%23VoleyxMDeportes) | N/A |
-| 14 | [Hugo Bustíos](http://twitter.com/search?q=Hugo+Bust%c3%ados) | N/A |
-| 15 | [The Evas Tour](http://twitter.com/search?q=The+Evas+Tour) | N/A |
-| 16 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 17 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 18 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
-| 19 | [Mark Vito](http://twitter.com/search?q=Mark+Vito) | N/A |
-| 20 | [ESTOY CON TU KARMA](http://twitter.com/search?q=ESTOY+CON+TU+KARMA) | N/A |
-| 21 | [Martha Huatay](http://twitter.com/search?q=Martha+Huatay) | N/A |
-| 22 | [Huaral](http://twitter.com/search?q=Huaral) | N/A |
-| 23 | [1trago out now](http://twitter.com/search?q=1trago+out+now) | N/A |
-| 24 | [1trago pa olvidarte](http://twitter.com/search?q=1trago+pa+olvidarte) | N/A |
-| 25 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
-| 26 | [#DiaDelBeso](http://twitter.com/search?q=%23DiaDelBeso) | N/A |
-| 27 | [Tacna](http://twitter.com/search?q=Tacna) | N/A |
-| 28 | [#AlwayshereforBecky](http://twitter.com/search?q=%23AlwayshereforBecky) | N/A |
-| 29 | [Sigrid](http://twitter.com/search?q=Sigrid) | N/A |
-| 30 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 31 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 32 | [Job 20](http://twitter.com/search?q=Job+20) | N/A |
-| 33 | [Argel](http://twitter.com/search?q=Argel) | N/A |
-| 34 | [Falsa](http://twitter.com/search?q=Falsa) | N/A |
-| 35 | [Saharaui](http://twitter.com/search?q=Saharaui) | N/A |
-| 36 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 37 | [Caretas](http://twitter.com/search?q=Caretas) | N/A |
-| 38 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
-| 39 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 40 | [Farfan](http://twitter.com/search?q=Farfan) | N/A |
-| 41 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 42 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 43 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 44 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 45 | [Marruecos](http://twitter.com/search?q=Marruecos) | N/A |
-| 46 | [La Perla](http://twitter.com/search?q=La+Perla) | N/A |
-| 47 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 48 | [USMP](http://twitter.com/search?q=USMP) | N/A |
-| 49 | [Juan Reynoso](http://twitter.com/search?q=Juan+Reynoso) | N/A |
-| 50 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
+| 11 | [The Evas Tour](http://twitter.com/search?q=The+Evas+Tour) | N/A |
+| 12 | [Extrema](http://twitter.com/search?q=Extrema) | N/A |
+| 13 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 14 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 17 | [Hugo Bustíos](http://twitter.com/search?q=Hugo+Bust%c3%ados) | N/A |
+| 18 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 19 | [#alangulo](http://twitter.com/search?q=%23alangulo) | N/A |
+| 20 | [Venezolanos](http://twitter.com/search?q=Venezolanos) | N/A |
+| 21 | [#AlwayshereforBecky](http://twitter.com/search?q=%23AlwayshereforBecky) | N/A |
+| 22 | [Tacna](http://twitter.com/search?q=Tacna) | N/A |
+| 23 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
+| 24 | [ESTOY CON TU KARMA](http://twitter.com/search?q=ESTOY+CON+TU+KARMA) | N/A |
+| 25 | [1TRAGO PA OLVIDARTE](http://twitter.com/search?q=1TRAGO+PA+OLVIDARTE) | N/A |
+| 26 | [1TRAGO OUT NOW](http://twitter.com/search?q=1TRAGO+OUT+NOW) | N/A |
+| 27 | [Mark Vito](http://twitter.com/search?q=Mark+Vito) | N/A |
+| 28 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
+| 29 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 30 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 31 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 32 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 33 | [Huaral](http://twitter.com/search?q=Huaral) | N/A |
+| 34 | [Sport Boys](http://twitter.com/search?q=Sport+Boys) | N/A |
+| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 36 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
+| 37 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 38 | [Abancay](http://twitter.com/search?q=Abancay) | N/A |
+| 39 | [Lapadula](http://twitter.com/search?q=Lapadula) | N/A |
+| 40 | [Sigrid](http://twitter.com/search?q=Sigrid) | N/A |
+| 41 | [D-DAY GLITCH Film](http://twitter.com/search?q=D-DAY+GLITCH+Film) | N/A |
+| 42 | [Exigen](http://twitter.com/search?q=Exigen) | N/A |
+| 43 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
+| 44 | [Martha Huatay](http://twitter.com/search?q=Martha+Huatay) | N/A |
+| 45 | [Argel](http://twitter.com/search?q=Argel) | N/A |
+| 46 | [swiftie](http://twitter.com/search?q=swiftie) | N/A |
+| 47 | [USMP](http://twitter.com/search?q=USMP) | N/A |
+| 48 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 49 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 50 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 
 
 

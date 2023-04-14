@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-14 20:17:52 UTC`
+📆 Last Updated: `2023-04-14 21:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#afltigersswans](http://twitter.com/search?q=%23afltigersswans) | N/A |
-| 2 | [#nrlmanlystorm](http://twitter.com/search?q=%23nrlmanlystorm) | N/A |
+| 1 | [#AFLFreoSuns](http://twitter.com/search?q=%23AFLFreoSuns) | N/A |
+| 2 | [#NRLSharksRoosters](http://twitter.com/search?q=%23NRLSharksRoosters) | N/A |
 | 3 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
-| 4 | [#AFLFreoSuns](http://twitter.com/search?q=%23AFLFreoSuns) | N/A |
+| 4 | [#AFLCrowsBlues](http://twitter.com/search?q=%23AFLCrowsBlues) | N/A |
 | 5 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [Kerry O'Brien](http://twitter.com/search?q=Kerry+O%27Brien) | N/A |
-| 8 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 9 | [tom papley](http://twitter.com/search?q=tom+papley) | N/A |
-| 10 | [norwood oval](http://twitter.com/search?q=norwood+oval) | N/A |
-| 11 | [olam](http://twitter.com/search?q=olam) | N/A |
-| 12 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 13 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
+| 6 | [Kerry O'Brien](http://twitter.com/search?q=Kerry+O%27Brien) | N/A |
+| 7 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 8 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 9 | [norwood oval](http://twitter.com/search?q=norwood+oval) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
 | 14 | [Radley](http://twitter.com/search?q=Radley) | N/A |
-| 15 | [Gould](http://twitter.com/search?q=Gould) | Gould is a surname of English origin. It is derived from the Old English word "gold" and was originally used to denote someone who worked with gold or was wealthy. |
-| 16 | [aaron woods](http://twitter.com/search?q=aaron+woods) | N/A |
-| 17 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
-| 18 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
-| 19 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
-| 20 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 21 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
-| 22 | [Balta](http://twitter.com/search?q=Balta) | N/A |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [cotchin](http://twitter.com/search?q=cotchin) | N/A |
-| 25 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
-| 26 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 27 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 28 | [plowman](http://twitter.com/search?q=plowman) | N/A |
-| 29 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 30 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 31 | [jack riewoldt](http://twitter.com/search?q=jack+riewoldt) | N/A |
-| 32 | [jarryd hayne](http://twitter.com/search?q=jarryd+hayne) | N/A |
-| 33 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 34 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 35 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 36 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
-| 37 | [Amiss](http://twitter.com/search?q=Amiss) | N/A |
-| 38 | [nicho hynes](http://twitter.com/search?q=nicho+hynes) | N/A |
-| 39 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 40 | [Heeney](http://twitter.com/search?q=Heeney) | N/A |
-| 41 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 42 | [shark park](http://twitter.com/search?q=shark+park) | N/A |
-| 43 | [Snapchat AI](http://twitter.com/search?q=Snapchat+AI) | N/A |
-| 44 | [Hastie](http://twitter.com/search?q=Hastie) | N/A |
-| 45 | [adam gee](http://twitter.com/search?q=adam+gee) | N/A |
-| 46 | [The ABC](http://twitter.com/search?q=The+ABC) | N/A |
-| 47 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 48 | [Aged Care](http://twitter.com/search?q=Aged+Care) | N/A |
+| 15 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 16 | [jarryd hayne](http://twitter.com/search?q=jarryd+hayne) | N/A |
+| 17 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 18 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 19 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 20 | [Will Gould](http://twitter.com/search?q=Will+Gould) | N/A |
+| 21 | [Plowman](http://twitter.com/search?q=Plowman) | N/A |
+| 22 | [bedout island](http://twitter.com/search?q=bedout+island) | N/A |
+| 23 | [port hedland](http://twitter.com/search?q=port+hedland) | N/A |
+| 24 | [Pardoo Roadhouse](http://twitter.com/search?q=Pardoo+Roadhouse) | N/A |
+| 25 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
+| 26 | [The ABC](http://twitter.com/search?q=The+ABC) | N/A |
+| 27 | [Shark Park](http://twitter.com/search?q=Shark+Park) | N/A |
+| 28 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 30 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 31 | [Aged Care](http://twitter.com/search?q=Aged+Care) | N/A |
+| 32 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 33 | [Hastie](http://twitter.com/search?q=Hastie) | N/A |
+| 34 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 35 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 36 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 37 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 38 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
+| 39 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 41 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 42 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 43 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 44 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 45 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 46 | [lukosius](http://twitter.com/search?q=lukosius) | N/A |
+| 47 | [George Pell](http://twitter.com/search?q=George+Pell) | George Pell is the name of an Australian cardinal and former Vatican official who was convicted in 2018 of child sexual abuse. He was sentenced to six years in prison. The meaning of his name in English is "one who is strong and powerful". |
+| 48 | [Amiss](http://twitter.com/search?q=Amiss) | N/A |
 
 
 

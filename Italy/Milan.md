@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-14 20:17:47 UTC`
+📆 Last Updated: `2023-04-14 21:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 2 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
-| 3 | [#Spuntablu](http://twitter.com/search?q=%23Spuntablu) | N/A |
-| 4 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
-| 5 | [#14Aprile](http://twitter.com/search?q=%2314Aprile) | N/A |
-| 6 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 7 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 8 | [Ciao Paolo](http://twitter.com/search?q=Ciao+Paolo) | N/A |
-| 9 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 12 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
-| 13 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 14 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
-| 15 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 16 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 17 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
-| 18 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 21 | [Felipe Anderson](http://twitter.com/search?q=Felipe+Anderson) | Felipe Anderson is a Brazilian professional footballer who plays as an attacking midfielder for Premier League club West Ham United. His name is derived from the Portuguese words "feliz" (happy) and "pé" (foot). In English, his name translates to "happy foot". |
-| 22 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
-| 23 | [Gabbani](http://twitter.com/search?q=Gabbani) | N/A |
-| 24 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 25 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
-| 26 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
-| 27 | [Etiopia](http://twitter.com/search?q=Etiopia) | N/A |
+| 1 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
+| 2 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 3 | [#CiVuoleUnFiore](http://twitter.com/search?q=%23CiVuoleUnFiore) | N/A |
+| 4 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
+| 5 | [#IlPatriarca](http://twitter.com/search?q=%23IlPatriarca) | N/A |
+| 6 | [Marcos Antonio](http://twitter.com/search?q=Marcos+Antonio) | N/A |
+| 7 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 8 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 9 | [Ciao Paolo](http://twitter.com/search?q=Ciao+Paolo) | N/A |
+| 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 11 | [Ampadu](http://twitter.com/search?q=Ampadu) | N/A |
+| 12 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 13 | [Francesco Gabbani](http://twitter.com/search?q=Francesco+Gabbani) | N/A |
+| 14 | [PERIN](http://twitter.com/search?q=PERIN) | N/A |
+| 15 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 16 | [Irrati](http://twitter.com/search?q=Irrati) | N/A |
+| 17 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 18 | [Palla](http://twitter.com/search?q=Palla) | N/A |
+| 19 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 20 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
+| 21 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 22 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 23 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
+| 24 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 25 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 26 | [Grazia](http://twitter.com/search?q=Grazia) | N/A |
+| 27 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
 | 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 29 | [Quattrocchi](http://twitter.com/search?q=Quattrocchi) | N/A |
-| 30 | [Palla](http://twitter.com/search?q=Palla) | N/A |
-| 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 32 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 33 | [Bertinotti](http://twitter.com/search?q=Bertinotti) | N/A |
-| 34 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 35 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 36 | [Scansuolo](http://twitter.com/search?q=Scansuolo) | N/A |
-| 37 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
-| 38 | [Di Natale](http://twitter.com/search?q=Di+Natale) | N/A |
-| 39 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
-| 40 | [Anice](http://twitter.com/search?q=Anice) | N/A |
-| 41 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 42 | [Turin](http://twitter.com/search?q=Turin) | N/A |
-| 43 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
-| 44 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 45 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 46 | [Massimo Fini](http://twitter.com/search?q=Massimo+Fini) | N/A |
-| 47 | [Elonio](http://twitter.com/search?q=Elonio) | N/A |
-| 48 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 49 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 50 | [AFHF](http://twitter.com/search?q=AFHF) | N/A |
+| 29 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
+| 30 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 31 | [Drojette](http://twitter.com/search?q=Drojette) | N/A |
+| 32 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 33 | [Etiopia](http://twitter.com/search?q=Etiopia) | N/A |
+| 34 | [Chicca](http://twitter.com/search?q=Chicca) | N/A |
+| 35 | [Bertinotti](http://twitter.com/search?q=Bertinotti) | N/A |
+| 36 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 37 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
+| 38 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
+| 39 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 41 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 42 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 43 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 44 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 45 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 47 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
+| 48 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 49 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 50 | [Piantedosi](http://twitter.com/search?q=Piantedosi) | N/A |
 
 
 
