@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-14 21:16:35 UTC`
+📆 Last Updated: `2023-04-14 22:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,35 +18,35 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
 | 2 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
 | 3 | [#AjaibLuckyFriday](http://twitter.com/search?q=%23AjaibLuckyFriday) | N/A |
-| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 5 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 6 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
-| 7 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
-| 8 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
-| 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 10 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 4 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 5 | [OtsuwildriftID](http://twitter.com/search?q=OtsuwildriftID) | N/A |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 8 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
+| 9 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
+| 10 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
 | 11 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 12 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 13 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
-| 14 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
-| 15 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 16 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 12 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 15 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 16 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 17 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 18 | [B.I ID 2ND ANNIVERSARY](http://twitter.com/search?q=B.I+ID+2ND+ANNIVERSARY) | N/A |
-| 19 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 20 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
-| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 22 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 23 | [GEMPA](http://twitter.com/search?q=GEMPA) | N/A |
-| 24 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
-| 25 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 26 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 27 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 28 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 29 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
-| 30 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 31 | [Hotman](http://twitter.com/search?q=Hotman) | N/A |
-| 32 | [Artis](http://twitter.com/search?q=Artis) | N/A |
+| 18 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 19 | [B.I ID 2ND ANNIVERSARY](http://twitter.com/search?q=B.I+ID+2ND+ANNIVERSARY) | N/A |
+| 20 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 21 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
+| 22 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 23 | [Hotman](http://twitter.com/search?q=Hotman) | N/A |
+| 24 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 25 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
+| 26 | [GEMPA](http://twitter.com/search?q=GEMPA) | N/A |
+| 27 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 28 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
+| 29 | [Artis](http://twitter.com/search?q=Artis) | N/A |
+| 30 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
+| 31 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 32 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
 | 33 | [lee seunghwan thankyou](http://twitter.com/search?q=lee+seunghwan+thankyou) | N/A |
 | 34 | [Yati](http://twitter.com/search?q=Yati) | N/A |
 | 35 | [Bandung](http://twitter.com/search?q=Bandung) | N/A |
@@ -55,14 +55,14 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 38 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 39 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
 | 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [Paras](http://twitter.com/search?q=Paras) | N/A |
-| 42 | [Fight for My Life](http://twitter.com/search?q=Fight+for+My+Life) | N/A |
-| 43 | [ps sang patriot](http://twitter.com/search?q=ps+sang+patriot) | N/A |
-| 44 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 45 | [BSI Maslahat](http://twitter.com/search?q=BSI+Maslahat) | N/A |
-| 46 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
-| 47 | [Ya Ya Ya](http://twitter.com/search?q=Ya+Ya+Ya) | N/A |
-| 48 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
+| 41 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
+| 42 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 43 | [Husnul](http://twitter.com/search?q=Husnul) | N/A |
+| 44 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 45 | [Fight for My Life](http://twitter.com/search?q=Fight+for+My+Life) | N/A |
+| 46 | [ps sang patriot](http://twitter.com/search?q=ps+sang+patriot) | N/A |
+| 47 | [bsi maslahat](http://twitter.com/search?q=bsi+maslahat) | N/A |
+| 48 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
 
 
 

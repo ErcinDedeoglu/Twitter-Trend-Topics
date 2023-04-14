@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-04-14 21:16:23 UTC`
+📆 Last Updated: `2023-04-14 22:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
-| 2 | [#14Abr](http://twitter.com/search?q=%2314Abr) | N/A |
+| 1 | [#14Abr](http://twitter.com/search?q=%2314Abr) | N/A |
+| 2 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
 | 3 | [#RebeliónCívicoMilitar](http://twitter.com/search?q=%23Rebeli%c3%b3nC%c3%advicoMilitar) | N/A |
-| 4 | [#NuestraGobernadora](http://twitter.com/search?q=%23NuestraGobernadora) | N/A |
-| 5 | [#AvalLiberalParaLourdesLópez](http://twitter.com/search?q=%23AvalLiberalParaLourdesL%c3%b3pez) | N/A |
-| 6 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 7 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
-| 8 | [Carl Herrera](http://twitter.com/search?q=Carl+Herrera) | N/A |
-| 9 | [Rumildo](http://twitter.com/search?q=Rumildo) | N/A |
-| 10 | [Luis Aparicio](http://twitter.com/search?q=Luis+Aparicio) | N/A |
-| 11 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 12 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
-| 13 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 14 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
-| 15 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
-| 16 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 17 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 18 | [Juan Arango](http://twitter.com/search?q=Juan+Arango) | N/A |
-| 19 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 20 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
-| 21 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 22 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
-| 23 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 24 | [UCAB](http://twitter.com/search?q=UCAB) | N/A |
-| 25 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 26 | [Rebeca González](http://twitter.com/search?q=Rebeca+Gonz%c3%a1lez) | N/A |
-| 27 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 28 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
-| 29 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 30 | [En Valencia](http://twitter.com/search?q=En+Valencia) | N/A |
-| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 32 | [Pepeto](http://twitter.com/search?q=Pepeto) | N/A |
-| 33 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 34 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
-| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 4 | [#VINOTINTOSUB17xMTV](http://twitter.com/search?q=%23VINOTINTOSUB17xMTV) | N/A |
+| 5 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 6 | [#AvalLiberalParaLourdesLópez](http://twitter.com/search?q=%23AvalLiberalParaLourdesL%c3%b3pez) | N/A |
+| 7 | [Luis Aparicio](http://twitter.com/search?q=Luis+Aparicio) | N/A |
+| 8 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 9 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
+| 10 | [Rebeca González](http://twitter.com/search?q=Rebeca+Gonz%c3%a1lez) | N/A |
+| 11 | [Rumildo](http://twitter.com/search?q=Rumildo) | N/A |
+| 12 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 13 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 14 | [Cota Mil](http://twitter.com/search?q=Cota+Mil) | N/A |
+| 15 | [Juan Arango](http://twitter.com/search?q=Juan+Arango) | N/A |
+| 16 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 17 | [Carl Herrera](http://twitter.com/search?q=Carl+Herrera) | N/A |
+| 18 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 19 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 20 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
+| 21 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 22 | [Canel](http://twitter.com/search?q=Canel) | N/A |
+| 23 | [Expo Gobierno](http://twitter.com/search?q=Expo+Gobierno) | N/A |
+| 24 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
+| 25 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 26 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
+| 27 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 28 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
+| 29 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
+| 30 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
+| 31 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
+| 32 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 33 | [Pepeto](http://twitter.com/search?q=Pepeto) | N/A |
+| 34 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 35 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
 | 36 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 37 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 38 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 39 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
-| 40 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 42 | [Nicolás Maduro Moros](http://twitter.com/search?q=Nicol%c3%a1s+Maduro+Moros) | N/A |
-| 43 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 44 | [Barquisimeto](http://twitter.com/search?q=Barquisimeto) | N/A |
-| 45 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 46 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 47 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 48 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 49 | [Juice](http://twitter.com/search?q=Juice) | N/A |
+| 37 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 38 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
+| 39 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
+| 40 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 41 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 42 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
+| 43 | [Juice](http://twitter.com/search?q=Juice) | N/A |
+| 44 | [Nicolás Maduro Moros](http://twitter.com/search?q=Nicol%c3%a1s+Maduro+Moros) | N/A |
+| 45 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 46 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 47 | [Chevron](http://twitter.com/search?q=Chevron) | N/A |
+| 48 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
+| 49 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
 
 
 

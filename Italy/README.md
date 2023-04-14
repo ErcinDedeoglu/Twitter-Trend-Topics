@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-04-14 21:17:06 UTC`
+📆 Last Updated: `2023-04-14 22:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
-| 2 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 3 | [#CiVuoleUnFiore](http://twitter.com/search?q=%23CiVuoleUnFiore) | N/A |
-| 4 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
-| 5 | [#IlPatriarca](http://twitter.com/search?q=%23IlPatriarca) | N/A |
+| 1 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 2 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
+| 3 | [#Spuntablu](http://twitter.com/search?q=%23Spuntablu) | N/A |
+| 4 | [#CiVuoleUnFiore](http://twitter.com/search?q=%23CiVuoleUnFiore) | N/A |
+| 5 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
 | 6 | [Marcos Antonio](http://twitter.com/search?q=Marcos+Antonio) | N/A |
 | 7 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 8 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 9 | [Ciao Paolo](http://twitter.com/search?q=Ciao+Paolo) | N/A |
+| 8 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 9 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
 | 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 11 | [Ampadu](http://twitter.com/search?q=Ampadu) | N/A |
-| 12 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 13 | [Francesco Gabbani](http://twitter.com/search?q=Francesco+Gabbani) | N/A |
-| 14 | [PERIN](http://twitter.com/search?q=PERIN) | N/A |
-| 15 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 16 | [Irrati](http://twitter.com/search?q=Irrati) | N/A |
-| 17 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 18 | [Palla](http://twitter.com/search?q=Palla) | N/A |
-| 19 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 20 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
-| 21 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 22 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
-| 23 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 24 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 25 | [Grazia](http://twitter.com/search?q=Grazia) | N/A |
-| 26 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 27 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
-| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 29 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
-| 30 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 31 | [Drojette](http://twitter.com/search?q=Drojette) | N/A |
-| 32 | [Picco](http://twitter.com/search?q=Picco) | N/A |
-| 33 | [Etiopia](http://twitter.com/search?q=Etiopia) | N/A |
-| 34 | [Chicca](http://twitter.com/search?q=Chicca) | N/A |
-| 35 | [Bertinotti](http://twitter.com/search?q=Bertinotti) | N/A |
-| 36 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 37 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
-| 38 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 39 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
-| 40 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 41 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 43 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 44 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 45 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 47 | [Addis Abeba](http://twitter.com/search?q=Addis+Abeba) | N/A |
-| 48 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 49 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
-| 50 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 11 | [Ciao Paolo](http://twitter.com/search?q=Ciao+Paolo) | N/A |
+| 12 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 13 | [Ampadu](http://twitter.com/search?q=Ampadu) | N/A |
+| 14 | [Mario Mario](http://twitter.com/search?q=Mario+Mario) | N/A |
+| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 17 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
+| 18 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 19 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 20 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 21 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 22 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
+| 23 | [Irrati](http://twitter.com/search?q=Irrati) | N/A |
+| 24 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 25 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 26 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 27 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 28 | [Corona](http://twitter.com/search?q=Corona) | N/A |
+| 29 | [Chicca](http://twitter.com/search?q=Chicca) | N/A |
+| 30 | [Paganini](http://twitter.com/search?q=Paganini) | N/A |
+| 31 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
+| 32 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 33 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
+| 34 | [FIGC](http://twitter.com/search?q=FIGC) | FIGC stands for Federazione Italiana Giuoco Calcio, which is the Italian Football Federation. It is the governing body of football in Italy and is responsible for organizing and overseeing all aspects of the sport in the country. |
+| 35 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 36 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
+| 37 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 38 | [Zaccagni](http://twitter.com/search?q=Zaccagni) | Zaccagni is an Italian surname. It is derived from the Latin word "zacchaeus," which means "pure" or "innocent." In English, the name Zaccagni can be translated to mean "pure one." |
+| 39 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 40 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 41 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 42 | [Sogni](http://twitter.com/search?q=Sogni) | N/A |
+| 43 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 44 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
+| 45 | [Addis Abeba](http://twitter.com/search?q=Addis+Abeba) | N/A |
+| 46 | [Anice](http://twitter.com/search?q=Anice) | N/A |
+| 47 | [Carmelo](http://twitter.com/search?q=Carmelo) | N/A |
+| 48 | [Domani](http://twitter.com/search?q=Domani) | N/A |
+| 49 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 50 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 
 
 

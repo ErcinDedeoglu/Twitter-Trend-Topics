@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-14 21:17:04 UTC`
+📆 Last Updated: `2023-04-14 22:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,23 +17,23 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [#JYPEDoBetterForSKZ](http://twitter.com/search?q=%23JYPEDoBetterForSKZ) | N/A |
 | 2 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 3 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
-| 4 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 3 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 4 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | N/A |
 | 5 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
 | 6 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 7 | [#Фото](http://twitter.com/search?q=%23%d0%a4%d0%be%d1%82%d0%be) | N/A |
+| 7 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | N/A |
 | 8 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 9 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 10 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 11 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 9 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 10 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 11 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
 | 12 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 13 | [Гомельской](http://twitter.com/search?q=%d0%93%d0%be%d0%bc%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%be%d0%b9) | N/A |
 | 14 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
 | 15 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
 | 16 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 17 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 18 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
-| 19 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 17 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 18 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 19 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 20 | [#crypto](http://twitter.com/search?q=%23crypto) | N/A |
 | 21 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-14 21:16:41 UTC`
+📆 Last Updated: `2023-04-14 22:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
 | 3 | [Atty](http://twitter.com/search?q=Atty) | N/A |
 | 4 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
 | 5 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
-| 6 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
-| 7 | [#fml_d10](http://twitter.com/search?q=%23fml_d10) | N/A |
+| 6 | [#fml_d10](http://twitter.com/search?q=%23fml_d10) | N/A |
+| 7 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
 | 8 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
 | 9 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
 | 10 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
 | 11 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
-| 12 | [HAPPY 1ST YEAR KARLIAN](http://twitter.com/search?q=HAPPY+1ST+YEAR+KARLIAN) | N/A |
+| 12 | [happy 1st year karlian](http://twitter.com/search?q=happy+1st+year+karlian) | N/A |
 | 13 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
 | 14 | [magandang buhay vibrent](http://twitter.com/search?q=magandang+buhay+vibrent) | N/A |
-| 15 | [MARBELous HORI7ON](http://twitter.com/search?q=MARBELous+HORI7ON) | N/A |
+| 15 | [marbelous hori7on](http://twitter.com/search?q=marbelous+hori7on) | N/A |
 | 16 | [maligayang pagbabalik](http://twitter.com/search?q=maligayang+pagbabalik) | N/A |
 | 17 | [up law](http://twitter.com/search?q=up+law) | N/A |
-| 18 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 19 | [ALEXA ON STARMAGIC CONVO](http://twitter.com/search?q=ALEXA+ON+STARMAGIC+CONVO) | N/A |
-| 20 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 21 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
-| 22 | [kath for gatorade](http://twitter.com/search?q=kath+for+gatorade) | N/A |
-| 23 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
-| 24 | [ZACHAM SA PIEPNPPF](http://twitter.com/search?q=ZACHAM+SA+PIEPNPPF) | N/A |
-| 25 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 26 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
+| 18 | [ALEXA ON STARMAGIC CONVO](http://twitter.com/search?q=ALEXA+ON+STARMAGIC+CONVO) | N/A |
+| 19 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
+| 20 | [kath for gatorade](http://twitter.com/search?q=kath+for+gatorade) | N/A |
+| 21 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
+| 22 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 23 | [zacham sa piepnppf](http://twitter.com/search?q=zacham+sa+piepnppf) | N/A |
+| 24 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
+| 25 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 26 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 27 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 28 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 29 | [ZICE CAUGHT IN THE ACT](http://twitter.com/search?q=ZICE+CAUGHT+IN+THE+ACT) | N/A |
+| 28 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 29 | [zice caught in the act](http://twitter.com/search?q=zice+caught+in+the+act) | N/A |
 | 30 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
 | 31 | [Lawyers](http://twitter.com/search?q=Lawyers) | N/A |
-| 32 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
-| 33 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
+| 32 | [ginagawanyu kenayu](http://twitter.com/search?q=ginagawanyu+kenayu) | N/A |
+| 33 | [maymay autodeadma soon](http://twitter.com/search?q=maymay+autodeadma+soon) | N/A |
 | 34 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 35 | [Attorney](http://twitter.com/search?q=Attorney) | N/A |
 | 36 | [abogado na ako](http://twitter.com/search?q=abogado+na+ako) | N/A |
-| 37 | [JOSHko MANDY TC EPISODE4](http://twitter.com/search?q=JOSHko+MANDY+TC+EPISODE4) | N/A |
+| 37 | [joshko mandy tc episode4](http://twitter.com/search?q=joshko+mandy+tc+episode4) | N/A |
 | 38 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 39 | [YUJIN ON NO PREPARE](http://twitter.com/search?q=YUJIN+ON+NO+PREPARE) | N/A |
+| 39 | [yujin on no prepare](http://twitter.com/search?q=yujin+on+no+prepare) | N/A |
 | 40 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 41 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 42 | [TEENCLASH SEHAM EP4](http://twitter.com/search?q=TEENCLASH+SEHAM+EP4) | N/A |
-| 43 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 44 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
-| 45 | [LET JENNIE ATTEND CANNES](http://twitter.com/search?q=LET+JENNIE+ATTEND+CANNES) | N/A |
-| 46 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 47 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 48 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
-| 49 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 50 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 41 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
+| 42 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 43 | [teenclash seham ep4](http://twitter.com/search?q=teenclash+seham+ep4) | N/A |
+| 44 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 45 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 46 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 47 | [LET JENNIE ATTEND CANNES](http://twitter.com/search?q=LET+JENNIE+ATTEND+CANNES) | N/A |
+| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 49 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 50 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
 
 
 
