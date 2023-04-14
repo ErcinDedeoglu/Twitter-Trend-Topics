@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-04-14 17:17:26 UTC`
+📆 Last Updated: `2023-04-14 19:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Doepfner](http://twitter.com/search?q=%23Doepfner) | N/A |
-| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 3 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 4 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
-| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 6 | [#Baerbock](http://twitter.com/search?q=%23Baerbock) | N/A |
-| 7 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 8 | [#B04USG](http://twitter.com/search?q=%23B04USG) | N/A |
-| 9 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 10 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
-| 11 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 12 | [sachbeschädigung](http://twitter.com/search?q=sachbesch%c3%a4digung) | N/A |
-| 13 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 14 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 15 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 16 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 17 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 18 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 19 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 20 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 21 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 22 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 23 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 24 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
-| 25 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 26 | ['Komplementärfarben'](http://twitter.com/search?q=%27Komplement%c3%a4rfarben%27) | N/A |
-| 27 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 28 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
-| 29 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
-| 30 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 31 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
-| 32 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 33 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 34 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 35 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 36 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 37 | [Säure](http://twitter.com/search?q=S%c3%a4ure) | N/A |
-| 38 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 39 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 40 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 41 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 42 | [messing](http://twitter.com/search?q=messing) | N/A |
-| 43 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 44 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 45 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 46 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
-| 47 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 48 | [Atommüll](http://twitter.com/search?q=Atomm%c3%bcll) | N/A |
-| 49 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
-| 50 | [Kleindienst](http://twitter.com/search?q=Kleindienst) | N/A |
+| 1 | [#S04BSC](http://twitter.com/search?q=%23S04BSC) | N/A |
+| 2 | [#goodbyedeutschland](http://twitter.com/search?q=%23goodbyedeutschland) | N/A |
+| 3 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 5 | [#H96FCH](http://twitter.com/search?q=%23H96FCH) | N/A |
+| 6 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 7 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 8 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 9 | [Leitl](http://twitter.com/search?q=Leitl) | N/A |
+| 10 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 11 | [Ralle](http://twitter.com/search?q=Ralle) | N/A |
+| 12 | [Zsolt](http://twitter.com/search?q=Zsolt) | N/A |
+| 13 | [Skarke](http://twitter.com/search?q=Skarke) | N/A |
+| 14 | [Nielsen](http://twitter.com/search?q=Nielsen) | N/A |
+| 15 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 16 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 17 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 18 | [Kaminski](http://twitter.com/search?q=Kaminski) | N/A |
+| 19 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 20 | [Hannover](http://twitter.com/search?q=Hannover) | N/A |
+| 21 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 22 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 23 | [Energie](http://twitter.com/search?q=Energie) | N/A |
+| 24 | [Tanz](http://twitter.com/search?q=Tanz) | N/A |
+| 25 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 26 | [Karsten](http://twitter.com/search?q=Karsten) | N/A |
+| 27 | [ADLON](http://twitter.com/search?q=ADLON) | N/A |
+| 28 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
+| 29 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 30 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 31 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 32 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
+| 33 | [Dirndl](http://twitter.com/search?q=Dirndl) | N/A |
+| 34 | [Abstieg](http://twitter.com/search?q=Abstieg) | N/A |
+| 35 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 36 | [Liga 2](http://twitter.com/search?q=Liga+2) | Liga 2 is the second tier of the Romanian football league system. It is also known as the Liga II Serie A and Liga II Serie B. In English, it translates to League 2. |
+| 37 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 38 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 39 | [Heidenheim](http://twitter.com/search?q=Heidenheim) | N/A |
+| 40 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 41 | [Testosteron](http://twitter.com/search?q=Testosteron) | N/A |
+| 42 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 43 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 44 | [Schwarz](http://twitter.com/search?q=Schwarz) | N/A |
+| 45 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
+| 46 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 47 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 48 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 49 | ['Komplementärfarben'](http://twitter.com/search?q=%27Komplement%c3%a4rfarben%27) | N/A |
+| 50 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-04-14 17:16:59 UTC`
+📆 Last Updated: `2023-04-14 19:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ビーディ](http://twitter.com/search?q=%e3%83%93%e3%83%bc%e3%83%87%e3%82%a3) | N/A |
-| 2 | [ニューアコ](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%a2%e3%82%b3) | N/A |
-| 3 | [歌舞伎町タワー](http://twitter.com/search?q=%e6%ad%8c%e8%88%9e%e4%bc%8e%e7%94%ba%e3%82%bf%e3%83%af%e3%83%bc) | N/A |
-| 4 | [#UiPathFriends](http://twitter.com/search?q=%23UiPathFriends) | N/A |
-| 5 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
-| 6 | [カリムくん](http://twitter.com/search?q=%e3%82%ab%e3%83%aa%e3%83%a0%e3%81%8f%e3%82%93) | N/A |
-| 7 | [#おまえのプレミアムパス見せて](http://twitter.com/search?q=%23%e3%81%8a%e3%81%be%e3%81%88%e3%81%ae%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%83%91%e3%82%b9%e8%a6%8b%e3%81%9b%e3%81%a6) | N/A |
-| 8 | [メトロック](http://twitter.com/search?q=%e3%83%a1%e3%83%88%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 9 | [#BiSH札幌](http://twitter.com/search?q=%23BiSH%e6%9c%ad%e5%b9%8c) | N/A |
-| 10 | [たけちゃん](http://twitter.com/search?q=%e3%81%9f%e3%81%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 11 | [マダックス](http://twitter.com/search?q=%e3%83%9e%e3%83%80%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 12 | [今川くん](http://twitter.com/search?q=%e4%bb%8a%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
-| 13 | [制作開放](http://twitter.com/search?q=%e5%88%b6%e4%bd%9c%e9%96%8b%e6%94%be) | 制作開放 (zhi zuo kai fang) is a Chinese phrase that translates to "open production" in English. It refers to the practice of allowing people to freely create and share their own content, such as videos, music, or artwork. This concept is often associated with the open source movement, which encourages collaboration and sharing of resources. |
-| 14 | [#今の相棒を所有した訳を手短に言う](http://twitter.com/search?q=%23%e4%bb%8a%e3%81%ae%e7%9b%b8%e6%a3%92%e3%82%92%e6%89%80%e6%9c%89%e3%81%97%e3%81%9f%e8%a8%b3%e3%82%92%e6%89%8b%e7%9f%ad%e3%81%ab%e8%a8%80%e3%81%86) | N/A |
-| 15 | [#名探偵コナン](http://twitter.com/search?q=%23%e5%90%8d%e6%8e%a2%e5%81%b5%e3%82%b3%e3%83%8a%e3%83%b3) | #名探偵コナン is a Japanese manga series written and illustrated by Gosho Aoyama. It follows the adventures of high school detective Conan Edogawa, who solves difficult cases with his sharp deductive skills. The title translates to "Detective Conan" in English. |
-| 16 | [テキサス州](http://twitter.com/search?q=%e3%83%86%e3%82%ad%e3%82%b5%e3%82%b9%e5%b7%9e) | N/A |
-| 17 | [フレーム切手](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%bc%e3%83%a0%e5%88%87%e6%89%8b) | N/A |
-| 18 | [由伸さん](http://twitter.com/search?q=%e7%94%b1%e4%bc%b8%e3%81%95%e3%82%93) | N/A |
-| 19 | [HE★VENS](http://twitter.com/search?q=HE%e2%98%85VENS) | N/A |
-| 20 | [結婚会見](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e4%bc%9a%e8%a6%8b) | N/A |
-| 21 | [賽銭泥棒](http://twitter.com/search?q=%e8%b3%bd%e9%8a%ad%e6%b3%a5%e6%a3%92) | N/A |
-| 22 | [平将門の首塚](http://twitter.com/search?q=%e5%b9%b3%e5%b0%86%e9%96%80%e3%81%ae%e9%a6%96%e5%a1%9a) | N/A |
-| 23 | [春風マルシェ](http://twitter.com/search?q=%e6%98%a5%e9%a2%a8%e3%83%9e%e3%83%ab%e3%82%b7%e3%82%a7) | N/A |
-| 24 | [安田くん](http://twitter.com/search?q=%e5%ae%89%e7%94%b0%e3%81%8f%e3%82%93) | N/A |
-| 25 | [ニャオハ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%82%aa%e3%83%8f) | N/A |
-| 26 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
-| 27 | [シャニライ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%a9%e3%82%a4) | N/A |
-| 28 | [キャプテンピカチュウ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%97%e3%83%86%e3%83%b3%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
-| 29 | [ホゲータ](http://twitter.com/search?q=%e3%83%9b%e3%82%b2%e3%83%bc%e3%82%bf) | N/A |
-| 30 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
-| 31 | [球審白井](http://twitter.com/search?q=%e7%90%83%e5%af%a9%e7%99%bd%e4%ba%95) | N/A |
-| 32 | [リコちゃん](http://twitter.com/search?q=%e3%83%aa%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 33 | [ラピュタ](http://twitter.com/search?q=%e3%83%a9%e3%83%94%e3%83%a5%e3%82%bf) | N/A |
-| 34 | [青柳さん](http://twitter.com/search?q=%e9%9d%92%e6%9f%b3%e3%81%95%e3%82%93) | N/A |
-| 35 | [しょっぴー](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%a3%e3%81%b4%e3%83%bc) | N/A |
-| 36 | [アジアツアー](http://twitter.com/search?q=%e3%82%a2%e3%82%b8%e3%82%a2%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
-| 37 | [ボルテッカー](http://twitter.com/search?q=%e3%83%9c%e3%83%ab%e3%83%86%e3%83%83%e3%82%ab%e3%83%bc) | N/A |
-| 38 | [テラパゴス](http://twitter.com/search?q=%e3%83%86%e3%83%a9%e3%83%91%e3%82%b4%e3%82%b9) | N/A |
-| 39 | [関根くん](http://twitter.com/search?q=%e9%96%a2%e6%a0%b9%e3%81%8f%e3%82%93) | N/A |
-| 40 | [KPQP](http://twitter.com/search?q=KPQP) | N/A |
-| 41 | [マジェプリ](http://twitter.com/search?q=%e3%83%9e%e3%82%b8%e3%82%a7%e3%83%97%e3%83%aa) | N/A |
-| 42 | [ドルチェ](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7) | N/A |
-| 43 | [フリード博士](http://twitter.com/search?q=%e3%83%95%e3%83%aa%e3%83%bc%e3%83%89%e5%8d%9a%e5%a3%ab) | N/A |
-| 44 | [コナンの映画](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e6%98%a0%e7%94%bb) | N/A |
-| 45 | [ソウブレイズ](http://twitter.com/search?q=%e3%82%bd%e3%82%a6%e3%83%96%e3%83%ac%e3%82%a4%e3%82%ba) | N/A |
-| 46 | [完全試合](http://twitter.com/search?q=%e5%ae%8c%e5%85%a8%e8%a9%a6%e5%90%88) | 完全試合 is a Japanese term that translates to "full match" in English. It is used to refer to a complete game or match, usually in the context of sports. |
-| 47 | [ハピネット](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8d%e3%83%83%e3%83%88) | N/A |
-| 48 | [リザードン](http://twitter.com/search?q=%e3%83%aa%e3%82%b6%e3%83%bc%e3%83%89%e3%83%b3) | N/A |
-| 49 | [ウェンデルケン](http://twitter.com/search?q=%e3%82%a6%e3%82%a7%e3%83%b3%e3%83%87%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
-| 50 | [新作アプリ](http://twitter.com/search?q=%e6%96%b0%e4%bd%9c%e3%82%a2%e3%83%97%e3%83%aa) | N/A |
+| 1 | [#ときめきを止めるな](http://twitter.com/search?q=%23%e3%81%a8%e3%81%8d%e3%82%81%e3%81%8d%e3%82%92%e6%ad%a2%e3%82%81%e3%82%8b%e3%81%aa) | N/A |
+| 2 | [#オールナイトフジコ](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%8a%e3%82%a4%e3%83%88%e3%83%95%e3%82%b8%e3%82%b3) | N/A |
+| 3 | [例の動画](http://twitter.com/search?q=%e4%be%8b%e3%81%ae%e5%8b%95%e7%94%bb) | N/A |
+| 4 | [#フロイニ](http://twitter.com/search?q=%23%e3%83%95%e3%83%ad%e3%82%a4%e3%83%8b) | #フロイニ is a hashtag used on social media in Japan. It is a combination of the words "flower" and "nyan" (the Japanese word for meow), and it is used to express appreciation for flowers and plants. In English, it could be translated as "#FlowerMeow". |
+| 5 | [#東京ディズニーリゾート40周年](http://twitter.com/search?q=%23%e6%9d%b1%e4%ba%ac%e3%83%87%e3%82%a3%e3%82%ba%e3%83%8b%e3%83%bc%e3%83%aa%e3%82%be%e3%83%bc%e3%83%8840%e5%91%a8%e5%b9%b4) | N/A |
+| 6 | [#江戸前エルフ](http://twitter.com/search?q=%23%e6%b1%9f%e6%88%b8%e5%89%8d%e3%82%a8%e3%83%ab%e3%83%95) | N/A |
+| 7 | [torrent](http://twitter.com/search?q=torrent) | N/A |
+| 8 | [バーチャル蠱毒](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%81%e3%83%a3%e3%83%ab%e8%a0%b1%e6%af%92) | N/A |
+| 9 | [自殺の動画](http://twitter.com/search?q=%e8%87%aa%e6%ae%ba%e3%81%ae%e5%8b%95%e7%94%bb) | N/A |
+| 10 | [トレント](http://twitter.com/search?q=%e3%83%88%e3%83%ac%e3%83%b3%e3%83%88) | N/A |
+| 11 | [真心ブラザーズ](http://twitter.com/search?q=%e7%9c%9f%e5%bf%83%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | N/A |
+| 12 | [第136話](http://twitter.com/search?q=%e7%ac%ac136%e8%a9%b1) | N/A |
+| 13 | [第449回](http://twitter.com/search?q=%e7%ac%ac449%e5%9b%9e) | N/A |
+| 14 | [飛び降り](http://twitter.com/search?q=%e9%a3%9b%e3%81%b3%e9%99%8d%e3%82%8a) | N/A |
+| 15 | [Dark and Darker](http://twitter.com/search?q=Dark+and+Darker) | "Dark and Darker" is an idiom that is used to describe a situation that is becoming increasingly worse or more difficult. It can be used to describe a situation that is getting more serious, or a problem that is becoming harder to solve. |
+| 16 | [原神界隈](http://twitter.com/search?q=%e5%8e%9f%e7%a5%9e%e7%95%8c%e9%9a%88) | N/A |
+| 17 | [アニポケ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9d%e3%82%b1) | アニポケ (Anipoke) is a Japanese portmanteau of the words "anime" and "Pokémon". It is used to refer to anime series or movies based on the Pokémon franchise. |
+| 18 | [緋色の弾丸](http://twitter.com/search?q=%e7%b7%8b%e8%89%b2%e3%81%ae%e5%bc%be%e4%b8%b8) | N/A |
+| 19 | [ピャスカル](http://twitter.com/search?q=%e3%83%94%e3%83%a3%e3%82%b9%e3%82%ab%e3%83%ab) | N/A |
+| 20 | [ニャオハ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%82%aa%e3%83%8f) | N/A |
+| 21 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
+| 22 | [山本由伸](http://twitter.com/search?q=%e5%b1%b1%e6%9c%ac%e7%94%b1%e4%bc%b8) | N/A |
+| 23 | [ラピュタ](http://twitter.com/search?q=%e3%83%a9%e3%83%94%e3%83%a5%e3%82%bf) | N/A |
+| 24 | [球審白井](http://twitter.com/search?q=%e7%90%83%e5%af%a9%e7%99%bd%e4%ba%95) | N/A |
+| 25 | [シャニライ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%a9%e3%82%a4) | N/A |
+| 26 | [ガゼルマン](http://twitter.com/search?q=%e3%82%ac%e3%82%bc%e3%83%ab%e3%83%9e%e3%83%b3) | N/A |
+| 27 | [スクフェス2](http://twitter.com/search?q=%e3%82%b9%e3%82%af%e3%83%95%e3%82%a7%e3%82%b92) | N/A |
+| 28 | [推しの子1話](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%901%e8%a9%b1) | N/A |
+| 29 | [リコちゃん](http://twitter.com/search?q=%e3%83%aa%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [キャプテンピカチュウ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%97%e3%83%86%e3%83%b3%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
+| 31 | [歌舞伎町タワー](http://twitter.com/search?q=%e6%ad%8c%e8%88%9e%e4%bc%8e%e7%94%ba%e3%82%bf%e3%83%af%e3%83%bc) | N/A |
+| 32 | [KPQP](http://twitter.com/search?q=KPQP) | N/A |
+| 33 | [ホゲータ](http://twitter.com/search?q=%e3%83%9b%e3%82%b2%e3%83%bc%e3%82%bf) | N/A |
+| 34 | [エグゼ1](http://twitter.com/search?q=%e3%82%a8%e3%82%b0%e3%82%bc1) | N/A |
+| 35 | [リザードン](http://twitter.com/search?q=%e3%83%aa%e3%82%b6%e3%83%bc%e3%83%89%e3%83%b3) | N/A |
+| 36 | [ニアーライト](http://twitter.com/search?q=%e3%83%8b%e3%82%a2%e3%83%bc%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 37 | [しょっぴー](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%a3%e3%81%b4%e3%83%bc) | N/A |
+| 38 | [ソウブレイズ](http://twitter.com/search?q=%e3%82%bd%e3%82%a6%e3%83%96%e3%83%ac%e3%82%a4%e3%82%ba) | N/A |
+| 39 | [アジアツアー](http://twitter.com/search?q=%e3%82%a2%e3%82%b8%e3%82%a2%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
+| 40 | [ハピネット](http://twitter.com/search?q=%e3%83%8f%e3%83%94%e3%83%8d%e3%83%83%e3%83%88) | N/A |
+| 41 | [ヤドン公園](http://twitter.com/search?q=%e3%83%a4%e3%83%89%e3%83%b3%e5%85%ac%e5%9c%92) | N/A |
+| 42 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 43 | [漆黒の追跡者](http://twitter.com/search?q=%e6%bc%86%e9%bb%92%e3%81%ae%e8%bf%bd%e8%b7%a1%e8%80%85) | N/A |
+| 44 | [ドルチェ](http://twitter.com/search?q=%e3%83%89%e3%83%ab%e3%83%81%e3%82%a7) | N/A |
+| 45 | [現行未通過](http://twitter.com/search?q=%e7%8f%be%e8%a1%8c%e6%9c%aa%e9%80%9a%e9%81%8e) | N/A |
+| 46 | [ジンニキ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%8b%e3%82%ad) | N/A |
+| 47 | [#大人の歌謡クラブ](http://twitter.com/search?q=%23%e5%a4%a7%e4%ba%ba%e3%81%ae%e6%ad%8c%e8%ac%a1%e3%82%af%e3%83%a9%e3%83%96) | N/A |
+| 48 | [#bananamoon](http://twitter.com/search?q=%23bananamoon) | N/A |
+| 49 | [#霜降り明星ANN](http://twitter.com/search?q=%23%e9%9c%9c%e9%99%8d%e3%82%8a%e6%98%8e%e6%98%9fANN) | N/A |
+| 50 | [#ラジオ深夜便](http://twitter.com/search?q=%23%e3%83%a9%e3%82%b8%e3%82%aa%e6%b7%b1%e5%a4%9c%e4%be%bf) | N/A |
 
 
 

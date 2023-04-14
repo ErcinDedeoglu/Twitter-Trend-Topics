@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-14 17:16:53 UTC`
+📆 Last Updated: `2023-04-14 19:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pekinexpress](http://twitter.com/search?q=%23pekinexpress) | N/A |
-| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 3 | [#fcbogcn](http://twitter.com/search?q=%23fcbogcn) | N/A |
-| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 5 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 6 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 7 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 8 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 9 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 10 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 11 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 12 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
-| 13 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 1 | [Brot](http://twitter.com/search?q=Brot) | N/A |
+| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 4 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
+| 5 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
+| 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 8 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
+| 9 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 10 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 11 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 12 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 13 | [bienne](http://twitter.com/search?q=bienne) | N/A |
+| 14 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
 | 15 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 16 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 16 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
 | 17 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 18 | [Europeans](http://twitter.com/search?q=Europeans) | N/A |
-| 19 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 20 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 21 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 22 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 23 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 24 | [Ausländer](http://twitter.com/search?q=Ausl%c3%a4nder) | N/A |
-| 25 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
-| 26 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 27 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 28 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 29 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 30 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 31 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 32 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 33 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 34 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 35 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 36 | [Russes](http://twitter.com/search?q=Russes) | N/A |
-| 37 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 38 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 39 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
-| 40 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 41 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 42 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 43 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 44 | [Nation](http://twitter.com/search?q=Nation) | N/A |
-| 45 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 46 | [Abhängigkeit](http://twitter.com/search?q=Abh%c3%a4ngigkeit) | N/A |
-| 47 | [Banker](http://twitter.com/search?q=Banker) | N/A |
-| 48 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 49 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 20 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 21 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
+| 22 | [Tier](http://twitter.com/search?q=Tier) | N/A |
+| 23 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 24 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 25 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 26 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 27 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
+| 28 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 29 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 30 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
+| 31 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 32 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
+| 33 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 34 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 36 | [Form](http://twitter.com/search?q=Form) | N/A |
+| 37 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 38 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 39 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 40 | [Easter](http://twitter.com/search?q=Easter) | N/A |
+| 41 | [Banker](http://twitter.com/search?q=Banker) | N/A |
+| 42 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 43 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 44 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 45 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 46 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 47 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 48 | [Gesinnung](http://twitter.com/search?q=Gesinnung) | N/A |
+| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 
 
 

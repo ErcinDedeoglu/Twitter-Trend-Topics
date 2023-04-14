@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-14 17:16:56 UTC`
+📆 Last Updated: `2023-04-14 19:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BSIRamadhanBernilai](http://twitter.com/search?q=%23BSIRamadhanBernilai) | N/A |
-| 2 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
-| 3 | [#LokasiMerchantSabrinaBRI](http://twitter.com/search?q=%23LokasiMerchantSabrinaBRI) | N/A |
-| 4 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
-| 5 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
-| 6 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
-| 7 | [#AjaibLuckyFriday](http://twitter.com/search?q=%23AjaibLuckyFriday) | N/A |
-| 8 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 9 | [BSI Maslahat](http://twitter.com/search?q=BSI+Maslahat) | N/A |
-| 10 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
-| 11 | [Kenceng](http://twitter.com/search?q=Kenceng) | N/A |
-| 12 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
-| 13 | [Cilacap](http://twitter.com/search?q=Cilacap) | N/A |
-| 14 | [Warisan](http://twitter.com/search?q=Warisan) | N/A |
-| 15 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 16 | [Nyampe](http://twitter.com/search?q=Nyampe) | N/A |
-| 17 | [Fujii Kaze](http://twitter.com/search?q=Fujii+Kaze) | N/A |
-| 18 | [Lombok](http://twitter.com/search?q=Lombok) | N/A |
-| 19 | [BMKG](http://twitter.com/search?q=BMKG) | N/A |
-| 20 | [Pengkhianatan UUD 1945](http://twitter.com/search?q=Pengkhianatan+UUD+1945) | N/A |
-| 21 | [tasik](http://twitter.com/search?q=tasik) | N/A |
-| 22 | [Sukabumi](http://twitter.com/search?q=Sukabumi) | N/A |
-| 23 | [Jember](http://twitter.com/search?q=Jember) | N/A |
-| 24 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
-| 25 | [Pemerintah](http://twitter.com/search?q=Pemerintah) | N/A |
-| 26 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
-| 27 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
-| 28 | [Bahar](http://twitter.com/search?q=Bahar) | N/A |
-| 29 | [Idul Fitri](http://twitter.com/search?q=Idul+Fitri) | N/A |
-| 30 | [Kafir](http://twitter.com/search?q=Kafir) | N/A |
-| 31 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
-| 32 | [#JOYxHaDongQn_BlueNightSong](http://twitter.com/search?q=%23JOYxHaDongQn_BlueNightSong) | N/A |
-| 33 | [#조이X하동균_푸른밤이노래](http://twitter.com/search?q=%23%ec%a1%b0%ec%9d%b4X%ed%95%98%eb%8f%99%ea%b7%a0_%ed%91%b8%eb%a5%b8%eb%b0%a4%ec%9d%b4%eb%85%b8%eb%9e%98) | N/A |
-| 34 | [#FLOWER4thWin](http://twitter.com/search?q=%23FLOWER4thWin) | N/A |
-| 35 | [#JISOOxHALMYUNGSOO](http://twitter.com/search?q=%23JISOOxHALMYUNGSOO) | N/A |
-| 36 | [#RUUPenindasan](http://twitter.com/search?q=%23RUUPenindasan) | N/A |
-| 37 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
-| 38 | [#KhilafClubTHR](http://twitter.com/search?q=%23KhilafClubTHR) | N/A |
-| 39 | [#ShopeePremiumDeals](http://twitter.com/search?q=%23ShopeePremiumDeals) | N/A |
-| 40 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
-| 41 | [#DukungUUCiptaker](http://twitter.com/search?q=%23DukungUUCiptaker) | N/A |
-| 42 | [#CiptakerSejahterakanRakyat](http://twitter.com/search?q=%23CiptakerSejahterakanRakyat) | N/A |
-| 43 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
-| 44 | [#UUCiptaKerja](http://twitter.com/search?q=%23UUCiptaKerja) | N/A |
-| 45 | [#CiptakerMembangunIndonesia](http://twitter.com/search?q=%23CiptakerMembangunIndonesia) | N/A |
-| 46 | [#ohmpawat](http://twitter.com/search?q=%23ohmpawat) | N/A |
-| 47 | [#BAEKHYUN](http://twitter.com/search?q=%23BAEKHYUN) | N/A |
-| 48 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
+| 1 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
+| 2 | [#AjaibLuckyFriday](http://twitter.com/search?q=%23AjaibLuckyFriday) | N/A |
+| 3 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 4 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
+| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 6 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
+| 7 | [Mau tanya2](http://twitter.com/search?q=Mau+tanya2) | N/A |
+| 8 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
+| 9 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 10 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 11 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
+| 12 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 13 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 14 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 17 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
+| 18 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 19 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 20 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
+| 21 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 22 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 23 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
+| 24 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
+| 25 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 26 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 27 | [DE GEA](http://twitter.com/search?q=DE+GEA) | N/A |
+| 28 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
+| 29 | [Lee Seunghwan](http://twitter.com/search?q=Lee+Seunghwan) | N/A |
+| 30 | [Yati](http://twitter.com/search?q=Yati) | N/A |
+| 31 | [Bandung](http://twitter.com/search?q=Bandung) | N/A |
+| 32 | [konsonan langit](http://twitter.com/search?q=konsonan+langit) | N/A |
+| 33 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
+| 34 | [you did well](http://twitter.com/search?q=you+did+well) | N/A |
+| 35 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 37 | [Warisan](http://twitter.com/search?q=Warisan) | N/A |
+| 38 | [Kafir](http://twitter.com/search?q=Kafir) | N/A |
+| 39 | [Paras](http://twitter.com/search?q=Paras) | N/A |
+| 40 | [ps sang patriot](http://twitter.com/search?q=ps+sang+patriot) | N/A |
+| 41 | [HYEIN FOR HARPER'S BAZAAR](http://twitter.com/search?q=HYEIN+FOR+HARPER%27S+BAZAAR) | N/A |
+| 42 | [BSI Maslahat](http://twitter.com/search?q=BSI+Maslahat) | N/A |
+| 43 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
+| 44 | [Ya Ya Ya](http://twitter.com/search?q=Ya+Ya+Ya) | N/A |
+| 45 | [Aerputh](http://twitter.com/search?q=Aerputh) | N/A |
+| 46 | [Orang](http://twitter.com/search?q=Orang) | N/A |
+| 47 | [na jaemin thank you](http://twitter.com/search?q=na+jaemin+thank+you) | N/A |
+| 48 | [Pengkhianatan UUD 1945](http://twitter.com/search?q=Pengkhianatan+UUD+1945) | N/A |
 
 
 

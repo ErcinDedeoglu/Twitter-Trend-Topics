@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-04-14 17:17:10 UTC`
+📆 Last Updated: `2023-04-14 19:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PaymaxIsHere](http://twitter.com/search?q=%23PaymaxIsHere) | N/A |
-| 2 | [#ChillToTheMax](http://twitter.com/search?q=%23ChillToTheMax) | N/A |
-| 3 | [#RemoveBandiyal](http://twitter.com/search?q=%23RemoveBandiyal) | N/A |
-| 4 | [#WeStandwithConstitution](http://twitter.com/search?q=%23WeStandwithConstitution) | N/A |
-| 5 | [#غلیظ_سیاست_کی_ملکہ_مریم](http://twitter.com/search?q=%23%d8%ba%d9%84%db%8c%d8%b8_%d8%b3%db%8c%d8%a7%d8%b3%d8%aa_%da%a9%db%8c_%d9%85%d9%84%da%a9%db%81_%d9%85%d8%b1%db%8c%d9%85) | N/A |
-| 6 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
-| 7 | [Zong](http://twitter.com/search?q=Zong) | N/A |
-| 8 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
-| 9 | [indus hospital](http://twitter.com/search?q=indus+hospital) | N/A |
-| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 13 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 14 | [your zakat](http://twitter.com/search?q=your+zakat) | N/A |
-| 15 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 16 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 17 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 20 | [SKMH](http://twitter.com/search?q=SKMH) | N/A |
-| 21 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 22 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 23 | [akash ram](http://twitter.com/search?q=akash+ram) | N/A |
-| 24 | [sami ibrahim](http://twitter.com/search?q=sami+ibrahim) | N/A |
-| 25 | [Last Friday of Ramadan](http://twitter.com/search?q=Last+Friday+of+Ramadan) | N/A |
-| 26 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 27 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
-| 28 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 29 | [gul bukhari](http://twitter.com/search?q=gul+bukhari) | N/A |
-| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 31 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
-| 32 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
-| 33 | [Down With Israel](http://twitter.com/search?q=Down+With+Israel) | N/A |
-| 34 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 35 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 36 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 37 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 38 | [Riyadh](http://twitter.com/search?q=Riyadh) | N/A |
-| 39 | [imam khamenei](http://twitter.com/search?q=imam+khamenei) | N/A |
-| 40 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 41 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
-| 42 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 43 | [contempt](http://twitter.com/search?q=contempt) | N/A |
-| 44 | [VONC](http://twitter.com/search?q=VONC) | N/A |
-| 45 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
-| 46 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
-| 47 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 48 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 49 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 50 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
+| 1 | [#PakvsNz](http://twitter.com/search?q=%23PakvsNz) | N/A |
+| 2 | [#BajaurStandForPeace](http://twitter.com/search?q=%23BajaurStandForPeace) | N/A |
+| 3 | [#بنے_گا_نیا_پاکستان](http://twitter.com/search?q=%23%d8%a8%d9%86%db%92_%da%af%d8%a7_%d9%86%db%8c%d8%a7_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86) | N/A |
+| 4 | [#ہردشمن_نبی_سےاعلان_جنگ](http://twitter.com/search?q=%23%db%81%d8%b1%d8%af%d8%b4%d9%85%d9%86_%d9%86%d8%a8%db%8c_%d8%b3%db%92%d8%a7%d8%b9%d9%84%d8%a7%d9%86_%d8%ac%d9%86%da%af) | N/A |
+| 5 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 6 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 7 | [Bank AL Habib](http://twitter.com/search?q=Bank+AL+Habib) | N/A |
+| 8 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
+| 9 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 10 | [Faheem Ashraf](http://twitter.com/search?q=Faheem+Ashraf) | N/A |
+| 11 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 12 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 13 | [Mashion Bazaar](http://twitter.com/search?q=Mashion+Bazaar) | N/A |
+| 14 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
+| 15 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 16 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 17 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 18 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 19 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
+| 20 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
+| 21 | [Rana](http://twitter.com/search?q=Rana) | N/A |
+| 22 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 23 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 24 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 25 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 26 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 27 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 28 | [skmh](http://twitter.com/search?q=skmh) | N/A |
+| 29 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 30 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 31 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 32 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 33 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 34 | [zong](http://twitter.com/search?q=zong) | N/A |
+| 35 | [Price](http://twitter.com/search?q=Price) | N/A |
+| 36 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 37 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
+| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 39 | [gul bukhari](http://twitter.com/search?q=gul+bukhari) | N/A |
+| 40 | [Sherry Rehman](http://twitter.com/search?q=Sherry+Rehman) | N/A |
+| 41 | [Zakat](http://twitter.com/search?q=Zakat) | N/A |
+| 42 | [Prophet](http://twitter.com/search?q=Prophet) | N/A |
+| 43 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
+| 44 | [ODIs](http://twitter.com/search?q=ODIs) | ODIs stands for One Day Internationals, which are a type of cricket match that is played over the course of one day. In ODIs, each team has a single innings in which they attempt to score as many runs as possible. |
+| 45 | [World Cup](http://twitter.com/search?q=World+Cup) | N/A |
+| 46 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 47 | [Iftar](http://twitter.com/search?q=Iftar) | N/A |
+| 48 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 49 | [Heya](http://twitter.com/search?q=Heya) | N/A |
 
 
 

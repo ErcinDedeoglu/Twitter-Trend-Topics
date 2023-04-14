@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-04-14 17:16:42 UTC`
+📆 Last Updated: `2023-04-14 19:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ElCaosTotalEs](http://twitter.com/search?q=%23ElCaosTotalEs) | N/A |
-| 2 | [#InfluyenteEs](http://twitter.com/search?q=%23InfluyenteEs) | N/A |
-| 3 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 4 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 5 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
-| 6 | [Times](http://twitter.com/search?q=Times) | N/A |
-| 7 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
-| 8 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 9 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 10 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 11 | [secuestro](http://twitter.com/search?q=secuestro) | N/A |
-| 12 | [#anadenadie](http://twitter.com/search?q=%23anadenadie) | N/A |
-| 13 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
-| 14 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
-| 15 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 16 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 17 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 1 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 2 | [Times](http://twitter.com/search?q=Times) | N/A |
+| 3 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
+| 4 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 5 | [Chantaje](http://twitter.com/search?q=Chantaje) | N/A |
+| 6 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
+| 7 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
+| 8 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 9 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
+| 12 | [Martín Elías](http://twitter.com/search?q=Mart%c3%adn+El%c3%adas) | N/A |
+| 13 | [#PelaezdeFranciscoenLaW](http://twitter.com/search?q=%23PelaezdeFranciscoenLaW) | N/A |
+| 14 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 15 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 16 | [#nuestrarealidades](http://twitter.com/search?q=%23nuestrarealidades) | N/A |
+| 17 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
 | 18 | [Homer](http://twitter.com/search?q=Homer) | N/A |
-| 19 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 21 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 22 | [Revista Time](http://twitter.com/search?q=Revista+Time) | N/A |
-| 23 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
-| 24 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 25 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 26 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 27 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 28 | [roy barreras](http://twitter.com/search?q=roy+barreras) | N/A |
-| 29 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 30 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 31 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 32 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 33 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
-| 34 | [mantilla](http://twitter.com/search?q=mantilla) | N/A |
-| 35 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
-| 36 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
-| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 38 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
-| 39 | [Haydar](http://twitter.com/search?q=Haydar) | N/A |
-| 40 | [abogade](http://twitter.com/search?q=abogade) | N/A |
-| 41 | [escudero](http://twitter.com/search?q=escudero) | N/A |
-| 42 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
-| 43 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 44 | [racero](http://twitter.com/search?q=racero) | N/A |
-| 45 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 46 | [freddy rincón](http://twitter.com/search?q=freddy+rinc%c3%b3n) | N/A |
-| 47 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 48 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 49 | [jota pe](http://twitter.com/search?q=jota+pe) | N/A |
+| 19 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 20 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 21 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 22 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 23 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
+| 24 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
+| 25 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
+| 26 | [MERMELADA](http://twitter.com/search?q=MERMELADA) | N/A |
+| 27 | [Revista Time](http://twitter.com/search?q=Revista+Time) | N/A |
+| 28 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 29 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 30 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 31 | [Abogade](http://twitter.com/search?q=Abogade) | N/A |
+| 32 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 33 | [Conservador](http://twitter.com/search?q=Conservador) | N/A |
+| 34 | [Haydar](http://twitter.com/search?q=Haydar) | N/A |
+| 35 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 36 | [Dictadura](http://twitter.com/search?q=Dictadura) | N/A |
+| 37 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 38 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
+| 39 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 40 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 41 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
+| 42 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 43 | [freddy rincón](http://twitter.com/search?q=freddy+rinc%c3%b3n) | N/A |
+| 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 45 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 46 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
+| 47 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
+| 48 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 49 | [Bogdan](http://twitter.com/search?q=Bogdan) | N/A |
 
 
 

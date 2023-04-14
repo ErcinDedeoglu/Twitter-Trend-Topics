@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-04-14 17:16:37 UTC`
+📆 Last Updated: `2023-04-14 19:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 2 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 3 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 4 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 5 | [#GoodVibeHunting](http://twitter.com/search?q=%23GoodVibeHunting) | N/A |
-| 6 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
-| 7 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 8 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 9 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 10 | [Sam Waley](http://twitter.com/search?q=Sam+Waley) | N/A |
-| 11 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 12 | [Colwill](http://twitter.com/search?q=Colwill) | N/A |
-| 13 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
-| 14 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 15 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
-| 16 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 17 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 18 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 19 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 20 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
-| 21 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
-| 22 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 23 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 24 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 25 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 26 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 27 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 28 | [Daily Quordle 445](http://twitter.com/search?q=Daily+Quordle+445) | N/A |
-| 29 | [EUIC](http://twitter.com/search?q=EUIC) | N/A |
-| 30 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
-| 31 | [Kirsty](http://twitter.com/search?q=Kirsty) | N/A |
-| 32 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 33 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 34 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 35 | [Marbles](http://twitter.com/search?q=Marbles) | N/A |
-| 36 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 37 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 38 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 39 | [#ASongOrMovieForAnythingSoft](http://twitter.com/search?q=%23ASongOrMovieForAnythingSoft) | N/A |
-| 40 | [#WHFreeBet](http://twitter.com/search?q=%23WHFreeBet) | N/A |
-| 41 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 42 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 43 | [#WhereYouStarted](http://twitter.com/search?q=%23WhereYouStarted) | N/A |
-| 44 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 1 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 2 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 3 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 4 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 5 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 6 | [#5albums67](http://twitter.com/search?q=%235albums67) | N/A |
+| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 9 | [Unison](http://twitter.com/search?q=Unison) | N/A |
+| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 11 | [Julian Cope](http://twitter.com/search?q=Julian+Cope) | N/A |
+| 12 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 13 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 14 | [Let Loose](http://twitter.com/search?q=Let+Loose) | N/A |
+| 15 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
+| 16 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 17 | [Killing Joke](http://twitter.com/search?q=Killing+Joke) | N/A |
+| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 19 | [Love - Forever Changes](http://twitter.com/search?q=Love+-+Forever+Changes) | N/A |
+| 20 | [Word Up](http://twitter.com/search?q=Word+Up) | N/A |
+| 21 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
+| 22 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 23 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 24 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 25 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 26 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 27 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 28 | [China Black](http://twitter.com/search?q=China+Black) | N/A |
+| 29 | [House of Pain](http://twitter.com/search?q=House+of+Pain) | N/A |
+| 30 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 31 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 32 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 33 | [lamela](http://twitter.com/search?q=lamela) | N/A |
+| 34 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 35 | [Finley Boden](http://twitter.com/search?q=Finley+Boden) | N/A |
+| 36 | [Ross County](http://twitter.com/search?q=Ross+County) | N/A |
+| 37 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 38 | [Leonard Cohen](http://twitter.com/search?q=Leonard+Cohen) | N/A |
+| 39 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 40 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 42 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 43 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 44 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 45 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 46 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 47 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 48 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
+| 49 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
 
 
 

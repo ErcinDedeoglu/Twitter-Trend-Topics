@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-14 17:17:31 UTC`
+📆 Last Updated: `2023-04-14 19:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoodVibeHunting](http://twitter.com/search?q=%23GoodVibeHunting) | N/A |
-| 2 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 3 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 5 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 6 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 7 | [Colwill](http://twitter.com/search?q=Colwill) | N/A |
-| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 9 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 10 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 11 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 12 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 13 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 14 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 15 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 16 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 17 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 18 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 19 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 20 | [Telegraph](http://twitter.com/search?q=Telegraph) | N/A |
-| 21 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 22 | [Sam Waley](http://twitter.com/search?q=Sam+Waley) | N/A |
-| 23 | [Coronation](http://twitter.com/search?q=Coronation) | N/A |
-| 24 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 25 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 26 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 27 | [Truss](http://twitter.com/search?q=Truss) | N/A |
-| 28 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 29 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 30 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 31 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 32 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
-| 33 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 34 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
-| 35 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 36 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 37 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
-| 38 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 39 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 40 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
-| 41 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
-| 42 | [RNLI](http://twitter.com/search?q=RNLI) | N/A |
-| 43 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 44 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 45 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 46 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 47 | [Daily Quordle 445](http://twitter.com/search?q=Daily+Quordle+445) | N/A |
-| 48 | [EUIC](http://twitter.com/search?q=EUIC) | N/A |
-| 49 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
-| 50 | [Kirsty](http://twitter.com/search?q=Kirsty) | N/A |
+| 1 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 2 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 3 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 4 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 5 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 8 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 9 | [#5albums67](http://twitter.com/search?q=%235albums67) | N/A |
+| 10 | [Unison](http://twitter.com/search?q=Unison) | N/A |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 13 | [Julian Cope](http://twitter.com/search?q=Julian+Cope) | N/A |
+| 14 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 15 | [Let Loose](http://twitter.com/search?q=Let+Loose) | N/A |
+| 16 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
+| 17 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 19 | [Word Up](http://twitter.com/search?q=Word+Up) | N/A |
+| 20 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 21 | [Wet Wet Wet](http://twitter.com/search?q=Wet+Wet+Wet) | N/A |
+| 22 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 23 | [Killing Joke](http://twitter.com/search?q=Killing+Joke) | N/A |
+| 24 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 25 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 26 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 27 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 28 | [Love - Forever Changes](http://twitter.com/search?q=Love+-+Forever+Changes) | N/A |
+| 29 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 30 | [China Black](http://twitter.com/search?q=China+Black) | N/A |
+| 31 | [House of Pain](http://twitter.com/search?q=House+of+Pain) | N/A |
+| 32 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 33 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 34 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 35 | [Finley Boden](http://twitter.com/search?q=Finley+Boden) | N/A |
+| 36 | [Cowboys](http://twitter.com/search?q=Cowboys) | Cowboys are people who work on ranches, herding and tending to cattle. They are often associated with the American Wild West, and are known for their skills in horsemanship and roping. The term is also used to refer to a person who lives a rugged lifestyle, or someone who is brave and adventurous. |
+| 37 | [lamela](http://twitter.com/search?q=lamela) | N/A |
+| 38 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 39 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 40 | [Ross County](http://twitter.com/search?q=Ross+County) | N/A |
+| 41 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 42 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 43 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 44 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 45 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 46 | [Truss](http://twitter.com/search?q=Truss) | N/A |
+| 47 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 48 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
+| 49 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 50 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 
 
 

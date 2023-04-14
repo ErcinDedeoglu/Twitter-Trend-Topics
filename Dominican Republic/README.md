@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-14 17:17:25 UTC`
+📆 Last Updated: `2023-04-14 19:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [alianza opositora](http://twitter.com/search?q=alianza+opositora) | N/A |
-| 2 | [yadira morel](http://twitter.com/search?q=yadira+morel) | N/A |
+| 1 | [yadira morel](http://twitter.com/search?q=yadira+morel) | N/A |
+| 2 | [Distrito Nacional](http://twitter.com/search?q=Distrito+Nacional) | N/A |
 | 3 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
-| 4 | [wendy sherman](http://twitter.com/search?q=wendy+sherman) | N/A |
-| 5 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 6 | [antonio duvergé](http://twitter.com/search?q=antonio+duverg%c3%a9) | N/A |
-| 7 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 8 | [francisco javier](http://twitter.com/search?q=francisco+javier) | N/A |
-| 9 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 10 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
-| 11 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 12 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 13 | [Doble Reserva](http://twitter.com/search?q=Doble+Reserva) | N/A |
-| 14 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
-| 15 | [el memiso](http://twitter.com/search?q=el+memiso) | N/A |
-| 16 | [#deúltimominuto](http://twitter.com/search?q=%23de%c3%baltimominuto) | N/A |
-| 17 | [rafael acevedo](http://twitter.com/search?q=rafael+acevedo) | N/A |
-| 18 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 21 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
-| 22 | [vinchos](http://twitter.com/search?q=vinchos) | N/A |
-| 23 | [LIDOM](http://twitter.com/search?q=LIDOM) | N/A |
-| 24 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 25 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
-| 26 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 27 | [napoleón estévez lavandier](http://twitter.com/search?q=napole%c3%b3n+est%c3%a9vez+lavandier) | N/A |
-| 28 | [ramón alburquerque](http://twitter.com/search?q=ram%c3%b3n+alburquerque) | N/A |
-| 29 | [estado de ee](http://twitter.com/search?q=estado+de+ee) | N/A |
-| 30 | [casa de campo](http://twitter.com/search?q=casa+de+campo) | N/A |
-| 31 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 32 | [Día Internacional del Beso](http://twitter.com/search?q=D%c3%ada+Internacional+del+Beso) | N/A |
-| 33 | [#economia](http://twitter.com/search?q=%23economia) | N/A |
-| 34 | [4 normas iso](http://twitter.com/search?q=4+normas+iso) | N/A |
-| 35 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
-| 36 | [vinicito](http://twitter.com/search?q=vinicito) | N/A |
-| 37 | [Tampa Bay](http://twitter.com/search?q=Tampa+Bay) | Tampa Bay is a large body of water located on the west coast of Florida in the United States. It is connected to the Gulf of Mexico and is bordered by the cities of Tampa, St. Petersburg, and Clearwater. The term "Tampa Bay" is often used to refer to the entire metropolitan area surrounding the bay, which includes several cities and towns in both Hillsborough and Pinellas counties. |
-| 38 | [peña gómez](http://twitter.com/search?q=pe%c3%b1a+g%c3%b3mez) | N/A |
-| 39 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
-| 40 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 41 | [casals](http://twitter.com/search?q=casals) | N/A |
-| 42 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
-| 43 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 44 | [Alzheimer](http://twitter.com/search?q=Alzheimer) | N/A |
-| 45 | [comité nacional](http://twitter.com/search?q=comit%c3%a9+nacional) | N/A |
-| 46 | [tolentino](http://twitter.com/search?q=tolentino) | N/A |
-| 47 | [miguel vargas](http://twitter.com/search?q=miguel+vargas) | N/A |
-| 48 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
-| 49 | [carmen renata](http://twitter.com/search?q=carmen+renata) | N/A |
-| 50 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
+| 4 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 5 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 6 | [Alianza Opositora](http://twitter.com/search?q=Alianza+Opositora) | N/A |
+| 7 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
+| 8 | [#Santiago](http://twitter.com/search?q=%23Santiago) | N/A |
+| 9 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 10 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 11 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
+| 12 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 13 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 15 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
+| 16 | [el memiso](http://twitter.com/search?q=el+memiso) | N/A |
+| 17 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 18 | [rafael acevedo](http://twitter.com/search?q=rafael+acevedo) | N/A |
+| 19 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 20 | [Vinchos](http://twitter.com/search?q=Vinchos) | N/A |
+| 21 | [Doble Reserva](http://twitter.com/search?q=Doble+Reserva) | N/A |
+| 22 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 23 | [estado de ee](http://twitter.com/search?q=estado+de+ee) | N/A |
+| 24 | [DÍA INTERNACIONAL DEL BESO](http://twitter.com/search?q=D%c3%8dA+INTERNACIONAL+DEL+BESO) | N/A |
+| 25 | [#Economia](http://twitter.com/search?q=%23Economia) | N/A |
+| 26 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
+| 27 | [vinicito](http://twitter.com/search?q=vinicito) | N/A |
+| 28 | [Tampa Bay](http://twitter.com/search?q=Tampa+Bay) | Tampa Bay is a large body of water located on the west coast of Florida in the United States. It is connected to the Gulf of Mexico and is bordered by the cities of Tampa, St. Petersburg, and Clearwater. The term "Tampa Bay" is often used to refer to the entire metropolitan area surrounding the bay, which includes several cities and towns in both Hillsborough and Pinellas counties. |
+| 29 | [Cibao](http://twitter.com/search?q=Cibao) | N/A |
+| 30 | [#DeÚltimoMinuto](http://twitter.com/search?q=%23De%c3%9altimoMinuto) | N/A |
+| 31 | [Banco Central](http://twitter.com/search?q=Banco+Central) | N/A |
+| 32 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
+| 33 | [Casals](http://twitter.com/search?q=Casals) | N/A |
+| 34 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 35 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 36 | [comité nacional](http://twitter.com/search?q=comit%c3%a9+nacional) | N/A |
+| 37 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
+| 38 | [carmen renata](http://twitter.com/search?q=carmen+renata) | N/A |
+| 39 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 40 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 41 | [Alzheimer](http://twitter.com/search?q=Alzheimer) | N/A |
+| 42 | [Presidente Abinader](http://twitter.com/search?q=Presidente+Abinader) | N/A |
+| 43 | [franchy cordero](http://twitter.com/search?q=franchy+cordero) | N/A |
+| 44 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 45 | [Noroeste](http://twitter.com/search?q=Noroeste) | N/A |
+| 46 | [Ramón Alburquerque](http://twitter.com/search?q=Ram%c3%b3n+Alburquerque) | N/A |
+| 47 | [Italia](http://twitter.com/search?q=Italia) | N/A |
+| 48 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 49 | [Partido Revolucionario Moderno](http://twitter.com/search?q=Partido+Revolucionario+Moderno) | N/A |
+| 50 | [Luis Polonia](http://twitter.com/search?q=Luis+Polonia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-14 17:16:49 UTC`
+📆 Last Updated: `2023-04-14 19:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#pekinexpress](http://twitter.com/search?q=%23pekinexpress) | N/A |
-| 2 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
-| 3 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 4 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 5 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
-| 6 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 9 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 10 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 11 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 14 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 15 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 17 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 18 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 19 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
-| 20 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 21 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 23 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 24 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 25 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
-| 26 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 27 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
-| 28 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 29 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 30 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 31 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 32 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 33 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 34 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 35 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 36 | [Sages](http://twitter.com/search?q=Sages) | N/A |
-| 37 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 38 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 39 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 40 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 41 | [Nesta](http://twitter.com/search?q=Nesta) | N/A |
-| 42 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 43 | [Porchefontaine](http://twitter.com/search?q=Porchefontaine) | N/A |
-| 44 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 45 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 46 | [Le COR](http://twitter.com/search?q=Le+COR) | N/A |
-| 47 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 48 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 49 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 50 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 1 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
+| 2 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 3 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 4 | [#TFCOL](http://twitter.com/search?q=%23TFCOL) | N/A |
+| 5 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
+| 6 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 7 | [#NintendAlertsXZenmarket](http://twitter.com/search?q=%23NintendAlertsXZenmarket) | N/A |
+| 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 9 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 11 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
+| 12 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 13 | [Tagliafico](http://twitter.com/search?q=Tagliafico) | N/A |
+| 14 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 15 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 16 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
+| 17 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
+| 18 | [Processus](http://twitter.com/search?q=Processus) | N/A |
+| 19 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 20 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 21 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 22 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 23 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 24 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 25 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 27 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 28 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 29 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 30 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 32 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 33 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 34 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 35 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 36 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 37 | [Henrique](http://twitter.com/search?q=Henrique) | N/A |
+| 38 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 39 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 40 | [Hubert Falco](http://twitter.com/search?q=Hubert+Falco) | N/A |
+| 41 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 42 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 43 | [Sages](http://twitter.com/search?q=Sages) | N/A |
+| 44 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 45 | [Touraine](http://twitter.com/search?q=Touraine) | N/A |
+| 46 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 47 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 48 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 49 | [Saha](http://twitter.com/search?q=Saha) | N/A |
+| 50 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 
 
 
