@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-04-14 22:17:33 UTC`
+📆 Last Updated: `2023-04-14 23:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 2 | [#getthatbar2022](http://twitter.com/search?q=%23getthatbar2022) | N/A |
+| 2 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
 | 3 | [Atty](http://twitter.com/search?q=Atty) | N/A |
 | 4 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
 | 5 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
-| 6 | [#fml_d10](http://twitter.com/search?q=%23fml_d10) | N/A |
+| 6 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
 | 7 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
 | 8 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
-| 9 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 10 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
-| 11 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
-| 12 | [happy 1st year karlian](http://twitter.com/search?q=happy+1st+year+karlian) | N/A |
-| 13 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
-| 14 | [magandang buhay vibrent](http://twitter.com/search?q=magandang+buhay+vibrent) | N/A |
-| 15 | [marbelous hori7on](http://twitter.com/search?q=marbelous+hori7on) | N/A |
-| 16 | [maligayang pagbabalik](http://twitter.com/search?q=maligayang+pagbabalik) | N/A |
-| 17 | [up law](http://twitter.com/search?q=up+law) | N/A |
-| 18 | [ALEXA ON STARMAGIC CONVO](http://twitter.com/search?q=ALEXA+ON+STARMAGIC+CONVO) | N/A |
-| 19 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
-| 20 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 21 | [kath for gatorade](http://twitter.com/search?q=kath+for+gatorade) | N/A |
-| 22 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
-| 23 | [jhope](http://twitter.com/search?q=jhope) | N/A |
-| 24 | [zacham sa piepnppf](http://twitter.com/search?q=zacham+sa+piepnppf) | N/A |
-| 25 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
-| 26 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 27 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 28 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 29 | [zice caught in the act](http://twitter.com/search?q=zice+caught+in+the+act) | N/A |
-| 30 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
-| 31 | [ginagawanyu kenayu](http://twitter.com/search?q=ginagawanyu+kenayu) | N/A |
-| 32 | [maymay autodeadma soon](http://twitter.com/search?q=maymay+autodeadma+soon) | N/A |
-| 33 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 34 | [Attorney](http://twitter.com/search?q=Attorney) | N/A |
-| 35 | [abogado na ako](http://twitter.com/search?q=abogado+na+ako) | N/A |
-| 36 | [joshko mandy tc episode4](http://twitter.com/search?q=joshko+mandy+tc+episode4) | N/A |
-| 37 | [new lawyers](http://twitter.com/search?q=new+lawyers) | N/A |
-| 38 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 39 | [yujin on no prepare](http://twitter.com/search?q=yujin+on+no+prepare) | N/A |
-| 40 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
-| 41 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
+| 9 | [#BOYCOTTEBxAPTxGMA766](http://twitter.com/search?q=%23BOYCOTTEBxAPTxGMA766) | N/A |
+| 10 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
+| 11 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 12 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
+| 13 | [Mark Sheehan](http://twitter.com/search?q=Mark+Sheehan) | N/A |
+| 14 | [happy 1st year karlian](http://twitter.com/search?q=happy+1st+year+karlian) | N/A |
+| 15 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 16 | [magandang buhay vibrent](http://twitter.com/search?q=magandang+buhay+vibrent) | N/A |
+| 17 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
+| 18 | [maligayang pagbabalik](http://twitter.com/search?q=maligayang+pagbabalik) | N/A |
+| 19 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
+| 20 | [jhope](http://twitter.com/search?q=jhope) | N/A |
+| 21 | [ALEXA ON STARMAGIC CONVO](http://twitter.com/search?q=ALEXA+ON+STARMAGIC+CONVO) | N/A |
+| 22 | [MARBELous HORI7ON](http://twitter.com/search?q=MARBELous+HORI7ON) | N/A |
+| 23 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
+| 24 | [kath for gatorade](http://twitter.com/search?q=kath+for+gatorade) | N/A |
+| 25 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
+| 26 | [zacham sa piepnppf](http://twitter.com/search?q=zacham+sa+piepnppf) | N/A |
+| 27 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
+| 28 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 29 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 30 | [zice caught in the act](http://twitter.com/search?q=zice+caught+in+the+act) | N/A |
+| 31 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
+| 32 | [ginagawanyu kenayu](http://twitter.com/search?q=ginagawanyu+kenayu) | N/A |
+| 33 | [MAYMAY AUTODEADMA SOON](http://twitter.com/search?q=MAYMAY+AUTODEADMA+SOON) | N/A |
+| 34 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 35 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
+| 36 | [abogado na ako](http://twitter.com/search?q=abogado+na+ako) | N/A |
+| 37 | [joshko mandy tc episode4](http://twitter.com/search?q=joshko+mandy+tc+episode4) | N/A |
+| 38 | [new lawyers](http://twitter.com/search?q=new+lawyers) | N/A |
+| 39 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 40 | [yujin on no prepare](http://twitter.com/search?q=yujin+on+no+prepare) | N/A |
+| 41 | [taehyun](http://twitter.com/search?q=taehyun) | Taehyun is a Korean given name, derived from the Chinese characters 太賢, which mean "greatly wise". |
 | 42 | [Haram](http://twitter.com/search?q=Haram) | N/A |
 | 43 | [teenclash seham ep4](http://twitter.com/search?q=teenclash+seham+ep4) | N/A |
-| 44 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 45 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 46 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 47 | [LET JENNIE ATTEND CANNES](http://twitter.com/search?q=LET+JENNIE+ATTEND+CANNES) | N/A |
-| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 49 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 50 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 44 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 45 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 46 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 47 | [Attorney](http://twitter.com/search?q=Attorney) | N/A |
+| 48 | [LET JENNIE ATTEND CANNES](http://twitter.com/search?q=LET+JENNIE+ATTEND+CANNES) | N/A |
+| 49 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
+| 50 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 
 
 

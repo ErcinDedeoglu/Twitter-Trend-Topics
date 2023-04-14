@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-14 22:16:53 UTC`
+📆 Last Updated: `2023-04-14 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
 | 3 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 4 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 5 | [#SVRWSG](http://twitter.com/search?q=%23SVRWSG) | N/A |
-| 6 | [Experte](http://twitter.com/search?q=Experte) | N/A |
-| 7 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 8 | [Massenschlägerei](http://twitter.com/search?q=Massenschl%c3%a4gerei) | N/A |
-| 9 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 10 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 11 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
-| 12 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 13 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 14 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
-| 15 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 16 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 17 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 18 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
-| 19 | [Utopien](http://twitter.com/search?q=Utopien) | N/A |
-| 20 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 21 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 22 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 23 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
-| 24 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 25 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 26 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 27 | [Wenns](http://twitter.com/search?q=Wenns) | N/A |
-| 28 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
-| 29 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 30 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 31 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 32 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 33 | [Nachfrage](http://twitter.com/search?q=Nachfrage) | N/A |
-| 34 | [Chefin](http://twitter.com/search?q=Chefin) | N/A |
-| 35 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
-| 36 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 37 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 38 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 39 | [bures](http://twitter.com/search?q=bures) | N/A |
-| 40 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 41 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 42 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 43 | [Heast](http://twitter.com/search?q=Heast) | N/A |
-| 44 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 45 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
-| 46 | [Livestream](http://twitter.com/search?q=Livestream) | N/A |
-| 47 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
-| 48 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 49 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 50 | [Solange](http://twitter.com/search?q=Solange) | N/A |
+| 5 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 6 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
+| 7 | [Massenschlägerei](http://twitter.com/search?q=Massenschl%c3%a4gerei) | N/A |
+| 8 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 9 | [Experte](http://twitter.com/search?q=Experte) | N/A |
+| 10 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 11 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 12 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
+| 13 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 14 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 15 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 16 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
+| 17 | [utopien](http://twitter.com/search?q=utopien) | N/A |
+| 18 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 19 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 20 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 21 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 24 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 25 | [Wenns](http://twitter.com/search?q=Wenns) | N/A |
+| 26 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
+| 27 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 28 | [Presse](http://twitter.com/search?q=Presse) | N/A |
+| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 30 | [Nachfrage](http://twitter.com/search?q=Nachfrage) | N/A |
+| 31 | [Chefin](http://twitter.com/search?q=Chefin) | N/A |
+| 32 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
+| 33 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 34 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 35 | [BURES](http://twitter.com/search?q=BURES) | N/A |
+| 36 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
+| 37 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
+| 38 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
+| 39 | [Heast](http://twitter.com/search?q=Heast) | N/A |
+| 40 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 41 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
+| 42 | [Livestream](http://twitter.com/search?q=Livestream) | N/A |
+| 43 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
+| 44 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 45 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 46 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 47 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 48 | [Krisen](http://twitter.com/search?q=Krisen) | N/A |
+| 49 | [Energien](http://twitter.com/search?q=Energien) | N/A |
+| 50 | [mitgliederbefragung](http://twitter.com/search?q=mitgliederbefragung) | N/A |
 
 
 

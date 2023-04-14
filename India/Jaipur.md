@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-04-14 22:17:16 UTC`
+📆 Last Updated: `2023-04-14 23:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [India](</India>)
 | 5 | [#JaiBhim](http://twitter.com/search?q=%23JaiBhim) | N/A |
 | 6 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
 | 7 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 8 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
+| 8 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
 | 9 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
 | 11 | [Indian Constitution](http://twitter.com/search?q=Indian+Constitution) | N/A |
-| 12 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
-| 13 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 14 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 15 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 12 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
+| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 14 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 15 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
 | 16 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
 | 17 | [असद अहमद](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 18 | [Yogi](http://twitter.com/search?q=Yogi) | N/A |
-| 19 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
-| 20 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 21 | [बाबासाहेब आंबेडकर](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac+%e0%a4%86%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 22 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 18 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
+| 19 | [Yogi](http://twitter.com/search?q=Yogi) | N/A |
+| 20 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
+| 21 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 22 | [बाबासाहेब आंबेडकर](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac+%e0%a4%86%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
 | 23 | [Lockie](http://twitter.com/search?q=Lockie) | N/A |
-| 24 | [Raneji Make Pendrive Public](http://twitter.com/search?q=Raneji+Make+Pendrive+Public) | N/A |
-| 25 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 26 | [Umesh](http://twitter.com/search?q=Umesh) | N/A |
-| 27 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 24 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 25 | [Raneji Make Pendrive Public](http://twitter.com/search?q=Raneji+Make+Pendrive+Public) | N/A |
+| 26 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 27 | [Umesh Pal](http://twitter.com/search?q=Umesh+Pal) | N/A |
 | 28 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
-| 29 | [Umran](http://twitter.com/search?q=Umran) | N/A |
-| 30 | [C Sharma](http://twitter.com/search?q=C+Sharma) | N/A |
+| 29 | [C Sharma](http://twitter.com/search?q=C+Sharma) | N/A |
+| 30 | [Russell](http://twitter.com/search?q=Russell) | N/A |
 | 31 | [Wire](http://twitter.com/search?q=Wire) | N/A |
 | 32 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 33 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
-| 34 | [Shardul](http://twitter.com/search?q=Shardul) | N/A |
-| 35 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 36 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 37 | [Lord Ganesha](http://twitter.com/search?q=Lord+Ganesha) | N/A |
-| 38 | [Lendl S](http://twitter.com/search?q=Lendl+S) | N/A |
-| 39 | [Dr. Reddy Cricket Stadium](http://twitter.com/search?q=Dr.+Reddy+Cricket+Stadium) | N/A |
-| 40 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 41 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 42 | [Eden Gardens](http://twitter.com/search?q=Eden+Gardens) | N/A |
-| 43 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 44 | [S Marsh](http://twitter.com/search?q=S+Marsh) | N/A |
-| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 46 | [Davinder Singh](http://twitter.com/search?q=Davinder+Singh) | N/A |
-| 47 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 48 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 49 | [Billy B](http://twitter.com/search?q=Billy+B) | N/A |
+| 33 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 34 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 35 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 37 | [Lendl S](http://twitter.com/search?q=Lendl+S) | N/A |
+| 38 | [Dr. Reddy Cricket Stadium](http://twitter.com/search?q=Dr.+Reddy+Cricket+Stadium) | N/A |
+| 39 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 40 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 41 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 42 | [S Marsh](http://twitter.com/search?q=S+Marsh) | N/A |
+| 43 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
+| 44 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 45 | [Davinder Singh](http://twitter.com/search?q=Davinder+Singh) | N/A |
+| 46 | [Ganesha](http://twitter.com/search?q=Ganesha) | N/A |
+| 47 | [KBKJ ARRIVES IN ONE WEEK](http://twitter.com/search?q=KBKJ+ARRIVES+IN+ONE+WEEK) | N/A |
+| 48 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 49 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 
 
 

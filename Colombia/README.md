@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-14 22:17:29 UTC`
+📆 Last Updated: `2023-04-14 23:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 3 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 2 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 3 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
 | 4 | [Times](http://twitter.com/search?q=Times) | N/A |
 | 5 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 6 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
+| 6 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
 | 7 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
-| 8 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 9 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
-| 10 | [#PelaezdeFranciscoenLaW](http://twitter.com/search?q=%23PelaezdeFranciscoenLaW) | N/A |
-| 11 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
-| 12 | [#nuestrarealidades](http://twitter.com/search?q=%23nuestrarealidades) | N/A |
-| 13 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 14 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
-| 15 | [Homer](http://twitter.com/search?q=Homer) | N/A |
-| 16 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 17 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
-| 18 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 19 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 20 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
-| 21 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 22 | [Abogade](http://twitter.com/search?q=Abogade) | N/A |
-| 23 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 24 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 25 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 26 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 27 | [Secuestro](http://twitter.com/search?q=Secuestro) | N/A |
-| 28 | [Martín Elías](http://twitter.com/search?q=Mart%c3%adn+El%c3%adas) | N/A |
-| 29 | [Revista Time](http://twitter.com/search?q=Revista+Time) | N/A |
-| 30 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 31 | [Haydar](http://twitter.com/search?q=Haydar) | N/A |
-| 32 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
-| 33 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 34 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
-| 35 | [Chantaje](http://twitter.com/search?q=Chantaje) | N/A |
-| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 37 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 38 | [Insólito](http://twitter.com/search?q=Ins%c3%b3lito) | N/A |
-| 39 | [Benjamin](http://twitter.com/search?q=Benjamin) | N/A |
-| 40 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 41 | [freddy rincón](http://twitter.com/search?q=freddy+rinc%c3%b3n) | N/A |
-| 42 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 44 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 45 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 46 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
-| 47 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
-| 48 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
-| 49 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
-| 50 | [Reformas](http://twitter.com/search?q=Reformas) | N/A |
+| 8 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
+| 9 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
+| 10 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
+| 11 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 12 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 13 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 14 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 15 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 16 | [Abogade](http://twitter.com/search?q=Abogade) | N/A |
+| 17 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 18 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 19 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 20 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 21 | [Nequi](http://twitter.com/search?q=Nequi) | N/A |
+| 22 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 23 | [#espnf90colombia](http://twitter.com/search?q=%23espnf90colombia) | N/A |
+| 24 | [Haydar](http://twitter.com/search?q=Haydar) | N/A |
+| 25 | [Martín Elías](http://twitter.com/search?q=Mart%c3%adn+El%c3%adas) | N/A |
+| 26 | [Revista Time](http://twitter.com/search?q=Revista+Time) | N/A |
+| 27 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 28 | [Mermelada](http://twitter.com/search?q=Mermelada) | N/A |
+| 29 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 30 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 31 | [#ElCaosTotalEs](http://twitter.com/search?q=%23ElCaosTotalEs) | N/A |
+| 32 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
+| 33 | [#PelaezdeFranciscoenLaW](http://twitter.com/search?q=%23PelaezdeFranciscoenLaW) | N/A |
+| 34 | [Benjamín](http://twitter.com/search?q=Benjam%c3%adn) | N/A |
+| 35 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 36 | [Insólito](http://twitter.com/search?q=Ins%c3%b3lito) | N/A |
+| 37 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 38 | [Secuestro](http://twitter.com/search?q=Secuestro) | N/A |
+| 39 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 40 | [Chantaje](http://twitter.com/search?q=Chantaje) | N/A |
+| 41 | [Los Del Sur](http://twitter.com/search?q=Los+Del+Sur) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
+| 44 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 45 | [Homer](http://twitter.com/search?q=Homer) | N/A |
+| 46 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 48 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 49 | [Aida](http://twitter.com/search?q=Aida) | N/A |
+| 50 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
 
 
 

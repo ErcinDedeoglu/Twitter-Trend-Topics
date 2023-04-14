@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-04-14 22:16:45 UTC`
+📆 Last Updated: `2023-04-14 23:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 2 | [Tony](http://twitter.com/search?q=Tony) | N/A |
-| 3 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
-| 4 | [Rufus](http://twitter.com/search?q=Rufus) | N/A |
-| 5 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 6 | [Top 4](http://twitter.com/search?q=Top+4) | N/A |
+| 1 | [Tony](http://twitter.com/search?q=Tony) | N/A |
+| 2 | [#SuperLeague](http://twitter.com/search?q=%23SuperLeague) | N/A |
+| 3 | [#coronationstreet](http://twitter.com/search?q=%23coronationstreet) | N/A |
+| 4 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 5 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
+| 6 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
 | 7 | [EUIC](http://twitter.com/search?q=EUIC) | N/A |
-| 8 | [Lisandro Martinez](http://twitter.com/search?q=Lisandro+Martinez) | N/A |
-| 9 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 10 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 11 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 12 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 13 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
-| 14 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 15 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
-| 16 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
-| 17 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 18 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 19 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
-| 20 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 21 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 22 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 8 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 9 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 10 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
+| 11 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 12 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 13 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 14 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 15 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
+| 16 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 17 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 18 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 19 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 20 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 21 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 22 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
 | 23 | [Larne](http://twitter.com/search?q=Larne) | N/A |
-| 24 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 25 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 26 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 27 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 28 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 29 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 30 | [Aberdeen](http://twitter.com/search?q=Aberdeen) | Aberdeen is a city in Scotland, located on the northeast coast of the country. It is the third-largest city in Scotland and the largest in Aberdeenshire. The name Aberdeen comes from the Gaelic words "aber" meaning "mouth of the river" and "dun" meaning "fort". |
-| 31 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 32 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 33 | [Harry Smith](http://twitter.com/search?q=Harry+Smith) | N/A |
-| 34 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
-| 35 | [Mowatt](http://twitter.com/search?q=Mowatt) | N/A |
-| 36 | [Webber](http://twitter.com/search?q=Webber) | N/A |
-| 37 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 24 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 25 | [Aberdeen](http://twitter.com/search?q=Aberdeen) | Aberdeen is a city in Scotland, located on the northeast coast of the country. It is the third-largest city in Scotland and the largest in Aberdeenshire. The name Aberdeen comes from the Gaelic words "aber" meaning "mouth of the river" and "dun" meaning "fort". |
+| 26 | [Unison](http://twitter.com/search?q=Unison) | N/A |
+| 27 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 28 | [Mayo for Sam](http://twitter.com/search?q=Mayo+for+Sam) | N/A |
+| 29 | [Mowatt](http://twitter.com/search?q=Mowatt) | N/A |
+| 30 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 32 | [Harry Smith](http://twitter.com/search?q=Harry+Smith) | N/A |
+| 33 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 34 | [Webber](http://twitter.com/search?q=Webber) | N/A |
+| 35 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
+| 36 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
+| 37 | [Wire](http://twitter.com/search?q=Wire) | N/A |
 | 38 | [Max Aarons](http://twitter.com/search?q=Max+Aarons) | N/A |
-| 39 | [Joan Collins](http://twitter.com/search?q=Joan+Collins) | N/A |
-| 40 | [Wellens](http://twitter.com/search?q=Wellens) | N/A |
-| 41 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 42 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 43 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 44 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 45 | [Not the North](http://twitter.com/search?q=Not+the+North) | N/A |
-| 46 | [Ross County](http://twitter.com/search?q=Ross+County) | N/A |
-| 47 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 48 | [Stephen](http://twitter.com/search?q=Stephen) | N/A |
-| 49 | [McNair](http://twitter.com/search?q=McNair) | N/A |
+| 39 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 40 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 41 | [Not the North](http://twitter.com/search?q=Not+the+North) | N/A |
+| 42 | [Joan Collins](http://twitter.com/search?q=Joan+Collins) | N/A |
+| 43 | [Wellens](http://twitter.com/search?q=Wellens) | N/A |
+| 44 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 45 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 46 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 47 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 48 | [Akpom](http://twitter.com/search?q=Akpom) | N/A |
+| 49 | [Stephen](http://twitter.com/search?q=Stephen) | N/A |
 
 
 

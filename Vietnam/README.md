@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-14 22:17:35 UTC`
+📆 Last Updated: `2023-04-14 23:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Vietnam
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#เล่นสงกรานต์กับบิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 2 | [songkran with biu](http://twitter.com/search?q=songkran+with+biu) | N/A |
+| 2 | [SONGKRAN WITH BIU](http://twitter.com/search?q=SONGKRAN+WITH+BIU) | N/A |
 | 3 | [#arbitrumspace](http://twitter.com/search?q=%23arbitrumspace) | N/A |
 | 4 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
 | 5 | [#ชวนพี่ภาสเล่นน้ํา](http://twitter.com/search?q=%23%e0%b8%8a%e0%b8%a7%e0%b8%99%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%a0%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2) | N/A |
@@ -27,19 +27,19 @@ This is top 50 for Vietnam
 | 10 | [Conan](http://twitter.com/search?q=Conan) | N/A |
 | 11 | [Protector](http://twitter.com/search?q=Protector) | N/A |
 | 12 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 13 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 14 | [Floor](http://twitter.com/search?q=Floor) | N/A |
-| 15 | [ethw](http://twitter.com/search?q=ethw) | N/A |
-| 16 | [Snow Boots](http://twitter.com/search?q=Snow+Boots) | N/A |
-| 17 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
-| 18 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 19 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 20 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 21 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 22 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Mexican Skull](http://twitter.com/search?q=Mexican+Skull) | N/A |
-| 25 | [Neel](http://twitter.com/search?q=Neel) | N/A |
+| 13 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 14 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 15 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 16 | [Floor](http://twitter.com/search?q=Floor) | N/A |
+| 17 | [ETHW](http://twitter.com/search?q=ETHW) | N/A |
+| 18 | [Snow Boots](http://twitter.com/search?q=Snow+Boots) | N/A |
+| 19 | [thuận](http://twitter.com/search?q=thu%e1%ba%adn) | N/A |
+| 20 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 21 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 22 | [Neel](http://twitter.com/search?q=Neel) | N/A |
+| 23 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 24 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 26 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
 | 27 | [$AGI](http://twitter.com/search?q=%24AGI) | N/A |
 | 28 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Vietnam
 | 31 | [giao](http://twitter.com/search?q=giao) | N/A |
 | 32 | [USDC](http://twitter.com/search?q=USDC) | N/A |
 | 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [christmas skull](http://twitter.com/search?q=christmas+skull) | N/A |
-| 35 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 36 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 37 | [Bitget](http://twitter.com/search?q=Bitget) | N/A |
-| 38 | [thời](http://twitter.com/search?q=th%e1%bb%9di) | N/A |
-| 39 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
-| 40 | [nhiều](http://twitter.com/search?q=nhi%e1%bb%81u) | N/A |
+| 34 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 35 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 36 | [Bitget](http://twitter.com/search?q=Bitget) | N/A |
+| 37 | [thời](http://twitter.com/search?q=th%e1%bb%9di) | N/A |
+| 38 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
+| 39 | [nhiều](http://twitter.com/search?q=nhi%e1%bb%81u) | N/A |
+| 40 | [Gothic Skull Seat Cover](http://twitter.com/search?q=Gothic+Skull+Seat+Cover) | N/A |
 | 41 | [Mong](http://twitter.com/search?q=Mong) | N/A |
-| 42 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 43 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 42 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
+| 43 | [vinh](http://twitter.com/search?q=vinh) | N/A |
 | 44 | [Jubail](http://twitter.com/search?q=Jubail) | N/A |
 | 45 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
 | 46 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 47 | [thượng hải](http://twitter.com/search?q=th%c6%b0%e1%bb%a3ng+h%e1%ba%a3i) | N/A |
 | 48 | [hóng](http://twitter.com/search?q=h%c3%b3ng) | N/A |
-| 49 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
-| 50 | [Englot](http://twitter.com/search?q=Englot) | N/A |
+| 49 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 50 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 
 
 

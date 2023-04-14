@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-04-14 22:17:19 UTC`
+📆 Last Updated: `2023-04-14 23:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GSvKYS](http://twitter.com/search?q=%23GSvKYS) | N/A |
+| 1 | [#YarınlarSenin](http://twitter.com/search?q=%23Yar%c4%b1nlarSenin) | N/A |
 | 2 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 3 | [#YarınlarSenin](http://twitter.com/search?q=%23Yar%c4%b1nlarSenin) | N/A |
+| 3 | [#GSvKYS](http://twitter.com/search?q=%23GSvKYS) | N/A |
 | 4 | [#MemurBayramEtsin](http://twitter.com/search?q=%23MemurBayramEtsin) | N/A |
-| 5 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 6 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
-| 7 | [NiceYaşlara Espi](http://twitter.com/search?q=NiceYa%c5%9flara+Espi) | N/A |
+| 5 | [#KizilcikŞerbeti](http://twitter.com/search?q=%23Kizilcik%c5%9eerbeti) | N/A |
+| 6 | [NiceYaşlara Espi](http://twitter.com/search?q=NiceYa%c5%9flara+Espi) | N/A |
+| 7 | [Galatasaray](http://twitter.com/search?q=Galatasaray) | Galatasaray is a Turkish sports club based in Istanbul, Turkey. The name Galatasaray translates to "Galata Palace" in English, referring to the nearby Galata Tower. The club is best known for its football team, which competes in the Turkish Super Lig and has won a record 22 league titles. |
 | 8 | [Teşekkürler Rtük](http://twitter.com/search?q=Te%c5%9fekk%c3%bcrler+Rt%c3%bck) | N/A |
-| 9 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
-| 10 | [MutluYaşlar YazgıCoşkun](http://twitter.com/search?q=MutluYa%c5%9flar+Yazg%c4%b1Co%c5%9fkun) | N/A |
-| 11 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
-| 12 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
-| 13 | [Kayseri](http://twitter.com/search?q=Kayseri) | N/A |
-| 14 | [Yine 8](http://twitter.com/search?q=Yine+8) | N/A |
-| 15 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 16 | [MuharremAdaylıktan Çekil](http://twitter.com/search?q=MuharremAdayl%c4%b1ktan+%c3%87ekil) | N/A |
-| 17 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
-| 18 | [Palio](http://twitter.com/search?q=Palio) | N/A |
-| 19 | [FENER AĞLAMA](http://twitter.com/search?q=FENER+A%c4%9eLAMA) | N/A |
-| 20 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 21 | [Cimbom](http://twitter.com/search?q=Cimbom) | N/A |
-| 22 | [Tayyibe Çakar](http://twitter.com/search?q=Tayyibe+%c3%87akar) | N/A |
-| 23 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
-| 24 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 25 | [SÖZÜMÜZÜN ERİYİZ](http://twitter.com/search?q=S%c3%96Z%c3%9cM%c3%9cZ%c3%9cN+ER%c4%b0Y%c4%b0Z) | N/A |
-| 26 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
-| 27 | [Mersin](http://twitter.com/search?q=Mersin) | N/A |
-| 28 | [Show TV](http://twitter.com/search?q=Show+TV) | N/A |
-| 29 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 30 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
-| 31 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
-| 32 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
-| 33 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
-| 34 | [Serhat](http://twitter.com/search?q=Serhat) | N/A |
-| 35 | [İslamofobi](http://twitter.com/search?q=%c4%b0slamofobi) | N/A |
-| 36 | [Doğru Adamla Yola Devam](http://twitter.com/search?q=Do%c4%9fru+Adamla+Yola+Devam) | N/A |
-| 37 | [CUMHURLA DİRİLİŞE](http://twitter.com/search?q=CUMHURLA+D%c4%b0R%c4%b0L%c4%b0%c5%9eE) | N/A |
-| 38 | [Otel](http://twitter.com/search?q=Otel) | N/A |
-| 39 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
-| 40 | [Thiam](http://twitter.com/search?q=Thiam) | N/A |
-| 41 | [Suna](http://twitter.com/search?q=Suna) | N/A |
-| 42 | [Maç 4-0](http://twitter.com/search?q=Ma%c3%a7+4-0) | N/A |
-| 43 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
-| 44 | [Katil](http://twitter.com/search?q=Katil) | N/A |
-| 45 | [Çarpan](http://twitter.com/search?q=%c3%87arpan) | N/A |
-| 46 | [Devlete](http://twitter.com/search?q=Devlete) | N/A |
-| 47 | [Okan Buruk](http://twitter.com/search?q=Okan+Buruk) | Okan Buruk is a Turkish phrase that translates to "bad luck". It is used to express sympathy or commiserate with someone who has experienced misfortune. |
-| 48 | [Rashica](http://twitter.com/search?q=Rashica) | Rashica is a surname of Albanian origin. It is derived from the word "rash" which means "joy" or "happiness". In English, it can be translated to mean "happy one". |
-| 49 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 50 | [Kadınlara Adaletİstiyoruz](http://twitter.com/search?q=Kad%c4%b1nlara+Adalet%c4%b0stiyoruz) | N/A |
+| 9 | [MutluYaşlar YazgıCoşkun](http://twitter.com/search?q=MutluYa%c5%9flar+Yazg%c4%b1Co%c5%9fkun) | N/A |
+| 10 | [Nelson](http://twitter.com/search?q=Nelson) | Nelson is a masculine given name of English origin. It is derived from the surname Nelson, which is itself derived from the Middle English phrase "sonne of Nell". The name Nelson means "son of Nell" or "son of Neil". |
+| 11 | [MahkumaAF BayramSevinci](http://twitter.com/search?q=MahkumaAF+BayramSevinci) | N/A |
+| 12 | [Şahan](http://twitter.com/search?q=%c5%9eahan) | N/A |
+| 13 | [Kerem](http://twitter.com/search?q=Kerem) | Kerem is a Hebrew word meaning vineyard. It is also used to refer to a place of abundance and blessing. |
+| 14 | [Zaniolo](http://twitter.com/search?q=Zaniolo) | N/A |
+| 15 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 16 | [Kayseri](http://twitter.com/search?q=Kayseri) | N/A |
+| 17 | [Palio](http://twitter.com/search?q=Palio) | N/A |
+| 18 | [Katil](http://twitter.com/search?q=Katil) | N/A |
+| 19 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 20 | [Tayyibe Çakar](http://twitter.com/search?q=Tayyibe+%c3%87akar) | N/A |
+| 21 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 22 | [SÖZÜMÜZÜN ERİYİZ](http://twitter.com/search?q=S%c3%96Z%c3%9cM%c3%9cZ%c3%9cN+ER%c4%b0Y%c4%b0Z) | N/A |
+| 23 | [CUMHURLA DİRİLİŞE](http://twitter.com/search?q=CUMHURLA+D%c4%b0R%c4%b0L%c4%b0%c5%9eE) | N/A |
+| 24 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 25 | [Rıdvan](http://twitter.com/search?q=R%c4%b1dvan) | Rıdvan is a Turkish name derived from the Arabic word “Ridwan”, which means “pleasure” or “contentment”. It is also used as a given name in many other cultures, including Arabic, Persian, and Urdu. |
+| 26 | [Mersin](http://twitter.com/search?q=Mersin) | N/A |
+| 27 | [Çağdaş Atan](http://twitter.com/search?q=%c3%87a%c4%9fda%c5%9f+Atan) | N/A |
+| 28 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
+| 29 | [Muslera](http://twitter.com/search?q=Muslera) | Muslera is a Turkish surname. It is derived from the Turkish word muslu, which means "pious" or "devout". In English, the name Muslera can be translated to mean "devout one". |
+| 30 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 31 | [ŞEN OLA](http://twitter.com/search?q=%c5%9eEN+OLA) | ŞEN OLA is a Turkish phrase that translates to "May it be merry". It is often used as a greeting or a wish for good luck. |
+| 32 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 33 | [MuharremAdaylıktan Çekil](http://twitter.com/search?q=MuharremAdayl%c4%b1ktan+%c3%87ekil) | N/A |
+| 34 | [Show TV](http://twitter.com/search?q=Show+TV) | N/A |
+| 35 | [Torreira](http://twitter.com/search?q=Torreira) | Torreira is a Portuguese word meaning "tower". It is often used to refer to a defensive tower or fortress. |
+| 36 | [İslamofobi](http://twitter.com/search?q=%c4%b0slamofobi) | N/A |
+| 37 | [Ağlama](http://twitter.com/search?q=A%c4%9flama) | N/A |
+| 38 | [Gomis](http://twitter.com/search?q=Gomis) | Gomis is a French surname. It is derived from the Latin word "gomesius", which means "man of God". In English, it can be translated to mean "servant of God". |
+| 39 | [İbrahim Kalın](http://twitter.com/search?q=%c4%b0brahim+Kal%c4%b1n) | N/A |
+| 40 | [Devlete](http://twitter.com/search?q=Devlete) | N/A |
+| 41 | [Thiam](http://twitter.com/search?q=Thiam) | N/A |
+| 42 | [İfakat](http://twitter.com/search?q=%c4%b0fakat) | N/A |
+| 43 | [Serhat](http://twitter.com/search?q=Serhat) | N/A |
+| 44 | [Mata](http://twitter.com/search?q=Mata) | Mata is a Japanese word that means "eye" or "vision". It can also be used to refer to the ability to see, understand, or perceive something. |
+| 45 | [Doğru Adamla Yola Devam](http://twitter.com/search?q=Do%c4%9fru+Adamla+Yola+Devam) | N/A |
+| 46 | [Okan Buruk](http://twitter.com/search?q=Okan+Buruk) | Okan Buruk is a Turkish phrase that translates to "bad luck". It is used to express sympathy or commiserate with someone who has experienced misfortune. |
+| 47 | [Çarpan](http://twitter.com/search?q=%c3%87arpan) | N/A |
+| 48 | [Otel](http://twitter.com/search?q=Otel) | N/A |
+| 49 | [Kadınlara Adaletİstiyoruz](http://twitter.com/search?q=Kad%c4%b1nlara+Adalet%c4%b0stiyoruz) | N/A |
+| 50 | [Kazım](http://twitter.com/search?q=Kaz%c4%b1m) | Kazım is a Turkish name, derived from the Arabic name Kazim. It means "one who controls his anger". |
 
 
 
