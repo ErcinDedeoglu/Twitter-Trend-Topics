@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-14 19:16:44 UTC`
+📆 Last Updated: `2023-04-14 20:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SoyBSCyUsoHavoline](http://twitter.com/search?q=%23SoyBSCyUsoHavoline) | N/A |
-| 2 | [#díadelmaestro](http://twitter.com/search?q=%23d%c3%adadelmaestro) | N/A |
+| 1 | [#diadelmaestro](http://twitter.com/search?q=%23diadelmaestro) | N/A |
+| 2 | [#SoyBSCyUsoHavoline](http://twitter.com/search?q=%23SoyBSCyUsoHavoline) | N/A |
 | 3 | [TE ARDE](http://twitter.com/search?q=TE+ARDE) | N/A |
-| 4 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 5 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 6 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 7 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 8 | [Posorja](http://twitter.com/search?q=Posorja) | N/A |
-| 9 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 10 | [Loes](http://twitter.com/search?q=Loes) | N/A |
-| 11 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
-| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 13 | [#13deabril](http://twitter.com/search?q=%2313deabril) | N/A |
-| 14 | [Coco](http://twitter.com/search?q=Coco) | N/A |
-| 15 | [Glas](http://twitter.com/search?q=Glas) | N/A |
-| 16 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
-| 17 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 18 | [#EcuadorSeDesangra](http://twitter.com/search?q=%23EcuadorSeDesangra) | N/A |
-| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 20 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 21 | [NatGeo](http://twitter.com/search?q=NatGeo) | N/A |
-| 22 | [Penitenciaría del Litoral](http://twitter.com/search?q=Penitenciar%c3%ada+del+Litoral) | N/A |
-| 23 | [la embajada de estados unidos](http://twitter.com/search?q=la+embajada+de+estados+unidos) | N/A |
-| 24 | [Balsas](http://twitter.com/search?q=Balsas) | N/A |
-| 25 | [Crecerá](http://twitter.com/search?q=Crecer%c3%a1) | N/A |
-| 26 | [Mijo](http://twitter.com/search?q=Mijo) | N/A |
-| 27 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 28 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
-| 29 | [Tremendo](http://twitter.com/search?q=Tremendo) | N/A |
-| 30 | [Gobernador](http://twitter.com/search?q=Gobernador) | N/A |
-| 31 | [los tiguerones](http://twitter.com/search?q=los+tiguerones) | N/A |
-| 32 | [Guacharnaco](http://twitter.com/search?q=Guacharnaco) | N/A |
-| 33 | [con 73](http://twitter.com/search?q=con+73) | N/A |
-| 34 | [Leonardo Campana](http://twitter.com/search?q=Leonardo+Campana) | N/A |
-| 35 | [SERCOP](http://twitter.com/search?q=SERCOP) | N/A |
-| 36 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 37 | [Alondra](http://twitter.com/search?q=Alondra) | N/A |
-| 38 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 39 | [En Cuba](http://twitter.com/search?q=En+Cuba) | N/A |
-| 40 | [Pachakutik](http://twitter.com/search?q=Pachakutik) | N/A |
-| 41 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
-| 42 | [gualaceo](http://twitter.com/search?q=gualaceo) | N/A |
-| 43 | [incómodo](http://twitter.com/search?q=inc%c3%b3modo) | N/A |
-| 44 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 45 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 46 | [Arce](http://twitter.com/search?q=Arce) | N/A |
-| 47 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
-| 48 | [Delincuente](http://twitter.com/search?q=Delincuente) | N/A |
-| 49 | [hoy 13](http://twitter.com/search?q=hoy+13) | N/A |
-| 50 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 4 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 5 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 6 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 7 | [Guayasamín](http://twitter.com/search?q=Guayasam%c3%adn) | N/A |
+| 8 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 9 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
+| 10 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 11 | [Glas](http://twitter.com/search?q=Glas) | N/A |
+| 12 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 13 | [#EcuadorSeDesangra](http://twitter.com/search?q=%23EcuadorSeDesangra) | N/A |
+| 14 | [Penitenciaría del Litoral](http://twitter.com/search?q=Penitenciar%c3%ada+del+Litoral) | N/A |
+| 15 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 16 | [#13deabril](http://twitter.com/search?q=%2313deabril) | N/A |
+| 17 | [Posorja](http://twitter.com/search?q=Posorja) | N/A |
+| 18 | [Guacharnaco](http://twitter.com/search?q=Guacharnaco) | N/A |
+| 19 | [Balsas](http://twitter.com/search?q=Balsas) | N/A |
+| 20 | [LOES](http://twitter.com/search?q=LOES) | N/A |
+| 21 | [Harry Maguire](http://twitter.com/search?q=Harry+Maguire) | N/A |
+| 22 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 23 | [Embajada](http://twitter.com/search?q=Embajada) | N/A |
+| 24 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
+| 25 | [Alondra](http://twitter.com/search?q=Alondra) | N/A |
+| 26 | [Coco](http://twitter.com/search?q=Coco) | N/A |
+| 27 | [Alborada](http://twitter.com/search?q=Alborada) | N/A |
+| 28 | [WE LOVE YOU JHOPE](http://twitter.com/search?q=WE+LOVE+YOU+JHOPE) | N/A |
+| 29 | [Crecerá](http://twitter.com/search?q=Crecer%c3%a1) | N/A |
+| 30 | [Tradición](http://twitter.com/search?q=Tradici%c3%b3n) | N/A |
+| 31 | [Jaime Roldós](http://twitter.com/search?q=Jaime+Rold%c3%b3s) | N/A |
+| 32 | [Denil Castillo](http://twitter.com/search?q=Denil+Castillo) | N/A |
+| 33 | [Alain Luna](http://twitter.com/search?q=Alain+Luna) | N/A |
+| 34 | [Guayacanes](http://twitter.com/search?q=Guayacanes) | N/A |
+| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 36 | [NatGeo](http://twitter.com/search?q=NatGeo) | N/A |
+| 37 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 38 | [Amazonía Viva](http://twitter.com/search?q=Amazon%c3%ada+Viva) | N/A |
+| 39 | [Juan Montalvo](http://twitter.com/search?q=Juan+Montalvo) | N/A |
+| 40 | [Niels](http://twitter.com/search?q=Niels) | N/A |
+| 41 | [Más Ecuador](http://twitter.com/search?q=M%c3%a1s+Ecuador) | N/A |
+| 42 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 43 | [telconet](http://twitter.com/search?q=telconet) | N/A |
+| 44 | [Orellana](http://twitter.com/search?q=Orellana) | N/A |
+| 45 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
+| 46 | [Almeida](http://twitter.com/search?q=Almeida) | N/A |
+| 47 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 48 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 49 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 50 | [Ministro del Interior](http://twitter.com/search?q=Ministro+del+Interior) | N/A |
 
 
 

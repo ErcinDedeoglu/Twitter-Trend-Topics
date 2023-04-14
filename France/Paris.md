@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-04-14 19:16:50 UTC`
+📆 Last Updated: `2023-04-14 20:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
-| 2 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 3 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 4 | [#TFCOL](http://twitter.com/search?q=%23TFCOL) | N/A |
-| 5 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
-| 6 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 7 | [#NintendAlertsXZenmarket](http://twitter.com/search?q=%23NintendAlertsXZenmarket) | N/A |
-| 8 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 9 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 11 | [Icardi](http://twitter.com/search?q=Icardi) | Icardi is a surname of Italian origin. It is derived from the Latin word "cardus" meaning thistle. In English, it can be translated to mean "of the thistle". |
-| 12 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 13 | [Tagliafico](http://twitter.com/search?q=Tagliafico) | N/A |
-| 14 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 15 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 16 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
-| 17 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
-| 18 | [Processus](http://twitter.com/search?q=Processus) | N/A |
-| 19 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 20 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 21 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 22 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 23 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 24 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 25 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 27 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 28 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
-| 29 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
-| 30 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 32 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
-| 33 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
-| 34 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 35 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 36 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 37 | [Henrique](http://twitter.com/search?q=Henrique) | N/A |
-| 38 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 39 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 40 | [Hubert Falco](http://twitter.com/search?q=Hubert+Falco) | N/A |
-| 41 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 42 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 43 | [Sages](http://twitter.com/search?q=Sages) | N/A |
-| 44 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 45 | [Touraine](http://twitter.com/search?q=Touraine) | N/A |
-| 46 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 47 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 48 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 49 | [Saha](http://twitter.com/search?q=Saha) | N/A |
-| 50 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 1 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 2 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
+| 3 | [#GreveGenerale](http://twitter.com/search?q=%23GreveGenerale) | N/A |
+| 4 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 5 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
+| 6 | [Zaho](http://twitter.com/search?q=Zaho) | N/A |
+| 7 | [#TFCOL](http://twitter.com/search?q=%23TFCOL) | N/A |
+| 8 | [Martin Lamotte](http://twitter.com/search?q=Martin+Lamotte) | N/A |
+| 9 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
+| 10 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 11 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 12 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 13 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 14 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
+| 15 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 16 | [Henrique](http://twitter.com/search?q=Henrique) | N/A |
+| 17 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 18 | [Le RN](http://twitter.com/search?q=Le+RN) | N/A |
+| 19 | [Processus](http://twitter.com/search?q=Processus) | N/A |
+| 20 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
+| 21 | [Hubert Falco](http://twitter.com/search?q=Hubert+Falco) | N/A |
+| 22 | [Les 9](http://twitter.com/search?q=Les+9) | N/A |
+| 23 | [Le RIP](http://twitter.com/search?q=Le+RIP) | N/A |
+| 24 | [Les LR](http://twitter.com/search?q=Les+LR) | N/A |
+| 25 | [Éric Ciotti](http://twitter.com/search?q=%c3%89ric+Ciotti) | N/A |
+| 26 | [En 2027](http://twitter.com/search?q=En+2027) | N/A |
+| 27 | [Toulon](http://twitter.com/search?q=Toulon) | N/A |
+| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 29 | [Les Sages](http://twitter.com/search?q=Les+Sages) | N/A |
+| 30 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 31 | [Juppé](http://twitter.com/search?q=Jupp%c3%a9) | N/A |
+| 32 | [Le 49.3](http://twitter.com/search?q=Le+49.3) | N/A |
+| 33 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
+| 34 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 35 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
+| 36 | [JO 2024](http://twitter.com/search?q=JO+2024) | N/A |
+| 37 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
+| 38 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 39 | [Zera](http://twitter.com/search?q=Zera) | N/A |
+| 40 | [Hôtel de Ville](http://twitter.com/search?q=H%c3%b4tel+de+Ville) | N/A |
+| 41 | [Rends](http://twitter.com/search?q=Rends) | N/A |
+| 42 | [Brigitte Bardot](http://twitter.com/search?q=Brigitte+Bardot) | N/A |
+| 43 | [Dictature](http://twitter.com/search?q=Dictature) | N/A |
+| 44 | [Capitole](http://twitter.com/search?q=Capitole) | N/A |
+| 45 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
+| 46 | [#64AnsCestToujoursNon](http://twitter.com/search?q=%2364AnsCestToujoursNon) | N/A |
+| 47 | [#manifestation](http://twitter.com/search?q=%23manifestation) | N/A |
+| 48 | [#Bastille](http://twitter.com/search?q=%23Bastille) | N/A |
+| 49 | [#1erMai](http://twitter.com/search?q=%231erMai) | N/A |
+| 50 | [#Revolution](http://twitter.com/search?q=%23Revolution) | N/A |
 
 
 

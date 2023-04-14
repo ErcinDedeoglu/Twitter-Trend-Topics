@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-14 19:16:55 UTC`
+📆 Last Updated: `2023-04-14 20:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brot](http://twitter.com/search?q=Brot) | N/A |
-| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 4 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
-| 5 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
-| 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 9 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 10 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 11 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 12 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 13 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 14 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 15 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 16 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 17 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 21 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
-| 22 | [Tier](http://twitter.com/search?q=Tier) | N/A |
-| 23 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 24 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 25 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 26 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 27 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
-| 28 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 29 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 30 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
-| 31 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 32 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
-| 33 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 34 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 35 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 36 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 37 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 38 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 39 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 40 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 41 | [Banker](http://twitter.com/search?q=Banker) | N/A |
-| 42 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 43 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 44 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 45 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 46 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 47 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 48 | [Gesinnung](http://twitter.com/search?q=Gesinnung) | N/A |
-| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 1 | [Elisabeth Kopp](http://twitter.com/search?q=Elisabeth+Kopp) | N/A |
+| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 5 | [Frau im Bundesrat](http://twitter.com/search?q=Frau+im+Bundesrat) | N/A |
+| 6 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 7 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 9 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 10 | [Brot](http://twitter.com/search?q=Brot) | N/A |
+| 11 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 12 | [Erinnerung](http://twitter.com/search?q=Erinnerung) | N/A |
+| 13 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [Argumentation](http://twitter.com/search?q=Argumentation) | N/A |
+| 16 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 17 | [Einzelfall](http://twitter.com/search?q=Einzelfall) | N/A |
+| 18 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
+| 19 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 20 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 21 | [Banker](http://twitter.com/search?q=Banker) | N/A |
+| 22 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
+| 23 | [En France](http://twitter.com/search?q=En+France) | N/A |
+| 24 | [Stil](http://twitter.com/search?q=Stil) | N/A |
+| 25 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 26 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 27 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 28 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 29 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 30 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 31 | [Frag](http://twitter.com/search?q=Frag) | N/A |
+| 32 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 33 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 34 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 35 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 36 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 37 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 38 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 39 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 40 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
+| 41 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 42 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
+| 43 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 44 | [Finanzplatz](http://twitter.com/search?q=Finanzplatz) | N/A |
+| 45 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 46 | [Phase](http://twitter.com/search?q=Phase) | N/A |
+| 47 | [Lots](http://twitter.com/search?q=Lots) | N/A |
 
 
 

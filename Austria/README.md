@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-14 19:17:26 UTC`
+📆 Last Updated: `2023-04-14 20:18:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 2 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
-| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 1 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
+| 2 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
+| 3 | [#SVRWSG](http://twitter.com/search?q=%23SVRWSG) | N/A |
 | 4 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
-| 5 | [Experte](http://twitter.com/search?q=Experte) | N/A |
-| 6 | [massenschlägerei](http://twitter.com/search?q=massenschl%c3%a4gerei) | N/A |
-| 7 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 8 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 9 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 10 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 11 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 12 | [#musiknick](http://twitter.com/search?q=%23musiknick) | N/A |
-| 13 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
-| 14 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 15 | [Utopien](http://twitter.com/search?q=Utopien) | N/A |
-| 16 | [brunnenmarkt](http://twitter.com/search?q=brunnenmarkt) | N/A |
-| 17 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 18 | [Weltbild](http://twitter.com/search?q=Weltbild) | N/A |
-| 19 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
-| 20 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 21 | [Bildung](http://twitter.com/search?q=Bildung) | N/A |
-| 22 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 23 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
-| 24 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 25 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 27 | [Arbeitsplätze](http://twitter.com/search?q=Arbeitspl%c3%a4tze) | N/A |
-| 28 | [Hirn](http://twitter.com/search?q=Hirn) | N/A |
-| 29 | [Körper](http://twitter.com/search?q=K%c3%b6rper) | N/A |
-| 30 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
-| 31 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 32 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 33 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
-| 34 | [Wenns](http://twitter.com/search?q=Wenns) | N/A |
-| 35 | [Heast](http://twitter.com/search?q=Heast) | N/A |
-| 36 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 37 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 38 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 39 | [Aufwand](http://twitter.com/search?q=Aufwand) | N/A |
-| 40 | [Linz](http://twitter.com/search?q=Linz) | N/A |
-| 41 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
-| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 43 | [Bures](http://twitter.com/search?q=Bures) | N/A |
-| 44 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 45 | [Urteil](http://twitter.com/search?q=Urteil) | N/A |
-| 46 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
-| 47 | [Troll](http://twitter.com/search?q=Troll) | N/A |
-| 48 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 49 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 50 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 5 | [#GAKSKN](http://twitter.com/search?q=%23GAKSKN) | N/A |
+| 6 | [Schnitzel](http://twitter.com/search?q=Schnitzel) | N/A |
+| 7 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 8 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 9 | [Fisch](http://twitter.com/search?q=Fisch) | N/A |
+| 10 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 11 | [Massenschlägerei](http://twitter.com/search?q=Massenschl%c3%a4gerei) | N/A |
+| 12 | [Outfit](http://twitter.com/search?q=Outfit) | N/A |
+| 13 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 14 | [Problemen](http://twitter.com/search?q=Problemen) | N/A |
+| 15 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Neusiedlersee](http://twitter.com/search?q=Neusiedlersee) | N/A |
+| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 19 | [Viren](http://twitter.com/search?q=Viren) | N/A |
+| 20 | [Utopien](http://twitter.com/search?q=Utopien) | N/A |
+| 21 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 22 | [Khol](http://twitter.com/search?q=Khol) | N/A |
+| 23 | [Arbeitszeitverkürzung](http://twitter.com/search?q=Arbeitszeitverk%c3%bcrzung) | N/A |
+| 24 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 25 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
+| 26 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 27 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
+| 28 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
+| 29 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
+| 30 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 31 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 32 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
+| 33 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 34 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 35 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
+| 36 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
+| 37 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 38 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | N/A |
+| 39 | [Beleidigung](http://twitter.com/search?q=Beleidigung) | N/A |
+| 40 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 41 | [Weihnachten](http://twitter.com/search?q=Weihnachten) | Weihnachten is the German word for Christmas. It literally translates to "holy night" in English. |
+| 42 | [schutzzone](http://twitter.com/search?q=schutzzone) | N/A |
+| 43 | [Brunnenmarkt](http://twitter.com/search?q=Brunnenmarkt) | N/A |
+| 44 | [Presse](http://twitter.com/search?q=Presse) | N/A |
+| 45 | [Experte](http://twitter.com/search?q=Experte) | N/A |
+| 46 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 47 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 48 | [Auswahl](http://twitter.com/search?q=Auswahl) | N/A |
+| 49 | [Figur](http://twitter.com/search?q=Figur) | N/A |
+| 50 | [HEAST](http://twitter.com/search?q=HEAST) | N/A |
 
 
 

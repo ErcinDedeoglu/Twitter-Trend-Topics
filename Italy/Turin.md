@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-04-14 19:16:53 UTC`
+📆 Last Updated: `2023-04-14 20:17:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
-| 2 | [#Spuntablu](http://twitter.com/search?q=%23Spuntablu) | N/A |
-| 3 | [#leredità](http://twitter.com/search?q=%23leredit%c3%a0) | N/A |
-| 4 | [#14aprile](http://twitter.com/search?q=%2314aprile) | N/A |
-| 5 | [#ghigliottina](http://twitter.com/search?q=%23ghigliottina) | N/A |
+| 1 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 2 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
+| 3 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
+| 4 | [#Spuntablu](http://twitter.com/search?q=%23Spuntablu) | N/A |
+| 5 | [#14Aprile](http://twitter.com/search?q=%2314Aprile) | N/A |
 | 6 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 7 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 7 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
 | 8 | [Ciao Paolo](http://twitter.com/search?q=Ciao+Paolo) | N/A |
-| 9 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 11 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 12 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 13 | [Buona](http://twitter.com/search?q=Buona) | N/A |
-| 14 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
-| 15 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 16 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 17 | [Drojette](http://twitter.com/search?q=Drojette) | N/A |
-| 18 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 19 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 20 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 21 | [Achille](http://twitter.com/search?q=Achille) | N/A |
-| 22 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 23 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
-| 26 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 27 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 28 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
-| 29 | [Calciopoli](http://twitter.com/search?q=Calciopoli) | N/A |
-| 30 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 31 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 33 | [Stretto](http://twitter.com/search?q=Stretto) | N/A |
-| 34 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 35 | [CEDU](http://twitter.com/search?q=CEDU) | N/A |
-| 36 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 37 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 38 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
-| 39 | [attilio](http://twitter.com/search?q=attilio) | N/A |
-| 40 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 41 | [Rossy](http://twitter.com/search?q=Rossy) | N/A |
-| 42 | [buon venerdì](http://twitter.com/search?q=buon+venerd%c3%ac) | N/A |
-| 43 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
-| 44 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
-| 45 | [Anice](http://twitter.com/search?q=Anice) | N/A |
-| 46 | [Baiardo](http://twitter.com/search?q=Baiardo) | N/A |
-| 47 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 48 | [Leonardo da Vinci](http://twitter.com/search?q=Leonardo+da+Vinci) | N/A |
-| 49 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 50 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 9 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 12 | [Immobile](http://twitter.com/search?q=Immobile) | N/A |
+| 13 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 14 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
+| 15 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 16 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 17 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
+| 18 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 20 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 21 | [Felipe Anderson](http://twitter.com/search?q=Felipe+Anderson) | Felipe Anderson is a Brazilian professional footballer who plays as an attacking midfielder for Premier League club West Ham United. His name is derived from the Portuguese words "feliz" (happy) and "pé" (foot). In English, his name translates to "happy foot". |
+| 22 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 23 | [Gabbani](http://twitter.com/search?q=Gabbani) | N/A |
+| 24 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 25 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
+| 26 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
+| 27 | [Etiopia](http://twitter.com/search?q=Etiopia) | N/A |
+| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 29 | [Quattrocchi](http://twitter.com/search?q=Quattrocchi) | N/A |
+| 30 | [Palla](http://twitter.com/search?q=Palla) | N/A |
+| 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 32 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 33 | [Bertinotti](http://twitter.com/search?q=Bertinotti) | N/A |
+| 34 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 35 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 36 | [Picco](http://twitter.com/search?q=Picco) | N/A |
+| 37 | [Scansuolo](http://twitter.com/search?q=Scansuolo) | N/A |
+| 38 | [Umbria](http://twitter.com/search?q=Umbria) | N/A |
+| 39 | [Di Natale](http://twitter.com/search?q=Di+Natale) | N/A |
+| 40 | [Provenzano](http://twitter.com/search?q=Provenzano) | N/A |
+| 41 | [Anice](http://twitter.com/search?q=Anice) | N/A |
+| 42 | [Turin](http://twitter.com/search?q=Turin) | N/A |
+| 43 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 44 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 45 | [Massimo Fini](http://twitter.com/search?q=Massimo+Fini) | N/A |
+| 46 | [Elonio](http://twitter.com/search?q=Elonio) | N/A |
+| 47 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 48 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 49 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 50 | [AFHF](http://twitter.com/search?q=AFHF) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-04-14 19:17:21 UTC`
+📆 Last Updated: `2023-04-14 20:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 2 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 3 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 4 | [#Alphabetnetwork](http://twitter.com/search?q=%23Alphabetnetwork) | N/A |
-| 5 | [Mikey Williams](http://twitter.com/search?q=Mikey+Williams) | N/A |
-| 6 | [#UniswapHack](http://twitter.com/search?q=%23UniswapHack) | N/A |
-| 7 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 8 | [#MAGAWarOnWomensRights](http://twitter.com/search?q=%23MAGAWarOnWomensRights) | N/A |
-| 9 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 10 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 11 | [Tiffany and Brett](http://twitter.com/search?q=Tiffany+and+Brett) | N/A |
-| 12 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
-| 13 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 14 | [Blippi](http://twitter.com/search?q=Blippi) | N/A |
-| 15 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 16 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 17 | [Miles Bridges](http://twitter.com/search?q=Miles+Bridges) | Miles Bridges is an American professional basketball player who currently plays for the Charlotte Hornets of the National Basketball Association (NBA). His name is a combination of his given name, Miles, and his mother's maiden name, Bridges. The phrase "Miles Bridges" can be used to refer to the basketball player himself. |
-| 18 | [REAL SUPER DARK](http://twitter.com/search?q=REAL+SUPER+DARK) | N/A |
-| 19 | [FUNERAL GREY](http://twitter.com/search?q=FUNERAL+GREY) | N/A |
-| 20 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 21 | [After Hours](http://twitter.com/search?q=After+Hours) | N/A |
-| 22 | [2 BEST FRIENDS](http://twitter.com/search?q=2+BEST+FRIENDS) | N/A |
-| 23 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 24 | [Liberty University](http://twitter.com/search?q=Liberty+University) | N/A |
-| 25 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 26 | [Lane](http://twitter.com/search?q=Lane) | N/A |
-| 27 | [Maxie](http://twitter.com/search?q=Maxie) | N/A |
-| 28 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
-| 29 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
-| 30 | [Jimmy Walker](http://twitter.com/search?q=Jimmy+Walker) | N/A |
-| 31 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
-| 32 | [Dark and Darker](http://twitter.com/search?q=Dark+and+Darker) | "Dark and Darker" is an idiom that is used to describe a situation that is becoming increasingly worse or more difficult. It can be used to describe a situation that is getting more serious, or a problem that is becoming harder to solve. |
-| 33 | [Nightcrawler](http://twitter.com/search?q=Nightcrawler) | N/A |
-| 34 | [Extreme MAGA Republicans](http://twitter.com/search?q=Extreme+MAGA+Republicans) | N/A |
-| 35 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 36 | [George Jones](http://twitter.com/search?q=George+Jones) | N/A |
-| 37 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 38 | [Brett & Tiffany](http://twitter.com/search?q=Brett+%26+Tiffany) | N/A |
-| 39 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 40 | [George Strait](http://twitter.com/search?q=George+Strait) | N/A |
-| 41 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 42 | [Princess Diana](http://twitter.com/search?q=Princess+Diana) | Princess Diana is a title given to Diana, Princess of Wales, who was the first wife of Charles, Prince of Wales. She was an iconic figure in the United Kingdom and around the world, and her death in 1997 was met with shock and grief. |
-| 43 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 44 | [RITUAL](http://twitter.com/search?q=RITUAL) | N/A |
-| 45 | [Jamie Foxx](http://twitter.com/search?q=Jamie+Foxx) | N/A |
-| 46 | [Teixeira](http://twitter.com/search?q=Teixeira) | N/A |
-| 47 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 48 | [72 Seasons](http://twitter.com/search?q=72+Seasons) | N/A |
-| 49 | [Portia](http://twitter.com/search?q=Portia) | N/A |
+| 1 | [Happy 414](http://twitter.com/search?q=Happy+414) | N/A |
+| 2 | [#Milwaukee](http://twitter.com/search?q=%23Milwaukee) | N/A |
+| 3 | [#Alphabetnetwork](http://twitter.com/search?q=%23Alphabetnetwork) | N/A |
+| 4 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 5 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 6 | [#MAGAWarOnWomensRights](http://twitter.com/search?q=%23MAGAWarOnWomensRights) | N/A |
+| 7 | [Mikey Williams](http://twitter.com/search?q=Mikey+Williams) | N/A |
+| 8 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 9 | [#UniswapHack](http://twitter.com/search?q=%23UniswapHack) | N/A |
+| 10 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
+| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [Miles Bridges](http://twitter.com/search?q=Miles+Bridges) | Miles Bridges is an American professional basketball player who currently plays for the Charlotte Hornets of the National Basketball Association (NBA). His name is a combination of his given name, Miles, and his mother's maiden name, Bridges. The phrase "Miles Bridges" can be used to refer to the basketball player himself. |
+| 13 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 14 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
+| 15 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
+| 16 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 17 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 18 | [Tony Gonzalez](http://twitter.com/search?q=Tony+Gonzalez) | N/A |
+| 19 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 20 | [After Hours](http://twitter.com/search?q=After+Hours) | N/A |
+| 21 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 22 | [Blippi](http://twitter.com/search?q=Blippi) | N/A |
+| 23 | [Justice Alito](http://twitter.com/search?q=Justice+Alito) | N/A |
+| 24 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 25 | [Drew Sample](http://twitter.com/search?q=Drew+Sample) | N/A |
+| 26 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 27 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 28 | [Revoke Cash](http://twitter.com/search?q=Revoke+Cash) | N/A |
+| 29 | [Liberty University](http://twitter.com/search?q=Liberty+University) | N/A |
+| 30 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 31 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 32 | [Maxie](http://twitter.com/search?q=Maxie) | N/A |
+| 33 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 34 | [Exeter](http://twitter.com/search?q=Exeter) | N/A |
+| 35 | [Johnny Cash](http://twitter.com/search?q=Johnny+Cash) | N/A |
+| 36 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 37 | [Drop a B&W](http://twitter.com/search?q=Drop+a+B%26W) | N/A |
+| 38 | [Vindman](http://twitter.com/search?q=Vindman) | N/A |
+| 39 | [Dark and Darker](http://twitter.com/search?q=Dark+and+Darker) | "Dark and Darker" is an idiom that is used to describe a situation that is becoming increasingly worse or more difficult. It can be used to describe a situation that is getting more serious, or a problem that is becoming harder to solve. |
+| 40 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 41 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
+| 42 | [Vampire Survivors](http://twitter.com/search?q=Vampire+Survivors) | N/A |
+| 43 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 44 | [One False Move](http://twitter.com/search?q=One+False+Move) | N/A |
+| 45 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 46 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 47 | [Waylon Jennings](http://twitter.com/search?q=Waylon+Jennings) | N/A |
+| 48 | [Who Dey](http://twitter.com/search?q=Who+Dey) | "Who Dey" is a chant used by fans of the Cincinnati Bengals, an American football team. It is an expression of support for the team and is usually shouted during games. The phrase is derived from the traditional African-American call-and-response cheer "Who dat? Who dat? Who dat say dey gonna beat dem Bengals?" The meaning in English is "Who says they can beat the Bengals?" |
+| 49 | [Wallo](http://twitter.com/search?q=Wallo) | Wallo is a slang term used to express surprise or excitement. It is often used as an exclamation of joy or enthusiasm. In English, it can be translated to mean "Wow!" or "Oh my gosh!" |
+| 50 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
 
 
 

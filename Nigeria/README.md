@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-04-14 19:17:30 UTC`
+📆 Last Updated: `2023-04-14 20:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WODC2023](http://twitter.com/search?q=%23WODC2023) | N/A |
-| 2 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 3 | [#Elevated](http://twitter.com/search?q=%23Elevated) | N/A |
-| 4 | [#SoundsOfAlat](http://twitter.com/search?q=%23SoundsOfAlat) | N/A |
+| 1 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 2 | [#SoundsOfAlat](http://twitter.com/search?q=%23SoundsOfAlat) | N/A |
+| 3 | [#WODC2023](http://twitter.com/search?q=%23WODC2023) | N/A |
+| 4 | [PARIPESA BET](http://twitter.com/search?q=PARIPESA+BET) | N/A |
 | 5 | [#QuicktellerMusic](http://twitter.com/search?q=%23QuicktellerMusic) | N/A |
-| 6 | [PARIPESA BET](http://twitter.com/search?q=PARIPESA+BET) | N/A |
+| 6 | [Abu Abel](http://twitter.com/search?q=Abu+Abel) | N/A |
 | 7 | [#TreasureWithoutMeasure](http://twitter.com/search?q=%23TreasureWithoutMeasure) | N/A |
-| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 10 | [Abu Abel](http://twitter.com/search?q=Abu+Abel) | N/A |
-| 11 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 12 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 13 | [Eboue](http://twitter.com/search?q=Eboue) | N/A |
-| 14 | [Dj Chicken](http://twitter.com/search?q=Dj+Chicken) | N/A |
-| 15 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 17 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 18 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 19 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
-| 20 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
-| 21 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 22 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
-| 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 25 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
-| 26 | [Times](http://twitter.com/search?q=Times) | N/A |
-| 27 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
-| 28 | [Iftar Mubarak](http://twitter.com/search?q=Iftar+Mubarak) | N/A |
-| 29 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 30 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 31 | [WORK WITH KANAGA JNR](http://twitter.com/search?q=WORK+WITH+KANAGA+JNR) | N/A |
-| 32 | [Riggs](http://twitter.com/search?q=Riggs) | N/A |
-| 33 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 34 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 35 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 36 | [Abike Dabiri](http://twitter.com/search?q=Abike+Dabiri) | N/A |
-| 37 | [Jay Jay](http://twitter.com/search?q=Jay+Jay) | N/A |
-| 38 | [50 HTML](http://twitter.com/search?q=50+HTML) | N/A |
-| 39 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 40 | [British Government](http://twitter.com/search?q=British+Government) | N/A |
-| 41 | [zanku](http://twitter.com/search?q=zanku) | N/A |
-| 42 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 43 | [Sherlock](http://twitter.com/search?q=Sherlock) | N/A |
-| 44 | [Astha Rajvanshi](http://twitter.com/search?q=Astha+Rajvanshi) | N/A |
-| 45 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
-| 46 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
-| 47 | [yvonne the brand](http://twitter.com/search?q=yvonne+the+brand) | N/A |
-| 48 | [Senegalese](http://twitter.com/search?q=Senegalese) | N/A |
-| 49 | [Frames](http://twitter.com/search?q=Frames) | N/A |
-| 50 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
+| 8 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 9 | [DJ Chicken](http://twitter.com/search?q=DJ+Chicken) | N/A |
+| 10 | [#KogiPrimaries](http://twitter.com/search?q=%23KogiPrimaries) | N/A |
+| 11 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
+| 12 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 13 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 14 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
+| 15 | [Jay Jay](http://twitter.com/search?q=Jay+Jay) | N/A |
+| 16 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 17 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
+| 18 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 19 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 20 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 21 | [Emmanuel Eboue](http://twitter.com/search?q=Emmanuel+Eboue) | N/A |
+| 22 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 23 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 24 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 25 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 26 | [SHEGGZ OLU](http://twitter.com/search?q=SHEGGZ+OLU) | N/A |
+| 27 | [Mummy](http://twitter.com/search?q=Mummy) | N/A |
+| 28 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
+| 29 | [Marriage](http://twitter.com/search?q=Marriage) | N/A |
+| 30 | [Adele](http://twitter.com/search?q=Adele) | Adele is a female given name of German origin, derived from the element “adel” meaning “noble”. It is also a popular singer and songwriter from England who has released several albums since 2008. |
+| 31 | [Build](http://twitter.com/search?q=Build) | N/A |
+| 32 | [Marry](http://twitter.com/search?q=Marry) | N/A |
+| 33 | [JUICY JAY](http://twitter.com/search?q=JUICY+JAY) | N/A |
+| 34 | [Thief](http://twitter.com/search?q=Thief) | N/A |
+| 35 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 36 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 37 | [Man of the Year](http://twitter.com/search?q=Man+of+the+Year) | N/A |
+| 38 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 39 | [#BelieveMe](http://twitter.com/search?q=%23BelieveMe) | N/A |
+| 40 | [#Divorce](http://twitter.com/search?q=%23Divorce) | N/A |
+| 41 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
+| 42 | [#TheTable](http://twitter.com/search?q=%23TheTable) | N/A |
+| 43 | [#fearwomen](http://twitter.com/search?q=%23fearwomen) | N/A |
+| 44 | [#DMK_Files](http://twitter.com/search?q=%23DMK_Files) | N/A |
+| 45 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 46 | [#altcoin](http://twitter.com/search?q=%23altcoin) | N/A |
+| 47 | [#RoadtoICC](http://twitter.com/search?q=%23RoadtoICC) | N/A |
 
 
 

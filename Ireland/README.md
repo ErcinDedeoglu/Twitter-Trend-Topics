@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-04-14 19:17:27 UTC`
+📆 Last Updated: `2023-04-14 20:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ireland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 2 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 3 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 4 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 5 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
-| 6 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 7 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
-| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 9 | [#5albums67](http://twitter.com/search?q=%235albums67) | N/A |
-| 10 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 11 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 12 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 13 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 14 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 15 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 16 | [Connacht](http://twitter.com/search?q=Connacht) | N/A |
-| 17 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 20 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
-| 21 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
-| 22 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 23 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 24 | [Danny](http://twitter.com/search?q=Danny) | N/A |
-| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 26 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 27 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 28 | [Tricolour](http://twitter.com/search?q=Tricolour) | N/A |
-| 29 | [Oireachtas](http://twitter.com/search?q=Oireachtas) | N/A |
-| 30 | [Nile](http://twitter.com/search?q=Nile) | N/A |
-| 31 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 32 | [lamela](http://twitter.com/search?q=lamela) | N/A |
-| 33 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 34 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 35 | [Misneach](http://twitter.com/search?q=Misneach) | N/A |
-| 36 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 37 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 38 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [rob kearney](http://twitter.com/search?q=rob+kearney) | N/A |
-| 41 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 42 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 43 | [Enda](http://twitter.com/search?q=Enda) | N/A |
-| 44 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 45 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 1 | [#BidenVisit](http://twitter.com/search?q=%23BidenVisit) | N/A |
+| 2 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 3 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 4 | [Mary Robinson](http://twitter.com/search?q=Mary+Robinson) | N/A |
+| 5 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 6 | [The Coronas](http://twitter.com/search?q=The+Coronas) | N/A |
+| 7 | [Knock](http://twitter.com/search?q=Knock) | N/A |
+| 8 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
+| 9 | [Bohs](http://twitter.com/search?q=Bohs) | N/A |
+| 10 | [Graham Burke](http://twitter.com/search?q=Graham+Burke) | N/A |
+| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 12 | [Dalymount](http://twitter.com/search?q=Dalymount) | N/A |
+| 13 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
+| 14 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 15 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 16 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 17 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 18 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 19 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 20 | [Gerri Colombe](http://twitter.com/search?q=Gerri+Colombe) | N/A |
+| 21 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 22 | [#AintreeFestival](http://twitter.com/search?q=%23AintreeFestival) | N/A |
+| 23 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 25 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
+| 26 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 27 | [Angelus](http://twitter.com/search?q=Angelus) | N/A |
+| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 29 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 31 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
+| 32 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 33 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 34 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 35 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 37 | [Oireachtas](http://twitter.com/search?q=Oireachtas) | N/A |
+| 38 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 39 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 40 | [Tricolour](http://twitter.com/search?q=Tricolour) | N/A |
+| 41 | [Punch](http://twitter.com/search?q=Punch) | N/A |
+| 42 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 43 | [The Irish](http://twitter.com/search?q=The+Irish) | N/A |
+| 44 | [Sam Prendergast](http://twitter.com/search?q=Sam+Prendergast) | N/A |
+| 45 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
 | 46 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 47 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 48 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 49 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 50 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 47 | [Danny](http://twitter.com/search?q=Danny) | N/A |
+| 48 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 49 | [Grade 1](http://twitter.com/search?q=Grade+1) | N/A |
+| 50 | [Congratulations Sophie](http://twitter.com/search?q=Congratulations+Sophie) | N/A |
 
 
 

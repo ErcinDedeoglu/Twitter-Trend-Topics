@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-14 19:16:58 UTC`
+📆 Last Updated: `2023-04-14 20:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AFLFreoSuns](http://twitter.com/search?q=%23AFLFreoSuns) | N/A |
-| 2 | [#NRLSharksRoosters](http://twitter.com/search?q=%23NRLSharksRoosters) | N/A |
-| 3 | [#AFLTigersSwans](http://twitter.com/search?q=%23AFLTigersSwans) | N/A |
-| 4 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
+| 1 | [#afltigersswans](http://twitter.com/search?q=%23afltigersswans) | N/A |
+| 2 | [#nrlmanlystorm](http://twitter.com/search?q=%23nrlmanlystorm) | N/A |
+| 3 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
+| 4 | [#AFLFreoSuns](http://twitter.com/search?q=%23AFLFreoSuns) | N/A |
 | 5 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
-| 6 | [Kerry O'Brien](http://twitter.com/search?q=Kerry+O%27Brien) | N/A |
-| 7 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 8 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 9 | [Norwood Oval](http://twitter.com/search?q=Norwood+Oval) | N/A |
-| 10 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 13 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Kerry O'Brien](http://twitter.com/search?q=Kerry+O%27Brien) | N/A |
+| 8 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 9 | [tom papley](http://twitter.com/search?q=tom+papley) | N/A |
+| 10 | [norwood oval](http://twitter.com/search?q=norwood+oval) | N/A |
+| 11 | [olam](http://twitter.com/search?q=olam) | N/A |
+| 12 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 13 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
 | 14 | [Radley](http://twitter.com/search?q=Radley) | N/A |
-| 15 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 16 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 17 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 18 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 19 | [the abc](http://twitter.com/search?q=the+abc) | N/A |
-| 20 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 21 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 22 | [Will Gould](http://twitter.com/search?q=Will+Gould) | N/A |
-| 23 | [Plowman](http://twitter.com/search?q=Plowman) | N/A |
-| 24 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 25 | [bedout island](http://twitter.com/search?q=bedout+island) | N/A |
-| 26 | [port hedland](http://twitter.com/search?q=port+hedland) | N/A |
-| 27 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 28 | [pardoo roadhouse](http://twitter.com/search?q=pardoo+roadhouse) | N/A |
-| 29 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
-| 30 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 31 | [Aged Care](http://twitter.com/search?q=Aged+Care) | N/A |
-| 32 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 33 | [Shark Park](http://twitter.com/search?q=Shark+Park) | N/A |
-| 34 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 35 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 36 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 37 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 38 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 39 | [hastie](http://twitter.com/search?q=hastie) | N/A |
-| 40 | [Bird](http://twitter.com/search?q=Bird) | N/A |
-| 41 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 42 | [Australia Day](http://twitter.com/search?q=Australia+Day) | Australia Day is a national public holiday in Australia that marks the anniversary of the arrival of the First Fleet of British ships at Port Jackson, New South Wales, in 1788. It is celebrated annually on January 26 and is a day to celebrate the nation's history, culture, and achievements. |
-| 43 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 44 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 45 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 46 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 48 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
+| 15 | [Gould](http://twitter.com/search?q=Gould) | Gould is a surname of English origin. It is derived from the Old English word "gold" and was originally used to denote someone who worked with gold or was wealthy. |
+| 16 | [aaron woods](http://twitter.com/search?q=aaron+woods) | N/A |
+| 17 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
+| 18 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 19 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 20 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 21 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 22 | [Balta](http://twitter.com/search?q=Balta) | N/A |
+| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 24 | [cotchin](http://twitter.com/search?q=cotchin) | N/A |
+| 25 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 26 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 27 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 28 | [plowman](http://twitter.com/search?q=plowman) | N/A |
+| 29 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 30 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 31 | [jack riewoldt](http://twitter.com/search?q=jack+riewoldt) | N/A |
+| 32 | [jarryd hayne](http://twitter.com/search?q=jarryd+hayne) | N/A |
+| 33 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 34 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 35 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 36 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
+| 37 | [Amiss](http://twitter.com/search?q=Amiss) | N/A |
+| 38 | [nicho hynes](http://twitter.com/search?q=nicho+hynes) | N/A |
+| 39 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 40 | [Heeney](http://twitter.com/search?q=Heeney) | N/A |
+| 41 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 42 | [shark park](http://twitter.com/search?q=shark+park) | N/A |
+| 43 | [Snapchat AI](http://twitter.com/search?q=Snapchat+AI) | N/A |
+| 44 | [Hastie](http://twitter.com/search?q=Hastie) | N/A |
+| 45 | [adam gee](http://twitter.com/search?q=adam+gee) | N/A |
+| 46 | [The ABC](http://twitter.com/search?q=The+ABC) | N/A |
+| 47 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 48 | [Aged Care](http://twitter.com/search?q=Aged+Care) | N/A |
 
 
 

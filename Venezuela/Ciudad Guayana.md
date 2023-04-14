@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-04-14 19:16:45 UTC`
+📆 Last Updated: `2023-04-14 20:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
-| 2 | [#14Abr](http://twitter.com/search?q=%2314Abr) | N/A |
+| 1 | [#14Abr](http://twitter.com/search?q=%2314Abr) | N/A |
+| 2 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
 | 3 | [#RebeliónCívicoMilitar](http://twitter.com/search?q=%23Rebeli%c3%b3nC%c3%advicoMilitar) | N/A |
-| 4 | [Rumildo](http://twitter.com/search?q=Rumildo) | N/A |
+| 4 | [#NuestraGobernadora](http://twitter.com/search?q=%23NuestraGobernadora) | N/A |
 | 5 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 6 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
-| 7 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 8 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
-| 9 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 10 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 11 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 12 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 13 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 14 | [#parasitosisrusaenvzla](http://twitter.com/search?q=%23parasitosisrusaenvzla) | N/A |
-| 15 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
-| 16 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 6 | [Rumildo](http://twitter.com/search?q=Rumildo) | N/A |
+| 7 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 8 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
+| 9 | [Carl Herrera](http://twitter.com/search?q=Carl+Herrera) | N/A |
+| 10 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 11 | [Rebeca González](http://twitter.com/search?q=Rebeca+Gonz%c3%a1lez) | N/A |
+| 12 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 13 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
+| 14 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
+| 15 | [Luis Aparicio](http://twitter.com/search?q=Luis+Aparicio) | N/A |
+| 16 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
 | 17 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 18 | [feliz jueves](http://twitter.com/search?q=feliz+jueves) | N/A |
-| 19 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 18 | [Día del Panamericanismo](http://twitter.com/search?q=D%c3%ada+del+Panamericanismo) | N/A |
+| 19 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
 | 20 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 22 | [UCAB](http://twitter.com/search?q=UCAB) | N/A |
-| 23 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
-| 24 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
-| 25 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 26 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 28 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 29 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 30 | [día de la dignidad nacional](http://twitter.com/search?q=d%c3%ada+de+la+dignidad+nacional) | N/A |
-| 31 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 32 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 33 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
-| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 35 | [PODER ELECTORAL](http://twitter.com/search?q=PODER+ELECTORAL) | N/A |
-| 36 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 37 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 38 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 39 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
-| 40 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 42 | [Comunista](http://twitter.com/search?q=Comunista) | N/A |
-| 43 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 44 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
-| 45 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 46 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
-| 47 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 48 | [Justicia Divina](http://twitter.com/search?q=Justicia+Divina) | N/A |
-| 49 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
-| 50 | [Buque Escuela](http://twitter.com/search?q=Buque+Escuela) | N/A |
+| 21 | [Feliz Jueves](http://twitter.com/search?q=Feliz+Jueves) | N/A |
+| 22 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 23 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 24 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 25 | [Nicolás Maduro](http://twitter.com/search?q=Nicol%c3%a1s+Maduro) | N/A |
+| 26 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 27 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 28 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
+| 29 | [PDVSA-Cripto](http://twitter.com/search?q=PDVSA-Cripto) | N/A |
+| 30 | [Pepeto](http://twitter.com/search?q=Pepeto) | N/A |
+| 31 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
+| 32 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 33 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 34 | [Juan Arango](http://twitter.com/search?q=Juan+Arango) | N/A |
+| 35 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
+| 36 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 37 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 38 | [Daniel Dhers](http://twitter.com/search?q=Daniel+Dhers) | N/A |
+| 39 | [Trigal Norte](http://twitter.com/search?q=Trigal+Norte) | N/A |
+| 40 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
+| 41 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
+| 42 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 44 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
+| 45 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 46 | [Onoto](http://twitter.com/search?q=Onoto) | N/A |
+| 47 | [Continente Americano](http://twitter.com/search?q=Continente+Americano) | N/A |
+| 48 | [Repúblicas Americanas](http://twitter.com/search?q=Rep%c3%bablicas+Americanas) | N/A |
+| 49 | [Angel Lozano](http://twitter.com/search?q=Angel+Lozano) | N/A |
 
 
 

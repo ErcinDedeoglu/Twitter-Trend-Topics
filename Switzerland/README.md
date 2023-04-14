@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-14 19:17:32 UTC`
+📆 Last Updated: `2023-04-14 20:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Brot](http://twitter.com/search?q=Brot) | N/A |
-| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 4 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
+| 1 | [Elisabeth Kopp](http://twitter.com/search?q=Elisabeth+Kopp) | N/A |
+| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 5 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
-| 6 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [Klimawandel](http://twitter.com/search?q=Klimawandel) | N/A |
-| 9 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 6 | [#GSHC](http://twitter.com/search?q=%23GSHC) | N/A |
+| 7 | [Frau im Bundesrat](http://twitter.com/search?q=Frau+im+Bundesrat) | N/A |
+| 8 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
+| 9 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
 | 10 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 11 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 12 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 13 | [bienne](http://twitter.com/search?q=bienne) | N/A |
-| 14 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 15 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 16 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 17 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 21 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
-| 22 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
-| 23 | [Tier](http://twitter.com/search?q=Tier) | N/A |
-| 24 | [Frag](http://twitter.com/search?q=Frag) | N/A |
-| 25 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 26 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 27 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 28 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 29 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
-| 30 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 31 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 32 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
-| 33 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 34 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
-| 35 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 36 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
-| 37 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 38 | [Form](http://twitter.com/search?q=Form) | N/A |
-| 39 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 40 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 41 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 42 | [Easter](http://twitter.com/search?q=Easter) | N/A |
-| 43 | [Banker](http://twitter.com/search?q=Banker) | N/A |
-| 44 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 45 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 46 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 47 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 48 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 49 | [Gesinnung](http://twitter.com/search?q=Gesinnung) | N/A |
-| 50 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 13 | [Brot](http://twitter.com/search?q=Brot) | N/A |
+| 14 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 15 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 16 | [Erinnerung](http://twitter.com/search?q=Erinnerung) | N/A |
+| 17 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Argumentation](http://twitter.com/search?q=Argumentation) | N/A |
+| 20 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 21 | [Einzelfall](http://twitter.com/search?q=Einzelfall) | N/A |
+| 22 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
+| 23 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 24 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 25 | [Banker](http://twitter.com/search?q=Banker) | N/A |
+| 26 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
+| 27 | [En France](http://twitter.com/search?q=En+France) | N/A |
+| 28 | [Stil](http://twitter.com/search?q=Stil) | N/A |
+| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 30 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 31 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 32 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 33 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 34 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 35 | [Frag](http://twitter.com/search?q=Frag) | N/A |
+| 36 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 37 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 38 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 39 | [Shame](http://twitter.com/search?q=Shame) | N/A |
+| 40 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 41 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 42 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 43 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
+| 44 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 45 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
+| 46 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 47 | [Finanzplatz](http://twitter.com/search?q=Finanzplatz) | N/A |
+| 48 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 49 | [Phase](http://twitter.com/search?q=Phase) | N/A |
+| 50 | [Lots](http://twitter.com/search?q=Lots) | N/A |
 
 
 

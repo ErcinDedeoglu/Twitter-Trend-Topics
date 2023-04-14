@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-14 19:17:33 UTC`
+📆 Last Updated: `2023-04-14 20:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JYPEDoBetterForSKZ](http://twitter.com/search?q=%23JYPEDoBetterForSKZ) | N/A |
-| 2 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 3 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
-| 4 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 5 | [#blamekato](http://twitter.com/search?q=%23blamekato) | N/A |
+| 1 | [Sloviansk](http://twitter.com/search?q=Sloviansk) | N/A |
+| 2 | [#SparrowswapAhoy](http://twitter.com/search?q=%23SparrowswapAhoy) | N/A |
+| 3 | [#JYPEDoBetterForSKZ](http://twitter.com/search?q=%23JYPEDoBetterForSKZ) | N/A |
+| 4 | [#blamekato](http://twitter.com/search?q=%23blamekato) | N/A |
+| 5 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
 | 6 | [Xiaomi](http://twitter.com/search?q=Xiaomi) | N/A |
-| 7 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
-| 8 | [Exciting](http://twitter.com/search?q=Exciting) | N/A |
-| 9 | [Impressive](http://twitter.com/search?q=Impressive) | N/A |
-| 10 | [Hugs](http://twitter.com/search?q=Hugs) | N/A |
-| 11 | [Expected](http://twitter.com/search?q=Expected) | N/A |
-| 12 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 13 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 14 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 15 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
-| 16 | [#Decentralization](http://twitter.com/search?q=%23Decentralization) | N/A |
-| 17 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 18 | [Odessa](http://twitter.com/search?q=Odessa) | N/A |
-| 19 | [Fascinating](http://twitter.com/search?q=Fascinating) | N/A |
-| 20 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 21 | [Oops](http://twitter.com/search?q=Oops) | N/A |
-| 22 | [Depressing](http://twitter.com/search?q=Depressing) | N/A |
-| 23 | [Bullish](http://twitter.com/search?q=Bullish) | N/A |
-| 24 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
-| 25 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 26 | [Пентагона](http://twitter.com/search?q=%d0%9f%d0%b5%d0%bd%d1%82%d0%b0%d0%b3%d0%be%d0%bd%d0%b0) | N/A |
-| 27 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 28 | [игил](http://twitter.com/search?q=%d0%b8%d0%b3%d0%b8%d0%bb) | N/A |
-| 29 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 30 | [Hopeful](http://twitter.com/search?q=Hopeful) | N/A |
-| 31 | [справедливо](http://twitter.com/search?q=%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%b5%d0%b4%d0%bb%d0%b8%d0%b2%d0%be) | N/A |
-| 32 | [Uninterested](http://twitter.com/search?q=Uninterested) | N/A |
-| 33 | [Abrams](http://twitter.com/search?q=Abrams) | Abrams is a surname of English and German origin. It is derived from the Germanic personal name Abraham, meaning "father of many". |
-| 34 | [Гааге](http://twitter.com/search?q=%d0%93%d0%b0%d0%b0%d0%b3%d0%b5) | N/A |
-| 35 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 36 | [$TIME](http://twitter.com/search?q=%24TIME) | N/A |
-| 37 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Прям](http://twitter.com/search?q=%d0%9f%d1%80%d1%8f%d0%bc) | N/A |
-| 40 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 41 | [запорожье](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%be%d1%80%d0%be%d0%b6%d1%8c%d0%b5) | N/A |
-| 42 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 43 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 44 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 45 | [UN Security Council](http://twitter.com/search?q=UN+Security+Council) | N/A |
-| 46 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | N/A |
-| 47 | [The Washington Post](http://twitter.com/search?q=The+Washington+Post) | N/A |
-| 48 | [Киеве](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
-| 49 | [Understood](http://twitter.com/search?q=Understood) | N/A |
-| 50 | [Layer 1](http://twitter.com/search?q=Layer+1) | N/A |
+| 7 | [Орбан](http://twitter.com/search?q=%d0%9e%d1%80%d0%b1%d0%b0%d0%bd) | N/A |
+| 8 | [Expected](http://twitter.com/search?q=Expected) | N/A |
+| 9 | [0.1 $SUI](http://twitter.com/search?q=0.1+%24SUI) | N/A |
+| 10 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 11 | [Exciting](http://twitter.com/search?q=Exciting) | N/A |
+| 12 | [Neptune](http://twitter.com/search?q=Neptune) | N/A |
+| 13 | [#Divorce](http://twitter.com/search?q=%23Divorce) | N/A |
+| 14 | [Impressive](http://twitter.com/search?q=Impressive) | N/A |
+| 15 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 16 | [Moskva](http://twitter.com/search?q=Moskva) | N/A |
+| 17 | [Hugs](http://twitter.com/search?q=Hugs) | N/A |
+| 18 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 19 | [Understood](http://twitter.com/search?q=Understood) | N/A |
+| 20 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 21 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 22 | [#Ukraine️](http://twitter.com/search?q=%23Ukraine%ef%b8%8f) | N/A |
+| 23 | [Uninterested](http://twitter.com/search?q=Uninterested) | N/A |
+| 24 | [Depressing](http://twitter.com/search?q=Depressing) | N/A |
+| 25 | [Jackson Hinkle](http://twitter.com/search?q=Jackson+Hinkle) | N/A |
+| 26 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
+| 27 | [Oops](http://twitter.com/search?q=Oops) | N/A |
+| 28 | [UN Security Council](http://twitter.com/search?q=UN+Security+Council) | N/A |
+| 29 | [Fascinating](http://twitter.com/search?q=Fascinating) | N/A |
+| 30 | [справедливо](http://twitter.com/search?q=%d1%81%d0%bf%d1%80%d0%b0%d0%b2%d0%b5%d0%b4%d0%bb%d0%b8%d0%b2%d0%be) | N/A |
+| 31 | [$Time](http://twitter.com/search?q=%24Time) | N/A |
+| 32 | [пане](http://twitter.com/search?q=%d0%bf%d0%b0%d0%bd%d0%b5) | N/A |
+| 33 | [Washington Post](http://twitter.com/search?q=Washington+Post) | N/A |
+| 34 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 35 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 36 | [Dope](http://twitter.com/search?q=Dope) | N/A |
+| 37 | [Пздц](http://twitter.com/search?q=%d0%9f%d0%b7%d0%b4%d1%86) | N/A |
+| 38 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
+| 39 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 40 | [Земли](http://twitter.com/search?q=%d0%97%d0%b5%d0%bc%d0%bb%d0%b8) | N/A |
+| 41 | [Херсон](http://twitter.com/search?q=%d0%a5%d0%b5%d1%80%d1%81%d0%be%d0%bd) | N/A |
+| 42 | [Pathetic](http://twitter.com/search?q=Pathetic) | N/A |
+| 43 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
+| 44 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
+| 45 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 46 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 47 | [Хаха](http://twitter.com/search?q=%d0%a5%d0%b0%d1%85%d0%b0) | N/A |
+| 48 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | N/A |
+| 49 | [Спартак](http://twitter.com/search?q=%d0%a1%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%ba) | N/A |
+| 50 | [Hopeful](http://twitter.com/search?q=Hopeful) | N/A |
 
 
 

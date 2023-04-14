@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-04-14 19:16:58 UTC`
+📆 Last Updated: `2023-04-14 20:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AFLFreoSuns](http://twitter.com/search?q=%23AFLFreoSuns) | N/A |
-| 2 | [#NRLSharksRoosters](http://twitter.com/search?q=%23NRLSharksRoosters) | N/A |
-| 3 | [#AFLTigersSwans](http://twitter.com/search?q=%23AFLTigersSwans) | N/A |
-| 4 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
-| 5 | [#AFLCrowsBlues](http://twitter.com/search?q=%23AFLCrowsBlues) | N/A |
+| 1 | [#afltigersswans](http://twitter.com/search?q=%23afltigersswans) | N/A |
+| 2 | [#nrlmanlystorm](http://twitter.com/search?q=%23nrlmanlystorm) | N/A |
+| 3 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
+| 4 | [#AFLFreoSuns](http://twitter.com/search?q=%23AFLFreoSuns) | N/A |
+| 5 | [#nrlsharksroosters](http://twitter.com/search?q=%23nrlsharksroosters) | N/A |
 | 6 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
-| 7 | [Kerry O'Brien](http://twitter.com/search?q=Kerry+O%27Brien) | N/A |
-| 8 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
-| 9 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
-| 10 | [Norwood Oval](http://twitter.com/search?q=Norwood+Oval) | N/A |
-| 11 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 8 | [Kerry O'Brien](http://twitter.com/search?q=Kerry+O%27Brien) | N/A |
+| 9 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 10 | [tom papley](http://twitter.com/search?q=tom+papley) | N/A |
+| 11 | [norwood oval](http://twitter.com/search?q=norwood+oval) | N/A |
+| 12 | [olam](http://twitter.com/search?q=olam) | N/A |
+| 13 | [Dutton](http://twitter.com/search?q=Dutton) | N/A |
+| 14 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
 | 15 | [Radley](http://twitter.com/search?q=Radley) | N/A |
-| 16 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 17 | [Jarryd Hayne](http://twitter.com/search?q=Jarryd+Hayne) | N/A |
-| 18 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 19 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 20 | [the abc](http://twitter.com/search?q=the+abc) | N/A |
-| 21 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 22 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 23 | [Will Gould](http://twitter.com/search?q=Will+Gould) | N/A |
-| 24 | [Plowman](http://twitter.com/search?q=Plowman) | N/A |
-| 25 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 26 | [bedout island](http://twitter.com/search?q=bedout+island) | N/A |
-| 27 | [port hedland](http://twitter.com/search?q=port+hedland) | N/A |
-| 28 | [Jacinta Price](http://twitter.com/search?q=Jacinta+Price) | N/A |
-| 29 | [pardoo roadhouse](http://twitter.com/search?q=pardoo+roadhouse) | N/A |
-| 30 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
-| 31 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 32 | [Aged Care](http://twitter.com/search?q=Aged+Care) | N/A |
-| 33 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 34 | [Shark Park](http://twitter.com/search?q=Shark+Park) | N/A |
-| 35 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 36 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 37 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 38 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 39 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 40 | [hastie](http://twitter.com/search?q=hastie) | N/A |
-| 41 | [Bird](http://twitter.com/search?q=Bird) | N/A |
-| 42 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 43 | [Australia Day](http://twitter.com/search?q=Australia+Day) | Australia Day is a national public holiday in Australia that marks the anniversary of the arrival of the First Fleet of British ships at Port Jackson, New South Wales, in 1788. It is celebrated annually on January 26 and is a day to celebrate the nation's history, culture, and achievements. |
-| 44 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 45 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 46 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 47 | [Category 5](http://twitter.com/search?q=Category+5) | N/A |
-| 48 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 49 | [SunnyV2](http://twitter.com/search?q=SunnyV2) | N/A |
-| 50 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [Gould](http://twitter.com/search?q=Gould) | Gould is a surname of English origin. It is derived from the Old English word "gold" and was originally used to denote someone who worked with gold or was wealthy. |
+| 17 | [aaron woods](http://twitter.com/search?q=aaron+woods) | N/A |
+| 18 | [Taranto](http://twitter.com/search?q=Taranto) | N/A |
+| 19 | [Richmond](http://twitter.com/search?q=Richmond) | N/A |
+| 20 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 21 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 22 | [Bolton](http://twitter.com/search?q=Bolton) | N/A |
+| 23 | [Balta](http://twitter.com/search?q=Balta) | N/A |
+| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 25 | [cotchin](http://twitter.com/search?q=cotchin) | N/A |
+| 26 | [Pickett](http://twitter.com/search?q=Pickett) | Pickett is a surname of English origin. It is derived from the Old French word "picot", meaning "pointed". The name was originally given to someone who lived near a pointed object, such as a hill or a pointed fence. |
+| 27 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 28 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 29 | [plowman](http://twitter.com/search?q=plowman) | N/A |
+| 30 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 32 | [jack riewoldt](http://twitter.com/search?q=jack+riewoldt) | N/A |
+| 33 | [jarryd hayne](http://twitter.com/search?q=jarryd+hayne) | N/A |
+| 34 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 35 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 36 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 37 | [jordan dawson](http://twitter.com/search?q=jordan+dawson) | N/A |
+| 38 | [Amiss](http://twitter.com/search?q=Amiss) | N/A |
+| 39 | [nicho hynes](http://twitter.com/search?q=nicho+hynes) | N/A |
+| 40 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 41 | [Heeney](http://twitter.com/search?q=Heeney) | N/A |
+| 42 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 43 | [shark park](http://twitter.com/search?q=shark+park) | N/A |
+| 44 | [Snapchat AI](http://twitter.com/search?q=Snapchat+AI) | N/A |
+| 45 | [Hastie](http://twitter.com/search?q=Hastie) | N/A |
+| 46 | [adam gee](http://twitter.com/search?q=adam+gee) | N/A |
+| 47 | [The ABC](http://twitter.com/search?q=The+ABC) | N/A |
+| 48 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 49 | [Aged Care](http://twitter.com/search?q=Aged+Care) | N/A |
+| 50 | [serong](http://twitter.com/search?q=serong) | N/A |
 
 
 
