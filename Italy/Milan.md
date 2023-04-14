@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-14 14:17:19 UTC`
+📆 Last Updated: `2023-04-14 15:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#14aprile](http://twitter.com/search?q=%2314aprile) | N/A |
 | 4 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
 | 5 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 6 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
+| 6 | [#ilTempoChe](http://twitter.com/search?q=%23ilTempoChe) | N/A |
 | 7 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 8 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 9 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
-| 10 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 11 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 12 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 13 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 14 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
-| 15 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 16 | [Achille](http://twitter.com/search?q=Achille) | N/A |
-| 17 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 18 | [Gianni Rodari](http://twitter.com/search?q=Gianni+Rodari) | N/A |
-| 19 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
-| 20 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
-| 21 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 22 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 23 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
-| 24 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
+| 8 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
+| 9 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 10 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 11 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 12 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 13 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 14 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 15 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 16 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 17 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 18 | [achille](http://twitter.com/search?q=achille) | N/A |
+| 19 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 20 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
+| 21 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
+| 22 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 23 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 24 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
 | 25 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
 | 26 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 27 | [Anice](http://twitter.com/search?q=Anice) | N/A |
-| 28 | [Baiardo](http://twitter.com/search?q=Baiardo) | N/A |
-| 29 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 27 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
+| 28 | [Anice](http://twitter.com/search?q=Anice) | N/A |
+| 29 | [Baiardo](http://twitter.com/search?q=Baiardo) | N/A |
 | 30 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
 | 31 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
 | 32 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 33 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 34 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 35 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 33 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 34 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 35 | [Federica](http://twitter.com/search?q=Federica) | N/A |
 | 36 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 37 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 38 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 39 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 40 | [Leo Adriani](http://twitter.com/search?q=Leo+Adriani) | N/A |
-| 41 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 42 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 43 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
-| 44 | [Siviglia](http://twitter.com/search?q=Siviglia) | N/A |
-| 45 | [Pentagono](http://twitter.com/search?q=Pentagono) | N/A |
-| 46 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
-| 47 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 48 | [Totò](http://twitter.com/search?q=Tot%c3%b2) | N/A |
-| 49 | [Egitto](http://twitter.com/search?q=Egitto) | N/A |
-| 50 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 37 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 38 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 39 | [Leo Adriani](http://twitter.com/search?q=Leo+Adriani) | N/A |
+| 40 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 41 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 42 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 43 | [siviglia](http://twitter.com/search?q=siviglia) | N/A |
+| 44 | [Pentagono](http://twitter.com/search?q=Pentagono) | N/A |
+| 45 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 46 | [Totò](http://twitter.com/search?q=Tot%c3%b2) | N/A |
+| 47 | [Egitto](http://twitter.com/search?q=Egitto) | N/A |
+| 48 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
+| 49 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 50 | [Giannini](http://twitter.com/search?q=Giannini) | N/A |
 
 
 

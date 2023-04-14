@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-14 14:17:57 UTC`
+📆 Last Updated: `2023-04-14 15:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Singapore
 | 9 | [woozi](http://twitter.com/search?q=woozi) | N/A |
 | 10 | [#DMKFiles](http://twitter.com/search?q=%23DMKFiles) | N/A |
 | 11 | [#XiaoZhanxGucci](http://twitter.com/search?q=%23XiaoZhanxGucci) | N/A |
-| 12 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 12 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 | 13 | [Happy Tamil New Year](http://twitter.com/search?q=Happy+Tamil+New+Year) | N/A |
 | 14 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
 | 15 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
@@ -42,8 +42,8 @@ This is top 50 for Singapore
 | 25 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
 | 26 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 27 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 28 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 29 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 28 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 29 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 30 | [Irene](http://twitter.com/search?q=Irene) | N/A |
 | 31 | [Texas](http://twitter.com/search?q=Texas) | N/A |
 | 32 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |

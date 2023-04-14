@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-14 14:17:54 UTC`
+📆 Last Updated: `2023-04-14 15:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,14 +22,14 @@ This is top 50 for Kenya
 | 5 | [#InsightOnRapture](http://twitter.com/search?q=%23InsightOnRapture) | N/A |
 | 6 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
 | 7 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 9 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 10 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 11 | [Irungu Nyakera](http://twitter.com/search?q=Irungu+Nyakera) | N/A |
+| 8 | [#SayNoToZambiaMaizeDeal](http://twitter.com/search?q=%23SayNoToZambiaMaizeDeal) | N/A |
+| 9 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 10 | [Irungu Nyakera](http://twitter.com/search?q=Irungu+Nyakera) | N/A |
+| 11 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 12 | [Mavoko Water Supply Project](http://twitter.com/search?q=Mavoko+Water+Supply+Project) | N/A |
-| 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 14 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 15 | [Farmers Party](http://twitter.com/search?q=Farmers+Party) | N/A |
+| 13 | [Farmers Party](http://twitter.com/search?q=Farmers+Party) | N/A |
+| 14 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 15 | [Brett](http://twitter.com/search?q=Brett) | N/A |
 | 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 17 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 18 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
@@ -44,13 +44,13 @@ This is top 50 for Kenya
 | 27 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 | 28 | [Carbon](http://twitter.com/search?q=Carbon) | N/A |
 | 29 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 30 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 31 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 32 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 31 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 32 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 | 33 | [Samidoh](http://twitter.com/search?q=Samidoh) | N/A |
 | 34 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 35 | [Mukumu](http://twitter.com/search?q=Mukumu) | N/A |
-| 36 | [Kanchory](http://twitter.com/search?q=Kanchory) | N/A |
+| 35 | [Kanchory](http://twitter.com/search?q=Kanchory) | N/A |
+| 36 | [Mukumu](http://twitter.com/search?q=Mukumu) | N/A |
 | 37 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
 | 38 | [Tabitha Karanja](http://twitter.com/search?q=Tabitha+Karanja) | N/A |
 | 39 | [miguna miguna](http://twitter.com/search?q=miguna+miguna) | N/A |
@@ -59,12 +59,12 @@ This is top 50 for Kenya
 | 42 | [knatcom anniversary](http://twitter.com/search?q=knatcom+anniversary) | N/A |
 | 43 | [Mlolongo](http://twitter.com/search?q=Mlolongo) | N/A |
 | 44 | [Nyeri](http://twitter.com/search?q=Nyeri) | N/A |
-| 45 | [alfred keter](http://twitter.com/search?q=alfred+keter) | N/A |
-| 46 | [Fear](http://twitter.com/search?q=Fear) | N/A |
-| 47 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 48 | [Bully](http://twitter.com/search?q=Bully) | N/A |
-| 49 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 50 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 45 | [Fear](http://twitter.com/search?q=Fear) | N/A |
+| 46 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 47 | [Bully](http://twitter.com/search?q=Bully) | N/A |
+| 48 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 49 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 50 | [Mavoko Township](http://twitter.com/search?q=Mavoko+Township) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Querétaro
 
-📆 Last Updated: `2023-04-14 14:17:09 UTC`
+📆 Last Updated: `2023-04-14 15:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Mexico](</Mexico>)
 | 8 | [INAI](http://twitter.com/search?q=INAI) | N/A |
 | 9 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
 | 10 | [#1Trago](http://twitter.com/search?q=%231Trago) | N/A |
-| 11 | [JOS STANS ARE BACK](http://twitter.com/search?q=JOS+STANS+ARE+BACK) | N/A |
+| 11 | [jos stans are back](http://twitter.com/search?q=jos+stans+are+back) | N/A |
 | 12 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
 | 13 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
 | 14 | [estoy con tu karma](http://twitter.com/search?q=estoy+con+tu+karma) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for [Mexico](</Mexico>)
 | 22 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
 | 23 | [beli en el hormiguero](http://twitter.com/search?q=beli+en+el+hormiguero) | N/A |
 | 24 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 25 | [Rigo Tovar](http://twitter.com/search?q=Rigo+Tovar) | N/A |
-| 26 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 27 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 30 | [preview de mejor así](http://twitter.com/search?q=preview+de+mejor+as%c3%ad) | N/A |
-| 31 | [tribunal electoral](http://twitter.com/search?q=tribunal+electoral) | N/A |
-| 32 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 33 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 34 | [Prius](http://twitter.com/search?q=Prius) | N/A |
-| 35 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 36 | [suburban](http://twitter.com/search?q=suburban) | N/A |
-| 37 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
-| 38 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
-| 39 | [quiñones](http://twitter.com/search?q=qui%c3%b1ones) | N/A |
-| 40 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 41 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 42 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 43 | [bienvenido pol](http://twitter.com/search?q=bienvenido+pol) | N/A |
-| 44 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 45 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 46 | [belisario domínguez](http://twitter.com/search?q=belisario+dom%c3%adnguez) | N/A |
-| 47 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
-| 48 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 49 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 50 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 25 | [rigo tovar](http://twitter.com/search?q=rigo+tovar) | N/A |
+| 26 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 27 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 29 | [preview de mejor así](http://twitter.com/search?q=preview+de+mejor+as%c3%ad) | N/A |
+| 30 | [tribunal electoral](http://twitter.com/search?q=tribunal+electoral) | N/A |
+| 31 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 32 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 33 | [Prius](http://twitter.com/search?q=Prius) | N/A |
+| 34 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 35 | [suburban](http://twitter.com/search?q=suburban) | N/A |
+| 36 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
+| 37 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
+| 38 | [quiñones](http://twitter.com/search?q=qui%c3%b1ones) | N/A |
+| 39 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 40 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 41 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 42 | [bienvenido pol](http://twitter.com/search?q=bienvenido+pol) | N/A |
+| 43 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 44 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
+| 45 | [belisario domínguez](http://twitter.com/search?q=belisario+dom%c3%adnguez) | N/A |
+| 46 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 47 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 48 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 49 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
+| 50 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
 
 
 

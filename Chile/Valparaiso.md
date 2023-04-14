@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-14 14:17:11 UTC`
+📆 Last Updated: `2023-04-14 15:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,7 +34,7 @@ This is top 50 for [Chile](</Chile>)
 | 17 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
 | 18 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 19 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 20 | [OPORTUNISTA](http://twitter.com/search?q=OPORTUNISTA) | N/A |
+| 20 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
 | 21 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
 | 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 23 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
@@ -50,19 +50,19 @@ This is top 50 for [Chile](</Chile>)
 | 33 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 34 | [nayara vit](http://twitter.com/search?q=nayara+vit) | N/A |
 | 35 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
-| 36 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
-| 37 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
-| 38 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
-| 39 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 40 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
-| 41 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 42 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
+| 36 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
+| 37 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
+| 38 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 39 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 40 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
+| 41 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 42 | [FINALIZAN TRABAJOS EN LA VÍA](http://twitter.com/search?q=FINALIZAN+TRABAJOS+EN+LA+V%c3%8dA) | N/A |
 | 43 | [Botox](http://twitter.com/search?q=Botox) | N/A |
 | 44 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 45 | [INCOMPETENTE](http://twitter.com/search?q=INCOMPETENTE) | N/A |
 | 46 | [Scotiabank](http://twitter.com/search?q=Scotiabank) | N/A |
-| 47 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 48 | [Tere](http://twitter.com/search?q=Tere) | N/A |
+| 47 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
+| 48 | [Winter](http://twitter.com/search?q=Winter) | N/A |
 
 
 

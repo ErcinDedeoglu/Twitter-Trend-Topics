@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-04-14 14:17:56 UTC`
+📆 Last Updated: `2023-04-14 15:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for Poland
 | 9 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 10 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
 | 11 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 12 | [ishak](http://twitter.com/search?q=ishak) | N/A |
-| 13 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 14 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 13 | [ishak](http://twitter.com/search?q=ishak) | N/A |
+| 14 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
 | 15 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
 | 16 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 17 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
@@ -40,17 +40,17 @@ This is top 50 for Poland
 | 23 | [Orban](http://twitter.com/search?q=Orban) | N/A |
 | 24 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
 | 25 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 26 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 26 | [Słowacja](http://twitter.com/search?q=S%c5%82owacja) | N/A |
 | 27 | [Czarnkiem](http://twitter.com/search?q=Czarnkiem) | N/A |
 | 28 | [Chrztu Polski](http://twitter.com/search?q=Chrztu+Polski) | N/A |
 | 29 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 30 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 31 | [Słowacja](http://twitter.com/search?q=S%c5%82owacja) | N/A |
-| 32 | [violi](http://twitter.com/search?q=violi) | N/A |
-| 33 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 34 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 35 | [Casy](http://twitter.com/search?q=Casy) | N/A |
-| 36 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 30 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 31 | [Satka](http://twitter.com/search?q=Satka) | N/A |
+| 32 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 33 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 34 | [Casy](http://twitter.com/search?q=Casy) | N/A |
+| 35 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 36 | [Violi](http://twitter.com/search?q=Violi) | N/A |
 | 37 | [dagerstala](http://twitter.com/search?q=dagerstala) | N/A |
 | 38 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
 | 39 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |

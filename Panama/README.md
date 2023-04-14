@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-14 14:17:56 UTC`
+📆 Last Updated: `2023-04-14 15:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,23 +48,23 @@ This is top 50 for Panama
 | 31 | [don bosco](http://twitter.com/search?q=don+bosco) | N/A |
 | 32 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 34 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
-| 35 | [MEDUCA](http://twitter.com/search?q=MEDUCA) | N/A |
-| 36 | [Policía Nacional](http://twitter.com/search?q=Polic%c3%ada+Nacional) | N/A |
+| 34 | [#cats](http://twitter.com/search?q=%23cats) | N/A |
+| 35 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
+| 36 | [MEDUCA](http://twitter.com/search?q=MEDUCA) | N/A |
 | 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 39 | [#díadelpolicía](http://twitter.com/search?q=%23d%c3%adadelpolic%c3%ada) | N/A |
 | 40 | [Alex](http://twitter.com/search?q=Alex) | N/A |
 | 41 | [bugaba](http://twitter.com/search?q=bugaba) | N/A |
 | 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 43 | [#panamásiguecreciendo](http://twitter.com/search?q=%23panam%c3%a1siguecreciendo) | N/A |
-| 44 | [el prd](http://twitter.com/search?q=el+prd) | N/A |
-| 45 | [rayza](http://twitter.com/search?q=rayza) | N/A |
-| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 48 | [Robo](http://twitter.com/search?q=Robo) | N/A |
-| 49 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 50 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
+| 43 | [el prd](http://twitter.com/search?q=el+prd) | N/A |
+| 44 | [rayza](http://twitter.com/search?q=rayza) | N/A |
+| 45 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 46 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 47 | [Robo](http://twitter.com/search?q=Robo) | N/A |
+| 48 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 49 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
+| 50 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
 
 
 

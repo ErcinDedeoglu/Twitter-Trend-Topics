@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-14 14:17:03 UTC`
+📆 Last Updated: `2023-04-14 15:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Canada](</Canada>)
 | 3 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 4 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
 | 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 6 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 7 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 6 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 7 | [Toews](http://twitter.com/search?q=Toews) | N/A |
 | 8 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
 | 9 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
 | 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
@@ -49,20 +49,20 @@ This is top 50 for [Canada](</Canada>)
 | 32 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
 | 33 | [john garrett](http://twitter.com/search?q=john+garrett) | N/A |
 | 34 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 35 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 36 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
+| 35 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
+| 36 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
 | 37 | [william nylander](http://twitter.com/search?q=william+nylander) | N/A |
 | 38 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 39 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 40 | [Lucas Condotta](http://twitter.com/search?q=Lucas+Condotta) | N/A |
-| 41 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
-| 42 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 43 | [PMJT](http://twitter.com/search?q=PMJT) | N/A |
-| 44 | [janmark](http://twitter.com/search?q=janmark) | N/A |
-| 45 | [game 82](http://twitter.com/search?q=game+82) | N/A |
-| 46 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 47 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 48 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 39 | [lucas condotta](http://twitter.com/search?q=lucas+condotta) | N/A |
+| 40 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 41 | [PMJT](http://twitter.com/search?q=PMJT) | N/A |
+| 42 | [janmark](http://twitter.com/search?q=janmark) | N/A |
+| 43 | [game 82](http://twitter.com/search?q=game+82) | N/A |
+| 44 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 45 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 46 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 47 | [sarah nurse](http://twitter.com/search?q=sarah+nurse) | N/A |
+| 48 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
 
 
 

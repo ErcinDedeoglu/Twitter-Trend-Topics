@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-14 14:17:12 UTC`
+📆 Last Updated: `2023-04-14 15:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,7 +45,7 @@ This is top 50 for [Peru](</Peru>)
 | 28 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
 | 29 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
 | 30 | [abancay](http://twitter.com/search?q=abancay) | N/A |
-| 31 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 31 | [cidh](http://twitter.com/search?q=cidh) | N/A |
 | 32 | [Argel](http://twitter.com/search?q=Argel) | N/A |
 | 33 | [castro castro](http://twitter.com/search?q=castro+castro) | N/A |
 | 34 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |

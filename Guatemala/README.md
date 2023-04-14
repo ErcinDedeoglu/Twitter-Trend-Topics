@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-14 14:17:53 UTC`
+📆 Last Updated: `2023-04-14 15:18:13 UTC`
 
 🔧 Updated every 1 hour!
 

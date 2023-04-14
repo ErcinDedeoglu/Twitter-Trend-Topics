@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-14 14:17:58 UTC`
+📆 Last Updated: `2023-04-14 15:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,15 +19,15 @@ This is top 50 for Venezuela
 | 2 | [#RebeliónCívicoMilitar](http://twitter.com/search?q=%23Rebeli%c3%b3nC%c3%advicoMilitar) | N/A |
 | 3 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
 | 4 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 5 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 6 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 7 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 5 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 6 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 7 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
 | 8 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
 | 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 10 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
 | 11 | [#puebloyfanbunidadylealtad](http://twitter.com/search?q=%23puebloyfanbunidadylealtad) | N/A |
 | 12 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 13 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 13 | [pierina españa](http://twitter.com/search?q=pierina+espa%c3%b1a) | N/A |
 | 14 | [El 13](http://twitter.com/search?q=El+13) | N/A |
 | 15 | [milicia bolivariana](http://twitter.com/search?q=milicia+bolivariana) | N/A |
 | 16 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
@@ -54,10 +54,10 @@ This is top 50 for Venezuela
 | 37 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
 | 38 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
 | 39 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 40 | [pedro carreño](http://twitter.com/search?q=pedro+carre%c3%b1o) | N/A |
-| 41 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
-| 42 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 43 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
+| 40 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
+| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 42 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
+| 43 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
 | 44 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
 | 45 | [bárbara palacios](http://twitter.com/search?q=b%c3%a1rbara+palacios) | N/A |
 | 46 | [Codo](http://twitter.com/search?q=Codo) | N/A |

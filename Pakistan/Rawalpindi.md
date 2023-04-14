@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-04-14 14:17:38 UTC`
+📆 Last Updated: `2023-04-14 15:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 2 | [#ChillToTheMax](http://twitter.com/search?q=%23ChillToTheMax) | N/A |
 | 3 | [#WeStandwithConstitution](http://twitter.com/search?q=%23WeStandwithConstitution) | N/A |
 | 4 | [#RemoveBandiyal](http://twitter.com/search?q=%23RemoveBandiyal) | N/A |
-| 5 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
-| 6 | [#غلیظ_سیاست_کی_ملکہ_مریم](http://twitter.com/search?q=%23%d8%ba%d9%84%db%8c%d8%b8_%d8%b3%db%8c%d8%a7%d8%b3%d8%aa_%da%a9%db%8c_%d9%85%d9%84%da%a9%db%81_%d9%85%d8%b1%db%8c%d9%85) | N/A |
+| 5 | [#غلیظ_سیاست_کی_ملکہ_مریم](http://twitter.com/search?q=%23%d8%ba%d9%84%db%8c%d8%b8_%d8%b3%db%8c%d8%a7%d8%b3%d8%aa_%da%a9%db%8c_%d9%85%d9%84%da%a9%db%81_%d9%85%d8%b1%db%8c%d9%85) | N/A |
+| 6 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
 | 7 | [Zong](http://twitter.com/search?q=Zong) | N/A |
 | 8 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
 | 9 | [indus hospital](http://twitter.com/search?q=indus+hospital) | N/A |
@@ -31,16 +31,16 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 14 | [your zakat](http://twitter.com/search?q=your+zakat) | N/A |
 | 15 | [Basil](http://twitter.com/search?q=Basil) | N/A |
 | 16 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 17 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 17 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 18 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 19 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
 | 20 | [SKMH](http://twitter.com/search?q=SKMH) | N/A |
 | 21 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 22 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 23 | [akash ram](http://twitter.com/search?q=akash+ram) | N/A |
 | 24 | [sami ibrahim](http://twitter.com/search?q=sami+ibrahim) | N/A |
 | 25 | [Last Friday of Ramadan](http://twitter.com/search?q=Last+Friday+of+Ramadan) | N/A |
-| 26 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 26 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
 | 27 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
 | 28 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 29 | [Gul Bukhari](http://twitter.com/search?q=Gul+Bukhari) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 34 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 35 | [Saim](http://twitter.com/search?q=Saim) | N/A |
 | 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 38 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 39 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
-| 40 | [Imam Khamenei](http://twitter.com/search?q=Imam+Khamenei) | N/A |
-| 41 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 42 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 43 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
-| 44 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 45 | [contempt](http://twitter.com/search?q=contempt) | N/A |
-| 46 | [Respected](http://twitter.com/search?q=Respected) | N/A |
-| 47 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 48 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
-| 49 | [Classic](http://twitter.com/search?q=Classic) | N/A |
-| 50 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
+| 37 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 38 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
+| 39 | [Imam Khamenei](http://twitter.com/search?q=Imam+Khamenei) | N/A |
+| 40 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 41 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 42 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
+| 43 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 44 | [contempt](http://twitter.com/search?q=contempt) | N/A |
+| 45 | [Respected](http://twitter.com/search?q=Respected) | N/A |
+| 46 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 47 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
+| 48 | [Classic](http://twitter.com/search?q=Classic) | N/A |
+| 49 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
+| 50 | [Aray](http://twitter.com/search?q=Aray) | N/A |
 
 
 

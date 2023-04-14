@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-14 14:17:52 UTC`
+📆 Last Updated: `2023-04-14 15:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for Dominican Republic
 | 2 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
 | 3 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
 | 4 | [wendy sherman](http://twitter.com/search?q=wendy+sherman) | N/A |
-| 5 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 6 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
-| 7 | [antonio duvergé](http://twitter.com/search?q=antonio+duverg%c3%a9) | N/A |
-| 8 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 5 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
+| 6 | [antonio duvergé](http://twitter.com/search?q=antonio+duverg%c3%a9) | N/A |
+| 7 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
+| 8 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
 | 9 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
 | 10 | [doble reserva](http://twitter.com/search?q=doble+reserva) | N/A |
 | 11 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
@@ -35,7 +35,7 @@ This is top 50 for Dominican Republic
 | 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 19 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
 | 20 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
-| 21 | [Vinchos](http://twitter.com/search?q=Vinchos) | N/A |
+| 21 | [vinchos](http://twitter.com/search?q=vinchos) | N/A |
 | 22 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
 | 23 | [#felizmiercoles](http://twitter.com/search?q=%23felizmiercoles) | N/A |
 | 24 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for Dominican Republic
 | 41 | [Alzheimer](http://twitter.com/search?q=Alzheimer) | N/A |
 | 42 | [comité nacional](http://twitter.com/search?q=comit%c3%a9+nacional) | N/A |
 | 43 | [tolentino](http://twitter.com/search?q=tolentino) | N/A |
-| 44 | [Miguel Vargas](http://twitter.com/search?q=Miguel+Vargas) | N/A |
+| 44 | [miguel vargas](http://twitter.com/search?q=miguel+vargas) | N/A |
 | 45 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
 | 46 | [carmen renata](http://twitter.com/search?q=carmen+renata) | N/A |
 | 47 | [junta central electoral](http://twitter.com/search?q=junta+central+electoral) | N/A |

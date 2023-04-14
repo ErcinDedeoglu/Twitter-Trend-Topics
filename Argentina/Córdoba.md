@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-14 14:17:14 UTC`
+📆 Last Updated: `2023-04-14 15:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,12 +27,12 @@ This is top 50 for [Argentina](</Argentina>)
 | 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 11 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
 | 12 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 13 | [QUIENES SON](http://twitter.com/search?q=QUIENES+SON) | N/A |
+| 13 | [quienes son](http://twitter.com/search?q=quienes+son) | N/A |
 | 14 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 15 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 16 | [#dolarblue](http://twitter.com/search?q=%23dolarblue) | N/A |
-| 17 | [MORIA](http://twitter.com/search?q=MORIA) | N/A |
-| 18 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
+| 15 | [#dolarblue](http://twitter.com/search?q=%23dolarblue) | N/A |
+| 16 | [MORIA](http://twitter.com/search?q=MORIA) | N/A |
+| 17 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
+| 18 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
 | 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 20 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
 | 21 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
@@ -45,23 +45,23 @@ This is top 50 for [Argentina](</Argentina>)
 | 28 | [Obsesión](http://twitter.com/search?q=Obsesi%c3%b3n) | N/A |
 | 29 | [El Senado](http://twitter.com/search?q=El+Senado) | N/A |
 | 30 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 31 | [enzo diaz](http://twitter.com/search?q=enzo+diaz) | N/A |
+| 31 | [Enzo diaz](http://twitter.com/search?q=Enzo+diaz) | N/A |
 | 32 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 33 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 34 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 35 | [moritan](http://twitter.com/search?q=moritan) | N/A |
-| 36 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 37 | [Sandez](http://twitter.com/search?q=Sandez) | Sandez is a Spanish term meaning “goodbye” or “farewell.” It is derived from the phrase “adiós, amigo,” which literally translates to “goodbye, friend.” |
-| 38 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 33 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 34 | [moritan](http://twitter.com/search?q=moritan) | N/A |
+| 35 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 36 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 37 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 38 | [Sandez](http://twitter.com/search?q=Sandez) | Sandez is a Spanish term meaning “goodbye” or “farewell.” It is derived from the phrase “adiós, amigo,” which literally translates to “goodbye, friend.” |
 | 39 | [benedetto](http://twitter.com/search?q=benedetto) | N/A |
 | 40 | [Grindetti](http://twitter.com/search?q=Grindetti) | N/A |
 | 41 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
 | 42 | [neris](http://twitter.com/search?q=neris) | N/A |
 | 43 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 44 | [Construyó](http://twitter.com/search?q=Construy%c3%b3) | N/A |
-| 45 | [ibañez](http://twitter.com/search?q=iba%c3%b1ez) | N/A |
-| 46 | [La Scaloneta](http://twitter.com/search?q=La+Scaloneta) | N/A |
-| 47 | [Villagra](http://twitter.com/search?q=Villagra) | N/A |
+| 44 | [ibañez](http://twitter.com/search?q=iba%c3%b1ez) | N/A |
+| 45 | [La Scaloneta](http://twitter.com/search?q=La+Scaloneta) | N/A |
+| 46 | [Villagra](http://twitter.com/search?q=Villagra) | N/A |
+| 47 | [Construyó](http://twitter.com/search?q=Construy%c3%b3) | N/A |
 | 48 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
 | 49 | [cone y coty al bailando](http://twitter.com/search?q=cone+y+coty+al+bailando) | N/A |
 

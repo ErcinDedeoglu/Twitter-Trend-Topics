@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-14 14:17:13 UTC`
+📆 Last Updated: `2023-04-14 15:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,15 +30,15 @@ This is top 50 for [Brazil](</Brazil>)
 | 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 14 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
 | 15 | [Remo](http://twitter.com/search?q=Remo) | N/A |
-| 16 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 17 | [ivete](http://twitter.com/search?q=ivete) | N/A |
-| 18 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 19 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 20 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
+| 16 | [#sextou](http://twitter.com/search?q=%23sextou) | N/A |
+| 17 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 18 | [ivete](http://twitter.com/search?q=ivete) | N/A |
+| 19 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 20 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
 | 21 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 22 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 23 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 24 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 23 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 24 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
 | 25 | [#marxfla](http://twitter.com/search?q=%23marxfla) | N/A |
 | 26 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 27 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
@@ -49,10 +49,10 @@ This is top 50 for [Brazil](</Brazil>)
 | 32 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
 | 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 34 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 35 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 35 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
 | 36 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 37 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
-| 38 | [maycon](http://twitter.com/search?q=maycon) | N/A |
+| 37 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 38 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
 | 39 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
 | 40 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 | 41 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
@@ -63,8 +63,8 @@ This is top 50 for [Brazil](</Brazil>)
 | 46 | [léo pereira](http://twitter.com/search?q=l%c3%a9o+pereira) | N/A |
 | 47 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
 | 48 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 49 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
-| 50 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 49 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 50 | [maycon](http://twitter.com/search?q=maycon) | N/A |
 
 
 

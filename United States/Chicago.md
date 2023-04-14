@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-04-14 14:17:43 UTC`
+📆 Last Updated: `2023-04-14 15:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,15 +16,15 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AERA23](http://twitter.com/search?q=%23AERA23) | N/A |
-| 2 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 3 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 4 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
-| 5 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 6 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 7 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 8 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 9 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 10 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 2 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 3 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 4 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 5 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 6 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 7 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 8 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 9 | [Daily Quordle 445](http://twitter.com/search?q=Daily+Quordle+445) | N/A |
+| 10 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 | 11 | [Nani](http://twitter.com/search?q=Nani) | N/A |
 | 12 | [Princess Diana](http://twitter.com/search?q=Princess+Diana) | Princess Diana is a title given to Diana, Princess of Wales, who was the first wife of Charles, Prince of Wales. She was an iconic figure in the United Kingdom and around the world, and her death in 1997 was met with shock and grief. |
 | 13 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
@@ -34,37 +34,36 @@ This is top 50 for [United States](</United States>)
 | 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
 | 18 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
 | 19 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
-| 20 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 21 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 20 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 21 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
 | 22 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
 | 23 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 24 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
 | 25 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 26 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 27 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 28 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 29 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 30 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 31 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 26 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 27 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 28 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 29 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 30 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 31 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
 | 32 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
 | 33 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 34 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
-| 35 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
-| 36 | [Teixeira](http://twitter.com/search?q=Teixeira) | N/A |
-| 37 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
-| 38 | [Edmonton](http://twitter.com/search?q=Edmonton) | N/A |
-| 39 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 40 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 41 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 42 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 43 | [MrBeast](http://twitter.com/search?q=MrBeast) | N/A |
-| 44 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 45 | [#Wordle664](http://twitter.com/search?q=%23Wordle664) | N/A |
-| 46 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 47 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 48 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 49 | [#INTELLECTUALPROPERTY](http://twitter.com/search?q=%23INTELLECTUALPROPERTY) | N/A |
-| 50 | [#KellyClarkson](http://twitter.com/search?q=%23KellyClarkson) | N/A |
+| 34 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 35 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 36 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 37 | [Teixeira](http://twitter.com/search?q=Teixeira) | N/A |
+| 38 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 39 | [Rand Paul](http://twitter.com/search?q=Rand+Paul) | N/A |
+| 40 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 41 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 42 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 43 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 44 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 45 | [MrBeast](http://twitter.com/search?q=MrBeast) | N/A |
+| 46 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 47 | [#Wordle664](http://twitter.com/search?q=%23Wordle664) | N/A |
+| 48 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 49 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
 
 
 

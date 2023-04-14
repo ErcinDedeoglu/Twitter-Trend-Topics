@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-14 14:17:52 UTC`
+📆 Last Updated: `2023-04-14 15:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Denmark
 | 6 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 7 | [#vejleb](http://twitter.com/search?q=%23vejleb) | N/A |
 | 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 9 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 9 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 | 10 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 11 | [#mufcdk](http://twitter.com/search?q=%23mufcdk) | N/A |
 | 12 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
@@ -42,29 +42,29 @@ This is top 50 for Denmark
 | 25 | [Manden](http://twitter.com/search?q=Manden) | N/A |
 | 26 | [troede](http://twitter.com/search?q=troede) | N/A |
 | 27 | [Held](http://twitter.com/search?q=Held) | N/A |
-| 28 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
-| 29 | [uanset](http://twitter.com/search?q=uanset) | N/A |
-| 30 | [Folketingets](http://twitter.com/search?q=Folketingets) | N/A |
-| 31 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
-| 32 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
-| 33 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 34 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
-| 35 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 36 | [Glæder](http://twitter.com/search?q=Gl%c3%a6der) | N/A |
+| 28 | [Uanset](http://twitter.com/search?q=Uanset) | N/A |
+| 29 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
+| 30 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 31 | [Folketingets](http://twitter.com/search?q=Folketingets) | N/A |
+| 32 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
+| 33 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 34 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 35 | [hvidovre](http://twitter.com/search?q=hvidovre) | N/A |
+| 36 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
 | 37 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 38 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 39 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
-| 40 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 41 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 42 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 43 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 44 | [brostrøm](http://twitter.com/search?q=brostr%c3%b8m) | N/A |
-| 45 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 46 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
-| 47 | [mikkel](http://twitter.com/search?q=mikkel) | N/A |
-| 48 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 49 | [Anders](http://twitter.com/search?q=Anders) | N/A |
-| 50 | [Ruslands](http://twitter.com/search?q=Ruslands) | N/A |
+| 38 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
+| 39 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 40 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 41 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 42 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 43 | [brostrøm](http://twitter.com/search?q=brostr%c3%b8m) | N/A |
+| 44 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 45 | [Bluetooth](http://twitter.com/search?q=Bluetooth) | N/A |
+| 46 | [mikkel](http://twitter.com/search?q=mikkel) | N/A |
+| 47 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 48 | [Anders](http://twitter.com/search?q=Anders) | N/A |
+| 49 | [Ruslands](http://twitter.com/search?q=Ruslands) | N/A |
+| 50 | [Jamen](http://twitter.com/search?q=Jamen) | N/A |
 
 
 

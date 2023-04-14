@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-14 14:17:11 UTC`
+📆 Last Updated: `2023-04-14 15:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 11 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
 | 12 | [Coco](http://twitter.com/search?q=Coco) | N/A |
 | 13 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
-| 14 | [esmeraldas](http://twitter.com/search?q=esmeraldas) | N/A |
-| 15 | [Glas](http://twitter.com/search?q=Glas) | N/A |
-| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 14 | [Glas](http://twitter.com/search?q=Glas) | N/A |
+| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 16 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
 | 17 | [#13deabril](http://twitter.com/search?q=%2313deabril) | N/A |
 | 18 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 19 | [crecerá](http://twitter.com/search?q=crecer%c3%a1) | N/A |
+| 19 | [Crecerá](http://twitter.com/search?q=Crecer%c3%a1) | N/A |
 | 20 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
 | 21 | [#alerta](http://twitter.com/search?q=%23alerta) | N/A |
 | 22 | [balsas](http://twitter.com/search?q=balsas) | N/A |
 | 23 | [la embajada de estados unidos](http://twitter.com/search?q=la+embajada+de+estados+unidos) | N/A |
-| 24 | [jan topic](http://twitter.com/search?q=jan+topic) | N/A |
-| 25 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 26 | [SERCOP](http://twitter.com/search?q=SERCOP) | N/A |
-| 27 | [rodrigo paz](http://twitter.com/search?q=rodrigo+paz) | N/A |
-| 28 | [los tiguerones](http://twitter.com/search?q=los+tiguerones) | N/A |
-| 29 | [andreina](http://twitter.com/search?q=andreina) | N/A |
-| 30 | [Inter Miami](http://twitter.com/search?q=Inter+Miami) | N/A |
-| 31 | [con 73](http://twitter.com/search?q=con+73) | N/A |
-| 32 | [leonardo campana](http://twitter.com/search?q=leonardo+campana) | N/A |
-| 33 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
-| 34 | [piñatares](http://twitter.com/search?q=pi%c3%b1atares) | N/A |
-| 35 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 36 | [En Cuba](http://twitter.com/search?q=En+Cuba) | N/A |
-| 37 | [liga vs barcelona](http://twitter.com/search?q=liga+vs+barcelona) | N/A |
-| 38 | [pachakutik](http://twitter.com/search?q=pachakutik) | N/A |
-| 39 | [educación superior](http://twitter.com/search?q=educaci%c3%b3n+superior) | N/A |
-| 40 | [alborada](http://twitter.com/search?q=alborada) | N/A |
-| 41 | [gualaceo](http://twitter.com/search?q=gualaceo) | N/A |
-| 42 | [incómodo](http://twitter.com/search?q=inc%c3%b3modo) | N/A |
-| 43 | [Guacharnaco](http://twitter.com/search?q=Guacharnaco) | N/A |
-| 44 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 45 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
-| 46 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 47 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
-| 48 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
-| 49 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
-| 50 | [hoy 13](http://twitter.com/search?q=hoy+13) | N/A |
+| 24 | [Espíritu Santo](http://twitter.com/search?q=Esp%c3%adritu+Santo) | N/A |
+| 25 | [jan topic](http://twitter.com/search?q=jan+topic) | N/A |
+| 26 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 27 | [SERCOP](http://twitter.com/search?q=SERCOP) | N/A |
+| 28 | [rodrigo paz](http://twitter.com/search?q=rodrigo+paz) | N/A |
+| 29 | [los tiguerones](http://twitter.com/search?q=los+tiguerones) | N/A |
+| 30 | [andreina](http://twitter.com/search?q=andreina) | N/A |
+| 31 | [Inter Miami](http://twitter.com/search?q=Inter+Miami) | N/A |
+| 32 | [con 73](http://twitter.com/search?q=con+73) | N/A |
+| 33 | [leonardo campana](http://twitter.com/search?q=leonardo+campana) | N/A |
+| 34 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
+| 35 | [piñatares](http://twitter.com/search?q=pi%c3%b1atares) | N/A |
+| 36 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 37 | [En Cuba](http://twitter.com/search?q=En+Cuba) | N/A |
+| 38 | [liga vs barcelona](http://twitter.com/search?q=liga+vs+barcelona) | N/A |
+| 39 | [pachakutik](http://twitter.com/search?q=pachakutik) | N/A |
+| 40 | [educación superior](http://twitter.com/search?q=educaci%c3%b3n+superior) | N/A |
+| 41 | [alborada](http://twitter.com/search?q=alborada) | N/A |
+| 42 | [gualaceo](http://twitter.com/search?q=gualaceo) | N/A |
+| 43 | [incómodo](http://twitter.com/search?q=inc%c3%b3modo) | N/A |
+| 44 | [Guacharnaco](http://twitter.com/search?q=Guacharnaco) | N/A |
+| 45 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 46 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
+| 47 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 48 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
+| 49 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
+| 50 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
 
 
 

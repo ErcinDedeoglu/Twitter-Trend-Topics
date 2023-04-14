@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-04-14 14:17:24 UTC`
+📆 Last Updated: `2023-04-14 15:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NRLSharksRoosters](http://twitter.com/search?q=%23NRLSharksRoosters) | N/A |
-| 2 | [#AFLFreoSuns](http://twitter.com/search?q=%23AFLFreoSuns) | N/A |
-| 3 | [#AFLTigersSwans](http://twitter.com/search?q=%23AFLTigersSwans) | N/A |
+| 1 | [#AFLTigersSwans](http://twitter.com/search?q=%23AFLTigersSwans) | N/A |
+| 2 | [#NRLSharksRoosters](http://twitter.com/search?q=%23NRLSharksRoosters) | N/A |
+| 3 | [#AFLFreoSuns](http://twitter.com/search?q=%23AFLFreoSuns) | N/A |
 | 4 | [#NRLManlyStorm](http://twitter.com/search?q=%23NRLManlyStorm) | N/A |
 | 5 | [#GatherRound](http://twitter.com/search?q=%23GatherRound) | N/A |
 | 6 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for [Australia](</Australia>)
 | 28 | [Brayshaw](http://twitter.com/search?q=Brayshaw) | N/A |
 | 29 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
 | 30 | [The ABC](http://twitter.com/search?q=The+ABC) | N/A |
-| 31 | [Fremantle](http://twitter.com/search?q=Fremantle) | N/A |
-| 32 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 33 | [Dockers](http://twitter.com/search?q=Dockers) | N/A |
-| 34 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 35 | [Bedout Island](http://twitter.com/search?q=Bedout+Island) | N/A |
-| 36 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
-| 37 | [Gold Coast](http://twitter.com/search?q=Gold+Coast) | N/A |
-| 38 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 39 | [Plowman](http://twitter.com/search?q=Plowman) | N/A |
-| 40 | [port hedland](http://twitter.com/search?q=port+hedland) | N/A |
-| 41 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
-| 42 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 43 | [Pardoo Roadhouse](http://twitter.com/search?q=Pardoo+Roadhouse) | N/A |
-| 44 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 45 | [Aged Care](http://twitter.com/search?q=Aged+Care) | N/A |
-| 46 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
-| 47 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 48 | [Pyne](http://twitter.com/search?q=Pyne) | N/A |
-| 49 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 50 | [Snapchat AI](http://twitter.com/search?q=Snapchat+AI) | N/A |
+| 31 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 32 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 33 | [Bedout Island](http://twitter.com/search?q=Bedout+Island) | N/A |
+| 34 | [Hynes](http://twitter.com/search?q=Hynes) | N/A |
+| 35 | [Brodie](http://twitter.com/search?q=Brodie) | N/A |
+| 36 | [Gold Coast](http://twitter.com/search?q=Gold+Coast) | N/A |
+| 37 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 38 | [Plowman](http://twitter.com/search?q=Plowman) | N/A |
+| 39 | [port hedland](http://twitter.com/search?q=port+hedland) | N/A |
+| 40 | [pardoo roadhouse](http://twitter.com/search?q=pardoo+roadhouse) | N/A |
+| 41 | [Dockers](http://twitter.com/search?q=Dockers) | N/A |
+| 42 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 43 | [Aged Care](http://twitter.com/search?q=Aged+Care) | N/A |
+| 44 | [Ronni](http://twitter.com/search?q=Ronni) | Ronni is a female given name, derived from the name Veronica. It is a diminutive form of the name, and can be used as a nickname. The meaning of Ronni in English is "true image". |
+| 45 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 46 | [pyne](http://twitter.com/search?q=pyne) | N/A |
+| 47 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 48 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 49 | [Snapchat AI](http://twitter.com/search?q=Snapchat+AI) | N/A |
+| 50 | [Fremantle](http://twitter.com/search?q=Fremantle) | N/A |
 
 
 
