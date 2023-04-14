@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mérida
 
-📆 Last Updated: `2023-04-14 10:16:48 UTC`
+📆 Last Updated: `2023-04-14 11:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,12 +34,12 @@ This is top 50 for [Mexico](</Mexico>)
 | 17 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
 | 18 | [Notimex](http://twitter.com/search?q=Notimex) | N/A |
 | 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 20 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 21 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 22 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
-| 23 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 24 | [beli en el hormiguero](http://twitter.com/search?q=beli+en+el+hormiguero) | N/A |
-| 25 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 22 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 23 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
+| 24 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 25 | [beli en el hormiguero](http://twitter.com/search?q=beli+en+el+hormiguero) | N/A |
 | 26 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
 | 27 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
 | 28 | [Rigo Tovar](http://twitter.com/search?q=Rigo+Tovar) | N/A |
@@ -51,17 +51,17 @@ This is top 50 for [Mexico](</Mexico>)
 | 34 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
 | 35 | [Tilín](http://twitter.com/search?q=Til%c3%adn) | N/A |
 | 36 | [Prius](http://twitter.com/search?q=Prius) | N/A |
-| 37 | [Latin Mafia](http://twitter.com/search?q=Latin+Mafia) | N/A |
-| 38 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 39 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 41 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
-| 42 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 43 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 45 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 37 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 38 | [Latin Mafia](http://twitter.com/search?q=Latin+Mafia) | N/A |
+| 39 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 40 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 41 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
+| 42 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
+| 43 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 44 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 46 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 47 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
+| 47 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
 | 48 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
 | 49 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 

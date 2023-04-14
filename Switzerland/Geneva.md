@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-14 10:17:01 UTC`
+📆 Last Updated: `2023-04-14 11:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 1 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
 | 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 5 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 4 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
+| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 6 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 7 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 8 | [eToro](http://twitter.com/search?q=eToro) | N/A |
@@ -32,38 +32,38 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 16 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
 | 17 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 18 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 18 | [notrecht](http://twitter.com/search?q=notrecht) | N/A |
 | 19 | [Gold](http://twitter.com/search?q=Gold) | N/A |
-| 20 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 21 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 23 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 24 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 25 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 26 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 27 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 28 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
-| 29 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
-| 30 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 31 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 32 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 33 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 34 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 35 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 36 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 37 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 38 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 39 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 40 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 41 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 42 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 43 | [Russes](http://twitter.com/search?q=Russes) | N/A |
-| 44 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 45 | [Migros](http://twitter.com/search?q=Migros) | N/A |
-| 46 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 47 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 48 | [Banker](http://twitter.com/search?q=Banker) | N/A |
-| 49 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 20 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 21 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 22 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 23 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 24 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 25 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 26 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 27 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 28 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 29 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 30 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 31 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
+| 32 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 33 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 34 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 35 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 36 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 37 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 38 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 39 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 40 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 41 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
+| 42 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 43 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 44 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 45 | [Russes](http://twitter.com/search?q=Russes) | N/A |
+| 46 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 47 | [Migros](http://twitter.com/search?q=Migros) | N/A |
+| 48 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 49 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 
 
 

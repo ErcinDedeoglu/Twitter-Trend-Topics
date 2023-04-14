@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fortaleza
 
-📆 Last Updated: `2023-04-14 10:16:53 UTC`
+📆 Last Updated: `2023-04-14 11:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,23 +38,23 @@ This is top 50 for [Brazil](</Brazil>)
 | 21 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 22 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
 | 23 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 24 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
-| 25 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
+| 24 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
+| 25 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
 | 26 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 27 | [VILLASANTI](http://twitter.com/search?q=VILLASANTI) | N/A |
 | 28 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 29 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
+| 29 | [pior bbb](http://twitter.com/search?q=pior+bbb) | N/A |
 | 30 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
 | 31 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
 | 32 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
 | 33 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 34 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 | 35 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 36 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 37 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
-| 38 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 39 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 40 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 36 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
+| 37 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 38 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 39 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 40 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 41 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
 | 42 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
 | 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
@@ -62,9 +62,9 @@ This is top 50 for [Brazil](</Brazil>)
 | 45 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
 | 46 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
 | 47 | [bruno rodrigues](http://twitter.com/search?q=bruno+rodrigues) | N/A |
-| 48 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 49 | [léo pereira](http://twitter.com/search?q=l%c3%a9o+pereira) | N/A |
-| 50 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 48 | [léo pereira](http://twitter.com/search?q=l%c3%a9o+pereira) | N/A |
+| 49 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 50 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
 
 
 

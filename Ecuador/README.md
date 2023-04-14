@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-14 10:17:33 UTC`
+📆 Last Updated: `2023-04-14 11:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,21 +24,21 @@ This is top 50 for Ecuador
 | 7 | [Posorja](http://twitter.com/search?q=Posorja) | N/A |
 | 8 | [penitenciaría del litoral](http://twitter.com/search?q=penitenciar%c3%ada+del+litoral) | N/A |
 | 9 | [LOES](http://twitter.com/search?q=LOES) | N/A |
-| 10 | [#EcuadorSeDesangra](http://twitter.com/search?q=%23EcuadorSeDesangra) | N/A |
+| 10 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
 | 11 | [Coco](http://twitter.com/search?q=Coco) | N/A |
 | 12 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
 | 13 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
 | 14 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 15 | [jorge glas](http://twitter.com/search?q=jorge+glas) | N/A |
+| 15 | [Glas](http://twitter.com/search?q=Glas) | N/A |
 | 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 17 | [#13deAbril](http://twitter.com/search?q=%2313deAbril) | N/A |
 | 18 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 19 | [Crecerá](http://twitter.com/search?q=Crecer%c3%a1) | N/A |
 | 20 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
 | 21 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
-| 22 | [Balsas](http://twitter.com/search?q=Balsas) | N/A |
+| 22 | [balsas](http://twitter.com/search?q=balsas) | N/A |
 | 23 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 24 | [La Embajada de Estados Unidos](http://twitter.com/search?q=La+Embajada+de+Estados+Unidos) | N/A |
+| 24 | [la embajada de estados unidos](http://twitter.com/search?q=la+embajada+de+estados+unidos) | N/A |
 | 25 | [SERCOP](http://twitter.com/search?q=SERCOP) | N/A |
 | 26 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 27 | [rodrigo paz](http://twitter.com/search?q=rodrigo+paz) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for Ecuador
 | 31 | [con 73](http://twitter.com/search?q=con+73) | N/A |
 | 32 | [leonardo campana](http://twitter.com/search?q=leonardo+campana) | N/A |
 | 33 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
-| 34 | [Piñatares](http://twitter.com/search?q=Pi%c3%b1atares) | N/A |
+| 34 | [piñatares](http://twitter.com/search?q=pi%c3%b1atares) | N/A |
 | 35 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
 | 36 | [En Cuba](http://twitter.com/search?q=En+Cuba) | N/A |
 | 37 | [liga vs barcelona](http://twitter.com/search?q=liga+vs+barcelona) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for Ecuador
 | 46 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
 | 47 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
 | 48 | [Pascuales](http://twitter.com/search?q=Pascuales) | N/A |
-| 49 | [MARE ES VICTORIA](http://twitter.com/search?q=MARE+ES+VICTORIA) | N/A |
+| 49 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |
 | 50 | [Mejía](http://twitter.com/search?q=Mej%c3%ada) | N/A |
 
 

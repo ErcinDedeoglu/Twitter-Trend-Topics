@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-04-14 10:16:50 UTC`
+📆 Last Updated: `2023-04-14 11:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,37 +20,37 @@ This is top 50 for [Colombia](</Colombia>)
 | 3 | [Sandoval](http://twitter.com/search?q=Sandoval) | N/A |
 | 4 | [Times](http://twitter.com/search?q=Times) | N/A |
 | 5 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
-| 6 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 6 | [#survivorlaisla](http://twitter.com/search?q=%23survivorlaisla) | N/A |
 | 7 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 8 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 9 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
-| 10 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
-| 11 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
-| 12 | [Secuestro](http://twitter.com/search?q=Secuestro) | N/A |
+| 8 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 9 | [secuestrados](http://twitter.com/search?q=secuestrados) | N/A |
+| 10 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
+| 11 | [Secuestro](http://twitter.com/search?q=Secuestro) | N/A |
+| 12 | [#anadenadie](http://twitter.com/search?q=%23anadenadie) | N/A |
 | 13 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 14 | [#AnaDeNadie](http://twitter.com/search?q=%23AnaDeNadie) | N/A |
-| 15 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
-| 16 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 17 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 18 | [#NuestraRealidadEs](http://twitter.com/search?q=%23NuestraRealidadEs) | N/A |
-| 19 | [Homer](http://twitter.com/search?q=Homer) | N/A |
-| 20 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 21 | [Revista TIME](http://twitter.com/search?q=Revista+TIME) | N/A |
-| 22 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 24 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 25 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 26 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
-| 27 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 28 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
-| 29 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 30 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 31 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 32 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 33 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 34 | [el alambrado](http://twitter.com/search?q=el+alambrado) | N/A |
-| 35 | [mantilla](http://twitter.com/search?q=mantilla) | N/A |
-| 36 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 14 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
+| 15 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 16 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 17 | [#NuestraRealidadEs](http://twitter.com/search?q=%23NuestraRealidadEs) | N/A |
+| 18 | [Homer](http://twitter.com/search?q=Homer) | N/A |
+| 19 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 20 | [Revista TIME](http://twitter.com/search?q=Revista+TIME) | N/A |
+| 21 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 23 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 24 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 25 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
+| 26 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 27 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
+| 28 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 29 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 30 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 31 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 32 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 33 | [el alambrado](http://twitter.com/search?q=el+alambrado) | N/A |
+| 34 | [mantilla](http://twitter.com/search?q=mantilla) | N/A |
+| 35 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 36 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
 | 37 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
 | 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 39 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |

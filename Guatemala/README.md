@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-14 10:17:34 UTC`
+📆 Last Updated: `2023-04-14 11:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,13 +28,13 @@ This is top 50 for Guatemala
 | 11 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 13 | [londoño](http://twitter.com/search?q=londo%c3%b1o) | N/A |
-| 14 | [Thelma Cabrera](http://twitter.com/search?q=Thelma+Cabrera) | N/A |
+| 14 | [thelma cabrera](http://twitter.com/search?q=thelma+cabrera) | N/A |
 | 15 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 16 | [el pajón](http://twitter.com/search?q=el+paj%c3%b3n) | N/A |
 | 17 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
 | 18 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
 | 19 | [santa catarina pinula](http://twitter.com/search?q=santa+catarina+pinula) | N/A |
-| 20 | [Luis Hernández Azmitia](http://twitter.com/search?q=Luis+Hern%c3%a1ndez+Azmitia) | N/A |
+| 20 | [luis hernández azmitia](http://twitter.com/search?q=luis+hern%c3%a1ndez+azmitia) | N/A |
 | 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 22 | [Malacateco](http://twitter.com/search?q=Malacateco) | N/A |
 | 23 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
@@ -59,7 +59,7 @@ This is top 50 for Guatemala
 | 42 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
 | 43 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 44 | [El Progreso](http://twitter.com/search?q=El+Progreso) | N/A |
-| 45 | [PLGP](http://twitter.com/search?q=PLGP) | N/A |
+| 45 | [plgp](http://twitter.com/search?q=plgp) | N/A |
 | 46 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 48 | [plan de gobierno](http://twitter.com/search?q=plan+de+gobierno) | N/A |

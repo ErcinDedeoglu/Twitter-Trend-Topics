@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-14 10:16:47 UTC`
+📆 Last Updated: `2023-04-14 11:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alianza Opositora](http://twitter.com/search?q=Alianza+Opositora) | N/A |
-| 2 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
+| 1 | [alianza opositora](http://twitter.com/search?q=alianza+opositora) | N/A |
+| 2 | [montecristi](http://twitter.com/search?q=montecristi) | N/A |
 | 3 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
 | 4 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
 | 5 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
@@ -25,19 +25,19 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 8 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
 | 9 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
 | 10 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 11 | [vinchos](http://twitter.com/search?q=vinchos) | N/A |
-| 12 | [doble reserva](http://twitter.com/search?q=doble+reserva) | N/A |
-| 13 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 14 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 15 | [el memiso](http://twitter.com/search?q=el+memiso) | N/A |
-| 16 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 17 | [#DeÚltimoMinuto](http://twitter.com/search?q=%23De%c3%9altimoMinuto) | N/A |
-| 18 | [rafael acevedo](http://twitter.com/search?q=rafael+acevedo) | N/A |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 21 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 11 | [doble reserva](http://twitter.com/search?q=doble+reserva) | N/A |
+| 12 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 13 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 14 | [el memiso](http://twitter.com/search?q=el+memiso) | N/A |
+| 15 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 16 | [#DeÚltimoMinuto](http://twitter.com/search?q=%23De%c3%9altimoMinuto) | N/A |
+| 17 | [rafael acevedo](http://twitter.com/search?q=rafael+acevedo) | N/A |
+| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 19 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 20 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 21 | [Vinchos](http://twitter.com/search?q=Vinchos) | N/A |
 | 22 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 23 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
+| 23 | [#felizmiercoles](http://twitter.com/search?q=%23felizmiercoles) | N/A |
 | 24 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
 | 25 | [napoleón estévez lavandier](http://twitter.com/search?q=napole%c3%b3n+est%c3%a9vez+lavandier) | N/A |
 | 26 | [ramón alburquerque](http://twitter.com/search?q=ram%c3%b3n+alburquerque) | N/A |
@@ -56,9 +56,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 39 | [Presidencia](http://twitter.com/search?q=Presidencia) | N/A |
 | 40 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 | 41 | [Alzheimer](http://twitter.com/search?q=Alzheimer) | N/A |
-| 42 | [Comité Nacional](http://twitter.com/search?q=Comit%c3%a9+Nacional) | N/A |
+| 42 | [comité nacional](http://twitter.com/search?q=comit%c3%a9+nacional) | N/A |
 | 43 | [tolentino](http://twitter.com/search?q=tolentino) | N/A |
-| 44 | [miguel vargas](http://twitter.com/search?q=miguel+vargas) | N/A |
+| 44 | [Miguel Vargas](http://twitter.com/search?q=Miguel+Vargas) | N/A |
 | 45 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
 | 46 | [carmen renata](http://twitter.com/search?q=carmen+renata) | N/A |
 | 47 | [junta central electoral](http://twitter.com/search?q=junta+central+electoral) | N/A |
