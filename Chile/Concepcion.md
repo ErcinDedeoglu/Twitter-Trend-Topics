@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-04-14 04:17:01 UTC`
+📆 Last Updated: `2023-04-14 05:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Chile](</Chile>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
-| 2 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 3 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
-| 4 | [#100indecisos](http://twitter.com/search?q=%23100indecisos) | N/A |
-| 5 | [Talca](http://twitter.com/search?q=Talca) | N/A |
-| 6 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 7 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
-| 8 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 9 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
-| 10 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
-| 11 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 12 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
-| 13 | [#sociosporelmundo](http://twitter.com/search?q=%23sociosporelmundo) | N/A |
-| 14 | [Decide](http://twitter.com/search?q=Decide) | N/A |
-| 15 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 16 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 17 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
-| 18 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 19 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 20 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 21 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
-| 22 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 23 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 24 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
-| 25 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 26 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 27 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 2 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
+| 3 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 4 | [#TheVoiceCHV](http://twitter.com/search?q=%23TheVoiceCHV) | N/A |
+| 5 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 6 | [#MeaCulpaEnTVN](http://twitter.com/search?q=%23MeaCulpaEnTVN) | N/A |
+| 7 | [Talca](http://twitter.com/search?q=Talca) | N/A |
+| 8 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 9 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
+| 10 | [Ana Luz Figueroa](http://twitter.com/search?q=Ana+Luz+Figueroa) | N/A |
+| 11 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 12 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
+| 13 | [Decide](http://twitter.com/search?q=Decide) | N/A |
+| 14 | [#sociosporelmundo](http://twitter.com/search?q=%23sociosporelmundo) | N/A |
+| 15 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
+| 16 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 17 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
+| 18 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
+| 19 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
+| 20 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
+| 21 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 22 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 24 | [Municipalidad de Santiago](http://twitter.com/search?q=Municipalidad+de+Santiago) | N/A |
+| 25 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 26 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 27 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 28 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
 | 29 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 30 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 31 | [INCOMPETENTE](http://twitter.com/search?q=INCOMPETENTE) | N/A |
-| 32 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 33 | [Municipalidad de Santiago](http://twitter.com/search?q=Municipalidad+de+Santiago) | N/A |
-| 34 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 35 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 36 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
-| 37 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
-| 38 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
-| 39 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
-| 40 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 41 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
-| 42 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 43 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 44 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 45 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 46 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
-| 47 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 48 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
-| 49 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
-| 50 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 30 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
+| 31 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 32 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 33 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 34 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 35 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 36 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
+| 37 | [Putre](http://twitter.com/search?q=Putre) | N/A |
+| 38 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
+| 39 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
+| 40 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 41 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 42 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
+| 43 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 44 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
+| 45 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
+| 46 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 47 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 48 | [Gloria Hutt](http://twitter.com/search?q=Gloria+Hutt) | N/A |
+| 49 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 50 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 
 
 

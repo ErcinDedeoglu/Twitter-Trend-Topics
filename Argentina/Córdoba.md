@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-04-14 04:17:05 UTC`
+📆 Last Updated: `2023-04-14 05:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Argentina](</Argentina>)
 | 1 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
 | 2 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
 | 3 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 4 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
-| 5 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 4 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 5 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
 | 6 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
 | 7 | [#SiempreConAgus](http://twitter.com/search?q=%23SiempreConAgus) | N/A |
-| 8 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 8 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
 | 9 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
 | 10 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 11 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
+| 11 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
 | 12 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 13 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 14 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
-| 15 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 16 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 17 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 18 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
-| 19 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 20 | [juan minujin](http://twitter.com/search?q=juan+minujin) | N/A |
-| 21 | [Enzo Nicolás Pérez](http://twitter.com/search?q=Enzo+Nicol%c3%a1s+P%c3%a9rez) | N/A |
-| 22 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 23 | [#AlcoholCero](http://twitter.com/search?q=%23AlcoholCero) | N/A |
-| 24 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 25 | [#Tigre](http://twitter.com/search?q=%23Tigre) | N/A |
-| 26 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
-| 27 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 28 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 29 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 30 | [Milo J](http://twitter.com/search?q=Milo+J) | N/A |
+| 14 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 15 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 16 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 18 | [Demichelis](http://twitter.com/search?q=Demichelis) | Demichelis is a surname of Italian origin. It is derived from the given name Michelangelo, which means "angel of God". In English, the name Demichelis can be translated to mean "God's angel". |
+| 19 | [Juan Minujin](http://twitter.com/search?q=Juan+Minujin) | N/A |
+| 20 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 21 | [#AlcoholCero](http://twitter.com/search?q=%23AlcoholCero) | N/A |
+| 22 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
+| 23 | [Milo J](http://twitter.com/search?q=Milo+J) | N/A |
+| 24 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 25 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
+| 26 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 27 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 28 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 29 | [#Tigre](http://twitter.com/search?q=%23Tigre) | N/A |
+| 30 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 | 31 | [Moria](http://twitter.com/search?q=Moria) | N/A |
-| 32 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
-| 33 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 34 | [Gracias Omar](http://twitter.com/search?q=Gracias+Omar) | N/A |
-| 35 | [Garay](http://twitter.com/search?q=Garay) | N/A |
-| 36 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 37 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
-| 38 | [Micho](http://twitter.com/search?q=Micho) | N/A |
-| 39 | [Incondicional](http://twitter.com/search?q=Incondicional) | N/A |
-| 40 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 41 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 42 | [QUIENES SON](http://twitter.com/search?q=QUIENES+SON) | N/A |
-| 43 | [Paulo Díaz](http://twitter.com/search?q=Paulo+D%c3%adaz) | N/A |
-| 44 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
-| 45 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 46 | [Delfi](http://twitter.com/search?q=Delfi) | N/A |
+| 32 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 33 | [Micho](http://twitter.com/search?q=Micho) | N/A |
+| 34 | [Garay](http://twitter.com/search?q=Garay) | N/A |
+| 35 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
+| 36 | [Esequiel Barco](http://twitter.com/search?q=Esequiel+Barco) | N/A |
+| 37 | [QUIENES SON](http://twitter.com/search?q=QUIENES+SON) | N/A |
+| 38 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 39 | [#CristinaPresidenta2023](http://twitter.com/search?q=%23CristinaPresidenta2023) | N/A |
+| 40 | [Incondicional](http://twitter.com/search?q=Incondicional) | N/A |
+| 41 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 42 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 43 | [Delfi](http://twitter.com/search?q=Delfi) | N/A |
+| 44 | [La Scaloneta](http://twitter.com/search?q=La+Scaloneta) | N/A |
+| 45 | [Durso](http://twitter.com/search?q=Durso) | N/A |
+| 46 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
 | 47 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 48 | [Durso](http://twitter.com/search?q=Durso) | N/A |
-| 49 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
-| 50 | [CAZZU FT LA JOAQUI](http://twitter.com/search?q=CAZZU+FT+LA+JOAQUI) | N/A |
+| 48 | [Paulo Diaz](http://twitter.com/search?q=Paulo+Diaz) | N/A |
+| 49 | [Cone](http://twitter.com/search?q=Cone) | Cone is a three-dimensional geometric shape that tapers smoothly from a flat base to a point. It is a common shape in nature, such as the cone-shaped fruit of a pine tree or the cone-shaped petals of a flower. In English, the word "cone" can also refer to an ice cream cone or traffic cones used to direct traffic. |
+| 50 | [Zeballos](http://twitter.com/search?q=Zeballos) | Zeballos is a Spanish surname derived from the Basque name Zabal, which means "valley". In English, it can be translated to mean "valley dweller". |
 
 
 

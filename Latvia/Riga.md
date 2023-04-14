@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-14 04:17:12 UTC`
+📆 Last Updated: `2023-04-14 05:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 2 | [čaka](http://twitter.com/search?q=%c4%8daka) | N/A |
-| 3 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 4 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 5 | [kariņu](http://twitter.com/search?q=kari%c5%86u) | N/A |
-| 6 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 7 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | N/A |
-| 8 | [ukrainai](http://twitter.com/search?q=ukrainai) | N/A |
-| 9 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
-| 10 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
-| 11 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 12 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 1 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 2 | [Visu](http://twitter.com/search?q=Visu) | N/A |
+| 3 | [čaka](http://twitter.com/search?q=%c4%8daka) | N/A |
+| 4 | [francijā](http://twitter.com/search?q=francij%c4%81) | N/A |
+| 5 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 6 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | N/A |
+| 7 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 8 | [triju zvaigžņu](http://twitter.com/search?q=triju+zvaig%c5%be%c5%86u) | N/A |
+| 9 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
+| 10 | [AI-powered](http://twitter.com/search?q=AI-powered) | N/A |
+| 11 | [Kariņa](http://twitter.com/search?q=Kari%c5%86a) | N/A |
+| 12 | [nopietni](http://twitter.com/search?q=nopietni) | N/A |
 | 13 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |
-| 14 | [AI-powered](http://twitter.com/search?q=AI-powered) | N/A |
-| 15 | [šlesers](http://twitter.com/search?q=%c5%a1lesers) | N/A |
-| 16 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 17 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
-| 18 | [Levits](http://twitter.com/search?q=Levits) | N/A |
-| 19 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
-| 20 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
-| 21 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
-| 22 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
-| 23 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 24 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | N/A |
-| 25 | [krievija](http://twitter.com/search?q=krievija) | N/A |
-| 26 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
-| 27 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 28 | [Latvija](http://twitter.com/search?q=Latvija) | N/A |
-| 29 | [$GINI](http://twitter.com/search?q=%24GINI) | N/A |
-| 30 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
-| 31 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
-| 32 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 33 | [priekš](http://twitter.com/search?q=priek%c5%a1) | N/A |
-| 34 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 35 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 14 | [Tevi](http://twitter.com/search?q=Tevi) | N/A |
+| 15 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 16 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 17 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
+| 18 | [TOGETHER BY DIMASH MV](http://twitter.com/search?q=TOGETHER+BY+DIMASH+MV) | N/A |
+| 19 | [$GINI](http://twitter.com/search?q=%24GINI) | N/A |
+| 20 | [Beverly](http://twitter.com/search?q=Beverly) | N/A |
+| 21 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
+| 22 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
+| 23 | [levitu](http://twitter.com/search?q=levitu) | N/A |
+| 24 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
+| 25 | [Kāda](http://twitter.com/search?q=K%c4%81da) | N/A |
+| 26 | [šlesera](http://twitter.com/search?q=%c5%a1lesera) | N/A |
+| 27 | [#TogetherMV](http://twitter.com/search?q=%23TogetherMV) | N/A |
+| 28 | [Barona](http://twitter.com/search?q=Barona) | N/A |
+| 29 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
+| 30 | [īsti](http://twitter.com/search?q=%c4%absti) | N/A |
+| 31 | [Viena](http://twitter.com/search?q=Viena) | Viena is the capital of Austria. In English, it is spelled Vienna. It is a major cultural and political center in Europe, known for its classical music, art, and architecture. |
+| 32 | [Baltijas](http://twitter.com/search?q=Baltijas) | N/A |
+| 33 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 34 | [priekš](http://twitter.com/search?q=priek%c5%a1) | N/A |
+| 35 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
 | 36 | [Eiropas](http://twitter.com/search?q=Eiropas) | N/A |
-| 37 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 38 | [tevis](http://twitter.com/search?q=tevis) | N/A |
-| 39 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
-| 40 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
-| 41 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
-| 42 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
-| 43 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
-| 44 | [katru](http://twitter.com/search?q=katru) | N/A |
-| 45 | [Leta](http://twitter.com/search?q=Leta) | N/A |
-| 46 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 47 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
-| 48 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
-| 49 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
+| 37 | [šajā](http://twitter.com/search?q=%c5%a1aj%c4%81) | N/A |
+| 38 | [Ķīnā](http://twitter.com/search?q=%c4%b6%c4%abn%c4%81) | N/A |
+| 39 | [#DimashQudaibergen](http://twitter.com/search?q=%23DimashQudaibergen) | N/A |
+| 40 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | N/A |
+| 41 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
+| 42 | [katru](http://twitter.com/search?q=katru) | N/A |
+| 43 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 44 | [Leta](http://twitter.com/search?q=Leta) | N/A |
+| 45 | [liels](http://twitter.com/search?q=liels) | N/A |
+| 46 | [Lai Tev](http://twitter.com/search?q=Lai+Tev) | N/A |
+| 47 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | N/A |
+| 48 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
+| 49 | [Jūrmalas](http://twitter.com/search?q=J%c5%abrmalas) | N/A |
+| 50 | [Coja](http://twitter.com/search?q=Coja) | N/A |
 
 
 

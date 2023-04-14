@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-04-14 04:17:02 UTC`
+📆 Last Updated: `2023-04-14 05:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
 | 5 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
 | 6 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 7 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 7 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 10 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 11 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 12 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
-| 13 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
-| 14 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 15 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 16 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 17 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
-| 18 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 9 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 10 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 11 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 12 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
+| 13 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
+| 14 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 15 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
+| 16 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
+| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 18 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
 | 19 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 20 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 20 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
 | 21 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 22 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 23 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
-| 24 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 22 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 23 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
+| 24 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
 | 25 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
-| 26 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
-| 27 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
-| 28 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 30 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 31 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
-| 32 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 33 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 34 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
-| 35 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 37 | [Cmdte](http://twitter.com/search?q=Cmdte) | N/A |
-| 38 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
-| 39 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 40 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
-| 41 | [Lourdes López](http://twitter.com/search?q=Lourdes+L%c3%b3pez) | N/A |
-| 42 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
-| 43 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 45 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 46 | [Milicia Nacional Bolivariana](http://twitter.com/search?q=Milicia+Nacional+Bolivariana) | N/A |
-| 47 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 48 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
+| 26 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
+| 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 29 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 30 | [Codo](http://twitter.com/search?q=Codo) | N/A |
+| 31 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 32 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 33 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
+| 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 35 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
+| 36 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
+| 37 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 38 | [cmdte](http://twitter.com/search?q=cmdte) | N/A |
+| 39 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 40 | [Milicia Nacional Bolivariana](http://twitter.com/search?q=Milicia+Nacional+Bolivariana) | N/A |
+| 41 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
+| 42 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
+| 43 | [Poder Popular](http://twitter.com/search?q=Poder+Popular) | N/A |
+| 44 | [Lourdes López](http://twitter.com/search?q=Lourdes+L%c3%b3pez) | N/A |
+| 45 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
+| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 47 | [Harold Sosa](http://twitter.com/search?q=Harold+Sosa) | N/A |
+| 48 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 49 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
 
 
 

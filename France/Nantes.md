@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-04-14 04:17:07 UTC`
+📆 Last Updated: `2023-04-14 05:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 1 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
+| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 3 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
 | 4 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 5 | [#ZeldaTearsOfTheKingdom](http://twitter.com/search?q=%23ZeldaTearsOfTheKingdom) | N/A |
+| 5 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
 | 6 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 7 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 9 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 10 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 8 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 10 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
 | 11 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 12 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 14 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 16 | [chirine](http://twitter.com/search?q=chirine) | N/A |
-| 17 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 18 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 13 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 15 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 16 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 17 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 18 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 19 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 20 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 21 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 20 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 21 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
 | 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 23 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 24 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 25 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 23 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 24 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 25 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
 | 26 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 27 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 28 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 29 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 30 | [brawks](http://twitter.com/search?q=brawks) | N/A |
-| 31 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 32 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 33 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 34 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 35 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 36 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 37 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 38 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
-| 39 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
-| 40 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 41 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 42 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 43 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 44 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 45 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 46 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
-| 47 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 48 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 27 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 28 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 29 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 30 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 31 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 32 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 33 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 34 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 35 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
+| 36 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 37 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 38 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 39 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
+| 40 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 41 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 42 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 43 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 44 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 45 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 46 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 47 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 48 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 
 
 

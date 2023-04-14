@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-04-14 04:17:09 UTC`
+📆 Last Updated: `2023-04-14 05:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Doepfner](http://twitter.com/search?q=%23Doepfner) | N/A |
-| 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 3 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 4 | [#B04USG](http://twitter.com/search?q=%23B04USG) | N/A |
-| 5 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 6 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 7 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 8 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
-| 9 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 10 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 11 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
-| 12 | [notaufnahme](http://twitter.com/search?q=notaufnahme) | N/A |
-| 13 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 14 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 15 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 16 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 17 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 18 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 20 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 21 | [kubicki](http://twitter.com/search?q=kubicki) | N/A |
-| 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 23 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 24 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
-| 25 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
-| 26 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 27 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
-| 28 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 3 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 4 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
+| 5 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 6 | [#b04usg](http://twitter.com/search?q=%23b04usg) | N/A |
+| 7 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 8 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 9 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
+| 10 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 11 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 12 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 13 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 14 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
+| 15 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 16 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 17 | [Guten Morgen Willi](http://twitter.com/search?q=Guten+Morgen+Willi) | N/A |
+| 18 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 19 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 20 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 21 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 22 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 24 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
+| 25 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
+| 26 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 27 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 28 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 29 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
 | 30 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 31 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
-| 32 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
-| 33 | [TotK](http://twitter.com/search?q=TotK) | N/A |
-| 34 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 35 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 36 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
-| 37 | [Guten Morgen Willi](http://twitter.com/search?q=Guten+Morgen+Willi) | N/A |
-| 38 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 39 | [staatsschutz](http://twitter.com/search?q=staatsschutz) | N/A |
-| 40 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 41 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 42 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
-| 43 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 44 | [please stärke die fdp](http://twitter.com/search?q=please+st%c3%a4rke+die+fdp) | N/A |
-| 45 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 46 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 47 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 48 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
-| 49 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 31 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 32 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
+| 33 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 34 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 35 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 36 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 37 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 38 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
+| 39 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
+| 40 | [Erstmal Kaffee](http://twitter.com/search?q=Erstmal+Kaffee) | N/A |
+| 41 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
+| 42 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 43 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 44 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 45 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
+| 46 | [Freiheitsenergie](http://twitter.com/search?q=Freiheitsenergie) | N/A |
+| 47 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
+| 48 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 49 | [BILD und WELT](http://twitter.com/search?q=BILD+und+WELT) | N/A |
 
 
 

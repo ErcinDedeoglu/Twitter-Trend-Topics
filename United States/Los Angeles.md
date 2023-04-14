@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Los Angeles
 
-📆 Last Updated: `2023-04-14 04:17:37 UTC`
+📆 Last Updated: `2023-04-14 05:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoKingsGo](http://twitter.com/search?q=%23GoKingsGo) | N/A |
-| 2 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 3 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 4 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 5 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 6 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
-| 7 | [Crow](http://twitter.com/search?q=Crow) | N/A |
-| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 9 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 10 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 11 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
-| 12 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
-| 13 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 14 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
-| 15 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 16 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 17 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 18 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 19 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 20 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 21 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 22 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 23 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 24 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 1 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 2 | [#LAKings](http://twitter.com/search?q=%23LAKings) | N/A |
+| 3 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 4 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 5 | [Petco Park](http://twitter.com/search?q=Petco+Park) | N/A |
+| 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 7 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 8 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 9 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 10 | [Kavanaugh](http://twitter.com/search?q=Kavanaugh) | N/A |
+| 11 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
+| 12 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 13 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 14 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 15 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 16 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 17 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 18 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 19 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 20 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 21 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 22 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 23 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 24 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
 | 25 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 26 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 27 | [Norah](http://twitter.com/search?q=Norah) | N/A |
-| 28 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 29 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
-| 30 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 31 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 32 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 33 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 34 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 35 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 36 | [Maile](http://twitter.com/search?q=Maile) | N/A |
-| 37 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 38 | [Here I Am](http://twitter.com/search?q=Here+I+Am) | N/A |
-| 39 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 40 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 41 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 42 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 43 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 44 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 45 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 46 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 47 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 48 | [Princess Diana](http://twitter.com/search?q=Princess+Diana) | Princess Diana is a title given to Diana, Princess of Wales, who was the first wife of Charles, Prince of Wales. She was an iconic figure in the United Kingdom and around the world, and her death in 1997 was met with shock and grief. |
-| 49 | [Teixeira](http://twitter.com/search?q=Teixeira) | N/A |
-| 50 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 26 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 27 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 28 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
+| 29 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 30 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 31 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 32 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 33 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
+| 34 | [LIKE GRAH](http://twitter.com/search?q=LIKE+GRAH) | N/A |
+| 35 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 36 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
+| 37 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 38 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 39 | [kurtis conner](http://twitter.com/search?q=kurtis+conner) | N/A |
+| 40 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 41 | [LUKE HUGHES](http://twitter.com/search?q=LUKE+HUGHES) | N/A |
+| 42 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 43 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 44 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 45 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 46 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 47 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
+| 48 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 49 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 50 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
 
 
 

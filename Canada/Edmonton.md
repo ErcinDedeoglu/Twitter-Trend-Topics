@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-04-14 04:16:54 UTC`
+📆 Last Updated: `2023-04-14 05:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,51 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 2 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 1 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 2 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
 | 3 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 4 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 5 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 6 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
-| 7 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
-| 8 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 9 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 10 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 11 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
-| 12 | [Janmark](http://twitter.com/search?q=Janmark) | N/A |
-| 13 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 14 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 15 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 16 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 17 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 18 | [William Nylander](http://twitter.com/search?q=William+Nylander) | N/A |
-| 19 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 20 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 21 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 22 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
-| 23 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 24 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 25 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 26 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 27 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 28 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 29 | [Espinal](http://twitter.com/search?q=Espinal) | N/A |
-| 30 | [Carey Price](http://twitter.com/search?q=Carey+Price) | N/A |
-| 31 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 32 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
-| 33 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 34 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 35 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 36 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
-| 37 | [Lucas Condotta](http://twitter.com/search?q=Lucas+Condotta) | N/A |
-| 38 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 39 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 40 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 4 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 5 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 6 | [#LetsGoOilers](http://twitter.com/search?q=%23LetsGoOilers) | N/A |
+| 7 | [John Garrett](http://twitter.com/search?q=John+Garrett) | N/A |
+| 8 | [Garland](http://twitter.com/search?q=Garland) | Garland is a decorative wreath or chain of flowers, leaves, or other material, typically made to hang on a wall, window, door, or around a banister. It is often used as a symbol of celebration and victory. In English, the word "garland" can also refer to an award or honor bestowed upon someone. |
+| 9 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 10 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 11 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 12 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 13 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 14 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 15 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
+| 16 | [Janmark](http://twitter.com/search?q=Janmark) | N/A |
+| 17 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 18 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 19 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 20 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 21 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 22 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 23 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 24 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 25 | [Petey](http://twitter.com/search?q=Petey) | N/A |
+| 26 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 27 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 28 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 29 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 30 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
+| 31 | [LUKE HUGHES](http://twitter.com/search?q=LUKE+HUGHES) | N/A |
+| 32 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 33 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 34 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 35 | [Espinal](http://twitter.com/search?q=Espinal) | N/A |
+| 36 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 37 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 38 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 39 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
+| 40 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
 | 41 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 42 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 43 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 44 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 45 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 46 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 48 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
-| 49 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 42 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 43 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 44 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 45 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
 
 
 

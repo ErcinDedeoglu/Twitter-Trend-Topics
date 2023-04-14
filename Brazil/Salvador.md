@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-04-14 04:17:04 UTC`
+📆 Last Updated: `2023-04-14 05:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 1 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
 | 2 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 3 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 4 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 5 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 6 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 7 | [#BBB233](http://twitter.com/search?q=%23BBB233) | N/A |
-| 8 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 9 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 3 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 4 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 5 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 6 | [#BBB233](http://twitter.com/search?q=%23BBB233) | N/A |
+| 7 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 8 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 9 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
 | 10 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
 | 11 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 12 | [demi lovato](http://twitter.com/search?q=demi+lovato) | N/A |
-| 13 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 14 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 15 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
-| 16 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 17 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
-| 18 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 19 | [#DAYVermelhoFarol](http://twitter.com/search?q=%23DAYVermelhoFarol) | N/A |
-| 20 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
-| 21 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
-| 22 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 23 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 24 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 25 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 26 | [O Flamengo](http://twitter.com/search?q=O+Flamengo) | N/A |
-| 27 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 28 | [#Santos111](http://twitter.com/search?q=%23Santos111) | N/A |
-| 29 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 30 | [BARROS](http://twitter.com/search?q=BARROS) | N/A |
-| 31 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 32 | [Que BBB](http://twitter.com/search?q=Que+BBB) | N/A |
-| 33 | [#ProvaDoLider](http://twitter.com/search?q=%23ProvaDoLider) | #ProvaDoLider is a hashtag used in Brazil to promote a leadership challenge. It translates to "Leadership Challenge" in English. The challenge encourages people to take on leadership roles and develop their skills. |
-| 34 | [DEPOIS DO FIM](http://twitter.com/search?q=DEPOIS+DO+FIM) | N/A |
-| 35 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
-| 36 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 37 | [SOCA SOCA](http://twitter.com/search?q=SOCA+SOCA) | N/A |
-| 38 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 39 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 40 | [Falsas](http://twitter.com/search?q=Falsas) | N/A |
-| 41 | [TODA MANHA VITAO](http://twitter.com/search?q=TODA+MANHA+VITAO) | N/A |
-| 42 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 43 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 44 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 45 | [zani](http://twitter.com/search?q=zani) | N/A |
-| 46 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
-| 47 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
-| 48 | [Desisto](http://twitter.com/search?q=Desisto) | N/A |
-| 49 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 50 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 12 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
+| 13 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
+| 14 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 15 | [#Santos111](http://twitter.com/search?q=%23Santos111) | N/A |
+| 16 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
+| 17 | [#DAYVermelhoFarol](http://twitter.com/search?q=%23DAYVermelhoFarol) | N/A |
+| 18 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
+| 19 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 20 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 21 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 22 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 23 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 24 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 25 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 26 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
+| 27 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
+| 28 | [DEPOIS DO FIM](http://twitter.com/search?q=DEPOIS+DO+FIM) | N/A |
+| 29 | [Myra](http://twitter.com/search?q=Myra) | N/A |
+| 30 | [Princess Diana](http://twitter.com/search?q=Princess+Diana) | Princess Diana is a title given to Diana, Princess of Wales, who was the first wife of Charles, Prince of Wales. She was an iconic figure in the United Kingdom and around the world, and her death in 1997 was met with shock and grief. |
+| 31 | [Santos Futebol Clube](http://twitter.com/search?q=Santos+Futebol+Clube) | N/A |
+| 32 | [Barros](http://twitter.com/search?q=Barros) | N/A |
+| 33 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 34 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 35 | [zani](http://twitter.com/search?q=zani) | N/A |
+| 36 | [O Flamengo](http://twitter.com/search?q=O+Flamengo) | N/A |
+| 37 | [Que BBB](http://twitter.com/search?q=Que+BBB) | N/A |
+| 38 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
+| 39 | [pedro calais](http://twitter.com/search?q=pedro+calais) | N/A |
+| 40 | [SOCA SOCA](http://twitter.com/search?q=SOCA+SOCA) | N/A |
+| 41 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 42 | [PRISCILLA](http://twitter.com/search?q=PRISCILLA) | N/A |
+| 43 | [Lagum](http://twitter.com/search?q=Lagum) | N/A |
+| 44 | [TODA MANHA VITAO](http://twitter.com/search?q=TODA+MANHA+VITAO) | N/A |
+| 45 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 46 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 47 | [Falsas](http://twitter.com/search?q=Falsas) | N/A |
+| 48 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 49 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 50 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 
 
 
