@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-14 07:17:49 UTC`
+📆 Last Updated: `2023-04-14 08:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
-| 2 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 3 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 4 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 5 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 7 | [Nola](http://twitter.com/search?q=Nola) | N/A |
-| 8 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 9 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 10 | [Crow](http://twitter.com/search?q=Crow) | N/A |
-| 11 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 12 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 13 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 14 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 15 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 16 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 17 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
-| 18 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 19 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 20 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 21 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 22 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 23 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 24 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 25 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 26 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 27 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 1 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 2 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 3 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 4 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 5 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 6 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 7 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 8 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 9 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 10 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
+| 11 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 12 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 13 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 14 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 15 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 16 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 18 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 19 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 20 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 21 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 22 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 23 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 24 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 25 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 26 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 27 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 28 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
-| 29 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 30 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 31 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 32 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 33 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 34 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 35 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 36 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 37 | [LIKE GRAH](http://twitter.com/search?q=LIKE+GRAH) | N/A |
-| 38 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
-| 39 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 40 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 41 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 42 | [KURTIS CONNER](http://twitter.com/search?q=KURTIS+CONNER) | N/A |
-| 43 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 44 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 45 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
-| 46 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 47 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 48 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 49 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
+| 29 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 30 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 31 | [Rich Paul](http://twitter.com/search?q=Rich+Paul) | N/A |
+| 32 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 33 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 34 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 35 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
+| 36 | [KURTIS CONNER](http://twitter.com/search?q=KURTIS+CONNER) | N/A |
+| 37 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 38 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 39 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 40 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 41 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 42 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
+| 43 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 44 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 45 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
+| 46 | [NY in June](http://twitter.com/search?q=NY+in+June) | N/A |
+| 47 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 48 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
+| 49 | [Pacific Division](http://twitter.com/search?q=Pacific+Division) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-14 07:17:12 UTC`
+📆 Last Updated: `2023-04-14 08:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
-| 2 | [#lpofio](http://twitter.com/search?q=%23lpofio) | N/A |
-| 3 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 4 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 5 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 6 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 7 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 8 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 9 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 10 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 3 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
+| 4 | [#lchfio](http://twitter.com/search?q=%23lchfio) | N/A |
+| 5 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 6 | [#5sosgliwice](http://twitter.com/search?q=%235sosgliwice) | N/A |
+| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 8 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 9 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 10 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
 | 11 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 12 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 13 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 14 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 15 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 12 | [Święto Chrztu Polski](http://twitter.com/search?q=%c5%9awi%c4%99to+Chrztu+Polski) | N/A |
+| 13 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 14 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 15 | [Berlingo](http://twitter.com/search?q=Berlingo) | N/A |
 | 16 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 17 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
+| 17 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
 | 18 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 19 | [satka](http://twitter.com/search?q=satka) | N/A |
+| 19 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
 | 20 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 21 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 22 | [Aguś](http://twitter.com/search?q=Agu%c5%9b) | N/A |
-| 23 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
-| 24 | [Chamstwo](http://twitter.com/search?q=Chamstwo) | N/A |
-| 25 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 26 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 27 | [Niebo](http://twitter.com/search?q=Niebo) | N/A |
-| 28 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 29 | [violi](http://twitter.com/search?q=violi) | N/A |
-| 30 | [nkwd](http://twitter.com/search?q=nkwd) | N/A |
-| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 32 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 33 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 34 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 35 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 36 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 37 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 21 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
+| 22 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 23 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
+| 24 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 25 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 26 | [Satka](http://twitter.com/search?q=Satka) | N/A |
+| 27 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 28 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
+| 29 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 30 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 31 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 32 | [Violi](http://twitter.com/search?q=Violi) | N/A |
+| 33 | [CASY](http://twitter.com/search?q=CASY) | N/A |
+| 34 | [Irlandii](http://twitter.com/search?q=Irlandii) | N/A |
+| 35 | [Gwarancja](http://twitter.com/search?q=Gwarancja) | N/A |
+| 36 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 37 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
 | 38 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
-| 39 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 40 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 41 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
-| 42 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 43 | [dagerstala](http://twitter.com/search?q=dagerstala) | N/A |
-| 44 | [Nauki](http://twitter.com/search?q=Nauki) | N/A |
-| 45 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 46 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 47 | [diduszko](http://twitter.com/search?q=diduszko) | N/A |
-| 48 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 39 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 40 | [dagerstala](http://twitter.com/search?q=dagerstala) | N/A |
+| 41 | [Kujda](http://twitter.com/search?q=Kujda) | N/A |
+| 42 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 43 | [Ministra](http://twitter.com/search?q=Ministra) | N/A |
+| 44 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 45 | [imię róży](http://twitter.com/search?q=imi%c4%99+r%c3%b3%c5%bcy) | N/A |
+| 46 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 47 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 48 | [Sobiech](http://twitter.com/search?q=Sobiech) | N/A |
 
 
 

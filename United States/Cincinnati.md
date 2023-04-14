@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cincinnati
 
-📆 Last Updated: `2023-04-14 07:17:43 UTC`
+📆 Last Updated: `2023-04-14 08:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jackets](http://twitter.com/search?q=Jackets) | N/A |
-| 2 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 3 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 4 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 5 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 6 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
-| 7 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 8 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 9 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 10 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 11 | [#INTELLECTUALPROPERTY](http://twitter.com/search?q=%23INTELLECTUALPROPERTY) | N/A |
-| 12 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 13 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 14 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 15 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 16 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 17 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 18 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 19 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
-| 20 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 21 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 22 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 23 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 24 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 25 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 26 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 27 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 28 | [LIKE GRAH](http://twitter.com/search?q=LIKE+GRAH) | N/A |
-| 29 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
-| 30 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 31 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 32 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 1 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 2 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 3 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 4 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 5 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 6 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 7 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
+| 8 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 9 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 10 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 11 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 12 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 13 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 14 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 15 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 16 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 17 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 18 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 19 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 20 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 21 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 22 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 23 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 24 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 25 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 26 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
+| 27 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 28 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 29 | [Rich Paul](http://twitter.com/search?q=Rich+Paul) | N/A |
+| 30 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 31 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 32 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
 | 33 | [KURTIS CONNER](http://twitter.com/search?q=KURTIS+CONNER) | N/A |
-| 34 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 35 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 36 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
-| 37 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 38 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 39 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 40 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
-| 41 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 42 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 43 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 44 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
-| 45 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 46 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 47 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 48 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 49 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 34 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 35 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 36 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 37 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 38 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 39 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 40 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
+| 41 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 42 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 43 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
+| 44 | [NY in June](http://twitter.com/search?q=NY+in+June) | N/A |
+| 45 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 46 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
+| 47 | [Pacific Division](http://twitter.com/search?q=Pacific+Division) | N/A |
+| 48 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 49 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
 
 
 

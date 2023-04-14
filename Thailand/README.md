@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-04-14 07:17:58 UTC`
+📆 Last Updated: `2023-04-14 08:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Thailand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#แฮปปี้สงกรานต์คับแพทริค](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%ae%e0%b8%9b%e0%b8%9b%e0%b8%b5%e0%b9%89%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%84%e0%b8%b1%e0%b8%9a%e0%b9%81%e0%b8%9e%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%84) | N/A |
+| 1 | [#WaterbombBangkok2023](http://twitter.com/search?q=%23WaterbombBangkok2023) | N/A |
 | 2 | [#ร้องข้ามกําแพงxPECK](http://twitter.com/search?q=%23%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%81%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%9e%e0%b8%87xPECK) | N/A |
-| 3 | [Patrick Happy Songkran](http://twitter.com/search?q=Patrick+Happy+Songkran) | N/A |
+| 3 | [#สงกรานต์มีทุกปีรักซีมีทุกวัน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%9b%e0%b8%b5%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%8b%e0%b8%b5%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99) | N/A |
 | 4 | [#SSofLoveinTheAirTokyoDay1](http://twitter.com/search?q=%23SSofLoveinTheAirTokyoDay1) | N/A |
-| 5 | [#WaterbombBangkok2023](http://twitter.com/search?q=%23WaterbombBangkok2023) | N/A |
-| 6 | [#SummerExplorationxMileApo](http://twitter.com/search?q=%23SummerExplorationxMileApo) | N/A |
-| 7 | [HOLD YOUR HAND14 ENGFA](http://twitter.com/search?q=HOLD+YOUR+HAND14+ENGFA) | N/A |
-| 8 | [SUMMER WITH CHARLOTTE 14](http://twitter.com/search?q=SUMMER+WITH+CHARLOTTE+14) | N/A |
-| 9 | [My Life](http://twitter.com/search?q=My+Life) | N/A |
-| 10 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
-| 11 | [STAY WITH CHOMPU 14](http://twitter.com/search?q=STAY+WITH+CHOMPU+14) | N/A |
-| 12 | [Happy Thai New Year](http://twitter.com/search?q=Happy+Thai+New+Year) | N/A |
+| 5 | [#SummerExplorationxMileApo](http://twitter.com/search?q=%23SummerExplorationxMileApo) | N/A |
+| 6 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
+| 7 | [TAWAN ARB DAO RE12](http://twitter.com/search?q=TAWAN+ARB+DAO+RE12) | N/A |
+| 8 | [HOLD YOUR HAND14 ENGFA](http://twitter.com/search?q=HOLD+YOUR+HAND14+ENGFA) | N/A |
+| 9 | [SUMMER WITH CHARLOTTE 14](http://twitter.com/search?q=SUMMER+WITH+CHARLOTTE+14) | N/A |
+| 10 | [My Life](http://twitter.com/search?q=My+Life) | N/A |
+| 11 | [Happy Thai New Year](http://twitter.com/search?q=Happy+Thai+New+Year) | N/A |
+| 12 | [Peatwasu in Tokyo](http://twitter.com/search?q=Peatwasu+in+Tokyo) | N/A |
 | 13 | [Road to D-DAY](http://twitter.com/search?q=Road+to+D-DAY) | N/A |
-| 14 | [Seoul](http://twitter.com/search?q=Seoul) | N/A |
-| 15 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 16 | [Parc Paragon](http://twitter.com/search?q=Parc+Paragon) | N/A |
-| 17 | [14 MORNING YANGREBA](http://twitter.com/search?q=14+MORNING+YANGREBA) | N/A |
-| 18 | [GoodDay Natruja](http://twitter.com/search?q=GoodDay+Natruja) | N/A |
-| 19 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 20 | [#สาดน้ําสาดรักกลัฟซาร์เต้](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%95%e0%b9%89) | N/A |
-| 21 | [#YUGYEOM](http://twitter.com/search?q=%23YUGYEOM) | #YUGYEOM is the hashtag used to refer to the South Korean singer and dancer, Yugyeom, who is a member of the K-pop group GOT7. The hashtag is used by fans to show their support for him and his music. |
-| 22 | [#เป๊กผลิตโชค](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%8a%e0%b8%81%e0%b8%9c%e0%b8%a5%e0%b8%b4%e0%b8%95%e0%b9%82%e0%b8%8a%e0%b8%84) | N/A |
+| 14 | [STAY WITH CHOMPU 14](http://twitter.com/search?q=STAY+WITH+CHOMPU+14) | N/A |
+| 15 | [Parc Paragon](http://twitter.com/search?q=Parc+Paragon) | N/A |
+| 16 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 17 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 18 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 19 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 20 | [Celine](http://twitter.com/search?q=Celine) | N/A |
+| 21 | [Dior](http://twitter.com/search?q=Dior) | Dior is a French luxury fashion house founded in 1946 by Christian Dior. The name Dior is derived from the founder's surname and is an abbreviation of his full name, Christian Dior. In English, it means "of or relating to Christian Dior". |
+| 22 | [#SongkranWithDMD](http://twitter.com/search?q=%23SongkranWithDMD) | N/A |
 | 23 | [#ถนนข้าวสาร](http://twitter.com/search?q=%23%e0%b8%96%e0%b8%99%e0%b8%99%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%aa%e0%b8%b2%e0%b8%a3) | N/A |
-| 24 | [#ส่งยิ้มส่งน้ํากับซีพฤกษ์](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
-| 25 | [#PeckPaLitChoke](http://twitter.com/search?q=%23PeckPaLitChoke) | N/A |
-| 26 | [#RollingLoudThailand2023](http://twitter.com/search?q=%23RollingLoudThailand2023) | N/A |
-| 27 | [#มีนปิงร้อนต้องสาดเลิฟ](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
-| 28 | [#TheWallSongxkrist](http://twitter.com/search?q=%23TheWallSongxkrist) | N/A |
-| 29 | [#tenlee_1001](http://twitter.com/search?q=%23tenlee_1001) | N/A |
-| 30 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 31 | [#ShowmeloveTheSeries](http://twitter.com/search?q=%23ShowmeloveTheSeries) | N/A |
-| 32 | [#Songkran2023](http://twitter.com/search?q=%23Songkran2023) | N/A |
-| 33 | [#domunditv](http://twitter.com/search?q=%23domunditv) | N/A |
-| 34 | [#ยอประแป้งหยิ่นวอร์](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%ad%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
-| 35 | [#BeOnCloud](http://twitter.com/search?q=%23BeOnCloud) | N/A |
-| 36 | [#สาดรักสาดใจให้ซีนุนิว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 37 | [#ไทนี่สาดใจส่งให้จิมมี่](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%97%e0%b8%99%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b9%83%e0%b8%88%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%88%e0%b8%b4%e0%b8%a1%e0%b8%a1%e0%b8%b5%e0%b9%88) | N/A |
-| 38 | [#ZeePruk](http://twitter.com/search?q=%23ZeePruk) | N/A |
-| 39 | [#XiaoZhanxGucci](http://twitter.com/search?q=%23XiaoZhanxGucci) | N/A |
-| 40 | [#702สวัสดีปีใหม่ไทย](http://twitter.com/search?q=%23702%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%84%e0%b8%97%e0%b8%a2) | N/A |
-| 41 | [#ประแป้งประใจปอนด์ภูวินทร์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%83%e0%b8%88%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c) | N/A |
-| 42 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 43 | [#PatrickFinkler](http://twitter.com/search?q=%23PatrickFinkler) | N/A |
-| 44 | [#สาดใจใส่ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%aa%e0%b9%88%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
-| 45 | [#ข้ามฟ้าเคียงเธอ](http://twitter.com/search?q=%23%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%84%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
-| 46 | [#สีลม](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b5%e0%b8%a5%e0%b8%a1) | N/A |
-| 47 | [#INTO1Patrick](http://twitter.com/search?q=%23INTO1Patrick) | N/A |
-| 48 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 24 | [#YUGYEOM](http://twitter.com/search?q=%23YUGYEOM) | #YUGYEOM is the hashtag used to refer to the South Korean singer and dancer, Yugyeom, who is a member of the K-pop group GOT7. The hashtag is used by fans to show their support for him and his music. |
+| 25 | [#โฟอีฟโซฮอตบุกวอเท่อบอม](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%9f%e0%b8%ad%e0%b8%b5%e0%b8%9f%e0%b9%82%e0%b8%8b%e0%b8%ae%e0%b8%ad%e0%b8%95%e0%b8%9a%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%9a%e0%b8%ad%e0%b8%a1) | N/A |
+| 26 | [#เป๊กผลิตโชค](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%8a%e0%b8%81%e0%b8%9c%e0%b8%a5%e0%b8%b4%e0%b8%95%e0%b9%82%e0%b8%8a%e0%b8%84) | N/A |
+| 27 | [#RollingLoudThailand2023](http://twitter.com/search?q=%23RollingLoudThailand2023) | N/A |
+| 28 | [#มีนปิงร้อนต้องสาดเลิฟ](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b5%e0%b8%99%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%99%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b9%80%e0%b8%a5%e0%b8%b4%e0%b8%9f) | N/A |
+| 29 | [#คุณชายมาราธอนDay3](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%8a%e0%b8%b2%e0%b8%a2%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b8%98%e0%b8%ad%e0%b8%99Day3) | N/A |
+| 30 | [#TheWallSongxkrist](http://twitter.com/search?q=%23TheWallSongxkrist) | N/A |
+| 31 | [#ส่งยิ้มส่งน้ํากับซีพฤกษ์](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%8b%e0%b8%b5%e0%b8%9e%e0%b8%a4%e0%b8%81%e0%b8%a9%e0%b9%8c) | N/A |
+| 32 | [#tenlee_1001](http://twitter.com/search?q=%23tenlee_1001) | N/A |
+| 33 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 34 | [#สาดน้ําสาดรักกลัฟซาร์เต้](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b9%89%e0%b9%8d%e0%b8%b2%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%95%e0%b9%89) | N/A |
+| 35 | [#PeckPaLitChoke](http://twitter.com/search?q=%23PeckPaLitChoke) | N/A |
+| 36 | [#สีลม](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b5%e0%b8%a5%e0%b8%a1) | N/A |
+| 37 | [#Patrickananda](http://twitter.com/search?q=%23Patrickananda) | N/A |
+| 38 | [#XiaoZhanxGucci](http://twitter.com/search?q=%23XiaoZhanxGucci) | N/A |
+| 39 | [#702สวัสดีปีใหม่ไทย](http://twitter.com/search?q=%23702%e0%b8%aa%e0%b8%a7%e0%b8%b1%e0%b8%aa%e0%b8%94%e0%b8%b5%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%84%e0%b8%97%e0%b8%a2) | N/A |
+| 40 | [#สาดรักสาดใจให้ซีนุนิว](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
+| 41 | [#ยอประแป้งหยิ่นวอร์](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%ad%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%81%e0%b8%9b%e0%b9%89%e0%b8%87%e0%b8%ab%e0%b8%a2%e0%b8%b4%e0%b9%88%e0%b8%99%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
+| 42 | [#ShowmeloveTheSeries](http://twitter.com/search?q=%23ShowmeloveTheSeries) | N/A |
+| 43 | [#Songkran](http://twitter.com/search?q=%23Songkran) | N/A |
+| 44 | [#ตะวันอาบดาวRE12](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%9a%e0%b8%94%e0%b8%b2%e0%b8%a7RE12) | N/A |
+| 45 | [#สาดใจใส่ไบร์ทวิน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b2%e0%b8%94%e0%b9%83%e0%b8%88%e0%b9%83%e0%b8%aa%e0%b9%88%e0%b9%84%e0%b8%9a%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
+| 46 | [#วันครอบครัว](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%84%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b8%a7) | N/A |
+| 47 | [#BABYMONSTERLastEvaluation](http://twitter.com/search?q=%23BABYMONSTERLastEvaluation) | N/A |
+| 48 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
 | 49 | [#BeOnGame](http://twitter.com/search?q=%23BeOnGame) | N/A |
-| 50 | [#hbdsea24th](http://twitter.com/search?q=%23hbdsea24th) | N/A |
+| 50 | [#domunditv](http://twitter.com/search?q=%23domunditv) | N/A |
 
 
 

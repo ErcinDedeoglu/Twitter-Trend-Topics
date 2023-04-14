@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-04-14 07:17:15 UTC`
+📆 Last Updated: `2023-04-14 08:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
-| 4 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
+| 2 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 3 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
+| 4 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
 | 5 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 9 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 6 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 7 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 8 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 9 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
 | 10 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
 | 11 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 12 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 14 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 16 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 17 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 18 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 19 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 21 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 22 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 23 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 24 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 25 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 26 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 27 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 28 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 29 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 30 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 31 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 32 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 33 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 34 | [gentle mates](http://twitter.com/search?q=gentle+mates) | N/A |
-| 35 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 36 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 37 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 38 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 39 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 40 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
-| 41 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 42 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 43 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 44 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 45 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 46 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
-| 47 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 48 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 49 | [Simone de Beauvoir](http://twitter.com/search?q=Simone+de+Beauvoir) | N/A |
+| 12 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 13 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 14 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 15 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 16 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 17 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 18 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 19 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 20 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 21 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 22 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
+| 23 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
+| 24 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 25 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 26 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 27 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 28 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 29 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
+| 30 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 31 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 32 | [Éric Woerth](http://twitter.com/search?q=%c3%89ric+Woerth) | N/A |
+| 33 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 34 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
+| 35 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 36 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 37 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 38 | [Nesta](http://twitter.com/search?q=Nesta) | N/A |
+| 39 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 40 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 41 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 42 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 43 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 44 | [72 Seasons](http://twitter.com/search?q=72+Seasons) | N/A |
+| 45 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 46 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 47 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 48 | [Puyol](http://twitter.com/search?q=Puyol) | N/A |
+| 49 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
 
 
 

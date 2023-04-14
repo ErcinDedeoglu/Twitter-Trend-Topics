@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-14 07:17:45 UTC`
+📆 Last Updated: `2023-04-14 08:18:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 2 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 3 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 4 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
-| 5 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 6 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 7 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 8 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 1 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 2 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 3 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 4 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 5 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 6 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 7 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 8 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
 | 9 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
-| 10 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 11 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 12 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 13 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 10 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 11 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 12 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 13 | [Effie](http://twitter.com/search?q=Effie) | N/A |
 | 14 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 15 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 16 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 17 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 18 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 19 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 20 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
-| 21 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 22 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 23 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 24 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 25 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 26 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 27 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 28 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 29 | [LIKE GRAH](http://twitter.com/search?q=LIKE+GRAH) | N/A |
-| 30 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
-| 31 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 32 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 33 | [KURTIS CONNER](http://twitter.com/search?q=KURTIS+CONNER) | N/A |
-| 34 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 35 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 36 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 37 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 38 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
-| 39 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 40 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
-| 41 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 42 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 43 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
-| 44 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 45 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 46 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 47 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 48 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 49 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 50 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 15 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 16 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 18 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 19 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 20 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 21 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 22 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 23 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 24 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 25 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 26 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 27 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
+| 28 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 29 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 30 | [Rich Paul](http://twitter.com/search?q=Rich+Paul) | N/A |
+| 31 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 32 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 33 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
+| 34 | [KURTIS CONNER](http://twitter.com/search?q=KURTIS+CONNER) | N/A |
+| 35 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 36 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 37 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 38 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 39 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 40 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 41 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
+| 42 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 43 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 44 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
+| 45 | [NY in June](http://twitter.com/search?q=NY+in+June) | N/A |
+| 46 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 47 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
+| 48 | [Pacific Division](http://twitter.com/search?q=Pacific+Division) | N/A |
+| 49 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 50 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
 
 
 

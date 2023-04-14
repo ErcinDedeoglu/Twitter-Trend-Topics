@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-04-14 07:17:02 UTC`
+📆 Last Updated: `2023-04-14 08:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
 | 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 3 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 5 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 7 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 8 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 9 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 10 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 11 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 12 | [Daily Quordle 445](http://twitter.com/search?q=Daily+Quordle+445) | N/A |
-| 13 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 14 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 15 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 3 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 4 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 6 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 7 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 8 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 9 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 10 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
+| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 12 | [#WHFreeBet](http://twitter.com/search?q=%23WHFreeBet) | N/A |
+| 13 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 14 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 15 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
 | 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 17 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 19 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 20 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 21 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 24 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 25 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 26 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 27 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 28 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 29 | [shishkin](http://twitter.com/search?q=shishkin) | N/A |
-| 30 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 32 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 33 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 34 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 35 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 17 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 18 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 19 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 20 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 21 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 22 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 23 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 24 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 25 | [Daily Quordle 445](http://twitter.com/search?q=Daily+Quordle+445) | N/A |
+| 26 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 28 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 30 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 31 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 32 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
+| 35 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
 | 36 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 37 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 39 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 40 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 41 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 43 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 44 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 45 | [ben johnson](http://twitter.com/search?q=ben+johnson) | N/A |
-| 46 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 47 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 48 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 49 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 37 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 38 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
+| 39 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 40 | [ben johnson](http://twitter.com/search?q=ben+johnson) | N/A |
+| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 42 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 43 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 44 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [Daily Sequence Quordle 445](http://twitter.com/search?q=Daily+Sequence+Quordle+445) | N/A |
+| 47 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
+| 48 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 49 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 
 
 

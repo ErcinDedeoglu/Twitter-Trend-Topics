@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-14 07:17:14 UTC`
+📆 Last Updated: `2023-04-14 08:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 2 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 3 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
 | 4 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 6 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 8 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 5 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 6 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
 | 9 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
 | 10 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 11 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 13 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 16 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 17 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 18 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 20 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 21 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 22 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 23 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 24 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 25 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 26 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 27 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 28 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 29 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 30 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 31 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 32 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 33 | [gentle mates](http://twitter.com/search?q=gentle+mates) | N/A |
-| 34 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 35 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 12 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 13 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 14 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 15 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 17 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 18 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
+| 19 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 20 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 21 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 22 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
+| 23 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 24 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 25 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 26 | [Woerth](http://twitter.com/search?q=Woerth) | N/A |
+| 27 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 28 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
+| 29 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 30 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 31 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 32 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 33 | [Anne Sinclair](http://twitter.com/search?q=Anne+Sinclair) | N/A |
+| 34 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 35 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
 | 36 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 37 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 38 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 39 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
-| 40 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 41 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 42 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 43 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 44 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 45 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
-| 46 | [Rose](http://twitter.com/search?q=Rose) | N/A |
-| 47 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 37 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 38 | [Nesta](http://twitter.com/search?q=Nesta) | N/A |
+| 39 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 40 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 41 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 42 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 43 | [72 Seasons](http://twitter.com/search?q=72+Seasons) | N/A |
+| 44 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 45 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 46 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 47 | [Puyol](http://twitter.com/search?q=Puyol) | N/A |
 
 
 

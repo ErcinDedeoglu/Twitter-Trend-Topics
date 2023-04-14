@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-04-14 07:17:29 UTC`
+📆 Last Updated: `2023-04-14 08:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Philippines](</Philippines>)
 | 1 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
 | 2 | [Atty](http://twitter.com/search?q=Atty) | N/A |
 | 3 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
-| 4 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 5 | [#FML_D10](http://twitter.com/search?q=%23FML_D10) | N/A |
-| 6 | [MAGANDANG BUHAY VIBRENT](http://twitter.com/search?q=MAGANDANG+BUHAY+VIBRENT) | N/A |
-| 7 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 8 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
+| 4 | [#aespa_is_back](http://twitter.com/search?q=%23aespa_is_back) | N/A |
+| 5 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
+| 6 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
+| 7 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
+| 8 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
 | 9 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 10 | [KATH FOR GATORADE](http://twitter.com/search?q=KATH+FOR+GATORADE) | N/A |
-| 11 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
-| 12 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
-| 13 | [d1 kdlexpeta comeback](http://twitter.com/search?q=d1+kdlexpeta+comeback) | N/A |
-| 14 | [Salamat Manila](http://twitter.com/search?q=Salamat+Manila) | N/A |
-| 15 | [Lawyers](http://twitter.com/search?q=Lawyers) | N/A |
-| 16 | [d-1 to paraiso](http://twitter.com/search?q=d-1+to+paraiso) | N/A |
-| 17 | [MALIGAYANG PAGBABALIK](http://twitter.com/search?q=MALIGAYANG+PAGBABALIK) | N/A |
-| 18 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
-| 19 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 20 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 21 | [LET JENNIE ATTEND CANNES](http://twitter.com/search?q=LET+JENNIE+ATTEND+CANNES) | N/A |
-| 22 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 23 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 24 | [I WannaBe](http://twitter.com/search?q=I+WannaBe) | N/A |
-| 25 | [dusty amber concept](http://twitter.com/search?q=dusty+amber+concept) | N/A |
-| 26 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
-| 27 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 28 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
-| 29 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 30 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
-| 31 | [University of the Philippines](http://twitter.com/search?q=University+of+the+Philippines) | N/A |
-| 32 | [Attorneys](http://twitter.com/search?q=Attorneys) | N/A |
-| 33 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 34 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
-| 35 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
-| 36 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 37 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
-| 38 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 39 | [BGYO VIVIDLIFE WITH XIAOMI](http://twitter.com/search?q=BGYO+VIVIDLIFE+WITH+XIAOMI) | N/A |
-| 40 | [Kobe Demisana](http://twitter.com/search?q=Kobe+Demisana) | N/A |
-| 41 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 42 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 43 | [Irene](http://twitter.com/search?q=Irene) | N/A |
-| 44 | [Princess Diana](http://twitter.com/search?q=Princess+Diana) | Princess Diana is a title given to Diana, Princess of Wales, who was the first wife of Charles, Prince of Wales. She was an iconic figure in the United Kingdom and around the world, and her death in 1997 was met with shock and grief. |
-| 45 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 46 | [maymay autodeadma soon](http://twitter.com/search?q=maymay+autodeadma+soon) | N/A |
-| 47 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
-| 48 | [junhoe as yang jinho](http://twitter.com/search?q=junhoe+as+yang+jinho) | N/A |
-| 49 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 50 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 10 | [d1 kdlexpeta comeback](http://twitter.com/search?q=d1+kdlexpeta+comeback) | N/A |
+| 11 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
+| 12 | [MAGANDANG BUHAY VIBRENT](http://twitter.com/search?q=MAGANDANG+BUHAY+VIBRENT) | N/A |
+| 13 | [HAPPY 1ST YEAR KARLIAN](http://twitter.com/search?q=HAPPY+1ST+YEAR+KARLIAN) | N/A |
+| 14 | [MALIGAYANG PAGBABALIK](http://twitter.com/search?q=MALIGAYANG+PAGBABALIK) | N/A |
+| 15 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
+| 16 | [ABOGADO NA AKO](http://twitter.com/search?q=ABOGADO+NA+AKO) | N/A |
+| 17 | [d-1 to paraiso](http://twitter.com/search?q=d-1+to+paraiso) | N/A |
+| 18 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 19 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
+| 20 | [Salamat Manila](http://twitter.com/search?q=Salamat+Manila) | N/A |
+| 21 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 22 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 23 | [New Lawyers](http://twitter.com/search?q=New+Lawyers) | N/A |
+| 24 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 25 | [KATH FOR GATORADE](http://twitter.com/search?q=KATH+FOR+GATORADE) | N/A |
+| 26 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
+| 27 | [fml official photo 2](http://twitter.com/search?q=fml+official+photo+2) | N/A |
+| 28 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
+| 29 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
+| 30 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 31 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
+| 32 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
+| 33 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 34 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
+| 35 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 36 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 37 | [Attorneys](http://twitter.com/search?q=Attorneys) | N/A |
+| 38 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
+| 39 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 40 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 41 | [San Beda](http://twitter.com/search?q=San+Beda) | N/A |
+| 42 | [maymay autodeadma soon](http://twitter.com/search?q=maymay+autodeadma+soon) | N/A |
+| 43 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 44 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
+| 45 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 46 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 47 | [superiority performancevideo](http://twitter.com/search?q=superiority+performancevideo) | N/A |
+| 48 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 49 | [junhoe as yang jinho](http://twitter.com/search?q=junhoe+as+yang+jinho) | N/A |
+| 50 | [Haram](http://twitter.com/search?q=Haram) | N/A |
 
 
 
