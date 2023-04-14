@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-04-14 15:17:43 UTC`
+📆 Last Updated: `2023-04-14 16:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 2 | [Johan Pehrson](http://twitter.com/search?q=Johan+Pehrson) | N/A |
 | 3 | [Kriminalvården](http://twitter.com/search?q=Kriminalv%c3%a5rden) | N/A |
 | 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 7 | [Riksbanken](http://twitter.com/search?q=Riksbanken) | N/A |
-| 8 | [Erika Bjerström](http://twitter.com/search?q=Erika+Bjerstr%c3%b6m) | N/A |
+| 5 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 7 | [riksbanken](http://twitter.com/search?q=riksbanken) | N/A |
+| 8 | [erika bjerström](http://twitter.com/search?q=erika+bjerstr%c3%b6m) | N/A |
 | 9 | [Rågsved](http://twitter.com/search?q=R%c3%a5gsved) | N/A |
 | 10 | [Mamma](http://twitter.com/search?q=Mamma) | N/A |
 | 11 | [Fett](http://twitter.com/search?q=Fett) | N/A |
@@ -30,29 +30,29 @@ This is top 50 for [Sweden](</Sweden>)
 | 13 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 14 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
 | 15 | [Emil](http://twitter.com/search?q=Emil) | N/A |
-| 16 | [Barnkonventionen](http://twitter.com/search?q=Barnkonventionen) | N/A |
+| 16 | [barnkonventionen](http://twitter.com/search?q=barnkonventionen) | N/A |
 | 17 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
 | 18 | [Öresundstågen](http://twitter.com/search?q=%c3%96resundst%c3%a5gen) | N/A |
 | 19 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
 | 20 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 21 | [Mölndal](http://twitter.com/search?q=M%c3%b6lndal) | N/A |
 | 22 | [gunnar strömmer](http://twitter.com/search?q=gunnar+str%c3%b6mmer) | N/A |
-| 23 | [armenien](http://twitter.com/search?q=armenien) | N/A |
-| 24 | [Liberalerna](http://twitter.com/search?q=Liberalerna) | N/A |
-| 25 | [pappa](http://twitter.com/search?q=pappa) | N/A |
+| 23 | [Liberalerna](http://twitter.com/search?q=Liberalerna) | N/A |
+| 24 | [armenien](http://twitter.com/search?q=armenien) | N/A |
+| 25 | [Pappa](http://twitter.com/search?q=Pappa) | N/A |
 | 26 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 27 | [Malte](http://twitter.com/search?q=Malte) | N/A |
 | 28 | [Fredrik](http://twitter.com/search?q=Fredrik) | N/A |
-| 29 | [KPIF](http://twitter.com/search?q=KPIF) | N/A |
+| 29 | [kpif](http://twitter.com/search?q=kpif) | N/A |
 | 30 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 31 | [Damkronorna](http://twitter.com/search?q=Damkronorna) | N/A |
 | 32 | [Frunze Saghatelyan](http://twitter.com/search?q=Frunze+Saghatelyan) | N/A |
 | 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 35 | [Sylvegård](http://twitter.com/search?q=Sylveg%c3%a5rd) | N/A |
+| 34 | [Sylvegård](http://twitter.com/search?q=Sylveg%c3%a5rd) | N/A |
+| 35 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 36 | [önerud](http://twitter.com/search?q=%c3%b6nerud) | N/A |
-| 37 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 38 | [nooshi](http://twitter.com/search?q=nooshi) | N/A |
+| 37 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
+| 38 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
 | 39 | [sis-hem](http://twitter.com/search?q=sis-hem) | N/A |
 | 40 | [Sverigekortet](http://twitter.com/search?q=Sverigekortet) | N/A |
 | 41 | [Gent](http://twitter.com/search?q=Gent) | N/A |
@@ -60,10 +60,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 43 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
 | 44 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 45 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 46 | [Bengt Westerberg](http://twitter.com/search?q=Bengt+Westerberg) | N/A |
-| 47 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
-| 48 | [jadå](http://twitter.com/search?q=jad%c3%a5) | N/A |
-| 49 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 46 | [Göteborg](http://twitter.com/search?q=G%c3%b6teborg) | N/A |
+| 47 | [jadå](http://twitter.com/search?q=jad%c3%a5) | N/A |
+| 48 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 49 | [lokförare](http://twitter.com/search?q=lokf%c3%b6rare) | N/A |
 
 
 

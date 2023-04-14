@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-14 15:17:40 UTC`
+📆 Last Updated: `2023-04-14 16:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,27 +43,27 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 26 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 28 | [bijlow](http://twitter.com/search?q=bijlow) | N/A |
-| 29 | [Joan Franka](http://twitter.com/search?q=Joan+Franka) | N/A |
-| 30 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
-| 31 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
-| 32 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 33 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
-| 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 35 | [bijlmerramp](http://twitter.com/search?q=bijlmerramp) | N/A |
-| 36 | [Rotterdammers](http://twitter.com/search?q=Rotterdammers) | N/A |
-| 37 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 38 | [Common](http://twitter.com/search?q=Common) | N/A |
-| 39 | [paixao](http://twitter.com/search?q=paixao) | N/A |
-| 40 | [Miek](http://twitter.com/search?q=Miek) | N/A |
-| 41 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 42 | [Leefbaar](http://twitter.com/search?q=Leefbaar) | N/A |
+| 29 | [Rinus](http://twitter.com/search?q=Rinus) | N/A |
+| 30 | [Joan Franka](http://twitter.com/search?q=Joan+Franka) | N/A |
+| 31 | [Zomergasten](http://twitter.com/search?q=Zomergasten) | N/A |
+| 32 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
+| 33 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 34 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
+| 35 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 36 | [bijlmerramp](http://twitter.com/search?q=bijlmerramp) | N/A |
+| 37 | [Rotterdammers](http://twitter.com/search?q=Rotterdammers) | N/A |
+| 38 | [paixao](http://twitter.com/search?q=paixao) | N/A |
+| 39 | [Common](http://twitter.com/search?q=Common) | N/A |
+| 40 | [STREAM TO 2B FOR JUNGKOOK](http://twitter.com/search?q=STREAM+TO+2B+FOR+JUNGKOOK) | N/A |
+| 41 | [Miek](http://twitter.com/search?q=Miek) | N/A |
+| 42 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 43 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 44 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 45 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 46 | [Vaderlands](http://twitter.com/search?q=Vaderlands) | N/A |
-| 47 | [Bart de Wever](http://twitter.com/search?q=Bart+de+Wever) | N/A |
-| 48 | [Gijs van Dijk](http://twitter.com/search?q=Gijs+van+Dijk) | N/A |
-| 49 | [szymanski](http://twitter.com/search?q=szymanski) | N/A |
+| 46 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 47 | [Vaderlands](http://twitter.com/search?q=Vaderlands) | N/A |
+| 48 | [Bart de Wever](http://twitter.com/search?q=Bart+de+Wever) | N/A |
+| 49 | [Gijs van Dijk](http://twitter.com/search?q=Gijs+van+Dijk) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-14 15:18:14 UTC`
+📆 Last Updated: `2023-04-14 16:19:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الضفه_درع_القدس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b6%d9%81%d9%87_%d8%af%d8%b1%d8%b9_%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
+| 1 | [#يوم_القدس_العالمي](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%82%d8%af%d8%b3_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a) | N/A |
 | 2 | [#الجمعه_العظيمه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87_%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
 | 3 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
 | 4 | [#١٣_نيسان](http://twitter.com/search?q=%23%d9%a1%d9%a3_%d9%86%d9%8a%d8%b3%d8%a7%d9%86) | N/A |
@@ -50,9 +50,9 @@ This is top 50 for Lebanon
 | 33 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 34 | [ذكري اليمه](http://twitter.com/search?q=%d8%b0%d9%83%d8%b1%d9%8a+%d8%a7%d9%84%d9%8a%d9%85%d9%87) | N/A |
 | 35 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
-| 36 | [لتحرير فلسطين](http://twitter.com/search?q=%d9%84%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1+%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
-| 37 | [وعد الاخره](http://twitter.com/search?q=%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%87) | N/A |
-| 38 | [ياسر عرفات](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%b9%d8%b1%d9%81%d8%a7%d8%aa) | N/A |
+| 36 | [ياسر عرفات](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%b9%d8%b1%d9%81%d8%a7%d8%aa) | N/A |
+| 37 | [لتحرير فلسطين](http://twitter.com/search?q=%d9%84%d8%aa%d8%ad%d8%b1%d9%8a%d8%b1+%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
+| 38 | [وعد الاخره](http://twitter.com/search?q=%d9%88%d8%b9%d8%af+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%87) | N/A |
 | 39 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
 | 40 | [رفيق الحريري](http://twitter.com/search?q=%d8%b1%d9%81%d9%8a%d9%82+%d8%a7%d9%84%d8%ad%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
 | 41 | [سبت النور](http://twitter.com/search?q=%d8%b3%d8%a8%d8%aa+%d8%a7%d9%84%d9%86%d9%88%d8%b1) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Lebanon
 | 44 | [والبحرين](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
 | 45 | [القاهرة](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%a7%d9%87%d8%b1%d8%a9) | N/A |
 | 46 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | N/A |
-| 47 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
-| 48 | [كوريا الشماليه](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 49 | [اللغه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d8%ba%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 50 | [الثلاثاء المقبل](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 47 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 48 | [علي المياه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%8a%d8%a7%d9%87) | N/A |
+| 49 | [كوريا الشماليه](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d9%8a%d8%a7+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 50 | [الأردن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%b1%d8%af%d9%86) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-04-14 15:17:31 UTC`
+📆 Last Updated: `2023-04-14 16:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,32 +28,32 @@ This is top 50 for [Colombia](</Colombia>)
 | 11 | [#anadenadie](http://twitter.com/search?q=%23anadenadie) | N/A |
 | 12 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
 | 13 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
-| 14 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 15 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 16 | [Homer](http://twitter.com/search?q=Homer) | N/A |
-| 17 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 20 | [Revista Time](http://twitter.com/search?q=Revista+Time) | N/A |
-| 21 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
-| 22 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
-| 23 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 24 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 25 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 26 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
+| 14 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
+| 15 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 16 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 17 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 18 | [Homer](http://twitter.com/search?q=Homer) | N/A |
+| 19 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 21 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 22 | [Revista Time](http://twitter.com/search?q=Revista+Time) | N/A |
+| 23 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
+| 24 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 25 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 26 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 27 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 28 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 29 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 30 | [el alambrado](http://twitter.com/search?q=el+alambrado) | N/A |
-| 31 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 32 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 33 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 34 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 35 | [mantilla](http://twitter.com/search?q=mantilla) | N/A |
+| 28 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 29 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 30 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 31 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 32 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 33 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
+| 34 | [mantilla](http://twitter.com/search?q=mantilla) | N/A |
+| 35 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
 | 36 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
-| 37 | [quindío](http://twitter.com/search?q=quind%c3%ado) | N/A |
-| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 39 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
+| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 38 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
+| 39 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
 | 40 | [Haydar](http://twitter.com/search?q=Haydar) | N/A |
 | 41 | [Abogade](http://twitter.com/search?q=Abogade) | N/A |
 | 42 | [escudero](http://twitter.com/search?q=escudero) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for [Colombia](</Colombia>)
 | 45 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
 | 46 | [freddy rincón](http://twitter.com/search?q=freddy+rinc%c3%b3n) | N/A |
 | 47 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 48 | [jota pe](http://twitter.com/search?q=jota+pe) | N/A |
-| 49 | [Lina](http://twitter.com/search?q=Lina) | N/A |
-| 50 | [Canciller](http://twitter.com/search?q=Canciller) | N/A |
+| 48 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 49 | [jota pe](http://twitter.com/search?q=jota+pe) | N/A |
+| 50 | [Lina](http://twitter.com/search?q=Lina) | N/A |
 
 
 

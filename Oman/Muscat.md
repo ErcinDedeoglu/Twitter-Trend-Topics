@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-04-14 15:17:58 UTC`
+📆 Last Updated: `2023-04-14 16:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Oman](</Oman>)
 | 13 | [البطاقه الايتمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%a7%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d9%8a%d8%aa%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 14 | [علي الرحيل](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d9%84) | N/A |
 | 15 | [وزير الاعلام](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 16 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 17 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 18 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
-| 19 | [ابريل الجاري](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
+| 16 | [سلم علي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85+%d8%b9%d9%84%d9%8a) | سلم علي is an Arabic phrase that translates to "Peace be upon you" in English. It is a common greeting used in the Middle East and other parts of the world. |
+| 17 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 18 | [ابريل الجاري](http://twitter.com/search?q=%d8%a7%d8%a8%d8%b1%d9%8a%d9%84+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
+| 19 | [Oman](http://twitter.com/search?q=Oman) | N/A |
 | 20 | [الافطار الجماعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%81%d8%b7%d8%a7%d8%b1+%d8%a7%d9%84%d8%ac%d9%85%d8%a7%d8%b9%d9%8a) | N/A |
 | 21 | [نادر بن فيصل البوسعيدي](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d8%b1+%d8%a8%d9%86+%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d8%a8%d9%88%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
 | 22 | [العلاقات الدبلوماسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%a8%d9%84%d9%88%d9%85%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
 | 23 | [الاسماك العمانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d9%85%d8%a7%d9%83+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 24 | [القطاعين العام](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
 | 25 | [الايام المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 26 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
-| 27 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 28 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
-| 29 | [الاتفاق البحريني القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
-| 30 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 31 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 32 | [جهاز الاستثمار](http://twitter.com/search?q=%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1) | N/A |
-| 33 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 34 | [جريان الشعاب](http://twitter.com/search?q=%d8%ac%d8%b1%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b4%d8%b9%d8%a7%d8%a8) | N/A |
-| 35 | [الدوام الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
-| 36 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
-| 37 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 38 | [ابو مريم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
-| 39 | [سلمان الفارسي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d8%b3%d9%8a) | N/A |
-| 40 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 41 | [العيد السبت](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 42 | [الخدمات المصرفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a%d9%87) | N/A |
-| 43 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 44 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 45 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 46 | [بحر العرب](http://twitter.com/search?q=%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 47 | [علي المركز الثاني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 48 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 49 | [الميلان](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%8a%d9%84%d8%a7%d9%86) | N/A |
-| 50 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 26 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 27 | [مجلس الشوري](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%b4%d9%88%d8%b1%d9%8a) | N/A |
+| 28 | [الاتفاق البحريني القطري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d9%81%d8%a7%d9%82+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d8%b1%d9%8a) | N/A |
+| 29 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 30 | [موتي المسلمين](http://twitter.com/search?q=%d9%85%d9%88%d8%aa%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 31 | [جهاز الاستثمار](http://twitter.com/search?q=%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%ab%d9%85%d8%a7%d8%b1) | N/A |
+| 32 | [جريان الشعاب](http://twitter.com/search?q=%d8%ac%d8%b1%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b4%d8%b9%d8%a7%d8%a8) | N/A |
+| 33 | [الدوام الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
+| 34 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
+| 35 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
+| 36 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 37 | [ابو مريم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 38 | [سلمان الفارسي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d8%b3%d9%8a) | N/A |
+| 39 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 40 | [العيد السبت](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 41 | [الخدمات المصرفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a%d9%87) | N/A |
+| 42 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 43 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 44 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 45 | [بحر العرب](http://twitter.com/search?q=%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 46 | [علي المركز الثاني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 47 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 48 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 49 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 50 | [العوض الجميل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d8%b6+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
 
 
 

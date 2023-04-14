@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-14 15:17:51 UTC`
+📆 Last Updated: `2023-04-14 16:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 2 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
 | 3 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
 | 4 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 5 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 6 | [#اخوهم_العايل_الوحيد](http://twitter.com/search?q=%23%d8%a7%d8%ae%d9%88%d9%87%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af) | N/A |
+| 5 | [#اخوهم_العايل_الوحيد](http://twitter.com/search?q=%23%d8%a7%d8%ae%d9%88%d9%87%d9%85_%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84_%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af) | N/A |
+| 6 | [بن ناصر](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
 | 7 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
 | 8 | [مجلس الامه](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
 | 9 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |

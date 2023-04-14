@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-14 15:18:16 UTC`
+📆 Last Updated: `2023-04-14 16:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,9 +29,9 @@ This is top 50 for Portugal
 | 12 | [Carlos Pereira](http://twitter.com/search?q=Carlos+Pereira) | N/A |
 | 13 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
 | 14 | [Turim](http://twitter.com/search?q=Turim) | N/A |
-| 15 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
-| 16 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
-| 17 | [Marília Mendonça](http://twitter.com/search?q=Mar%c3%adlia+Mendon%c3%a7a) | N/A |
+| 15 | [Marília Mendonça](http://twitter.com/search?q=Mar%c3%adlia+Mendon%c3%a7a) | N/A |
+| 16 | [Chiesa](http://twitter.com/search?q=Chiesa) | Chiesa is an Italian word meaning "church". It is derived from the Latin word ecclesia, which also means "church". |
+| 17 | [Nuno Santos](http://twitter.com/search?q=Nuno+Santos) | N/A |
 | 18 | [Perin](http://twitter.com/search?q=Perin) | N/A |
 | 19 | [Amorim](http://twitter.com/search?q=Amorim) | N/A |
 | 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
@@ -42,15 +42,15 @@ This is top 50 for Portugal
 | 25 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
 | 26 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
 | 27 | [Danilo](http://twitter.com/search?q=Danilo) | Danilo is a masculine given name of Italian, Spanish, Portuguese, and Slavic origin. It is derived from the Latin name Daniel, meaning "God is my judge". |
-| 28 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 29 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 30 | [#sonsatos](http://twitter.com/search?q=%23sonsatos) | N/A |
+| 28 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 29 | [#sonsatos](http://twitter.com/search?q=%23sonsatos) | N/A |
+| 30 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
 | 31 | [zezinho](http://twitter.com/search?q=zezinho) | N/A |
 | 32 | [#JUVSCP](http://twitter.com/search?q=%23JUVSCP) | N/A |
 | 33 | [Pote](http://twitter.com/search?q=Pote) | N/A |
 | 34 | [Susana](http://twitter.com/search?q=Susana) | N/A |
 | 35 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 36 | [matheus reis](http://twitter.com/search?q=matheus+reis) | N/A |
+| 36 | [Matheus Reis](http://twitter.com/search?q=Matheus+Reis) | N/A |
 | 37 | [Boaventura](http://twitter.com/search?q=Boaventura) | N/A |
 | 38 | [Filipe](http://twitter.com/search?q=Filipe) | N/A |
 | 39 | [Inácio](http://twitter.com/search?q=In%c3%a1cio) | N/A |

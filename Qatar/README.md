@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-14 15:18:16 UTC`
+📆 Last Updated: `2023-04-14 16:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -64,7 +64,7 @@ This is top 50 for Qatar
 | 47 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 48 | [الغفور الرحيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d9%81%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
 | 49 | [وسوريا](http://twitter.com/search?q=%d9%88%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | N/A |
-| 50 | [جعفر العمده](http://twitter.com/search?q=%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d8%b9%d9%85%d8%af%d9%87) | N/A |
+| 50 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 
 
 

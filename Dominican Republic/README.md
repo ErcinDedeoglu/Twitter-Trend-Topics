@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-14 15:18:12 UTC`
+📆 Last Updated: `2023-04-14 16:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,17 +16,17 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [alianza opositora](http://twitter.com/search?q=alianza+opositora) | N/A |
-| 2 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
+| 2 | [yadira morel](http://twitter.com/search?q=yadira+morel) | N/A |
 | 3 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
 | 4 | [wendy sherman](http://twitter.com/search?q=wendy+sherman) | N/A |
 | 5 | [Gallup](http://twitter.com/search?q=Gallup) | Gallup is an American analytics and advisory company that provides research-based performance management solutions. It is best known for its public opinion polls conducted worldwide. The name Gallup is derived from the founder, George Gallup, who established the company in 1935. The company's core purpose is to measure, analyze, and understand public opinion and behavior to help leaders make informed decisions. |
 | 6 | [antonio duvergé](http://twitter.com/search?q=antonio+duverg%c3%a9) | N/A |
-| 7 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
-| 8 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 7 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 8 | [francisco javier](http://twitter.com/search?q=francisco+javier) | N/A |
 | 9 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 10 | [doble reserva](http://twitter.com/search?q=doble+reserva) | N/A |
-| 11 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 12 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 10 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 11 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 12 | [Doble Reserva](http://twitter.com/search?q=Doble+Reserva) | N/A |
 | 13 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
 | 14 | [el memiso](http://twitter.com/search?q=el+memiso) | N/A |
 | 15 | [Florida](http://twitter.com/search?q=Florida) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Dominican Republic
 | 44 | [miguel vargas](http://twitter.com/search?q=miguel+vargas) | N/A |
 | 45 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
 | 46 | [carmen renata](http://twitter.com/search?q=carmen+renata) | N/A |
-| 47 | [junta central electoral](http://twitter.com/search?q=junta+central+electoral) | N/A |
-| 48 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
-| 49 | [#elperiódicodelaverdad](http://twitter.com/search?q=%23elperi%c3%b3dicodelaverdad) | N/A |
-| 50 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 47 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
+| 48 | [#elperiódicodelaverdad](http://twitter.com/search?q=%23elperi%c3%b3dicodelaverdad) | N/A |
+| 49 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 50 | [proconsumidor](http://twitter.com/search?q=proconsumidor) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dubai
 
-📆 Last Updated: `2023-04-14 15:17:55 UTC`
+📆 Last Updated: `2023-04-14 16:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [United Arab Emirates](</United Arab Emirates>)
 | 5 | [#مصر_وصيه_زايد_وقلب_العرب](http://twitter.com/search?q=%23%d9%85%d8%b5%d8%b1_%d9%88%d8%b5%d9%8a%d9%87_%d8%b2%d8%a7%d9%8a%d8%af_%d9%88%d9%82%d9%84%d8%a8_%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
 | 6 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 7 | [احمد راشد](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b1%d8%a7%d8%b4%d8%af) | N/A |
-| 8 | [#WeStandwithConstitution](http://twitter.com/search?q=%23WeStandwithConstitution) | N/A |
+| 8 | [#تمرد_اولاد_دقلو](http://twitter.com/search?q=%23%d8%aa%d9%85%d8%b1%d8%af_%d8%a7%d9%88%d9%84%d8%a7%d8%af_%d8%af%d9%82%d9%84%d9%88) | N/A |
 | 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 10 | [٢٢ رمضان](http://twitter.com/search?q=%d9%a2%d9%a2+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 11 | [الحكومه الاتحاديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af%d9%8a%d9%87) | N/A |

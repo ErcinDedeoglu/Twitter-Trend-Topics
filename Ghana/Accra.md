@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-04-14 15:17:51 UTC`
+📆 Last Updated: `2023-04-14 16:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,12 +28,12 @@ This is top 50 for [Ghana](</Ghana>)
 | 11 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
 | 12 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
 | 13 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 14 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 15 | [Asamoah Gyan](http://twitter.com/search?q=Asamoah+Gyan) | N/A |
-| 16 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
-| 17 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Eboue](http://twitter.com/search?q=Eboue) | N/A |
+| 14 | [Asamoah Gyan](http://twitter.com/search?q=Asamoah+Gyan) | N/A |
+| 15 | [#RMACHE](http://twitter.com/search?q=%23RMACHE) | N/A |
+| 16 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 17 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 18 | [Eboue](http://twitter.com/search?q=Eboue) | N/A |
+| 19 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 | 20 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 21 | [#ontheroad](http://twitter.com/search?q=%23ontheroad) | N/A |
 | 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
@@ -55,16 +55,16 @@ This is top 50 for [Ghana](</Ghana>)
 | 38 | [Kovacic](http://twitter.com/search?q=Kovacic) | Kovacic is a surname of Slavic origin. It is derived from the word "kovati," which means "to forge." The name is most commonly found in Croatia, Bosnia and Herzegovina, Serbia, and Slovenia. In English, Kovacic can be translated to mean "blacksmith." |
 | 39 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 40 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 41 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 42 | [Ibrahim Mahama](http://twitter.com/search?q=Ibrahim+Mahama) | N/A |
-| 43 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 44 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 45 | [david trezeguet](http://twitter.com/search?q=david+trezeguet) | N/A |
-| 46 | [Administration](http://twitter.com/search?q=Administration) | N/A |
-| 47 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 48 | [Palago](http://twitter.com/search?q=Palago) | N/A |
-| 49 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 50 | [Bongo Ideas](http://twitter.com/search?q=Bongo+Ideas) | N/A |
+| 41 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 42 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
+| 43 | [Ibrahim Mahama](http://twitter.com/search?q=Ibrahim+Mahama) | N/A |
+| 44 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
+| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 46 | [david trezeguet](http://twitter.com/search?q=david+trezeguet) | N/A |
+| 47 | [Administration](http://twitter.com/search?q=Administration) | N/A |
+| 48 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 49 | [Palago](http://twitter.com/search?q=Palago) | N/A |
+| 50 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 
 
 

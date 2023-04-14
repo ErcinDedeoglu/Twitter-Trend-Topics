@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-14 15:18:15 UTC`
+📆 Last Updated: `2023-04-14 16:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Peru
 | 6 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 7 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
 | 8 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 9 | [hugo bustíos](http://twitter.com/search?q=hugo+bust%c3%ados) | N/A |
+| 9 | [Hugo Bustíos](http://twitter.com/search?q=Hugo+Bust%c3%ados) | N/A |
 | 10 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
 | 11 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
 | 12 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Peru
 | 30 | [abancay](http://twitter.com/search?q=abancay) | N/A |
 | 31 | [cidh](http://twitter.com/search?q=cidh) | N/A |
 | 32 | [Argel](http://twitter.com/search?q=Argel) | N/A |
-| 33 | [castro castro](http://twitter.com/search?q=castro+castro) | N/A |
-| 34 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
-| 35 | [emily lima](http://twitter.com/search?q=emily+lima) | N/A |
-| 36 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 37 | [alas peruanas](http://twitter.com/search?q=alas+peruanas) | N/A |
-| 38 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 39 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 40 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 41 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 42 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 43 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 33 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
+| 34 | [emily lima](http://twitter.com/search?q=emily+lima) | N/A |
+| 35 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 36 | [alas peruanas](http://twitter.com/search?q=alas+peruanas) | N/A |
+| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 38 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 39 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 40 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 41 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 42 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 43 | [Castro Castro](http://twitter.com/search?q=Castro+Castro) | N/A |
 | 44 | [lapadula](http://twitter.com/search?q=lapadula) | N/A |
 | 45 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
 | 46 | [teleticket](http://twitter.com/search?q=teleticket) | N/A |
 | 47 | [Otarola](http://twitter.com/search?q=Otarola) | Otarola is a Spanish surname. It is derived from the Basque word "otar", which means "wolf". In English, the meaning of Otarola is "son of the wolf". |
 | 48 | [huaral](http://twitter.com/search?q=huaral) | N/A |
 | 49 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 50 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
+| 50 | [d-day glitch film](http://twitter.com/search?q=d-day+glitch+film) | N/A |
 
 
 

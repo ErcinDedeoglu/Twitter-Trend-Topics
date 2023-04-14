@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-04-14 15:17:26 UTC`
+📆 Last Updated: `2023-04-14 16:18:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,13 +18,13 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [#UKSG2023](http://twitter.com/search?q=%23UKSG2023) | N/A |
 | 2 | [#GoodVibeHunting](http://twitter.com/search?q=%23GoodVibeHunting) | N/A |
 | 3 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
-| 4 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 5 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 7 | [Sam Waley](http://twitter.com/search?q=Sam+Waley) | N/A |
-| 8 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 9 | [#ASongOrMovieForAnythingSoft](http://twitter.com/search?q=%23ASongOrMovieForAnythingSoft) | N/A |
-| 10 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 4 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 5 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
+| 6 | [Sam Waley](http://twitter.com/search?q=Sam+Waley) | N/A |
+| 7 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 8 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 9 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 10 | [#ASongOrMovieForAnythingSoft](http://twitter.com/search?q=%23ASongOrMovieForAnythingSoft) | N/A |
 | 11 | [Colwill](http://twitter.com/search?q=Colwill) | N/A |
 | 12 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
 | 13 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 15 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 16 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
 | 17 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 18 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
-| 19 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 18 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 19 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
 | 20 | [Books](http://twitter.com/search?q=Books) | N/A |
 | 21 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 22 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 23 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 24 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 22 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 23 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 24 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 25 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
 | 26 | [Daily Quordle 445](http://twitter.com/search?q=Daily+Quordle+445) | N/A |
 | 27 | [EUIC](http://twitter.com/search?q=EUIC) | N/A |
 | 28 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
-| 29 | [Kirsty](http://twitter.com/search?q=Kirsty) | N/A |
-| 30 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 31 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 32 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 33 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 34 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 35 | [Marbles](http://twitter.com/search?q=Marbles) | N/A |
-| 36 | [Carole](http://twitter.com/search?q=Carole) | N/A |
-| 37 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 38 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
-| 39 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
-| 40 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 41 | [#WHFreeBet](http://twitter.com/search?q=%23WHFreeBet) | N/A |
-| 42 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 43 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 44 | [#WhereYouStarted](http://twitter.com/search?q=%23WhereYouStarted) | N/A |
-| 45 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 46 | [#SevenKingsMustDie](http://twitter.com/search?q=%23SevenKingsMustDie) | N/A |
-| 47 | [#FlowersOnFriday](http://twitter.com/search?q=%23FlowersOnFriday) | N/A |
-| 48 | [#72Seasons](http://twitter.com/search?q=%2372Seasons) | N/A |
-| 49 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 50 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 29 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 30 | [Kirsty](http://twitter.com/search?q=Kirsty) | N/A |
+| 31 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 32 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 33 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
+| 34 | [Marbles](http://twitter.com/search?q=Marbles) | N/A |
+| 35 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 36 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 37 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 38 | [#WHFreeBet](http://twitter.com/search?q=%23WHFreeBet) | N/A |
+| 39 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 40 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 41 | [#WhereYouStarted](http://twitter.com/search?q=%23WhereYouStarted) | N/A |
+| 42 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 43 | [#SevenKingsMustDie](http://twitter.com/search?q=%23SevenKingsMustDie) | N/A |
+| 44 | [#FlowersOnFriday](http://twitter.com/search?q=%23FlowersOnFriday) | N/A |
+| 45 | [#72Seasons](http://twitter.com/search?q=%2372Seasons) | N/A |
+| 46 | [#ToriesOut281](http://twitter.com/search?q=%23ToriesOut281) | N/A |
+| 47 | [#GAConf23](http://twitter.com/search?q=%23GAConf23) | N/A |
+| 48 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 49 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 50 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
 
 
 

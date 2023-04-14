@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-14 15:17:35 UTC`
+📆 Last Updated: `2023-04-14 16:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for [Poland](</Poland>)
 | 15 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 16 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
 | 17 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
-| 18 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 18 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
 | 19 | [Berlingo](http://twitter.com/search?q=Berlingo) | N/A |
 | 20 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
 | 21 | [Orban](http://twitter.com/search?q=Orban) | N/A |
@@ -44,9 +44,9 @@ This is top 50 for [Poland](</Poland>)
 | 27 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 28 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
 | 29 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 30 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 31 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 32 | [Casy](http://twitter.com/search?q=Casy) | N/A |
+| 30 | [Casy](http://twitter.com/search?q=Casy) | N/A |
+| 31 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 32 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
 | 33 | [Raua](http://twitter.com/search?q=Raua) | N/A |
 | 34 | [Violi](http://twitter.com/search?q=Violi) | N/A |
 | 35 | [dagerstala](http://twitter.com/search?q=dagerstala) | N/A |

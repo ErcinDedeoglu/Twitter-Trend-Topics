@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-14 15:18:13 UTC`
+📆 Last Updated: `2023-04-14 16:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for Israel
 | 6 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
 | 7 | [של ארץ](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a8%d7%a5) | N/A |
 | 8 | [מאיר שלו](http://twitter.com/search?q=%d7%9e%d7%90%d7%99%d7%a8+%d7%a9%d7%9c%d7%95) | N/A |
-| 9 | [ציונות דתית](http://twitter.com/search?q=%d7%a6%d7%99%d7%95%d7%a0%d7%95%d7%aa+%d7%93%d7%aa%d7%99%d7%aa) | N/A |
-| 10 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
+| 9 | [מזל טוב](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91) | N/A |
+| 10 | [ציונות דתית](http://twitter.com/search?q=%d7%a6%d7%99%d7%95%d7%a0%d7%95%d7%aa+%d7%93%d7%aa%d7%99%d7%aa) | N/A |
 | 11 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
 | 12 | [של גזענות](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%96%d7%a2%d7%a0%d7%95%d7%aa) | N/A |
 | 13 | [של מכבי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%9b%d7%91%d7%99) | N/A |
@@ -40,31 +40,31 @@ This is top 50 for Israel
 | 23 | [רבנית פורים](http://twitter.com/search?q=%d7%a8%d7%91%d7%a0%d7%99%d7%aa+%d7%a4%d7%95%d7%a8%d7%99%d7%9d) | N/A |
 | 24 | [ריאל מדריד](http://twitter.com/search?q=%d7%a8%d7%99%d7%90%d7%9c+%d7%9e%d7%93%d7%a8%d7%99%d7%93) | N/A |
 | 25 | [שופט מזרחי](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98+%d7%9e%d7%96%d7%a8%d7%97%d7%99) | N/A |
-| 26 | [אלדד יניב](http://twitter.com/search?q=%d7%90%d7%9c%d7%93%d7%93+%d7%99%d7%a0%d7%99%d7%91) | N/A |
-| 27 | [נגד פונדקאות](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%a4%d7%95%d7%a0%d7%93%d7%a7%d7%90%d7%95%d7%aa) | N/A |
+| 26 | [נגד פונדקאות](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%a4%d7%95%d7%a0%d7%93%d7%a7%d7%90%d7%95%d7%aa) | N/A |
+| 27 | [אלדד יניב](http://twitter.com/search?q=%d7%90%d7%9c%d7%93%d7%93+%d7%99%d7%a0%d7%99%d7%91) | N/A |
 | 28 | [גדי טאוב](http://twitter.com/search?q=%d7%92%d7%93%d7%99+%d7%98%d7%90%d7%95%d7%91) | N/A |
 | 29 | [שופט מרוקאי](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98+%d7%9e%d7%a8%d7%95%d7%a7%d7%90%d7%99) | N/A |
 | 30 | [עוד ילד](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%99%d7%9c%d7%93) | N/A |
 | 31 | [שופטים מזרחיים](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%9e%d7%96%d7%a8%d7%97%d7%99%d7%99%d7%9d) | N/A |
-| 32 | [עוד תינוק](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%aa%d7%99%d7%a0%d7%95%d7%a7) | N/A |
-| 33 | [במקום מטוטלת](http://twitter.com/search?q=%d7%91%d7%9e%d7%a7%d7%95%d7%9d+%d7%9e%d7%98%d7%95%d7%98%d7%9c%d7%aa) | N/A |
-| 34 | [דרך ארץ](http://twitter.com/search?q=%d7%93%d7%a8%d7%9a+%d7%90%d7%a8%d7%a5) | N/A |
-| 35 | [עינת גז](http://twitter.com/search?q=%d7%a2%d7%99%d7%a0%d7%aa+%d7%92%d7%96) | N/A |
-| 36 | [עד מחר](http://twitter.com/search?q=%d7%a2%d7%93+%d7%9e%d7%97%d7%a8) | N/A |
-| 37 | [עוצמה יהודית](http://twitter.com/search?q=%d7%a2%d7%95%d7%a6%d7%9e%d7%94+%d7%99%d7%94%d7%95%d7%93%d7%99%d7%aa) | N/A |
-| 38 | [סרטון של](http://twitter.com/search?q=%d7%a1%d7%a8%d7%98%d7%95%d7%9f+%d7%a9%d7%9c) | N/A |
+| 32 | [עד מחר](http://twitter.com/search?q=%d7%a2%d7%93+%d7%9e%d7%97%d7%a8) | N/A |
+| 33 | [עוד תינוק](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%aa%d7%99%d7%a0%d7%95%d7%a7) | N/A |
+| 34 | [במקום מטוטלת](http://twitter.com/search?q=%d7%91%d7%9e%d7%a7%d7%95%d7%9d+%d7%9e%d7%98%d7%95%d7%98%d7%9c%d7%aa) | N/A |
+| 35 | [דרך ארץ](http://twitter.com/search?q=%d7%93%d7%a8%d7%9a+%d7%90%d7%a8%d7%a5) | N/A |
+| 36 | [עינת גז](http://twitter.com/search?q=%d7%a2%d7%99%d7%a0%d7%aa+%d7%92%d7%96) | N/A |
+| 37 | [סרטון של](http://twitter.com/search?q=%d7%a1%d7%a8%d7%98%d7%95%d7%9f+%d7%a9%d7%9c) | N/A |
+| 38 | [של ערוץ](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a8%d7%95%d7%a5) | N/A |
 | 39 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
-| 40 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 41 | [של ערוץ](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a8%d7%95%d7%a5) | N/A |
-| 42 | [צבא העם](http://twitter.com/search?q=%d7%a6%d7%91%d7%90+%d7%94%d7%a2%d7%9d) | N/A |
-| 43 | [שיוויון בנטל](http://twitter.com/search?q=%d7%a9%d7%99%d7%95%d7%95%d7%99%d7%95%d7%9f+%d7%91%d7%a0%d7%98%d7%9c) | N/A |
-| 44 | [של הפועל ירושלים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 45 | [בין אשכנזים](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99%d7%9d) | N/A |
-| 46 | [יום השואה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%a9%d7%95%d7%90%d7%94) | N/A |
-| 47 | [גזענות היא](http://twitter.com/search?q=%d7%92%d7%96%d7%a2%d7%a0%d7%95%d7%aa+%d7%94%d7%99%d7%90) | N/A |
-| 48 | [שהיה ראש](http://twitter.com/search?q=%d7%a9%d7%94%d7%99%d7%94+%d7%a8%d7%90%d7%a9) | N/A |
-| 49 | [של אשכנזים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99%d7%9d) | N/A |
-| 50 | [היא עם](http://twitter.com/search?q=%d7%94%d7%99%d7%90+%d7%a2%d7%9d) | N/A |
+| 40 | [צבא העם](http://twitter.com/search?q=%d7%a6%d7%91%d7%90+%d7%94%d7%a2%d7%9d) | N/A |
+| 41 | [שיוויון בנטל](http://twitter.com/search?q=%d7%a9%d7%99%d7%95%d7%95%d7%99%d7%95%d7%9f+%d7%91%d7%a0%d7%98%d7%9c) | N/A |
+| 42 | [של הפועל ירושלים](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 43 | [בין אשכנזים](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%90%d7%a9%d7%9b%d7%a0%d7%96%d7%99%d7%9d) | N/A |
+| 44 | [יום השואה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%a9%d7%95%d7%90%d7%94) | N/A |
+| 45 | [עונש מוות](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%a9+%d7%9e%d7%95%d7%95%d7%aa) | N/A |
+| 46 | [גזענות היא](http://twitter.com/search?q=%d7%92%d7%96%d7%a2%d7%a0%d7%95%d7%aa+%d7%94%d7%99%d7%90) | N/A |
+| 47 | [שהיה ראש](http://twitter.com/search?q=%d7%a9%d7%94%d7%99%d7%94+%d7%a8%d7%90%d7%a9) | N/A |
+| 48 | [אב״ח](http://twitter.com/search?q=%d7%90%d7%91%d7%b4%d7%97) | N/A |
+| 49 | [נגד ערבים](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%a2%d7%a8%d7%91%d7%99%d7%9d) | N/A |
+| 50 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-04-14 15:17:35 UTC`
+📆 Last Updated: `2023-04-14 16:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#13Abr](http://twitter.com/search?q=%2313Abr) | N/A |
-| 2 | [#RebeliónCívicoMilitar](http://twitter.com/search?q=%23Rebeli%c3%b3nC%c3%advicoMilitar) | N/A |
+| 2 | [#rebelióncívicomilitar](http://twitter.com/search?q=%23rebeli%c3%b3nc%c3%advicomilitar) | N/A |
 | 3 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
 | 4 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 5 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
@@ -27,20 +27,20 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 10 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
 | 11 | [#puebloyfanbunidadylealtad](http://twitter.com/search?q=%23puebloyfanbunidadylealtad) | N/A |
 | 12 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 13 | [pierina españa](http://twitter.com/search?q=pierina+espa%c3%b1a) | N/A |
-| 14 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 15 | [milicia bolivariana](http://twitter.com/search?q=milicia+bolivariana) | N/A |
+| 13 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 14 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 15 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
 | 16 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
 | 17 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
 | 18 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 19 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
 | 20 | [juan vicente tovar](http://twitter.com/search?q=juan+vicente+tovar) | N/A |
 | 21 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 22 | [enrique mendoza](http://twitter.com/search?q=enrique+mendoza) | N/A |
+| 22 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
 | 23 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
 | 24 | [flor nuñez](http://twitter.com/search?q=flor+nu%c3%b1ez) | N/A |
-| 25 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
-| 26 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 25 | [irreversible](http://twitter.com/search?q=irreversible) | N/A |
+| 26 | [revolución bolivariana](http://twitter.com/search?q=revoluci%c3%b3n+bolivariana) | N/A |
 | 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 28 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
 | 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
@@ -50,14 +50,14 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 33 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 34 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
 | 35 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
-| 36 | [poder electoral](http://twitter.com/search?q=poder+electoral) | N/A |
+| 36 | [PODER ELECTORAL](http://twitter.com/search?q=PODER+ELECTORAL) | N/A |
 | 37 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
-| 38 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
-| 39 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 40 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
-| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 42 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
-| 43 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 38 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 39 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
+| 40 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 41 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
+| 42 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 43 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
 | 44 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
 | 45 | [bárbara palacios](http://twitter.com/search?q=b%c3%a1rbara+palacios) | N/A |
 | 46 | [Codo](http://twitter.com/search?q=Codo) | N/A |

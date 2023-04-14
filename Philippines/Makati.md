@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-04-14 15:17:50 UTC`
+📆 Last Updated: `2023-04-14 16:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
 | 2 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
-| 3 | [ALEXA ON STARMAGIC CONVO](http://twitter.com/search?q=ALEXA+ON+STARMAGIC+CONVO) | N/A |
-| 4 | [Atty](http://twitter.com/search?q=Atty) | N/A |
-| 5 | [#MNL48GameTime](http://twitter.com/search?q=%23MNL48GameTime) | N/A |
-| 6 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
-| 7 | [#HORI7ON_GoesToKoronadal](http://twitter.com/search?q=%23HORI7ON_GoesToKoronadal) | N/A |
-| 8 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
-| 9 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
-| 10 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
-| 11 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 12 | [ZICE CAUGHT IN THE ACT](http://twitter.com/search?q=ZICE+CAUGHT+IN+THE+ACT) | N/A |
-| 13 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
+| 3 | [Atty](http://twitter.com/search?q=Atty) | N/A |
+| 4 | [ALEXA ON STARMAGIC CONVO](http://twitter.com/search?q=ALEXA+ON+STARMAGIC+CONVO) | N/A |
+| 5 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
+| 6 | [#MNL48GameTime](http://twitter.com/search?q=%23MNL48GameTime) | N/A |
+| 7 | [#aespa_is_back](http://twitter.com/search?q=%23aespa_is_back) | N/A |
+| 8 | [#HORI7ON_GoesToKoronadal](http://twitter.com/search?q=%23HORI7ON_GoesToKoronadal) | N/A |
+| 9 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
+| 10 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
+| 11 | [ZICE CAUGHT IN THE ACT](http://twitter.com/search?q=ZICE+CAUGHT+IN+THE+ACT) | N/A |
+| 12 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
+| 13 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
 | 14 | [TEENCLASH SEHAM EP4](http://twitter.com/search?q=TEENCLASH+SEHAM+EP4) | N/A |
 | 15 | [YUJIN ON NO PREPARE](http://twitter.com/search?q=YUJIN+ON+NO+PREPARE) | N/A |
 | 16 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
 | 17 | [ZACHAM SA PIEPNPPF](http://twitter.com/search?q=ZACHAM+SA+PIEPNPPF) | N/A |
-| 18 | [HAPPY 1ST YEAR KARLIAN](http://twitter.com/search?q=HAPPY+1ST+YEAR+KARLIAN) | N/A |
-| 19 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
-| 20 | [MAGANDANG BUHAY VIBRENT](http://twitter.com/search?q=MAGANDANG+BUHAY+VIBRENT) | N/A |
+| 18 | [JOSHko MANDY TC EPISODE4](http://twitter.com/search?q=JOSHko+MANDY+TC+EPISODE4) | N/A |
+| 19 | [HAPPY 1ST YEAR KARLIAN](http://twitter.com/search?q=HAPPY+1ST+YEAR+KARLIAN) | N/A |
+| 20 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
 | 21 | [EAGER FOR JANESHUA](http://twitter.com/search?q=EAGER+FOR+JANESHUA) | N/A |
-| 22 | [d-1 to paraiso](http://twitter.com/search?q=d-1+to+paraiso) | N/A |
-| 23 | [maligayang pagbabalik](http://twitter.com/search?q=maligayang+pagbabalik) | N/A |
-| 24 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
-| 25 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
-| 26 | [dusty amber concept](http://twitter.com/search?q=dusty+amber+concept) | N/A |
-| 27 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
-| 28 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 29 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 30 | [HYEIN FOR HARPER'S BAZAAR](http://twitter.com/search?q=HYEIN+FOR+HARPER%27S+BAZAAR) | N/A |
-| 31 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
-| 32 | [KAOJC GOES International](http://twitter.com/search?q=KAOJC+GOES+International) | N/A |
-| 33 | [KATH FOR GATORADE](http://twitter.com/search?q=KATH+FOR+GATORADE) | N/A |
-| 34 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
-| 35 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
-| 36 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 37 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
-| 38 | [ABOGADO NA AKO](http://twitter.com/search?q=ABOGADO+NA+AKO) | N/A |
-| 39 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 40 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
-| 41 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 42 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 43 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
-| 44 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
-| 45 | [Blacklist](http://twitter.com/search?q=Blacklist) | Blacklist is a list of people, organizations, or countries that are being denied a particular privilege, service, or mobility. It is commonly used to refer to a list of people who are not allowed to enter a certain country or region due to security concerns. It can also refer to a list of companies or individuals who have been banned from doing business with a particular organization. |
+| 22 | [MAGANDANG BUHAY VIBRENT](http://twitter.com/search?q=MAGANDANG+BUHAY+VIBRENT) | N/A |
+| 23 | [d-1 to paraiso](http://twitter.com/search?q=d-1+to+paraiso) | N/A |
+| 24 | [maligayang pagbabalik](http://twitter.com/search?q=maligayang+pagbabalik) | N/A |
+| 25 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
+| 26 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
+| 27 | [dusty amber concept](http://twitter.com/search?q=dusty+amber+concept) | N/A |
+| 28 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
+| 29 | [KAOJC GOES International](http://twitter.com/search?q=KAOJC+GOES+International) | N/A |
+| 30 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 31 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 32 | [HYEIN FOR HARPER'S BAZAAR](http://twitter.com/search?q=HYEIN+FOR+HARPER%27S+BAZAAR) | N/A |
+| 33 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
+| 34 | [KATH FOR GATORADE](http://twitter.com/search?q=KATH+FOR+GATORADE) | N/A |
+| 35 | [Ginebra](http://twitter.com/search?q=Ginebra) | Ginebra is a Spanish word for gin, a type of alcoholic beverage made from juniper berries. In English, it is simply referred to as gin. |
+| 36 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
+| 37 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 38 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
+| 39 | [ABOGADO NA AKO](http://twitter.com/search?q=ABOGADO+NA+AKO) | N/A |
+| 40 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 41 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
+| 42 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 43 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 44 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
+| 45 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
 | 46 | [Lawyers](http://twitter.com/search?q=Lawyers) | N/A |
-| 47 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 47 | [Blacklist](http://twitter.com/search?q=Blacklist) | Blacklist is a list of people, organizations, or countries that are being denied a particular privilege, service, or mobility. It is commonly used to refer to a list of people who are not allowed to enter a certain country or region due to security concerns. It can also refer to a list of companies or individuals who have been banned from doing business with a particular organization. |
 | 48 | [Attorney](http://twitter.com/search?q=Attorney) | N/A |
 | 49 | [Dropping](http://twitter.com/search?q=Dropping) | N/A |
-| 50 | [flower third win](http://twitter.com/search?q=flower+third+win) | N/A |
+| 50 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 
 
 

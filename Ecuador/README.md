@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-14 15:18:12 UTC`
+📆 Last Updated: `2023-04-14 16:19:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for Ecuador
 | 7 | [posorja](http://twitter.com/search?q=posorja) | N/A |
 | 8 | [penitenciaría del litoral](http://twitter.com/search?q=penitenciar%c3%ada+del+litoral) | N/A |
 | 9 | [loes](http://twitter.com/search?q=loes) | N/A |
-| 10 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
-| 11 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
-| 12 | [Coco](http://twitter.com/search?q=Coco) | N/A |
+| 10 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
+| 11 | [Coco](http://twitter.com/search?q=Coco) | N/A |
+| 12 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
 | 13 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
 | 14 | [Glas](http://twitter.com/search?q=Glas) | N/A |
 | 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
@@ -51,7 +51,7 @@ This is top 50 for Ecuador
 | 34 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
 | 35 | [piñatares](http://twitter.com/search?q=pi%c3%b1atares) | N/A |
 | 36 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 37 | [En Cuba](http://twitter.com/search?q=En+Cuba) | N/A |
+| 37 | [en cuba](http://twitter.com/search?q=en+cuba) | N/A |
 | 38 | [liga vs barcelona](http://twitter.com/search?q=liga+vs+barcelona) | N/A |
 | 39 | [pachakutik](http://twitter.com/search?q=pachakutik) | N/A |
 | 40 | [educación superior](http://twitter.com/search?q=educaci%c3%b3n+superior) | N/A |

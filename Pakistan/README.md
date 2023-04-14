@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-04-14 15:18:15 UTC`
+📆 Last Updated: `2023-04-14 16:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Pakistan
 | ------- | ------------ | ------------ |
 | 1 | [#PaymaxIsHere](http://twitter.com/search?q=%23PaymaxIsHere) | N/A |
 | 2 | [#ChillToTheMax](http://twitter.com/search?q=%23ChillToTheMax) | N/A |
-| 3 | [#WeStandwithConstitution](http://twitter.com/search?q=%23WeStandwithConstitution) | N/A |
-| 4 | [#RemoveBandiyal](http://twitter.com/search?q=%23RemoveBandiyal) | N/A |
+| 3 | [#RemoveBandiyal](http://twitter.com/search?q=%23RemoveBandiyal) | N/A |
+| 4 | [#WeStandwithConstitution](http://twitter.com/search?q=%23WeStandwithConstitution) | N/A |
 | 5 | [#غلیظ_سیاست_کی_ملکہ_مریم](http://twitter.com/search?q=%23%d8%ba%d9%84%db%8c%d8%b8_%d8%b3%db%8c%d8%a7%d8%b3%d8%aa_%da%a9%db%8c_%d9%85%d9%84%da%a9%db%81_%d9%85%d8%b1%db%8c%d9%85) | N/A |
 | 6 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
 | 7 | [Zong](http://twitter.com/search?q=Zong) | N/A |
@@ -31,9 +31,9 @@ This is top 50 for Pakistan
 | 14 | [your zakat](http://twitter.com/search?q=your+zakat) | N/A |
 | 15 | [Basil](http://twitter.com/search?q=Basil) | N/A |
 | 16 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 17 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 18 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 19 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 17 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 19 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
 | 20 | [SKMH](http://twitter.com/search?q=SKMH) | N/A |
 | 21 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 22 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Pakistan
 | 31 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
 | 32 | [Down With Israel](http://twitter.com/search?q=Down+With+Israel) | N/A |
 | 33 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 34 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 35 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 34 | [Saim](http://twitter.com/search?q=Saim) | N/A |
+| 35 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 36 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 38 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
-| 39 | [Imam Khamenei](http://twitter.com/search?q=Imam+Khamenei) | N/A |
+| 39 | [imam khamenei](http://twitter.com/search?q=imam+khamenei) | N/A |
 | 40 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 41 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
-| 42 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
-| 43 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 44 | [contempt](http://twitter.com/search?q=contempt) | N/A |
-| 45 | [Respected](http://twitter.com/search?q=Respected) | N/A |
-| 46 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
-| 47 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
-| 48 | [Classic](http://twitter.com/search?q=Classic) | N/A |
-| 49 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
-| 50 | [Aray](http://twitter.com/search?q=Aray) | N/A |
+| 41 | [Riyadh](http://twitter.com/search?q=Riyadh) | N/A |
+| 42 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
+| 43 | [contempt](http://twitter.com/search?q=contempt) | N/A |
+| 44 | [VONC](http://twitter.com/search?q=VONC) | N/A |
+| 45 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
+| 46 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
+| 47 | [Aray](http://twitter.com/search?q=Aray) | N/A |
+| 48 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 49 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 50 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-14 15:17:36 UTC`
+📆 Last Updated: `2023-04-14 16:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for [Poland](</Poland>)
 | 16 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 17 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
 | 18 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
-| 19 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
+| 19 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
 | 20 | [Berlingo](http://twitter.com/search?q=Berlingo) | N/A |
 | 21 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
 | 22 | [Orban](http://twitter.com/search?q=Orban) | N/A |
@@ -45,9 +45,9 @@ This is top 50 for [Poland](</Poland>)
 | 28 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 29 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
 | 30 | [Satka](http://twitter.com/search?q=Satka) | N/A |
-| 31 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 32 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 33 | [Casy](http://twitter.com/search?q=Casy) | N/A |
+| 31 | [Casy](http://twitter.com/search?q=Casy) | N/A |
+| 32 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 33 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
 | 34 | [Raua](http://twitter.com/search?q=Raua) | N/A |
 | 35 | [Violi](http://twitter.com/search?q=Violi) | N/A |
 | 36 | [dagerstala](http://twitter.com/search?q=dagerstala) | N/A |

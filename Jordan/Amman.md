@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-04-14 15:17:55 UTC`
+📆 Last Updated: `2023-04-14 16:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [Jordan](</Jordan>)
 | 1 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
 | 2 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
 | 3 | [#تمرد_اولاد_دقلو](http://twitter.com/search?q=%23%d8%aa%d9%85%d8%b1%d8%af_%d8%a7%d9%88%d9%84%d8%a7%d8%af_%d8%af%d9%82%d9%84%d9%88) | N/A |
-| 4 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 5 | [الجمعه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
-| 6 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
-| 7 | [#العشر_الاواخر_من_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1_%d9%85%d9%86_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 4 | [الجمعه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | N/A |
+| 5 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
+| 6 | [#العشر_الاواخر_من_رمضان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b4%d8%b1_%d8%a7%d9%84%d8%a7%d9%88%d8%a7%d8%ae%d8%b1_%d9%85%d9%86_%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 7 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 8 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
 | 9 | [صوت المطر](http://twitter.com/search?q=%d8%b5%d9%88%d8%aa+%d8%a7%d9%84%d9%85%d8%b7%d8%b1) | N/A |
 | 10 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-14 15:17:33 UTC`
+📆 Last Updated: `2023-04-14 16:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,19 +37,19 @@ This is top 50 for [Brazil](</Brazil>)
 | 20 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
 | 21 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
 | 22 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 23 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 24 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 25 | [#marxfla](http://twitter.com/search?q=%23marxfla) | N/A |
+| 23 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 24 | [#marxfla](http://twitter.com/search?q=%23marxfla) | N/A |
+| 25 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 | 26 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 27 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 28 | [VILLASANTI](http://twitter.com/search?q=VILLASANTI) | N/A |
+| 27 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
+| 28 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
 | 29 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 30 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
-| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 32 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
-| 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 30 | [VILLASANTI](http://twitter.com/search?q=VILLASANTI) | N/A |
+| 31 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
+| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 33 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
 | 34 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 35 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
+| 35 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 36 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
 | 37 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
 | 38 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Brazil](</Brazil>)
 | 43 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
 | 44 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
 | 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 46 | [léo pereira](http://twitter.com/search?q=l%c3%a9o+pereira) | N/A |
-| 47 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 48 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 49 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 50 | [maycon](http://twitter.com/search?q=maycon) | N/A |
+| 46 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 47 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 48 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 49 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 50 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
 
 
 

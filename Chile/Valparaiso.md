@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-14 15:17:31 UTC`
+📆 Last Updated: `2023-04-14 16:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,12 +50,12 @@ This is top 50 for [Chile](</Chile>)
 | 33 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 34 | [nayara vit](http://twitter.com/search?q=nayara+vit) | N/A |
 | 35 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
-| 36 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
-| 37 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
-| 38 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 39 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 40 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
-| 41 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 36 | [LADRONA](http://twitter.com/search?q=LADRONA) | N/A |
+| 37 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 38 | [festival de viña](http://twitter.com/search?q=festival+de+vi%c3%b1a) | N/A |
+| 39 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 40 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 41 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
 | 42 | [FINALIZAN TRABAJOS EN LA VÍA](http://twitter.com/search?q=FINALIZAN+TRABAJOS+EN+LA+V%c3%8dA) | N/A |
 | 43 | [Botox](http://twitter.com/search?q=Botox) | N/A |
 | 44 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |

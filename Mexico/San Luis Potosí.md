@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Luis Potosí
 
-📆 Last Updated: `2023-04-14 15:17:30 UTC`
+📆 Last Updated: `2023-04-14 16:18:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for [Mexico](</Mexico>)
 | 5 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 6 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 7 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 8 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 9 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
+| 8 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
+| 9 | [INAI](http://twitter.com/search?q=INAI) | N/A |
 | 10 | [#1Trago](http://twitter.com/search?q=%231Trago) | N/A |
 | 11 | [jos stans are back](http://twitter.com/search?q=jos+stans+are+back) | N/A |
 | 12 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
@@ -47,18 +47,18 @@ This is top 50 for [Mexico](</Mexico>)
 | 30 | [tribunal electoral](http://twitter.com/search?q=tribunal+electoral) | N/A |
 | 31 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 32 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 33 | [Prius](http://twitter.com/search?q=Prius) | N/A |
-| 34 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 33 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
+| 34 | [Prius](http://twitter.com/search?q=Prius) | N/A |
 | 35 | [suburban](http://twitter.com/search?q=suburban) | N/A |
-| 36 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
-| 37 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
-| 38 | [quiñones](http://twitter.com/search?q=qui%c3%b1ones) | N/A |
-| 39 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 40 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 41 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 42 | [bienvenido pol](http://twitter.com/search?q=bienvenido+pol) | N/A |
-| 43 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
-| 44 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
+| 36 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
+| 37 | [quiñones](http://twitter.com/search?q=qui%c3%b1ones) | N/A |
+| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 39 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 40 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 41 | [bienvenido pol](http://twitter.com/search?q=bienvenido+pol) | N/A |
+| 42 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
+| 43 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
+| 44 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
 | 45 | [belisario domínguez](http://twitter.com/search?q=belisario+dom%c3%adnguez) | N/A |
 | 46 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
 | 47 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |

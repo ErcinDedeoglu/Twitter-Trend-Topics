@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-04-14 15:17:40 UTC`
+📆 Last Updated: `2023-04-14 16:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -48,23 +48,23 @@ This is top 50 for [Italy](</Italy>)
 | 31 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
 | 32 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
 | 33 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 34 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
-| 35 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 36 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 37 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 38 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 39 | [Leo Adriani](http://twitter.com/search?q=Leo+Adriani) | N/A |
-| 40 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 41 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 42 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 34 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 35 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 36 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 37 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 38 | [Leo Adriani](http://twitter.com/search?q=Leo+Adriani) | N/A |
+| 39 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 40 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 41 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 42 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
 | 43 | [siviglia](http://twitter.com/search?q=siviglia) | N/A |
 | 44 | [Pentagono](http://twitter.com/search?q=Pentagono) | N/A |
-| 45 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 46 | [Totò](http://twitter.com/search?q=Tot%c3%b2) | N/A |
-| 47 | [Egitto](http://twitter.com/search?q=Egitto) | N/A |
-| 48 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
-| 49 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 50 | [Giannini](http://twitter.com/search?q=Giannini) | N/A |
+| 45 | [GM Fam](http://twitter.com/search?q=GM+Fam) | N/A |
+| 46 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 47 | [Totò](http://twitter.com/search?q=Tot%c3%b2) | N/A |
+| 48 | [Egitto](http://twitter.com/search?q=Egitto) | N/A |
+| 49 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
+| 50 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
 
 
 
