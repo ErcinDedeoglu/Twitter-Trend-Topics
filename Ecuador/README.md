@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-14 13:19:14 UTC`
+📆 Last Updated: `2023-04-14 14:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for Ecuador
 | 6 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 7 | [posorja](http://twitter.com/search?q=posorja) | N/A |
 | 8 | [penitenciaría del litoral](http://twitter.com/search?q=penitenciar%c3%ada+del+litoral) | N/A |
-| 9 | [LOES](http://twitter.com/search?q=LOES) | N/A |
+| 9 | [loes](http://twitter.com/search?q=loes) | N/A |
 | 10 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
 | 11 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
 | 12 | [Coco](http://twitter.com/search?q=Coco) | N/A |
@@ -37,14 +37,14 @@ This is top 50 for Ecuador
 | 20 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
 | 21 | [#alerta](http://twitter.com/search?q=%23alerta) | N/A |
 | 22 | [balsas](http://twitter.com/search?q=balsas) | N/A |
-| 23 | [Topic](http://twitter.com/search?q=Topic) | N/A |
-| 24 | [la embajada de estados unidos](http://twitter.com/search?q=la+embajada+de+estados+unidos) | N/A |
+| 23 | [la embajada de estados unidos](http://twitter.com/search?q=la+embajada+de+estados+unidos) | N/A |
+| 24 | [jan topic](http://twitter.com/search?q=jan+topic) | N/A |
 | 25 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 26 | [SERCOP](http://twitter.com/search?q=SERCOP) | N/A |
 | 27 | [rodrigo paz](http://twitter.com/search?q=rodrigo+paz) | N/A |
 | 28 | [los tiguerones](http://twitter.com/search?q=los+tiguerones) | N/A |
 | 29 | [andreina](http://twitter.com/search?q=andreina) | N/A |
-| 30 | [inter miami](http://twitter.com/search?q=inter+miami) | N/A |
+| 30 | [Inter Miami](http://twitter.com/search?q=Inter+Miami) | N/A |
 | 31 | [con 73](http://twitter.com/search?q=con+73) | N/A |
 | 32 | [leonardo campana](http://twitter.com/search?q=leonardo+campana) | N/A |
 | 33 | [Pleno](http://twitter.com/search?q=Pleno) | N/A |
@@ -57,8 +57,8 @@ This is top 50 for Ecuador
 | 40 | [alborada](http://twitter.com/search?q=alborada) | N/A |
 | 41 | [gualaceo](http://twitter.com/search?q=gualaceo) | N/A |
 | 42 | [incómodo](http://twitter.com/search?q=inc%c3%b3modo) | N/A |
-| 43 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 44 | [guacharnaco](http://twitter.com/search?q=guacharnaco) | N/A |
+| 43 | [Guacharnaco](http://twitter.com/search?q=Guacharnaco) | N/A |
+| 44 | [El 13](http://twitter.com/search?q=El+13) | N/A |
 | 45 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
 | 46 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
 | 47 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-04-14 13:18:45 UTC`
+📆 Last Updated: `2023-04-14 14:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BSIRamadhanBernilai](http://twitter.com/search?q=%23BSIRamadhanBernilai) | N/A |
-| 2 | [#LokasiMerchantSabrinaBRI](http://twitter.com/search?q=%23LokasiMerchantSabrinaBRI) | N/A |
-| 3 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
-| 4 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
+| 2 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
+| 3 | [#LokasiMerchantSabrinaBRI](http://twitter.com/search?q=%23LokasiMerchantSabrinaBRI) | N/A |
+| 4 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
 | 5 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
-| 6 | [#AjaibLuckyFriday](http://twitter.com/search?q=%23AjaibLuckyFriday) | N/A |
-| 7 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
-| 8 | [BSI Maslahat](http://twitter.com/search?q=BSI+Maslahat) | N/A |
-| 9 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 10 | [Cilacap](http://twitter.com/search?q=Cilacap) | N/A |
-| 11 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
-| 12 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
-| 13 | [Warisan](http://twitter.com/search?q=Warisan) | N/A |
-| 14 | [Kenceng](http://twitter.com/search?q=Kenceng) | N/A |
-| 15 | [Nyampe](http://twitter.com/search?q=Nyampe) | N/A |
-| 16 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 17 | [Pengkhianatan UUD 1945](http://twitter.com/search?q=Pengkhianatan+UUD+1945) | N/A |
-| 18 | [Lombok](http://twitter.com/search?q=Lombok) | N/A |
+| 6 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
+| 7 | [#AjaibLuckyFriday](http://twitter.com/search?q=%23AjaibLuckyFriday) | N/A |
+| 8 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 9 | [BSI Maslahat](http://twitter.com/search?q=BSI+Maslahat) | N/A |
+| 10 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
+| 11 | [Purwokerto](http://twitter.com/search?q=Purwokerto) | N/A |
+| 12 | [Cilacap](http://twitter.com/search?q=Cilacap) | N/A |
+| 13 | [Kenceng](http://twitter.com/search?q=Kenceng) | N/A |
+| 14 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 15 | [Warisan](http://twitter.com/search?q=Warisan) | N/A |
+| 16 | [Nyampe](http://twitter.com/search?q=Nyampe) | N/A |
+| 17 | [Lombok](http://twitter.com/search?q=Lombok) | N/A |
+| 18 | [Pengkhianatan UUD 1945](http://twitter.com/search?q=Pengkhianatan+UUD+1945) | N/A |
 | 19 | [Tasik](http://twitter.com/search?q=Tasik) | N/A |
-| 20 | [Jember](http://twitter.com/search?q=Jember) | N/A |
+| 20 | [BMKG](http://twitter.com/search?q=BMKG) | N/A |
 | 21 | [Sukabumi](http://twitter.com/search?q=Sukabumi) | N/A |
-| 22 | [BMKG](http://twitter.com/search?q=BMKG) | N/A |
-| 23 | [Pemerintah](http://twitter.com/search?q=Pemerintah) | N/A |
-| 24 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
+| 22 | [Jember](http://twitter.com/search?q=Jember) | N/A |
+| 23 | [Magelang](http://twitter.com/search?q=Magelang) | N/A |
+| 24 | [Pemerintah](http://twitter.com/search?q=Pemerintah) | N/A |
 | 25 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
 | 26 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
-| 27 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
-| 28 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 29 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 30 | [Tokopedia](http://twitter.com/search?q=Tokopedia) | N/A |
-| 31 | [Idul Fitri](http://twitter.com/search?q=Idul+Fitri) | N/A |
-| 32 | [Kafir](http://twitter.com/search?q=Kafir) | N/A |
-| 33 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 34 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 27 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 28 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 29 | [Idul Fitri](http://twitter.com/search?q=Idul+Fitri) | N/A |
+| 30 | [Kafir](http://twitter.com/search?q=Kafir) | N/A |
+| 31 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 32 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 33 | [Yudo Andreawan](http://twitter.com/search?q=Yudo+Andreawan) | N/A |
+| 34 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
 | 35 | [#GanjarPilihanTepat](http://twitter.com/search?q=%23GanjarPilihanTepat) | N/A |
-| 36 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
-| 37 | [#JOYxHaDongQn_BlueNightSong](http://twitter.com/search?q=%23JOYxHaDongQn_BlueNightSong) | N/A |
-| 38 | [#조이X하동균_푸른밤이노래](http://twitter.com/search?q=%23%ec%a1%b0%ec%9d%b4X%ed%95%98%eb%8f%99%ea%b7%a0_%ed%91%b8%eb%a5%b8%eb%b0%a4%ec%9d%b4%eb%85%b8%eb%9e%98) | N/A |
-| 39 | [#RUUPenindasan](http://twitter.com/search?q=%23RUUPenindasan) | N/A |
-| 40 | [#KhilafClubTHR](http://twitter.com/search?q=%23KhilafClubTHR) | N/A |
-| 41 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
-| 42 | [#WeAreMore](http://twitter.com/search?q=%23WeAreMore) | N/A |
-| 43 | [#PYCHsejahterakanrakyat](http://twitter.com/search?q=%23PYCHsejahterakanrakyat) | N/A |
-| 44 | [#PapuaYouthCreativeHub](http://twitter.com/search?q=%23PapuaYouthCreativeHub) | N/A |
-| 45 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
-| 46 | [#SUHO](http://twitter.com/search?q=%23SUHO) | N/A |
-| 47 | [#ShopeePremiumDeals](http://twitter.com/search?q=%23ShopeePremiumDeals) | N/A |
-| 48 | [#CHEN](http://twitter.com/search?q=%23CHEN) | N/A |
+| 36 | [#JOYxHaDongQn_BlueNightSong](http://twitter.com/search?q=%23JOYxHaDongQn_BlueNightSong) | N/A |
+| 37 | [#조이X하동균_푸른밤이노래](http://twitter.com/search?q=%23%ec%a1%b0%ec%9d%b4X%ed%95%98%eb%8f%99%ea%b7%a0_%ed%91%b8%eb%a5%b8%eb%b0%a4%ec%9d%b4%eb%85%b8%eb%9e%98) | N/A |
+| 38 | [#RUUPenindasan](http://twitter.com/search?q=%23RUUPenindasan) | N/A |
+| 39 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 40 | [#PYCHsejahterakanrakyat](http://twitter.com/search?q=%23PYCHsejahterakanrakyat) | N/A |
+| 41 | [#PapuaYouthCreativeHub](http://twitter.com/search?q=%23PapuaYouthCreativeHub) | N/A |
+| 42 | [#KhilafClubTHR](http://twitter.com/search?q=%23KhilafClubTHR) | N/A |
+| 43 | [#OPPOReno8TSeries](http://twitter.com/search?q=%23OPPOReno8TSeries) | N/A |
+| 44 | [#ShopeePremiumDeals](http://twitter.com/search?q=%23ShopeePremiumDeals) | N/A |
+| 45 | [#DukungUUCiptaker](http://twitter.com/search?q=%23DukungUUCiptaker) | N/A |
+| 46 | [#CiptakerSejahterakanRakyat](http://twitter.com/search?q=%23CiptakerSejahterakanRakyat) | N/A |
+| 47 | [#CHANYEOL](http://twitter.com/search?q=%23CHANYEOL) | N/A |
+| 48 | [#UUCiptaKerja](http://twitter.com/search?q=%23UUCiptaKerja) | N/A |
 
 
 

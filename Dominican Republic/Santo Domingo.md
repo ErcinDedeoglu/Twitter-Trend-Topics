@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-14 13:18:28 UTC`
+📆 Last Updated: `2023-04-14 14:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,18 +16,18 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [alianza opositora](http://twitter.com/search?q=alianza+opositora) | N/A |
-| 2 | [montecristi](http://twitter.com/search?q=montecristi) | N/A |
-| 3 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
+| 2 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
+| 3 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
 | 4 | [wendy sherman](http://twitter.com/search?q=wendy+sherman) | N/A |
 | 5 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
 | 6 | [gallup](http://twitter.com/search?q=gallup) | N/A |
 | 7 | [antonio duvergé](http://twitter.com/search?q=antonio+duverg%c3%a9) | N/A |
 | 8 | [Francisco Javier](http://twitter.com/search?q=Francisco+Javier) | N/A |
-| 9 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
-| 10 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 11 | [doble reserva](http://twitter.com/search?q=doble+reserva) | N/A |
-| 12 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 13 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 9 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
+| 10 | [doble reserva](http://twitter.com/search?q=doble+reserva) | N/A |
+| 11 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 12 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 13 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
 | 14 | [el memiso](http://twitter.com/search?q=el+memiso) | N/A |
 | 15 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 16 | [#deúltimominuto](http://twitter.com/search?q=%23de%c3%baltimominuto) | N/A |
@@ -44,7 +44,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 27 | [estado de ee](http://twitter.com/search?q=estado+de+ee) | N/A |
 | 28 | [casa de campo](http://twitter.com/search?q=casa+de+campo) | N/A |
 | 29 | [Día Internacional del Beso](http://twitter.com/search?q=D%c3%ada+Internacional+del+Beso) | N/A |
-| 30 | [#Economia](http://twitter.com/search?q=%23Economia) | N/A |
+| 30 | [#economia](http://twitter.com/search?q=%23economia) | N/A |
 | 31 | [4 normas iso](http://twitter.com/search?q=4+normas+iso) | N/A |
 | 32 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
 | 33 | [vinicito](http://twitter.com/search?q=vinicito) | N/A |

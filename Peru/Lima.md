@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-14 13:18:33 UTC`
+📆 Last Updated: `2023-04-14 14:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Peru](</Peru>)
 | 2 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
 | 3 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 4 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 5 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 6 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 5 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 6 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 7 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
 | 8 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
 | 9 | [hugo bustíos](http://twitter.com/search?q=hugo+bust%c3%ados) | N/A |
@@ -38,7 +38,7 @@ This is top 50 for [Peru](</Peru>)
 | 21 | [estoy con tu karma](http://twitter.com/search?q=estoy+con+tu+karma) | N/A |
 | 22 | [1trago pa olvidarte](http://twitter.com/search?q=1trago+pa+olvidarte) | N/A |
 | 23 | [1trago out now](http://twitter.com/search?q=1trago+out+now) | N/A |
-| 24 | [Redentor](http://twitter.com/search?q=Redentor) | N/A |
+| 24 | [redentor](http://twitter.com/search?q=redentor) | N/A |
 | 25 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 26 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
 | 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
@@ -61,10 +61,10 @@ This is top 50 for [Peru](</Peru>)
 | 44 | [lapadula](http://twitter.com/search?q=lapadula) | N/A |
 | 45 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
 | 46 | [teleticket](http://twitter.com/search?q=teleticket) | N/A |
-| 47 | [huaral](http://twitter.com/search?q=huaral) | N/A |
-| 48 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 49 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
-| 50 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 47 | [Otarola](http://twitter.com/search?q=Otarola) | Otarola is a Spanish surname. It is derived from the Basque word "otar", which means "wolf". In English, the meaning of Otarola is "son of the wolf". |
+| 48 | [huaral](http://twitter.com/search?q=huaral) | N/A |
+| 49 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 50 | [D-DAY GLITCH FILM](http://twitter.com/search?q=D-DAY+GLITCH+FILM) | N/A |
 
 
 

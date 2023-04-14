@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-14 13:18:31 UTC`
+📆 Last Updated: `2023-04-14 14:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,35 +35,35 @@ This is top 50 for [Chile](</Chile>)
 | 18 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
 | 19 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 20 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 21 | [putre](http://twitter.com/search?q=putre) | N/A |
-| 22 | [OPORTUNISTA](http://twitter.com/search?q=OPORTUNISTA) | N/A |
-| 23 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 24 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 25 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 26 | [los quillayes](http://twitter.com/search?q=los+quillayes) | N/A |
-| 27 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
-| 28 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 29 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 30 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 31 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
-| 32 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 33 | [cataldo](http://twitter.com/search?q=cataldo) | N/A |
-| 34 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
-| 35 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 36 | [nayara vit](http://twitter.com/search?q=nayara+vit) | N/A |
-| 37 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
-| 38 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 39 | [barriga](http://twitter.com/search?q=barriga) | N/A |
-| 40 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
-| 41 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
-| 42 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 43 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 44 | [reginato](http://twitter.com/search?q=reginato) | N/A |
-| 45 | [INCOMPETENTE](http://twitter.com/search?q=INCOMPETENTE) | N/A |
-| 46 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 47 | [scotiabank](http://twitter.com/search?q=scotiabank) | N/A |
-| 48 | [las condes](http://twitter.com/search?q=las+condes) | N/A |
-| 49 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 21 | [OPORTUNISTA](http://twitter.com/search?q=OPORTUNISTA) | N/A |
+| 22 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 24 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 25 | [los quillayes](http://twitter.com/search?q=los+quillayes) | N/A |
+| 26 | [claudio bravo](http://twitter.com/search?q=claudio+bravo) | N/A |
+| 27 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 28 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 29 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 30 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
+| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 32 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
+| 33 | [Putre](http://twitter.com/search?q=Putre) | N/A |
+| 34 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 35 | [nayara vit](http://twitter.com/search?q=nayara+vit) | N/A |
+| 36 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
+| 37 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 38 | [Ladrona](http://twitter.com/search?q=Ladrona) | N/A |
+| 39 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
+| 40 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 41 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
+| 42 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 43 | [Manuel Montt](http://twitter.com/search?q=Manuel+Montt) | N/A |
+| 44 | [Botox](http://twitter.com/search?q=Botox) | N/A |
+| 45 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 46 | [INCOMPETENTE](http://twitter.com/search?q=INCOMPETENTE) | N/A |
+| 47 | [Scotiabank](http://twitter.com/search?q=Scotiabank) | N/A |
+| 48 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 49 | [Tere](http://twitter.com/search?q=Tere) | N/A |
 
 
 

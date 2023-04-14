@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-14 13:19:15 UTC`
+📆 Last Updated: `2023-04-14 14:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,15 +50,15 @@ This is top 50 for Guatemala
 | 33 | [doroteo](http://twitter.com/search?q=doroteo) | N/A |
 | 34 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
 | 35 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 36 | [mulet](http://twitter.com/search?q=mulet) | N/A |
-| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 38 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
-| 39 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 40 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 41 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
-| 42 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 43 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 44 | [el progreso](http://twitter.com/search?q=el+progreso) | N/A |
+| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 37 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
+| 38 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 39 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 40 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 42 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 43 | [el progreso](http://twitter.com/search?q=el+progreso) | N/A |
+| 44 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
 | 45 | [plgp](http://twitter.com/search?q=plgp) | N/A |
 | 46 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
