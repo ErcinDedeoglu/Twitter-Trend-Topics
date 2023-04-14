@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-04-14 05:18:05 UTC`
+📆 Last Updated: `2023-04-14 06:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Chile
 | 14 | [#sociosporelmundo](http://twitter.com/search?q=%23sociosporelmundo) | N/A |
 | 15 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
 | 16 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
-| 17 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
-| 18 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
+| 17 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
+| 18 | [Estefanía](http://twitter.com/search?q=Estefan%c3%ada) | N/A |
 | 19 | [The Cure](http://twitter.com/search?q=The+Cure) | N/A |
-| 20 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 21 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
-| 22 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [Municipalidad de Santiago](http://twitter.com/search?q=Municipalidad+de+Santiago) | N/A |
-| 25 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 26 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 27 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 28 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 29 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 30 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
-| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 32 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
-| 33 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 34 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 35 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 36 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
-| 37 | [Putre](http://twitter.com/search?q=Putre) | N/A |
-| 38 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
-| 39 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
-| 40 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 20 | [Emilio](http://twitter.com/search?q=Emilio) | N/A |
+| 21 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 22 | [Municipalidad de Santiago](http://twitter.com/search?q=Municipalidad+de+Santiago) | N/A |
+| 23 | [Alcalde](http://twitter.com/search?q=Alcalde) | N/A |
+| 24 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 25 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 26 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 27 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 28 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 29 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 30 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 31 | [Los Quillayes](http://twitter.com/search?q=Los+Quillayes) | N/A |
+| 32 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 33 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 34 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 35 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 36 | [Krispy Kreme](http://twitter.com/search?q=Krispy+Kreme) | N/A |
+| 37 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
+| 38 | [Putre](http://twitter.com/search?q=Putre) | N/A |
+| 39 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 40 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
 | 41 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
 | 42 | [Gestión](http://twitter.com/search?q=Gesti%c3%b3n) | N/A |
 | 43 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 44 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
+| 44 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
 | 45 | [Oportunismo](http://twitter.com/search?q=Oportunismo) | N/A |
-| 46 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 47 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 46 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 47 | [Quintrala](http://twitter.com/search?q=Quintrala) | N/A |
 | 48 | [Gloria Hutt](http://twitter.com/search?q=Gloria+Hutt) | N/A |
-| 49 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 50 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 49 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 50 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
 
 
 

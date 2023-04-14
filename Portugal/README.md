@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-14 05:18:10 UTC`
+📆 Last Updated: `2023-04-14 06:19:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for Portugal
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 2 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 3 | [Adan](http://twitter.com/search?q=Adan) | N/A |
-| 4 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
+| 2 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 3 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 4 | [chermiti](http://twitter.com/search?q=chermiti) | N/A |
 | 5 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
 | 6 | [st juste](http://twitter.com/search?q=st+juste) | N/A |
-| 7 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 8 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
-| 9 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 7 | [Esgaio](http://twitter.com/search?q=Esgaio) | N/A |
+| 8 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
+| 9 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 | 10 | [Morita](http://twitter.com/search?q=Morita) | N/A |
-| 11 | [Alvalade](http://twitter.com/search?q=Alvalade) | N/A |
+| 11 | [alvalade](http://twitter.com/search?q=alvalade) | N/A |
 | 12 | [Turim](http://twitter.com/search?q=Turim) | N/A |
 | 13 | [nuno santos](http://twitter.com/search?q=nuno+santos) | N/A |
 | 14 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for Portugal
 | 30 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
 | 31 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
 | 32 | [Boaventura](http://twitter.com/search?q=Boaventura) | N/A |
-| 33 | [#juvscp](http://twitter.com/search?q=%23juvscp) | N/A |
-| 34 | [Rita Matias](http://twitter.com/search?q=Rita+Matias) | N/A |
+| 33 | [#JUVSCP](http://twitter.com/search?q=%23JUVSCP) | N/A |
+| 34 | [rita matias](http://twitter.com/search?q=rita+matias) | N/A |
 | 35 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 36 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 37 | [matheus reis](http://twitter.com/search?q=matheus+reis) | N/A |
-| 38 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 39 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
-| 40 | [Essugo](http://twitter.com/search?q=Essugo) | N/A |
-| 41 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 36 | [matheus reis](http://twitter.com/search?q=matheus+reis) | N/A |
+| 37 | [Mafalda](http://twitter.com/search?q=Mafalda) | N/A |
+| 38 | [Essugo](http://twitter.com/search?q=Essugo) | N/A |
+| 39 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 40 | [Hungria](http://twitter.com/search?q=Hungria) | N/A |
+| 41 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 42 | [Shein](http://twitter.com/search?q=Shein) | N/A |
-| 43 | [Hungria](http://twitter.com/search?q=Hungria) | N/A |
-| 44 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 45 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 46 | [fatawu](http://twitter.com/search?q=fatawu) | N/A |
+| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 44 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
+| 45 | [fatawu](http://twitter.com/search?q=fatawu) | N/A |
+| 46 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 47 | [Szczesny](http://twitter.com/search?q=Szczesny) | N/A |
-| 48 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 49 | [Guterres](http://twitter.com/search?q=Guterres) | N/A |
-| 50 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 48 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 49 | [Diomande](http://twitter.com/search?q=Diomande) | N/A |
+| 50 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
 
 
 

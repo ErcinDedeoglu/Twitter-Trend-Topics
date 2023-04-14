@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-14 05:17:22 UTC`
+📆 Last Updated: `2023-04-14 06:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
 | 3 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
 | 4 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 5 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 6 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 5 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 6 | [Gims](http://twitter.com/search?q=Gims) | N/A |
 | 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 8 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 8 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
 | 9 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 10 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 11 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 10 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 11 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
 | 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 13 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
 | 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
@@ -33,35 +33,35 @@ This is top 50 for [France](</France>)
 | 16 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 17 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
 | 18 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 19 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 20 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 21 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 23 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 24 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 25 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 26 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 27 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 28 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 29 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 30 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 31 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 32 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 33 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 19 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 20 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
+| 21 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 22 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 23 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 24 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 25 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 26 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
+| 27 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 28 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 29 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 30 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 31 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 32 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
+| 33 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
 | 34 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 35 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
-| 36 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 37 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 38 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 39 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
-| 40 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 41 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 42 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 43 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 44 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 35 | [gentle mates](http://twitter.com/search?q=gentle+mates) | N/A |
+| 36 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 37 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
+| 38 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 39 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 40 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 41 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 42 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 43 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 44 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
 | 45 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 46 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 47 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 47 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
 
 
 

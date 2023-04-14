@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-04-14 05:18:02 UTC`
+📆 Last Updated: `2023-04-14 06:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 2 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 3 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 4 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 5 | [Mertz](http://twitter.com/search?q=Mertz) | N/A |
-| 6 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 7 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 8 | [#Gators](http://twitter.com/search?q=%23Gators) | N/A |
-| 9 | [#UCFDayofGiving](http://twitter.com/search?q=%23UCFDayofGiving) | N/A |
-| 10 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 11 | [#ErasTourTampa](http://twitter.com/search?q=%23ErasTourTampa) | N/A |
-| 12 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 13 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 14 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 15 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 16 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 17 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 4 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 5 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 6 | [#Gators](http://twitter.com/search?q=%23Gators) | N/A |
+| 7 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 8 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 9 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 10 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
+| 11 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 12 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 13 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 14 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 15 | [#VegasBorn](http://twitter.com/search?q=%23VegasBorn) | N/A |
+| 16 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 17 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
 | 18 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 19 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 20 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 21 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 19 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 20 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 21 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
 | 22 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
 | 23 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 24 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 25 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 24 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 25 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
 | 26 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 27 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 28 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 29 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 30 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
-| 31 | [LIKE GRAH](http://twitter.com/search?q=LIKE+GRAH) | N/A |
-| 32 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 33 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 34 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
-| 35 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 36 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 37 | [kurtis conner](http://twitter.com/search?q=kurtis+conner) | N/A |
-| 38 | [LUKE HUGHES](http://twitter.com/search?q=LUKE+HUGHES) | N/A |
-| 39 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 40 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 41 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 42 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 43 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 44 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
-| 45 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 46 | [Kelly Clarkson](http://twitter.com/search?q=Kelly+Clarkson) | N/A |
-| 47 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 48 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
-| 49 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 50 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 27 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
+| 28 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 29 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 30 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 31 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 32 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 33 | [LIKE GRAH](http://twitter.com/search?q=LIKE+GRAH) | N/A |
+| 34 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
+| 35 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 36 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
+| 37 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 38 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 39 | [kurtis conner](http://twitter.com/search?q=kurtis+conner) | N/A |
+| 40 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
+| 41 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 42 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 43 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 44 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 45 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
+| 46 | [NY in June](http://twitter.com/search?q=NY+in+June) | N/A |
+| 47 | [Rich Paul](http://twitter.com/search?q=Rich+Paul) | N/A |
+| 48 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 49 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 50 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-04-14 05:17:20 UTC`
+📆 Last Updated: `2023-04-14 06:18:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 10 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
 | 11 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
 | 12 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 13 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 14 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 15 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
-| 16 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
-| 17 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 18 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 19 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 20 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
-| 21 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 22 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 23 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 24 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
-| 25 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
-| 26 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
-| 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 29 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 13 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
+| 14 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 15 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 16 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 17 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
+| 18 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
+| 19 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
+| 20 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 21 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 22 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
+| 23 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
+| 24 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
+| 25 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
+| 26 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 28 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 29 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
 | 30 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 31 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 32 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 33 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
-| 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 35 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
-| 36 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
-| 37 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 38 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 39 | [cmdte](http://twitter.com/search?q=cmdte) | N/A |
-| 40 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 41 | [Milicia Nacional Bolivariana](http://twitter.com/search?q=Milicia+Nacional+Bolivariana) | N/A |
-| 42 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 43 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
-| 44 | [Poder Popular](http://twitter.com/search?q=Poder+Popular) | N/A |
-| 45 | [Lourdes López](http://twitter.com/search?q=Lourdes+L%c3%b3pez) | N/A |
-| 46 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
-| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 48 | [Harold Sosa](http://twitter.com/search?q=Harold+Sosa) | N/A |
-| 49 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 50 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 31 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
+| 32 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 33 | [día de la dignidad nacional](http://twitter.com/search?q=d%c3%ada+de+la+dignidad+nacional) | N/A |
+| 34 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
+| 35 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 36 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 37 | [cmdte](http://twitter.com/search?q=cmdte) | N/A |
+| 38 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 39 | [milicia nacional bolivariana](http://twitter.com/search?q=milicia+nacional+bolivariana) | N/A |
+| 40 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
+| 41 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
+| 42 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 43 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 44 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
+| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 46 | [Harold Sosa](http://twitter.com/search?q=Harold+Sosa) | N/A |
+| 47 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
+| 48 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 49 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 50 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
 
 
 
