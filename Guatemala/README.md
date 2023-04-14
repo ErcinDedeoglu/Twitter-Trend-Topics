@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-14 08:19:07 UTC`
+📆 Last Updated: `2023-04-14 09:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,27 +21,27 @@ This is top 50 for Guatemala
 | 4 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 6 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
-| 7 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
-| 8 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
-| 9 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 10 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 12 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
-| 13 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 14 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 15 | [londoño](http://twitter.com/search?q=londo%c3%b1o) | N/A |
-| 16 | [Thelma Cabrera](http://twitter.com/search?q=Thelma+Cabrera) | N/A |
-| 17 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 18 | [#1Trago](http://twitter.com/search?q=%231Trago) | N/A |
-| 19 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 20 | [Luis Hernández Azmitia](http://twitter.com/search?q=Luis+Hern%c3%a1ndez+Azmitia) | N/A |
-| 21 | [plan de gobierno](http://twitter.com/search?q=plan+de+gobierno) | N/A |
-| 22 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 23 | [ignacio fuentes](http://twitter.com/search?q=ignacio+fuentes) | N/A |
-| 24 | [Malacateco](http://twitter.com/search?q=Malacateco) | N/A |
-| 25 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 7 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
+| 8 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
+| 9 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 11 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | N/A |
+| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 13 | [londoño](http://twitter.com/search?q=londo%c3%b1o) | N/A |
+| 14 | [thelma cabrera](http://twitter.com/search?q=thelma+cabrera) | N/A |
+| 15 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 16 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 17 | [#1Trago](http://twitter.com/search?q=%231Trago) | N/A |
+| 18 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 19 | [luis hernández azmitia](http://twitter.com/search?q=luis+hern%c3%a1ndez+azmitia) | N/A |
+| 20 | [plan de gobierno](http://twitter.com/search?q=plan+de+gobierno) | N/A |
+| 21 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 22 | [ignacio fuentes](http://twitter.com/search?q=ignacio+fuentes) | N/A |
+| 23 | [Malacateco](http://twitter.com/search?q=Malacateco) | N/A |
+| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 25 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 26 | [#FavoritasLacyberadio](http://twitter.com/search?q=%23FavoritasLacyberadio) | N/A |
-| 27 | [#DennisArana](http://twitter.com/search?q=%23DennisArana) | N/A |
+| 27 | [#dennisarana](http://twitter.com/search?q=%23dennisarana) | N/A |
 | 28 | [Abre Spotify](http://twitter.com/search?q=Abre+Spotify) | N/A |
 | 29 | [Doctora](http://twitter.com/search?q=Doctora) | N/A |
 | 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |

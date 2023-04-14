@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-14 08:19:04 UTC`
+📆 Last Updated: `2023-04-14 09:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 3 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
-| 4 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 5 | [Massenschlägerei](http://twitter.com/search?q=Massenschl%c3%a4gerei) | N/A |
-| 6 | [#oebb](http://twitter.com/search?q=%23oebb) | N/A |
-| 7 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
-| 8 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
-| 9 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 10 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 11 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 12 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [Christine](http://twitter.com/search?q=Christine) | N/A |
-| 15 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 16 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 17 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
-| 18 | [Utopien](http://twitter.com/search?q=Utopien) | N/A |
-| 19 | [Störung](http://twitter.com/search?q=St%c3%b6rung) | N/A |
-| 20 | [Bures](http://twitter.com/search?q=Bures) | N/A |
-| 21 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 22 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 23 | [Firma](http://twitter.com/search?q=Firma) | N/A |
-| 24 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 25 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 26 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 27 | [Steuern](http://twitter.com/search?q=Steuern) | N/A |
-| 28 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
-| 29 | [Meldungen](http://twitter.com/search?q=Meldungen) | N/A |
-| 30 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
-| 31 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
-| 32 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
-| 33 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
-| 34 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 35 | [Kandidat](http://twitter.com/search?q=Kandidat) | N/A |
-| 36 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 37 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 38 | [Frau Schwaiger](http://twitter.com/search?q=Frau+Schwaiger) | N/A |
-| 39 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 40 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
-| 41 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 2 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 3 | [Massenschlägerei](http://twitter.com/search?q=Massenschl%c3%a4gerei) | N/A |
+| 4 | [#oebb](http://twitter.com/search?q=%23oebb) | N/A |
+| 5 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 6 | [Mahrer](http://twitter.com/search?q=Mahrer) | N/A |
+| 7 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 8 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 9 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 11 | [Christine](http://twitter.com/search?q=Christine) | N/A |
+| 12 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 13 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
+| 14 | [Utopien](http://twitter.com/search?q=Utopien) | N/A |
+| 15 | [Störung](http://twitter.com/search?q=St%c3%b6rung) | N/A |
+| 16 | [Bures](http://twitter.com/search?q=Bures) | N/A |
+| 17 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 18 | [Firma](http://twitter.com/search?q=Firma) | N/A |
+| 19 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 20 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 21 | [Praxis](http://twitter.com/search?q=Praxis) | N/A |
+| 22 | [Meldungen](http://twitter.com/search?q=Meldungen) | N/A |
+| 23 | [#Schnee](http://twitter.com/search?q=%23Schnee) | N/A |
+| 24 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 25 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
+| 26 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
+| 27 | [Stimmung](http://twitter.com/search?q=Stimmung) | N/A |
+| 28 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 29 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 30 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 31 | [Kandidat](http://twitter.com/search?q=Kandidat) | N/A |
+| 32 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 33 | [Frau Schwaiger](http://twitter.com/search?q=Frau+Schwaiger) | N/A |
+| 34 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 35 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 36 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 37 | [Arbeitsplätze](http://twitter.com/search?q=Arbeitspl%c3%a4tze) | N/A |
+| 38 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 39 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 40 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 41 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
 | 42 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 43 | [Drukos](http://twitter.com/search?q=Drukos) | N/A |
-| 44 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 45 | [#LigaZwa](http://twitter.com/search?q=%23LigaZwa) | N/A |
-| 46 | [Produktivität](http://twitter.com/search?q=Produktivit%c3%a4t) | N/A |
-| 47 | [Verlauf](http://twitter.com/search?q=Verlauf) | N/A |
+| 43 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 44 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 45 | [Drukos](http://twitter.com/search?q=Drukos) | N/A |
+| 46 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 47 | [Armut](http://twitter.com/search?q=Armut) | N/A |
 | 48 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 49 | [Vorsitzende](http://twitter.com/search?q=Vorsitzende) | N/A |
-| 50 | [Richter](http://twitter.com/search?q=Richter) | N/A |
+| 49 | [Arbeitskräftemangel](http://twitter.com/search?q=Arbeitskr%c3%a4ftemangel) | N/A |
+| 50 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | N/A |
 
 
 

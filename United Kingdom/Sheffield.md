@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sheffield
 
-📆 Last Updated: `2023-04-14 08:18:07 UTC`
+📆 Last Updated: `2023-04-14 09:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 3 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 4 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 1 | [#GrandNational](http://twitter.com/search?q=%23GrandNational) | N/A |
+| 2 | [#AintreeFestival](http://twitter.com/search?q=%23AintreeFestival) | N/A |
+| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 4 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 7 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 8 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 9 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 6 | [#riseandfall](http://twitter.com/search?q=%23riseandfall) | N/A |
+| 7 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 10 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 12 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 13 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 14 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 16 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
-| 17 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 18 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 19 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 20 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 21 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 22 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 23 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 24 | [Daily Quordle 445](http://twitter.com/search?q=Daily+Quordle+445) | N/A |
-| 25 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 29 | [Books](http://twitter.com/search?q=Books) | N/A |
-| 30 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 31 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
-| 32 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 33 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 34 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 35 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 37 | [Constitution Hill](http://twitter.com/search?q=Constitution+Hill) | N/A |
-| 38 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 41 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 42 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 44 | [ben johnson](http://twitter.com/search?q=ben+johnson) | N/A |
-| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 46 | [Daily Sequence Quordle 445](http://twitter.com/search?q=Daily+Sequence+Quordle+445) | N/A |
-| 47 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 48 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 11 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 12 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 13 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 14 | [Yvonne](http://twitter.com/search?q=Yvonne) | Yvonne is a French feminine given name derived from the Germanic name Yvon, which is derived from the element yv, meaning "yew". It is also a variant of the name Yvette, which means "little archer". |
+| 15 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
+| 16 | [Daily Quordle 445](http://twitter.com/search?q=Daily+Quordle+445) | N/A |
+| 17 | [Thierry Henry](http://twitter.com/search?q=Thierry+Henry) | N/A |
+| 18 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 19 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
+| 20 | [Cohen](http://twitter.com/search?q=Cohen) | Cohen is a Jewish surname derived from the Hebrew word kohen, meaning “priest.” It is most commonly associated with the Cohen family, a prominent Jewish family that has been traced back to Aaron, the brother of Moses. |
+| 21 | [Books](http://twitter.com/search?q=Books) | N/A |
+| 22 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 23 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 24 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 25 | [Voter ID](http://twitter.com/search?q=Voter+ID) | N/A |
+| 26 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 27 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 28 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 29 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 30 | [Kevin Blake](http://twitter.com/search?q=Kevin+Blake) | N/A |
+| 31 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 32 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
+| 33 | [Marbles](http://twitter.com/search?q=Marbles) | N/A |
+| 34 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 35 | [Kirsty](http://twitter.com/search?q=Kirsty) | N/A |
+| 36 | [EUIC](http://twitter.com/search?q=EUIC) | N/A |
+| 37 | [Carole](http://twitter.com/search?q=Carole) | N/A |
+| 38 | [Mr Beast](http://twitter.com/search?q=Mr+Beast) | N/A |
+| 39 | [Beloved](http://twitter.com/search?q=Beloved) | N/A |
+| 40 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 41 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 42 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 43 | [#FreeBetFriday](http://twitter.com/search?q=%23FreeBetFriday) | N/A |
+| 44 | [#ASongOrMovieForAnythingSoft](http://twitter.com/search?q=%23ASongOrMovieForAnythingSoft) | N/A |
+| 45 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 46 | [#WHFreeBet](http://twitter.com/search?q=%23WHFreeBet) | N/A |
+| 47 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 48 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
 
 
 

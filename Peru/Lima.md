@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-14 08:18:14 UTC`
+📆 Last Updated: `2023-04-14 09:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Peru](</Peru>)
 | 12 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
 | 13 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
 | 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [#ALANGULO](http://twitter.com/search?q=%23ALANGULO) | N/A |
-| 16 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 17 | [Mark Vito](http://twitter.com/search?q=Mark+Vito) | N/A |
-| 18 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 15 | [#alangulo](http://twitter.com/search?q=%23alangulo) | N/A |
+| 16 | [Mark Vito](http://twitter.com/search?q=Mark+Vito) | N/A |
+| 17 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 18 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
 | 19 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 20 | [ESTOY CON TU KARMA](http://twitter.com/search?q=ESTOY+CON+TU+KARMA) | N/A |
 | 21 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 22 | [1TRAGO OUT NOW](http://twitter.com/search?q=1TRAGO+OUT+NOW) | N/A |
 | 23 | [1TRAGO PA OLVIDARTE](http://twitter.com/search?q=1TRAGO+PA+OLVIDARTE) | N/A |
-| 24 | [Abancay](http://twitter.com/search?q=Abancay) | N/A |
-| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 28 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 29 | [Argel](http://twitter.com/search?q=Argel) | N/A |
-| 30 | [Redentor](http://twitter.com/search?q=Redentor) | N/A |
-| 31 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 33 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 34 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
-| 35 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 36 | [Castro Castro](http://twitter.com/search?q=Castro+Castro) | N/A |
-| 37 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 38 | [emily lima](http://twitter.com/search?q=emily+lima) | N/A |
-| 39 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
-| 40 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 41 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 42 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 43 | [Lapadula](http://twitter.com/search?q=Lapadula) | N/A |
-| 44 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 45 | [Sergio Tarache](http://twitter.com/search?q=Sergio+Tarache) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 26 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 27 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 28 | [argel](http://twitter.com/search?q=argel) | N/A |
+| 29 | [Redentor](http://twitter.com/search?q=Redentor) | N/A |
+| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 31 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 32 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
+| 33 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 34 | [castro castro](http://twitter.com/search?q=castro+castro) | N/A |
+| 35 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 36 | [emily lima](http://twitter.com/search?q=emily+lima) | N/A |
+| 37 | [Alas Peruanas](http://twitter.com/search?q=Alas+Peruanas) | N/A |
+| 38 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 39 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 40 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 41 | [Lapadula](http://twitter.com/search?q=Lapadula) | N/A |
+| 42 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 43 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
+| 44 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 45 | [magaly solier](http://twitter.com/search?q=magaly+solier) | N/A |
 | 46 | [Otarola](http://twitter.com/search?q=Otarola) | Otarola is a Spanish surname. It is derived from the Basque word "otar", which means "wolf". In English, the meaning of Otarola is "son of the wolf". |
-| 47 | [Fuerza Popular](http://twitter.com/search?q=Fuerza+Popular) | N/A |
-| 48 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 49 | [magaly solier](http://twitter.com/search?q=magaly+solier) | N/A |
-| 50 | [Saharaui](http://twitter.com/search?q=Saharaui) | N/A |
+| 47 | [Saharaui](http://twitter.com/search?q=Saharaui) | N/A |
+| 48 | [sergio tarache parra](http://twitter.com/search?q=sergio+tarache+parra) | N/A |
+| 49 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 50 | [usmp](http://twitter.com/search?q=usmp) | N/A |
 
 
 

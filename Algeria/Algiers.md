@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-14 08:18:39 UTC`
+📆 Last Updated: `2023-04-14 09:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Algeria](</Algeria>)
 | 11 | [إشبيلية](http://twitter.com/search?q=%d8%a5%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
 | 12 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
 | 13 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 14 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 14 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 | 15 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 16 | [#نابولي](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | N/A |
 | 17 | [Bennacer](http://twitter.com/search?q=Bennacer) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Algeria](</Algeria>)
 | 21 | [علي الاعتماد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b9%d8%aa%d9%85%d8%a7%d8%af) | N/A |
 | 22 | [laad-2023](http://twitter.com/search?q=laad-2023) | N/A |
 | 23 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 24 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
-| 25 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 26 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 27 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 28 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 29 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
-| 30 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 31 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 32 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 33 | [القمه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 34 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 35 | [الحضن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 36 | [ياسر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1) | N/A |
-| 37 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 38 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
-| 39 | [12 افريل 2023](http://twitter.com/search?q=12+%d8%a7%d9%81%d8%b1%d9%8a%d9%84+2023) | N/A |
-| 40 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
-| 41 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 42 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
-| 43 | [مانشستر يونايتد](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 44 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 45 | [وزير الخارجيه السوري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 46 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 47 | [ومصر](http://twitter.com/search?q=%d9%88%d9%85%d8%b5%d8%b1) | N/A |
-| 48 | [الحبل الازرق](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%b2%d8%b1%d9%82) | N/A |
-| 49 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
-| 50 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 24 | [السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 25 | [النظام السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 26 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 27 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
+| 28 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | N/A |
+| 29 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 30 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 31 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 32 | [القمه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 33 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 34 | [ياسر](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1) | N/A |
+| 35 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 36 | [الحضن العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b6%d9%86+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 37 | [ساني](http://twitter.com/search?q=%d8%b3%d8%a7%d9%86%d9%8a) | N/A |
+| 38 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | N/A |
+| 39 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 40 | [مانشستر يونايتد](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 41 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
+| 42 | [وزير الخارجيه السوري](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 43 | [ومصر](http://twitter.com/search?q=%d9%88%d9%85%d8%b5%d8%b1) | N/A |
+| 44 | [الحبل الازرق](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%a8%d9%84+%d8%a7%d9%84%d8%a7%d8%b2%d8%b1%d9%82) | N/A |
+| 45 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 46 | [الصين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%8a%d9%86) | N/A |
+| 47 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 48 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | N/A |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [الموثرات العقليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%ab%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%82%d9%84%d9%8a%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-14 08:18:59 UTC`
+📆 Last Updated: `2023-04-14 09:18:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 2 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 3 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 4 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
-| 5 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
-| 6 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 7 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 8 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
+| 3 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 4 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 5 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 6 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
+| 7 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 8 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
 | 9 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 10 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 10 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
 | 11 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 12 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 13 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 14 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 15 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 16 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 12 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 13 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 14 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 15 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 16 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
 | 17 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 18 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 18 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
 | 19 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 20 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 21 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 22 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 23 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 24 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 25 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 26 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
-| 27 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 28 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 29 | [Rich Paul](http://twitter.com/search?q=Rich+Paul) | N/A |
-| 30 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 31 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 32 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
-| 33 | [KURTIS CONNER](http://twitter.com/search?q=KURTIS+CONNER) | N/A |
-| 34 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 35 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 36 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 37 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 38 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 39 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 40 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
-| 41 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 20 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 21 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 22 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 23 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 24 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 25 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 26 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 27 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 28 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 29 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
+| 30 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 31 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 32 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 33 | [Rich Paul](http://twitter.com/search?q=Rich+Paul) | N/A |
+| 34 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 35 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 36 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 37 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 38 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
+| 39 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 40 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 41 | [Toews](http://twitter.com/search?q=Toews) | N/A |
 | 42 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 | 43 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
-| 44 | [NY in June](http://twitter.com/search?q=NY+in+June) | N/A |
+| 44 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
 | 45 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 46 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
-| 47 | [Pacific Division](http://twitter.com/search?q=Pacific+Division) | N/A |
-| 48 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 49 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
-| 50 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
+| 46 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 47 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 48 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
+| 49 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
+| 50 | [Polynesian](http://twitter.com/search?q=Polynesian) | N/A |
 
 
 

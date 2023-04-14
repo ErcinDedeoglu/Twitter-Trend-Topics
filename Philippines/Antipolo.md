@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-04-14 08:18:37 UTC`
+📆 Last Updated: `2023-04-14 09:18:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
 | 2 | [Atty](http://twitter.com/search?q=Atty) | N/A |
-| 3 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
-| 4 | [#aespa_is_back](http://twitter.com/search?q=%23aespa_is_back) | N/A |
-| 5 | [#HELLO_TREASUREinManila](http://twitter.com/search?q=%23HELLO_TREASUREinManila) | N/A |
-| 6 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
-| 7 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 8 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
-| 9 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 10 | [d1 kdlexpeta comeback](http://twitter.com/search?q=d1+kdlexpeta+comeback) | N/A |
-| 11 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
-| 12 | [MAGANDANG BUHAY VIBRENT](http://twitter.com/search?q=MAGANDANG+BUHAY+VIBRENT) | N/A |
-| 13 | [HAPPY 1ST YEAR KARLIAN](http://twitter.com/search?q=HAPPY+1ST+YEAR+KARLIAN) | N/A |
-| 14 | [MALIGAYANG PAGBABALIK](http://twitter.com/search?q=MALIGAYANG+PAGBABALIK) | N/A |
-| 15 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
-| 16 | [ABOGADO NA AKO](http://twitter.com/search?q=ABOGADO+NA+AKO) | N/A |
-| 17 | [d-1 to paraiso](http://twitter.com/search?q=d-1+to+paraiso) | N/A |
-| 18 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 19 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
-| 20 | [Salamat Manila](http://twitter.com/search?q=Salamat+Manila) | N/A |
-| 21 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 22 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 23 | [New Lawyers](http://twitter.com/search?q=New+Lawyers) | N/A |
-| 24 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 25 | [KATH FOR GATORADE](http://twitter.com/search?q=KATH+FOR+GATORADE) | N/A |
+| 3 | [#aespa_is_back](http://twitter.com/search?q=%23aespa_is_back) | N/A |
+| 4 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
+| 5 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
+| 6 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
+| 7 | [#JOYxHaDongQn_BlueNightSong](http://twitter.com/search?q=%23JOYxHaDongQn_BlueNightSong) | N/A |
+| 8 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
+| 9 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
+| 10 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
+| 11 | [d1 kdlexpeta comeback](http://twitter.com/search?q=d1+kdlexpeta+comeback) | N/A |
+| 12 | [ZACHAM SA PIEPNPPF](http://twitter.com/search?q=ZACHAM+SA+PIEPNPPF) | N/A |
+| 13 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
+| 14 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
+| 15 | [HAPPY 1ST YEAR KARLIAN](http://twitter.com/search?q=HAPPY+1ST+YEAR+KARLIAN) | N/A |
+| 16 | [MAGANDANG BUHAY VIBRENT](http://twitter.com/search?q=MAGANDANG+BUHAY+VIBRENT) | N/A |
+| 17 | [MARBELous HORI7ON](http://twitter.com/search?q=MARBELous+HORI7ON) | N/A |
+| 18 | [MALIGAYANG PAGBABALIK](http://twitter.com/search?q=MALIGAYANG+PAGBABALIK) | N/A |
+| 19 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
+| 20 | [d-1 to paraiso](http://twitter.com/search?q=d-1+to+paraiso) | N/A |
+| 21 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
+| 22 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 23 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 24 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 25 | [ABOGADO NA AKO](http://twitter.com/search?q=ABOGADO+NA+AKO) | N/A |
 | 26 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
-| 27 | [fml official photo 2](http://twitter.com/search?q=fml+official+photo+2) | N/A |
-| 28 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
-| 29 | [Mindanao](http://twitter.com/search?q=Mindanao) | N/A |
-| 30 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 31 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
-| 32 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
-| 33 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
-| 34 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
-| 35 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 36 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 37 | [Attorneys](http://twitter.com/search?q=Attorneys) | N/A |
-| 38 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
-| 39 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 40 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 41 | [San Beda](http://twitter.com/search?q=San+Beda) | N/A |
-| 42 | [maymay autodeadma soon](http://twitter.com/search?q=maymay+autodeadma+soon) | N/A |
-| 43 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
-| 44 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
+| 27 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
+| 28 | [Salamat Manila](http://twitter.com/search?q=Salamat+Manila) | N/A |
+| 29 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 30 | [KATH FOR GATORADE](http://twitter.com/search?q=KATH+FOR+GATORADE) | N/A |
+| 31 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
+| 32 | [lee jihoon](http://twitter.com/search?q=lee+jihoon) | N/A |
+| 33 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
+| 34 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
+| 35 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
+| 36 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
+| 37 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 38 | [Attorney](http://twitter.com/search?q=Attorney) | N/A |
+| 39 | [Lawyers](http://twitter.com/search?q=Lawyers) | N/A |
+| 40 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
+| 41 | [RPhs](http://twitter.com/search?q=RPhs) | N/A |
+| 42 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 43 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 44 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
 | 45 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 46 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 47 | [superiority performancevideo](http://twitter.com/search?q=superiority+performancevideo) | N/A |
-| 48 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 49 | [junhoe as yang jinho](http://twitter.com/search?q=junhoe+as+yang+jinho) | N/A |
+| 46 | [superiority performancevideo](http://twitter.com/search?q=superiority+performancevideo) | N/A |
+| 47 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 48 | [THANK YOU LORD](http://twitter.com/search?q=THANK+YOU+LORD) | N/A |
+| 49 | [San Beda](http://twitter.com/search?q=San+Beda) | N/A |
 | 50 | [Haram](http://twitter.com/search?q=Haram) | N/A |
 
 

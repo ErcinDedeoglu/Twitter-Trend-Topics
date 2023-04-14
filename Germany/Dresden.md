@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-14 08:18:22 UTC`
+📆 Last Updated: `2023-04-14 09:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#Doepfner](http://twitter.com/search?q=%23Doepfner) | N/A |
 | 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 3 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 4 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 5 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
-| 6 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 7 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 8 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 4 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
+| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 6 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 7 | [#Baerbock](http://twitter.com/search?q=%23Baerbock) | N/A |
+| 8 | ['Komplementärfarben'](http://twitter.com/search?q=%27Komplement%c3%a4rfarben%27) | N/A |
 | 9 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 10 | ['Komplementärfarben'](http://twitter.com/search?q=%27Komplement%c3%a4rfarben%27) | N/A |
-| 11 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 12 | [#B04USG](http://twitter.com/search?q=%23B04USG) | N/A |
-| 13 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
-| 14 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 15 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 16 | [Messing](http://twitter.com/search?q=Messing) | N/A |
-| 17 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 18 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 20 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 21 | [Ulrike](http://twitter.com/search?q=Ulrike) | N/A |
-| 22 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 23 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 24 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
-| 25 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 26 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 27 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 28 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 29 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 30 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 31 | [Start in den Freitag](http://twitter.com/search?q=Start+in+den+Freitag) | N/A |
-| 32 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
-| 33 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
-| 34 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
-| 35 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 36 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 37 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
-| 38 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 39 | [Energiesparen](http://twitter.com/search?q=Energiesparen) | N/A |
-| 40 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 41 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
-| 42 | [Erkältung](http://twitter.com/search?q=Erk%c3%a4ltung) | N/A |
-| 43 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 44 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 45 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | N/A |
+| 10 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 11 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 12 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
+| 13 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 14 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 15 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 16 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 17 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 18 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 19 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 20 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 21 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 22 | [Messing](http://twitter.com/search?q=Messing) | N/A |
+| 23 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
+| 24 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
+| 25 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 26 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
+| 27 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 28 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 29 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 30 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
+| 31 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 32 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
+| 33 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 34 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 35 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 36 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 37 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
+| 38 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 39 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 40 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 41 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 42 | [Nobelpreisträger](http://twitter.com/search?q=Nobelpreistr%c3%a4ger) | N/A |
+| 43 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 44 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 45 | [Abtreibungen](http://twitter.com/search?q=Abtreibungen) | N/A |
 | 46 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
-| 47 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 47 | [Säure](http://twitter.com/search?q=S%c3%a4ure) | N/A |
 | 48 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 49 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 49 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
 
 
 
