@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-14 03:17:41 UTC`
+📆 Last Updated: `2023-04-14 04:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
 | 2 | [Casey Mittelstadt](http://twitter.com/search?q=Casey+Mittelstadt) | N/A |
 | 3 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 4 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 5 | [Senators](http://twitter.com/search?q=Senators) | N/A |
-| 6 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 7 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
-| 8 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 9 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 4 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 5 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 6 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 7 | [Senators](http://twitter.com/search?q=Senators) | N/A |
+| 8 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 9 | [Crow](http://twitter.com/search?q=Crow) | N/A |
 | 10 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
 | 11 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
-| 12 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
-| 13 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 14 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
-| 15 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 16 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 17 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 18 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 19 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 20 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 21 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 22 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 23 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 12 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 13 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 14 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 15 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 16 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 17 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 18 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 19 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 20 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 21 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 22 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 23 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
 | 24 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 25 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 25 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
 | 26 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 27 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 28 | [Norah](http://twitter.com/search?q=Norah) | N/A |
-| 29 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 30 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 31 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 32 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 33 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
-| 34 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 35 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 27 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 28 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 29 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 30 | [Norah](http://twitter.com/search?q=Norah) | N/A |
+| 31 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
+| 32 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
+| 33 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 34 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 35 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
 | 36 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 37 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 38 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 37 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 38 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
 | 39 | [Maile](http://twitter.com/search?q=Maile) | N/A |
-| 40 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 41 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 42 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 43 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 44 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 45 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 46 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 47 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 48 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 49 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 50 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 40 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 41 | [Here I Am](http://twitter.com/search?q=Here+I+Am) | N/A |
+| 42 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 43 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 44 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 45 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 46 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 47 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 48 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 49 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 50 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
 
 
 

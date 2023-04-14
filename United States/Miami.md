@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-04-14 03:17:40 UTC`
+📆 Last Updated: `2023-04-14 04:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 2 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 3 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 4 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 5 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 6 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 7 | [#Gators](http://twitter.com/search?q=%23Gators) | N/A |
-| 8 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 9 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
-| 10 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 11 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 12 | [#ErasTourTampa](http://twitter.com/search?q=%23ErasTourTampa) | N/A |
-| 13 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 14 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 15 | [#UCFDayofGiving](http://twitter.com/search?q=%23UCFDayofGiving) | N/A |
-| 16 | [Broward County](http://twitter.com/search?q=Broward+County) | N/A |
-| 17 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 18 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
-| 19 | [#TSxCapitalOne](http://twitter.com/search?q=%23TSxCapitalOne) | N/A |
-| 20 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 21 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
-| 22 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 23 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 24 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 25 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 26 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 27 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 28 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 1 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 2 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 3 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
+| 4 | [#Gators](http://twitter.com/search?q=%23Gators) | N/A |
+| 5 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
+| 6 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
+| 7 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 8 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 11 | [#ErasTourTampa](http://twitter.com/search?q=%23ErasTourTampa) | N/A |
+| 12 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 13 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 14 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 15 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 16 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 17 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 18 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 19 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 20 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 21 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 22 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 23 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 24 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 25 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 26 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 27 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 28 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
 | 29 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 30 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 31 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 30 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 31 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
 | 32 | [Norah](http://twitter.com/search?q=Norah) | N/A |
 | 33 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 34 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 35 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 36 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
-| 37 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 38 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 39 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 34 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
+| 35 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 36 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 37 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 38 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 39 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
 | 40 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 41 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 42 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 43 | [Maile](http://twitter.com/search?q=Maile) | N/A |
-| 44 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 41 | [Maile](http://twitter.com/search?q=Maile) | N/A |
+| 42 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 43 | [Here I Am](http://twitter.com/search?q=Here+I+Am) | N/A |
+| 44 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
 | 45 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 46 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 47 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 48 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 49 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 46 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 47 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 48 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 49 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 50 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
 
 

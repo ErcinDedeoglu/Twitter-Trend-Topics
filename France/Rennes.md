@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-04-14 03:17:10 UTC`
+📆 Last Updated: `2023-04-14 04:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 3 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
-| 4 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
-| 5 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 6 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 7 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 9 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 4 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 5 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 6 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 8 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 9 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 10 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
 | 11 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 12 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 13 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 14 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 16 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 13 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 15 | [chirine](http://twitter.com/search?q=chirine) | N/A |
+| 16 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 17 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 18 | [chirine](http://twitter.com/search?q=chirine) | N/A |
-| 19 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 20 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 21 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 22 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 23 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 24 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 25 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 26 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 27 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 28 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 29 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 30 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 31 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 32 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 33 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 34 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 35 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 36 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 37 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 38 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 39 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 40 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 41 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
-| 42 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 43 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 18 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 19 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 20 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 21 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 22 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 23 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 24 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 25 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 26 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 27 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 28 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 29 | [brawks](http://twitter.com/search?q=brawks) | N/A |
+| 30 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
+| 31 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 32 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 33 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 34 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 35 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 36 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 37 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
+| 38 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
+| 39 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 40 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 41 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 42 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 43 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
 | 44 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 45 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 46 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
-| 47 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
-| 48 | [Remis](http://twitter.com/search?q=Remis) | N/A |
+| 45 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
+| 46 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 47 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 48 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
 
 
 

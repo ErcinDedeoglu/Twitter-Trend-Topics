@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-14 03:17:04 UTC`
+📆 Last Updated: `2023-04-14 04:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#RebeliónCívicoMilitar](http://twitter.com/search?q=%23Rebeli%c3%b3nC%c3%advicoMilitar) | N/A |
 | 3 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 4 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 5 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 5 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
 | 6 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 7 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 7 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
 | 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 9 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 10 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 11 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
-| 12 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 13 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
-| 14 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
+| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 10 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 11 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
+| 12 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 13 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
+| 14 | [El 13](http://twitter.com/search?q=El+13) | N/A |
 | 15 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 16 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 16 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
 | 17 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 18 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 19 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
-| 20 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 18 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 19 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 20 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
 | 21 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 22 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 23 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
+| 22 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
+| 23 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
 | 24 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
-| 25 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
+| 25 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
 | 26 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
-| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 28 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 29 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 30 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 29 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 30 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
 | 31 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 32 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 33 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
+| 32 | [Codo](http://twitter.com/search?q=Codo) | N/A |
+| 33 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
 | 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 35 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
-| 36 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
-| 37 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 38 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
-| 39 | [Cmdte](http://twitter.com/search?q=Cmdte) | N/A |
-| 40 | [Tina Turner](http://twitter.com/search?q=Tina+Turner) | N/A |
-| 41 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 42 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
-| 43 | [Milicia Nacional Bolivariana](http://twitter.com/search?q=Milicia+Nacional+Bolivariana) | N/A |
-| 44 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 45 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 46 | [Poder Popular](http://twitter.com/search?q=Poder+Popular) | N/A |
-| 47 | [Lourdes López](http://twitter.com/search?q=Lourdes+L%c3%b3pez) | N/A |
-| 48 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
+| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 36 | [Cmdte](http://twitter.com/search?q=Cmdte) | N/A |
+| 37 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
+| 38 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 39 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
+| 40 | [Lourdes López](http://twitter.com/search?q=Lourdes+L%c3%b3pez) | N/A |
+| 41 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
+| 42 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 43 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 44 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 45 | [Milicia Nacional Bolivariana](http://twitter.com/search?q=Milicia+Nacional+Bolivariana) | N/A |
+| 46 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 47 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
+| 48 | [Conde](http://twitter.com/search?q=Conde) | N/A |
 
 
 
