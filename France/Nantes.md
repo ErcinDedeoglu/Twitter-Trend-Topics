@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-04-14 01:43:24 UTC`
+📆 Last Updated: `2023-04-14 02:29:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for [France](</France>)
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
 | 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
-| 4 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 5 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 6 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 7 | [#ZeldaTearsOfTheKingdom](http://twitter.com/search?q=%23ZeldaTearsOfTheKingdom) | N/A |
+| 4 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 5 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 6 | [#ZeldaTearsOfTheKingdom](http://twitter.com/search?q=%23ZeldaTearsOfTheKingdom) | N/A |
+| 7 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
 | 8 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
 | 9 | [Gims](http://twitter.com/search?q=Gims) | N/A |
 | 10 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
@@ -30,39 +30,39 @@ This is top 50 for [France](</France>)
 | 13 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 14 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
 | 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 16 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 16 | [chirine](http://twitter.com/search?q=chirine) | N/A |
 | 17 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 18 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 19 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 20 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 21 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
-| 22 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 23 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 24 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 25 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 26 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 27 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 28 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 29 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 30 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 31 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 32 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 33 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 34 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 35 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 36 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 37 | [Demain 19h](http://twitter.com/search?q=Demain+19h) | N/A |
-| 38 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 39 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 40 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 41 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 42 | [EP de PLK](http://twitter.com/search?q=EP+de+PLK) | N/A |
-| 43 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 44 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 45 | [Remis](http://twitter.com/search?q=Remis) | N/A |
-| 46 | [Panama Bende](http://twitter.com/search?q=Panama+Bende) | N/A |
-| 47 | [gentle mates](http://twitter.com/search?q=gentle+mates) | N/A |
-| 48 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 21 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 22 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 23 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 24 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 25 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 26 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 27 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 28 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 29 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 30 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 31 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 32 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 33 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 34 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 35 | [Demain 19h](http://twitter.com/search?q=Demain+19h) | N/A |
+| 36 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 37 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 38 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 39 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 40 | [EP de PLK](http://twitter.com/search?q=EP+de+PLK) | N/A |
+| 41 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 42 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 43 | [Remis](http://twitter.com/search?q=Remis) | N/A |
+| 44 | [Gentle Mates](http://twitter.com/search?q=Gentle+Mates) | N/A |
+| 45 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 46 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
+| 47 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 48 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
 
 
 

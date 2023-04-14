@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-04-14 01:43:47 UTC`
+📆 Last Updated: `2023-04-14 02:29:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 9 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 12 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 13 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 15 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 16 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 17 | [your zakat](http://twitter.com/search?q=your+zakat) | N/A |
-| 18 | [Gul Bukhari](http://twitter.com/search?q=Gul+Bukhari) | N/A |
+| 11 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
+| 12 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 14 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 16 | [your zakat](http://twitter.com/search?q=your+zakat) | N/A |
+| 17 | [Gul Bukhari](http://twitter.com/search?q=Gul+Bukhari) | N/A |
+| 18 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
 | 19 | [SKMH](http://twitter.com/search?q=SKMH) | N/A |
 | 20 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 22 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
-| 23 | [akash ram](http://twitter.com/search?q=akash+ram) | N/A |
-| 24 | [sami ibrahim](http://twitter.com/search?q=sami+ibrahim) | N/A |
-| 25 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
-| 26 | [Down With Israel](http://twitter.com/search?q=Down+With+Israel) | N/A |
-| 27 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 28 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
-| 29 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 30 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 31 | [Unequal](http://twitter.com/search?q=Unequal) | N/A |
+| 21 | [Bol News](http://twitter.com/search?q=Bol+News) | N/A |
+| 22 | [akash ram](http://twitter.com/search?q=akash+ram) | N/A |
+| 23 | [sami ibrahim](http://twitter.com/search?q=sami+ibrahim) | N/A |
+| 24 | [Down With Israel](http://twitter.com/search?q=Down+With+Israel) | N/A |
+| 25 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 26 | [bol network](http://twitter.com/search?q=bol+network) | N/A |
+| 27 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
+| 28 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 29 | [Unequal](http://twitter.com/search?q=Unequal) | N/A |
+| 30 | [Fairy](http://twitter.com/search?q=Fairy) | N/A |
+| 31 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 32 | [Pakistan Bar Council](http://twitter.com/search?q=Pakistan+Bar+Council) | N/A |
 | 33 | [Mufti Saeed](http://twitter.com/search?q=Mufti+Saeed) | N/A |
 | 34 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 35 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 36 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 37 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 38 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
-| 39 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 40 | [nafisa kamal](http://twitter.com/search?q=nafisa+kamal) | N/A |
+| 36 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
+| 37 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 38 | [22nd ramadan](http://twitter.com/search?q=22nd+ramadan) | N/A |
+| 39 | [nafisa kamal](http://twitter.com/search?q=nafisa+kamal) | N/A |
+| 40 | [Saim](http://twitter.com/search?q=Saim) | N/A |
 | 41 | [Skipper](http://twitter.com/search?q=Skipper) | N/A |
-| 42 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 43 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 44 | [Hina](http://twitter.com/search?q=Hina) | N/A |
-| 45 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 46 | [Zaman](http://twitter.com/search?q=Zaman) | N/A |
-| 47 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
-| 48 | [Night Of Blessings](http://twitter.com/search?q=Night+Of+Blessings) | N/A |
-| 49 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
+| 42 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 43 | [Hina](http://twitter.com/search?q=Hina) | N/A |
+| 44 | [Night Of Blessings](http://twitter.com/search?q=Night+Of+Blessings) | N/A |
+| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 46 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
+| 47 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
+| 48 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
+| 49 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
 
 
 

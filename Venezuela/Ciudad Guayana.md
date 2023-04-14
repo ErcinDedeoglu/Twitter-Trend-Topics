@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Guayana
 
-📆 Last Updated: `2023-04-14 01:43:19 UTC`
+📆 Last Updated: `2023-04-14 02:28:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 4 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 5 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 6 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 7 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 6 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 7 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
 | 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 9 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
 | 10 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 11 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 11 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
 | 12 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 13 | [Lourdes López](http://twitter.com/search?q=Lourdes+L%c3%b3pez) | N/A |
-| 14 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 15 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 16 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 13 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 14 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
+| 15 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 16 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
 | 17 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 18 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
-| 19 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 20 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 21 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 22 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
-| 23 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 24 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 25 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
+| 18 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 19 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 20 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
+| 21 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 22 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 23 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
+| 24 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
+| 25 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
 | 26 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 27 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
-| 28 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
-| 29 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 30 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 31 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 32 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
-| 33 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 34 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 35 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
-| 36 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 37 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
-| 38 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 39 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
-| 40 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 41 | [Cmdte](http://twitter.com/search?q=Cmdte) | N/A |
-| 42 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
-| 43 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 44 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
-| 45 | [Madison](http://twitter.com/search?q=Madison) | N/A |
-| 46 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 47 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 28 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 29 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 30 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
+| 31 | [Codo](http://twitter.com/search?q=Codo) | N/A |
+| 32 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 33 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
+| 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 35 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
+| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 37 | [Cmdte](http://twitter.com/search?q=Cmdte) | N/A |
+| 38 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
+| 39 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 40 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 41 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
+| 42 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
+| 43 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
+| 44 | [Lourdes López](http://twitter.com/search?q=Lourdes+L%c3%b3pez) | N/A |
+| 45 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 46 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 47 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 48 | [Milicia Nacional Bolivariana](http://twitter.com/search?q=Milicia+Nacional+Bolivariana) | N/A |
 
 
 

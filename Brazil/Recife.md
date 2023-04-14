@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-04-14 01:43:20 UTC`
+📆 Last Updated: `2023-04-14 02:28:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Júlio](http://twitter.com/search?q=J%c3%balio) | N/A |
 | 2 | [Jael](http://twitter.com/search?q=Jael) | N/A |
 | 3 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 4 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
-| 5 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 6 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 7 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 4 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 5 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 6 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 7 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
 | 8 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 9 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 10 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 11 | [demi lovato](http://twitter.com/search?q=demi+lovato) | N/A |
-| 12 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 13 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 14 | [O Flamengo](http://twitter.com/search?q=O+Flamengo) | N/A |
-| 15 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 16 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 17 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 18 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
-| 19 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
-| 20 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 21 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 22 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
-| 23 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
-| 24 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
-| 25 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 26 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
-| 27 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 28 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 29 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 30 | [Série D](http://twitter.com/search?q=S%c3%a9rie+D) | N/A |
-| 31 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 32 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 33 | [Esse Flamengo](http://twitter.com/search?q=Esse+Flamengo) | N/A |
-| 34 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
-| 35 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 36 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 37 | [DEMETRIA](http://twitter.com/search?q=DEMETRIA) | N/A |
-| 38 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
-| 39 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 40 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 41 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 42 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 43 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 44 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 45 | [Paraná](http://twitter.com/search?q=Paran%c3%a1) | N/A |
-| 46 | [Tonho](http://twitter.com/search?q=Tonho) | N/A |
-| 47 | [Vital](http://twitter.com/search?q=Vital) | N/A |
-| 48 | [Cristiano Araújo](http://twitter.com/search?q=Cristiano+Ara%c3%bajo) | N/A |
-| 49 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 50 | [DESEJO IMORTAL](http://twitter.com/search?q=DESEJO+IMORTAL) | N/A |
+| 9 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 10 | [#BBB233](http://twitter.com/search?q=%23BBB233) | N/A |
+| 11 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 12 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 13 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 14 | [demi lovato](http://twitter.com/search?q=demi+lovato) | N/A |
+| 15 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 16 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
+| 17 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 18 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
+| 19 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 20 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 21 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 22 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 23 | [O Flamengo](http://twitter.com/search?q=O+Flamengo) | N/A |
+| 24 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
+| 25 | [#DAYVermelhoFarol](http://twitter.com/search?q=%23DAYVermelhoFarol) | N/A |
+| 26 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 27 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 28 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 29 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 30 | [Que BBB](http://twitter.com/search?q=Que+BBB) | N/A |
+| 31 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 32 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 33 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
+| 34 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
+| 35 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 36 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
+| 37 | [Desisto](http://twitter.com/search?q=Desisto) | N/A |
+| 38 | [Zinho](http://twitter.com/search?q=Zinho) | Zinho is a Portuguese nickname meaning “little one” or “small one”. It is often used as a term of endearment for someone who is young or small. |
+| 39 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
+| 40 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 41 | [Rocco](http://twitter.com/search?q=Rocco) | N/A |
+| 42 | [Votei](http://twitter.com/search?q=Votei) | N/A |
+| 43 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 44 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 45 | [Falsas](http://twitter.com/search?q=Falsas) | N/A |
+| 46 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
+| 47 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 48 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
+| 49 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 50 | [Kate](http://twitter.com/search?q=Kate) | N/A |
 
 
 

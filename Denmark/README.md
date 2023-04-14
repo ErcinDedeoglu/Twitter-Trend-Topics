@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-14 01:44:03 UTC`
+📆 Last Updated: `2023-04-14 02:29:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,7 +38,7 @@ This is top 50 for Denmark
 | 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 22 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
 | 23 | [mobilepay](http://twitter.com/search?q=mobilepay) | N/A |
-| 24 | [Troede](http://twitter.com/search?q=Troede) | N/A |
+| 24 | [troede](http://twitter.com/search?q=troede) | N/A |
 | 25 | [Manden](http://twitter.com/search?q=Manden) | N/A |
 | 26 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
 | 27 | [Milan](http://twitter.com/search?q=Milan) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Denmark
 | 33 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 34 | [Brostrøm](http://twitter.com/search?q=Brostr%c3%b8m) | N/A |
 | 35 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 36 | [Roskilde](http://twitter.com/search?q=Roskilde) | N/A |
+| 36 | [roskilde](http://twitter.com/search?q=roskilde) | N/A |
 | 37 | [ruslands](http://twitter.com/search?q=ruslands) | N/A |
 | 38 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
 | 39 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Houston
 
-📆 Last Updated: `2023-04-14 01:43:55 UTC`
+📆 Last Updated: `2023-04-14 02:29:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 2 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
-| 3 | [#Vtubers](http://twitter.com/search?q=%23Vtubers) | N/A |
-| 4 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 5 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 6 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 7 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 8 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 9 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 10 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 11 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 12 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 13 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 14 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 15 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 16 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 17 | [#GardenMoviesAndShows](http://twitter.com/search?q=%23GardenMoviesAndShows) | N/A |
-| 18 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 19 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 20 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 21 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 22 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 23 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 24 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 25 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 26 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 27 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 28 | [NEW ENCHANTED DRESS](http://twitter.com/search?q=NEW+ENCHANTED+DRESS) | N/A |
-| 29 | [NEW DRESS](http://twitter.com/search?q=NEW+DRESS) | N/A |
-| 30 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 31 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
-| 32 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
-| 33 | [Vince Velasquez](http://twitter.com/search?q=Vince+Velasquez) | N/A |
-| 34 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
-| 35 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 36 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
-| 37 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 38 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 39 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 40 | [Ji Hwan Bae](http://twitter.com/search?q=Ji+Hwan+Bae) | N/A |
-| 41 | [Budda](http://twitter.com/search?q=Budda) | N/A |
-| 42 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 43 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 44 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 45 | [Night of Champions](http://twitter.com/search?q=Night+of+Champions) | N/A |
-| 46 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 47 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 48 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 49 | [Mertz](http://twitter.com/search?q=Mertz) | N/A |
-| 50 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 2 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 3 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 4 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 5 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 6 | [#Vtubers](http://twitter.com/search?q=%23Vtubers) | N/A |
+| 7 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 8 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 9 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 10 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 11 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 12 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 13 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 14 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 15 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 16 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
+| 17 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 18 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 19 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 20 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 21 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 22 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 23 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 24 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 25 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 26 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 27 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 28 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 29 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 30 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 31 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 32 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 33 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 34 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 35 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
+| 36 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 37 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 38 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 39 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 40 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
+| 41 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 42 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 43 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 44 | [NEW DRESS](http://twitter.com/search?q=NEW+DRESS) | N/A |
+| 45 | [Vince Velasquez](http://twitter.com/search?q=Vince+Velasquez) | N/A |
+| 46 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
+| 47 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 48 | [NEW ENCHANTED DRESS](http://twitter.com/search?q=NEW+ENCHANTED+DRESS) | N/A |
+| 49 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 50 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
 
 
 

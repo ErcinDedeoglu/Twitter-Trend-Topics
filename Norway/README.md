@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-14 01:44:07 UTC`
+📆 Last Updated: `2023-04-14 02:29:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for Norway
 | 2 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 3 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 4 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 7 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 8 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 9 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
@@ -35,12 +35,12 @@ This is top 50 for Norway
 | 18 | [#polkvart](http://twitter.com/search?q=%23polkvart) | N/A |
 | 19 | [Lego](http://twitter.com/search?q=Lego) | N/A |
 | 20 | [rønnild](http://twitter.com/search?q=r%c3%b8nnild) | N/A |
-| 21 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 22 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 23 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
-| 24 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
-| 25 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 26 | [#nnpf](http://twitter.com/search?q=%23nnpf) | N/A |
+| 21 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 22 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
+| 23 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
+| 24 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 25 | [#nnpf](http://twitter.com/search?q=%23nnpf) | N/A |
+| 26 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 27 | [15 Russian](http://twitter.com/search?q=15+Russian) | N/A |
 | 28 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
 | 29 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
@@ -52,7 +52,7 @@ This is top 50 for Norway
 | 35 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
 | 36 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
 | 37 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
-| 38 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
+| 38 | [russlands](http://twitter.com/search?q=russlands) | N/A |
 | 39 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 40 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |

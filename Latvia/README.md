@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-14 01:44:06 UTC`
+📆 Last Updated: `2023-04-14 02:29:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,19 +15,19 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [valsts](http://twitter.com/search?q=valsts) | N/A |
-| 2 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 3 | [čaka](http://twitter.com/search?q=%c4%8daka) | N/A |
-| 4 | [polijas](http://twitter.com/search?q=polijas) | N/A |
-| 5 | [labdien](http://twitter.com/search?q=labdien) | N/A |
-| 6 | [kariņu](http://twitter.com/search?q=kari%c5%86u) | N/A |
-| 7 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 8 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | N/A |
-| 9 | [Ukrainai](http://twitter.com/search?q=Ukrainai) | N/A |
-| 10 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 1 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 2 | [čaka](http://twitter.com/search?q=%c4%8daka) | N/A |
+| 3 | [labdien](http://twitter.com/search?q=labdien) | N/A |
+| 4 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
+| 5 | [kariņu](http://twitter.com/search?q=kari%c5%86u) | N/A |
+| 6 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 7 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | N/A |
+| 8 | [ukrainai](http://twitter.com/search?q=ukrainai) | N/A |
+| 9 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
+| 10 | [Polijas](http://twitter.com/search?q=Polijas) | N/A |
 | 11 | [levits](http://twitter.com/search?q=levits) | N/A |
 | 12 | [varētu](http://twitter.com/search?q=var%c4%93tu) | N/A |
-| 13 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | N/A |
+| 13 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
 | 14 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 15 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 16 | [ventspils](http://twitter.com/search?q=ventspils) | N/A |

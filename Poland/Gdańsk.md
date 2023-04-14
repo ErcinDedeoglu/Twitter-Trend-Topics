@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-14 01:43:22 UTC`
+📆 Last Updated: `2023-04-14 02:28:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,24 +31,24 @@ This is top 50 for [Poland](</Poland>)
 | 14 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 15 | [Satka](http://twitter.com/search?q=Satka) | N/A |
 | 16 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 17 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
+| 17 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
 | 18 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
 | 19 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 20 | [Violi](http://twitter.com/search?q=Violi) | N/A |
+| 20 | [violi](http://twitter.com/search?q=violi) | N/A |
 | 21 | [rowerzysta](http://twitter.com/search?q=rowerzysta) | N/A |
 | 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 23 | [Raua](http://twitter.com/search?q=Raua) | N/A |
 | 24 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
 | 25 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 26 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 26 | [grabowski](http://twitter.com/search?q=grabowski) | N/A |
 | 27 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
 | 28 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 29 | [Pentagonu](http://twitter.com/search?q=Pentagonu) | N/A |
+| 29 | [pentagonu](http://twitter.com/search?q=pentagonu) | N/A |
 | 30 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 31 | [lasów państwowych](http://twitter.com/search?q=las%c3%b3w+pa%c5%84stwowych) | N/A |
 | 32 | [Ministra Edukacji](http://twitter.com/search?q=Ministra+Edukacji) | N/A |
 | 33 | [franek](http://twitter.com/search?q=franek) | N/A |
-| 34 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 34 | [lasy państwowe](http://twitter.com/search?q=lasy+pa%c5%84stwowe) | N/A |
 | 35 | [ligi konferencji](http://twitter.com/search?q=ligi+konferencji) | N/A |
 | 36 | [marii kaczyńskiej](http://twitter.com/search?q=marii+kaczy%c5%84skiej) | N/A |
 | 37 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
@@ -61,8 +61,8 @@ This is top 50 for [Poland](</Poland>)
 | 44 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
 | 45 | [diduszko](http://twitter.com/search?q=diduszko) | N/A |
 | 46 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
-| 47 | [Gwardii Narodowej](http://twitter.com/search?q=Gwardii+Narodowej) | N/A |
-| 48 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
+| 47 | [gwardii narodowej](http://twitter.com/search?q=gwardii+narodowej) | N/A |
+| 48 | [uefy](http://twitter.com/search?q=uefy) | N/A |
 
 
 

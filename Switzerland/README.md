@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-14 01:44:09 UTC`
+📆 Last Updated: `2023-04-14 02:29:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
+| 1 | [#fcbogcn](http://twitter.com/search?q=%23fcbogcn) | N/A |
 | 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 3 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
@@ -34,14 +34,14 @@ This is top 50 for Switzerland
 | 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 18 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
 | 19 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 20 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 20 | [korruption](http://twitter.com/search?q=korruption) | N/A |
 | 21 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
 | 22 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
 | 23 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
 | 24 | [Gold](http://twitter.com/search?q=Gold) | N/A |
 | 25 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 26 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 27 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 26 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 27 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
 | 28 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 29 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
 | 30 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
@@ -50,7 +50,7 @@ This is top 50 for Switzerland
 | 33 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 | 34 | [Coop](http://twitter.com/search?q=Coop) | N/A |
 | 35 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 36 | [russes](http://twitter.com/search?q=russes) | N/A |
+| 36 | [Russes](http://twitter.com/search?q=Russes) | N/A |
 | 37 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 38 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 39 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |

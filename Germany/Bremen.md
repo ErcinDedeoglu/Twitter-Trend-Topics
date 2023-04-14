@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-04-14 01:43:25 UTC`
+📆 Last Updated: `2023-04-14 02:29:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,30 +18,30 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#Doepfner](http://twitter.com/search?q=%23Doepfner) | N/A |
 | 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 3 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 4 | [#B04USG](http://twitter.com/search?q=%23B04USG) | N/A |
 | 5 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
 | 6 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 8 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 7 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 8 | [Maya](http://twitter.com/search?q=Maya) | N/A |
 | 9 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 10 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 11 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 12 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 13 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
-| 14 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
-| 15 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 16 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 17 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 18 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
-| 19 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 20 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 21 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 10 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 11 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
+| 12 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 13 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 14 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 15 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 16 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 17 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
+| 18 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 21 | [kubicki](http://twitter.com/search?q=kubicki) | N/A |
 | 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 23 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
-| 24 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 25 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
-| 26 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 27 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
+| 24 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
+| 25 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 26 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
+| 27 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 28 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
 | 29 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
 | 30 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
@@ -50,18 +50,18 @@ This is top 50 for [Germany](</Germany>)
 | 33 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
 | 34 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
 | 35 | [staatsschutz](http://twitter.com/search?q=staatsschutz) | N/A |
-| 36 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
-| 37 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 38 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 36 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 37 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 38 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
 | 39 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 40 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 41 | [Please Stärke die FDP](http://twitter.com/search?q=Please+St%c3%a4rke+die+FDP) | N/A |
-| 42 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 43 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 40 | [Please Stärke die FDP](http://twitter.com/search?q=Please+St%c3%a4rke+die+FDP) | N/A |
+| 41 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 42 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 43 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
 | 44 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 45 | [Konsum](http://twitter.com/search?q=Konsum) | N/A |
-| 46 | [Genehmigung](http://twitter.com/search?q=Genehmigung) | N/A |
-| 47 | [BILD und WELT](http://twitter.com/search?q=BILD+und+WELT) | N/A |
+| 46 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 
 
 

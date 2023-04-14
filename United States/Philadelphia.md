@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-04-14 01:43:58 UTC`
+📆 Last Updated: `2023-04-14 02:29:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Lamar](http://twitter.com/search?q=Lamar) | Lamar is a name of English origin, derived from the Old German name Lamhért, which means "land famous". It is also a surname, derived from the Old French name Lamart, which means "of the sea". |
-| 2 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 3 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
-| 4 | [Pache](http://twitter.com/search?q=Pache) | N/A |
-| 5 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 6 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 7 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 8 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 9 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 10 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 11 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 12 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 13 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 14 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 15 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 16 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 17 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 18 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 19 | [#GardenMoviesAndShows](http://twitter.com/search?q=%23GardenMoviesAndShows) | N/A |
-| 20 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 21 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 22 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 23 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 24 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 25 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 26 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 27 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 28 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 29 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 30 | [NEW ENCHANTED DRESS](http://twitter.com/search?q=NEW+ENCHANTED+DRESS) | N/A |
-| 31 | [NEW DRESS](http://twitter.com/search?q=NEW+DRESS) | N/A |
-| 32 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 33 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
-| 34 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
-| 35 | [Vince Velasquez](http://twitter.com/search?q=Vince+Velasquez) | N/A |
-| 36 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
-| 37 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 38 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
-| 39 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 40 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 41 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 42 | [Ji Hwan Bae](http://twitter.com/search?q=Ji+Hwan+Bae) | N/A |
-| 43 | [Budda](http://twitter.com/search?q=Budda) | N/A |
-| 44 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 45 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 46 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 47 | [Night of Champions](http://twitter.com/search?q=Night+of+Champions) | N/A |
-| 48 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 49 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 50 | [Mertz](http://twitter.com/search?q=Mertz) | N/A |
+| 2 | [Hayes](http://twitter.com/search?q=Hayes) | N/A |
+| 3 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 4 | [Cardinals](http://twitter.com/search?q=Cardinals) | Cardinals are a type of bird, usually characterized by their bright red feathers. In English, the term "cardinal" can also refer to a high-ranking Catholic Church official, such as a cardinal bishop or cardinal priest. |
+| 5 | [Columbus](http://twitter.com/search?q=Columbus) | N/A |
+| 6 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 7 | [Granlund](http://twitter.com/search?q=Granlund) | N/A |
+| 8 | [Pache](http://twitter.com/search?q=Pache) | N/A |
+| 9 | [#Pens](http://twitter.com/search?q=%23Pens) | N/A |
+| 10 | [#FireHextall](http://twitter.com/search?q=%23FireHextall) | N/A |
+| 11 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 12 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 13 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 14 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 15 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 16 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 17 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 18 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 19 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
+| 20 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 21 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 22 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 23 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 24 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 25 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 26 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 27 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 28 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 29 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 30 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 31 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 32 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 33 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 34 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 35 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 36 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 37 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
+| 38 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 39 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 40 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 41 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 42 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
+| 43 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 44 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 45 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 46 | [NEW DRESS](http://twitter.com/search?q=NEW+DRESS) | N/A |
+| 47 | [Vince Velasquez](http://twitter.com/search?q=Vince+Velasquez) | N/A |
+| 48 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
+| 49 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 50 | [NEW ENCHANTED DRESS](http://twitter.com/search?q=NEW+ENCHANTED+DRESS) | N/A |
 
 
 
