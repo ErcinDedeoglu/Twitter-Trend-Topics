@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-04-14 12:18:20 UTC`
+📆 Last Updated: `2023-04-14 13:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,18 +35,18 @@ This is top 50 for [Peru](</Peru>)
 | 18 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
 | 19 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 20 | [#afhs](http://twitter.com/search?q=%23afhs) | N/A |
-| 21 | [ESTOY CON TU KARMA](http://twitter.com/search?q=ESTOY+CON+TU+KARMA) | N/A |
-| 22 | [1TRAGO PA OLVIDARTE](http://twitter.com/search?q=1TRAGO+PA+OLVIDARTE) | N/A |
-| 23 | [1TRAGO OUT NOW](http://twitter.com/search?q=1TRAGO+OUT+NOW) | N/A |
+| 21 | [estoy con tu karma](http://twitter.com/search?q=estoy+con+tu+karma) | N/A |
+| 22 | [1trago pa olvidarte](http://twitter.com/search?q=1trago+pa+olvidarte) | N/A |
+| 23 | [1trago out now](http://twitter.com/search?q=1trago+out+now) | N/A |
 | 24 | [Redentor](http://twitter.com/search?q=Redentor) | N/A |
 | 25 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 26 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
 | 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 28 | [Asesino](http://twitter.com/search?q=Asesino) | N/A |
 | 29 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 30 | [argel](http://twitter.com/search?q=argel) | N/A |
-| 31 | [abancay](http://twitter.com/search?q=abancay) | N/A |
-| 32 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 30 | [abancay](http://twitter.com/search?q=abancay) | N/A |
+| 31 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
+| 32 | [Argel](http://twitter.com/search?q=Argel) | N/A |
 | 33 | [castro castro](http://twitter.com/search?q=castro+castro) | N/A |
 | 34 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
 | 35 | [emily lima](http://twitter.com/search?q=emily+lima) | N/A |

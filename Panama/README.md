@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-14 12:19:05 UTC`
+📆 Last Updated: `2023-04-14 13:19:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Panama
 | 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 4 | [banco general](http://twitter.com/search?q=banco+general) | N/A |
 | 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [michael amir murillo](http://twitter.com/search?q=michael+amir+murillo) | N/A |
+| 6 | [Michael Amir Murillo](http://twitter.com/search?q=Michael+Amir+Murillo) | N/A |
 | 7 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
 | 8 | [new business](http://twitter.com/search?q=new+business) | N/A |
 | 9 | [ricardo martinelli](http://twitter.com/search?q=ricardo+martinelli) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Panama
 | 28 | [meduca](http://twitter.com/search?q=meduca) | N/A |
 | 29 | [Nito](http://twitter.com/search?q=Nito) | N/A |
 | 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Don Bosco](http://twitter.com/search?q=Don+Bosco) | N/A |
+| 31 | [don bosco](http://twitter.com/search?q=don+bosco) | N/A |
 | 32 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 33 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 34 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Panama
 | 47 | [Robo](http://twitter.com/search?q=Robo) | N/A |
 | 48 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
 | 49 | [Bienvenida](http://twitter.com/search?q=Bienvenida) | N/A |
-| 50 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 50 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
 
 
 

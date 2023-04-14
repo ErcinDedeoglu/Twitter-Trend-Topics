@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-04-14 12:19:06 UTC`
+📆 Last Updated: `2023-04-14 13:19:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,8 +26,8 @@ This is top 50 for Singapore
 | 9 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
 | 10 | [#SummerExplorationxMileApo](http://twitter.com/search?q=%23SummerExplorationxMileApo) | N/A |
 | 11 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 12 | [Happy Tamil New Year](http://twitter.com/search?q=Happy+Tamil+New+Year) | N/A |
-| 13 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 12 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 13 | [Happy Tamil New Year](http://twitter.com/search?q=Happy+Tamil+New+Year) | N/A |
 | 14 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
 | 15 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
 | 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
@@ -36,35 +36,35 @@ This is top 50 for Singapore
 | 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 20 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
 | 21 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 22 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 23 | [Songkran](http://twitter.com/search?q=Songkran) | N/A |
-| 24 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 25 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 22 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
+| 23 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 24 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 25 | [Somi](http://twitter.com/search?q=Somi) | N/A |
 | 26 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 27 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 28 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 29 | [Texas](http://twitter.com/search?q=Texas) | N/A |
-| 30 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 31 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 32 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 33 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
-| 34 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
-| 35 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 36 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
-| 37 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 27 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 28 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 29 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 30 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 31 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 32 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 33 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 34 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 35 | [Taemin](http://twitter.com/search?q=Taemin) | N/A |
+| 36 | [jongin](http://twitter.com/search?q=jongin) | Jongin is a Korean name that means “strong and brave”. |
+| 37 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
 | 38 | [Hikaru](http://twitter.com/search?q=Hikaru) | N/A |
 | 39 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
 | 40 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
 | 41 | [OUR BLUE SPRING TAEHYUN](http://twitter.com/search?q=OUR+BLUE+SPRING+TAEHYUN) | N/A |
-| 42 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 43 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 44 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 45 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 46 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
-| 47 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 48 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 49 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 50 | [$SNLG](http://twitter.com/search?q=%24SNLG) | N/A |
+| 42 | [President](http://twitter.com/search?q=President) | N/A |
+| 43 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 44 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 45 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 46 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 47 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
+| 48 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 49 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 50 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
 
 
 

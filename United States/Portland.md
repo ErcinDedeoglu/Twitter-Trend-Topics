@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-04-14 12:18:57 UTC`
+📆 Last Updated: `2023-04-14 13:19:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [United States](</United States>)
 | 3 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 4 | [#PowerBookIIGhost](http://twitter.com/search?q=%23PowerBookIIGhost) | N/A |
 | 5 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 6 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 7 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
-| 8 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 6 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 7 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 8 | [Princess Diana](http://twitter.com/search?q=Princess+Diana) | Princess Diana is a title given to Diana, Princess of Wales, who was the first wife of Charles, Prince of Wales. She was an iconic figure in the United Kingdom and around the world, and her death in 1997 was met with shock and grief. |
 | 9 | [Nani](http://twitter.com/search?q=Nani) | N/A |
 | 10 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 11 | [Effie](http://twitter.com/search?q=Effie) | N/A |
-| 12 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 13 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 14 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 15 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 11 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 12 | [Effie](http://twitter.com/search?q=Effie) | N/A |
+| 13 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 14 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 15 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
 | 16 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 17 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 18 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 19 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 20 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
-| 21 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 22 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 23 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 17 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
+| 18 | [Stitch](http://twitter.com/search?q=Stitch) | N/A |
+| 19 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 20 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 21 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
+| 22 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 23 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
 | 24 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 25 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 26 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 27 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 28 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 29 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 30 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 31 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 32 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
-| 33 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 34 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 35 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 36 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 37 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 38 | [Borg](http://twitter.com/search?q=Borg) | N/A |
-| 39 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
-| 40 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 41 | [Speak Now and Treacherous](http://twitter.com/search?q=Speak+Now+and+Treacherous) | N/A |
-| 42 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 43 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 44 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
-| 45 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
-| 46 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
-| 47 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
-| 48 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
-| 49 | [Taker](http://twitter.com/search?q=Taker) | N/A |
+| 25 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 26 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 27 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 28 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 29 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 30 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 31 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 32 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 33 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 34 | [Borg](http://twitter.com/search?q=Borg) | N/A |
+| 35 | [Speak Now and Treacherous](http://twitter.com/search?q=Speak+Now+and+Treacherous) | N/A |
+| 36 | [Speak Now TV](http://twitter.com/search?q=Speak+Now+TV) | Speak Now TV is a Japanese television program that focuses on giving people the opportunity to speak out and express their opinions on various topics. The name of the show comes from the phrase "speak now or forever hold your peace," which is used in weddings to give guests a chance to voice any objections they may have before the ceremony can proceed. |
+| 37 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 38 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 39 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
+| 40 | [Teixeira](http://twitter.com/search?q=Teixeira) | N/A |
+| 41 | [Anaheim](http://twitter.com/search?q=Anaheim) | N/A |
+| 42 | [Jaiden](http://twitter.com/search?q=Jaiden) | N/A |
+| 43 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
+| 44 | [MrBeast](http://twitter.com/search?q=MrBeast) | N/A |
+| 45 | [Carlton](http://twitter.com/search?q=Carlton) | N/A |
+| 46 | [Crispy](http://twitter.com/search?q=Crispy) | N/A |
+| 47 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
+| 48 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 49 | [#Wordle664](http://twitter.com/search?q=%23Wordle664) | N/A |
 
 
 

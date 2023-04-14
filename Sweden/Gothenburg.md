@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-14 12:18:30 UTC`
+📆 Last Updated: `2023-04-14 13:18:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,39 +31,38 @@ This is top 50 for [Sweden](</Sweden>)
 | 14 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 15 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
 | 16 | [Barnkonventionen](http://twitter.com/search?q=Barnkonventionen) | N/A |
-| 17 | [Öresundstågen](http://twitter.com/search?q=%c3%96resundst%c3%a5gen) | N/A |
-| 18 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 19 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
+| 17 | [Kanada](http://twitter.com/search?q=Kanada) | N/A |
+| 18 | [Öresundstågen](http://twitter.com/search?q=%c3%96resundst%c3%a5gen) | N/A |
+| 19 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
 | 20 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 21 | [Liberalerna](http://twitter.com/search?q=Liberalerna) | N/A |
-| 22 | [Gunnar Strömmer](http://twitter.com/search?q=Gunnar+Str%c3%b6mmer) | N/A |
-| 23 | [Armenien](http://twitter.com/search?q=Armenien) | N/A |
+| 21 | [Gunnar Strömmer](http://twitter.com/search?q=Gunnar+Str%c3%b6mmer) | N/A |
+| 22 | [armenien](http://twitter.com/search?q=armenien) | N/A |
+| 23 | [Liberalerna](http://twitter.com/search?q=Liberalerna) | N/A |
 | 24 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 25 | [edvardsen](http://twitter.com/search?q=edvardsen) | N/A |
 | 26 | [Mölndal](http://twitter.com/search?q=M%c3%b6lndal) | N/A |
 | 27 | [fredrik anderssons](http://twitter.com/search?q=fredrik+anderssons) | N/A |
-| 28 | [KPIF](http://twitter.com/search?q=KPIF) | N/A |
-| 29 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 31 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 32 | [Malte](http://twitter.com/search?q=Malte) | N/A |
+| 28 | [Malte](http://twitter.com/search?q=Malte) | N/A |
+| 29 | [KPIF](http://twitter.com/search?q=KPIF) | N/A |
+| 30 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 31 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 32 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 33 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
 | 34 | [Damkronorna](http://twitter.com/search?q=Damkronorna) | N/A |
 | 35 | [önerud](http://twitter.com/search?q=%c3%b6nerud) | N/A |
 | 36 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 37 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 38 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
-| 39 | [SiS-hem](http://twitter.com/search?q=SiS-hem) | N/A |
+| 37 | [Nooshi](http://twitter.com/search?q=Nooshi) | N/A |
+| 38 | [sis-hem](http://twitter.com/search?q=sis-hem) | N/A |
+| 39 | [Sverigekortet](http://twitter.com/search?q=Sverigekortet) | N/A |
 | 40 | [Frunze Saghatelyan](http://twitter.com/search?q=Frunze+Saghatelyan) | N/A |
 | 41 | [Gent](http://twitter.com/search?q=Gent) | N/A |
 | 42 | [Arbetsförmedlingen](http://twitter.com/search?q=Arbetsf%c3%b6rmedlingen) | N/A |
 | 43 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
 | 44 | [Emil](http://twitter.com/search?q=Emil) | N/A |
-| 45 | [skatten](http://twitter.com/search?q=skatten) | N/A |
-| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 47 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 48 | [Hudiksvall](http://twitter.com/search?q=Hudiksvall) | N/A |
-| 49 | [Bengt Westerberg](http://twitter.com/search?q=Bengt+Westerberg) | N/A |
+| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 46 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 47 | [hudiksvall](http://twitter.com/search?q=hudiksvall) | N/A |
+| 48 | [Bengt Westerberg](http://twitter.com/search?q=Bengt+Westerberg) | N/A |
 
 
 

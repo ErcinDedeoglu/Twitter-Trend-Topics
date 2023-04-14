@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-14 12:19:02 UTC`
+📆 Last Updated: `2023-04-14 13:19:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Guatemala
 | 3 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 4 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [Comunicaciones](http://twitter.com/search?q=Comunicaciones) | N/A |
+| 6 | [comunicaciones](http://twitter.com/search?q=comunicaciones) | N/A |
 | 7 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
 | 8 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
 | 9 | [carlos pineda](http://twitter.com/search?q=carlos+pineda) | N/A |
@@ -58,7 +58,7 @@ This is top 50 for Guatemala
 | 41 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
 | 42 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 43 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 44 | [El Progreso](http://twitter.com/search?q=El+Progreso) | N/A |
+| 44 | [el progreso](http://twitter.com/search?q=el+progreso) | N/A |
 | 45 | [plgp](http://twitter.com/search?q=plgp) | N/A |
 | 46 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |

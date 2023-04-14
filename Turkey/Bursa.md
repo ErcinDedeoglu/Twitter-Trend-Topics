@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-04-14 12:18:49 UTC`
+📆 Last Updated: `2023-04-14 13:19:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,46 @@ This is top 50 for [Turkey](</Turkey>)
 | 5 | [#DünyaKudüsGünü](http://twitter.com/search?q=%23D%c3%bcnyaKud%c3%bcsG%c3%bcn%c3%bc) | N/A |
 | 6 | [Abla](http://twitter.com/search?q=Abla) | N/A |
 | 7 | [BayKemalBize EhliyetAffıVer](http://twitter.com/search?q=BayKemalBize+EhliyetAff%c4%b1Ver) | N/A |
-| 8 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 8 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
 | 9 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
-| 10 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 10 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
 | 11 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
-| 12 | [Davut Gül](http://twitter.com/search?q=Davut+G%c3%bcl) | N/A |
-| 13 | [TOPUNUZ GELİN](http://twitter.com/search?q=TOPUNUZ+GEL%c4%b0N) | N/A |
+| 12 | [TOPUNUZ GELİN](http://twitter.com/search?q=TOPUNUZ+GEL%c4%b0N) | N/A |
+| 13 | [Davut Gül](http://twitter.com/search?q=Davut+G%c3%bcl) | N/A |
 | 14 | [Kula](http://twitter.com/search?q=Kula) | N/A |
-| 15 | [Ecmain](http://twitter.com/search?q=Ecmain) | N/A |
-| 16 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
-| 17 | [14 Nisan](http://twitter.com/search?q=14+Nisan) | N/A |
-| 18 | [Kadir Gecesi](http://twitter.com/search?q=Kadir+Gecesi) | N/A |
-| 19 | [Günaydın Can](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Can) | N/A |
-| 20 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 21 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
-| 22 | [Ahlak](http://twitter.com/search?q=Ahlak) | N/A |
+| 15 | [İMECE](http://twitter.com/search?q=%c4%b0MECE) | N/A |
+| 16 | [Ecmain](http://twitter.com/search?q=Ecmain) | N/A |
+| 17 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 18 | [14 Nisan](http://twitter.com/search?q=14+Nisan) | N/A |
+| 19 | [Kadir Gecesi](http://twitter.com/search?q=Kadir+Gecesi) | N/A |
+| 20 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
+| 21 | [Günaydın Can](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Can) | N/A |
+| 22 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 23 | [Ramazan Bayramı'nda](http://twitter.com/search?q=Ramazan+Bayram%c4%b1%27nda) | N/A |
-| 24 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
+| 24 | [Ahlak](http://twitter.com/search?q=Ahlak) | N/A |
 | 25 | [Muharrem Erdoğan](http://twitter.com/search?q=Muharrem+Erdo%c4%9fan) | N/A |
-| 26 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
-| 27 | [#StajaBaharGelecek](http://twitter.com/search?q=%23StajaBaharGelecek) | N/A |
-| 28 | [#2000LereAdilYasa](http://twitter.com/search?q=%232000LereAdilYasa) | N/A |
-| 29 | [#ABOKısmi5000TekYürek](http://twitter.com/search?q=%23ABOK%c4%b1smi5000TekY%c3%bcrek) | N/A |
-| 30 | [#BuSesiDuyun](http://twitter.com/search?q=%23BuSesiDuyun) | N/A |
-| 31 | [#Son30GünAKP](http://twitter.com/search?q=%23Son30G%c3%bcnAKP) | N/A |
-| 32 | [#İMECE](http://twitter.com/search?q=%23%c4%b0MECE) | N/A |
+| 26 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
+| 27 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
+| 28 | [#EytBuradaMaaşNerede](http://twitter.com/search?q=%23EytBuradaMaa%c5%9fNerede) | N/A |
+| 29 | [#2000LereAdilYasa](http://twitter.com/search?q=%232000LereAdilYasa) | N/A |
+| 30 | [#StajaBaharGelecek](http://twitter.com/search?q=%23StajaBaharGelecek) | N/A |
+| 31 | [#ABOKısmi5000TekYürek](http://twitter.com/search?q=%23ABOK%c4%b1smi5000TekY%c3%bcrek) | N/A |
+| 32 | [#Son30GünAKP](http://twitter.com/search?q=%23Son30G%c3%bcnAKP) | N/A |
 | 33 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 34 | [#CumamızMubarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zMubarekOlsun) | N/A |
-| 35 | [#PlayTrueDay](http://twitter.com/search?q=%23PlayTrueDay) | N/A |
-| 36 | [#OnePlayTrueTeam](http://twitter.com/search?q=%23OnePlayTrueTeam) | N/A |
-| 37 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
-| 38 | [#karsn](http://twitter.com/search?q=%23karsn) | N/A |
-| 39 | [#MehmetBüyükekşiİstifa](http://twitter.com/search?q=%23MehmetB%c3%bcy%c3%bckek%c5%9fi%c4%b0stifa) | N/A |
+| 34 | [#BuSesiDuyun](http://twitter.com/search?q=%23BuSesiDuyun) | N/A |
+| 35 | [#CumamızMubarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zMubarekOlsun) | N/A |
+| 36 | [#MehmetBüyükekşiİstifa](http://twitter.com/search?q=%23MehmetB%c3%bcy%c3%bckek%c5%9fi%c4%b0stifa) | N/A |
+| 37 | [#PlayTrueDay](http://twitter.com/search?q=%23PlayTrueDay) | N/A |
+| 38 | [#OnePlayTrueTeam](http://twitter.com/search?q=%23OnePlayTrueTeam) | N/A |
+| 39 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
 | 40 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 41 | [#BoydanChallenge](http://twitter.com/search?q=%23BoydanChallenge) | N/A |
-| 42 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 43 | [#bilet](http://twitter.com/search?q=%23bilet) | N/A |
-| 44 | [#GSvKYS](http://twitter.com/search?q=%23GSvKYS) | N/A |
-| 45 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
-| 46 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 47 | [#altcoin](http://twitter.com/search?q=%23altcoin) | N/A |
+| 41 | [#karsn](http://twitter.com/search?q=%23karsn) | N/A |
+| 42 | [#BoydanChallenge](http://twitter.com/search?q=%23BoydanChallenge) | N/A |
+| 43 | [#GSvKYS](http://twitter.com/search?q=%23GSvKYS) | N/A |
+| 44 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 45 | [#bilet](http://twitter.com/search?q=%23bilet) | N/A |
+| 46 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
+| 47 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
 
 
 

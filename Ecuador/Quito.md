@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-14 12:18:19 UTC`
+📆 Last Updated: `2023-04-14 13:18:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,26 +21,26 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 4 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 5 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 6 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 7 | [Posorja](http://twitter.com/search?q=Posorja) | N/A |
+| 7 | [posorja](http://twitter.com/search?q=posorja) | N/A |
 | 8 | [penitenciaría del litoral](http://twitter.com/search?q=penitenciar%c3%ada+del+litoral) | N/A |
 | 9 | [LOES](http://twitter.com/search?q=LOES) | N/A |
 | 10 | [#Guayaquil](http://twitter.com/search?q=%23Guayaquil) | N/A |
 | 11 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
-| 12 | [Coco](http://twitter.com/search?q=Coco) | N/A |
-| 13 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
-| 14 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
-| 15 | [Glas](http://twitter.com/search?q=Glas) | N/A |
-| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 17 | [#13deAbril](http://twitter.com/search?q=%2313deAbril) | N/A |
-| 18 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 19 | [Crecerá](http://twitter.com/search?q=Crecer%c3%a1) | N/A |
-| 20 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
-| 21 | [#ALERTA](http://twitter.com/search?q=%23ALERTA) | N/A |
+| 12 | [#ecuadorsedesangra](http://twitter.com/search?q=%23ecuadorsedesangra) | N/A |
+| 13 | [Coco](http://twitter.com/search?q=Coco) | N/A |
+| 14 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
+| 15 | [esmeraldas](http://twitter.com/search?q=esmeraldas) | N/A |
+| 16 | [Glas](http://twitter.com/search?q=Glas) | N/A |
+| 17 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 18 | [#13deabril](http://twitter.com/search?q=%2313deabril) | N/A |
+| 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 20 | [Crecerá](http://twitter.com/search?q=Crecer%c3%a1) | N/A |
+| 21 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
 | 22 | [balsas](http://twitter.com/search?q=balsas) | N/A |
 | 23 | [Topic](http://twitter.com/search?q=Topic) | N/A |
 | 24 | [la embajada de estados unidos](http://twitter.com/search?q=la+embajada+de+estados+unidos) | N/A |
-| 25 | [SERCOP](http://twitter.com/search?q=SERCOP) | N/A |
-| 26 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 25 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 26 | [SERCOP](http://twitter.com/search?q=SERCOP) | N/A |
 | 27 | [rodrigo paz](http://twitter.com/search?q=rodrigo+paz) | N/A |
 | 28 | [los tiguerones](http://twitter.com/search?q=los+tiguerones) | N/A |
 | 29 | [andreina](http://twitter.com/search?q=andreina) | N/A |

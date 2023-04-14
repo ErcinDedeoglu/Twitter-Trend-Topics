@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-14 12:19:04 UTC`
+📆 Last Updated: `2023-04-14 13:19:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,14 +17,14 @@ This is top 50 for New Zealand
 | ------- | ------------ | ------------ |
 | 1 | [#NRLSharksRoosters](http://twitter.com/search?q=%23NRLSharksRoosters) | N/A |
 | 2 | [#SDWS](http://twitter.com/search?q=%23SDWS) | N/A |
-| 3 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
+| 3 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
 | 4 | [Hauraki Gulf](http://twitter.com/search?q=Hauraki+Gulf) | N/A |
 | 5 | [Maori](http://twitter.com/search?q=Maori) | N/A |
 | 6 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
 | 7 | [#asbte2023](http://twitter.com/search?q=%23asbte2023) | N/A |
 | 8 | [The Post](http://twitter.com/search?q=The+Post) | N/A |
 | 9 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 10 | [Kieran McAnulty](http://twitter.com/search?q=Kieran+McAnulty) | N/A |
+| 10 | [kieran mcanulty](http://twitter.com/search?q=kieran+mcanulty) | N/A |
 | 11 | [Dominion Post](http://twitter.com/search?q=Dominion+Post) | N/A |
 | 12 | [Karen](http://twitter.com/search?q=Karen) | N/A |
 | 13 | [shaneel lal](http://twitter.com/search?q=shaneel+lal) | N/A |
@@ -35,10 +35,10 @@ This is top 50 for New Zealand
 | 18 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 | 19 | [nz herald](http://twitter.com/search?q=nz+herald) | N/A |
 | 20 | [Sign the Petition](http://twitter.com/search?q=Sign+the+Petition) | N/A |
-| 21 | [Genter](http://twitter.com/search?q=Genter) | N/A |
-| 22 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 21 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 22 | [genter](http://twitter.com/search?q=genter) | N/A |
 | 23 | [affordable water](http://twitter.com/search?q=affordable+water) | N/A |
-| 24 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 24 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
 | 25 | [David](http://twitter.com/search?q=David) | N/A |
 | 26 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
 | 27 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |

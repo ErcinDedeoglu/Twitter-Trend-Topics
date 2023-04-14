@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-14 12:18:30 UTC`
+📆 Last Updated: `2023-04-14 13:18:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 8 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
 | 9 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 10 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 11 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 12 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
-| 13 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 15 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
-| 16 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 17 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 18 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 19 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
-| 20 | [notrecht](http://twitter.com/search?q=notrecht) | N/A |
-| 21 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 22 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 23 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 24 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 25 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 26 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
-| 27 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 28 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 29 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 30 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
-| 31 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 32 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 33 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 34 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 35 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 36 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 37 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 38 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 39 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 40 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 41 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 42 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 43 | [Russes](http://twitter.com/search?q=Russes) | N/A |
-| 44 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
-| 45 | [Migros](http://twitter.com/search?q=Migros) | N/A |
-| 46 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 47 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 48 | [Banker](http://twitter.com/search?q=Banker) | N/A |
-| 49 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 11 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 12 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 13 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 14 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
+| 15 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 16 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 17 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 18 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 19 | [notrecht](http://twitter.com/search?q=notrecht) | N/A |
+| 20 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 21 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 22 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 23 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 24 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 25 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 26 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 27 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 28 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 29 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
+| 30 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 31 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 32 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 33 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 34 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 35 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 36 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 37 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
+| 38 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 39 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 40 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 41 | [Russes](http://twitter.com/search?q=Russes) | N/A |
+| 42 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 43 | [empörung](http://twitter.com/search?q=emp%c3%b6rung) | N/A |
+| 44 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
+| 45 | [Banker](http://twitter.com/search?q=Banker) | N/A |
+| 46 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 47 | [Nation](http://twitter.com/search?q=Nation) | N/A |
+| 48 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 49 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
 
 
 

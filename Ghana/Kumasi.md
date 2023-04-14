@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-04-14 12:18:40 UTC`
+📆 Last Updated: `2023-04-14 13:18:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,9 +19,9 @@ This is top 50 for [Ghana](</Ghana>)
 | 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 4 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 5 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 6 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
-| 7 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
+| 5 | [CONGRATULATIONS KHOSI](http://twitter.com/search?q=CONGRATULATIONS+KHOSI) | N/A |
+| 6 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 7 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
 | 8 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 9 | [Hajia Bintu](http://twitter.com/search?q=Hajia+Bintu) | N/A |
 | 10 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
@@ -56,15 +56,15 @@ This is top 50 for [Ghana](</Ghana>)
 | 39 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
 | 40 | [Ibrahim Mahama](http://twitter.com/search?q=Ibrahim+Mahama) | N/A |
 | 41 | [Chilwell](http://twitter.com/search?q=Chilwell) | Chilwell is a village in Nottinghamshire, England. It is located about four miles southwest of Nottingham city centre. The name Chilwell is derived from the Old English words cild (child) and wella (spring or stream). |
-| 42 | [David Trezeguet](http://twitter.com/search?q=David+Trezeguet) | N/A |
-| 43 | [Bongo](http://twitter.com/search?q=Bongo) | N/A |
-| 44 | [Administration](http://twitter.com/search?q=Administration) | N/A |
-| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 47 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 48 | [scanty](http://twitter.com/search?q=scanty) | N/A |
-| 49 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 50 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 42 | [david trezeguet](http://twitter.com/search?q=david+trezeguet) | N/A |
+| 43 | [Administration](http://twitter.com/search?q=Administration) | N/A |
+| 44 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 45 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 46 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 47 | [scanty](http://twitter.com/search?q=scanty) | N/A |
+| 48 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 49 | [Bongo](http://twitter.com/search?q=Bongo) | N/A |
+| 50 | [Christy O](http://twitter.com/search?q=Christy+O) | N/A |
 
 
 

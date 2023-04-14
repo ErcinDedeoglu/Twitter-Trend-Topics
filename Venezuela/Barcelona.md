@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-14 12:18:20 UTC`
+📆 Last Updated: `2023-04-14 13:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 4 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
 | 5 | [todo 11](http://twitter.com/search?q=todo+11) | N/A |
 | 6 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 7 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 7 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
 | 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 9 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
 | 10 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 15 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
 | 16 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 17 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 18 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
+| 18 | [juan vicente tovar](http://twitter.com/search?q=juan+vicente+tovar) | N/A |
 | 19 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
 | 20 | [enrique mendoza](http://twitter.com/search?q=enrique+mendoza) | N/A |
 | 21 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
@@ -42,28 +42,28 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 25 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 26 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
 | 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 28 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
-| 29 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 30 | [día de la dignidad nacional](http://twitter.com/search?q=d%c3%ada+de+la+dignidad+nacional) | N/A |
-| 31 | [gilberto correa](http://twitter.com/search?q=gilberto+correa) | N/A |
-| 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 33 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
-| 34 | [poder electoral](http://twitter.com/search?q=poder+electoral) | N/A |
-| 35 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
-| 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 37 | [milicia nacional bolivariana](http://twitter.com/search?q=milicia+nacional+bolivariana) | N/A |
-| 38 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
-| 39 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 40 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 41 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 42 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
-| 43 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
-| 44 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
-| 45 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 46 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
-| 47 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 48 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 49 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
+| 28 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
+| 29 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
+| 30 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 31 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 32 | [día de la dignidad nacional](http://twitter.com/search?q=d%c3%ada+de+la+dignidad+nacional) | N/A |
+| 33 | [gilberto correa](http://twitter.com/search?q=gilberto+correa) | N/A |
+| 34 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 35 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
+| 36 | [poder electoral](http://twitter.com/search?q=poder+electoral) | N/A |
+| 37 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
+| 38 | [milicia nacional bolivariana](http://twitter.com/search?q=milicia+nacional+bolivariana) | N/A |
+| 39 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
+| 40 | [pedro carreño](http://twitter.com/search?q=pedro+carre%c3%b1o) | N/A |
+| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 42 | [codo](http://twitter.com/search?q=codo) | N/A |
+| 43 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 44 | [bárbara palacios](http://twitter.com/search?q=b%c3%a1rbara+palacios) | N/A |
+| 45 | [yulimar rojas](http://twitter.com/search?q=yulimar+rojas) | N/A |
+| 46 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 47 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
+| 48 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 49 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 
 
 
