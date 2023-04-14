@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-04-14 09:17:38 UTC`
+📆 Last Updated: `2023-04-14 10:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,48 @@ This is top 50 for [Mexico](</Mexico>)
 | 6 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 7 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
 | 8 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 9 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 10 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 9 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 10 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
 | 11 | [#1Trago](http://twitter.com/search?q=%231Trago) | N/A |
-| 12 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
-| 13 | [ESTOY CON TU KARMA](http://twitter.com/search?q=ESTOY+CON+TU+KARMA) | N/A |
-| 14 | [JOS STANS ARE BACK](http://twitter.com/search?q=JOS+STANS+ARE+BACK) | N/A |
-| 15 | [Notimex](http://twitter.com/search?q=Notimex) | N/A |
-| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 17 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 18 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
-| 19 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 12 | [JOS STANS ARE BACK](http://twitter.com/search?q=JOS+STANS+ARE+BACK) | N/A |
+| 13 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 14 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 15 | [ESTOY CON TU KARMA](http://twitter.com/search?q=ESTOY+CON+TU+KARMA) | N/A |
+| 16 | [#TearsoftheKingdom](http://twitter.com/search?q=%23TearsoftheKingdom) | N/A |
+| 17 | [Tigres](http://twitter.com/search?q=Tigres) | Tigres is a Mexican professional football club based in Monterrey, Mexico. The name "Tigres" is Spanish for tigers, and the team's mascot is a tiger. In English, Tigres translates to Tigers. |
+| 18 | [Notimex](http://twitter.com/search?q=Notimex) | N/A |
+| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 20 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 21 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 22 | [Daytona Beach](http://twitter.com/search?q=Daytona+Beach) | N/A |
 | 23 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
 | 24 | [beli en el hormiguero](http://twitter.com/search?q=beli+en+el+hormiguero) | N/A |
-| 25 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 26 | [Latin Mafia](http://twitter.com/search?q=Latin+Mafia) | N/A |
+| 25 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 26 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
 | 27 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 28 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 29 | [Rigo Tovar](http://twitter.com/search?q=Rigo+Tovar) | N/A |
-| 30 | [preview de mejor así](http://twitter.com/search?q=preview+de+mejor+as%c3%ad) | N/A |
-| 31 | [Tilín](http://twitter.com/search?q=Til%c3%adn) | N/A |
-| 32 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 33 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
-| 34 | [Prius](http://twitter.com/search?q=Prius) | N/A |
-| 35 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
-| 36 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
-| 37 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
-| 38 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
-| 39 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 40 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
-| 41 | [Vitinho](http://twitter.com/search?q=Vitinho) | N/A |
-| 42 | [Francisco Garduño](http://twitter.com/search?q=Francisco+Gardu%c3%b1o) | N/A |
-| 43 | [Lucha Villa](http://twitter.com/search?q=Lucha+Villa) | N/A |
-| 44 | [bienvenido pol](http://twitter.com/search?q=bienvenido+pol) | N/A |
-| 45 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 46 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 28 | [Rigo Tovar](http://twitter.com/search?q=Rigo+Tovar) | N/A |
+| 29 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 30 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 31 | [preview de mejor así](http://twitter.com/search?q=preview+de+mejor+as%c3%ad) | N/A |
+| 32 | [Tribunal Electoral](http://twitter.com/search?q=Tribunal+Electoral) | N/A |
+| 33 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 34 | [Rosalía](http://twitter.com/search?q=Rosal%c3%ada) | N/A |
+| 35 | [Tilín](http://twitter.com/search?q=Til%c3%adn) | N/A |
+| 36 | [Prius](http://twitter.com/search?q=Prius) | N/A |
+| 37 | [Latin Mafia](http://twitter.com/search?q=Latin+Mafia) | N/A |
+| 38 | [TEPJF](http://twitter.com/search?q=TEPJF) | N/A |
+| 39 | [Suburban](http://twitter.com/search?q=Suburban) | N/A |
+| 40 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 41 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
+| 42 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 43 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 45 | [Cobarde](http://twitter.com/search?q=Cobarde) | N/A |
+| 46 | [HSBC](http://twitter.com/search?q=HSBC) | N/A |
 | 47 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
-| 48 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 49 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 48 | [Arctic Monkeys](http://twitter.com/search?q=Arctic+Monkeys) | N/A |
+| 49 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 50 | [bienvenido pol](http://twitter.com/search?q=bienvenido+pol) | N/A |
 
 
 

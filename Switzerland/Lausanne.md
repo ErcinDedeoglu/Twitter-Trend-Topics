@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-14 09:17:54 UTC`
+📆 Last Updated: `2023-04-14 10:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
-| 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 3 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 4 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
+| 2 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 4 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 5 | [#MilanNapoli](http://twitter.com/search?q=%23MilanNapoli) | N/A |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 8 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 9 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
-| 10 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
-| 11 | [Lots](http://twitter.com/search?q=Lots) | N/A |
-| 12 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 13 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 14 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 15 | [Einzelfall](http://twitter.com/search?q=Einzelfall) | N/A |
-| 16 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
-| 17 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
-| 18 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 19 | [Atomausstieg](http://twitter.com/search?q=Atomausstieg) | N/A |
-| 20 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 21 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 22 | [Abhängigkeit](http://twitter.com/search?q=Abh%c3%a4ngigkeit) | N/A |
-| 23 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 24 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
-| 25 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 26 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 27 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 28 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
-| 29 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 30 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 31 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 32 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 33 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 34 | [Angriff](http://twitter.com/search?q=Angriff) | N/A |
-| 35 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
-| 36 | [Einsatz](http://twitter.com/search?q=Einsatz) | N/A |
-| 37 | [Druck](http://twitter.com/search?q=Druck) | N/A |
-| 38 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 39 | [nebenwirkungen](http://twitter.com/search?q=nebenwirkungen) | N/A |
-| 40 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 41 | [Banker](http://twitter.com/search?q=Banker) | N/A |
-| 42 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 43 | [Verständnis](http://twitter.com/search?q=Verst%c3%a4ndnis) | N/A |
-| 44 | [finanzplatz](http://twitter.com/search?q=finanzplatz) | N/A |
-| 45 | [Svizzera](http://twitter.com/search?q=Svizzera) | N/A |
-| 46 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 47 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 48 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 6 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
+| 7 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 8 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 9 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 10 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 11 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 12 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 13 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 14 | [Leistung](http://twitter.com/search?q=Leistung) | N/A |
+| 15 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
+| 16 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 17 | [Maroc](http://twitter.com/search?q=Maroc) | N/A |
+| 18 | [Bedeutung](http://twitter.com/search?q=Bedeutung) | N/A |
+| 19 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 20 | [Gold](http://twitter.com/search?q=Gold) | N/A |
+| 21 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 22 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 23 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 24 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 25 | [Mélenchon](http://twitter.com/search?q=M%c3%a9lenchon) | N/A |
+| 26 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
+| 27 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 28 | [Druck](http://twitter.com/search?q=Druck) | N/A |
+| 29 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 30 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
+| 31 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 32 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 33 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
+| 34 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 35 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 36 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 37 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 38 | [Lego](http://twitter.com/search?q=Lego) | N/A |
+| 39 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 40 | [Kapital](http://twitter.com/search?q=Kapital) | N/A |
+| 41 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 43 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 44 | [Russes](http://twitter.com/search?q=Russes) | N/A |
+| 45 | [Nebenwirkungen](http://twitter.com/search?q=Nebenwirkungen) | N/A |
+| 46 | [Migros](http://twitter.com/search?q=Migros) | N/A |
+| 47 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 48 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 
 
 

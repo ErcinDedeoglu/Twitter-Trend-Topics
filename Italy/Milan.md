@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-14 09:17:51 UTC`
+📆 Last Updated: `2023-04-14 10:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
-| 2 | [#14aprile](http://twitter.com/search?q=%2314aprile) | N/A |
+| 2 | [#14Aprile](http://twitter.com/search?q=%2314Aprile) | N/A |
 | 3 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 4 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 5 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 6 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 7 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
-| 8 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
-| 9 | [#ilTempoChe](http://twitter.com/search?q=%23ilTempoChe) | N/A |
-| 10 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 11 | [Perin](http://twitter.com/search?q=Perin) | N/A |
-| 12 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 13 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 14 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 15 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 16 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 17 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 18 | [Anice](http://twitter.com/search?q=Anice) | N/A |
-| 19 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 20 | [Fabrizio Quattrocchi](http://twitter.com/search?q=Fabrizio+Quattrocchi) | N/A |
-| 21 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
-| 22 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 23 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
-| 24 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
-| 25 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
-| 26 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 27 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
-| 28 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
-| 29 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 30 | [Il TAR](http://twitter.com/search?q=Il+TAR) | N/A |
-| 31 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 4 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
+| 5 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 6 | [#FeyenoordRoma](http://twitter.com/search?q=%23FeyenoordRoma) | N/A |
+| 7 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
+| 8 | [Perin](http://twitter.com/search?q=Perin) | N/A |
+| 9 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 10 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 11 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 12 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 13 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 14 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 15 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 16 | [Anice](http://twitter.com/search?q=Anice) | N/A |
+| 17 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
+| 18 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
+| 19 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
+| 20 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 21 | [Achille](http://twitter.com/search?q=Achille) | N/A |
+| 22 | [Gianni Rodari](http://twitter.com/search?q=Gianni+Rodari) | N/A |
+| 23 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
+| 24 | [Fabrizio Quattrocchi](http://twitter.com/search?q=Fabrizio+Quattrocchi) | N/A |
+| 25 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
+| 26 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
+| 27 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 28 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 29 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 30 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 31 | [Totò](http://twitter.com/search?q=Tot%c3%b2) | N/A |
 | 32 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 33 | [Totò](http://twitter.com/search?q=Tot%c3%b2) | N/A |
-| 34 | [Buongiorno Enzo](http://twitter.com/search?q=Buongiorno+Enzo) | N/A |
-| 35 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 36 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 37 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 38 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
-| 39 | [Achille](http://twitter.com/search?q=Achille) | N/A |
-| 40 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 41 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 42 | [Baiardo](http://twitter.com/search?q=Baiardo) | N/A |
-| 43 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
-| 44 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 45 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
-| 46 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
-| 47 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 48 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 49 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
-| 50 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 33 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 34 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 35 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
+| 36 | [Baiardo](http://twitter.com/search?q=Baiardo) | N/A |
+| 37 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 38 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 39 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 40 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
+| 41 | [Buongiorno Maurizio](http://twitter.com/search?q=Buongiorno+Maurizio) | N/A |
+| 42 | [Zalewski](http://twitter.com/search?q=Zalewski) | N/A |
+| 43 | [Adli](http://twitter.com/search?q=Adli) | N/A |
+| 44 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
+| 45 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
+| 46 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 47 | [Leo Adriani](http://twitter.com/search?q=Leo+Adriani) | N/A |
+| 48 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 49 | [Buongiorno Cri](http://twitter.com/search?q=Buongiorno+Cri) | N/A |
+| 50 | [Buongiorno Sabrina](http://twitter.com/search?q=Buongiorno+Sabrina) | N/A |
 
 
 

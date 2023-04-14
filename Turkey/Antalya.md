@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-04-14 09:18:19 UTC`
+📆 Last Updated: `2023-04-14 10:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,43 @@ This is top 50 for [Turkey](</Turkey>)
 | 4 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
 | 5 | [#DünyaKudüsGünü](http://twitter.com/search?q=%23D%c3%bcnyaKud%c3%bcsG%c3%bcn%c3%bc) | N/A |
 | 6 | [Abla](http://twitter.com/search?q=Abla) | N/A |
-| 7 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
-| 8 | [#StajaBaharGelecek](http://twitter.com/search?q=%23StajaBaharGelecek) | N/A |
-| 9 | [#ABOKısmi5000TekYürek](http://twitter.com/search?q=%23ABOK%c4%b1smi5000TekY%c3%bcrek) | N/A |
-| 10 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
-| 11 | [Davut Gül](http://twitter.com/search?q=Davut+G%c3%bcl) | N/A |
-| 12 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 13 | [14 Nisan](http://twitter.com/search?q=14+Nisan) | N/A |
+| 7 | [#StajaBaharGelecek](http://twitter.com/search?q=%23StajaBaharGelecek) | N/A |
+| 8 | [BayKemalBize EhliyetAffıVer](http://twitter.com/search?q=BayKemalBize+EhliyetAff%c4%b1Ver) | N/A |
+| 9 | [#BuSesiDuyun](http://twitter.com/search?q=%23BuSesiDuyun) | N/A |
+| 10 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
+| 11 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
+| 12 | [Davut Gül](http://twitter.com/search?q=Davut+G%c3%bcl) | N/A |
+| 13 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
 | 14 | [Ecmain](http://twitter.com/search?q=Ecmain) | N/A |
-| 15 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
-| 16 | [Zuhal](http://twitter.com/search?q=Zuhal) | N/A |
-| 17 | [Kadir Gecesi](http://twitter.com/search?q=Kadir+Gecesi) | N/A |
+| 15 | [14 Nisan](http://twitter.com/search?q=14+Nisan) | N/A |
+| 16 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
+| 17 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 18 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
-| 19 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
-| 20 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 21 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 22 | [Muharrem Erdoğan](http://twitter.com/search?q=Muharrem+Erdo%c4%9fan) | N/A |
-| 23 | [Ahlak](http://twitter.com/search?q=Ahlak) | N/A |
-| 24 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
-| 25 | [Müge](http://twitter.com/search?q=M%c3%bcge) | N/A |
-| 26 | [Grup](http://twitter.com/search?q=Grup) | N/A |
-| 27 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
-| 28 | [#BuSesiDuyun](http://twitter.com/search?q=%23BuSesiDuyun) | N/A |
+| 19 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 20 | [Ramazan Bayramı'nda](http://twitter.com/search?q=Ramazan+Bayram%c4%b1%27nda) | N/A |
+| 21 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
+| 22 | [Kadir Gecesi](http://twitter.com/search?q=Kadir+Gecesi) | N/A |
+| 23 | [Günaydın Can](http://twitter.com/search?q=G%c3%bcnayd%c4%b1n+Can) | N/A |
+| 24 | [Ahlak](http://twitter.com/search?q=Ahlak) | N/A |
+| 25 | [Muharrem Erdoğan](http://twitter.com/search?q=Muharrem+Erdo%c4%9fan) | N/A |
+| 26 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
+| 27 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 28 | [#İMECE](http://twitter.com/search?q=%23%c4%b0MECE) | N/A |
 | 29 | [#Son30GünAKP](http://twitter.com/search?q=%23Son30G%c3%bcnAKP) | N/A |
 | 30 | [#2000LereAdilYasa](http://twitter.com/search?q=%232000LereAdilYasa) | N/A |
 | 31 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 32 | [#İMECE](http://twitter.com/search?q=%23%c4%b0MECE) | N/A |
-| 33 | [#CumamızMubarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zMubarekOlsun) | N/A |
-| 34 | [#PlayTrueDay](http://twitter.com/search?q=%23PlayTrueDay) | N/A |
-| 35 | [#karsn](http://twitter.com/search?q=%23karsn) | N/A |
-| 36 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
-| 37 | [#BoydanChallenge](http://twitter.com/search?q=%23BoydanChallenge) | N/A |
-| 38 | [#GSvKYS](http://twitter.com/search?q=%23GSvKYS) | N/A |
-| 39 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 40 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
-| 41 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
-| 42 | [#altcoin](http://twitter.com/search?q=%23altcoin) | N/A |
+| 32 | [#CumamızMubarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zMubarekOlsun) | N/A |
+| 33 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
+| 34 | [#karsn](http://twitter.com/search?q=%23karsn) | N/A |
+| 35 | [#GSvKYS](http://twitter.com/search?q=%23GSvKYS) | N/A |
+| 36 | [#BoydanChallenge](http://twitter.com/search?q=%23BoydanChallenge) | N/A |
+| 37 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
+| 38 | [#altcoin](http://twitter.com/search?q=%23altcoin) | N/A |
+| 39 | [#bilet](http://twitter.com/search?q=%23bilet) | N/A |
+| 40 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 41 | [#MevzularAcıkMikrofon](http://twitter.com/search?q=%23MevzularAc%c4%b1kMikrofon) | N/A |
+| 42 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
 | 43 | [#MehmetBüyükekşiİstifa](http://twitter.com/search?q=%23MehmetB%c3%bcy%c3%bckek%c5%9fi%c4%b0stifa) | N/A |
-| 44 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 45 | [#biletdevret](http://twitter.com/search?q=%23biletdevret) | N/A |
-| 46 | [#biletarıyorum](http://twitter.com/search?q=%23biletar%c4%b1yorum) | N/A |
-| 47 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
-| 48 | [#Galatasaraybilet](http://twitter.com/search?q=%23Galatasaraybilet) | N/A |
-| 49 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
 
 
 

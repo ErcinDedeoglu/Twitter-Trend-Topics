@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-04-14 09:17:43 UTC`
+📆 Last Updated: `2023-04-14 10:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Renato](http://twitter.com/search?q=Renato) | Renato is an Italian name meaning "reborn" or "renewed". It is derived from the Latin word renatus, which means "born again". |
-| 2 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
-| 3 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 4 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 5 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 6 | [Cezar Black](http://twitter.com/search?q=Cezar+Black) | Cezar Black is a Romanian name derived from the Latin name Caesar, which means "emperor". It is also a surname that is used by some families in Romania. In English, Cezar Black can be translated to mean "Emperor Black". |
-| 7 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
-| 8 | [#BBB233](http://twitter.com/search?q=%23BBB233) | N/A |
-| 9 | [#Santos111](http://twitter.com/search?q=%23Santos111) | N/A |
-| 10 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 11 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
-| 12 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
-| 13 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
-| 14 | [#DAYVermelhoFarol](http://twitter.com/search?q=%23DAYVermelhoFarol) | N/A |
-| 15 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 16 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
-| 17 | [Lagum](http://twitter.com/search?q=Lagum) | N/A |
-| 18 | [pedro calais](http://twitter.com/search?q=pedro+calais) | N/A |
-| 19 | [Princess Diana](http://twitter.com/search?q=Princess+Diana) | Princess Diana is a title given to Diana, Princess of Wales, who was the first wife of Charles, Prince of Wales. She was an iconic figure in the United Kingdom and around the world, and her death in 1997 was met with shock and grief. |
-| 20 | [Arthur Aguiar](http://twitter.com/search?q=Arthur+Aguiar) | N/A |
-| 21 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 22 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 23 | [Santos Futebol Clube](http://twitter.com/search?q=Santos+Futebol+Clube) | N/A |
-| 24 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 25 | [Boninho](http://twitter.com/search?q=Boninho) | Boninho is a Portuguese nickname for João Carlos Bonifácio de Oliveira Souza, a Brazilian television producer and director. In English, it means "good son". |
-| 26 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 27 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 28 | [Barros](http://twitter.com/search?q=Barros) | N/A |
-| 29 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 30 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 31 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 32 | [Manipulação](http://twitter.com/search?q=Manipula%c3%a7%c3%a3o) | N/A |
-| 33 | [Aline e Amanda](http://twitter.com/search?q=Aline+e+Amanda) | N/A |
-| 34 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 35 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 36 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
-| 37 | [Djavan](http://twitter.com/search?q=Djavan) | N/A |
-| 38 | [rocco](http://twitter.com/search?q=rocco) | N/A |
-| 39 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
-| 40 | [Desisto](http://twitter.com/search?q=Desisto) | N/A |
-| 41 | [Vital](http://twitter.com/search?q=Vital) | N/A |
+| 2 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
+| 3 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 4 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 5 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 6 | [#foraaline](http://twitter.com/search?q=%23foraaline) | N/A |
+| 7 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
+| 8 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 9 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 10 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
+| 11 | [demi lovato](http://twitter.com/search?q=demi+lovato) | N/A |
+| 12 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 13 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 15 | [Remo](http://twitter.com/search?q=Remo) | N/A |
+| 16 | [Ivete](http://twitter.com/search?q=Ivete) | Ivete is a Portuguese female name derived from the Latin name Iveta, which means “yew tree”. In English, it can be translated to Evette or Yvette. |
+| 17 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 18 | [Shein](http://twitter.com/search?q=Shein) | N/A |
+| 19 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
+| 20 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
+| 21 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 22 | [Esse BBB](http://twitter.com/search?q=Esse+BBB) | Esse BBB is an acronym for the Brazilian Banking System, which is a system of banks and financial institutions in Brazil. In English, it stands for Brazilian Banking System. |
+| 23 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 24 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
+| 25 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
+| 26 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 27 | [VILLASANTI](http://twitter.com/search?q=VILLASANTI) | N/A |
+| 28 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 29 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
+| 30 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 31 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 32 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
+| 33 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 34 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 35 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 36 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 37 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
+| 38 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 39 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 40 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
+| 41 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
+| 42 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
+| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 44 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 45 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 46 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
+| 47 | [bruno rodrigues](http://twitter.com/search?q=bruno+rodrigues) | N/A |
+| 48 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 49 | [léo pereira](http://twitter.com/search?q=l%c3%a9o+pereira) | N/A |
+| 50 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
 
 
 

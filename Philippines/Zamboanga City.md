@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-04-14 09:18:06 UTC`
+📆 Last Updated: `2023-04-14 10:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
-| 2 | [Atty](http://twitter.com/search?q=Atty) | N/A |
-| 3 | [#aespa_is_back](http://twitter.com/search?q=%23aespa_is_back) | N/A |
-| 4 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
-| 5 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
-| 6 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
-| 7 | [#JOYxHaDongQn_BlueNightSong](http://twitter.com/search?q=%23JOYxHaDongQn_BlueNightSong) | N/A |
+| 2 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
+| 3 | [Atty](http://twitter.com/search?q=Atty) | N/A |
+| 4 | [#aespa_is_back](http://twitter.com/search?q=%23aespa_is_back) | N/A |
+| 5 | [#MariaClaraAtIbarraOnNetflix](http://twitter.com/search?q=%23MariaClaraAtIbarraOnNetflix) | N/A |
+| 6 | [#JOYxHaDongQn_BlueNightSong](http://twitter.com/search?q=%23JOYxHaDongQn_BlueNightSong) | N/A |
+| 7 | [#MNL48GameTime](http://twitter.com/search?q=%23MNL48GameTime) | N/A |
 | 8 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
-| 9 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
-| 10 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 11 | [d1 kdlexpeta comeback](http://twitter.com/search?q=d1+kdlexpeta+comeback) | N/A |
+| 9 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
+| 10 | [MAGANDANG BUHAY VIBRENT](http://twitter.com/search?q=MAGANDANG+BUHAY+VIBRENT) | N/A |
+| 11 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
 | 12 | [ZACHAM SA PIEPNPPF](http://twitter.com/search?q=ZACHAM+SA+PIEPNPPF) | N/A |
-| 13 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
-| 14 | [HAPPY 1ST YEAR KARLIAN](http://twitter.com/search?q=HAPPY+1ST+YEAR+KARLIAN) | N/A |
-| 15 | [MAGANDANG BUHAY VIBRENT](http://twitter.com/search?q=MAGANDANG+BUHAY+VIBRENT) | N/A |
-| 16 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
-| 17 | [MALIGAYANG PAGBABALIK](http://twitter.com/search?q=MALIGAYANG+PAGBABALIK) | N/A |
-| 18 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
+| 13 | [MARBELous HORI7ON](http://twitter.com/search?q=MARBELous+HORI7ON) | N/A |
+| 14 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
+| 15 | [HAPPY 1ST YEAR KARLIAN](http://twitter.com/search?q=HAPPY+1ST+YEAR+KARLIAN) | N/A |
+| 16 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
+| 17 | [d1 kdlexpeta comeback](http://twitter.com/search?q=d1+kdlexpeta+comeback) | N/A |
+| 18 | [UP Law](http://twitter.com/search?q=UP+Law) | N/A |
 | 19 | [d-1 to paraiso](http://twitter.com/search?q=d-1+to+paraiso) | N/A |
-| 20 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
-| 21 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 22 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 20 | [MALIGAYANG PAGBABALIK](http://twitter.com/search?q=MALIGAYANG+PAGBABALIK) | N/A |
+| 21 | [bgyo vivid out now](http://twitter.com/search?q=bgyo+vivid+out+now) | N/A |
+| 22 | [KATH FOR GATORADE](http://twitter.com/search?q=KATH+FOR+GATORADE) | N/A |
 | 23 | [ABOGADO NA AKO](http://twitter.com/search?q=ABOGADO+NA+AKO) | N/A |
-| 24 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 25 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
-| 26 | [FML OFFICIAL PHOTO 2](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+2) | N/A |
-| 27 | [Salamat Manila](http://twitter.com/search?q=Salamat+Manila) | N/A |
-| 28 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 29 | [KATH FOR GATORADE](http://twitter.com/search?q=KATH+FOR+GATORADE) | N/A |
+| 24 | [dusty amber concept](http://twitter.com/search?q=dusty+amber+concept) | N/A |
+| 25 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 26 | [welcome back our manila boy](http://twitter.com/search?q=welcome+back+our+manila+boy) | N/A |
+| 27 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 28 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 29 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
 | 30 | [alexasrh summer remix](http://twitter.com/search?q=alexasrh+summer+remix) | N/A |
-| 31 | [lee jihoon](http://twitter.com/search?q=lee+jihoon) | N/A |
-| 32 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 33 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
-| 34 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
-| 35 | [cutiepie eian is back](http://twitter.com/search?q=cutiepie+eian+is+back) | N/A |
-| 36 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 37 | [Attorney](http://twitter.com/search?q=Attorney) | N/A |
-| 38 | [Lawyers](http://twitter.com/search?q=Lawyers) | N/A |
-| 39 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
-| 40 | [RPhs](http://twitter.com/search?q=RPhs) | N/A |
-| 41 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
-| 42 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 43 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 44 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 45 | [superiority performancevideo](http://twitter.com/search?q=superiority+performancevideo) | N/A |
-| 46 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 47 | [THANK YOU LORD](http://twitter.com/search?q=THANK+YOU+LORD) | N/A |
-| 48 | [San Beda](http://twitter.com/search?q=San+Beda) | N/A |
-| 49 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 50 | [MUSICAL WONDERMAN KD](http://twitter.com/search?q=MUSICAL+WONDERMAN+KD) | N/A |
+| 31 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 32 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 33 | [true baptism](http://twitter.com/search?q=true+baptism) | N/A |
+| 34 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 35 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 36 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
+| 37 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
+| 38 | [LEE JIHOON](http://twitter.com/search?q=LEE+JIHOON) | Lee Jihoon is a Korean name, with the family name Lee and the given name Jihoon. The meaning of the name Jihoon is “wise” or “intelligent”. |
+| 39 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 40 | [Attorneys](http://twitter.com/search?q=Attorneys) | N/A |
+| 41 | [maymay autodeadma soon](http://twitter.com/search?q=maymay+autodeadma+soon) | N/A |
+| 42 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 43 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
+| 44 | [Lawyers](http://twitter.com/search?q=Lawyers) | N/A |
+| 45 | [Happy 2nd Monthsary 143](http://twitter.com/search?q=Happy+2nd+Monthsary+143) | N/A |
+| 46 | [San Beda](http://twitter.com/search?q=San+Beda) | N/A |
+| 47 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
+| 48 | [LET JENNIE ATTEND CANNES](http://twitter.com/search?q=LET+JENNIE+ATTEND+CANNES) | N/A |
+| 49 | [Salamat Manila](http://twitter.com/search?q=Salamat+Manila) | N/A |
+| 50 | [Congraaats](http://twitter.com/search?q=Congraaats) | N/A |
 
 
 

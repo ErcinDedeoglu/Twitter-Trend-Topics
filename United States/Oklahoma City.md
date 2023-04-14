@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-04-14 09:18:28 UTC`
+📆 Last Updated: `2023-04-14 10:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,47 +21,47 @@ This is top 50 for [United States](</United States>)
 | 4 | [Monet](http://twitter.com/search?q=Monet) | N/A |
 | 5 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
 | 6 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 7 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 8 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 7 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 8 | [Nani](http://twitter.com/search?q=Nani) | N/A |
 | 9 | [Effie](http://twitter.com/search?q=Effie) | N/A |
 | 10 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
 | 11 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
 | 12 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
 | 13 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
 | 14 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 15 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
-| 16 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 17 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 18 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 19 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 20 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 21 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 22 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 23 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
-| 24 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 25 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
-| 26 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 27 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 28 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 29 | [Rich Paul](http://twitter.com/search?q=Rich+Paul) | N/A |
-| 30 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 31 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 32 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 33 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 34 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
-| 35 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 36 | [Picard](http://twitter.com/search?q=Picard) | N/A |
-| 37 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 39 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
-| 40 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
-| 41 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 42 | [Boeing](http://twitter.com/search?q=Boeing) | N/A |
-| 43 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 44 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
-| 45 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 46 | [Polynesian](http://twitter.com/search?q=Polynesian) | N/A |
-| 47 | [Mickie James](http://twitter.com/search?q=Mickie+James) | N/A |
+| 15 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 16 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 17 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 18 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
+| 19 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 20 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 21 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 22 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 23 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 24 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
+| 25 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 26 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
+| 27 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 28 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 29 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 30 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
+| 31 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 32 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 33 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 34 | [Picard](http://twitter.com/search?q=Picard) | N/A |
+| 35 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 36 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 37 | [Mickie James](http://twitter.com/search?q=Mickie+James) | N/A |
+| 38 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
+| 39 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 40 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 41 | [TRENT GRISHAM](http://twitter.com/search?q=TRENT+GRISHAM) | N/A |
+| 42 | [Return of the King](http://twitter.com/search?q=Return+of+the+King) | N/A |
+| 43 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 44 | [Restrict Act](http://twitter.com/search?q=Restrict+Act) | N/A |
+| 45 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 46 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 47 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
 
 
 

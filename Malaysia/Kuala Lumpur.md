@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-04-14 09:18:04 UTC`
+📆 Last Updated: `2023-04-14 10:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Malaysia](</Malaysia>)
 | 4 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 5 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 7 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 8 | [Happy Tamil New Year](http://twitter.com/search?q=Happy+Tamil+New+Year) | N/A |
-| 9 | [#สงกรานต์มีทุกปีรักซีมีทุกวัน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%9b%e0%b8%b5%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%8b%e0%b8%b5%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99) | N/A |
-| 10 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 11 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 12 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 13 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 14 | [somi](http://twitter.com/search?q=somi) | N/A |
-| 15 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 16 | [#SSofLoveinTheAirTokyoDay1](http://twitter.com/search?q=%23SSofLoveinTheAirTokyoDay1) | N/A |
-| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 18 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
-| 19 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 20 | [Kim Taerae](http://twitter.com/search?q=Kim+Taerae) | N/A |
-| 21 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 22 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 23 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 24 | [Happy Songkran](http://twitter.com/search?q=Happy+Songkran) | N/A |
-| 25 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 26 | [heihei](http://twitter.com/search?q=heihei) | N/A |
+| 7 | [#SSofLoveinTheAirTokyoDay1](http://twitter.com/search?q=%23SSofLoveinTheAirTokyoDay1) | N/A |
+| 8 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 9 | [Happy Tamil New Year](http://twitter.com/search?q=Happy+Tamil+New+Year) | N/A |
+| 10 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 11 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 12 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 13 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
+| 14 | [#สงกรานต์มีทุกปีรักซีมีทุกวัน](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%9b%e0%b8%b5%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%8b%e0%b8%b5%e0%b8%a1%e0%b8%b5%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99) | N/A |
+| 15 | [somi](http://twitter.com/search?q=somi) | N/A |
+| 16 | [Tannie](http://twitter.com/search?q=Tannie) | N/A |
+| 17 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 18 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 19 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 20 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 21 | [Kim Taerae](http://twitter.com/search?q=Kim+Taerae) | N/A |
+| 22 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 24 | [heihei](http://twitter.com/search?q=heihei) | N/A |
+| 25 | [Ruka](http://twitter.com/search?q=Ruka) | N/A |
+| 26 | [Vaisakhi](http://twitter.com/search?q=Vaisakhi) | N/A |
 | 27 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 28 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 29 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 30 | [Luca](http://twitter.com/search?q=Luca) | N/A |
-| 31 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 32 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 33 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
-| 34 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
-| 35 | [tnx first ost](http://twitter.com/search?q=tnx+first+ost) | N/A |
-| 36 | [Muda](http://twitter.com/search?q=Muda) | N/A |
-| 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 38 | [AFFLIATE](http://twitter.com/search?q=AFFLIATE) | N/A |
-| 39 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 40 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 41 | [Minato](http://twitter.com/search?q=Minato) | N/A |
-| 42 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 43 | [lee jihoon](http://twitter.com/search?q=lee+jihoon) | N/A |
-| 44 | [FINAS](http://twitter.com/search?q=FINAS) | N/A |
-| 45 | [chanbaek](http://twitter.com/search?q=chanbaek) | N/A |
-| 46 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 47 | [jaehwan](http://twitter.com/search?q=jaehwan) | N/A |
-| 48 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 49 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 50 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 29 | [Muda](http://twitter.com/search?q=Muda) | N/A |
+| 30 | [AFFLIATE](http://twitter.com/search?q=AFFLIATE) | N/A |
+| 31 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 32 | [Hiroto](http://twitter.com/search?q=Hiroto) | N/A |
+| 33 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 34 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 37 | [Luca](http://twitter.com/search?q=Luca) | N/A |
+| 38 | [tnx first ost](http://twitter.com/search?q=tnx+first+ost) | N/A |
+| 39 | [Lee Jeonghyeon](http://twitter.com/search?q=Lee+Jeonghyeon) | N/A |
+| 40 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 41 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
+| 42 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
+| 43 | [DIVE INTO IVE 500 DAYS](http://twitter.com/search?q=DIVE+INTO+IVE+500+DAYS) | N/A |
+| 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 46 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 47 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 48 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 49 | [vernon](http://twitter.com/search?q=vernon) | Vernon is a French name derived from the Latin word "vernus" meaning "spring-like". It is also a surname and place name. |
+| 50 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
 
 
 
