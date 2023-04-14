@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-14 06:18:16 UTC`
+📆 Last Updated: `2023-04-14 07:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 3 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 4 | [Springer](http://twitter.com/search?q=Springer) | Springer is a German publishing company that specializes in academic books and journals. The name Springer comes from the German word for "jumper" or "leaper," which reflects the company's mission to "leapfrog conventional publishing practices." In English, Springer is used to refer to the company itself, as well as its products. |
-| 5 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 6 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 7 | [Anya](http://twitter.com/search?q=Anya) | N/A |
-| 8 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
-| 9 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 10 | [#B04USG](http://twitter.com/search?q=%23B04USG) | N/A |
-| 11 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 12 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 13 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 14 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
-| 15 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
-| 16 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 5 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 6 | [#b04usg](http://twitter.com/search?q=%23b04usg) | N/A |
+| 7 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 8 | [Anya](http://twitter.com/search?q=Anya) | N/A |
+| 9 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 10 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 12 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 13 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
+| 14 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 15 | [Guten Morgen Paul](http://twitter.com/search?q=Guten+Morgen+Paul) | N/A |
+| 16 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
 | 17 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 18 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
-| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 20 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 21 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 22 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 23 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 24 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 18 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 19 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 20 | [Bodentruppen](http://twitter.com/search?q=Bodentruppen) | N/A |
+| 21 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 22 | [Guten Morgen Willi](http://twitter.com/search?q=Guten+Morgen+Willi) | N/A |
+| 23 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 24 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
 | 25 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 26 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
-| 27 | [Guten Morgen Paul](http://twitter.com/search?q=Guten+Morgen+Paul) | N/A |
-| 28 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
-| 29 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 27 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 28 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 29 | [haruto](http://twitter.com/search?q=haruto) | N/A |
 | 30 | [Allie](http://twitter.com/search?q=Allie) | N/A |
-| 31 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
-| 32 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 33 | [Guten Morgen Willi](http://twitter.com/search?q=Guten+Morgen+Willi) | N/A |
-| 34 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
-| 35 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
-| 36 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
-| 37 | [Auri](http://twitter.com/search?q=Auri) | N/A |
-| 38 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 39 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
-| 40 | [Bodentruppen](http://twitter.com/search?q=Bodentruppen) | N/A |
-| 41 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 42 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
-| 43 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
-| 44 | [Conny](http://twitter.com/search?q=Conny) | N/A |
-| 45 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 46 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 47 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 48 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 49 | [Dealer](http://twitter.com/search?q=Dealer) | N/A |
+| 31 | [Ostdeutsche](http://twitter.com/search?q=Ostdeutsche) | N/A |
+| 32 | [Guten Morgen Maria](http://twitter.com/search?q=Guten+Morgen+Maria) | N/A |
+| 33 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 34 | [Kubicki](http://twitter.com/search?q=Kubicki) | N/A |
+| 35 | [Notaufnahme](http://twitter.com/search?q=Notaufnahme) | N/A |
+| 36 | [Pflanzen](http://twitter.com/search?q=Pflanzen) | N/A |
+| 37 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
+| 38 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
+| 39 | [Auri](http://twitter.com/search?q=Auri) | N/A |
+| 40 | [Demokraten](http://twitter.com/search?q=Demokraten) | N/A |
+| 41 | [Arbeitstag](http://twitter.com/search?q=Arbeitstag) | N/A |
+| 42 | [Laufzeitverlängerung](http://twitter.com/search?q=Laufzeitverl%c3%a4ngerung) | N/A |
+| 43 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
+| 44 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
+| 45 | [TotK](http://twitter.com/search?q=TotK) | N/A |
+| 46 | [Kiffer](http://twitter.com/search?q=Kiffer) | N/A |
+| 47 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 48 | [Jugendschutz](http://twitter.com/search?q=Jugendschutz) | N/A |
+| 49 | [Conny](http://twitter.com/search?q=Conny) | N/A |
 
 
 

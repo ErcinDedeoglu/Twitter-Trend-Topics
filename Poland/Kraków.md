@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-14 06:18:12 UTC`
+📆 Last Updated: `2023-04-14 07:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LPOACF](http://twitter.com/search?q=%23LPOACF) | N/A |
-| 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 3 | [#LPOFIO](http://twitter.com/search?q=%23LPOFIO) | N/A |
-| 4 | [#lchfio](http://twitter.com/search?q=%23lchfio) | N/A |
-| 5 | [Lech](http://twitter.com/search?q=Lech) | N/A |
-| 6 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
-| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 8 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
-| 9 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 2 | [#lpofio](http://twitter.com/search?q=%23lpofio) | N/A |
+| 3 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 4 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 5 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 6 | [#lchfio](http://twitter.com/search?q=%23lchfio) | N/A |
+| 7 | [#rodzinamonet](http://twitter.com/search?q=%23rodzinamonet) | N/A |
+| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 9 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
 | 10 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 11 | [Salamona](http://twitter.com/search?q=Salamona) | N/A |
-| 12 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 12 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
 | 13 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
 | 14 | [Bednarka](http://twitter.com/search?q=Bednarka) | N/A |
-| 15 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 16 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 17 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 15 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 16 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
+| 17 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
 | 18 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 19 | [satka](http://twitter.com/search?q=satka) | N/A |
-| 20 | [CASY](http://twitter.com/search?q=CASY) | N/A |
-| 21 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 22 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
+| 19 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
+| 20 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 21 | [satka](http://twitter.com/search?q=satka) | N/A |
+| 22 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 23 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 24 | [Chamstwo](http://twitter.com/search?q=Chamstwo) | N/A |
-| 25 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 26 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 24 | [Aguś](http://twitter.com/search?q=Agu%c5%9b) | N/A |
+| 25 | [kolejorz](http://twitter.com/search?q=kolejorz) | N/A |
+| 26 | [Chamstwo](http://twitter.com/search?q=Chamstwo) | N/A |
 | 27 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 28 | [Krysiu](http://twitter.com/search?q=Krysiu) | N/A |
-| 29 | [Violi](http://twitter.com/search?q=Violi) | N/A |
-| 30 | [Aguś](http://twitter.com/search?q=Agu%c5%9b) | N/A |
-| 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 28 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 29 | [Niebo](http://twitter.com/search?q=Niebo) | N/A |
+| 30 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 31 | [violi](http://twitter.com/search?q=violi) | N/A |
 | 32 | [nkwd](http://twitter.com/search?q=nkwd) | N/A |
-| 33 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 34 | [Niebo](http://twitter.com/search?q=Niebo) | N/A |
-| 35 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 36 | [Piątek](http://twitter.com/search?q=Pi%c4%85tek) | N/A |
-| 37 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 38 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 39 | [Brawo Panie Ministrze](http://twitter.com/search?q=Brawo+Panie+Ministrze) | N/A |
-| 40 | [Większość Polaków](http://twitter.com/search?q=Wi%c4%99kszo%c5%9b%c4%87+Polak%c3%b3w) | N/A |
-| 41 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 42 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 43 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
-| 44 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 45 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
-| 46 | [dagerstala](http://twitter.com/search?q=dagerstala) | N/A |
-| 47 | [imię róży](http://twitter.com/search?q=imi%c4%99+r%c3%b3%c5%bcy) | N/A |
-| 48 | [Nauki](http://twitter.com/search?q=Nauki) | N/A |
-| 49 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 50 | [uefy](http://twitter.com/search?q=uefy) | N/A |
+| 33 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 34 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 35 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 36 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 37 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 38 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 39 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 40 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
+| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 42 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 43 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
+| 44 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 45 | [dagerstala](http://twitter.com/search?q=dagerstala) | N/A |
+| 46 | [Nauki](http://twitter.com/search?q=Nauki) | N/A |
+| 47 | [Czarnkowi](http://twitter.com/search?q=Czarnkowi) | N/A |
+| 48 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
+| 49 | [diduszko](http://twitter.com/search?q=diduszko) | N/A |
+| 50 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
 
 
 

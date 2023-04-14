@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-14 06:19:06 UTC`
+📆 Last Updated: `2023-04-14 07:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Venezuela
 | 1 | [#13Abr](http://twitter.com/search?q=%2313Abr) | N/A |
 | 2 | [#RebeliónCívicoMilitar](http://twitter.com/search?q=%23Rebeli%c3%b3nC%c3%advicoMilitar) | N/A |
 | 3 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 4 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 5 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 6 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 7 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 9 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 10 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
-| 11 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 12 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 13 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
-| 14 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 15 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 16 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
-| 17 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
-| 18 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
-| 19 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 20 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 21 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 22 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 23 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
-| 24 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
-| 25 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
-| 26 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 28 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
-| 29 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 30 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 31 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
-| 32 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 4 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
+| 5 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
+| 6 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 7 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 10 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 11 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
+| 12 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 13 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 14 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
+| 15 | [El 13](http://twitter.com/search?q=El+13) | N/A |
+| 16 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 17 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 18 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 19 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 20 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
+| 21 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 22 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
+| 23 | [juan vicente tovar](http://twitter.com/search?q=juan+vicente+tovar) | N/A |
+| 24 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
+| 25 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
+| 26 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 29 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
+| 30 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 31 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 32 | [Codo](http://twitter.com/search?q=Codo) | N/A |
 | 33 | [día de la dignidad nacional](http://twitter.com/search?q=d%c3%ada+de+la+dignidad+nacional) | N/A |
-| 34 | [poder electoral](http://twitter.com/search?q=poder+electoral) | N/A |
-| 35 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 36 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 35 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
+| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 37 | [cmdte](http://twitter.com/search?q=cmdte) | N/A |
-| 38 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 39 | [milicia nacional bolivariana](http://twitter.com/search?q=milicia+nacional+bolivariana) | N/A |
-| 40 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
-| 41 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
-| 42 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 43 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
-| 44 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
-| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 46 | [Harold Sosa](http://twitter.com/search?q=Harold+Sosa) | N/A |
-| 47 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 48 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 49 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 50 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
+| 38 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
+| 39 | [poder electoral](http://twitter.com/search?q=poder+electoral) | N/A |
+| 40 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 41 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
+| 42 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 43 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 44 | [milicia nacional bolivariana](http://twitter.com/search?q=milicia+nacional+bolivariana) | N/A |
+| 45 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
+| 46 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 47 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 48 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 49 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 50 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
 
 
 

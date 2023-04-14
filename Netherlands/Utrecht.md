@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-14 06:18:19 UTC`
+📆 Last Updated: `2023-04-14 07:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 1 | [#FEYrom](http://twitter.com/search?q=%23FEYrom) | N/A |
 | 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 3 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 4 | [#ANDAZ](http://twitter.com/search?q=%23ANDAZ) | N/A |
-| 5 | [#structuur](http://twitter.com/search?q=%23structuur) | N/A |
+| 4 | [#structuur](http://twitter.com/search?q=%23structuur) | N/A |
+| 5 | [#FEYasr](http://twitter.com/search?q=%23FEYasr) | N/A |
 | 6 | [LAKS](http://twitter.com/search?q=LAKS) | N/A |
-| 7 | [Jenni](http://twitter.com/search?q=Jenni) | N/A |
+| 7 | [Vlissingen](http://twitter.com/search?q=Vlissingen) | N/A |
 | 8 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 9 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 10 | [bijlow](http://twitter.com/search?q=bijlow) | N/A |
+| 9 | [bijlow](http://twitter.com/search?q=bijlow) | N/A |
+| 10 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
 | 11 | [Maxima](http://twitter.com/search?q=Maxima) | N/A |
-| 12 | [zomergasten](http://twitter.com/search?q=zomergasten) | N/A |
-| 13 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
-| 14 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
-| 15 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 16 | [eric corton](http://twitter.com/search?q=eric+corton) | N/A |
-| 17 | [Vlissingen](http://twitter.com/search?q=Vlissingen) | N/A |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [joan franka](http://twitter.com/search?q=joan+franka) | N/A |
-| 20 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 21 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 22 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 23 | [floriade](http://twitter.com/search?q=floriade) | N/A |
-| 24 | [Wierd](http://twitter.com/search?q=Wierd) | N/A |
-| 25 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 26 | [hans de booij](http://twitter.com/search?q=hans+de+booij) | N/A |
-| 27 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 28 | [Miek](http://twitter.com/search?q=Miek) | N/A |
-| 29 | [beukema](http://twitter.com/search?q=beukema) | N/A |
-| 30 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 31 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 32 | [paixao](http://twitter.com/search?q=paixao) | N/A |
-| 33 | [Kruk](http://twitter.com/search?q=Kruk) | N/A |
-| 34 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
-| 35 | [lelylijn](http://twitter.com/search?q=lelylijn) | N/A |
-| 36 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 37 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 38 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 39 | [hancko](http://twitter.com/search?q=hancko) | N/A |
-| 40 | ["Bijlmerramp"](http://twitter.com/search?q=%22Bijlmerramp%22) | N/A |
-| 41 | [Kokcu](http://twitter.com/search?q=Kokcu) | N/A |
-| 42 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 43 | [belangenverstrengeling](http://twitter.com/search?q=belangenverstrengeling) | N/A |
-| 44 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
-| 45 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
-| 46 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 47 | [Anja](http://twitter.com/search?q=Anja) | N/A |
-| 48 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
-| 49 | [ugandese](http://twitter.com/search?q=ugandese) | N/A |
+| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 13 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 14 | [Idrissi](http://twitter.com/search?q=Idrissi) | N/A |
+| 15 | [zomergasten](http://twitter.com/search?q=zomergasten) | N/A |
+| 16 | [Theo Maassen](http://twitter.com/search?q=Theo+Maassen) | N/A |
+| 17 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 18 | [eric corton](http://twitter.com/search?q=eric+corton) | N/A |
+| 19 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 20 | [joan franka](http://twitter.com/search?q=joan+franka) | N/A |
+| 21 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 22 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 23 | [wierd duk](http://twitter.com/search?q=wierd+duk) | N/A |
+| 24 | [paixao](http://twitter.com/search?q=paixao) | N/A |
+| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 26 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 27 | [jetten](http://twitter.com/search?q=jetten) | N/A |
+| 28 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 29 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 30 | [hans de booij](http://twitter.com/search?q=hans+de+booij) | N/A |
+| 31 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 32 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 33 | [beukema](http://twitter.com/search?q=beukema) | N/A |
+| 34 | [is-vrouwen](http://twitter.com/search?q=is-vrouwen) | N/A |
+| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 36 | [hancko](http://twitter.com/search?q=hancko) | N/A |
+| 37 | [Rekenkamer](http://twitter.com/search?q=Rekenkamer) | N/A |
+| 38 | [Kruk](http://twitter.com/search?q=Kruk) | N/A |
+| 39 | [Nieuwegein](http://twitter.com/search?q=Nieuwegein) | N/A |
+| 40 | [Miek](http://twitter.com/search?q=Miek) | N/A |
+| 41 | [Wijnaldum](http://twitter.com/search?q=Wijnaldum) | N/A |
+| 42 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 43 | [statushouders](http://twitter.com/search?q=statushouders) | N/A |
+| 44 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
+| 45 | ["Bijlmerramp"](http://twitter.com/search?q=%22Bijlmerramp%22) | N/A |
+| 46 | [alireza](http://twitter.com/search?q=alireza) | N/A |
+| 47 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
+| 48 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 49 | [floriade](http://twitter.com/search?q=floriade) | N/A |
 
 
 

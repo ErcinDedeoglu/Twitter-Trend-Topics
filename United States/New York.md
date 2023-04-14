@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-14 06:18:52 UTC`
+📆 Last Updated: `2023-04-14 07:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 1 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
 | 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 3 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 3 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
 | 4 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 5 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 6 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 5 | [Baty](http://twitter.com/search?q=Baty) | Baty is a term used in the Philippines to refer to a close friend or companion. It is derived from the Tagalog word "bati," which means "friend." In English, it can be translated as "buddy" or "pal." |
+| 6 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
 | 7 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 8 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 9 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
-| 10 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 11 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 12 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 13 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 14 | [#VegasBorn](http://twitter.com/search?q=%23VegasBorn) | N/A |
+| 9 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 10 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
+| 11 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 12 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 13 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 14 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
 | 15 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 16 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 18 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 19 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 16 | [#INTELLECTUALPROPERTY](http://twitter.com/search?q=%23INTELLECTUALPROPERTY) | N/A |
+| 17 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 18 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 19 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
 | 20 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 21 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 22 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 23 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 24 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 21 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 22 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 23 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
+| 24 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
 | 25 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 26 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
-| 27 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 28 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 29 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 30 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 31 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 26 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 27 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 28 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 29 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
+| 30 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 31 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
 | 32 | [LIKE GRAH](http://twitter.com/search?q=LIKE+GRAH) | N/A |
-| 33 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 34 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
-| 35 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
-| 36 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 37 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 38 | [kurtis conner](http://twitter.com/search?q=kurtis+conner) | N/A |
-| 39 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
-| 40 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 41 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 42 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
-| 43 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 33 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
+| 34 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 35 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 36 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 37 | [KURTIS CONNER](http://twitter.com/search?q=KURTIS+CONNER) | N/A |
+| 38 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 39 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 40 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
+| 41 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 42 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 43 | [Fearne](http://twitter.com/search?q=Fearne) | N/A |
 | 44 | [Ritual](http://twitter.com/search?q=Ritual) | N/A |
-| 45 | [NY in June](http://twitter.com/search?q=NY+in+June) | N/A |
-| 46 | [Rich Paul](http://twitter.com/search?q=Rich+Paul) | N/A |
-| 47 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 48 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 49 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 50 | [Jack Nicholson](http://twitter.com/search?q=Jack+Nicholson) | N/A |
+| 45 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 46 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 47 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 48 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 49 | [Tatis](http://twitter.com/search?q=Tatis) | N/A |
+| 50 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 
 
 

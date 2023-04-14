@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-04-14 06:18:59 UTC`
+📆 Last Updated: `2023-04-14 07:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
 | 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 3 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
-| 4 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
-| 5 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 6 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 7 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 8 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 4 | [#manif13avril](http://twitter.com/search?q=%23manif13avril) | N/A |
+| 5 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 7 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 8 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
 | 9 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 10 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 11 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 12 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
-| 13 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 14 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 15 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 17 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 18 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 10 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 11 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 13 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 14 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 15 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 16 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 17 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 18 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 19 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 20 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 20 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
 | 21 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
-| 22 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 23 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 23 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 24 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 25 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 25 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
 | 26 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
 | 27 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 28 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 29 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 30 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 31 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 28 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 29 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 30 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 31 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
 | 32 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 33 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
-| 34 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 35 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 36 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
-| 37 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 38 | [GP Explorer](http://twitter.com/search?q=GP+Explorer) | N/A |
-| 39 | [Molina](http://twitter.com/search?q=Molina) | N/A |
-| 40 | [Orange](http://twitter.com/search?q=Orange) | N/A |
-| 41 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 42 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 43 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 44 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
-| 45 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 46 | [Marron](http://twitter.com/search?q=Marron) | N/A |
-| 47 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 48 | [Woerth](http://twitter.com/search?q=Woerth) | N/A |
-| 49 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
-| 50 | [Djoko](http://twitter.com/search?q=Djoko) | N/A |
+| 33 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
+| 34 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 35 | [gentle mates](http://twitter.com/search?q=gentle+mates) | N/A |
+| 36 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 37 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 38 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 39 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 40 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 41 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 42 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 43 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 44 | [gp explorer](http://twitter.com/search?q=gp+explorer) | N/A |
+| 45 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 46 | [Lyla](http://twitter.com/search?q=Lyla) | N/A |
+| 47 | [Rose](http://twitter.com/search?q=Rose) | N/A |
+| 48 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 49 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 50 | [Sakumo](http://twitter.com/search?q=Sakumo) | N/A |
 
 
 

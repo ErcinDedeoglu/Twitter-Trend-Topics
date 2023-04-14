@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-14 06:18:03 UTC`
+📆 Last Updated: `2023-04-14 07:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 2 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 3 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
-| 4 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
-| 5 | [#BatallaDeCampeones](http://twitter.com/search?q=%23BatallaDeCampeones) | N/A |
-| 6 | [#AURORAENMEXICO](http://twitter.com/search?q=%23AURORAENMEXICO) | N/A |
-| 7 | [JOS STANS ARE BACK](http://twitter.com/search?q=JOS+STANS+ARE+BACK) | N/A |
-| 8 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
-| 9 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 10 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 2 | [Motagua](http://twitter.com/search?q=Motagua) | N/A |
+| 3 | [Gignac](http://twitter.com/search?q=Gignac) | Gignac is a French surname. It is derived from the Old French word "gaigner", which means "to cultivate". In English, it can be translated to mean "farmer". |
+| 4 | [#BatallaDeCampeones](http://twitter.com/search?q=%23BatallaDeCampeones) | N/A |
+| 5 | [JOS STANS ARE BACK](http://twitter.com/search?q=JOS+STANS+ARE+BACK) | N/A |
+| 6 | [Siboldi](http://twitter.com/search?q=Siboldi) | N/A |
+| 7 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 8 | [#AURORAENMEXICO](http://twitter.com/search?q=%23AURORAENMEXICO) | N/A |
+| 9 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 10 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 11 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 12 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 13 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 14 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 15 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 16 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 17 | [Kamp](http://twitter.com/search?q=Kamp) | N/A |
-| 18 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
-| 19 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 20 | [#Reto4Elementos](http://twitter.com/search?q=%23Reto4Elementos) | N/A |
-| 21 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 22 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
-| 23 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
-| 24 | [Nico Ibáñez](http://twitter.com/search?q=Nico+Ib%c3%a1%c3%b1ez) | N/A |
-| 25 | [Lucha Villa](http://twitter.com/search?q=Lucha+Villa) | N/A |
-| 26 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 27 | [Notimex](http://twitter.com/search?q=Notimex) | N/A |
-| 28 | [Raphael](http://twitter.com/search?q=Raphael) | N/A |
-| 29 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
-| 30 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
-| 31 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
-| 32 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 33 | [LAFC](http://twitter.com/search?q=LAFC) | LAFC stands for Los Angeles Football Club, which is a professional soccer team based in Los Angeles, California. The team competes in Major League Soccer (MLS) and was founded in 2014. |
-| 34 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 35 | [Slime](http://twitter.com/search?q=Slime) | N/A |
-| 36 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
-| 37 | [Sanha](http://twitter.com/search?q=Sanha) | N/A |
-| 38 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
-| 39 | [Diente](http://twitter.com/search?q=Diente) | N/A |
-| 40 | [ESTOY CON TU KARMA](http://twitter.com/search?q=ESTOY+CON+TU+KARMA) | N/A |
-| 41 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 42 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 43 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 44 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
-| 45 | [Gera](http://twitter.com/search?q=Gera) | N/A |
-| 46 | [Rosa Icela](http://twitter.com/search?q=Rosa+Icela) | N/A |
-| 47 | [Rigo Tovar](http://twitter.com/search?q=Rigo+Tovar) | N/A |
-| 48 | [#1Trago](http://twitter.com/search?q=%231Trago) | N/A |
-| 49 | [#72Seasons](http://twitter.com/search?q=%2372Seasons) | N/A |
-| 50 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
+| 12 | [#เล่นสงกรานต์กับบิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 13 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 14 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 15 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 16 | [#kampfestcdmx](http://twitter.com/search?q=%23kampfestcdmx) | N/A |
+| 17 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 18 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 19 | [Monsta X](http://twitter.com/search?q=Monsta+X) | N/A |
+| 20 | [Karla Souza](http://twitter.com/search?q=Karla+Souza) | N/A |
+| 21 | [Silvia Pinal](http://twitter.com/search?q=Silvia+Pinal) | N/A |
+| 22 | [Ibáñez](http://twitter.com/search?q=Ib%c3%a1%c3%b1ez) | N/A |
+| 23 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 24 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
+| 25 | [Notimex](http://twitter.com/search?q=Notimex) | N/A |
+| 26 | [Moonbin](http://twitter.com/search?q=Moonbin) | N/A |
+| 27 | [1trago](http://twitter.com/search?q=1trago) | N/A |
+| 28 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 29 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 30 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
+| 31 | [Volcán](http://twitter.com/search?q=Volc%c3%a1n) | N/A |
+| 32 | [Semifinales](http://twitter.com/search?q=Semifinales) | N/A |
+| 33 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 34 | [sanha](http://twitter.com/search?q=sanha) | N/A |
+| 35 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 36 | [LAFC](http://twitter.com/search?q=LAFC) | LAFC stands for Los Angeles Football Club, which is a professional soccer team based in Los Angeles, California. The team competes in Major League Soccer (MLS) and was founded in 2014. |
+| 37 | [Slime](http://twitter.com/search?q=Slime) | N/A |
+| 38 | [Rodel](http://twitter.com/search?q=Rodel) | N/A |
+| 39 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 40 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 41 | [Danna Paola](http://twitter.com/search?q=Danna+Paola) | N/A |
+| 42 | [Gera](http://twitter.com/search?q=Gera) | N/A |
+| 43 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 44 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 45 | [Rigo Tovar](http://twitter.com/search?q=Rigo+Tovar) | N/A |
+| 46 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 47 | [#Concachampions](http://twitter.com/search?q=%23Concachampions) | N/A |
+| 48 | [#DelfinaArrasa](http://twitter.com/search?q=%23DelfinaArrasa) | N/A |
 
 
 

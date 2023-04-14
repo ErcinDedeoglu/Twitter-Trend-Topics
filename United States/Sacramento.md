@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-14 06:18:54 UTC`
+📆 Last Updated: `2023-04-14 07:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
-| 2 | [link 2](http://twitter.com/search?q=link+2) | N/A |
-| 3 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 4 | [Petco Park](http://twitter.com/search?q=Petco+Park) | N/A |
-| 5 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 6 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
-| 7 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 9 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 10 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 11 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 12 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 13 | [Kavanaugh](http://twitter.com/search?q=Kavanaugh) | N/A |
-| 14 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 15 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 16 | [Dogs](http://twitter.com/search?q=Dogs) | N/A |
+| 1 | [mun vs sev](http://twitter.com/search?q=mun+vs+sev) | N/A |
+| 2 | [Link 2](http://twitter.com/search?q=Link+2) | N/A |
+| 3 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
+| 4 | [Dinwiddie](http://twitter.com/search?q=Dinwiddie) | Dinwiddie is a county in the Commonwealth of Virginia, located south of Richmond and north of Petersburg. The name is derived from Robert Dinwiddie, the Lieutenant Governor of Virginia from 1751 to 1758. |
+| 5 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 6 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 7 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 8 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 10 | [Nola](http://twitter.com/search?q=Nola) | N/A |
+| 11 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 12 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 13 | [Crow](http://twitter.com/search?q=Crow) | N/A |
+| 14 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 15 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 16 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
 | 17 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 18 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
-| 19 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
-| 20 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 21 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 22 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
-| 23 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 24 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 25 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 26 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 27 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 19 | [#PowerGhost](http://twitter.com/search?q=%23PowerGhost) | N/A |
+| 20 | [#PrincessDianaRemix](http://twitter.com/search?q=%23PrincessDianaRemix) | N/A |
+| 21 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 22 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 23 | [Speak Now](http://twitter.com/search?q=Speak+Now) | Speak Now is an expression used to encourage someone to speak up and express their opinion or feelings without hesitation. It is often used as a call to action, urging people to speak out and make their voices heard. |
+| 24 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 25 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 26 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 27 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
 | 28 | [Saxe](http://twitter.com/search?q=Saxe) | N/A |
-| 29 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 30 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 31 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
-| 32 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 29 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
+| 30 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 31 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
+| 32 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
 | 33 | [Matt Bush](http://twitter.com/search?q=Matt+Bush) | N/A |
-| 34 | [CATCH IT](http://twitter.com/search?q=CATCH+IT) | N/A |
-| 35 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
-| 36 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 37 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
-| 38 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
-| 39 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 34 | [Brayden](http://twitter.com/search?q=Brayden) | N/A |
+| 35 | [HEAVY ON IT](http://twitter.com/search?q=HEAVY+ON+IT) | N/A |
+| 36 | [Devin Williams](http://twitter.com/search?q=Devin+Williams) | N/A |
+| 37 | [Mariah](http://twitter.com/search?q=Mariah) | N/A |
+| 38 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
+| 39 | [Kempe](http://twitter.com/search?q=Kempe) | N/A |
 | 40 | [LIKE GRAH](http://twitter.com/search?q=LIKE+GRAH) | N/A |
-| 41 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 42 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
-| 43 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
-| 44 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 45 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
-| 46 | [kurtis conner](http://twitter.com/search?q=kurtis+conner) | N/A |
-| 47 | [GO KNIGHTS GO](http://twitter.com/search?q=GO+KNIGHTS+GO) | N/A |
-| 48 | [Zegras](http://twitter.com/search?q=Zegras) | Zegras is a surname of Greek origin. It is derived from the Greek word "zegra", which means "life". In English, it can be translated to mean "life-giver". |
-| 49 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 50 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 41 | [END OF THE WATER](http://twitter.com/search?q=END+OF+THE+WATER) | N/A |
+| 42 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 43 | [He's 85](http://twitter.com/search?q=He%27s+85) | N/A |
+| 44 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 45 | [KURTIS CONNER](http://twitter.com/search?q=KURTIS+CONNER) | N/A |
+| 46 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 47 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 48 | [Trent Grisham](http://twitter.com/search?q=Trent+Grisham) | N/A |
+| 49 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 50 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 
 
 
