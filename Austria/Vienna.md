@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-14 16:18:16 UTC`
+📆 Last Updated: `2023-04-14 17:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,17 +16,17 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 2 | [Vollzeit](http://twitter.com/search?q=Vollzeit) | N/A |
-| 3 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 4 | [massenschlägerei](http://twitter.com/search?q=massenschl%c3%a4gerei) | N/A |
-| 5 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
+| 2 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 3 | [massenschlägerei](http://twitter.com/search?q=massenschl%c3%a4gerei) | N/A |
+| 4 | [Projekte](http://twitter.com/search?q=Projekte) | N/A |
+| 5 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
 | 6 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
 | 7 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 8 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 9 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 8 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 9 | [Auflagen](http://twitter.com/search?q=Auflagen) | N/A |
 | 10 | [Unterschiede](http://twitter.com/search?q=Unterschiede) | N/A |
 | 11 | [Störung](http://twitter.com/search?q=St%c3%b6rung) | N/A |
-| 12 | [journalistin](http://twitter.com/search?q=journalistin) | N/A |
+| 12 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
 | 13 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 14 | [Zeitung](http://twitter.com/search?q=Zeitung) | N/A |
 | 15 | [Kleidung](http://twitter.com/search?q=Kleidung) | N/A |
@@ -38,8 +38,8 @@ This is top 50 for [Austria](</Austria>)
 | 21 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 22 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
 | 23 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
-| 24 | [lizenz](http://twitter.com/search?q=lizenz) | N/A |
-| 25 | [Bures](http://twitter.com/search?q=Bures) | N/A |
+| 24 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 25 | [bures](http://twitter.com/search?q=bures) | N/A |
 | 26 | [#Schnee](http://twitter.com/search?q=%23Schnee) | N/A |
 | 27 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 28 | [Arbeitsplätze](http://twitter.com/search?q=Arbeitspl%c3%a4tze) | N/A |

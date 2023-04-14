@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-14 16:18:11 UTC`
+📆 Last Updated: `2023-04-14 17:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,36 +34,36 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 17 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 18 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
 | 19 | [juan vicente tovar](http://twitter.com/search?q=juan+vicente+tovar) | N/A |
-| 20 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 21 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 22 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 23 | [flor nuñez](http://twitter.com/search?q=flor+nu%c3%b1ez) | N/A |
-| 24 | [irreversible](http://twitter.com/search?q=irreversible) | N/A |
-| 25 | [revolución bolivariana](http://twitter.com/search?q=revoluci%c3%b3n+bolivariana) | N/A |
-| 26 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 27 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 28 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 29 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
-| 30 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
-| 31 | [Feliz y Bendecido](http://twitter.com/search?q=Feliz+y+Bendecido) | N/A |
+| 20 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 21 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
+| 22 | [flor nuñez](http://twitter.com/search?q=flor+nu%c3%b1ez) | N/A |
+| 23 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
+| 24 | [revolución bolivariana](http://twitter.com/search?q=revoluci%c3%b3n+bolivariana) | N/A |
+| 25 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 26 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
+| 27 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
+| 28 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
+| 29 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
+| 30 | [Feliz y Bendecido](http://twitter.com/search?q=Feliz+y+Bendecido) | N/A |
+| 31 | [día de la dignidad nacional](http://twitter.com/search?q=d%c3%ada+de+la+dignidad+nacional) | N/A |
 | 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 33 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
 | 34 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
 | 35 | [PODER ELECTORAL](http://twitter.com/search?q=PODER+ELECTORAL) | N/A |
 | 36 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
 | 37 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 38 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
-| 39 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 40 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
-| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 42 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
-| 43 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
-| 44 | [bárbara palacios](http://twitter.com/search?q=b%c3%a1rbara+palacios) | N/A |
-| 45 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 46 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 47 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
-| 48 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 49 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 38 | [milicia nacional bolivariana](http://twitter.com/search?q=milicia+nacional+bolivariana) | N/A |
+| 39 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 40 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
+| 41 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 42 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
+| 43 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 44 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
+| 45 | [bárbara palacios](http://twitter.com/search?q=b%c3%a1rbara+palacios) | N/A |
+| 46 | [Codo](http://twitter.com/search?q=Codo) | N/A |
+| 47 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 48 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
+| 49 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
 
 
 

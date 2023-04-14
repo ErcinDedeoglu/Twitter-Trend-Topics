@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-14 16:19:01 UTC`
+📆 Last Updated: `2023-04-14 17:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for Belgium
 | 11 | [Boniface](http://twitter.com/search?q=Boniface) | N/A |
 | 12 | [lokeren](http://twitter.com/search?q=lokeren) | N/A |
 | 13 | [Auvio](http://twitter.com/search?q=Auvio) | N/A |
-| 14 | [Le MR](http://twitter.com/search?q=Le+MR) | N/A |
+| 14 | [le mr](http://twitter.com/search?q=le+mr) | N/A |
 | 15 | [verbruggen](http://twitter.com/search?q=verbruggen) | N/A |
 | 16 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
 | 17 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
@@ -44,17 +44,17 @@ This is top 50 for Belgium
 | 27 | [La Russie](http://twitter.com/search?q=La+Russie) | N/A |
 | 28 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
 | 29 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 30 | [Bjorn](http://twitter.com/search?q=Bjorn) | N/A |
-| 31 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 32 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
-| 33 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 34 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 36 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 37 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 38 | [Stel](http://twitter.com/search?q=Stel) | N/A |
-| 39 | [assita](http://twitter.com/search?q=assita) | N/A |
-| 40 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 30 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 31 | [Bjorn](http://twitter.com/search?q=Bjorn) | N/A |
+| 32 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 33 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
+| 34 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 35 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 36 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 37 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 38 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 39 | [Stel](http://twitter.com/search?q=Stel) | N/A |
+| 40 | [assita](http://twitter.com/search?q=assita) | N/A |
 | 41 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 42 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
 | 43 | [Hermans](http://twitter.com/search?q=Hermans) | N/A |

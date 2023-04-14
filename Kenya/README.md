@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-04-14 16:19:05 UTC`
+📆 Last Updated: `2023-04-14 17:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for Kenya
 | ------- | ------------ | ------------ |
 | 1 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
 | 2 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 4 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 5 | [#InsightOnRapture](http://twitter.com/search?q=%23InsightOnRapture) | N/A |
+| 3 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 4 | [#InsightOnRapture](http://twitter.com/search?q=%23InsightOnRapture) | N/A |
+| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 6 | [#RHONairobi](http://twitter.com/search?q=%23RHONairobi) | N/A |
 | 7 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
 | 8 | [#SayNoToZambiaMaizeDeal](http://twitter.com/search?q=%23SayNoToZambiaMaizeDeal) | N/A |
@@ -37,10 +37,10 @@ This is top 50 for Kenya
 | 20 | [resident associations safety](http://twitter.com/search?q=resident+associations+safety) | N/A |
 | 21 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 23 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
-| 24 | [Sabina Chege](http://twitter.com/search?q=Sabina+Chege) | N/A |
-| 25 | [Samidoh](http://twitter.com/search?q=Samidoh) | N/A |
-| 26 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 23 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
+| 24 | [Shooter](http://twitter.com/search?q=Shooter) | N/A |
+| 25 | [Sabina Chege](http://twitter.com/search?q=Sabina+Chege) | N/A |
+| 26 | [Samidoh](http://twitter.com/search?q=Samidoh) | N/A |
 | 27 | [maharani shoes](http://twitter.com/search?q=maharani+shoes) | N/A |
 | 28 | [shoe queen](http://twitter.com/search?q=shoe+queen) | N/A |
 | 29 | [Carbon](http://twitter.com/search?q=Carbon) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Kenya
 | 31 | [Sane](http://twitter.com/search?q=Sane) | N/A |
 | 32 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 33 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 34 | [Kanchory](http://twitter.com/search?q=Kanchory) | N/A |
-| 35 | [Mukumu](http://twitter.com/search?q=Mukumu) | N/A |
-| 36 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 37 | [Tabitha Karanja](http://twitter.com/search?q=Tabitha+Karanja) | N/A |
-| 38 | [miguna miguna](http://twitter.com/search?q=miguna+miguna) | N/A |
-| 39 | [nduundune to alliance](http://twitter.com/search?q=nduundune+to+alliance) | N/A |
-| 40 | [minne](http://twitter.com/search?q=minne) | N/A |
-| 41 | [knatcom anniversary](http://twitter.com/search?q=knatcom+anniversary) | N/A |
-| 42 | [Mlolongo](http://twitter.com/search?q=Mlolongo) | N/A |
-| 43 | [Nyeri](http://twitter.com/search?q=Nyeri) | N/A |
-| 44 | [Fear](http://twitter.com/search?q=Fear) | N/A |
-| 45 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 46 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 47 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 48 | [Mavoko Township](http://twitter.com/search?q=Mavoko+Township) | N/A |
-| 49 | [Duke of Emali](http://twitter.com/search?q=Duke+of+Emali) | N/A |
-| 50 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
+| 34 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 35 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
+| 36 | [ushindi gardens](http://twitter.com/search?q=ushindi+gardens) | N/A |
+| 37 | [Kanchory](http://twitter.com/search?q=Kanchory) | N/A |
+| 38 | [Mukumu](http://twitter.com/search?q=Mukumu) | N/A |
+| 39 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 40 | [Tabitha Karanja](http://twitter.com/search?q=Tabitha+Karanja) | N/A |
+| 41 | [miguna miguna](http://twitter.com/search?q=miguna+miguna) | N/A |
+| 42 | [nduundune to alliance](http://twitter.com/search?q=nduundune+to+alliance) | N/A |
+| 43 | [minne](http://twitter.com/search?q=minne) | N/A |
+| 44 | [Mlolongo](http://twitter.com/search?q=Mlolongo) | N/A |
+| 45 | [Nyeri](http://twitter.com/search?q=Nyeri) | N/A |
+| 46 | [Fear](http://twitter.com/search?q=Fear) | N/A |
+| 47 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 48 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 49 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 50 | [Mavoko Township](http://twitter.com/search?q=Mavoko+Township) | N/A |
 
 
 

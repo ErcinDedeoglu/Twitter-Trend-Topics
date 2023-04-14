@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-04-14 16:18:09 UTC`
+📆 Last Updated: `2023-04-14 17:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,11 +26,11 @@ This is top 50 for [Argentina](</Argentina>)
 | 9 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
 | 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 11 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
-| 12 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 13 | [quienes son](http://twitter.com/search?q=quienes+son) | N/A |
-| 14 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 15 | [Moria](http://twitter.com/search?q=Moria) | N/A |
-| 16 | [#dolarblue](http://twitter.com/search?q=%23dolarblue) | N/A |
+| 12 | [quienes son](http://twitter.com/search?q=quienes+son) | N/A |
+| 13 | [Moria](http://twitter.com/search?q=Moria) | N/A |
+| 14 | [#dolarblue](http://twitter.com/search?q=%23dolarblue) | N/A |
+| 15 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 16 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
 | 17 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
 | 18 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
 | 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
@@ -41,30 +41,30 @@ This is top 50 for [Argentina](</Argentina>)
 | 24 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
 | 25 | [El Senado](http://twitter.com/search?q=El+Senado) | N/A |
 | 26 | [Ofelia](http://twitter.com/search?q=Ofelia) | N/A |
-| 27 | [Obsesión](http://twitter.com/search?q=Obsesi%c3%b3n) | N/A |
-| 28 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
-| 29 | [Enzo diaz](http://twitter.com/search?q=Enzo+diaz) | N/A |
-| 30 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
-| 31 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 32 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 33 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 34 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 35 | [Sandez](http://twitter.com/search?q=Sandez) | Sandez is a Spanish term meaning “goodbye” or “farewell.” It is derived from the phrase “adiós, amigo,” which literally translates to “goodbye, friend.” |
-| 36 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 37 | [benedetto](http://twitter.com/search?q=benedetto) | N/A |
-| 38 | [Construyó](http://twitter.com/search?q=Construy%c3%b3) | N/A |
-| 39 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 40 | [Grindetti](http://twitter.com/search?q=Grindetti) | N/A |
-| 41 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 42 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 43 | [Moritan](http://twitter.com/search?q=Moritan) | N/A |
-| 44 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
-| 45 | [La Scaloneta](http://twitter.com/search?q=La+Scaloneta) | N/A |
-| 46 | [villagra](http://twitter.com/search?q=villagra) | N/A |
-| 47 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
-| 48 | [cone y coty al bailando](http://twitter.com/search?q=cone+y+coty+al+bailando) | N/A |
-| 49 | [Lucas Beltrán](http://twitter.com/search?q=Lucas+Beltr%c3%a1n) | N/A |
-| 50 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 27 | [Aliendro](http://twitter.com/search?q=Aliendro) | Aliendro is a Spanish word that means "stranger" or "foreigner". It is used to refer to someone who is not from the same place or culture as the speaker. |
+| 28 | [Marisa](http://twitter.com/search?q=Marisa) | N/A |
+| 29 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 30 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 31 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 32 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 33 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 34 | [Sandez](http://twitter.com/search?q=Sandez) | Sandez is a Spanish term meaning “goodbye” or “farewell.” It is derived from the phrase “adiós, amigo,” which literally translates to “goodbye, friend.” |
+| 35 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 36 | [benedetto](http://twitter.com/search?q=benedetto) | N/A |
+| 37 | [Construyó](http://twitter.com/search?q=Construy%c3%b3) | N/A |
+| 38 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 39 | [grindetti](http://twitter.com/search?q=grindetti) | N/A |
+| 40 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
+| 41 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 42 | [Moritan](http://twitter.com/search?q=Moritan) | N/A |
+| 43 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
+| 44 | [La Scaloneta](http://twitter.com/search?q=La+Scaloneta) | N/A |
+| 45 | [villagra](http://twitter.com/search?q=villagra) | N/A |
+| 46 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
+| 47 | [cone y coty al bailando](http://twitter.com/search?q=cone+y+coty+al+bailando) | N/A |
+| 48 | [Lucas Beltrán](http://twitter.com/search?q=Lucas+Beltr%c3%a1n) | N/A |
+| 49 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 50 | [Incondicional](http://twitter.com/search?q=Incondicional) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-04-14 16:18:10 UTC`
+📆 Last Updated: `2023-04-14 17:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,13 +35,13 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 18 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 19 | [Crecerá](http://twitter.com/search?q=Crecer%c3%a1) | N/A |
 | 20 | [RUMORES](http://twitter.com/search?q=RUMORES) | N/A |
-| 21 | [#alerta](http://twitter.com/search?q=%23alerta) | N/A |
+| 21 | [#Alerta](http://twitter.com/search?q=%23Alerta) | N/A |
 | 22 | [balsas](http://twitter.com/search?q=balsas) | N/A |
 | 23 | [la embajada de estados unidos](http://twitter.com/search?q=la+embajada+de+estados+unidos) | N/A |
 | 24 | [Espíritu Santo](http://twitter.com/search?q=Esp%c3%adritu+Santo) | N/A |
 | 25 | [jan topic](http://twitter.com/search?q=jan+topic) | N/A |
 | 26 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 27 | [SERCOP](http://twitter.com/search?q=SERCOP) | N/A |
+| 27 | [sercop](http://twitter.com/search?q=sercop) | N/A |
 | 28 | [rodrigo paz](http://twitter.com/search?q=rodrigo+paz) | N/A |
 | 29 | [los tiguerones](http://twitter.com/search?q=los+tiguerones) | N/A |
 | 30 | [andreina](http://twitter.com/search?q=andreina) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 43 | [incómodo](http://twitter.com/search?q=inc%c3%b3modo) | N/A |
 | 44 | [Guacharnaco](http://twitter.com/search?q=Guacharnaco) | N/A |
 | 45 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 46 | [Mercenario](http://twitter.com/search?q=Mercenario) | N/A |
+| 46 | [mercenario](http://twitter.com/search?q=mercenario) | N/A |
 | 47 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
 | 48 | [Universidades](http://twitter.com/search?q=Universidades) | N/A |
 | 49 | [mare es victoria](http://twitter.com/search?q=mare+es+victoria) | N/A |

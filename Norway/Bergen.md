@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-14 16:18:24 UTC`
+📆 Last Updated: `2023-04-14 17:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,10 +32,10 @@ This is top 50 for [Norway](</Norway>)
 | 15 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 16 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
 | 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [melkøya](http://twitter.com/search?q=melk%c3%b8ya) | N/A |
+| 18 | [Melkøya](http://twitter.com/search?q=Melk%c3%b8ya) | N/A |
 | 19 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
-| 20 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 21 | [equinor](http://twitter.com/search?q=equinor) | N/A |
+| 20 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
+| 21 | [Frost](http://twitter.com/search?q=Frost) | N/A |
 | 22 | [FØLER](http://twitter.com/search?q=F%c3%98LER) | N/A |
 | 23 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 24 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
@@ -62,7 +62,7 @@ This is top 50 for [Norway](</Norway>)
 | 45 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
 | 46 | [Stortinget](http://twitter.com/search?q=Stortinget) | N/A |
 | 47 | [England](http://twitter.com/search?q=England) | N/A |
-| 48 | [Selvsagt](http://twitter.com/search?q=Selvsagt) | N/A |
+| 48 | [selvsagt](http://twitter.com/search?q=selvsagt) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-14 16:19:04 UTC`
+📆 Last Updated: `2023-04-14 17:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,7 +40,7 @@ This is top 50 for Guatemala
 | 23 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
 | 24 | [ignacio fuentes](http://twitter.com/search?q=ignacio+fuentes) | N/A |
 | 25 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 26 | [#1Trago](http://twitter.com/search?q=%231Trago) | N/A |
+| 26 | [#1trago](http://twitter.com/search?q=%231trago) | N/A |
 | 27 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 28 | [#MarioBrosMovie](http://twitter.com/search?q=%23MarioBrosMovie) | N/A |
 | 29 | [#confiar](http://twitter.com/search?q=%23confiar) | N/A |
@@ -54,11 +54,11 @@ This is top 50 for Guatemala
 | 37 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
 | 38 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
 | 39 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 40 | [Juancho](http://twitter.com/search?q=Juancho) | N/A |
+| 40 | [juancho](http://twitter.com/search?q=juancho) | N/A |
 | 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 42 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 43 | [el progreso](http://twitter.com/search?q=el+progreso) | N/A |
-| 44 | [NELSON IS JAMIE](http://twitter.com/search?q=NELSON+IS+JAMIE) | N/A |
+| 44 | [nelson is jamie](http://twitter.com/search?q=nelson+is+jamie) | N/A |
 | 45 | [plgp](http://twitter.com/search?q=plgp) | N/A |
 | 46 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 47 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |

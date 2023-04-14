@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-04-14 16:18:44 UTC`
+📆 Last Updated: `2023-04-14 17:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,28 +42,28 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 25 | [tannie](http://twitter.com/search?q=tannie) | Tannie is a South African term of endearment for an older woman, similar to "auntie". It is derived from the Dutch word "tante", which means "aunt". |
 | 26 | [Laylatul Qadr](http://twitter.com/search?q=Laylatul+Qadr) | N/A |
 | 27 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 28 | [Gul Bukhari](http://twitter.com/search?q=Gul+Bukhari) | N/A |
+| 28 | [gul bukhari](http://twitter.com/search?q=gul+bukhari) | N/A |
 | 29 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 30 | [His Excellency](http://twitter.com/search?q=His+Excellency) | N/A |
-| 31 | [Down With Israel](http://twitter.com/search?q=Down+With+Israel) | N/A |
-| 32 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
-| 33 | [Saim](http://twitter.com/search?q=Saim) | N/A |
-| 34 | [The King](http://twitter.com/search?q=The+King) | N/A |
-| 35 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 36 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 37 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
+| 31 | [Shaukat Khanum](http://twitter.com/search?q=Shaukat+Khanum) | N/A |
+| 32 | [Down With Israel](http://twitter.com/search?q=Down+With+Israel) | N/A |
+| 33 | [Umrah](http://twitter.com/search?q=Umrah) | N/A |
+| 34 | [Saim](http://twitter.com/search?q=Saim) | N/A |
+| 35 | [The King](http://twitter.com/search?q=The+King) | N/A |
+| 36 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 37 | [Riyadh](http://twitter.com/search?q=Riyadh) | N/A |
 | 38 | [imam khamenei](http://twitter.com/search?q=imam+khamenei) | N/A |
 | 39 | [Coffee](http://twitter.com/search?q=Coffee) | N/A |
-| 40 | [Riyadh](http://twitter.com/search?q=Riyadh) | N/A |
+| 40 | [Incredible](http://twitter.com/search?q=Incredible) | N/A |
 | 41 | [Congress](http://twitter.com/search?q=Congress) | Congress is a legislative body, usually made up of representatives from different political parties, that makes laws for a country or state. In the United States, Congress is made up of two houses: the House of Representatives and the Senate. The purpose of Congress is to represent the interests of its constituents and to pass laws that benefit the nation as a whole. |
 | 42 | [contempt](http://twitter.com/search?q=contempt) | N/A |
 | 43 | [VONC](http://twitter.com/search?q=VONC) | N/A |
 | 44 | [Hafiz](http://twitter.com/search?q=Hafiz) | N/A |
 | 45 | [Beggars](http://twitter.com/search?q=Beggars) | N/A |
-| 46 | [Aray](http://twitter.com/search?q=Aray) | N/A |
-| 47 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 48 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 49 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 46 | [Twitch](http://twitter.com/search?q=Twitch) | N/A |
+| 47 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 48 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 49 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 
 
 

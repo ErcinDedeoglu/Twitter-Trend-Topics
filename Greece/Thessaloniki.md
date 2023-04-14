@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thessaloniki
 
-📆 Last Updated: `2023-04-14 16:18:24 UTC`
+📆 Last Updated: `2023-04-14 17:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,7 +45,7 @@ This is top 50 for [Greece](</Greece>)
 | 28 | [ιουδα](http://twitter.com/search?q=%ce%b9%ce%bf%cf%85%ce%b4%ce%b1) | N/A |
 | 29 | [Μεγαλο Σαββατο](http://twitter.com/search?q=%ce%9c%ce%b5%ce%b3%ce%b1%ce%bb%ce%bf+%ce%a3%ce%b1%ce%b2%ce%b2%ce%b1%cf%84%ce%bf) | N/A |
 | 30 | [Greek](http://twitter.com/search?q=Greek) | N/A |
-| 31 | [Μανεση](http://twitter.com/search?q=%ce%9c%ce%b1%ce%bd%ce%b5%cf%83%ce%b7) | N/A |
+| 31 | [μανεση](http://twitter.com/search?q=%ce%bc%ce%b1%ce%bd%ce%b5%cf%83%ce%b7) | N/A |
 | 32 | [πενταγωνου](http://twitter.com/search?q=%cf%80%ce%b5%ce%bd%cf%84%ce%b1%ce%b3%cf%89%ce%bd%ce%bf%cf%85) | N/A |
 | 33 | [προεδρικο μεγαρο](http://twitter.com/search?q=%cf%80%cf%81%ce%bf%ce%b5%ce%b4%cf%81%ce%b9%ce%ba%ce%bf+%ce%bc%ce%b5%ce%b3%ce%b1%cf%81%ce%bf) | N/A |
 | 34 | [dear turkish](http://twitter.com/search?q=dear+turkish) | N/A |

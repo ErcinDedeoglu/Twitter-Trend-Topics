@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-04-14 16:18:14 UTC`
+📆 Last Updated: `2023-04-14 17:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Brazil](</Brazil>)
 | 6 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
 | 7 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 8 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 9 | [#MemeStreetGang](http://twitter.com/search?q=%23MemeStreetGang) | N/A |
+| 9 | [#memestreetgang](http://twitter.com/search?q=%23memestreetgang) | N/A |
 | 10 | [Demi Lovato](http://twitter.com/search?q=Demi+Lovato) | N/A |
 | 11 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
 | 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
@@ -42,25 +42,25 @@ This is top 50 for [Brazil](</Brazil>)
 | 25 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 26 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
 | 27 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 28 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 29 | [VILLASANTI](http://twitter.com/search?q=VILLASANTI) | N/A |
+| 28 | [villasanti](http://twitter.com/search?q=villasanti) | N/A |
+| 29 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
 | 30 | [Acabou o BBB](http://twitter.com/search?q=Acabou+o+BBB) | N/A |
-| 31 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 32 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
+| 31 | [Pior BBB](http://twitter.com/search?q=Pior+BBB) | N/A |
+| 32 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 33 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
 | 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 35 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 36 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 35 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 36 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
 | 37 | [Mário Jorge](http://twitter.com/search?q=M%c3%a1rio+Jorge) | N/A |
 | 38 | [4 Filmes](http://twitter.com/search?q=4+Filmes) | N/A |
 | 39 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 40 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 41 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 40 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
+| 41 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
 | 42 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
 | 43 | [James Rodriguez](http://twitter.com/search?q=James+Rodriguez) | N/A |
 | 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 45 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
-| 46 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 45 | [Ipsep](http://twitter.com/search?q=Ipsep) | N/A |
+| 46 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
 | 47 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
 | 48 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
 | 49 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |

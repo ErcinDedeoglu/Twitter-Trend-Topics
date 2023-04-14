@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oman
 
-📆 Last Updated: `2023-04-14 16:19:06 UTC`
+📆 Last Updated: `2023-04-14 17:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,22 +49,22 @@ This is top 50 for Oman
 | 32 | [جريان الشعاب](http://twitter.com/search?q=%d8%ac%d8%b1%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b4%d8%b9%d8%a7%d8%a8) | N/A |
 | 33 | [الدوام الرسمي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%a7%d9%85+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a) | N/A |
 | 34 | [حمدان](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86) | حمدان (Ḥamdan) is an Arabic male name meaning "praiseworthy". |
-| 35 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
-| 36 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 37 | [ابو مريم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
-| 38 | [سلمان الفارسي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d8%b3%d9%8a) | N/A |
-| 39 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 40 | [العيد السبت](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 41 | [الخدمات المصرفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a%d9%87) | N/A |
-| 42 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
-| 43 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
-| 44 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
-| 45 | [بحر العرب](http://twitter.com/search?q=%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 46 | [علي المركز الثاني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 47 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 48 | [الجامعه العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 49 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
-| 50 | [العوض الجميل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d8%b6+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
+| 35 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 36 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
+| 37 | [اليوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 38 | [ابو مريم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%85%d8%b1%d9%8a%d9%85) | N/A |
+| 39 | [سلمان الفارسي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d8%b3%d9%8a) | N/A |
+| 40 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 41 | [العيد السبت](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 42 | [الخدمات المصرفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%af%d9%85%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a%d9%87) | N/A |
+| 43 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 44 | [الوطية](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%8a%d8%a9) | N/A |
+| 45 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 46 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | N/A |
+| 47 | [بحر العرب](http://twitter.com/search?q=%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 48 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 49 | [علي المركز الثاني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 50 | [22 رمضان](http://twitter.com/search?q=22+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 
 
 

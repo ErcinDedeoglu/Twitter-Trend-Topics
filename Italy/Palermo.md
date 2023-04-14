@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-04-14 16:18:20 UTC`
+📆 Last Updated: `2023-04-14 17:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JuveSporting](http://twitter.com/search?q=%23JuveSporting) | N/A |
-| 2 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 3 | [#14aprile](http://twitter.com/search?q=%2314aprile) | N/A |
-| 4 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
-| 5 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 2 | [#14aprile](http://twitter.com/search?q=%2314aprile) | N/A |
+| 3 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 4 | [#TerzoPolo](http://twitter.com/search?q=%23TerzoPolo) | N/A |
+| 5 | [#Amicispoiler](http://twitter.com/search?q=%23Amicispoiler) | N/A |
 | 6 | [#ilTempoChe](http://twitter.com/search?q=%23ilTempoChe) | N/A |
 | 7 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
 | 8 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
@@ -28,9 +28,9 @@ This is top 50 for [Italy](</Italy>)
 | 11 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
 | 12 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
 | 13 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 14 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 15 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
-| 16 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 14 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 15 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 16 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
 | 17 | [Armando](http://twitter.com/search?q=Armando) | N/A |
 | 18 | [achille](http://twitter.com/search?q=achille) | N/A |
 | 19 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
@@ -40,14 +40,14 @@ This is top 50 for [Italy](</Italy>)
 | 23 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
 | 24 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
 | 25 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 26 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
-| 27 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
-| 28 | [Anice](http://twitter.com/search?q=Anice) | N/A |
-| 29 | [Baiardo](http://twitter.com/search?q=Baiardo) | N/A |
-| 30 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
-| 31 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 32 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
-| 33 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 26 | [Maignan](http://twitter.com/search?q=Maignan) | Maignan is a French surname derived from the Old French word maigne, meaning "beloved". It is most commonly found in the regions of Normandy and Brittany. In English, it can be translated to mean "beloved one". |
+| 27 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 28 | [Il 14](http://twitter.com/search?q=Il+14) | N/A |
+| 29 | [Anice](http://twitter.com/search?q=Anice) | N/A |
+| 30 | [Baiardo](http://twitter.com/search?q=Baiardo) | N/A |
+| 31 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |
+| 32 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 33 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
 | 34 | [Federica](http://twitter.com/search?q=Federica) | N/A |
 | 35 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
 | 36 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
@@ -58,13 +58,13 @@ This is top 50 for [Italy](</Italy>)
 | 41 | [Buon Venerdì](http://twitter.com/search?q=Buon+Venerd%c3%ac) | N/A |
 | 42 | [Carletto](http://twitter.com/search?q=Carletto) | N/A |
 | 43 | [siviglia](http://twitter.com/search?q=siviglia) | N/A |
-| 44 | [Pentagono](http://twitter.com/search?q=Pentagono) | N/A |
-| 45 | [GM Fam](http://twitter.com/search?q=GM+Fam) | N/A |
-| 46 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
-| 47 | [Totò](http://twitter.com/search?q=Tot%c3%b2) | N/A |
-| 48 | [Egitto](http://twitter.com/search?q=Egitto) | N/A |
-| 49 | [Cingolani](http://twitter.com/search?q=Cingolani) | N/A |
-| 50 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 44 | [Giannini](http://twitter.com/search?q=Giannini) | N/A |
+| 45 | [Pentagono](http://twitter.com/search?q=Pentagono) | N/A |
+| 46 | [GM Fam](http://twitter.com/search?q=GM+Fam) | N/A |
+| 47 | [Lorenzo](http://twitter.com/search?q=Lorenzo) | N/A |
+| 48 | [Totò](http://twitter.com/search?q=Tot%c3%b2) | N/A |
+| 49 | [Buongiorno Max](http://twitter.com/search?q=Buongiorno+Max) | N/A |
+| 50 | [Egitto](http://twitter.com/search?q=Egitto) | N/A |
 
 
 

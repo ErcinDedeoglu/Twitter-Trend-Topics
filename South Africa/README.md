@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-04-14 16:19:08 UTC`
+📆 Last Updated: `2023-04-14 17:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for South Africa
 | ------- | ------------ | ------------ |
 | 1 | [#ThaboBester](http://twitter.com/search?q=%23ThaboBester) | N/A |
 | 2 | [#DrNandiphaMagudumana](http://twitter.com/search?q=%23DrNandiphaMagudumana) | N/A |
-| 3 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 4 | [#konkhekuhambakahleclothing](http://twitter.com/search?q=%23konkhekuhambakahleclothing) | N/A |
-| 5 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
-| 6 | [#TeteBraGod](http://twitter.com/search?q=%23TeteBraGod) | N/A |
-| 7 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
+| 3 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
+| 4 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
+| 5 | [#konkhekuhambakahleclothing](http://twitter.com/search?q=%23konkhekuhambakahleclothing) | N/A |
+| 6 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 8 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 9 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
-| 10 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 12 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 13 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
-| 14 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 15 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 16 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 17 | [Motsoaledi](http://twitter.com/search?q=Motsoaledi) | N/A |
-| 18 | [Dr Pashy](http://twitter.com/search?q=Dr+Pashy) | N/A |
-| 19 | [Menlyn](http://twitter.com/search?q=Menlyn) | N/A |
-| 20 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 21 | [Size 7](http://twitter.com/search?q=Size+7) | N/A |
-| 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 23 | [Bara](http://twitter.com/search?q=Bara) | N/A |
-| 24 | [Dr Ntshani](http://twitter.com/search?q=Dr+Ntshani) | N/A |
-| 25 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 26 | [Grade 5](http://twitter.com/search?q=Grade+5) | N/A |
-| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 28 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
-| 29 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
-| 30 | [SA ID](http://twitter.com/search?q=SA+ID) | N/A |
-| 31 | [Damelin](http://twitter.com/search?q=Damelin) | N/A |
-| 32 | [THE TSATSII EFFECT](http://twitter.com/search?q=THE+TSATSII+EFFECT) | N/A |
-| 33 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
-| 34 | [7de Laan](http://twitter.com/search?q=7de+Laan) | N/A |
-| 35 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 36 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 37 | [Grave Digger](http://twitter.com/search?q=Grave+Digger) | N/A |
-| 38 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 39 | [Glynnis Breytenbach](http://twitter.com/search?q=Glynnis+Breytenbach) | N/A |
-| 40 | [Kwame](http://twitter.com/search?q=Kwame) | N/A |
-| 41 | [Moshe](http://twitter.com/search?q=Moshe) | N/A |
-| 42 | [JUST DO IT](http://twitter.com/search?q=JUST+DO+IT) | N/A |
-| 43 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 44 | [Kgosi Mampuru](http://twitter.com/search?q=Kgosi+Mampuru) | N/A |
-| 45 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 46 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 47 | [Bomma](http://twitter.com/search?q=Bomma) | N/A |
-| 48 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 49 | [UNFILTERED WITH TSATSII](http://twitter.com/search?q=UNFILTERED+WITH+TSATSII) | N/A |
-| 50 | [Tom Williams Kelly](http://twitter.com/search?q=Tom+Williams+Kelly) | N/A |
+| 9 | [Cele](http://twitter.com/search?q=Cele) | N/A |
+| 10 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 13 | [#Izinkathazo](http://twitter.com/search?q=%23Izinkathazo) | N/A |
+| 14 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 15 | [#NedbankPrivateClients](http://twitter.com/search?q=%23NedbankPrivateClients) | N/A |
+| 16 | [CONGRATULATIONS KHOSI](http://twitter.com/search?q=CONGRATULATIONS+KHOSI) | N/A |
+| 17 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
+| 18 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 19 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 20 | [UNSTOPPABLE KHOSI](http://twitter.com/search?q=UNSTOPPABLE+KHOSI) | N/A |
+| 21 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
+| 22 | [SA ID](http://twitter.com/search?q=SA+ID) | N/A |
+| 23 | [Damelin](http://twitter.com/search?q=Damelin) | N/A |
+| 24 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
+| 25 | [7de Laan](http://twitter.com/search?q=7de+Laan) | N/A |
+| 26 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
+| 27 | [varane](http://twitter.com/search?q=varane) | N/A |
+| 28 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 29 | [Glynnis Breytenbach](http://twitter.com/search?q=Glynnis+Breytenbach) | N/A |
+| 30 | [Moshe](http://twitter.com/search?q=Moshe) | N/A |
+| 31 | [Size 7](http://twitter.com/search?q=Size+7) | N/A |
+| 32 | [Motsoaledi](http://twitter.com/search?q=Motsoaledi) | N/A |
+| 33 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 34 | [GRACEFUL KHOSI](http://twitter.com/search?q=GRACEFUL+KHOSI) | N/A |
+| 35 | [Kgosi Mampuru](http://twitter.com/search?q=Kgosi+Mampuru) | N/A |
+| 36 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 37 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 38 | [Bara](http://twitter.com/search?q=Bara) | N/A |
+| 39 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 40 | [Mothered](http://twitter.com/search?q=Mothered) | N/A |
+| 41 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 42 | [TBANGERS 2K CHALLENGE](http://twitter.com/search?q=TBANGERS+2K+CHALLENGE) | N/A |
+| 43 | [Grade 5](http://twitter.com/search?q=Grade+5) | N/A |
+| 44 | [Karoo](http://twitter.com/search?q=Karoo) | N/A |
+| 45 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 46 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 47 | [Christy O](http://twitter.com/search?q=Christy+O) | N/A |
+| 48 | [UNFILTERED WITH TSATSII](http://twitter.com/search?q=UNFILTERED+WITH+TSATSII) | N/A |
+| 49 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 50 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
 
 
 

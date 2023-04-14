@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-04-14 16:18:17 UTC`
+📆 Last Updated: `2023-04-14 17:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 1 | [#pekinexpress](http://twitter.com/search?q=%23pekinexpress) | N/A |
+| 2 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 3 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
 | 4 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
 | 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 6 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
@@ -29,37 +29,37 @@ This is top 50 for [France](</France>)
 | 12 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
 | 13 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
 | 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
-| 16 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 17 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 15 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 16 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 17 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
 | 18 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
 | 19 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 20 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 21 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 22 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 23 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 24 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
+| 21 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 22 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 23 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
+| 24 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
 | 25 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
 | 26 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 27 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 28 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 29 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 30 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 31 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 32 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 33 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 34 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 35 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 36 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 37 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 38 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 39 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 40 | [Sages](http://twitter.com/search?q=Sages) | N/A |
-| 41 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 42 | [Porchefontaine](http://twitter.com/search?q=Porchefontaine) | N/A |
-| 43 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 44 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 45 | [Le COR](http://twitter.com/search?q=Le+COR) | N/A |
+| 27 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 28 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 29 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 30 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 31 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 32 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 33 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 34 | [Sages](http://twitter.com/search?q=Sages) | N/A |
+| 35 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 36 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 37 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 38 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 39 | [Nesta](http://twitter.com/search?q=Nesta) | N/A |
+| 40 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 41 | [Porchefontaine](http://twitter.com/search?q=Porchefontaine) | N/A |
+| 42 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 43 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 44 | [Le COR](http://twitter.com/search?q=Le+COR) | N/A |
+| 45 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
 | 46 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
 | 47 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
 | 48 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |

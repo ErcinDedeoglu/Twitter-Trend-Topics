@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-04-14 16:19:01 UTC`
+📆 Last Updated: `2023-04-14 17:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for Bahrain
 | 1 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
 | 2 | [الليله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
 | 3 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
-| 4 | [#ولي_العهد_الامير_محمد_بن_سلمان](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1_%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 5 | [#الضفه_درع_القدس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b6%d9%81%d9%87_%d8%af%d8%b1%d8%b9_%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
-| 6 | [#تمرد_اولاد_دقلو](http://twitter.com/search?q=%23%d8%aa%d9%85%d8%b1%d8%af_%d8%a7%d9%88%d9%84%d8%a7%d8%af_%d8%af%d9%82%d9%84%d9%88) | N/A |
+| 4 | [#الضفه_درع_القدس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b6%d9%81%d9%87_%d8%af%d8%b1%d8%b9_%d8%a7%d9%84%d9%82%d8%af%d8%b3) | N/A |
+| 5 | [#تمرد_اولاد_دقلو](http://twitter.com/search?q=%23%d8%aa%d9%85%d8%b1%d8%af_%d8%a7%d9%88%d9%84%d8%a7%d8%af_%d8%af%d9%82%d9%84%d9%88) | N/A |
+| 6 | [#ولي_العهد_الامير_محمد_بن_سلمان](http://twitter.com/search?q=%23%d9%88%d9%84%d9%8a_%d8%a7%d9%84%d8%b9%d9%87%d8%af_%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1_%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
 | 7 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
 | 8 | [فضاء الروم](http://twitter.com/search?q=%d9%81%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%b1%d9%88%d9%85) | N/A |
 | 9 | [رفعت المصاحف](http://twitter.com/search?q=%d8%b1%d9%81%d8%b9%d8%aa+%d8%a7%d9%84%d9%85%d8%b5%d8%a7%d8%ad%d9%81) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Bahrain
 | 47 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
 | 48 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
 | 49 | [الوقت الحالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d8%ad%d8%a7%d9%84%d9%8a) | N/A |
-| 50 | [العراق](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%a7%d9%82) | العراق is the Arabic word for Iraq. In English, it means "Iraq". |
+| 50 | [شهرك الفضيل](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1%d9%83+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84) | N/A |
 
 
 

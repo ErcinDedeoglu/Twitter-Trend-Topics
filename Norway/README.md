@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-14 16:19:06 UTC`
+📆 Last Updated: `2023-04-14 17:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Norway
 | 1 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 2 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
 | 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 5 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 4 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 6 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
 | 7 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
 | 8 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
@@ -32,11 +32,11 @@ This is top 50 for Norway
 | 15 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 16 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
 | 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [melkøya](http://twitter.com/search?q=melk%c3%b8ya) | N/A |
+| 18 | [Melkøya](http://twitter.com/search?q=Melk%c3%b8ya) | N/A |
 | 19 | [Storhamar](http://twitter.com/search?q=Storhamar) | N/A |
-| 20 | [Frost](http://twitter.com/search?q=Frost) | N/A |
-| 21 | [equinor](http://twitter.com/search?q=equinor) | N/A |
-| 22 | [FØLER](http://twitter.com/search?q=F%c3%98LER) | N/A |
+| 20 | [Equinor](http://twitter.com/search?q=Equinor) | N/A |
+| 21 | [Frost](http://twitter.com/search?q=Frost) | N/A |
+| 22 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
 | 23 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 24 | [Oslo](http://twitter.com/search?q=Oslo) | N/A |
 | 25 | [Finnmark](http://twitter.com/search?q=Finnmark) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Norway
 | 45 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
 | 46 | [Stortinget](http://twitter.com/search?q=Stortinget) | N/A |
 | 47 | [England](http://twitter.com/search?q=England) | N/A |
-| 48 | [Selvsagt](http://twitter.com/search?q=Selvsagt) | N/A |
+| 48 | [selvsagt](http://twitter.com/search?q=selvsagt) | N/A |
 | 49 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 50 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 50 | [Staten](http://twitter.com/search?q=Staten) | N/A |
 
 
 

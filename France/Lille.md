@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-04-14 16:18:16 UTC`
+📆 Last Updated: `2023-04-14 17:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
-| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 1 | [#pekinexpress](http://twitter.com/search?q=%23pekinexpress) | N/A |
+| 2 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 3 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
 | 4 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
 | 5 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
 | 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
@@ -30,37 +30,37 @@ This is top 50 for [France](</France>)
 | 13 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
 | 14 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
 | 15 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 16 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
-| 17 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 18 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 16 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 17 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 18 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
 | 19 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
 | 20 | [Minato](http://twitter.com/search?q=Minato) | N/A |
 | 21 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 22 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 23 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
-| 24 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 25 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
+| 22 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 23 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 24 | [Patrick Baudouin](http://twitter.com/search?q=Patrick+Baudouin) | N/A |
+| 25 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
 | 26 | [L'intérêt](http://twitter.com/search?q=L%27int%c3%a9r%c3%aat) | N/A |
 | 27 | [demain 19h](http://twitter.com/search?q=demain+19h) | N/A |
-| 28 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
-| 29 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 30 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 31 | [Gota](http://twitter.com/search?q=Gota) | N/A |
-| 32 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 33 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
-| 34 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 35 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 36 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 37 | [Puma](http://twitter.com/search?q=Puma) | N/A |
-| 38 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
-| 39 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 40 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 41 | [Sages](http://twitter.com/search?q=Sages) | N/A |
-| 42 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
-| 43 | [Porchefontaine](http://twitter.com/search?q=Porchefontaine) | N/A |
-| 44 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 45 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 46 | [Le COR](http://twitter.com/search?q=Le+COR) | N/A |
+| 28 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 29 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 30 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 31 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 32 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 33 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 34 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 35 | [Sages](http://twitter.com/search?q=Sages) | N/A |
+| 36 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 37 | [Bernard Arnault](http://twitter.com/search?q=Bernard+Arnault) | N/A |
+| 38 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 39 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 40 | [Nesta](http://twitter.com/search?q=Nesta) | N/A |
+| 41 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 42 | [Porchefontaine](http://twitter.com/search?q=Porchefontaine) | N/A |
+| 43 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 44 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 45 | [Le COR](http://twitter.com/search?q=Le+COR) | N/A |
+| 46 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
 | 47 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
 | 48 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
 | 49 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |

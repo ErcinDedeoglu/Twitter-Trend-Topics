@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-04-14 16:19:02 UTC`
+📆 Last Updated: `2023-04-14 17:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,15 +23,15 @@ This is top 50 for Colombia
 | 6 | [Times](http://twitter.com/search?q=Times) | N/A |
 | 7 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
 | 8 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 9 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 9 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
 | 10 | [secuestro](http://twitter.com/search?q=secuestro) | N/A |
-| 11 | [#anadenadie](http://twitter.com/search?q=%23anadenadie) | N/A |
-| 12 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
-| 13 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
-| 14 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 15 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 16 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 17 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 11 | [Cariaco](http://twitter.com/search?q=Cariaco) | N/A |
+| 12 | [#anadenadie](http://twitter.com/search?q=%23anadenadie) | N/A |
+| 13 | [Secuestrados](http://twitter.com/search?q=Secuestrados) | N/A |
+| 14 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
+| 15 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
+| 16 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 17 | [Boric](http://twitter.com/search?q=Boric) | N/A |
 | 18 | [Homer](http://twitter.com/search?q=Homer) | N/A |
 | 19 | [Cali](http://twitter.com/search?q=Cali) | N/A |
 | 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
@@ -42,7 +42,7 @@ This is top 50 for Colombia
 | 25 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
 | 26 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 27 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 28 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 28 | [roy barreras](http://twitter.com/search?q=roy+barreras) | N/A |
 | 29 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
 | 30 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 31 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Colombia
 | 35 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
 | 36 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
 | 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 38 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
-| 39 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
-| 40 | [Haydar](http://twitter.com/search?q=Haydar) | N/A |
-| 41 | [Abogade](http://twitter.com/search?q=Abogade) | N/A |
-| 42 | [escudero](http://twitter.com/search?q=escudero) | N/A |
+| 38 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
+| 39 | [Haydar](http://twitter.com/search?q=Haydar) | N/A |
+| 40 | [abogade](http://twitter.com/search?q=abogade) | N/A |
+| 41 | [escudero](http://twitter.com/search?q=escudero) | N/A |
+| 42 | [Leyva](http://twitter.com/search?q=Leyva) | N/A |
 | 43 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
 | 44 | [racero](http://twitter.com/search?q=racero) | N/A |
-| 45 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 46 | [freddy rincón](http://twitter.com/search?q=freddy+rinc%c3%b3n) | N/A |
-| 47 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 48 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 49 | [jota pe](http://twitter.com/search?q=jota+pe) | N/A |
-| 50 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 45 | [The Economist](http://twitter.com/search?q=The+Economist) | The Economist is a weekly news and international affairs publication based in London, England. It covers politics, business, science, technology, and the arts from a global perspective. The magazine's primary focus is on economic and financial issues, but it also includes articles on current affairs, culture, and lifestyle topics. The Economist's mission is to "take part in a severe contest between intelligence, which presses forward, and an unworthy, timid ignorance obstructing our progress." |
+| 46 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
+| 47 | [freddy rincón](http://twitter.com/search?q=freddy+rinc%c3%b3n) | N/A |
+| 48 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 49 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 50 | [jota pe](http://twitter.com/search?q=jota+pe) | N/A |
 
 
 

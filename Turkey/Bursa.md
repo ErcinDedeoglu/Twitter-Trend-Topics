@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-04-14 16:18:48 UTC`
+📆 Last Updated: `2023-04-14 17:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [ZiraatVeterinerFeryatta](http://twitter.com/search?q=ZiraatVeterinerFeryatta) | N/A |
 | 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 3 | [#EytBuradaMaaşNerede](http://twitter.com/search?q=%23EytBuradaMaa%c5%9fNerede) | N/A |
-| 4 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 5 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 6 | [#ŞehitlerHaftası](http://twitter.com/search?q=%23%c5%9eehitlerHaftas%c4%b1) | N/A |
-| 7 | [#DünyaKudüsGünü](http://twitter.com/search?q=%23D%c3%bcnyaKud%c3%bcsG%c3%bcn%c3%bc) | N/A |
-| 8 | [Abla](http://twitter.com/search?q=Abla) | N/A |
-| 9 | [BayKemalBize EhliyetAffıVer](http://twitter.com/search?q=BayKemalBize+EhliyetAff%c4%b1Ver) | N/A |
-| 10 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
-| 11 | [TOPUNUZ GELİN](http://twitter.com/search?q=TOPUNUZ+GEL%c4%b0N) | N/A |
-| 12 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 13 | [Dursun Özbek](http://twitter.com/search?q=Dursun+%c3%96zbek) | Dursun Özbek is a Turkish given name. It is composed of two elements: Dursun, which means "brave" or "courageous", and Özbek, which means "Turk". In English, the name would translate to "Brave Turk". |
-| 14 | [Kula](http://twitter.com/search?q=Kula) | N/A |
-| 15 | [Davut Gül](http://twitter.com/search?q=Davut+G%c3%bcl) | N/A |
-| 16 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
-| 17 | [Ecmain](http://twitter.com/search?q=Ecmain) | N/A |
-| 18 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
-| 19 | [14 Nisan](http://twitter.com/search?q=14+Nisan) | N/A |
-| 20 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
-| 21 | [Kadir Gecesi](http://twitter.com/search?q=Kadir+Gecesi) | N/A |
-| 22 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
-| 23 | [Ahlak](http://twitter.com/search?q=Ahlak) | N/A |
-| 24 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
-| 25 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
-| 26 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
-| 27 | [#HalkGörüyor](http://twitter.com/search?q=%23HalkG%c3%b6r%c3%bcyor) | N/A |
-| 28 | [#sorumvar](http://twitter.com/search?q=%23sorumvar) | N/A |
-| 29 | [#2000LereAdilYasa](http://twitter.com/search?q=%232000LereAdilYasa) | N/A |
-| 30 | [#StajaBaharGelecek](http://twitter.com/search?q=%23StajaBaharGelecek) | N/A |
-| 31 | [#ABOKısmi5000TekYürek](http://twitter.com/search?q=%23ABOK%c4%b1smi5000TekY%c3%bcrek) | N/A |
-| 32 | [#Son30GünAKP](http://twitter.com/search?q=%23Son30G%c3%bcnAKP) | N/A |
-| 33 | [#MehmetBüyükekşiİstifa](http://twitter.com/search?q=%23MehmetB%c3%bcy%c3%bckek%c5%9fi%c4%b0stifa) | N/A |
-| 34 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 35 | [#BuSesiDuyun](http://twitter.com/search?q=%23BuSesiDuyun) | N/A |
-| 36 | [#PlayTrueDay](http://twitter.com/search?q=%23PlayTrueDay) | N/A |
-| 37 | [#OnePlayTrueTeam](http://twitter.com/search?q=%23OnePlayTrueTeam) | N/A |
-| 38 | [#CumamızMubarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zMubarekOlsun) | N/A |
-| 39 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 40 | [#İMECE](http://twitter.com/search?q=%23%c4%b0MECE) | N/A |
-| 41 | [#GSvKYS](http://twitter.com/search?q=%23GSvKYS) | N/A |
-| 42 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
-| 43 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
-| 44 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
-| 45 | [#karsn](http://twitter.com/search?q=%23karsn) | N/A |
-| 46 | [#BoydanChallenge](http://twitter.com/search?q=%23BoydanChallenge) | N/A |
-| 47 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 3 | [EmekliDostu BayKemal](http://twitter.com/search?q=EmekliDostu+BayKemal) | N/A |
+| 4 | [#EytBuradaMaaşNerede](http://twitter.com/search?q=%23EytBuradaMaa%c5%9fNerede) | N/A |
+| 5 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 6 | [#DünyaKudüsGünü](http://twitter.com/search?q=%23D%c3%bcnyaKud%c3%bcsG%c3%bcn%c3%bc) | N/A |
+| 7 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 8 | [#ŞehitlerHaftası](http://twitter.com/search?q=%23%c5%9eehitlerHaftas%c4%b1) | N/A |
+| 9 | [Abla](http://twitter.com/search?q=Abla) | N/A |
+| 10 | [BayKemalBize EhliyetAffıVer](http://twitter.com/search?q=BayKemalBize+EhliyetAff%c4%b1Ver) | N/A |
+| 11 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 12 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
+| 13 | [TOPUNUZ GELİN](http://twitter.com/search?q=TOPUNUZ+GEL%c4%b0N) | N/A |
+| 14 | [Dursun Özbek](http://twitter.com/search?q=Dursun+%c3%96zbek) | Dursun Özbek is a Turkish given name. It is composed of two elements: Dursun, which means "brave" or "courageous", and Özbek, which means "Turk". In English, the name would translate to "Brave Turk". |
+| 15 | [Kula](http://twitter.com/search?q=Kula) | N/A |
+| 16 | [Davut Gül](http://twitter.com/search?q=Davut+G%c3%bcl) | N/A |
+| 17 | [Cüneyt](http://twitter.com/search?q=C%c3%bcneyt) | N/A |
+| 18 | [Orhan Gencebay](http://twitter.com/search?q=Orhan+Gencebay) | N/A |
+| 19 | [Ecmain](http://twitter.com/search?q=Ecmain) | N/A |
+| 20 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
+| 21 | [14 Nisan](http://twitter.com/search?q=14+Nisan) | N/A |
+| 22 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 23 | [Kadir Gecesi](http://twitter.com/search?q=Kadir+Gecesi) | N/A |
+| 24 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
+| 25 | [Ahlak](http://twitter.com/search?q=Ahlak) | N/A |
+| 26 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
+| 27 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
+| 28 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
+| 29 | [#HalkGörüyor](http://twitter.com/search?q=%23HalkG%c3%b6r%c3%bcyor) | N/A |
+| 30 | [#sorumvar](http://twitter.com/search?q=%23sorumvar) | N/A |
+| 31 | [#2000LereAdilYasa](http://twitter.com/search?q=%232000LereAdilYasa) | N/A |
+| 32 | [#StajaBaharGelecek](http://twitter.com/search?q=%23StajaBaharGelecek) | N/A |
+| 33 | [#ABOKısmi5000TekYürek](http://twitter.com/search?q=%23ABOK%c4%b1smi5000TekY%c3%bcrek) | N/A |
+| 34 | [#Son30GünAKP](http://twitter.com/search?q=%23Son30G%c3%bcnAKP) | N/A |
+| 35 | [#MehmetBüyükekşiİstifa](http://twitter.com/search?q=%23MehmetB%c3%bcy%c3%bckek%c5%9fi%c4%b0stifa) | N/A |
+| 36 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
+| 37 | [#BuSesiDuyun](http://twitter.com/search?q=%23BuSesiDuyun) | N/A |
+| 38 | [#PlayTrueDay](http://twitter.com/search?q=%23PlayTrueDay) | N/A |
+| 39 | [#OnePlayTrueTeam](http://twitter.com/search?q=%23OnePlayTrueTeam) | N/A |
+| 40 | [#CumamızMubarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zMubarekOlsun) | N/A |
+| 41 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 42 | [#GSvKYS](http://twitter.com/search?q=%23GSvKYS) | N/A |
+| 43 | [#İMECE](http://twitter.com/search?q=%23%c4%b0MECE) | N/A |
+| 44 | [#ilangovtr](http://twitter.com/search?q=%23ilangovtr) | N/A |
+| 45 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
+| 46 | [#bilet](http://twitter.com/search?q=%23bilet) | N/A |
+| 47 | [#karsn](http://twitter.com/search?q=%23karsn) | N/A |
 
 
 

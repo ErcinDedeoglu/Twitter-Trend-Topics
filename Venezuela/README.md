@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Venezuela
 
-📆 Last Updated: `2023-04-14 16:19:10 UTC`
+📆 Last Updated: `2023-04-14 17:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Venezuela
 | 18 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
 | 19 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
 | 20 | [juan vicente tovar](http://twitter.com/search?q=juan+vicente+tovar) | N/A |
-| 21 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
-| 22 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
-| 23 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 24 | [flor nuñez](http://twitter.com/search?q=flor+nu%c3%b1ez) | N/A |
-| 25 | [irreversible](http://twitter.com/search?q=irreversible) | N/A |
-| 26 | [revolución bolivariana](http://twitter.com/search?q=revoluci%c3%b3n+bolivariana) | N/A |
-| 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 28 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 30 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
-| 31 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
-| 32 | [Feliz y Bendecido](http://twitter.com/search?q=Feliz+y+Bendecido) | N/A |
+| 21 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 22 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
+| 23 | [flor nuñez](http://twitter.com/search?q=flor+nu%c3%b1ez) | N/A |
+| 24 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
+| 25 | [revolución bolivariana](http://twitter.com/search?q=revoluci%c3%b3n+bolivariana) | N/A |
+| 26 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 27 | [luis vicente león](http://twitter.com/search?q=luis+vicente+le%c3%b3n) | N/A |
+| 28 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
+| 29 | [educación universitaria](http://twitter.com/search?q=educaci%c3%b3n+universitaria) | N/A |
+| 30 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
+| 31 | [Feliz y Bendecido](http://twitter.com/search?q=Feliz+y+Bendecido) | N/A |
+| 32 | [día de la dignidad nacional](http://twitter.com/search?q=d%c3%ada+de+la+dignidad+nacional) | N/A |
 | 33 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 34 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
-| 35 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
-| 36 | [PODER ELECTORAL](http://twitter.com/search?q=PODER+ELECTORAL) | N/A |
-| 37 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
-| 38 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 39 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
-| 40 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 41 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
-| 42 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 43 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
-| 44 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
-| 45 | [bárbara palacios](http://twitter.com/search?q=b%c3%a1rbara+palacios) | N/A |
-| 46 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 47 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 48 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
-| 49 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 50 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 34 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
+| 35 | [Alex Saab](http://twitter.com/search?q=Alex+Saab) | N/A |
+| 36 | [Escribe 5](http://twitter.com/search?q=Escribe+5) | N/A |
+| 37 | [PODER ELECTORAL](http://twitter.com/search?q=PODER+ELECTORAL) | N/A |
+| 38 | [lourdes lópez](http://twitter.com/search?q=lourdes+l%c3%b3pez) | N/A |
+| 39 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 40 | [milicia nacional bolivariana](http://twitter.com/search?q=milicia+nacional+bolivariana) | N/A |
+| 41 | [maguire](http://twitter.com/search?q=maguire) | N/A |
+| 42 | [cardenal castillo lara](http://twitter.com/search?q=cardenal+castillo+lara) | N/A |
+| 43 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 44 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 45 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
+| 46 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
+| 47 | [bárbara palacios](http://twitter.com/search?q=b%c3%a1rbara+palacios) | N/A |
+| 48 | [Codo](http://twitter.com/search?q=Codo) | N/A |
+| 49 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
+| 50 | [poder popular](http://twitter.com/search?q=poder+popular) | N/A |
 
 
 

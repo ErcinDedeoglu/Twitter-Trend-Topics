@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-04-14 16:18:18 UTC`
+📆 Last Updated: `2023-04-14 17:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,21 +27,21 @@ This is top 50 for [Germany](</Germany>)
 | 10 | [Anya](http://twitter.com/search?q=Anya) | N/A |
 | 11 | [Ossis](http://twitter.com/search?q=Ossis) | N/A |
 | 12 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 13 | [Sachbeschädigung](http://twitter.com/search?q=Sachbesch%c3%a4digung) | N/A |
+| 13 | [sachbeschädigung](http://twitter.com/search?q=sachbesch%c3%a4digung) | N/A |
 | 14 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 15 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 15 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
 | 16 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 17 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 17 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
 | 18 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
 | 19 | ['Komplementärfarben'](http://twitter.com/search?q=%27Komplement%c3%a4rfarben%27) | N/A |
 | 20 | [Endlager](http://twitter.com/search?q=Endlager) | N/A |
 | 21 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 22 | [Chinesen](http://twitter.com/search?q=Chinesen) | N/A |
+| 22 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 23 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 24 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 25 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
-| 26 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 27 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
+| 25 | [Kampfjets](http://twitter.com/search?q=Kampfjets) | N/A |
+| 26 | [Schwarzmarkt](http://twitter.com/search?q=Schwarzmarkt) | N/A |
+| 27 | [Molly](http://twitter.com/search?q=Molly) | N/A |
 | 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 29 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
 | 30 | [Adlon](http://twitter.com/search?q=Adlon) | N/A |
@@ -58,11 +58,11 @@ This is top 50 for [Germany](</Germany>)
 | 41 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 42 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 43 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 44 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 45 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
-| 46 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 47 | [Atemwegserkrankungen](http://twitter.com/search?q=Atemwegserkrankungen) | N/A |
-| 48 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 44 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 45 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 46 | [Stegner](http://twitter.com/search?q=Stegner) | N/A |
+| 47 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 48 | [Atemwegserkrankungen](http://twitter.com/search?q=Atemwegserkrankungen) | N/A |
 | 49 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-14 16:19:07 UTC`
+📆 Last Updated: `2023-04-14 17:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Peru
 | 8 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
 | 9 | [Hugo Bustíos](http://twitter.com/search?q=Hugo+Bust%c3%ados) | N/A |
 | 10 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 11 | [Joaquín Ramírez](http://twitter.com/search?q=Joaqu%c3%adn+Ram%c3%adrez) | N/A |
+| 11 | [joaquín ramírez](http://twitter.com/search?q=joaqu%c3%adn+ram%c3%adrez) | N/A |
 | 12 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
 | 13 | [#voleyxmdeportes](http://twitter.com/search?q=%23voleyxmdeportes) | N/A |
 | 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
@@ -47,7 +47,7 @@ This is top 50 for Peru
 | 30 | [abancay](http://twitter.com/search?q=abancay) | N/A |
 | 31 | [cidh](http://twitter.com/search?q=cidh) | N/A |
 | 32 | [Argel](http://twitter.com/search?q=Argel) | N/A |
-| 33 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
+| 33 | [defensor del pueblo](http://twitter.com/search?q=defensor+del+pueblo) | N/A |
 | 34 | [emily lima](http://twitter.com/search?q=emily+lima) | N/A |
 | 35 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
 | 36 | [alas peruanas](http://twitter.com/search?q=alas+peruanas) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Peru
 | 45 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
 | 46 | [teleticket](http://twitter.com/search?q=teleticket) | N/A |
 | 47 | [Otarola](http://twitter.com/search?q=Otarola) | Otarola is a Spanish surname. It is derived from the Basque word "otar", which means "wolf". In English, the meaning of Otarola is "son of the wolf". |
-| 48 | [huaral](http://twitter.com/search?q=huaral) | N/A |
-| 49 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 50 | [d-day glitch film](http://twitter.com/search?q=d-day+glitch+film) | N/A |
+| 48 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 49 | [d-day glitch film](http://twitter.com/search?q=d-day+glitch+film) | N/A |
+| 50 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
 
 
 

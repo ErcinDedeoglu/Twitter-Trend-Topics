@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-14 16:19:06 UTC`
+📆 Last Updated: `2023-04-14 17:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for New Zealand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NRLSharksRoosters](http://twitter.com/search?q=%23NRLSharksRoosters) | N/A |
-| 2 | [#SDWS](http://twitter.com/search?q=%23SDWS) | N/A |
-| 3 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
+| 2 | [three waters](http://twitter.com/search?q=three+waters) | N/A |
+| 3 | [#SDWS](http://twitter.com/search?q=%23SDWS) | N/A |
 | 4 | [Hauraki Gulf](http://twitter.com/search?q=Hauraki+Gulf) | N/A |
 | 5 | [Maori](http://twitter.com/search?q=Maori) | N/A |
 | 6 | [The Post](http://twitter.com/search?q=The+Post) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for New Zealand
 | 36 | [co-governance](http://twitter.com/search?q=co-governance) | N/A |
 | 37 | [#photography](http://twitter.com/search?q=%23photography) | N/A |
 | 38 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 39 | [iPad](http://twitter.com/search?q=iPad) | N/A |
+| 39 | [ipad](http://twitter.com/search?q=ipad) | N/A |
 | 40 | [Sande](http://twitter.com/search?q=Sande) | N/A |
 | 41 | [Wayne](http://twitter.com/search?q=Wayne) | Wayne is a masculine given name in English, derived from an Old English surname meaning "wagon maker" or "wagon driver". It is also used as a surname. |
 | 42 | [Ombudsman](http://twitter.com/search?q=Ombudsman) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for New Zealand
 | 45 | [Insta](http://twitter.com/search?q=Insta) | N/A |
 | 46 | [Bryce](http://twitter.com/search?q=Bryce) | N/A |
 | 47 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 48 | [London](http://twitter.com/search?q=London) | N/A |
-| 49 | [nz first](http://twitter.com/search?q=nz+first) | N/A |
-| 50 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 48 | [nz first](http://twitter.com/search?q=nz+first) | N/A |
+| 49 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 50 | [Kyle](http://twitter.com/search?q=Kyle) | N/A |
 
 
 

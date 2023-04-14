@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-04-14 16:19:03 UTC`
+📆 Last Updated: `2023-04-14 17:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,41 +25,41 @@ This is top 50 for Ireland
 | 8 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 10 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 11 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 12 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
-| 13 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 14 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 15 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
-| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 17 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 18 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 19 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 20 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 11 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
+| 12 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 14 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 15 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
+| 16 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 17 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 18 | [Noel](http://twitter.com/search?q=Noel) | Noel is a French word meaning "Christmas". It is often used as a greeting during the Christmas season. |
+| 19 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
+| 20 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
 | 21 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 22 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 23 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 22 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 23 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 24 | [Oireachtas](http://twitter.com/search?q=Oireachtas) | N/A |
 | 25 | [misneach](http://twitter.com/search?q=misneach) | N/A |
 | 26 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
 | 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 28 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 29 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 30 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 30 | [shaw](http://twitter.com/search?q=shaw) | N/A |
 | 31 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
 | 32 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
 | 33 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 35 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 36 | [#POTUS](http://twitter.com/search?q=%23POTUS) | N/A |
-| 37 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 38 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 39 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
-| 40 | [Angelus](http://twitter.com/search?q=Angelus) | N/A |
-| 41 | [Tricolour](http://twitter.com/search?q=Tricolour) | N/A |
+| 36 | [Angelus](http://twitter.com/search?q=Angelus) | N/A |
+| 37 | [#POTUS](http://twitter.com/search?q=%23POTUS) | N/A |
+| 38 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 39 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 40 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 41 | [tricolour](http://twitter.com/search?q=tricolour) | N/A |
 | 42 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 43 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 44 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 45 | [Punch](http://twitter.com/search?q=Punch) | N/A |
+| 43 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 44 | [Punch](http://twitter.com/search?q=Punch) | N/A |
+| 45 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 46 | [rob kearney](http://twitter.com/search?q=rob+kearney) | N/A |
 | 47 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 48 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
