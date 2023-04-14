@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-04-14 02:29:33 UTC`
+📆 Last Updated: `2023-04-14 03:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [mun vs sev](http://twitter.com/search?q=mun+vs+sev) | N/A |
+| 1 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
 | 2 | [Link 2](http://twitter.com/search?q=Link+2) | N/A |
-| 3 | [Live Stream](http://twitter.com/search?q=Live+Stream) | N/A |
-| 4 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 5 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 6 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 7 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 8 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 9 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 10 | [Crow](http://twitter.com/search?q=Crow) | N/A |
-| 11 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 12 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 14 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 15 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
-| 16 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
-| 17 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 18 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 19 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 20 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 21 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 22 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 23 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 24 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 25 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 26 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 3 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 4 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 5 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 6 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
+| 7 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 8 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 9 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 10 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 11 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
+| 12 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 13 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 14 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 15 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 16 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 17 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 18 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 19 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 20 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 21 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 22 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 23 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 24 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 25 | [Norah](http://twitter.com/search?q=Norah) | N/A |
+| 26 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
 | 27 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 28 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 29 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 30 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 31 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 32 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 33 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 34 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 35 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 36 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 37 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 38 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 39 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 40 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 41 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 42 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 43 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 44 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 45 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 46 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 28 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 29 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 30 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
+| 31 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 32 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 33 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 34 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 35 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 36 | [Maile](http://twitter.com/search?q=Maile) | N/A |
+| 37 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 38 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 39 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 40 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 41 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 42 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 43 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 44 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 45 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 46 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 47 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 48 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 49 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 50 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 48 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 49 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 50 | [Nick Martinez](http://twitter.com/search?q=Nick+Martinez) | N/A |
 
 
 

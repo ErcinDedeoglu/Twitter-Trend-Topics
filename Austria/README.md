@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-14 02:29:35 UTC`
+📆 Last Updated: `2023-04-14 03:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Austria
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [massenschlägerei](http://twitter.com/search?q=massenschl%c3%a4gerei) | N/A |
 | 3 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 4 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 4 | [mahrer](http://twitter.com/search?q=mahrer) | N/A |
 | 5 | [#oebb](http://twitter.com/search?q=%23oebb) | N/A |
 | 6 | [lizenz](http://twitter.com/search?q=lizenz) | N/A |
-| 7 | [instanz](http://twitter.com/search?q=instanz) | N/A |
-| 8 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
-| 9 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 10 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 11 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 12 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 13 | [brunnenmarkt](http://twitter.com/search?q=brunnenmarkt) | N/A |
-| 14 | [auflagen](http://twitter.com/search?q=auflagen) | N/A |
-| 15 | [bures](http://twitter.com/search?q=bures) | N/A |
-| 16 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
-| 17 | [störung](http://twitter.com/search?q=st%c3%b6rung) | N/A |
-| 18 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 19 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
-| 20 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
-| 21 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 22 | [presserat](http://twitter.com/search?q=presserat) | N/A |
-| 23 | [Mail](http://twitter.com/search?q=Mail) | N/A |
-| 24 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
-| 25 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 26 | [Blöd](http://twitter.com/search?q=Bl%c3%b6d) | N/A |
-| 27 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
-| 28 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
-| 29 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 30 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 31 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 32 | [Mitgliederbefragung](http://twitter.com/search?q=Mitgliederbefragung) | N/A |
-| 33 | [Rassisten](http://twitter.com/search?q=Rassisten) | N/A |
-| 34 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 35 | [Dialekt](http://twitter.com/search?q=Dialekt) | N/A |
-| 36 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
-| 37 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 7 | [Instanz](http://twitter.com/search?q=Instanz) | N/A |
+| 8 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 9 | [rassisten](http://twitter.com/search?q=rassisten) | N/A |
+| 10 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 11 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 12 | [auflagen](http://twitter.com/search?q=auflagen) | N/A |
+| 13 | [#ligazwa](http://twitter.com/search?q=%23ligazwa) | N/A |
+| 14 | [Trailer](http://twitter.com/search?q=Trailer) | N/A |
+| 15 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 16 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 17 | [Journalistin](http://twitter.com/search?q=Journalistin) | N/A |
+| 18 | [bures](http://twitter.com/search?q=bures) | N/A |
+| 19 | [störung](http://twitter.com/search?q=st%c3%b6rung) | N/A |
+| 20 | [#brunnenmarkt](http://twitter.com/search?q=%23brunnenmarkt) | N/A |
+| 21 | [Kriegsverbrechen](http://twitter.com/search?q=Kriegsverbrechen) | N/A |
+| 22 | [frau schwaiger](http://twitter.com/search?q=frau+schwaiger) | N/A |
+| 23 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 24 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 25 | [guten morgen ingrid](http://twitter.com/search?q=guten+morgen+ingrid) | N/A |
+| 26 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 27 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 28 | [Mail](http://twitter.com/search?q=Mail) | N/A |
+| 29 | [Abschiebung](http://twitter.com/search?q=Abschiebung) | N/A |
+| 30 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 31 | [Meldungen](http://twitter.com/search?q=Meldungen) | N/A |
+| 32 | [mitgliederbefragung](http://twitter.com/search?q=mitgliederbefragung) | N/A |
+| 33 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 34 | [presserat](http://twitter.com/search?q=presserat) | N/A |
+| 35 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
+| 36 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 37 | [dialekt](http://twitter.com/search?q=dialekt) | N/A |
 | 38 | [grenzkontrollen](http://twitter.com/search?q=grenzkontrollen) | N/A |
-| 39 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 40 | [mahrer](http://twitter.com/search?q=mahrer) | N/A |
-| 41 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 42 | [Kompetenz](http://twitter.com/search?q=Kompetenz) | N/A |
-| 43 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 44 | [vorsitzende](http://twitter.com/search?q=vorsitzende) | N/A |
-| 45 | [Fachkräfte](http://twitter.com/search?q=Fachkr%c3%a4fte) | N/A |
-| 46 | [Aufwand](http://twitter.com/search?q=Aufwand) | N/A |
-| 47 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 48 | [övpler](http://twitter.com/search?q=%c3%b6vpler) | N/A |
-| 49 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
-| 50 | [Blase](http://twitter.com/search?q=Blase) | N/A |
+| 39 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 40 | [freizeit](http://twitter.com/search?q=freizeit) | N/A |
+| 41 | [produktivität](http://twitter.com/search?q=produktivit%c3%a4t) | N/A |
+| 42 | [Drukos](http://twitter.com/search?q=Drukos) | N/A |
+| 43 | [betriebe](http://twitter.com/search?q=betriebe) | N/A |
+| 44 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 45 | [Herzlichen Dank](http://twitter.com/search?q=Herzlichen+Dank) | N/A |
+| 46 | [Künstler](http://twitter.com/search?q=K%c3%bcnstler) | N/A |
+| 47 | [arbeitsmarkt](http://twitter.com/search?q=arbeitsmarkt) | N/A |
+| 48 | [vorsitzende](http://twitter.com/search?q=vorsitzende) | N/A |
+| 49 | [Bereicherung](http://twitter.com/search?q=Bereicherung) | N/A |
+| 50 | [arbeitsplätze](http://twitter.com/search?q=arbeitspl%c3%a4tze) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-04-14 02:29:27 UTC`
+📆 Last Updated: `2023-04-14 03:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 2 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 3 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 4 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
-| 5 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
-| 6 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 7 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 8 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 9 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 10 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 11 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 12 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 13 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 14 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 15 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 16 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 17 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 18 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 19 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 20 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 21 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 1 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 2 | [Commanders](http://twitter.com/search?q=Commanders) | Commanders is a term used to refer to people in positions of authority, such as military officers, police chiefs, or business executives. It is derived from the Latin word "commandare," which means "to command." |
+| 3 | [#HTTC](http://twitter.com/search?q=%23HTTC) | #HTTC stands for "Hang Tight, Take Care" and is an expression of encouragement and support. It is often used as a way to show someone that you are thinking of them and wishing them well. |
+| 4 | [Snyder](http://twitter.com/search?q=Snyder) | N/A |
+| 5 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 6 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 7 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 8 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 9 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 10 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 11 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 12 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 13 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 14 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 15 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 16 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 18 | [Norah](http://twitter.com/search?q=Norah) | N/A |
+| 19 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
+| 20 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 21 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
 | 22 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 23 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 24 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 25 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 26 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 27 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 28 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 29 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 30 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 31 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 32 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 33 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 34 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 35 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 36 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 37 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 38 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
-| 39 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 40 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 41 | [NEW DRESS](http://twitter.com/search?q=NEW+DRESS) | N/A |
-| 42 | [Vince Velasquez](http://twitter.com/search?q=Vince+Velasquez) | N/A |
-| 43 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
-| 44 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 45 | [NEW ENCHANTED DRESS](http://twitter.com/search?q=NEW+ENCHANTED+DRESS) | N/A |
-| 46 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 23 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
+| 24 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 25 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 26 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 27 | [Maile](http://twitter.com/search?q=Maile) | N/A |
+| 28 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 29 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 30 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 31 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 32 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 33 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 34 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 35 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 36 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 37 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 38 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 39 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 40 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 41 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 42 | [Teixeira](http://twitter.com/search?q=Teixeira) | N/A |
+| 43 | [Nick Martinez](http://twitter.com/search?q=Nick+Martinez) | N/A |
+| 44 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 45 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 46 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
 
 
 

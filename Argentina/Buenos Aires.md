@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-04-14 02:28:58 UTC`
+📆 Last Updated: `2023-04-14 03:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rondon](http://twitter.com/search?q=Rondon) | N/A |
-| 2 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 3 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 4 | [Comodoro Py](http://twitter.com/search?q=Comodoro+Py) | N/A |
+| 1 | [#DemocraciaOMafiaJudicial](http://twitter.com/search?q=%23DemocraciaOMafiaJudicial) | N/A |
+| 2 | [Comodoro Py](http://twitter.com/search?q=Comodoro+Py) | N/A |
+| 3 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 4 | [pampita](http://twitter.com/search?q=pampita) | N/A |
 | 5 | [Aníbal Fernández](http://twitter.com/search?q=An%c3%adbal+Fern%c3%a1ndez) | N/A |
-| 6 | [Pampita](http://twitter.com/search?q=Pampita) | N/A |
-| 7 | [Grindetti](http://twitter.com/search?q=Grindetti) | N/A |
-| 8 | [Ruso](http://twitter.com/search?q=Ruso) | N/A |
-| 9 | [#DolarBlue](http://twitter.com/search?q=%23DolarBlue) | N/A |
-| 10 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 11 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 12 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
-| 13 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 14 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
-| 15 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 16 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 17 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
-| 18 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 19 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 20 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
-| 21 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 22 | [#SiempreConAgus](http://twitter.com/search?q=%23SiempreConAgus) | N/A |
-| 23 | [Enzo Nicolás Pérez](http://twitter.com/search?q=Enzo+Nicol%c3%a1s+P%c3%a9rez) | N/A |
-| 24 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
-| 25 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
-| 26 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 27 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
-| 28 | [Juan Minujin](http://twitter.com/search?q=Juan+Minujin) | N/A |
-| 29 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 30 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
+| 6 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 7 | [Matías Suárez](http://twitter.com/search?q=Mat%c3%adas+Su%c3%a1rez) | N/A |
+| 8 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
+| 9 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 10 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 11 | [#SiempreConAgus](http://twitter.com/search?q=%23SiempreConAgus) | N/A |
+| 12 | [Lucio](http://twitter.com/search?q=Lucio) | Lucio is a Spanish name derived from the Latin name Lucius, which means “light”. It is also a common Italian name, derived from the Latin name Lucius. In English, Lucio can be translated to mean “light” or “illumination”. |
+| 13 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 14 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 15 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
+| 16 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 17 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 18 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
+| 19 | [Candelaria](http://twitter.com/search?q=Candelaria) | N/A |
+| 20 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 21 | [Enrique](http://twitter.com/search?q=Enrique) | N/A |
+| 22 | [Enzo Nicolás Pérez](http://twitter.com/search?q=Enzo+Nicol%c3%a1s+P%c3%a9rez) | N/A |
+| 23 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 24 | [Juan Minujin](http://twitter.com/search?q=Juan+Minujin) | N/A |
+| 25 | [#AlcoholCero](http://twitter.com/search?q=%23AlcoholCero) | N/A |
+| 26 | [Beltrán](http://twitter.com/search?q=Beltr%c3%a1n) | Beltrán is a Spanish name derived from the Germanic name Berengar, which means "bear-spear". It is also a common surname in Spanish-speaking countries. |
+| 27 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 28 | [Enzo Diaz](http://twitter.com/search?q=Enzo+Diaz) | Enzo Diaz is a Spanish name. It is derived from the Latin name Enzo, which means “ruler of the house”. The surname Diaz is derived from the Latin word “dies”, which means “day”. Together, Enzo Diaz can be translated to mean “ruler of the house of days”. |
+| 29 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 30 | [#Tigre](http://twitter.com/search?q=%23Tigre) | N/A |
 | 31 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 32 | [#GELP](http://twitter.com/search?q=%23GELP) | N/A |
-| 33 | [Moria](http://twitter.com/search?q=Moria) | N/A |
-| 34 | [Barco](http://twitter.com/search?q=Barco) | N/A |
-| 35 | [QUIENES SON](http://twitter.com/search?q=QUIENES+SON) | N/A |
+| 32 | [Moria](http://twitter.com/search?q=Moria) | N/A |
+| 33 | [QUIENES SON](http://twitter.com/search?q=QUIENES+SON) | N/A |
+| 34 | [Gracias Omar](http://twitter.com/search?q=Gracias+Omar) | N/A |
+| 35 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
 | 36 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 37 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 38 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 39 | [Paulo Díaz](http://twitter.com/search?q=Paulo+D%c3%adaz) | N/A |
-| 40 | [Durso](http://twitter.com/search?q=Durso) | N/A |
-| 41 | [Gracias Omar](http://twitter.com/search?q=Gracias+Omar) | N/A |
-| 42 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
-| 43 | [Micho](http://twitter.com/search?q=Micho) | N/A |
-| 44 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
-| 45 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 46 | [La Scaloneta](http://twitter.com/search?q=La+Scaloneta) | N/A |
-| 47 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
-| 48 | [Paradela](http://twitter.com/search?q=Paradela) | Paradela is a Spanish word that means "parade". It is used to refer to a procession or march of people, usually with music and/or banners. |
-| 49 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 50 | [Milo J](http://twitter.com/search?q=Milo+J) | N/A |
+| 37 | [Barco](http://twitter.com/search?q=Barco) | N/A |
+| 38 | [Garay](http://twitter.com/search?q=Garay) | N/A |
+| 39 | [Durso](http://twitter.com/search?q=Durso) | N/A |
+| 40 | [Micho](http://twitter.com/search?q=Micho) | N/A |
+| 41 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 42 | [Tribunales](http://twitter.com/search?q=Tribunales) | N/A |
+| 43 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
+| 44 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 45 | [Paulo Díaz](http://twitter.com/search?q=Paulo+D%c3%adaz) | N/A |
+| 46 | [Milo J](http://twitter.com/search?q=Milo+J) | N/A |
+| 47 | [La Scaloneta](http://twitter.com/search?q=La+Scaloneta) | N/A |
+| 48 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 49 | [Incondicional](http://twitter.com/search?q=Incondicional) | N/A |
+| 50 | [Contin](http://twitter.com/search?q=Contin) | N/A |
 
 
 

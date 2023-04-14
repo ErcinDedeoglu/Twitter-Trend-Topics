@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-14 02:29:26 UTC`
+📆 Last Updated: `2023-04-14 03:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 3 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 4 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 5 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 6 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 7 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 8 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 9 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 10 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 11 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 12 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 13 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 14 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 15 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 16 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 17 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 18 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 19 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 20 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 21 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 22 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 23 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 24 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
-| 25 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 26 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 27 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 28 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 29 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 30 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 31 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
-| 32 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 33 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 34 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 35 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 36 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 37 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 38 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
-| 39 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 40 | [NEW DRESS](http://twitter.com/search?q=NEW+DRESS) | N/A |
-| 41 | [Vince Velasquez](http://twitter.com/search?q=Vince+Velasquez) | N/A |
-| 42 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
-| 43 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 44 | [NEW ENCHANTED DRESS](http://twitter.com/search?q=NEW+ENCHANTED+DRESS) | N/A |
-| 45 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 46 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
-| 47 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 48 | [Amelia](http://twitter.com/search?q=Amelia) | N/A |
-| 49 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 50 | [Budda](http://twitter.com/search?q=Budda) | N/A |
+| 1 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 2 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 3 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 4 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 5 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 6 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 7 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 8 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
+| 9 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 10 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 11 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 12 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
+| 13 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 14 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 15 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 16 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 18 | [Norah](http://twitter.com/search?q=Norah) | N/A |
+| 19 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
+| 20 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 21 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 22 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
+| 23 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 24 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 25 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 26 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 27 | [Maile](http://twitter.com/search?q=Maile) | N/A |
+| 28 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 29 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 30 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
+| 31 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 32 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 33 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 34 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 35 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 36 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 37 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 38 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 39 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 40 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 41 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 42 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 43 | [Nick Martinez](http://twitter.com/search?q=Nick+Martinez) | N/A |
+| 44 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 45 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 46 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 47 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
+| 48 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
+| 49 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
+| 50 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
 
 
 

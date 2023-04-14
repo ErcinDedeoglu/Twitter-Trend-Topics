@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-14 02:29:33 UTC`
+📆 Last Updated: `2023-04-14 03:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 2 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 3 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 4 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
-| 5 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 6 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 7 | [Crow](http://twitter.com/search?q=Crow) | N/A |
-| 8 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 9 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 12 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
-| 13 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
-| 14 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 15 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 16 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
-| 17 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
-| 18 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 19 | [#NJDevils](http://twitter.com/search?q=%23NJDevils) | N/A |
-| 20 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 21 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 22 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 23 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 1 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 2 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 3 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 4 | [#MFAMShop](http://twitter.com/search?q=%23MFAMShop) | N/A |
+| 5 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 6 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 8 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
+| 9 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
+| 10 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 11 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 12 | [SPEAK NOW](http://twitter.com/search?q=SPEAK+NOW) | N/A |
+| 13 | [#QueenRadio](http://twitter.com/search?q=%23QueenRadio) | N/A |
+| 14 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 15 | [Luke Hughes](http://twitter.com/search?q=Luke+Hughes) | Luke Hughes is a British surname. It is derived from the Old English personal name Luca, which means "light" or "illumination". The surname is most commonly found in England and Wales. |
+| 16 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 17 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 18 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 19 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 20 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 21 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 22 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 23 | [Norah](http://twitter.com/search?q=Norah) | N/A |
 | 24 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 25 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
-| 26 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 27 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 28 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 29 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
-| 30 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 31 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 32 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 33 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 34 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 25 | [Colin Rea](http://twitter.com/search?q=Colin+Rea) | N/A |
+| 26 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
+| 27 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 28 | [Jordan Chiles](http://twitter.com/search?q=Jordan+Chiles) | N/A |
+| 29 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 30 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 31 | [Swalwell](http://twitter.com/search?q=Swalwell) | Swalwell is a village in County Durham, England. It is located on the River Derwent, about 4 miles (6 km) west of Gateshead and 5 miles (8 km) east of Consett. The name Swalwell is derived from the Old English words 'swale' meaning 'a deep valley' and 'wella' meaning 'spring or stream'. |
+| 32 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 33 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 34 | [Maile](http://twitter.com/search?q=Maile) | N/A |
 | 35 | [Paolo](http://twitter.com/search?q=Paolo) | N/A |
-| 36 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 37 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
-| 38 | [Kessler](http://twitter.com/search?q=Kessler) | N/A |
-| 39 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 40 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
-| 41 | [Connor Joe](http://twitter.com/search?q=Connor+Joe) | N/A |
+| 36 | [Scruff](http://twitter.com/search?q=Scruff) | N/A |
+| 37 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 38 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
+| 39 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 40 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 41 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
 | 42 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
-| 43 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 44 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 43 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 44 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 45 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 46 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
-| 47 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 48 | [Fang Fang](http://twitter.com/search?q=Fang+Fang) | Fang Fang is a Chinese name that means fragrant fragrance. It is also a popular Chinese given name for girls. |
-| 49 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 46 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 47 | [Teixeira](http://twitter.com/search?q=Teixeira) | N/A |
+| 48 | [Nick Martinez](http://twitter.com/search?q=Nick+Martinez) | N/A |
+| 49 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
 
 
 

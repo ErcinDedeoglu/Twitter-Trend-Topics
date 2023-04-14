@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-04-14 02:29:04 UTC`
+📆 Last Updated: `2023-04-14 03:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SVGala7](http://twitter.com/search?q=%23SVGala7) | N/A |
-| 2 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 3 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 5 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
-| 6 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
-| 7 | [Arelys](http://twitter.com/search?q=Arelys) | N/A |
-| 8 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 9 | [#Horizonte](http://twitter.com/search?q=%23Horizonte) | N/A |
-| 10 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 11 | [EL DRAGÓN OUT NOW](http://twitter.com/search?q=EL+DRAG%c3%93N+OUT+NOW) | N/A |
-| 12 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 13 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Lola Indigo](http://twitter.com/search?q=Lola+Indigo) | N/A |
-| 16 | [Juanfe](http://twitter.com/search?q=Juanfe) | N/A |
-| 17 | [Raquel Arias](http://twitter.com/search?q=Raquel+Arias) | N/A |
-| 18 | [Salud y República](http://twitter.com/search?q=Salud+y+Rep%c3%bablica) | N/A |
-| 19 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 20 | [EL TONTO](http://twitter.com/search?q=EL+TONTO) | N/A |
-| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 22 | [Jaime](http://twitter.com/search?q=Jaime) | N/A |
-| 23 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
-| 24 | [Viva la República](http://twitter.com/search?q=Viva+la+Rep%c3%bablica) | N/A |
-| 25 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 26 | [Artur](http://twitter.com/search?q=Artur) | N/A |
-| 27 | [Marcao](http://twitter.com/search?q=Marcao) | N/A |
-| 28 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 29 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
-| 30 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 31 | [Richard Thompson](http://twitter.com/search?q=Richard+Thompson) | N/A |
-| 32 | [Nervión](http://twitter.com/search?q=Nervi%c3%b3n) | N/A |
-| 33 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
-| 34 | [Nianzou](http://twitter.com/search?q=Nianzou) | Nianzou is a Chinese term that literally translates to "year-old boy." It is used to refer to a young boy who has just turned one year old. The term is often used in celebrations and ceremonies for the one-year-old, such as birthday parties and other special occasions. |
-| 35 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 36 | [Ocampos](http://twitter.com/search?q=Ocampos) | N/A |
-| 37 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 38 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 39 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 41 | [Inaceptable](http://twitter.com/search?q=Inaceptable) | N/A |
-| 42 | [GOTY](http://twitter.com/search?q=GOTY) | N/A |
-| 43 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 44 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 45 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 46 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 47 | [#LALI](http://twitter.com/search?q=%23LALI) | N/A |
-| 48 | [#FinalFantasyXVI](http://twitter.com/search?q=%23FinalFantasyXVI) | N/A |
-| 49 | [#JusticiaParaMarta](http://twitter.com/search?q=%23JusticiaParaMarta) | N/A |
+| 2 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 3 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 4 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 6 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 7 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 8 | [#Solos13A](http://twitter.com/search?q=%23Solos13A) | N/A |
+| 9 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 11 | [Gaming Days](http://twitter.com/search?q=Gaming+Days) | N/A |
+| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 13 | [Bosco](http://twitter.com/search?q=Bosco) | N/A |
+| 14 | [#LaCazaGuadiana](http://twitter.com/search?q=%23LaCazaGuadiana) | N/A |
+| 15 | [Nianzou](http://twitter.com/search?q=Nianzou) | Nianzou is a Chinese term that literally translates to "year-old boy." It is used to refer to a young boy who has just turned one year old. The term is often used in celebrations and ceremonies for the one-year-old, such as birthday parties and other special occasions. |
+| 16 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 17 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 18 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
+| 19 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 20 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 21 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 22 | [EL DRAGÓN OUT NOW](http://twitter.com/search?q=EL+DRAG%c3%93N+OUT+NOW) | N/A |
+| 23 | [Países Bajos](http://twitter.com/search?q=Pa%c3%adses+Bajos) | N/A |
+| 24 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 25 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 26 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 28 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 29 | [Sindy](http://twitter.com/search?q=Sindy) | N/A |
+| 30 | [Marcao](http://twitter.com/search?q=Marcao) | N/A |
+| 31 | [Katerina](http://twitter.com/search?q=Katerina) | N/A |
+| 32 | [Alaska](http://twitter.com/search?q=Alaska) | Alaska is a state in the United States located in the northwest corner of North America. It is the largest state in the US by area and has a population of over 730,000 people. The name Alaska comes from an Aleut word meaning "great land" or "that which the sea breaks against." |
+| 33 | [Lola Indigo](http://twitter.com/search?q=Lola+Indigo) | N/A |
+| 34 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 35 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
+| 36 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 37 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 38 | [EL TONTO](http://twitter.com/search?q=EL+TONTO) | N/A |
+| 39 | [Raquel Arias](http://twitter.com/search?q=Raquel+Arias) | N/A |
+| 40 | [Juanfe](http://twitter.com/search?q=Juanfe) | N/A |
+| 41 | [Santiago Segura](http://twitter.com/search?q=Santiago+Segura) | N/A |
+| 42 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 43 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 44 | [Zalgiris](http://twitter.com/search?q=Zalgiris) | N/A |
+| 45 | [Navas](http://twitter.com/search?q=Navas) | Navas is a Spanish surname derived from the Latin word navis, meaning “ship”. It is believed to have originated as a nickname for someone who was associated with ships or seafaring. In English, the name Navas can be translated to mean “sailor” or “seafarer”. |
+| 46 | [Rakitic](http://twitter.com/search?q=Rakitic) | Rakitic is a surname of Croatian origin. It is derived from the word "rak" which means crab in Croatian. The name Rakitic can be translated to mean "of the crab" or "crab-like". |
+| 47 | [Maccabi](http://twitter.com/search?q=Maccabi) | N/A |
+| 48 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 49 | [Andalucía](http://twitter.com/search?q=Andaluc%c3%ada) | N/A |
 
 
 
