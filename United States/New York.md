@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-04-14 00:27:33 UTC`
+📆 Last Updated: `2023-04-14 01:43:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Olofsson](http://twitter.com/search?q=Olofsson) | N/A |
-| 2 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 3 | [#DeNYC](http://twitter.com/search?q=%23DeNYC) | N/A |
-| 4 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 5 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 6 | [#NFTNYC23](http://twitter.com/search?q=%23NFTNYC23) | N/A |
-| 7 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 8 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 9 | [Brito](http://twitter.com/search?q=Brito) | N/A |
-| 10 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
-| 11 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 12 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 13 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 14 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 15 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 17 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 18 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 19 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 20 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
-| 21 | [Michael A. Taylor](http://twitter.com/search?q=Michael+A.+Taylor) | N/A |
-| 22 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 23 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 24 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
-| 25 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 26 | [Landy](http://twitter.com/search?q=Landy) | N/A |
-| 27 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 28 | [Night of Champions](http://twitter.com/search?q=Night+of+Champions) | N/A |
-| 29 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 30 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 31 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
-| 32 | [Edouard Julien](http://twitter.com/search?q=Edouard+Julien) | N/A |
-| 33 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 34 | [Keion White](http://twitter.com/search?q=Keion+White) | N/A |
-| 35 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 36 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 37 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
-| 38 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
-| 39 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 40 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 41 | [Paul O’Neill](http://twitter.com/search?q=Paul+O%e2%80%99Neill) | N/A |
-| 42 | [Dan Snyder](http://twitter.com/search?q=Dan+Snyder) | N/A |
-| 43 | [Chelsea Manning](http://twitter.com/search?q=Chelsea+Manning) | N/A |
-| 44 | [Top Secret](http://twitter.com/search?q=Top+Secret) | N/A |
-| 45 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 46 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
-| 47 | [Mertz](http://twitter.com/search?q=Mertz) | N/A |
-| 48 | [Leavenworth](http://twitter.com/search?q=Leavenworth) | N/A |
-| 49 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 50 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 1 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 2 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 3 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 4 | [Mika](http://twitter.com/search?q=Mika) | Mika is a unisex name of Japanese origin. It can be translated to mean "beautiful fragrance" or "beauty and fragrance". |
+| 5 | [Olofsson](http://twitter.com/search?q=Olofsson) | N/A |
+| 6 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
+| 7 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 8 | [Mauricio](http://twitter.com/search?q=Mauricio) | N/A |
+| 9 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 10 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 11 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 12 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 13 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
+| 14 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 15 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 16 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 17 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 18 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 19 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 20 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 21 | [#GardenMoviesAndShows](http://twitter.com/search?q=%23GardenMoviesAndShows) | N/A |
+| 22 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 23 | [#AskIrvine](http://twitter.com/search?q=%23AskIrvine) | N/A |
+| 24 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 25 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 26 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 27 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 28 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 29 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 30 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
+| 31 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 32 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 33 | [NEW ENCHANTED DRESS](http://twitter.com/search?q=NEW+ENCHANTED+DRESS) | N/A |
+| 34 | [NEW DRESS](http://twitter.com/search?q=NEW+DRESS) | N/A |
+| 35 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
+| 36 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
+| 37 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 38 | [Vince Velasquez](http://twitter.com/search?q=Vince+Velasquez) | N/A |
+| 39 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
+| 40 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 41 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
+| 42 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
+| 43 | [Ji Hwan Bae](http://twitter.com/search?q=Ji+Hwan+Bae) | N/A |
+| 44 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 45 | [Budda](http://twitter.com/search?q=Budda) | N/A |
+| 46 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 47 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 48 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 49 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
+| 50 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
 
 
 

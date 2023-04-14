@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-04-14 00:27:10 UTC`
+📆 Last Updated: `2023-04-14 01:43:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 2 | [#TheClickExperience](http://twitter.com/search?q=%23TheClickExperience) | N/A |
-| 3 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
-| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 5 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 6 | [#galaxys235g](http://twitter.com/search?q=%23galaxys235g) | N/A |
-| 7 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
-| 8 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
-| 9 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
-| 10 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 11 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 12 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
-| 13 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 14 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 15 | [Kapten](http://twitter.com/search?q=Kapten) | N/A |
+| 1 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 2 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 3 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 4 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 5 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
+| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 7 | [#TheClickExperience](http://twitter.com/search?q=%23TheClickExperience) | N/A |
+| 8 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 9 | [#galaxys235g](http://twitter.com/search?q=%23galaxys235g) | N/A |
+| 10 | [#FML_LifeInAMinute](http://twitter.com/search?q=%23FML_LifeInAMinute) | N/A |
+| 11 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 13 | [LEE SEUNGHWAN](http://twitter.com/search?q=LEE+SEUNGHWAN) | N/A |
+| 14 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
+| 15 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
 | 16 | [SEVENTEEN FXCK MY LIFE](http://twitter.com/search?q=SEVENTEEN+FXCK+MY+LIFE) | N/A |
-| 17 | [Yati](http://twitter.com/search?q=Yati) | N/A |
-| 18 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
-| 19 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 17 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 18 | [Yati](http://twitter.com/search?q=Yati) | N/A |
+| 19 | [TAEYONG 1ST LOVE DICTIONARY](http://twitter.com/search?q=TAEYONG+1ST+LOVE+DICTIONARY) | N/A |
 | 20 | [manteb nih ps-08](http://twitter.com/search?q=manteb+nih+ps-08) | N/A |
 | 21 | [YOU DID WELL](http://twitter.com/search?q=YOU+DID+WELL) | N/A |
-| 22 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 23 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
-| 24 | [ps sang patriot](http://twitter.com/search?q=ps+sang+patriot) | N/A |
-| 25 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 26 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 27 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 28 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 29 | [kasad dudung abdurachman](http://twitter.com/search?q=kasad+dudung+abdurachman) | N/A |
-| 30 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 31 | [Biasakan](http://twitter.com/search?q=Biasakan) | N/A |
-| 32 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 33 | [beauty is me](http://twitter.com/search?q=beauty+is+me) | N/A |
-| 34 | [jakarta butuh cuti](http://twitter.com/search?q=jakarta+butuh+cuti) | N/A |
-| 35 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
-| 36 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
-| 37 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 38 | [Apes](http://twitter.com/search?q=Apes) | N/A |
-| 39 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [Kafir](http://twitter.com/search?q=Kafir) | N/A |
-| 42 | [Paras](http://twitter.com/search?q=Paras) | N/A |
-| 43 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
-| 44 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
-| 45 | [Sahur](http://twitter.com/search?q=Sahur) | N/A |
+| 22 | [ps sang patriot](http://twitter.com/search?q=ps+sang+patriot) | N/A |
+| 23 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 24 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 25 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 26 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 27 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 28 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 29 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 30 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 31 | [beauty is me](http://twitter.com/search?q=beauty+is+me) | N/A |
+| 32 | [jakarta butuh cuti](http://twitter.com/search?q=jakarta+butuh+cuti) | N/A |
+| 33 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 34 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 35 | [Zihao](http://twitter.com/search?q=Zihao) | N/A |
+| 36 | [Matthew](http://twitter.com/search?q=Matthew) | N/A |
+| 37 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
+| 38 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 39 | [Paras](http://twitter.com/search?q=Paras) | N/A |
+| 40 | [gus muhaimin berbagi takjil](http://twitter.com/search?q=gus+muhaimin+berbagi+takjil) | N/A |
+| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 42 | [fml 4m pre order](http://twitter.com/search?q=fml+4m+pre+order) | N/A |
+| 43 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 44 | [Leg 2](http://twitter.com/search?q=Leg+2) | N/A |
+| 45 | [FLOWER THIRD WIN](http://twitter.com/search?q=FLOWER+THIRD+WIN) | N/A |
 | 46 | [Manipulatif](http://twitter.com/search?q=Manipulatif) | N/A |
-| 47 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 48 | [ksad dudung ar](http://twitter.com/search?q=ksad+dudung+ar) | N/A |
-| 49 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 47 | [MC JOHNNY](http://twitter.com/search?q=MC+JOHNNY) | N/A |
+| 48 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 49 | [Makin AWESOME](http://twitter.com/search?q=Makin+AWESOME) | N/A |
 
 
 

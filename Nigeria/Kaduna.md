@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-04-14 00:27:18 UTC`
+📆 Last Updated: `2023-04-14 01:43:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,53 @@ This is top 50 for [Nigeria](</Nigeria>)
 | ------- | ------------ | ------------ |
 | 1 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 2 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 3 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 4 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 5 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 6 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 3 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 4 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 5 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 6 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
 | 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 8 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 9 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 10 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 11 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 12 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 13 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 14 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 16 | [Riggs](http://twitter.com/search?q=Riggs) | N/A |
-| 17 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 18 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 20 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 21 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
-| 22 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 23 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 24 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
-| 25 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 26 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 27 | [Christy O](http://twitter.com/search?q=Christy+O) | N/A |
-| 28 | [Times](http://twitter.com/search?q=Times) | N/A |
-| 29 | [#Jawwar](http://twitter.com/search?q=%23Jawwar) | N/A |
-| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 31 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 32 | [#roadtoicc](http://twitter.com/search?q=%23roadtoicc) | N/A |
-| 33 | [Frames](http://twitter.com/search?q=Frames) | N/A |
-| 34 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 35 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 36 | [Abike](http://twitter.com/search?q=Abike) | N/A |
-| 37 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 38 | [Bello](http://twitter.com/search?q=Bello) | N/A |
-| 39 | [Influential](http://twitter.com/search?q=Influential) | N/A |
-| 40 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 41 | [Senegalese](http://twitter.com/search?q=Senegalese) | N/A |
-| 42 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 43 | [#Ethereum](http://twitter.com/search?q=%23Ethereum) | N/A |
-| 44 | [#Agbadovolution](http://twitter.com/search?q=%23Agbadovolution) | N/A |
-| 45 | [#TIME100](http://twitter.com/search?q=%23TIME100) | N/A |
+| 8 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 9 | [#yellowgold](http://twitter.com/search?q=%23yellowgold) | N/A |
+| 10 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 11 | [#recitation_themovie](http://twitter.com/search?q=%23recitation_themovie) | N/A |
+| 12 | [#JoyBlackSoap](http://twitter.com/search?q=%23JoyBlackSoap) | N/A |
+| 13 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 14 | [#consumersvalueawards2023](http://twitter.com/search?q=%23consumersvalueawards2023) | N/A |
+| 15 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 16 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 17 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 18 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
+| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 20 | [Time Magazine](http://twitter.com/search?q=Time+Magazine) | N/A |
+| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 22 | [Adamu](http://twitter.com/search?q=Adamu) | N/A |
+| 23 | [Banana Island](http://twitter.com/search?q=Banana+Island) | N/A |
+| 24 | [Riggs](http://twitter.com/search?q=Riggs) | N/A |
+| 25 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 26 | [British Government](http://twitter.com/search?q=British+Government) | N/A |
+| 27 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 28 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 29 | [Woodberry](http://twitter.com/search?q=Woodberry) | N/A |
+| 30 | [Abike Dabiri](http://twitter.com/search?q=Abike+Dabiri) | N/A |
+| 31 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 32 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 33 | [Christy O](http://twitter.com/search?q=Christy+O) | N/A |
+| 34 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 35 | [Senegalese](http://twitter.com/search?q=Senegalese) | N/A |
+| 36 | [Frames](http://twitter.com/search?q=Frames) | N/A |
+| 37 | [Influential](http://twitter.com/search?q=Influential) | N/A |
+| 38 | [50 HTML](http://twitter.com/search?q=50+HTML) | N/A |
+| 39 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
+| 40 | [The British](http://twitter.com/search?q=The+British) | N/A |
+| 41 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 42 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
+| 43 | [Zanku](http://twitter.com/search?q=Zanku) | N/A |
+| 44 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 45 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 47 | [SHIP KANAGA JNR WITH BRANDS](http://twitter.com/search?q=SHIP+KANAGA+JNR+WITH+BRANDS) | N/A |
+| 48 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 49 | [Heathrow](http://twitter.com/search?q=Heathrow) | N/A |
 
 
 

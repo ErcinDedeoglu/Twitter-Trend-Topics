@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-04-14 00:27:43 UTC`
+📆 Last Updated: `2023-04-14 01:44:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
-| 2 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
-| 3 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
-| 4 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 1 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 2 | [Hilal](http://twitter.com/search?q=Hilal) | N/A |
+| 3 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
+| 4 | [#BugünGünlerdenGALATASARAY](http://twitter.com/search?q=%23Bug%c3%bcnG%c3%bcnlerdenGALATASARAY) | N/A |
 | 5 | [#StajaBaharGelecek](http://twitter.com/search?q=%23StajaBaharGelecek) | N/A |
-| 6 | [#SedatPekerKonuşsun](http://twitter.com/search?q=%23SedatPekerKonu%c5%9fsun) | N/A |
+| 6 | [#HAYIRLISAHURLAR](http://twitter.com/search?q=%23HAYIRLISAHURLAR) | N/A |
 | 7 | [#2000LereAdilYasa](http://twitter.com/search?q=%232000LereAdilYasa) | N/A |
-| 8 | [Hüsnü Bozkurt](http://twitter.com/search?q=H%c3%bcsn%c3%bc+Bozkurt) | N/A |
+| 8 | [#SedatPekerKonuşsun](http://twitter.com/search?q=%23SedatPekerKonu%c5%9fsun) | N/A |
 | 9 | [İŞİMİZ HİZMET GÜCÜMÜZ MİLLET](http://twitter.com/search?q=%c4%b0%c5%9e%c4%b0M%c4%b0Z+H%c4%b0ZMET+G%c3%9cC%c3%9cM%c3%9cZ+M%c4%b0LLET) | N/A |
-| 10 | [#sonsayfa](http://twitter.com/search?q=%23sonsayfa) | N/A |
+| 10 | [Hüsnü Bozkurt](http://twitter.com/search?q=H%c3%bcsn%c3%bc+Bozkurt) | N/A |
 | 11 | [Pelikan](http://twitter.com/search?q=Pelikan) | N/A |
-| 12 | [Meral Danış Beştaş](http://twitter.com/search?q=Meral+Dan%c4%b1%c5%9f+Be%c5%9fta%c5%9f) | N/A |
-| 13 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
+| 12 | [Üçlü](http://twitter.com/search?q=%c3%9c%c3%a7l%c3%bc) | N/A |
+| 13 | [Kadir](http://twitter.com/search?q=Kadir) | N/A |
 | 14 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 15 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
+| 15 | [Muharrem Erdoğan](http://twitter.com/search?q=Muharrem+Erdo%c4%9fan) | N/A |
 | 16 | [Madara](http://twitter.com/search?q=Madara) | N/A |
-| 17 | [Temel Kotil](http://twitter.com/search?q=Temel+Kotil) | N/A |
-| 18 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
-| 19 | [Kadir Gecesi](http://twitter.com/search?q=Kadir+Gecesi) | N/A |
-| 20 | [Muharrem Erdoğan](http://twitter.com/search?q=Muharrem+Erdo%c4%9fan) | N/A |
-| 21 | [Arabaya](http://twitter.com/search?q=Arabaya) | N/A |
-| 22 | [Ramazan Bayramı'nda](http://twitter.com/search?q=Ramazan+Bayram%c4%b1%27nda) | N/A |
-| 23 | [Melike Şahin](http://twitter.com/search?q=Melike+%c5%9eahin) | N/A |
-| 24 | [Fetöcü](http://twitter.com/search?q=Fet%c3%b6c%c3%bc) | N/A |
-| 25 | [AlparslanHocaya CezaeviZulmü](http://twitter.com/search?q=AlparslanHocaya+CezaeviZulm%c3%bc) | N/A |
-| 26 | [Kemal Uçar](http://twitter.com/search?q=Kemal+U%c3%a7ar) | N/A |
-| 27 | [NiceÖdüllere AfraSaraçoğlu](http://twitter.com/search?q=Nice%c3%96d%c3%bcllere+AfraSara%c3%a7o%c4%9flu) | N/A |
-| 28 | [Guduric](http://twitter.com/search?q=Guduric) | N/A |
-| 29 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
-| 30 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 31 | [Songül](http://twitter.com/search?q=Song%c3%bcl) | N/A |
-| 32 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
-| 33 | [Ecmain](http://twitter.com/search?q=Ecmain) | N/A |
-| 34 | [AKPTaşeron İşçisiniKandırdı](http://twitter.com/search?q=AKPTa%c5%9feron+%c4%b0%c5%9f%c3%a7isiniKand%c4%b1rd%c4%b1) | N/A |
-| 35 | [Grup](http://twitter.com/search?q=Grup) | N/A |
-| 36 | [Sadi](http://twitter.com/search?q=Sadi) | N/A |
-| 37 | [KararSenin SÖZSenin](http://twitter.com/search?q=KararSenin+S%c3%96ZSenin) | N/A |
-| 38 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 39 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
-| 40 | [Zeus](http://twitter.com/search?q=Zeus) | Zeus is the name of the supreme god in Greek mythology. He was the god of the sky, lightning, thunder, law, order, and justice. He was also known as the king of gods and ruler of Mount Olympus. In English, Zeus is often used to refer to a person who is powerful or influential. |
-| 41 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 42 | [Motley](http://twitter.com/search?q=Motley) | N/A |
-| 43 | [Nalan](http://twitter.com/search?q=Nalan) | N/A |
-| 44 | [İlçe Başkanımız](http://twitter.com/search?q=%c4%b0l%c3%a7e+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
-| 45 | [Durumu](http://twitter.com/search?q=Durumu) | N/A |
-| 46 | [Sisi](http://twitter.com/search?q=Sisi) | N/A |
-| 47 | [Cem Saygı](http://twitter.com/search?q=Cem+Sayg%c4%b1) | N/A |
-| 48 | [Ulaş](http://twitter.com/search?q=Ula%c5%9f) | N/A |
-| 49 | [Soruyu](http://twitter.com/search?q=Soruyu) | N/A |
-| 50 | [Belediye Başkanımız](http://twitter.com/search?q=Belediye+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 17 | [Müge Anlı](http://twitter.com/search?q=M%c3%bcge+Anl%c4%b1) | N/A |
+| 18 | [Arabaya](http://twitter.com/search?q=Arabaya) | N/A |
+| 19 | [İstanbul Sözleşmesi](http://twitter.com/search?q=%c4%b0stanbul+S%c3%b6zle%c5%9fmesi) | N/A |
+| 20 | [Fetöcü](http://twitter.com/search?q=Fet%c3%b6c%c3%bc) | N/A |
+| 21 | [Kemal Uçar](http://twitter.com/search?q=Kemal+U%c3%a7ar) | N/A |
+| 22 | [NiceÖdüllere AfraSaraçoğlu](http://twitter.com/search?q=Nice%c3%96d%c3%bcllere+AfraSara%c3%a7o%c4%9flu) | N/A |
+| 23 | [AlparslanHocaya CezaeviZulmü](http://twitter.com/search?q=AlparslanHocaya+CezaeviZulm%c3%bc) | N/A |
+| 24 | [Hayri](http://twitter.com/search?q=Hayri) | N/A |
+| 25 | [Grup](http://twitter.com/search?q=Grup) | N/A |
+| 26 | [Melike Şahin](http://twitter.com/search?q=Melike+%c5%9eahin) | N/A |
+| 27 | [Dorsey](http://twitter.com/search?q=Dorsey) | Dorsey is a surname of English origin. It is derived from the Old English word "dors" meaning "door" or "gate". The name was originally given to someone who lived near a door or gate. |
+| 28 | [AKPTaşeron İşçisiniKandırdı](http://twitter.com/search?q=AKPTa%c5%9feron+%c4%b0%c5%9f%c3%a7isiniKand%c4%b1rd%c4%b1) | N/A |
+| 29 | [Şırnak](http://twitter.com/search?q=%c5%9e%c4%b1rnak) | N/A |
+| 30 | [Süreyya](http://twitter.com/search?q=S%c3%bcreyya) | N/A |
+| 31 | [İlçe Başkanımız](http://twitter.com/search?q=%c4%b0l%c3%a7e+Ba%c5%9fkan%c4%b1m%c4%b1z) | N/A |
+| 32 | [Ramazan Bayramı](http://twitter.com/search?q=Ramazan+Bayram%c4%b1) | N/A |
+| 33 | [Milletvekili Adaylarımız](http://twitter.com/search?q=Milletvekili+Adaylar%c4%b1m%c4%b1z) | N/A |
+| 34 | [#CumamızMübarekOlsun](http://twitter.com/search?q=%23Cumam%c4%b1zM%c3%bcbarekOlsun) | N/A |
+| 35 | [#MevzularAcıkMikrofon](http://twitter.com/search?q=%23MevzularAc%c4%b1kMikrofon) | N/A |
+| 36 | [#YaparsaBayKemalYapar](http://twitter.com/search?q=%23YaparsaBayKemalYapar) | N/A |
+| 37 | [#YüzYıllıkMucize](http://twitter.com/search?q=%23Y%c3%bczY%c4%b1ll%c4%b1kMucize) | N/A |
+| 38 | [#RecepTayyipErdoğan](http://twitter.com/search?q=%23RecepTayyipErdo%c4%9fan) | N/A |
+| 39 | [#AçıkveNet](http://twitter.com/search?q=%23A%c3%a7%c4%b1kveNet) | #AçıkveNet is a Turkish hashtag that translates to "clear and open" in English. It is used to express the idea of being open and honest in communication. |
+| 40 | [#MeralDanışBeştaş](http://twitter.com/search?q=%23MeralDan%c4%b1%c5%9fBe%c5%9fta%c5%9f) | N/A |
+| 41 | [#babalatv](http://twitter.com/search?q=%23babalatv) | N/A |
+| 42 | [#Aldatmak](http://twitter.com/search?q=%23Aldatmak) | N/A |
+| 43 | [#KHKlıTarihiSeçimde](http://twitter.com/search?q=%23KHKl%c4%b1TarihiSe%c3%a7imde) | N/A |
+| 44 | [#tutunamıyorum](http://twitter.com/search?q=%23tutunam%c4%b1yorum) | N/A |
+| 45 | [#CamdakiKız](http://twitter.com/search?q=%23CamdakiK%c4%b1z) | N/A |
+| 46 | [#cwene](http://twitter.com/search?q=%23cwene) | N/A |
+| 47 | [#GelsinHayatBildiğiGibi](http://twitter.com/search?q=%23GelsinHayatBildi%c4%9fiGibi) | N/A |
+| 48 | [#KONSANTRASYON](http://twitter.com/search?q=%23KONSANTRASYON) | N/A |
+| 49 | [#23YolundaOmuzOmuza](http://twitter.com/search?q=%2323YolundaOmuzOmuza) | N/A |
+| 50 | [#grtrk](http://twitter.com/search?q=%23grtrk) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-04-14 00:27:20 UTC`
+📆 Last Updated: `2023-04-14 01:43:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#عتق_رقبه_عبدالاله_قاسم](http://twitter.com/search?q=%23%d8%b9%d8%aa%d9%82_%d8%b1%d9%82%d8%a8%d9%87_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%a7%d9%84%d9%87_%d9%82%d8%a7%d8%b3%d9%85) | N/A |
-| 2 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
-| 3 | [#مفقود_ثادق_فهد](http://twitter.com/search?q=%23%d9%85%d9%81%d9%82%d9%88%d8%af_%d8%ab%d8%a7%d8%af%d9%82_%d9%81%d9%87%d8%af) | N/A |
-| 4 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
-| 5 | [#كنز_العثيم_مول](http://twitter.com/search?q=%23%d9%83%d9%86%d8%b2_%d8%a7%d9%84%d8%b9%d8%ab%d9%8a%d9%85_%d9%85%d9%88%d9%84) | N/A |
-| 6 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 7 | [الثلث الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
-| 8 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
+| 1 | [#مفقود_ثادق_فهد](http://twitter.com/search?q=%23%d9%85%d9%81%d9%82%d9%88%d8%af_%d8%ab%d8%a7%d8%af%d9%82_%d9%81%d9%87%d8%af) | N/A |
+| 2 | [الباطن](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 3 | [الايام الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
+| 4 | [#كنز_العثيم_مول](http://twitter.com/search?q=%23%d9%83%d9%86%d8%b2_%d8%a7%d9%84%d8%b9%d8%ab%d9%8a%d9%85_%d9%85%d9%88%d9%84) | N/A |
+| 5 | [الثلث الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d8%ab%d9%84%d8%ab+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 6 | [#ليله_23](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_23) | N/A |
+| 7 | [#ليله_القدر](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d9%82%d8%af%d8%b1) | N/A |
+| 8 | [#ليله_الجمعه](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #ليله_الجمعه is a hashtag used on social media in the Middle East to refer to Friday night. In English, it translates to "Friday Night". |
 | 9 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 10 | [الجبر التجاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 11 | [كرت الشاشه](http://twitter.com/search?q=%d9%83%d8%b1%d8%aa+%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d9%87) | N/A |
-| 12 | [٢٣ رمضان](http://twitter.com/search?q=%d9%a2%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 10 | [٢٣ رمضان](http://twitter.com/search?q=%d9%a2%d9%a3+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 11 | [الجبر التجاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 12 | [كرت الشاشه](http://twitter.com/search?q=%d9%83%d8%b1%d8%aa+%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d9%87) | N/A |
 | 13 | [الليله الفضيله](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%81%d8%b6%d9%8a%d9%84%d9%87) | N/A |
-| 14 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 14 | [23 رمضان](http://twitter.com/search?q=23+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 15 | [المركبه البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d9%87+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
-| 16 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
-| 17 | [23 رمضان](http://twitter.com/search?q=23+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 18 | [عبدالله الاقتصاديه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 19 | [فاران](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%a7%d9%86) | N/A |
-| 20 | [الأحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
-| 21 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
-| 22 | [راس الخير](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 23 | [مارسيال](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7%d9%84) | مارسيال is a Spanish word meaning "march" or "march on". It is often used as a rallying cry for marches and protests. |
-| 24 | [بيرين](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
-| 25 | [علي الحديده](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d9%87) | N/A |
-| 26 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 27 | [الرسوم الجمركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%b3%d9%88%d9%85+%d8%a7%d9%84%d8%ac%d9%85%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 28 | [انتوني](http://twitter.com/search?q=%d8%a7%d9%86%d8%aa%d9%88%d9%86%d9%8a) | انتوني is an Arabic word that means "you" or "yours". It is used as a term of endearment or affection. |
-| 29 | [الملكيه الاجنبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a%d9%87) | N/A |
-| 30 | [الاقتصاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 31 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 32 | [الليله الشريفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%87) | N/A |
-| 33 | [اوتار العشر](http://twitter.com/search?q=%d8%a7%d9%88%d8%aa%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
-| 34 | [الليله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
-| 35 | [خيري الدنيا](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
-| 36 | [ابن رجب](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%b1%d8%ac%d8%a8) | N/A |
-| 37 | [كاسيميرو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3%d9%8a%d9%85%d9%8a%d8%b1%d9%88) | كاسيميرو (Kasimero) is a type of traditional Yemeni clothing. It is a long, loose-fitting robe with wide sleeves and a hood. The garment is usually made from cotton or wool and is often decorated with embroidery. In English, it is sometimes referred to as a "Yemeni thawb" or "Yemeni jalabiya". |
-| 38 | [بييه النصر](http://twitter.com/search?q=%d8%a8%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 39 | [التواب الرحيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
-| 40 | [النار اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b1+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
-| 41 | [فانت الكريم](http://twitter.com/search?q=%d9%81%d8%a7%d9%86%d8%aa+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
-| 42 | [علي قلب بشر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%84%d8%a8+%d8%a8%d8%b4%d8%b1) | N/A |
-| 43 | [لشبونة](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d8%a9) | N/A |
-| 44 | [التراث الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a7%d8%ab+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 45 | [التعصب الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%b5%d8%a8+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
-| 46 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
-| 47 | [قبر ابي](http://twitter.com/search?q=%d9%82%d8%a8%d8%b1+%d8%a7%d8%a8%d9%8a) | N/A |
-| 48 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 49 | [الاحد الصمد](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%af+%d8%a7%d9%84%d8%b5%d9%85%d8%af) | N/A |
-| 50 | [حسن الختام](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%ae%d8%aa%d8%a7%d9%85) | N/A |
+| 16 | [عبدالله الاقتصاديه](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 17 | [الأحساء](http://twitter.com/search?q=%d8%a7%d9%84%d8%a3%d8%ad%d8%b3%d8%a7%d8%a1) | N/A |
+| 18 | [علي الحديده](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d8%af%d9%8a%d8%af%d9%87) | N/A |
+| 19 | [خيري الدنيا](http://twitter.com/search?q=%d8%ae%d9%8a%d8%b1%d9%8a+%d8%a7%d9%84%d8%af%d9%86%d9%8a%d8%a7) | N/A |
+| 20 | [الضاحكين المستبشرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%ad%d9%83%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%a8%d8%b4%d8%b1%d9%8a%d9%86) | N/A |
+| 21 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
+| 22 | [بيرين](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d9%86) | N/A |
+| 23 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | N/A |
+| 24 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 25 | [مارتينيز](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | مارتينيز is a type of traditional Middle Eastern pastry. It is made with thin layers of dough filled with nuts, honey, and spices. In English, it is sometimes referred to as "baklava". |
+| 26 | [راس الخير](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 27 | [التواب الرحيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%b1%d8%ad%d9%8a%d9%85) | N/A |
+| 28 | [الجنه اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d9%87+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 29 | [اللهم الخلود](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%87%d9%85+%d8%a7%d9%84%d8%ae%d9%84%d9%88%d8%af) | N/A |
+| 30 | [الملكيه الاجنبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d9%86%d8%a8%d9%8a%d9%87) | N/A |
+| 31 | [الليله الشريفه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%87) | N/A |
+| 32 | [فاران](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%a7%d9%86) | N/A |
+| 33 | [الاقتصاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 34 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 35 | [المسلمين اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 36 | [الليله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
+| 37 | [قبر ابي](http://twitter.com/search?q=%d9%82%d8%a8%d8%b1+%d8%a7%d8%a8%d9%8a) | N/A |
+| 38 | [اسعد السعداء](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b9%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d8%a7%d8%a1) | N/A |
+| 39 | [اوتار العشر](http://twitter.com/search?q=%d8%a7%d9%88%d8%aa%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
+| 40 | [نعيم الجنه](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 41 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 42 | [بييه النصر](http://twitter.com/search?q=%d8%a8%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
+| 43 | [النار اللهم](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b1+%d8%a7%d9%84%d9%84%d9%87%d9%85) | N/A |
+| 44 | [علي قلب بشر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d9%84%d8%a8+%d8%a8%d8%b4%d8%b1) | N/A |
+| 45 | [الحرس الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%b1%d8%b3+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 46 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
+| 47 | [فانت الكريم](http://twitter.com/search?q=%d9%81%d8%a7%d9%86%d8%aa+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85) | N/A |
+| 48 | [نعيم الاخره](http://twitter.com/search?q=%d9%86%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1%d9%87) | N/A |
+| 49 | [الابواب المغلقه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d8%ba%d9%84%d9%82%d9%87) | N/A |
+| 50 | [التعصب الرياضي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%b5%d8%a8+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a) | N/A |
 
 
 

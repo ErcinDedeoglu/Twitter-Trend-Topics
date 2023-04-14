@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-04-14 00:26:50 UTC`
+📆 Last Updated: `2023-04-14 01:43:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 2 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 3 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
-| 4 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 5 | [Lucas Condotta](http://twitter.com/search?q=Lucas+Condotta) | N/A |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [Sarah Nurse](http://twitter.com/search?q=Sarah+Nurse) | Sarah Nurse is a term used to describe a nurse who is particularly caring and compassionate. It is derived from the name Sarah, which means “princess” or “lady” in Hebrew. The term is often used to describe nurses who go above and beyond their duties to provide excellent care for their patients. |
-| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 9 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 10 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
-| 11 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 12 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 13 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 14 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
-| 15 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 16 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 17 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 18 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 19 | [Hinch](http://twitter.com/search?q=Hinch) | N/A |
-| 20 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 21 | [#WomensWorlds](http://twitter.com/search?q=%23WomensWorlds) | N/A |
-| 22 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 23 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 24 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 25 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 26 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 27 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 28 | [The CBC](http://twitter.com/search?q=The+CBC) | N/A |
-| 29 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 30 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 32 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
-| 33 | [Maureen Breau](http://twitter.com/search?q=Maureen+Breau) | N/A |
-| 34 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 35 | [Experts](http://twitter.com/search?q=Experts) | N/A |
-| 36 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 38 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 39 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 40 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
-| 41 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 42 | [PMJT](http://twitter.com/search?q=PMJT) | N/A |
-| 43 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
-| 44 | [Nylander](http://twitter.com/search?q=Nylander) | Nylander is a Swedish surname derived from the Old Norse name Níðlǫnd, meaning "lowland". It is most commonly found in Sweden and Finland. |
-| 45 | [Bassitt](http://twitter.com/search?q=Bassitt) | N/A |
-| 46 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 47 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 48 | [Landy](http://twitter.com/search?q=Landy) | N/A |
-| 49 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 50 | [No Name](http://twitter.com/search?q=No+Name) | N/A |
+| 1 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 2 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 3 | [Willy](http://twitter.com/search?q=Willy) | N/A |
+| 4 | [William Nylander](http://twitter.com/search?q=William+Nylander) | N/A |
+| 5 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 6 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
+| 7 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 8 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 9 | [#GoHabsGo](http://twitter.com/search?q=%23GoHabsGo) | N/A |
+| 10 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 11 | [#Zenith](http://twitter.com/search?q=%23Zenith) | N/A |
+| 12 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 13 | [Lucas Condotta](http://twitter.com/search?q=Lucas+Condotta) | N/A |
+| 14 | [Hyman](http://twitter.com/search?q=Hyman) | N/A |
+| 15 | [Sarah Nurse](http://twitter.com/search?q=Sarah+Nurse) | Sarah Nurse is a term used to describe a nurse who is particularly caring and compassionate. It is derived from the name Sarah, which means “princess” or “lady” in Hebrew. The term is often used to describe nurses who go above and beyond their duties to provide excellent care for their patients. |
+| 16 | [Pitlick](http://twitter.com/search?q=Pitlick) | N/A |
+| 17 | [Biggio](http://twitter.com/search?q=Biggio) | N/A |
+| 18 | [Pezzetta](http://twitter.com/search?q=Pezzetta) | N/A |
+| 19 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 20 | [Hinch](http://twitter.com/search?q=Hinch) | N/A |
+| 21 | [Espinal](http://twitter.com/search?q=Espinal) | N/A |
+| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 23 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 24 | [Claude Giroux](http://twitter.com/search?q=Claude+Giroux) | N/A |
+| 25 | [Sharks](http://twitter.com/search?q=Sharks) | N/A |
+| 26 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 27 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 28 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 29 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 31 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
+| 32 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 33 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 34 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 35 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 36 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 37 | [Traitor](http://twitter.com/search?q=Traitor) | N/A |
+| 38 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
+| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 40 | [Renee](http://twitter.com/search?q=Renee) | N/A |
+| 41 | [Pierre Poilievre](http://twitter.com/search?q=Pierre+Poilievre) | N/A |
+| 42 | [Experts](http://twitter.com/search?q=Experts) | N/A |
+| 43 | [Nick Suzuki](http://twitter.com/search?q=Nick+Suzuki) | N/A |
+| 44 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 45 | [Skippy](http://twitter.com/search?q=Skippy) | N/A |
+| 46 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 47 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 48 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 49 | [#Tigers](http://twitter.com/search?q=%23Tigers) | N/A |
+| 50 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
 
 
 

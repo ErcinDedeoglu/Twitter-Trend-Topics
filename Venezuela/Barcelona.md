@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-14 00:26:59 UTC`
+📆 Last Updated: `2023-04-14 01:43:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#13Abr](http://twitter.com/search?q=%2313Abr) | N/A |
 | 2 | [#RebeliónCívicoMilitar](http://twitter.com/search?q=%23Rebeli%c3%b3nC%c3%advicoMilitar) | N/A |
 | 3 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 4 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
-| 5 | [#ParasitosisRusaEnVzla](http://twitter.com/search?q=%23ParasitosisRusaEnVzla) | N/A |
-| 6 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 7 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
-| 8 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 10 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 11 | [El 13](http://twitter.com/search?q=El+13) | N/A |
-| 12 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 4 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 5 | [Todo 11](http://twitter.com/search?q=Todo+11) | N/A |
+| 6 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 7 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 9 | [#PuebloYFANBUnidadyLealtad](http://twitter.com/search?q=%23PuebloYFANBUnidadyLealtad) | N/A |
+| 10 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 11 | [Enrique Mendoza](http://twitter.com/search?q=Enrique+Mendoza) | N/A |
+| 12 | [El 13](http://twitter.com/search?q=El+13) | N/A |
 | 13 | [Lourdes López](http://twitter.com/search?q=Lourdes+L%c3%b3pez) | N/A |
-| 14 | [Irreversible](http://twitter.com/search?q=Irreversible) | N/A |
+| 14 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
 | 15 | [Atlántico](http://twitter.com/search?q=Atl%c3%a1ntico) | N/A |
-| 16 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
-| 17 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
-| 18 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
-| 19 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 16 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 17 | [Franklin Brito](http://twitter.com/search?q=Franklin+Brito) | N/A |
+| 18 | [Milicia Bolivariana](http://twitter.com/search?q=Milicia+Bolivariana) | N/A |
+| 19 | [Gregory Peck](http://twitter.com/search?q=Gregory+Peck) | N/A |
 | 20 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 21 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 22 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
+| 21 | [Orlando Urdaneta](http://twitter.com/search?q=Orlando+Urdaneta) | N/A |
+| 22 | [IRREVERSIBLE](http://twitter.com/search?q=IRREVERSIBLE) | N/A |
 | 23 | [Luis Vicente León](http://twitter.com/search?q=Luis+Vicente+Le%c3%b3n) | N/A |
-| 24 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
+| 24 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
 | 25 | [Juan Vicente Tovar](http://twitter.com/search?q=Juan+Vicente+Tovar) | N/A |
-| 26 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
-| 27 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 28 | [Codo](http://twitter.com/search?q=Codo) | N/A |
-| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 30 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 31 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
+| 26 | [Tiby](http://twitter.com/search?q=Tiby) | N/A |
+| 27 | [Flor Nuñez](http://twitter.com/search?q=Flor+Nu%c3%b1ez) | N/A |
+| 28 | [Revolución Bolivariana](http://twitter.com/search?q=Revoluci%c3%b3n+Bolivariana) | N/A |
+| 29 | [Codo](http://twitter.com/search?q=Codo) | N/A |
+| 30 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 31 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
 | 32 | [Educación Universitaria](http://twitter.com/search?q=Educaci%c3%b3n+Universitaria) | N/A |
 | 33 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 34 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
-| 35 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 34 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 35 | [Día de la Dignidad Nacional](http://twitter.com/search?q=D%c3%ada+de+la+Dignidad+Nacional) | N/A |
 | 36 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 37 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 37 | [Bárbara Palacios](http://twitter.com/search?q=B%c3%a1rbara+Palacios) | N/A |
 | 38 | [Honor y Gloria](http://twitter.com/search?q=Honor+y+Gloria) | N/A |
-| 39 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 40 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
-| 41 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 42 | [Conde](http://twitter.com/search?q=Conde) | N/A |
-| 43 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 44 | [Cmdte](http://twitter.com/search?q=Cmdte) | N/A |
-| 45 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 46 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 47 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
-| 48 | [Justicia Divina](http://twitter.com/search?q=Justicia+Divina) | N/A |
+| 39 | [Cardenal](http://twitter.com/search?q=Cardenal) | N/A |
+| 40 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 41 | [Cmdte](http://twitter.com/search?q=Cmdte) | N/A |
+| 42 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 43 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
+| 44 | [Poder Electoral](http://twitter.com/search?q=Poder+Electoral) | N/A |
+| 45 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 46 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 47 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 48 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 
 
 

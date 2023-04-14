@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-14 00:27:40 UTC`
+📆 Last Updated: `2023-04-14 01:44:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Latvia
 | 5 | [labdien](http://twitter.com/search?q=labdien) | N/A |
 | 6 | [kariņu](http://twitter.com/search?q=kari%c5%86u) | N/A |
 | 7 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 8 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | N/A |
+| 8 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | N/A |
 | 9 | [Ukrainai](http://twitter.com/search?q=Ukrainai) | N/A |
 | 10 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | N/A |
 | 11 | [levits](http://twitter.com/search?q=levits) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for Latvia
 | 17 | [AI-powered](http://twitter.com/search?q=AI-powered) | N/A |
 | 18 | [šlesers](http://twitter.com/search?q=%c5%a1lesers) | N/A |
 | 19 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 20 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 21 | [Cilvēki](http://twitter.com/search?q=Cilv%c4%93ki) | N/A |
+| 20 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | N/A |
+| 21 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | N/A |
 | 22 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
 | 23 | [liepājā](http://twitter.com/search?q=liep%c4%81j%c4%81) | N/A |
 | 24 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 25 | [Krievija](http://twitter.com/search?q=Krievija) | N/A |
-| 26 | [Būtu](http://twitter.com/search?q=B%c5%abtu) | N/A |
+| 26 | [būtu](http://twitter.com/search?q=b%c5%abtu) | N/A |
 | 27 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
-| 28 | [$GINI](http://twitter.com/search?q=%24GINI) | N/A |
-| 29 | [Vienotības](http://twitter.com/search?q=Vienot%c4%abbas) | N/A |
+| 28 | [$gini](http://twitter.com/search?q=%24gini) | N/A |
+| 29 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | N/A |
 | 30 | [#latvija](http://twitter.com/search?q=%23latvija) | N/A |
-| 31 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 31 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
 | 32 | [Neko](http://twitter.com/search?q=Neko) | N/A |
 | 33 | [priekš](http://twitter.com/search?q=priek%c5%a1) | N/A |
 | 34 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 35 | [eiropas](http://twitter.com/search?q=eiropas) | N/A |
 | 36 | [#plantarfasciitis](http://twitter.com/search?q=%23plantarfasciitis) | N/A |
-| 37 | [Tevis](http://twitter.com/search?q=Tevis) | N/A |
+| 37 | [tevis](http://twitter.com/search?q=tevis) | N/A |
 | 38 | [mūsu](http://twitter.com/search?q=m%c5%absu) | N/A |
 | 39 | [#backpain](http://twitter.com/search?q=%23backpain) | N/A |
 | 40 | [šodien](http://twitter.com/search?q=%c5%a1odien) | N/A |
 | 41 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
 | 42 | [kādas](http://twitter.com/search?q=k%c4%81das) | N/A |
 | 43 | [katru](http://twitter.com/search?q=katru) | N/A |
-| 44 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 45 | [Leta](http://twitter.com/search?q=Leta) | N/A |
-| 46 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
-| 47 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | N/A |
-| 48 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
-| 49 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
-| 50 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
+| 44 | [Leta](http://twitter.com/search?q=Leta) | N/A |
+| 45 | [beidzot](http://twitter.com/search?q=beidzot) | N/A |
+| 46 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
+| 47 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
+| 48 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
+| 49 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
+| 50 | [puškina](http://twitter.com/search?q=pu%c5%a1kina) | N/A |
 
 
 

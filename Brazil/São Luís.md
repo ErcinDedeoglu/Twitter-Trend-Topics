@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-04-14 00:27:01 UTC`
+📆 Last Updated: `2023-04-14 01:43:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 1 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
 | 2 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
 | 3 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 4 | [Maringá](http://twitter.com/search?q=Maring%c3%a1) | N/A |
-| 5 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
-| 6 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 7 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
-| 8 | [DEMI LOVATO](http://twitter.com/search?q=DEMI+LOVATO) | N/A |
-| 9 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 10 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
-| 11 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
-| 12 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
-| 13 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 14 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
-| 15 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
-| 16 | [Mateus Cocão](http://twitter.com/search?q=Mateus+Coc%c3%a3o) | N/A |
-| 17 | [Lucas Oliveira](http://twitter.com/search?q=Lucas+Oliveira) | Lucas Oliveira is a Portuguese name. It is derived from the Latin name Lucas, which means "light" or "illumination," and Oliveira, which means "olive tree." In English, the name Lucas Oliveira can be translated to mean "Light of the Olive Tree." |
-| 18 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 19 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
-| 20 | [Cristiano Araújo](http://twitter.com/search?q=Cristiano+Ara%c3%bajo) | N/A |
-| 21 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
-| 22 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 23 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 24 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
-| 25 | [Gabriel Santiago](http://twitter.com/search?q=Gabriel+Santiago) | N/A |
-| 26 | [Jael](http://twitter.com/search?q=Jael) | N/A |
-| 27 | [DESEJO IMORTAL](http://twitter.com/search?q=DESEJO+IMORTAL) | N/A |
-| 28 | [Pepa](http://twitter.com/search?q=Pepa) | N/A |
-| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 30 | [Haddad](http://twitter.com/search?q=Haddad) | N/A |
-| 31 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
-| 32 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 33 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 34 | [SEIS ANOS EMILLY CAMPEA](http://twitter.com/search?q=SEIS+ANOS+EMILLY+CAMPEA) | N/A |
-| 35 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 36 | [Bilu](http://twitter.com/search?q=Bilu) | Bilu is a Hebrew term that means "to come in" or "to enter." It is often used to refer to the act of immigrating to Israel. |
-| 37 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
-| 38 | [Vazaram](http://twitter.com/search?q=Vazaram) | N/A |
-| 39 | [Vital](http://twitter.com/search?q=Vital) | N/A |
-| 40 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 41 | [DEMETRIA](http://twitter.com/search?q=DEMETRIA) | N/A |
-| 42 | [O Náutico](http://twitter.com/search?q=O+N%c3%a1utico) | N/A |
-| 43 | [Kill Bill](http://twitter.com/search?q=Kill+Bill) | Kill Bill is a two-part martial arts action film written and directed by Quentin Tarantino. The film follows the story of a former assassin, known as "The Bride," who seeks revenge on her former colleagues who betrayed her and attempted to kill her on her wedding day. The title of the film is derived from the phrase "kill bill," which is used in the films to refer to a list of people that The Bride has marked for death. |
-| 44 | [Marcelo de Lima Henrique](http://twitter.com/search?q=Marcelo+de+Lima+Henrique) | N/A |
-| 45 | [TRF-4](http://twitter.com/search?q=TRF-4) | N/A |
-| 46 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 47 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
-| 48 | [Mario Jorge](http://twitter.com/search?q=Mario+Jorge) | N/A |
-| 49 | [Marilinha](http://twitter.com/search?q=Marilinha) | N/A |
+| 4 | [Marília](http://twitter.com/search?q=Mar%c3%adlia) | Marília is a city in the state of São Paulo, Brazil. It is the second largest city in the state and has a population of around 350,000 people. The name Marília comes from the name of a local river, which was named after an indigenous woman who lived in the area. In English, Marília means "beloved". |
+| 5 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 6 | [demi lovato](http://twitter.com/search?q=demi+lovato) | N/A |
+| 7 | [Cruzeiro](http://twitter.com/search?q=Cruzeiro) | Cruzeiro is the name of the former currency of Brazil. It was replaced by the Real in 1994. The word Cruzeiro means "cross" in English, and it was named after a gold cross that was found in a river near Rio de Janeiro. |
+| 8 | [Everton Ribeiro](http://twitter.com/search?q=Everton+Ribeiro) | Everton Ribeiro is a Brazilian professional footballer who plays as an attacking midfielder for Saudi Arabian club Al-Nassr. His name translates to "Everton of the River" in English. |
+| 9 | [Wesley](http://twitter.com/search?q=Wesley) | Wesley is a masculine given name of English origin. It is derived from the Old English elements "west" and "leah", meaning "west meadow". |
+| 10 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 11 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 12 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 13 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
+| 14 | [#MARxFLA](http://twitter.com/search?q=%23MARxFLA) | N/A |
+| 15 | [The Town](http://twitter.com/search?q=The+Town) | The Town is a 2010 American crime drama film directed by Ben Affleck. It follows a group of Boston-based criminals who plan to rob a bank in order to escape their lives of crime. The title refers to the town of Charlestown, Massachusetts, where the story takes place. The phrase "the town" is often used to refer to a particular area or community. |
+| 16 | [Diogo Barbosa](http://twitter.com/search?q=Diogo+Barbosa) | N/A |
+| 17 | [#CaravanadasDrags](http://twitter.com/search?q=%23CaravanadasDrags) | N/A |
+| 18 | [Cocão](http://twitter.com/search?q=Coc%c3%a3o) | N/A |
+| 19 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 20 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 21 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 22 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 23 | [Igor Jesus](http://twitter.com/search?q=Igor+Jesus) | N/A |
+| 24 | [Léo Pereira](http://twitter.com/search?q=L%c3%a9o+Pereira) | Léo Pereira is a Portuguese name. It is derived from the Latin name Leo, which means "lion," and Pereira, which means "pear tree." In English, the name would translate to "Lion of the Pear Tree." |
+| 25 | [Série D](http://twitter.com/search?q=S%c3%a9rie+D) | N/A |
+| 26 | [#VoltaVP](http://twitter.com/search?q=%23VoltaVP) | N/A |
+| 27 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 28 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 29 | [Mario Jorge](http://twitter.com/search?q=Mario+Jorge) | N/A |
+| 30 | [Rodrigo Caio](http://twitter.com/search?q=Rodrigo+Caio) | Rodrigo Caio is a Brazilian professional footballer who plays as a defender for São Paulo FC. His name translates to "Rodrigo Victory" in English. |
+| 31 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 32 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 33 | [DEMETRIA](http://twitter.com/search?q=DEMETRIA) | N/A |
+| 34 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 35 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 36 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 37 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 38 | [Ramiro](http://twitter.com/search?q=Ramiro) | N/A |
+| 39 | [Paraná](http://twitter.com/search?q=Paran%c3%a1) | N/A |
+| 40 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 41 | [Tonho](http://twitter.com/search?q=Tonho) | N/A |
+| 42 | [Cristiano Araújo](http://twitter.com/search?q=Cristiano+Ara%c3%bajo) | N/A |
+| 43 | [Vital](http://twitter.com/search?q=Vital) | N/A |
+| 44 | [Tacla Duran](http://twitter.com/search?q=Tacla+Duran) | N/A |
+| 45 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 46 | [DESEJO IMORTAL](http://twitter.com/search?q=DESEJO+IMORTAL) | N/A |
+| 47 | [ARMAÇÃO DO MORO](http://twitter.com/search?q=ARMA%c3%87%c3%83O+DO+MORO) | N/A |
+| 48 | [TODA MANHA VITAO](http://twitter.com/search?q=TODA+MANHA+VITAO) | N/A |
+| 49 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 50 | [Volta Vitor Pereira](http://twitter.com/search?q=Volta+Vitor+Pereira) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-04-14 00:27:04 UTC`
+📆 Last Updated: `2023-04-14 01:43:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 2 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 3 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 4 | [#ComplementDenquete](http://twitter.com/search?q=%23ComplementDenquete) | N/A |
-| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 6 | [#PLK2069](http://twitter.com/search?q=%23PLK2069) | N/A |
-| 7 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 8 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 9 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 10 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 11 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 12 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 13 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
-| 14 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 15 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 16 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 17 | [Népal](http://twitter.com/search?q=N%c3%a9pal) | N/A |
-| 18 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 19 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 20 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 21 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 22 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 23 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 24 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 25 | [Stade de France](http://twitter.com/search?q=Stade+de+France) | N/A |
-| 26 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 27 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 28 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 29 | [Princes](http://twitter.com/search?q=Princes) | N/A |
-| 30 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 32 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
-| 33 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 34 | [Mecque](http://twitter.com/search?q=Mecque) | N/A |
-| 35 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
-| 36 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 37 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 38 | [Cleopatre](http://twitter.com/search?q=Cleopatre) | N/A |
-| 39 | [Gotaga](http://twitter.com/search?q=Gotaga) | N/A |
-| 40 | [Digard](http://twitter.com/search?q=Digard) | N/A |
-| 41 | [#2069le14Avril](http://twitter.com/search?q=%232069le14Avril) | N/A |
-| 42 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 43 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
-| 44 | [#FinalFantasyXVI](http://twitter.com/search?q=%23FinalFantasyXVI) | N/A |
-| 45 | [#EnvoyeSpecial](http://twitter.com/search?q=%23EnvoyeSpecial) | N/A |
-| 46 | [#StateofPlay](http://twitter.com/search?q=%23StateofPlay) | N/A |
-| 47 | [#FFXVI](http://twitter.com/search?q=%23FFXVI) | N/A |
-| 48 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 2 | [#greve13avril](http://twitter.com/search?q=%23greve13avril) | N/A |
+| 3 | [#NintendalertsXZenmarket](http://twitter.com/search?q=%23NintendalertsXZenmarket) | N/A |
+| 4 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 5 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 6 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 8 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 9 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 10 | [Sané](http://twitter.com/search?q=San%c3%a9) | N/A |
+| 11 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 13 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 15 | [Chirine](http://twitter.com/search?q=Chirine) | N/A |
+| 16 | [Minato](http://twitter.com/search?q=Minato) | N/A |
+| 17 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 18 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 19 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 20 | [Achraf](http://twitter.com/search?q=Achraf) | N/A |
+| 21 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 22 | [Ruffin](http://twitter.com/search?q=Ruffin) | N/A |
+| 23 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 24 | [Bleu](http://twitter.com/search?q=Bleu) | N/A |
+| 25 | [Alexandre](http://twitter.com/search?q=Alexandre) | N/A |
+| 26 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 27 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 28 | [Gota](http://twitter.com/search?q=Gota) | N/A |
+| 29 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 30 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 31 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 32 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 33 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
+| 34 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 35 | [Orange](http://twitter.com/search?q=Orange) | N/A |
+| 36 | [Demain 19h](http://twitter.com/search?q=Demain+19h) | N/A |
+| 37 | [Shisui](http://twitter.com/search?q=Shisui) | N/A |
+| 38 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 39 | [Marron](http://twitter.com/search?q=Marron) | N/A |
+| 40 | [Fournier](http://twitter.com/search?q=Fournier) | N/A |
+| 41 | [EP de PLK](http://twitter.com/search?q=EP+de+PLK) | N/A |
+| 42 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 43 | [Kakashi](http://twitter.com/search?q=Kakashi) | N/A |
+| 44 | [Remis](http://twitter.com/search?q=Remis) | N/A |
+| 45 | [Panama Bende](http://twitter.com/search?q=Panama+Bende) | N/A |
+| 46 | [gentle mates](http://twitter.com/search?q=gentle+mates) | N/A |
+| 47 | [Naulleau](http://twitter.com/search?q=Naulleau) | N/A |
+| 48 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 
 
 

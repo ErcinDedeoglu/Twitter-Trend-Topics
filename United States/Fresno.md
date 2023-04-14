@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-04-14 00:27:31 UTC`
+📆 Last Updated: `2023-04-14 01:43:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 2 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 3 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
-| 4 | [Kavanaugh](http://twitter.com/search?q=Kavanaugh) | N/A |
-| 5 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 1 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 2 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 3 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 4 | [Discord](http://twitter.com/search?q=Discord) | Discord is a free voice and text chat app designed for gamers. It allows users to communicate with each other in real-time, either in a private chat room or in a public server. The name Discord comes from the Latin word discordia, which means “disagreement” or “conflict”. |
+| 5 | [Bob Lee](http://twitter.com/search?q=Bob+Lee) | N/A |
 | 6 | [#Coachella](http://twitter.com/search?q=%23Coachella) | N/A |
-| 7 | [Harlan Crow](http://twitter.com/search?q=Harlan+Crow) | N/A |
-| 8 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 9 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 10 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
-| 11 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 12 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 13 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 14 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
-| 15 | [Grogu](http://twitter.com/search?q=Grogu) | N/A |
-| 16 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 17 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 7 | [Kavanaugh](http://twitter.com/search?q=Kavanaugh) | N/A |
+| 8 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
+| 9 | [Mr. Beast](http://twitter.com/search?q=Mr.+Beast) | Mr. Beast is the online pseudonym of Jimmy Donaldson, an American YouTuber known for his philanthropic videos and challenges. He is best known for his large donations to various charities and causes, as well as his YouTube challenges that involve spending large amounts of money. The phrase "Mr. Beast" has come to represent generosity and kindness in the online community. |
+| 10 | [Nima Momeni](http://twitter.com/search?q=Nima+Momeni) | N/A |
+| 11 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 12 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 13 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 14 | [McConnell](http://twitter.com/search?q=McConnell) | N/A |
+| 15 | [Cash App](http://twitter.com/search?q=Cash+App) | N/A |
+| 16 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
+| 17 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
 | 18 | [Twins](http://twitter.com/search?q=Twins) | Twins is a term used to refer to two people who were born at the same time from the same pregnancy. Twins can be either identical (sharing the same genetic material) or fraternal (having different genetic material). The term is also used to refer to two siblings who are very close in age. |
 | 19 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 20 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 21 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
-| 22 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 23 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
-| 24 | [Baez](http://twitter.com/search?q=Baez) | N/A |
-| 25 | [#AskIrvine](http://twitter.com/search?q=%23AskIrvine) | N/A |
-| 26 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 27 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
-| 28 | [Final Fantasy XVI](http://twitter.com/search?q=Final+Fantasy+XVI) | N/A |
-| 29 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 30 | [Yanks](http://twitter.com/search?q=Yanks) | N/A |
-| 31 | [Michael A. Taylor](http://twitter.com/search?q=Michael+A.+Taylor) | N/A |
-| 32 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
-| 33 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
+| 20 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 21 | [Rizzo](http://twitter.com/search?q=Rizzo) | N/A |
+| 22 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 23 | [Jordan Hicks](http://twitter.com/search?q=Jordan+Hicks) | N/A |
+| 24 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 25 | [Rick Fox](http://twitter.com/search?q=Rick+Fox) | N/A |
+| 26 | [Blackwood](http://twitter.com/search?q=Blackwood) | N/A |
+| 27 | [Baez](http://twitter.com/search?q=Baez) | N/A |
+| 28 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 29 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 30 | [Doja](http://twitter.com/search?q=Doja) | Doja is a slang term derived from the word "dough," which is used to refer to money. It can be used to describe someone who has a lot of money, or someone who is wealthy. |
+| 31 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 32 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 33 | [Jack Teixeira](http://twitter.com/search?q=Jack+Teixeira) | N/A |
 | 34 | [Reality Winner](http://twitter.com/search?q=Reality+Winner) | N/A |
-| 35 | [FFXVI](http://twitter.com/search?q=FFXVI) | N/A |
-| 36 | [Landy](http://twitter.com/search?q=Landy) | N/A |
-| 37 | [Big Ben](http://twitter.com/search?q=Big+Ben) | N/A |
-| 38 | [Alito](http://twitter.com/search?q=Alito) | Alito is a Spanish name meaning "little wing". It is also a surname. |
-| 39 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
-| 40 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 41 | [Night of Champions](http://twitter.com/search?q=Night+of+Champions) | N/A |
-| 42 | [Edouard Julien](http://twitter.com/search?q=Edouard+Julien) | N/A |
-| 43 | [Snowden](http://twitter.com/search?q=Snowden) | N/A |
-| 44 | [Keion White](http://twitter.com/search?q=Keion+White) | N/A |
-| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 46 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
-| 47 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
-| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 49 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 35 | [Squid Game](http://twitter.com/search?q=Squid+Game) | N/A |
+| 36 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 37 | [NEW ENCHANTED DRESS](http://twitter.com/search?q=NEW+ENCHANTED+DRESS) | N/A |
+| 38 | [NEW DRESS](http://twitter.com/search?q=NEW+DRESS) | N/A |
+| 39 | [Blue Jackets](http://twitter.com/search?q=Blue+Jackets) | N/A |
+| 40 | [Joe Ryan](http://twitter.com/search?q=Joe+Ryan) | N/A |
+| 41 | [Andy Larsen](http://twitter.com/search?q=Andy+Larsen) | N/A |
+| 42 | [Vince Velasquez](http://twitter.com/search?q=Vince+Velasquez) | N/A |
+| 43 | [Salt Lake Tribune](http://twitter.com/search?q=Salt+Lake+Tribune) | N/A |
+| 44 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 45 | [Gayle](http://twitter.com/search?q=Gayle) | N/A |
+| 46 | [Schmid](http://twitter.com/search?q=Schmid) | N/A |
+| 47 | [Bedard](http://twitter.com/search?q=Bedard) | N/A |
+| 48 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 49 | [Ji Hwan Bae](http://twitter.com/search?q=Ji+Hwan+Bae) | N/A |
 
 
 

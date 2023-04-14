@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-14 00:27:08 UTC`
+📆 Last Updated: `2023-04-14 01:43:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
-| 3 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 4 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 5 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
-| 6 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 7 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 1 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
+| 2 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 3 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 4 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 5 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 6 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 7 | [#OGCNice](http://twitter.com/search?q=%23OGCNice) | N/A |
 | 8 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 9 | [Notrecht](http://twitter.com/search?q=Notrecht) | N/A |
+| 9 | [notrecht](http://twitter.com/search?q=notrecht) | N/A |
 | 10 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 11 | [Musk](http://twitter.com/search?q=Musk) | N/A |
 | 12 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
@@ -48,14 +48,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 31 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
 | 32 | [Logik](http://twitter.com/search?q=Logik) | N/A |
 | 33 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 34 | [Russes](http://twitter.com/search?q=Russes) | N/A |
-| 35 | [Coop](http://twitter.com/search?q=Coop) | N/A |
-| 36 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 34 | [Coop](http://twitter.com/search?q=Coop) | N/A |
+| 35 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 36 | [russes](http://twitter.com/search?q=russes) | N/A |
 | 37 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 38 | [Bakhmut](http://twitter.com/search?q=Bakhmut) | N/A |
 | 39 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 40 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 41 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 40 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 41 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 42 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
 | 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 44 | [Lego](http://twitter.com/search?q=Lego) | N/A |

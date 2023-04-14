@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-04-14 00:26:58 UTC`
+📆 Last Updated: `2023-04-14 01:43:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
-| 2 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
-| 3 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
-| 4 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
-| 5 | [Times](http://twitter.com/search?q=Times) | N/A |
-| 6 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
-| 7 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
-| 8 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
-| 9 | [Boric](http://twitter.com/search?q=Boric) | N/A |
-| 10 | [#NuestraRealidadEs](http://twitter.com/search?q=%23NuestraRealidadEs) | N/A |
-| 11 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 13 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
-| 14 | [Revista Time](http://twitter.com/search?q=Revista+Time) | N/A |
-| 15 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
-| 16 | [Alcocer](http://twitter.com/search?q=Alcocer) | N/A |
-| 17 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
-| 18 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
-| 19 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
-| 20 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
-| 21 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 22 | [Cali](http://twitter.com/search?q=Cali) | N/A |
-| 23 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 24 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
-| 25 | [Carlos Daniel Hidalgo](http://twitter.com/search?q=Carlos+Daniel+Hidalgo) | N/A |
-| 26 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
-| 27 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
-| 28 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 29 | [Garcés](http://twitter.com/search?q=Garc%c3%a9s) | N/A |
-| 30 | [Marotta](http://twitter.com/search?q=Marotta) | N/A |
-| 31 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
-| 32 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
-| 33 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
-| 34 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
-| 35 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 36 | [Racero](http://twitter.com/search?q=Racero) | N/A |
-| 37 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 38 | [Freddy Rincón](http://twitter.com/search?q=Freddy+Rinc%c3%b3n) | N/A |
-| 39 | [Abogade](http://twitter.com/search?q=Abogade) | N/A |
-| 40 | [CLAP](http://twitter.com/search?q=CLAP) | N/A |
-| 41 | [Grecia](http://twitter.com/search?q=Grecia) | N/A |
-| 42 | [Santa Catalina](http://twitter.com/search?q=Santa+Catalina) | N/A |
-| 43 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 44 | [Jota Pe](http://twitter.com/search?q=Jota+Pe) | N/A |
-| 45 | [Drake Bell](http://twitter.com/search?q=Drake+Bell) | N/A |
-| 46 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 47 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 48 | [Meza](http://twitter.com/search?q=Meza) | N/A |
-| 49 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 50 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
+| 1 | [#SurvivorLaIsla](http://twitter.com/search?q=%23SurvivorLaIsla) | N/A |
+| 2 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 3 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 4 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 5 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 6 | [James Rodríguez](http://twitter.com/search?q=James+Rodr%c3%adguez) | N/A |
+| 7 | [Times](http://twitter.com/search?q=Times) | N/A |
+| 8 | [SECUESTRADOS](http://twitter.com/search?q=SECUESTRADOS) | N/A |
+| 9 | [Uscategui](http://twitter.com/search?q=Uscategui) | N/A |
+| 10 | [Bacca](http://twitter.com/search?q=Bacca) | Bacca is a slang term used to refer to someone who is cool, confident, and stylish. It is derived from the Italian word baccano, which means “noise” or “commotion.” |
+| 11 | [SECUESTRO](http://twitter.com/search?q=SECUESTRO) | N/A |
+| 12 | [Influyente](http://twitter.com/search?q=Influyente) | N/A |
+| 13 | [Boric](http://twitter.com/search?q=Boric) | N/A |
+| 14 | [La Vieja](http://twitter.com/search?q=La+Vieja) | N/A |
+| 15 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 16 | [#NuestraRealidadEs](http://twitter.com/search?q=%23NuestraRealidadEs) | N/A |
+| 17 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 18 | [Revista Time](http://twitter.com/search?q=Revista+Time) | N/A |
+| 19 | [#DiaInternacionalDelBeso](http://twitter.com/search?q=%23DiaInternacionalDelBeso) | N/A |
+| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 21 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
+| 22 | [Carulla](http://twitter.com/search?q=Carulla) | N/A |
+| 23 | [El Alambrado](http://twitter.com/search?q=El+Alambrado) | N/A |
+| 24 | [Influencia](http://twitter.com/search?q=Influencia) | N/A |
+| 25 | [Escuela Nacional del Deporte](http://twitter.com/search?q=Escuela+Nacional+del+Deporte) | N/A |
+| 26 | [Cali](http://twitter.com/search?q=Cali) | N/A |
+| 27 | [Mapiripan](http://twitter.com/search?q=Mapiripan) | N/A |
+| 28 | [Abogade](http://twitter.com/search?q=Abogade) | N/A |
+| 29 | [Carlos Daniel Hidalgo](http://twitter.com/search?q=Carlos+Daniel+Hidalgo) | N/A |
+| 30 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 31 | [Quindío](http://twitter.com/search?q=Quind%c3%ado) | N/A |
+| 32 | [#saquelargowin](http://twitter.com/search?q=%23saquelargowin) | N/A |
+| 33 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 34 | [Santrich](http://twitter.com/search?q=Santrich) | N/A |
+| 35 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
+| 36 | [Escudero](http://twitter.com/search?q=Escudero) | N/A |
+| 37 | [Mantilla](http://twitter.com/search?q=Mantilla) | N/A |
+| 38 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
+| 39 | [José Fernando Arroyo](http://twitter.com/search?q=Jos%c3%a9+Fernando+Arroyo) | N/A |
+| 40 | [Alcocer](http://twitter.com/search?q=Alcocer) | N/A |
+| 41 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 42 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 43 | [Sanabria](http://twitter.com/search?q=Sanabria) | N/A |
+| 44 | [Retenidos](http://twitter.com/search?q=Retenidos) | N/A |
+| 45 | [Zidane](http://twitter.com/search?q=Zidane) | Zidane is a French surname, derived from the Arabic name Ziyad. It is most famously associated with French football player Zinedine Zidane, who is widely regarded as one of the greatest players of all time. The name can also refer to his son, Enzo Zidane, who is also a professional footballer. |
+| 46 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
+| 47 | [Freddy Rincón](http://twitter.com/search?q=Freddy+Rinc%c3%b3n) | N/A |
+| 48 | [Racero](http://twitter.com/search?q=Racero) | N/A |
+| 49 | [Maza](http://twitter.com/search?q=Maza) | N/A |
+| 50 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
 
 
 

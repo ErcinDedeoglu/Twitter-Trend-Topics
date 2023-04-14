@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-14 00:27:02 UTC`
+📆 Last Updated: `2023-04-14 01:43:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,36 +33,36 @@ This is top 50 for [Poland](</Poland>)
 | 16 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 17 | [Kolejorz](http://twitter.com/search?q=Kolejorz) | N/A |
 | 18 | [MiG-29](http://twitter.com/search?q=MiG-29) | N/A |
-| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 20 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 21 | [Gliński](http://twitter.com/search?q=Gli%c5%84ski) | N/A |
-| 22 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 23 | [Violi](http://twitter.com/search?q=Violi) | N/A |
-| 24 | [Rowerzysta](http://twitter.com/search?q=Rowerzysta) | N/A |
-| 25 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 26 | [Raua](http://twitter.com/search?q=Raua) | N/A |
-| 27 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
-| 28 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 29 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
-| 30 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
-| 31 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
-| 32 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 33 | [Pentagonu](http://twitter.com/search?q=Pentagonu) | N/A |
-| 34 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
-| 35 | [Lasów Państwowych](http://twitter.com/search?q=Las%c3%b3w+Pa%c5%84stwowych) | N/A |
-| 36 | [Ministra Edukacji](http://twitter.com/search?q=Ministra+Edukacji) | N/A |
-| 37 | [Franek](http://twitter.com/search?q=Franek) | N/A |
-| 38 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
-| 39 | [Ligi Konferencji](http://twitter.com/search?q=Ligi+Konferencji) | N/A |
-| 40 | [Marii Kaczyńskiej](http://twitter.com/search?q=Marii+Kaczy%c5%84skiej) | N/A |
-| 41 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 42 | [Nauki](http://twitter.com/search?q=Nauki) | N/A |
-| 43 | [Legię](http://twitter.com/search?q=Legi%c4%99) | N/A |
-| 44 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
-| 45 | [keita](http://twitter.com/search?q=keita) | N/A |
-| 46 | [Dagerstala](http://twitter.com/search?q=Dagerstala) | N/A |
-| 47 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
-| 48 | [diduszko](http://twitter.com/search?q=diduszko) | N/A |
+| 19 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
+| 20 | [Violi](http://twitter.com/search?q=Violi) | N/A |
+| 21 | [rowerzysta](http://twitter.com/search?q=rowerzysta) | N/A |
+| 22 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 23 | [Raua](http://twitter.com/search?q=Raua) | N/A |
+| 24 | [NKWD](http://twitter.com/search?q=NKWD) | N/A |
+| 25 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 26 | [Grabowski](http://twitter.com/search?q=Grabowski) | N/A |
+| 27 | [Louisa](http://twitter.com/search?q=Louisa) | N/A |
+| 28 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 29 | [Pentagonu](http://twitter.com/search?q=Pentagonu) | N/A |
+| 30 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 31 | [lasów państwowych](http://twitter.com/search?q=las%c3%b3w+pa%c5%84stwowych) | N/A |
+| 32 | [Ministra Edukacji](http://twitter.com/search?q=Ministra+Edukacji) | N/A |
+| 33 | [franek](http://twitter.com/search?q=franek) | N/A |
+| 34 | [Lasy Państwowe](http://twitter.com/search?q=Lasy+Pa%c5%84stwowe) | N/A |
+| 35 | [ligi konferencji](http://twitter.com/search?q=ligi+konferencji) | N/A |
+| 36 | [marii kaczyńskiej](http://twitter.com/search?q=marii+kaczy%c5%84skiej) | N/A |
+| 37 | [Florencji](http://twitter.com/search?q=Florencji) | N/A |
+| 38 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 39 | [Nauki](http://twitter.com/search?q=Nauki) | N/A |
+| 40 | [Legię](http://twitter.com/search?q=Legi%c4%99) | N/A |
+| 41 | [Chorwacji](http://twitter.com/search?q=Chorwacji) | N/A |
+| 42 | [keita](http://twitter.com/search?q=keita) | N/A |
+| 43 | [Dagerstala](http://twitter.com/search?q=Dagerstala) | N/A |
+| 44 | [Bartka](http://twitter.com/search?q=Bartka) | N/A |
+| 45 | [diduszko](http://twitter.com/search?q=diduszko) | N/A |
+| 46 | [Atlantic Council](http://twitter.com/search?q=Atlantic+Council) | N/A |
+| 47 | [Gwardii Narodowej](http://twitter.com/search?q=Gwardii+Narodowej) | N/A |
+| 48 | [HBO Max](http://twitter.com/search?q=HBO+Max) | HBO Max is a streaming service from WarnerMedia, the parent company of HBO. It offers a wide selection of movies, TV shows, and original content from HBO, Warner Bros., DC Entertainment, Cartoon Network, Adult Swim, and more. The service also includes access to HBO Now and Cinemax. The name "Max" is derived from the Latin word for "greatest," emphasizing the breadth of content available on the platform. |
 
 
 
