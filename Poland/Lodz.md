@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-15 06:17:50 UTC`
+📆 Last Updated: `2023-04-15 07:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 2 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 3 | [#lpoacf](http://twitter.com/search?q=%23lpoacf) | N/A |
-| 4 | [#lpofio](http://twitter.com/search?q=%23lpofio) | N/A |
-| 5 | [#wissta](http://twitter.com/search?q=%23wissta) | N/A |
-| 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 7 | [Ewangelię](http://twitter.com/search?q=Ewangeli%c4%99) | N/A |
-| 8 | [bednarek](http://twitter.com/search?q=bednarek) | N/A |
-| 9 | [fiorentiny](http://twitter.com/search?q=fiorentiny) | N/A |
-| 10 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 11 | [Żyro](http://twitter.com/search?q=%c5%bbyro) | N/A |
-| 12 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 13 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 1 | [#lpoacf](http://twitter.com/search?q=%23lpoacf) | N/A |
+| 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 3 | [#lpofio](http://twitter.com/search?q=%23lpofio) | N/A |
+| 4 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 5 | [#ZAGGÓR](http://twitter.com/search?q=%23ZAGG%c3%93R) | N/A |
+| 6 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 7 | [#WISSTA](http://twitter.com/search?q=%23WISSTA) | N/A |
+| 8 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 10 | [fiorentiny](http://twitter.com/search?q=fiorentiny) | N/A |
+| 11 | [Polska](http://twitter.com/search?q=Polska) | N/A |
+| 12 | [Żyro](http://twitter.com/search?q=%c5%bbyro) | N/A |
+| 13 | [Lech](http://twitter.com/search?q=Lech) | N/A |
 | 14 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 15 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
-| 16 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 17 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 18 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 15 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
+| 16 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 17 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 18 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
 | 19 | [Młyński](http://twitter.com/search?q=M%c5%82y%c5%84ski) | N/A |
-| 20 | [Tomasz L.](http://twitter.com/search?q=Tomasz+L.) | N/A |
-| 21 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | N/A |
-| 22 | [salamona](http://twitter.com/search?q=salamona) | N/A |
-| 23 | [rodado](http://twitter.com/search?q=rodado) | N/A |
-| 24 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 25 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 26 | [chrztu polski](http://twitter.com/search?q=chrztu+polski) | N/A |
-| 27 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 28 | [amsterdamie](http://twitter.com/search?q=amsterdamie) | N/A |
-| 29 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
-| 30 | [Pani Profesor](http://twitter.com/search?q=Pani+Profesor) | N/A |
-| 31 | [Chin](http://twitter.com/search?q=Chin) | N/A |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 33 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
-| 34 | [Marcin Kamiński](http://twitter.com/search?q=Marcin+Kami%c5%84ski) | N/A |
-| 35 | [weronika falkowska](http://twitter.com/search?q=weronika+falkowska) | N/A |
-| 36 | [junca](http://twitter.com/search?q=junca) | N/A |
-| 37 | [starzyński](http://twitter.com/search?q=starzy%c5%84ski) | N/A |
-| 38 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 39 | [zaksy](http://twitter.com/search?q=zaksy) | N/A |
-| 40 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 41 | [casy](http://twitter.com/search?q=casy) | N/A |
-| 42 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 43 | [velde](http://twitter.com/search?q=velde) | N/A |
-| 44 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
-| 45 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 46 | [jowisza](http://twitter.com/search?q=jowisza) | N/A |
-| 47 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
-| 48 | [Tachi](http://twitter.com/search?q=Tachi) | N/A |
-| 49 | [Suweren](http://twitter.com/search?q=Suweren) | N/A |
+| 20 | [salamona](http://twitter.com/search?q=salamona) | N/A |
+| 21 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 22 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 23 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
+| 24 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 25 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
+| 26 | [lubinie](http://twitter.com/search?q=lubinie) | N/A |
+| 27 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 28 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 29 | [Aniu](http://twitter.com/search?q=Aniu) | N/A |
+| 30 | [starzyński](http://twitter.com/search?q=starzy%c5%84ski) | N/A |
+| 31 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
+| 32 | [Marcin Kamiński](http://twitter.com/search?q=Marcin+Kami%c5%84ski) | N/A |
+| 33 | [zaksy](http://twitter.com/search?q=zaksy) | N/A |
+| 34 | [oPOzycja](http://twitter.com/search?q=oPOzycja) | N/A |
+| 35 | [Miedwiediew](http://twitter.com/search?q=Miedwiediew) | N/A |
+| 36 | [Bednarek](http://twitter.com/search?q=Bednarek) | N/A |
+| 37 | [Junca](http://twitter.com/search?q=Junca) | N/A |
+| 38 | [velde](http://twitter.com/search?q=velde) | N/A |
+| 39 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
+| 40 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 41 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
+| 42 | [PiSu](http://twitter.com/search?q=PiSu) | N/A |
+| 43 | [Sobol](http://twitter.com/search?q=Sobol) | N/A |
+| 44 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 45 | [Tachi](http://twitter.com/search?q=Tachi) | N/A |
+| 46 | [Tomasz L.](http://twitter.com/search?q=Tomasz+L.) | N/A |
+| 47 | [Ewangelię](http://twitter.com/search?q=Ewangeli%c4%99) | N/A |
+| 48 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
+| 49 | [Polish](http://twitter.com/search?q=Polish) | N/A |
 
 
 

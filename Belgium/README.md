@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-15 06:18:24 UTC`
+📆 Last Updated: `2023-04-15 07:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Belgium
 | ------- | ------------ | ------------ |
 | 1 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
 | 2 | [#STACHA](http://twitter.com/search?q=%23STACHA) | N/A |
-| 3 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
-| 4 | [#gntwhu](http://twitter.com/search?q=%23gntwhu) | N/A |
-| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 6 | [#Andaz](http://twitter.com/search?q=%23Andaz) | N/A |
-| 7 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 8 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 9 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
-| 10 | [Emond](http://twitter.com/search?q=Emond) | N/A |
-| 11 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 12 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 13 | [Jens](http://twitter.com/search?q=Jens) | N/A |
-| 14 | [telenet](http://twitter.com/search?q=telenet) | N/A |
-| 15 | [Champignon](http://twitter.com/search?q=Champignon) | N/A |
-| 16 | [Coely](http://twitter.com/search?q=Coely) | N/A |
-| 17 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 18 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 19 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
-| 20 | [Clerfayt](http://twitter.com/search?q=Clerfayt) | N/A |
-| 21 | [Coucou](http://twitter.com/search?q=Coucou) | N/A |
-| 22 | [Capac](http://twitter.com/search?q=Capac) | N/A |
-| 23 | [bpost](http://twitter.com/search?q=bpost) | N/A |
-| 24 | [auvio](http://twitter.com/search?q=auvio) | N/A |
-| 25 | [Premier De Croo](http://twitter.com/search?q=Premier+De+Croo) | N/A |
-| 26 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 27 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 28 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 29 | [Studenten](http://twitter.com/search?q=Studenten) | N/A |
-| 30 | [Sterk](http://twitter.com/search?q=Sterk) | N/A |
-| 31 | [londen](http://twitter.com/search?q=londen) | N/A |
-| 32 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 33 | [Marine](http://twitter.com/search?q=Marine) | N/A |
-| 34 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 35 | [Le Mr](http://twitter.com/search?q=Le+Mr) | N/A |
-| 36 | [Boniface](http://twitter.com/search?q=Boniface) | N/A |
-| 37 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 38 | [Charleroi](http://twitter.com/search?q=Charleroi) | N/A |
-| 39 | [rzoska](http://twitter.com/search?q=rzoska) | N/A |
-| 40 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 41 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 42 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 43 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 44 | [lubbeek](http://twitter.com/search?q=lubbeek) | N/A |
-| 45 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 46 | [jong groen](http://twitter.com/search?q=jong+groen) | N/A |
-| 47 | [de vadder](http://twitter.com/search?q=de+vadder) | N/A |
-| 48 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 49 | [Money](http://twitter.com/search?q=Money) | N/A |
-| 50 | [Hungarian](http://twitter.com/search?q=Hungarian) | N/A |
+| 3 | [#gntwhu](http://twitter.com/search?q=%23gntwhu) | N/A |
+| 4 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 5 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
+| 6 | [Emond](http://twitter.com/search?q=Emond) | N/A |
+| 7 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 8 | [#Andaz](http://twitter.com/search?q=%23Andaz) | N/A |
+| 9 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 10 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 11 | [Champignon](http://twitter.com/search?q=Champignon) | N/A |
+| 12 | [Coely](http://twitter.com/search?q=Coely) | N/A |
+| 13 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 14 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 15 | [Boniface](http://twitter.com/search?q=Boniface) | N/A |
+| 16 | [Charleroi](http://twitter.com/search?q=Charleroi) | N/A |
+| 17 | [auvio](http://twitter.com/search?q=auvio) | N/A |
+| 18 | [Capac](http://twitter.com/search?q=Capac) | N/A |
+| 19 | [telenet](http://twitter.com/search?q=telenet) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [Leuk](http://twitter.com/search?q=Leuk) | N/A |
+| 22 | [België](http://twitter.com/search?q=Belgi%c3%ab) | N/A |
+| 23 | [Conseil Constitutionnel](http://twitter.com/search?q=Conseil+Constitutionnel) | N/A |
+| 24 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 25 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 26 | [rzoska](http://twitter.com/search?q=rzoska) | N/A |
+| 27 | [Bedankt](http://twitter.com/search?q=Bedankt) | N/A |
+| 28 | [Groen](http://twitter.com/search?q=Groen) | N/A |
+| 29 | [Bpost](http://twitter.com/search?q=Bpost) | N/A |
+| 30 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 31 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 32 | [Frankrijk](http://twitter.com/search?q=Frankrijk) | N/A |
+| 33 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 34 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 35 | [Wallonië](http://twitter.com/search?q=Walloni%c3%ab) | N/A |
+| 36 | [Andy](http://twitter.com/search?q=Andy) | N/A |
+| 37 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
+| 38 | [Londen](http://twitter.com/search?q=Londen) | N/A |
+| 39 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 40 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 41 | [Namur](http://twitter.com/search?q=Namur) | N/A |
+| 42 | [Hungarian](http://twitter.com/search?q=Hungarian) | N/A |
+| 43 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 44 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 45 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 46 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 47 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 48 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 49 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 50 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
 
 
 

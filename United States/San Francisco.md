@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-04-15 06:18:22 UTC`
+📆 Last Updated: `2023-04-15 07:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 2 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
+| 1 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
+| 2 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
 | 3 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 4 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 4 | [Sahara](http://twitter.com/search?q=Sahara) | N/A |
 | 5 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
-| 6 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
-| 7 | [Yuma](http://twitter.com/search?q=Yuma) | N/A |
-| 8 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 10 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 11 | [Lakers in 6](http://twitter.com/search?q=Lakers+in+6) | N/A |
-| 12 | [Dodger Stadium](http://twitter.com/search?q=Dodger+Stadium) | N/A |
-| 13 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 14 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 15 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 16 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
-| 17 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 18 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 19 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 20 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 21 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 22 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 23 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 24 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 25 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
-| 26 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 28 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 29 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 30 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 31 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 32 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 33 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 34 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 35 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 36 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 37 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 38 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 39 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 40 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 41 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
-| 42 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 43 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 44 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 45 | [AARON DESSNER](http://twitter.com/search?q=AARON+DESSNER) | N/A |
-| 46 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 47 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
-| 48 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 49 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 6 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 7 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 8 | [Yuma](http://twitter.com/search?q=Yuma) | N/A |
+| 9 | [Cody Bellinger](http://twitter.com/search?q=Cody+Bellinger) | N/A |
+| 10 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 11 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 12 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 13 | [Dodger Stadium](http://twitter.com/search?q=Dodger+Stadium) | N/A |
+| 14 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 15 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 16 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 17 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 18 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 19 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 20 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
+| 21 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 22 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
+| 23 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
+| 24 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 25 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 26 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 27 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 28 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 30 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 31 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 32 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 33 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 34 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 35 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 36 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
+| 37 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 38 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 39 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 40 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 41 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 42 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 43 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 44 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 45 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 46 | [Low Life](http://twitter.com/search?q=Low+Life) | N/A |
+| 47 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 48 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 49 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 50 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
 
 
 

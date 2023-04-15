@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-04-15 06:18:28 UTC`
+📆 Last Updated: `2023-04-15 07:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 2 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 3 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
-| 4 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
-| 5 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 6 | [MIL VECES TERMINATOR](http://twitter.com/search?q=MIL+VECES+TERMINATOR) | N/A |
-| 7 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 8 | [Damon Albarn](http://twitter.com/search?q=Damon+Albarn) | N/A |
-| 9 | [#DeSupervivencia](http://twitter.com/search?q=%23DeSupervivencia) | N/A |
-| 10 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 11 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 12 | [#LLAFinalEnChile](http://twitter.com/search?q=%23LLAFinalEnChile) | N/A |
-| 13 | [JOAQUIN YA ES JAMIE](http://twitter.com/search?q=JOAQUIN+YA+ES+JAMIE) | N/A |
-| 14 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 15 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
-| 16 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 17 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 18 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 19 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 20 | [Alexis Canelo](http://twitter.com/search?q=Alexis+Canelo) | N/A |
-| 21 | [#READYTOBEinSEOUL_D1](http://twitter.com/search?q=%23READYTOBEinSEOUL_D1) | N/A |
-| 22 | [NAVEGANDO CON ALONG](http://twitter.com/search?q=NAVEGANDO+CON+ALONG) | N/A |
-| 23 | [#BeckyOurAngel](http://twitter.com/search?q=%23BeckyOurAngel) | N/A |
-| 24 | [Tormenta](http://twitter.com/search?q=Tormenta) | N/A |
-| 25 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
-| 26 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 27 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 28 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 29 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 30 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 31 | [McTrio](http://twitter.com/search?q=McTrio) | N/A |
-| 32 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 33 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
-| 34 | [Junta](http://twitter.com/search?q=Junta) | N/A |
-| 35 | [Académicos](http://twitter.com/search?q=Acad%c3%a9micos) | N/A |
-| 36 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 37 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 38 | [Guadiana](http://twitter.com/search?q=Guadiana) | N/A |
-| 39 | [ESTEMOS DONDE ESTEMOS](http://twitter.com/search?q=ESTEMOS+DONDE+ESTEMOS) | N/A |
-| 40 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 41 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 42 | [Cuauhtémoc Blanco](http://twitter.com/search?q=Cuauht%c3%a9moc+Blanco) | N/A |
-| 43 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 44 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
-| 45 | [Márquez](http://twitter.com/search?q=M%c3%a1rquez) | N/A |
-| 46 | [Chapitos](http://twitter.com/search?q=Chapitos) | N/A |
-| 47 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 48 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 49 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 50 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 2 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 3 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 4 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 5 | [#WelcomeBackMcLeeKnow](http://twitter.com/search?q=%23WelcomeBackMcLeeKnow) | N/A |
+| 6 | [#여긴_리노의_나라야](http://twitter.com/search?q=%23%ec%97%ac%ea%b8%b4_%eb%a6%ac%eb%85%b8%ec%9d%98_%eb%82%98%eb%9d%bc%ec%95%bc) | N/A |
+| 7 | [WELCOME TO LEEKNOWCORE](http://twitter.com/search?q=WELCOME+TO+LEEKNOWCORE) | "WELCOME TO LEEKNOWCORE" is a greeting used to welcome someone to the Leeknowcore platform, which is an online learning platform that provides courses and resources for people to learn about technology. The phrase is meant to be a warm and friendly welcome to new users of the platform. |
+| 8 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 9 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
+| 10 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 11 | [La Santa](http://twitter.com/search?q=La+Santa) | N/A |
+| 12 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
+| 13 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 14 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 15 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 16 | [MIL VECES TERMINATOR](http://twitter.com/search?q=MIL+VECES+TERMINATOR) | N/A |
+| 17 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 18 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 19 | [JOAQUIN YA ES JAMIE](http://twitter.com/search?q=JOAQUIN+YA+ES+JAMIE) | N/A |
+| 20 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 21 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 22 | [#LLAFinalEnChile](http://twitter.com/search?q=%23LLAFinalEnChile) | N/A |
+| 23 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 24 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 25 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 26 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 27 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 28 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 29 | [Alexis Canelo](http://twitter.com/search?q=Alexis+Canelo) | N/A |
+| 30 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 31 | [NAVEGANDO CON ALONG](http://twitter.com/search?q=NAVEGANDO+CON+ALONG) | N/A |
+| 32 | [Guadiana](http://twitter.com/search?q=Guadiana) | N/A |
+| 33 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 34 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 35 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
+| 36 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 37 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 38 | [McTrio](http://twitter.com/search?q=McTrio) | N/A |
+| 39 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 40 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
+| 41 | [Puebla](http://twitter.com/search?q=Puebla) | Puebla is a city in Mexico. It is the capital of the state of Puebla and is located in Central Mexico, about 70 miles southeast of Mexico City. The name Puebla comes from the Nahuatl language and means “place of the people” or “people’s place.” |
+| 42 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 43 | [Junta](http://twitter.com/search?q=Junta) | N/A |
+| 44 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 45 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 46 | [Clásico](http://twitter.com/search?q=Cl%c3%a1sico) | N/A |
+| 47 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 48 | [ESTEMOS DONDE ESTEMOS](http://twitter.com/search?q=ESTEMOS+DONDE+ESTEMOS) | N/A |
+| 49 | [Cuauhtémoc Blanco](http://twitter.com/search?q=Cuauht%c3%a9moc+Blanco) | N/A |
+| 50 | [Línea 12](http://twitter.com/search?q=L%c3%adnea+12) | N/A |
 
 
 

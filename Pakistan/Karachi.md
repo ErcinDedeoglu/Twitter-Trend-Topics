@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-04-15 06:18:11 UTC`
+📆 Last Updated: `2023-04-15 07:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PakvsNz](http://twitter.com/search?q=%23PakvsNz) | N/A |
-| 2 | [#ہردشمن_نبی_سےاعلان_جنگ](http://twitter.com/search?q=%23%db%81%d8%b1%d8%af%d8%b4%d9%85%d9%86_%d9%86%d8%a8%db%8c_%d8%b3%db%92%d8%a7%d8%b9%d9%84%d8%a7%d9%86_%d8%ac%d9%86%da%af) | N/A |
-| 3 | [#بنے_گا_نیا_پاکستان](http://twitter.com/search?q=%23%d8%a8%d9%86%db%92_%da%af%d8%a7_%d9%86%db%8c%d8%a7_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86) | N/A |
-| 4 | [#WeStandwithConstitution](http://twitter.com/search?q=%23WeStandwithConstitution) | N/A |
-| 5 | [#BajaurStandForPeace](http://twitter.com/search?q=%23BajaurStandForPeace) | N/A |
-| 6 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 7 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 1 | [#ہردشمن_نبی_سےاعلان_جنگ](http://twitter.com/search?q=%23%db%81%d8%b1%d8%af%d8%b4%d9%85%d9%86_%d9%86%d8%a8%db%8c_%d8%b3%db%92%d8%a7%d8%b9%d9%84%d8%a7%d9%86_%d8%ac%d9%86%da%af) | N/A |
+| 2 | [#بنے_گا_نیا_پاکستان](http://twitter.com/search?q=%23%d8%a8%d9%86%db%92_%da%af%d8%a7_%d9%86%db%8c%d8%a7_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86) | N/A |
+| 3 | [#PakvsNz](http://twitter.com/search?q=%23PakvsNz) | N/A |
+| 4 | [#ReverseBajwaDecisions](http://twitter.com/search?q=%23ReverseBajwaDecisions) | N/A |
+| 5 | [#AsimMunir](http://twitter.com/search?q=%23AsimMunir) | N/A |
+| 6 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 7 | [shaheen shah afridi](http://twitter.com/search?q=shaheen+shah+afridi) | N/A |
 | 8 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 9 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 10 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 11 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 12 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
-| 13 | [shaheen shah afridi](http://twitter.com/search?q=shaheen+shah+afridi) | N/A |
-| 14 | [Zaman](http://twitter.com/search?q=Zaman) | N/A |
+| 9 | [Hamara Pakistan](http://twitter.com/search?q=Hamara+Pakistan) | N/A |
+| 10 | [Zaman](http://twitter.com/search?q=Zaman) | N/A |
+| 11 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
+| 12 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
+| 13 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 14 | [Bank Al Habib](http://twitter.com/search?q=Bank+Al+Habib) | N/A |
 | 15 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 16 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
-| 17 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 18 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 19 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 20 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
-| 21 | [Bank Al Habib](http://twitter.com/search?q=Bank+Al+Habib) | N/A |
-| 22 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 23 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
-| 24 | [Friday of Ramadan](http://twitter.com/search?q=Friday+of+Ramadan) | N/A |
-| 25 | [zong](http://twitter.com/search?q=zong) | N/A |
+| 16 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 17 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 18 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 19 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 20 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 21 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 22 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 23 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
+| 24 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 25 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
 | 26 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 27 | [Speed](http://twitter.com/search?q=Speed) | N/A |
-| 28 | [Milne](http://twitter.com/search?q=Milne) | N/A |
-| 29 | [Sherry Rehman](http://twitter.com/search?q=Sherry+Rehman) | N/A |
-| 30 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 31 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 32 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 33 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 34 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 35 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 36 | [Indians](http://twitter.com/search?q=Indians) | N/A |
-| 37 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 38 | [Khoob](http://twitter.com/search?q=Khoob) | N/A |
-| 39 | [Politicians](http://twitter.com/search?q=Politicians) | N/A |
-| 40 | [Ramzan Habit Tracker](http://twitter.com/search?q=Ramzan+Habit+Tracker) | N/A |
-| 41 | [Beshaq](http://twitter.com/search?q=Beshaq) | N/A |
-| 42 | [Salute](http://twitter.com/search?q=Salute) | N/A |
-| 43 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 44 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 45 | [May Allah SWT](http://twitter.com/search?q=May+Allah+SWT) | N/A |
-| 46 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
-| 47 | [Thankyouu](http://twitter.com/search?q=Thankyouu) | N/A |
-| 48 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 49 | [Absolutely Right](http://twitter.com/search?q=Absolutely+Right) | N/A |
-| 50 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 27 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
+| 28 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 29 | [Centre](http://twitter.com/search?q=Centre) | N/A |
+| 30 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
+| 31 | [Speed](http://twitter.com/search?q=Speed) | N/A |
+| 32 | [Mashion Bazaar](http://twitter.com/search?q=Mashion+Bazaar) | N/A |
+| 33 | [Asif Ali Zardari](http://twitter.com/search?q=Asif+Ali+Zardari) | N/A |
+| 34 | [APTMA](http://twitter.com/search?q=APTMA) | N/A |
+| 35 | [Sherry Rehman](http://twitter.com/search?q=Sherry+Rehman) | N/A |
+| 36 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 38 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 39 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 40 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 41 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 42 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
+| 43 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 44 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 45 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 46 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 47 | [Khoob](http://twitter.com/search?q=Khoob) | N/A |
+| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 49 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 50 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-15 06:18:07 UTC`
+📆 Last Updated: `2023-04-15 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ThaboBester](http://twitter.com/search?q=%23ThaboBester) | N/A |
-| 2 | [#DrNandiphaMagudumana](http://twitter.com/search?q=%23DrNandiphaMagudumana) | N/A |
-| 3 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 4 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
-| 5 | [#TTOM2023](http://twitter.com/search?q=%23TTOM2023) | N/A |
-| 6 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
-| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 2 | [#TTOM2023](http://twitter.com/search?q=%23TTOM2023) | N/A |
+| 3 | [#DrNandiphaMagudumana](http://twitter.com/search?q=%23DrNandiphaMagudumana) | N/A |
+| 4 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 5 | [Gerda Steyn](http://twitter.com/search?q=Gerda+Steyn) | N/A |
+| 6 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 7 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
 | 8 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
-| 9 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
-| 10 | [congratulations khosi](http://twitter.com/search?q=congratulations+khosi) | N/A |
-| 11 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
-| 12 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 13 | [the tsatsii effect](http://twitter.com/search?q=the+tsatsii+effect) | N/A |
-| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Bara](http://twitter.com/search?q=Bara) | N/A |
-| 16 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 17 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
-| 18 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 19 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 20 | [Mr Jones](http://twitter.com/search?q=Mr+Jones) | N/A |
-| 21 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 22 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 23 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 24 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 25 | [7de Laan](http://twitter.com/search?q=7de+Laan) | N/A |
-| 26 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
-| 27 | [Damelin](http://twitter.com/search?q=Damelin) | N/A |
-| 28 | [Madhuku](http://twitter.com/search?q=Madhuku) | N/A |
-| 29 | [Manyi](http://twitter.com/search?q=Manyi) | N/A |
-| 30 | [Size 6](http://twitter.com/search?q=Size+6) | N/A |
-| 31 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 32 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 33 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 34 | [Obed](http://twitter.com/search?q=Obed) | N/A |
-| 35 | [SA ID](http://twitter.com/search?q=SA+ID) | N/A |
-| 36 | [Al Jazeera](http://twitter.com/search?q=Al+Jazeera) | N/A |
-| 37 | [Teko](http://twitter.com/search?q=Teko) | N/A |
-| 38 | [graceful khosi](http://twitter.com/search?q=graceful+khosi) | N/A |
-| 39 | [Bomma](http://twitter.com/search?q=Bomma) | N/A |
-| 40 | [Grade 5](http://twitter.com/search?q=Grade+5) | N/A |
-| 41 | [Raspberry](http://twitter.com/search?q=Raspberry) | N/A |
-| 42 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 43 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 44 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 45 | [My Friend](http://twitter.com/search?q=My+Friend) | N/A |
-| 46 | [Aaron Motsoaledi](http://twitter.com/search?q=Aaron+Motsoaledi) | N/A |
+| 9 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
+| 10 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
+| 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 12 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 13 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 14 | [Bara](http://twitter.com/search?q=Bara) | N/A |
+| 15 | [CONGRATULATIONS KHOSI](http://twitter.com/search?q=CONGRATULATIONS+KHOSI) | N/A |
+| 16 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 17 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 18 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 19 | [Mr Jones](http://twitter.com/search?q=Mr+Jones) | N/A |
+| 20 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
+| 21 | [graceful khosi](http://twitter.com/search?q=graceful+khosi) | N/A |
+| 22 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 23 | [Khune](http://twitter.com/search?q=Khune) | Khune is a term used in South Africa to refer to a traditional healer or shaman. It is derived from the Zulu word for "wise one" and is used to describe someone who has knowledge of healing practices, spiritual rituals, and divination. In English, it can be translated as "medicine man" or "witch doctor". |
+| 24 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
+| 25 | [Cele](http://twitter.com/search?q=Cele) | N/A |
+| 26 | [size 6](http://twitter.com/search?q=size+6) | N/A |
+| 27 | [Madhuku](http://twitter.com/search?q=Madhuku) | N/A |
+| 28 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 29 | [7de Laan](http://twitter.com/search?q=7de+Laan) | N/A |
+| 30 | [Al Jazeera](http://twitter.com/search?q=Al+Jazeera) | N/A |
+| 31 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 32 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
+| 33 | [dyantyi](http://twitter.com/search?q=dyantyi) | N/A |
+| 34 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 35 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 36 | [SA ID](http://twitter.com/search?q=SA+ID) | N/A |
+| 37 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
+| 38 | [tbangers 2k challenge](http://twitter.com/search?q=tbangers+2k+challenge) | N/A |
+| 39 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 40 | [Manyi](http://twitter.com/search?q=Manyi) | N/A |
+| 41 | [Damelin](http://twitter.com/search?q=Damelin) | N/A |
+| 42 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 43 | [Grade 5](http://twitter.com/search?q=Grade+5) | N/A |
+| 44 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 45 | [Zack](http://twitter.com/search?q=Zack) | N/A |
+| 46 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 47 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 48 | [Block 13](http://twitter.com/search?q=Block+13) | N/A |
-| 49 | [kgosi mampuru](http://twitter.com/search?q=kgosi+mampuru) | N/A |
+| 48 | [unfiltered with tsatsii](http://twitter.com/search?q=unfiltered+with+tsatsii) | N/A |
 
 
 

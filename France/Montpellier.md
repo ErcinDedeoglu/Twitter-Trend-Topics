@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-04-15 06:17:51 UTC`
+📆 Last Updated: `2023-04-15 07:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ConseilConstitutionnel](http://twitter.com/search?q=%23ConseilConstitutionnel) | N/A |
-| 2 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
-| 3 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
-| 4 | [#TFCOL](http://twitter.com/search?q=%23TFCOL) | N/A |
-| 5 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
-| 6 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 1 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
+| 2 | [#Conseil_Constitutionnel](http://twitter.com/search?q=%23Conseil_Constitutionnel) | N/A |
+| 3 | [#PasDeRetraitPasDeJO](http://twitter.com/search?q=%23PasDeRetraitPasDeJO) | N/A |
+| 4 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 5 | [#TFCOL](http://twitter.com/search?q=%23TFCOL) | N/A |
+| 6 | [#ReformeDesRetraites](http://twitter.com/search?q=%23ReformeDesRetraites) | N/A |
 | 7 | [Zaho](http://twitter.com/search?q=Zaho) | N/A |
-| 8 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 9 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 10 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 11 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 12 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
-| 13 | [martin lamotte](http://twitter.com/search?q=martin+lamotte) | N/A |
-| 14 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 15 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 16 | [Promulguer](http://twitter.com/search?q=Promulguer) | N/A |
-| 17 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 8 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
+| 9 | [Promulguer](http://twitter.com/search?q=Promulguer) | N/A |
+| 10 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 11 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
+| 12 | [martin lamotte](http://twitter.com/search?q=martin+lamotte) | N/A |
+| 13 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
+| 14 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 15 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 16 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 17 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
 | 18 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 19 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 20 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 21 | [Journal](http://twitter.com/search?q=Journal) | N/A |
-| 22 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 25 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
-| 26 | [Sages](http://twitter.com/search?q=Sages) | N/A |
-| 27 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 28 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 29 | [Le RIP](http://twitter.com/search?q=Le+RIP) | N/A |
-| 30 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
-| 31 | [Zera](http://twitter.com/search?q=Zera) | N/A |
+| 19 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 20 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 21 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 22 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 23 | [Varennes](http://twitter.com/search?q=Varennes) | N/A |
+| 24 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 25 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 26 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 27 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 28 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 29 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 30 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 31 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 32 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 33 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 34 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
-| 35 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 36 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 37 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 38 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 39 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 40 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 41 | [Juppé](http://twitter.com/search?q=Jupp%c3%a9) | N/A |
-| 42 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
-| 43 | [Sardoche](http://twitter.com/search?q=Sardoche) | N/A |
-| 44 | [Varennes](http://twitter.com/search?q=Varennes) | N/A |
-| 45 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 46 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 47 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 48 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 49 | [Le 15](http://twitter.com/search?q=Le+15) | N/A |
+| 33 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 34 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 35 | [Notre-Dame de Paris](http://twitter.com/search?q=Notre-Dame+de+Paris) | N/A |
+| 36 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 37 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 38 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 39 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 40 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 41 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 42 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 43 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 44 | [Journal](http://twitter.com/search?q=Journal) | N/A |
+| 45 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 46 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 47 | [Sages](http://twitter.com/search?q=Sages) | N/A |
+| 48 | [Adebayo](http://twitter.com/search?q=Adebayo) | N/A |
+| 49 | [Jacobins](http://twitter.com/search?q=Jacobins) | N/A |
+| 50 | [Falco](http://twitter.com/search?q=Falco) | N/A |
 
 
 

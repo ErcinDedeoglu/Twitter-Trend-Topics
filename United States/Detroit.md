@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-04-15 06:18:17 UTC`
+📆 Last Updated: `2023-04-15 07:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 2 | [Javy](http://twitter.com/search?q=Javy) | N/A |
-| 3 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 4 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 6 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 7 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 8 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 9 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 10 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
-| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 12 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 13 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 14 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 15 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 16 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
-| 17 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 18 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 19 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 21 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 22 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 23 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 24 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 25 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 26 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 27 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 28 | [#loveafterlockup](http://twitter.com/search?q=%23loveafterlockup) | #LoveAfterLockup is a reality television series that follows couples who have formed relationships while one of them is in prison. The show follows the couples as they reunite and attempt to make their relationships work after the release of the incarcerated partner. |
-| 29 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 1 | [#RepDetroit](http://twitter.com/search?q=%23RepDetroit) | N/A |
+| 2 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 3 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 4 | [Javy](http://twitter.com/search?q=Javy) | N/A |
+| 5 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 6 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 7 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 8 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 9 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 10 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 11 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
+| 12 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 13 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
+| 14 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
+| 15 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 16 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 17 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 18 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 19 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 20 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 21 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 22 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 23 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 24 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 25 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 26 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 27 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
+| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 29 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
 | 30 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 31 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 32 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
-| 33 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 34 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 35 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 36 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
-| 37 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 38 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 39 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 40 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 42 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 43 | [Whyte Fang](http://twitter.com/search?q=Whyte+Fang) | N/A |
-| 44 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 45 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 46 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 47 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 48 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 49 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 31 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 32 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 33 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 34 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 35 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 36 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 37 | [Low Life](http://twitter.com/search?q=Low+Life) | N/A |
+| 38 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 39 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 40 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 41 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
+| 42 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 43 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
+| 44 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 45 | [Happ](http://twitter.com/search?q=Happ) | N/A |
+| 46 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 47 | [Whyte Fang](http://twitter.com/search?q=Whyte+Fang) | N/A |
+| 48 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 49 | [Moscow Mule](http://twitter.com/search?q=Moscow+Mule) | N/A |
 
 
 
