@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-15 04:17:00 UTC`
+📆 Last Updated: `2023-04-15 05:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,44 +23,44 @@ This is top 50 for [France](</France>)
 | 6 | [Zaho](http://twitter.com/search?q=Zaho) | N/A |
 | 7 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
 | 8 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 9 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 10 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
-| 11 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 12 | [martin lamotte](http://twitter.com/search?q=martin+lamotte) | N/A |
-| 13 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
-| 14 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 15 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 16 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 17 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 18 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 19 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 21 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 23 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
-| 24 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 25 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 9 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
+| 10 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
+| 11 | [martin lamotte](http://twitter.com/search?q=martin+lamotte) | N/A |
+| 12 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 13 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 14 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
+| 15 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 16 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 17 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 19 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 20 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
+| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 22 | [Journal](http://twitter.com/search?q=Journal) | N/A |
+| 23 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 25 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
 | 26 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 27 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 28 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 29 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 30 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 27 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 28 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 29 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
+| 30 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 31 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
-| 32 | [Journal](http://twitter.com/search?q=Journal) | N/A |
-| 33 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
-| 34 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
-| 35 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
-| 36 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 37 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 38 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
-| 39 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 32 | [Céline](http://twitter.com/search?q=C%c3%a9line) | N/A |
+| 33 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
+| 34 | [BOTW](http://twitter.com/search?q=BOTW) | N/A |
+| 35 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 36 | [Caqueret](http://twitter.com/search?q=Caqueret) | N/A |
+| 37 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 38 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 39 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
 | 40 | [Tolisso](http://twitter.com/search?q=Tolisso) | N/A |
-| 41 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
-| 42 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 43 | [Jacobins](http://twitter.com/search?q=Jacobins) | N/A |
-| 44 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 45 | [Brawks](http://twitter.com/search?q=Brawks) | N/A |
-| 46 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 41 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 42 | [Jacobins](http://twitter.com/search?q=Jacobins) | N/A |
+| 43 | [Adebayo](http://twitter.com/search?q=Adebayo) | N/A |
+| 44 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 45 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 46 | [brawks](http://twitter.com/search?q=brawks) | N/A |
 | 47 | [Sandrine Rousseau](http://twitter.com/search?q=Sandrine+Rousseau) | N/A |
 
 

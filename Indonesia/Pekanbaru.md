@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-04-15 04:17:07 UTC`
+📆 Last Updated: `2023-04-15 05:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
-| 2 | [#GanjarBerikanKemajuan](http://twitter.com/search?q=%23GanjarBerikanKemajuan) | N/A |
-| 3 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 2 | [#GalaxyA54](http://twitter.com/search?q=%23GalaxyA54) | N/A |
+| 3 | [#ajaibluckyfriday](http://twitter.com/search?q=%23ajaibluckyfriday) | N/A |
 | 4 | [Bima](http://twitter.com/search?q=Bima) | N/A |
 | 5 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 6 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 7 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
-| 8 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
-| 9 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 6 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 7 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
+| 8 | [APBN](http://twitter.com/search?q=APBN) | N/A |
+| 9 | [GULF READY TO HK](http://twitter.com/search?q=GULF+READY+TO+HK) | N/A |
 | 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
-| 12 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
-| 13 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 14 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 15 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 11 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
+| 12 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
+| 13 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
+| 14 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
+| 15 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
 | 16 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
-| 17 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 18 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 19 | [Yana](http://twitter.com/search?q=Yana) | N/A |
-| 20 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 21 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
-| 22 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 23 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 24 | [BIRD OT8](http://twitter.com/search?q=BIRD+OT8) | N/A |
-| 25 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
-| 26 | [GEMPA](http://twitter.com/search?q=GEMPA) | N/A |
-| 27 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 28 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 29 | [Live Muslimah Bicara](http://twitter.com/search?q=Live+Muslimah+Bicara) | N/A |
-| 30 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
-| 31 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
-| 32 | [lee seunghwan thankyou](http://twitter.com/search?q=lee+seunghwan+thankyou) | N/A |
-| 33 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 34 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
-| 35 | [Bandung](http://twitter.com/search?q=Bandung) | N/A |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 38 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
-| 39 | [Prepare Nuzulul Qur'an](http://twitter.com/search?q=Prepare+Nuzulul+Qur%27an) | N/A |
-| 40 | [Enji](http://twitter.com/search?q=Enji) | N/A |
-| 41 | [Refleksi Ramadhan](http://twitter.com/search?q=Refleksi+Ramadhan) | N/A |
-| 42 | [Quora](http://twitter.com/search?q=Quora) | N/A |
-| 43 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 44 | [ps sang patriot](http://twitter.com/search?q=ps+sang+patriot) | N/A |
-| 45 | [bsi maslahat](http://twitter.com/search?q=bsi+maslahat) | N/A |
-| 46 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 47 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
+| 17 | [Yana](http://twitter.com/search?q=Yana) | N/A |
+| 18 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
+| 19 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
+| 20 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 21 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
+| 22 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 23 | [GEMPA](http://twitter.com/search?q=GEMPA) | N/A |
+| 24 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
+| 25 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 26 | [lee seunghwan thankyou](http://twitter.com/search?q=lee+seunghwan+thankyou) | N/A |
+| 27 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 28 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
+| 29 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
+| 30 | [BIRD OT8](http://twitter.com/search?q=BIRD+OT8) | N/A |
+| 31 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
+| 32 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 33 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 35 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 36 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
+| 37 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 38 | [prepare nuzulul qur'an](http://twitter.com/search?q=prepare+nuzulul+qur%27an) | N/A |
+| 39 | [Quora](http://twitter.com/search?q=Quora) | N/A |
+| 40 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 41 | [Enji](http://twitter.com/search?q=Enji) | N/A |
+| 42 | [Live Muslimah Bicara](http://twitter.com/search?q=Live+Muslimah+Bicara) | N/A |
+| 43 | [ps sang patriot](http://twitter.com/search?q=ps+sang+patriot) | N/A |
+| 44 | [COMING OVER](http://twitter.com/search?q=COMING+OVER) | N/A |
+| 45 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 46 | [bsi maslahat](http://twitter.com/search?q=bsi+maslahat) | N/A |
+| 47 | [Jakarta](http://twitter.com/search?q=Jakarta) | N/A |
 
 
 

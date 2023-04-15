@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-15 04:17:06 UTC`
+📆 Last Updated: `2023-04-15 05:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,50 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [bienne](http://twitter.com/search?q=bienne) | N/A |
 | 3 | [#fcbogcn](http://twitter.com/search?q=%23fcbogcn) | N/A |
 | 4 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
-| 5 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 8 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 9 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
-| 10 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 12 | [Brot](http://twitter.com/search?q=Brot) | N/A |
-| 13 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
-| 14 | [Tier](http://twitter.com/search?q=Tier) | N/A |
-| 15 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 16 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 17 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 18 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 19 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 20 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
-| 21 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 22 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
-| 23 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 24 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 25 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 26 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 27 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 28 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 29 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 30 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 31 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 32 | [Rechtsstaat](http://twitter.com/search?q=Rechtsstaat) | N/A |
-| 33 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 34 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
-| 35 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
-| 36 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 37 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 38 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 39 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 40 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 41 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 42 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 43 | [fälle](http://twitter.com/search?q=f%c3%a4lle) | N/A |
-| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 45 | [Cardano](http://twitter.com/search?q=Cardano) | N/A |
-| 46 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 47 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
-| 48 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
-| 49 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
+| 5 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 6 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 7 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
+| 8 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 9 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 11 | [Brot](http://twitter.com/search?q=Brot) | N/A |
+| 12 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
+| 13 | [Tier](http://twitter.com/search?q=Tier) | N/A |
+| 14 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 15 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 16 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
+| 17 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 18 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 19 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
+| 20 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 21 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
+| 22 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 23 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 24 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
+| 25 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 26 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 27 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 28 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 29 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 30 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 31 | [Rechtsstaat](http://twitter.com/search?q=Rechtsstaat) | N/A |
+| 32 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 33 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
+| 34 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
+| 35 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 36 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 37 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 38 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 39 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
+| 40 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 41 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
+| 42 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
+| 43 | [Cardano](http://twitter.com/search?q=Cardano) | N/A |
+| 44 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
+| 45 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
+| 46 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
+| 47 | [La France](http://twitter.com/search?q=La+France) | N/A |
+| 48 | [Maske](http://twitter.com/search?q=Maske) | N/A |
 
 
 

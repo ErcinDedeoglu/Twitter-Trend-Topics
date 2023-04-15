@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-04-15 04:17:04 UTC`
+📆 Last Updated: `2023-04-15 05:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,16 +17,16 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#nacwil](http://twitter.com/search?q=%23nacwil) | N/A |
 | 2 | [#feyrom](http://twitter.com/search?q=%23feyrom) | N/A |
-| 3 | [#deverraders](http://twitter.com/search?q=%23deverraders) | N/A |
+| 3 | [#DeVerraders](http://twitter.com/search?q=%23DeVerraders) | N/A |
 | 4 | [#Andaz](http://twitter.com/search?q=%23Andaz) | N/A |
 | 5 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
 | 6 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 7 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
 | 8 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
 | 9 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 10 | [manschot](http://twitter.com/search?q=manschot) | N/A |
-| 11 | [Breda](http://twitter.com/search?q=Breda) | N/A |
-| 12 | [telstar](http://twitter.com/search?q=telstar) | N/A |
+| 10 | [telstar](http://twitter.com/search?q=telstar) | N/A |
+| 11 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
+| 12 | [Breda](http://twitter.com/search?q=Breda) | N/A |
 | 13 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
 | 14 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
 | 15 | [thijs zeeman](http://twitter.com/search?q=thijs+zeeman) | N/A |
@@ -42,22 +42,22 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 25 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
 | 26 | [zomergasten](http://twitter.com/search?q=zomergasten) | N/A |
 | 27 | [fc eindhoven](http://twitter.com/search?q=fc+eindhoven) | N/A |
-| 28 | [Ter Apel](http://twitter.com/search?q=Ter+Apel) | N/A |
-| 29 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
-| 30 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 31 | [bijlmerramp](http://twitter.com/search?q=bijlmerramp) | N/A |
-| 32 | [rotterdammers](http://twitter.com/search?q=rotterdammers) | N/A |
-| 33 | [theo maassen](http://twitter.com/search?q=theo+maassen) | N/A |
-| 34 | [Ferry](http://twitter.com/search?q=Ferry) | N/A |
-| 35 | [hillegersberg](http://twitter.com/search?q=hillegersberg) | N/A |
-| 36 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 37 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 38 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 39 | [ab osterhaus](http://twitter.com/search?q=ab+osterhaus) | N/A |
-| 40 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 41 | [bern](http://twitter.com/search?q=bern) | N/A |
-| 42 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 43 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 28 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
+| 29 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 30 | [rotterdammers](http://twitter.com/search?q=rotterdammers) | N/A |
+| 31 | [theo maassen](http://twitter.com/search?q=theo+maassen) | N/A |
+| 32 | [Ferry](http://twitter.com/search?q=Ferry) | N/A |
+| 33 | [hillegersberg](http://twitter.com/search?q=hillegersberg) | N/A |
+| 34 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 35 | [Ter Apel](http://twitter.com/search?q=Ter+Apel) | N/A |
+| 36 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 37 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 38 | [ab osterhaus](http://twitter.com/search?q=ab+osterhaus) | N/A |
+| 39 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 40 | [Bern](http://twitter.com/search?q=Bern) | N/A |
+| 41 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
+| 42 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 43 | [Flutprocessen](http://twitter.com/search?q=Flutprocessen) | N/A |
 | 44 | [omrijden](http://twitter.com/search?q=omrijden) | N/A |
 | 45 | [eToro](http://twitter.com/search?q=eToro) | N/A |
 | 46 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-04-15 04:17:04 UTC`
+📆 Last Updated: `2023-04-15 05:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Spuntablu](http://twitter.com/search?q=%23Spuntablu) | N/A |
-| 2 | [#quartogrado](http://twitter.com/search?q=%23quartogrado) | N/A |
-| 3 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
-| 4 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 5 | [#civuoleunfiore](http://twitter.com/search?q=%23civuoleunfiore) | N/A |
+| 2 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 3 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 4 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
+| 5 | [#15aprile](http://twitter.com/search?q=%2315aprile) | N/A |
 | 6 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
 | 7 | [Milan](http://twitter.com/search?q=Milan) | N/A |
 | 8 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 9 | [Marcos Antonio](http://twitter.com/search?q=Marcos+Antonio) | N/A |
-| 10 | [Ciao Paolo](http://twitter.com/search?q=Ciao+Paolo) | N/A |
-| 11 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 12 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 13 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 9 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 10 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 11 | [Marcos Antonio](http://twitter.com/search?q=Marcos+Antonio) | N/A |
+| 12 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 13 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
 | 14 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
-| 15 | [forza tek](http://twitter.com/search?q=forza+tek) | N/A |
-| 16 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 17 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 18 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 15 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 16 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
+| 17 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 18 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
 | 19 | [Ampadu](http://twitter.com/search?q=Ampadu) | N/A |
-| 20 | [il tar](http://twitter.com/search?q=il+tar) | N/A |
-| 21 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 22 | [francesco gabbani](http://twitter.com/search?q=francesco+gabbani) | N/A |
+| 20 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 21 | [il tar](http://twitter.com/search?q=il+tar) | N/A |
+| 22 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
 | 23 | [Felipe Anderson](http://twitter.com/search?q=Felipe+Anderson) | Felipe Anderson is a Brazilian professional footballer who plays as an attacking midfielder for Premier League club West Ham United. His name is derived from the Portuguese words "feliz" (happy) and "pé" (foot). In English, his name translates to "happy foot". |
-| 24 | [sebastiano](http://twitter.com/search?q=sebastiano) | N/A |
-| 25 | [mentana](http://twitter.com/search?q=mentana) | N/A |
-| 26 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
-| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 28 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 29 | [Anice](http://twitter.com/search?q=Anice) | N/A |
-| 30 | [Carmelo](http://twitter.com/search?q=Carmelo) | N/A |
-| 31 | [irrati](http://twitter.com/search?q=irrati) | N/A |
-| 32 | [Pulcinella](http://twitter.com/search?q=Pulcinella) | N/A |
-| 33 | [il 14](http://twitter.com/search?q=il+14) | N/A |
-| 34 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 35 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 36 | [Adli](http://twitter.com/search?q=Adli) | N/A |
-| 37 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 24 | [mentana](http://twitter.com/search?q=mentana) | N/A |
+| 25 | [Anice](http://twitter.com/search?q=Anice) | N/A |
+| 26 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 27 | [Carmelo](http://twitter.com/search?q=Carmelo) | N/A |
+| 28 | [irrati](http://twitter.com/search?q=irrati) | N/A |
+| 29 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 30 | [pulcinella](http://twitter.com/search?q=pulcinella) | N/A |
+| 31 | [il 14](http://twitter.com/search?q=il+14) | N/A |
+| 32 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
+| 33 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 34 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
+| 35 | [adli](http://twitter.com/search?q=adli) | N/A |
+| 36 | [Sala](http://twitter.com/search?q=Sala) | N/A |
+| 37 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
 | 38 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 39 | [Gohan](http://twitter.com/search?q=Gohan) | Gohan is a Japanese word meaning "meal" or "cooked rice". It is also used to refer to a meal prepared for someone, usually as an offering of hospitality. |
-| 40 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
-| 41 | [Sogni](http://twitter.com/search?q=Sogni) | N/A |
-| 42 | [Domani](http://twitter.com/search?q=Domani) | N/A |
-| 43 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 44 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 46 | [Esiste](http://twitter.com/search?q=Esiste) | N/A |
-| 47 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 48 | [Nino](http://twitter.com/search?q=Nino) | N/A |
-| 49 | [Bastava](http://twitter.com/search?q=Bastava) | N/A |
-| 50 | [Buongiorno Andrea](http://twitter.com/search?q=Buongiorno+Andrea) | N/A |
+| 39 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
+| 40 | [Buongiorno Stefano](http://twitter.com/search?q=Buongiorno+Stefano) | N/A |
+| 41 | [Leonardo da Vinci](http://twitter.com/search?q=Leonardo+da+Vinci) | N/A |
+| 42 | [Credi](http://twitter.com/search?q=Credi) | N/A |
+| 43 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
+| 44 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 45 | [Belgio](http://twitter.com/search?q=Belgio) | N/A |
+| 46 | [Bellissima](http://twitter.com/search?q=Bellissima) | N/A |
+| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 48 | [Piera](http://twitter.com/search?q=Piera) | N/A |
+| 49 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 50 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
 
 
 

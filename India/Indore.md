@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-04-15 04:17:24 UTC`
+📆 Last Updated: `2023-04-15 05:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,50 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#HiddenSecretsInQuran](http://twitter.com/search?q=%23HiddenSecretsInQuran) | N/A |
 | 2 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 3 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 4 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
-| 5 | [#BehindTheCamera](http://twitter.com/search?q=%23BehindTheCamera) | N/A |
-| 6 | [#UnlockYourConfidence](http://twitter.com/search?q=%23UnlockYourConfidence) | N/A |
-| 7 | [Aaj Ki Taja Khabar](http://twitter.com/search?q=Aaj+Ki+Taja+Khabar) | N/A |
-| 8 | [Kahan Chhup Gaye](http://twitter.com/search?q=Kahan+Chhup+Gaye) | N/A |
-| 9 | [Chhoti Damini](http://twitter.com/search?q=Chhoti+Damini) | N/A |
-| 10 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
-| 11 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 12 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
-| 13 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
+| 3 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 4 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 5 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
+| 6 | [#SatyapalMalik](http://twitter.com/search?q=%23SatyapalMalik) | N/A |
+| 7 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
+| 8 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
+| 9 | [Aaj Ki Taja Khabar](http://twitter.com/search?q=Aaj+Ki+Taja+Khabar) | N/A |
+| 10 | [Kahan Chhup Gaye](http://twitter.com/search?q=Kahan+Chhup+Gaye) | N/A |
+| 11 | [Chhoti Damini](http://twitter.com/search?q=Chhoti+Damini) | N/A |
+| 12 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
+| 13 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
 | 14 | [Shubho Noboborsho](http://twitter.com/search?q=Shubho+Noboborsho) | N/A |
-| 15 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 16 | [प्राकृतिक सौंदर्य](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%8c%e0%a4%82%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 17 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 18 | [नरोत्तम मिश्रा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 19 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
-| 20 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 15 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
+| 16 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 17 | [नरोत्तम मिश्रा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 18 | [प्राकृतिक सौंदर्य](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%8c%e0%a4%82%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 19 | [Wakayama](http://twitter.com/search?q=Wakayama) | N/A |
+| 20 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
 | 21 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
 | 22 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 23 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
-| 24 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
-| 25 | [#SatyapalMalik](http://twitter.com/search?q=%23SatyapalMalik) | N/A |
-| 26 | [#bengalinewyear](http://twitter.com/search?q=%23bengalinewyear) | N/A |
-| 27 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 28 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 29 | [#Japan](http://twitter.com/search?q=%23Japan) | N/A |
-| 30 | [#HimachalDay](http://twitter.com/search?q=%23HimachalDay) | N/A |
-| 31 | [#WorldArtDay](http://twitter.com/search?q=%23WorldArtDay) | N/A |
-| 32 | [#PoilaBoishakh](http://twitter.com/search?q=%23PoilaBoishakh) | N/A |
-| 33 | [#ArvindKejriwal](http://twitter.com/search?q=%23ArvindKejriwal) | N/A |
-| 34 | [#RCBvDC](http://twitter.com/search?q=%23RCBvDC) | N/A |
-| 35 | [#শুভনববর্ষ](http://twitter.com/search?q=%23%e0%a6%b6%e0%a7%81%e0%a6%ad%e0%a6%a8%e0%a6%ac%e0%a6%ac%e0%a6%b0%e0%a7%8d%e0%a6%b7) | N/A |
-| 36 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 37 | [#BusAccident](http://twitter.com/search?q=%23BusAccident) | N/A |
-| 38 | [#GodMorningSaturday](http://twitter.com/search?q=%23GodMorningSaturday) | N/A |
-| 39 | [#HarryBrook](http://twitter.com/search?q=%23HarryBrook) | N/A |
-| 40 | [#GoodMorningTwitterWorld](http://twitter.com/search?q=%23GoodMorningTwitterWorld) | N/A |
-| 41 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 42 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 43 | [#PAKvNZ](http://twitter.com/search?q=%23PAKvNZ) | #PAKvNZ is a hashtag used to refer to the cricket match between Pakistan and New Zealand. It stands for Pakistan versus New Zealand. |
-| 44 | [#SRHvsKKR](http://twitter.com/search?q=%23SRHvsKKR) | N/A |
+| 23 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
+| 24 | [केंद्रीय गृह](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%83%e0%a4%b9) | N/A |
+| 25 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 26 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 27 | [Wire](http://twitter.com/search?q=Wire) | N/A |
+| 28 | [Kashi](http://twitter.com/search?q=Kashi) | N/A |
+| 29 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 30 | [#BehindTheCamera](http://twitter.com/search?q=%23BehindTheCamera) | N/A |
+| 31 | [#UnlockYourConfidence](http://twitter.com/search?q=%23UnlockYourConfidence) | N/A |
+| 32 | [#bengalinewyear](http://twitter.com/search?q=%23bengalinewyear) | N/A |
+| 33 | [#Japan](http://twitter.com/search?q=%23Japan) | N/A |
+| 34 | [#WorldArtDay](http://twitter.com/search?q=%23WorldArtDay) | N/A |
+| 35 | [#HimachalDay](http://twitter.com/search?q=%23HimachalDay) | N/A |
+| 36 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 37 | [#ArvindKejriwal](http://twitter.com/search?q=%23ArvindKejriwal) | N/A |
+| 38 | [#KudmiWantJustification](http://twitter.com/search?q=%23KudmiWantJustification) | N/A |
+| 39 | [#PoilaBoishakh](http://twitter.com/search?q=%23PoilaBoishakh) | N/A |
+| 40 | [#RCBvDC](http://twitter.com/search?q=%23RCBvDC) | N/A |
+| 41 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 42 | [#உசிலம்பட்டியில்_சீமான்](http://twitter.com/search?q=%23%e0%ae%89%e0%ae%9a%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d_%e0%ae%9a%e0%af%80%e0%ae%ae%e0%ae%be%e0%ae%a9%e0%af%8d) | N/A |
+| 43 | [#শুভনববর্ষ](http://twitter.com/search?q=%23%e0%a6%b6%e0%a7%81%e0%a6%ad%e0%a6%a8%e0%a6%ac%e0%a6%ac%e0%a6%b0%e0%a7%8d%e0%a6%b7) | N/A |
+| 44 | [#BusAccident](http://twitter.com/search?q=%23BusAccident) | N/A |
+| 45 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 46 | [#Blast](http://twitter.com/search?q=%23Blast) | N/A |
 
 
 

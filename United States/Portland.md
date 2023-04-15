@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-04-15 04:17:33 UTC`
+📆 Last Updated: `2023-04-15 05:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#BAONPDX](http://twitter.com/search?q=%23BAONPDX) | N/A |
 | 2 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 3 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 3 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 6 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 5 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 6 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
 | 7 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 8 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 9 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 8 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 10 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 11 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 12 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 13 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 14 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 15 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 16 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 17 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 18 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 19 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 20 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 21 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 22 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 23 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 24 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 25 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 26 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 28 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 29 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 30 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 31 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 32 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 33 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 34 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 35 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 36 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
-| 37 | [Aaron Dessner](http://twitter.com/search?q=Aaron+Dessner) | N/A |
-| 38 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 39 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
-| 40 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 41 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 42 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 43 | [Nick Maton](http://twitter.com/search?q=Nick+Maton) | N/A |
-| 44 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 45 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 46 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 47 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 48 | [Corey Heim](http://twitter.com/search?q=Corey+Heim) | N/A |
-| 49 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
+| 11 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 12 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
+| 13 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 14 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 15 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 16 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 17 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 18 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 19 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 20 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 21 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 22 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 23 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 24 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 25 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 26 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 27 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 28 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 29 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 30 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 31 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 32 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 33 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 34 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 35 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
+| 36 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 37 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 38 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 39 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 40 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
+| 41 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 42 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
+| 43 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 44 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 45 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 46 | [NICK MATON](http://twitter.com/search?q=NICK+MATON) | N/A |
+| 47 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 48 | [Whyte Fang](http://twitter.com/search?q=Whyte+Fang) | N/A |
+| 49 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 50 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
 
 
 

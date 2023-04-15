@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-04-15 04:17:29 UTC`
+📆 Last Updated: `2023-04-15 05:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 2 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
-| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 4 | [Meyers](http://twitter.com/search?q=Meyers) | Meyers is a surname of German origin. It is derived from the German word "meiger" which means mayor or magistrate. The name is most commonly found in Germany, Austria, and Switzerland. |
-| 5 | [#THEDREAMSHOW2_in_DALLAS](http://twitter.com/search?q=%23THEDREAMSHOW2_in_DALLAS) | N/A |
-| 6 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
-| 7 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
-| 8 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 9 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 10 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 11 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 12 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 13 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 14 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 15 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 16 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 17 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 18 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 19 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 21 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 22 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 23 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 24 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 25 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 27 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 28 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 2 | [#NCTDREAMinDALLAS](http://twitter.com/search?q=%23NCTDREAMinDALLAS) | N/A |
+| 3 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 4 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 5 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 7 | [Luis Garcia](http://twitter.com/search?q=Luis+Garcia) | N/A |
+| 8 | [#THEDREAMSHOW2_in_DALLAS](http://twitter.com/search?q=%23THEDREAMSHOW2_in_DALLAS) | N/A |
+| 9 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 10 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 11 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
+| 12 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 13 | [#TampaTSTheErasTour](http://twitter.com/search?q=%23TampaTSTheErasTour) | N/A |
+| 14 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 15 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 16 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 17 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 18 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 19 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 20 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 21 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 22 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 23 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 24 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 25 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 26 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 27 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 28 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
 | 29 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 30 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 31 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 32 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 33 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 34 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 35 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 36 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 37 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 38 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 39 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 40 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 41 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 42 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 43 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 44 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 45 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
-| 46 | [Aaron Dessner](http://twitter.com/search?q=Aaron+Dessner) | N/A |
-| 47 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 48 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
-| 49 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 30 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 31 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 32 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 33 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 34 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 35 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 36 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 37 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 38 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 39 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 40 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 41 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 42 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 43 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 44 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 45 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 46 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 47 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 48 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
+| 49 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
 
 
 

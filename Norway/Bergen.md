@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-15 04:17:06 UTC`
+📆 Last Updated: `2023-04-15 05:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,16 +25,16 @@ This is top 50 for [Norway](</Norway>)
 | 8 | [ottestad](http://twitter.com/search?q=ottestad) | N/A |
 | 9 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 10 | [melkøya](http://twitter.com/search?q=melk%c3%b8ya) | N/A |
-| 11 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 12 | [equinor](http://twitter.com/search?q=equinor) | N/A |
-| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 14 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 16 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
-| 17 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 18 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
-| 19 | [Amber](http://twitter.com/search?q=Amber) | N/A |
-| 20 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 11 | [equinor](http://twitter.com/search?q=equinor) | N/A |
+| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 13 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 14 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 15 | [#esngolf](http://twitter.com/search?q=%23esngolf) | N/A |
+| 16 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 17 | [storhamar](http://twitter.com/search?q=storhamar) | N/A |
+| 18 | [Amber](http://twitter.com/search?q=Amber) | N/A |
+| 19 | [Republicans](http://twitter.com/search?q=Republicans) | Republicans are a political party in the United States. The Republican Party is one of two major contemporary political parties in the United States, along with its main rival, the Democratic Party. The Republican Party is often referred to as the GOP, which stands for "Grand Old Party". The party's platform generally reflects American conservatism in the U.S. economy, foreign policy, and social matters. |
+| 20 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 21 | [finnmark](http://twitter.com/search?q=finnmark) | N/A |
 | 22 | [Tears of the Kingdom](http://twitter.com/search?q=Tears+of+the+Kingdom) | N/A |
 | 23 | [#LUNC](http://twitter.com/search?q=%23LUNC) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for [Norway](</Norway>)
 | 32 | [regjeringen](http://twitter.com/search?q=regjeringen) | N/A |
 | 33 | [Lego](http://twitter.com/search?q=Lego) | N/A |
 | 34 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 35 | [kult](http://twitter.com/search?q=kult) | N/A |
+| 35 | [Kult](http://twitter.com/search?q=Kult) | N/A |
 | 36 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
 | 37 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
 | 38 | [Luke](http://twitter.com/search?q=Luke) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for [Norway](</Norway>)
 | 43 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 44 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 45 | [greit](http://twitter.com/search?q=greit) | N/A |
-| 46 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 47 | [Huff](http://twitter.com/search?q=Huff) | N/A |
-| 48 | [15 Russian](http://twitter.com/search?q=15+Russian) | N/A |
+| 46 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 47 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 48 | [Huff](http://twitter.com/search?q=Huff) | N/A |
 
 
 

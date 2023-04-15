@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-04-15 04:17:27 UTC`
+📆 Last Updated: `2023-04-15 05:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sam Hilliard](http://twitter.com/search?q=Sam+Hilliard) | N/A |
-| 2 | [Sean Murphy](http://twitter.com/search?q=Sean+Murphy) | N/A |
-| 3 | [Snit](http://twitter.com/search?q=Snit) | N/A |
-| 4 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 5 | [Olson](http://twitter.com/search?q=Olson) | N/A |
-| 6 | [Morton](http://twitter.com/search?q=Morton) | Morton is a surname of English origin. It is derived from the Old French word "mort," meaning "dead," and the suffix "-on," which was used to denote a place or location. The name was originally given to someone who lived near a burial ground or cemetery. |
-| 7 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 8 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 9 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
-| 10 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 11 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 12 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 13 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 14 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 15 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 16 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 17 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 18 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 19 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 20 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 21 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 22 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 23 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 24 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 25 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 27 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 28 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 29 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 30 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 31 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 32 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 33 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 34 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 1 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
+| 2 | [#PowerBookII](http://twitter.com/search?q=%23PowerBookII) | N/A |
+| 3 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 4 | [Snit](http://twitter.com/search?q=Snit) | N/A |
+| 5 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 6 | [Grissom](http://twitter.com/search?q=Grissom) | N/A |
+| 7 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 8 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 9 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 11 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 12 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 14 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 15 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 16 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 17 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 18 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 19 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 21 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 22 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 23 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 24 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 25 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 26 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 27 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 28 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 30 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 31 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 32 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 33 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 34 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
 | 35 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 36 | [#loveafterlockup](http://twitter.com/search?q=%23loveafterlockup) | #LoveAfterLockup is a reality television series that follows couples who have formed relationships while one of them is in prison. The show follows the couples as they reunite and attempt to make their relationships work after the release of the incarcerated partner. |
-| 37 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 38 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 39 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 40 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 41 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 42 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 43 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 44 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 45 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 46 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 47 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
-| 48 | [Aaron Dessner](http://twitter.com/search?q=Aaron+Dessner) | N/A |
-| 49 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 36 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 37 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 38 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 39 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 40 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
+| 41 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 42 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 43 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 44 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 45 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
+| 46 | [Senga](http://twitter.com/search?q=Senga) | N/A |
+| 47 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
+| 48 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 49 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-15 04:17:06 UTC`
+📆 Last Updated: `2023-04-15 05:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 5 | [#gshc](http://twitter.com/search?q=%23gshc) | N/A |
 | 6 | [#uecl](http://twitter.com/search?q=%23uecl) | N/A |
 | 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 9 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 10 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
-| 11 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 8 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 9 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
+| 10 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 11 | [Western](http://twitter.com/search?q=Western) | N/A |
 | 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
 | 13 | [Brot](http://twitter.com/search?q=Brot) | N/A |
 | 14 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
@@ -51,19 +51,19 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 34 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 35 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
 | 36 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
-| 37 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 38 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 39 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 40 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 41 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 37 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 38 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 39 | [Windows](http://twitter.com/search?q=Windows) | N/A |
+| 40 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 41 | [Dummheit](http://twitter.com/search?q=Dummheit) | N/A |
 | 42 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
 | 43 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 44 | [fälle](http://twitter.com/search?q=f%c3%a4lle) | N/A |
-| 45 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 46 | [Cardano](http://twitter.com/search?q=Cardano) | N/A |
-| 47 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 48 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
-| 49 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
+| 44 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
+| 45 | [Cardano](http://twitter.com/search?q=Cardano) | N/A |
+| 46 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
+| 47 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
+| 48 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
+| 49 | [La France](http://twitter.com/search?q=La+France) | N/A |
 
 
 

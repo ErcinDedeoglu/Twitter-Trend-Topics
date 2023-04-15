@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-04-15 04:16:50 UTC`
+📆 Last Updated: `2023-04-15 05:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 5 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
 | 6 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 7 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
-| 8 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 9 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 10 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 11 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
-| 12 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 8 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
+| 9 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 10 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 12 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
 | 13 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 14 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 16 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 17 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 18 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 19 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 20 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 21 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 22 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
-| 23 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 24 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 25 | [Cameron Archer](http://twitter.com/search?q=Cameron+Archer) | N/A |
-| 26 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 17 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 18 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
+| 19 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 20 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 21 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
+| 22 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 23 | [Cameron Archer](http://twitter.com/search?q=Cameron+Archer) | N/A |
+| 24 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 25 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 26 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
 | 27 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
-| 28 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 29 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 30 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 31 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 32 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
-| 33 | [Strus](http://twitter.com/search?q=Strus) | N/A |
-| 34 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 35 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 36 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 37 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 39 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
-| 40 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 41 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 42 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 43 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 44 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
-| 45 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 46 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 47 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 48 | [sam waley](http://twitter.com/search?q=sam+waley) | N/A |
-| 49 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 28 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 29 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 30 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 31 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
+| 32 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 34 | [Mary Quant](http://twitter.com/search?q=Mary+Quant) | N/A |
+| 35 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 36 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 37 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
+| 38 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
+| 39 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 40 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 41 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 42 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 43 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 44 | [sam waley](http://twitter.com/search?q=sam+waley) | N/A |
+| 45 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 46 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 47 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
+| 48 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 49 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
 
 
 
