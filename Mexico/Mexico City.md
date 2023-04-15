@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-04-15 01:43:15 UTC`
+📆 Last Updated: `2023-04-15 02:29:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Periférico](http://twitter.com/search?q=Perif%c3%a9rico) | N/A |
-| 2 | [#LaCiudadYLaTransformación](http://twitter.com/search?q=%23LaCiudadYLaTransformaci%c3%b3n) | N/A |
+| 1 | [Morelos](http://twitter.com/search?q=Morelos) | Morelos is a state in Mexico. Its name comes from José María Morelos y Pavón, a Mexican revolutionary leader who fought for independence from Spain in the early 19th century. In English, Morelos means "of Morelos". |
+| 2 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
 | 3 | [Tláhuac](http://twitter.com/search?q=Tl%c3%a1huac) | N/A |
-| 4 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 5 | [Bienestar](http://twitter.com/search?q=Bienestar) | N/A |
-| 6 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 7 | [#Linea12](http://twitter.com/search?q=%23Linea12) | N/A |
+| 4 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 5 | [JOAQUIN YA ES JAMIE](http://twitter.com/search?q=JOAQUIN+YA+ES+JAMIE) | N/A |
+| 6 | [#BeckyOurAngel](http://twitter.com/search?q=%23BeckyOurAngel) | N/A |
+| 7 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
 | 8 | [ESTEMOS DONDE ESTEMOS](http://twitter.com/search?q=ESTEMOS+DONDE+ESTEMOS) | N/A |
-| 9 | [Juana](http://twitter.com/search?q=Juana) | N/A |
-| 10 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 11 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 9 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 10 | [NAVEGANDO CON ALONG](http://twitter.com/search?q=NAVEGANDO+CON+ALONG) | N/A |
+| 11 | [Juana](http://twitter.com/search?q=Juana) | N/A |
 | 12 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 13 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
-| 14 | [INAI](http://twitter.com/search?q=INAI) | N/A |
-| 15 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 16 | [Junta](http://twitter.com/search?q=Junta) | N/A |
-| 17 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 18 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
-| 19 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
-| 20 | [Shamier Anderson](http://twitter.com/search?q=Shamier+Anderson) | N/A |
-| 21 | [Los Chapitos](http://twitter.com/search?q=Los+Chapitos) | N/A |
-| 22 | [Notimex](http://twitter.com/search?q=Notimex) | N/A |
-| 23 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 24 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
-| 25 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 26 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
-| 27 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 28 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 29 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
-| 30 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
-| 31 | [Pablo Larios](http://twitter.com/search?q=Pablo+Larios) | N/A |
-| 32 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 33 | [Jorge Campos](http://twitter.com/search?q=Jorge+Campos) | N/A |
-| 34 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 35 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 36 | [Juan Manuel Márquez](http://twitter.com/search?q=Juan+Manuel+M%c3%a1rquez) | N/A |
-| 37 | [Banamex](http://twitter.com/search?q=Banamex) | N/A |
-| 38 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 39 | [Cártel de Sinaloa](http://twitter.com/search?q=C%c3%a1rtel+de+Sinaloa) | N/A |
-| 40 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 41 | [Luzu](http://twitter.com/search?q=Luzu) | Luzu is a Spanish word that means light. It is often used to refer to a bright, cheerful, and optimistic attitude. |
-| 42 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 43 | [#BECKYCHELLA](http://twitter.com/search?q=%23BECKYCHELLA) | N/A |
-| 44 | [#enhorabuenabeso](http://twitter.com/search?q=%23enhorabuenabeso) | N/A |
-| 45 | [#LaSenoraSandraCuevas](http://twitter.com/search?q=%23LaSenoraSandraCuevas) | N/A |
-| 46 | [#integracionharrie](http://twitter.com/search?q=%23integracionharrie) | N/A |
-| 47 | [#DiaInternacionalDelPortero](http://twitter.com/search?q=%23DiaInternacionalDelPortero) | N/A |
-| 48 | [#RosaliaEnElZocalo](http://twitter.com/search?q=%23RosaliaEnElZocalo) | N/A |
-| 49 | [#ClaudiaNuncaSerasPresidenta](http://twitter.com/search?q=%23ClaudiaNuncaSerasPresidenta) | N/A |
+| 13 | [#Linea12](http://twitter.com/search?q=%23Linea12) | N/A |
+| 14 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 15 | [INAI](http://twitter.com/search?q=INAI) | N/A |
+| 16 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 17 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 18 | [#BECKYCHELLA](http://twitter.com/search?q=%23BECKYCHELLA) | N/A |
+| 19 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 20 | [Junta](http://twitter.com/search?q=Junta) | N/A |
+| 21 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 22 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 23 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 24 | [Notimex](http://twitter.com/search?q=Notimex) | N/A |
+| 25 | [Slime](http://twitter.com/search?q=Slime) | N/A |
+| 26 | [Cuauhtémoc Blanco](http://twitter.com/search?q=Cuauht%c3%a9moc+Blanco) | N/A |
+| 27 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 28 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 29 | [Porros](http://twitter.com/search?q=Porros) | N/A |
+| 30 | [aleida](http://twitter.com/search?q=aleida) | N/A |
+| 31 | [Shamier Anderson](http://twitter.com/search?q=Shamier+Anderson) | N/A |
+| 32 | [Los Chapitos](http://twitter.com/search?q=Los+Chapitos) | N/A |
+| 33 | [La DEA](http://twitter.com/search?q=La+DEA) | N/A |
+| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 35 | [Tilin](http://twitter.com/search?q=Tilin) | N/A |
+| 36 | [Copa Oro 2023](http://twitter.com/search?q=Copa+Oro+2023) | N/A |
+| 37 | [Lore](http://twitter.com/search?q=Lore) | N/A |
+| 38 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 39 | [Periférico](http://twitter.com/search?q=Perif%c3%a9rico) | N/A |
+| 40 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 41 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 42 | [Cártel de Sinaloa](http://twitter.com/search?q=C%c3%a1rtel+de+Sinaloa) | N/A |
+| 43 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
+| 44 | [El Chapo](http://twitter.com/search?q=El+Chapo) | El Chapo is a nickname for Joaquín Guzmán, a Mexican drug lord and former leader of the Sinaloa Cartel. The name El Chapo translates to "Shorty" in English. |
+| 45 | [Jorge Campos](http://twitter.com/search?q=Jorge+Campos) | N/A |
+| 46 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 47 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 48 | [Banamex](http://twitter.com/search?q=Banamex) | N/A |
+| 49 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 50 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-15 01:43:23 UTC`
+📆 Last Updated: `2023-04-15 02:30:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [#BidenVisit](http://twitter.com/search?q=%23BidenVisit) | N/A |
 | 2 | [Mayo for Sam](http://twitter.com/search?q=Mayo+for+Sam) | N/A |
-| 3 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
-| 4 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 5 | [#Mayo4Sam](http://twitter.com/search?q=%23Mayo4Sam) | N/A |
-| 6 | [Knock](http://twitter.com/search?q=Knock) | N/A |
-| 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 9 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 10 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 11 | [Mary Robinson](http://twitter.com/search?q=Mary+Robinson) | N/A |
-| 12 | [Dalymount](http://twitter.com/search?q=Dalymount) | N/A |
-| 13 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 14 | [Angelus](http://twitter.com/search?q=Angelus) | N/A |
-| 15 | [gerri colombe](http://twitter.com/search?q=gerri+colombe) | N/A |
-| 16 | [Leinster House](http://twitter.com/search?q=Leinster+House) | N/A |
-| 17 | [Norah](http://twitter.com/search?q=Norah) | N/A |
-| 18 | [Craig Breen](http://twitter.com/search?q=Craig+Breen) | N/A |
-| 19 | [The Chieftains](http://twitter.com/search?q=The+Chieftains) | N/A |
-| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 21 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 22 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 23 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 26 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
-| 27 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 28 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 29 | [tricolour](http://twitter.com/search?q=tricolour) | N/A |
-| 30 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 31 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 32 | [Oireachtas](http://twitter.com/search?q=Oireachtas) | N/A |
-| 33 | [Paramore](http://twitter.com/search?q=Paramore) | N/A |
-| 34 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
-| 35 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 36 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
-| 37 | [Graham Burke](http://twitter.com/search?q=Graham+Burke) | N/A |
-| 38 | [the coronas](http://twitter.com/search?q=the+coronas) | N/A |
-| 39 | [Glen](http://twitter.com/search?q=Glen) | N/A |
-| 40 | [Shels](http://twitter.com/search?q=Shels) | N/A |
-| 41 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 42 | [Grade 1](http://twitter.com/search?q=Grade+1) | N/A |
-| 43 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 44 | [Arlene](http://twitter.com/search?q=Arlene) | N/A |
-| 45 | [Flores](http://twitter.com/search?q=Flores) | N/A |
-| 46 | [The Irish](http://twitter.com/search?q=The+Irish) | N/A |
-| 47 | [Beau](http://twitter.com/search?q=Beau) | N/A |
-| 48 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 49 | [Punch](http://twitter.com/search?q=Punch) | N/A |
+| 3 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 4 | [#Mayo4Sam](http://twitter.com/search?q=%23Mayo4Sam) | N/A |
+| 5 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 7 | [#bootlegfriday](http://twitter.com/search?q=%23bootlegfriday) | N/A |
+| 8 | [#blockrockinbeats](http://twitter.com/search?q=%23blockrockinbeats) | N/A |
+| 9 | [Mary Robinson](http://twitter.com/search?q=Mary+Robinson) | N/A |
+| 10 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 11 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
+| 12 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
+| 13 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 14 | [Knock](http://twitter.com/search?q=Knock) | N/A |
+| 15 | [The Chieftains](http://twitter.com/search?q=The+Chieftains) | N/A |
+| 16 | [Norah](http://twitter.com/search?q=Norah) | N/A |
+| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 19 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 20 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 21 | [leinster house](http://twitter.com/search?q=leinster+house) | N/A |
+| 22 | [tricolour](http://twitter.com/search?q=tricolour) | N/A |
+| 23 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 24 | [Black and Tans](http://twitter.com/search?q=Black+and+Tans) | N/A |
+| 25 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 26 | [Shels](http://twitter.com/search?q=Shels) | N/A |
+| 27 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 28 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 29 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 30 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 31 | [Angelus](http://twitter.com/search?q=Angelus) | N/A |
+| 32 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 33 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 34 | [Misneach](http://twitter.com/search?q=Misneach) | N/A |
+| 35 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 36 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 37 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 38 | [Dalymount Park](http://twitter.com/search?q=Dalymount+Park) | N/A |
+| 39 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 40 | [Flores](http://twitter.com/search?q=Flores) | N/A |
+| 41 | [Full Time](http://twitter.com/search?q=Full+Time) | N/A |
+| 42 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 43 | [the coronas](http://twitter.com/search?q=the+coronas) | N/A |
+| 44 | [Dublin Castle](http://twitter.com/search?q=Dublin+Castle) | N/A |
+| 45 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 46 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 47 | [where's the irish](http://twitter.com/search?q=where%27s+the+irish) | N/A |
+| 48 | [County Mayo](http://twitter.com/search?q=County+Mayo) | N/A |
+| 49 | [Nile](http://twitter.com/search?q=Nile) | N/A |
 
 
 

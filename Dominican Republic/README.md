@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-15 01:44:02 UTC`
+📆 Last Updated: `2023-04-15 02:30:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Dominican Republic
 | 2 | [ChatGPTrd](http://twitter.com/search?q=ChatGPTrd) | N/A |
 | 3 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
 | 4 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
-| 5 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
-| 6 | [Diandino Peña](http://twitter.com/search?q=Diandino+Pe%c3%b1a) | N/A |
-| 7 | [#FeriadelLibroCatolico2023](http://twitter.com/search?q=%23FeriadelLibroCatolico2023) | N/A |
-| 8 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 9 | [Casa de Campo](http://twitter.com/search?q=Casa+de+Campo) | N/A |
-| 10 | [duarte méndez peña](http://twitter.com/search?q=duarte+m%c3%a9ndez+pe%c3%b1a) | N/A |
-| 11 | [#CursillosdeCristiandad](http://twitter.com/search?q=%23CursillosdeCristiandad) | N/A |
-| 12 | [Opret](http://twitter.com/search?q=Opret) | N/A |
-| 13 | [#AbelPresidente](http://twitter.com/search?q=%23AbelPresidente) | N/A |
-| 14 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 15 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 16 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
-| 17 | [Titulación](http://twitter.com/search?q=Titulaci%c3%b3n) | N/A |
-| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 19 | [#AguantenQueFaltaPoco](http://twitter.com/search?q=%23AguantenQueFaltaPoco) | N/A |
-| 20 | [Pedro Brand](http://twitter.com/search?q=Pedro+Brand) | N/A |
-| 21 | [El Caribe](http://twitter.com/search?q=El+Caribe) | N/A |
-| 22 | [Adán Cáceres](http://twitter.com/search?q=Ad%c3%a1n+C%c3%a1ceres) | N/A |
-| 23 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 5 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 6 | [#ForoGlobalCasaCampo](http://twitter.com/search?q=%23ForoGlobalCasaCampo) | N/A |
+| 7 | [Diandino Peña](http://twitter.com/search?q=Diandino+Pe%c3%b1a) | N/A |
+| 8 | [#FeriadelLibroCatolico2023](http://twitter.com/search?q=%23FeriadelLibroCatolico2023) | N/A |
+| 9 | [#CursillosdeCristiandad](http://twitter.com/search?q=%23CursillosdeCristiandad) | N/A |
+| 10 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 11 | [#AbelPresidente](http://twitter.com/search?q=%23AbelPresidente) | N/A |
+| 12 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 13 | [Casa de Campo](http://twitter.com/search?q=Casa+de+Campo) | N/A |
+| 14 | [Opret](http://twitter.com/search?q=Opret) | N/A |
+| 15 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 16 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
+| 17 | [Pedro Brand](http://twitter.com/search?q=Pedro+Brand) | N/A |
+| 18 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 19 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
+| 20 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 21 | [Brito](http://twitter.com/search?q=Brito) | N/A |
+| 22 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 23 | [#AguantenQueFaltaPoco](http://twitter.com/search?q=%23AguantenQueFaltaPoco) | N/A |
 | 24 | [Los Alcarrizos](http://twitter.com/search?q=Los+Alcarrizos) | N/A |
-| 25 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 26 | [Morro](http://twitter.com/search?q=Morro) | N/A |
-| 27 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
-| 28 | [super tucano](http://twitter.com/search?q=super+tucano) | N/A |
-| 29 | [ITLA](http://twitter.com/search?q=ITLA) | N/A |
-| 30 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 31 | [caro brito](http://twitter.com/search?q=caro+brito) | N/A |
-| 32 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
-| 33 | [Doble Reserva](http://twitter.com/search?q=Doble+Reserva) | N/A |
-| 34 | [Progreso o Amenaza](http://twitter.com/search?q=Progreso+o+Amenaza) | N/A |
-| 35 | [Mérido Torres](http://twitter.com/search?q=M%c3%a9rido+Torres) | N/A |
-| 36 | [Humanidad](http://twitter.com/search?q=Humanidad) | N/A |
-| 37 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 38 | [#DeUltimoMinuto](http://twitter.com/search?q=%23DeUltimoMinuto) | N/A |
-| 39 | [Extraviejo](http://twitter.com/search?q=Extraviejo) | N/A |
-| 40 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 41 | [Presidente Abinader](http://twitter.com/search?q=Presidente+Abinader) | N/A |
-| 42 | [Alianza Opositora](http://twitter.com/search?q=Alianza+Opositora) | N/A |
-| 43 | [Jimaní](http://twitter.com/search?q=Jiman%c3%ad) | N/A |
-| 44 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 45 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
-| 46 | [Lider](http://twitter.com/search?q=Lider) | N/A |
-| 47 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
-| 48 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 49 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
-| 50 | [Fort Lauderdale](http://twitter.com/search?q=Fort+Lauderdale) | N/A |
+| 25 | [Alianza Opositora](http://twitter.com/search?q=Alianza+Opositora) | N/A |
+| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 27 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 28 | [Doble Reserva](http://twitter.com/search?q=Doble+Reserva) | N/A |
+| 29 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
+| 30 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
+| 31 | [villa faro](http://twitter.com/search?q=villa+faro) | N/A |
+| 32 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 33 | [Extraviejo](http://twitter.com/search?q=Extraviejo) | N/A |
+| 34 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 35 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 36 | [Fulcar](http://twitter.com/search?q=Fulcar) | N/A |
+| 37 | [CONANI](http://twitter.com/search?q=CONANI) | N/A |
+| 38 | [Alzheimer](http://twitter.com/search?q=Alzheimer) | N/A |
+| 39 | [Villa Mella](http://twitter.com/search?q=Villa+Mella) | N/A |
+| 40 | [vinicio](http://twitter.com/search?q=vinicio) | N/A |
+| 41 | [Santo Domingo Oeste](http://twitter.com/search?q=Santo+Domingo+Oeste) | N/A |
+| 42 | [José](http://twitter.com/search?q=Jos%c3%a9) | N/A |
+| 43 | [Kpinini](http://twitter.com/search?q=Kpinini) | N/A |
+| 44 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
+| 45 | [Aparte](http://twitter.com/search?q=Aparte) | N/A |
+| 46 | [Omega](http://twitter.com/search?q=Omega) | N/A |
+| 47 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 48 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 49 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
+| 50 | [Ramón Alburquerque](http://twitter.com/search?q=Ram%c3%b3n+Alburquerque) | N/A |
 
 
 
