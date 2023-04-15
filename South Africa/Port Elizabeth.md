@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-04-15 00:28:05 UTC`
+📆 Last Updated: `2023-04-15 01:43:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,53 @@ This is top 50 for [South Africa](</South Africa>)
 | ------- | ------------ | ------------ |
 | 1 | [#ThaboBester](http://twitter.com/search?q=%23ThaboBester) | N/A |
 | 2 | [#DrNandiphaMagudumana](http://twitter.com/search?q=%23DrNandiphaMagudumana) | N/A |
-| 3 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
-| 4 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 5 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
-| 6 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 7 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
-| 8 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 9 | [CONGRATULATIONS KHOSI](http://twitter.com/search?q=CONGRATULATIONS+KHOSI) | N/A |
-| 10 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
-| 11 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 12 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 13 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 14 | [Cele](http://twitter.com/search?q=Cele) | N/A |
-| 15 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
-| 16 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
-| 17 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 18 | [SA ID](http://twitter.com/search?q=SA+ID) | N/A |
-| 19 | [Mr Jones](http://twitter.com/search?q=Mr+Jones) | N/A |
-| 20 | [7de Laan](http://twitter.com/search?q=7de+Laan) | N/A |
-| 21 | [GRACEFUL KHOSI](http://twitter.com/search?q=GRACEFUL+KHOSI) | N/A |
-| 22 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 23 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 24 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 25 | [Bara](http://twitter.com/search?q=Bara) | N/A |
-| 26 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
-| 27 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 3 | [#SkeemSaam](http://twitter.com/search?q=%23SkeemSaam) | N/A |
+| 4 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 5 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
+| 6 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
+| 7 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 8 | [#GoldMafia4](http://twitter.com/search?q=%23GoldMafia4) | N/A |
+| 9 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
+| 10 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 11 | [CONGRATULATIONS KHOSI](http://twitter.com/search?q=CONGRATULATIONS+KHOSI) | N/A |
+| 12 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
+| 13 | [THE TSATSII EFFECT](http://twitter.com/search?q=THE+TSATSII+EFFECT) | N/A |
+| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 15 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
+| 16 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 17 | [Bara](http://twitter.com/search?q=Bara) | N/A |
+| 18 | [7de laan](http://twitter.com/search?q=7de+laan) | N/A |
+| 19 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 20 | [Cele](http://twitter.com/search?q=Cele) | N/A |
+| 21 | [thembinkosi lorch](http://twitter.com/search?q=thembinkosi+lorch) | N/A |
+| 22 | [SA ID](http://twitter.com/search?q=SA+ID) | N/A |
+| 23 | [Damelin](http://twitter.com/search?q=Damelin) | N/A |
+| 24 | [Mr Jones](http://twitter.com/search?q=Mr+Jones) | N/A |
+| 25 | [Obed](http://twitter.com/search?q=Obed) | N/A |
+| 26 | [Madhuku](http://twitter.com/search?q=Madhuku) | N/A |
+| 27 | [Grade 5](http://twitter.com/search?q=Grade+5) | N/A |
 | 28 | [Size 6](http://twitter.com/search?q=Size+6) | N/A |
-| 29 | [Damelin](http://twitter.com/search?q=Damelin) | N/A |
-| 30 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 31 | [Motsoaledi](http://twitter.com/search?q=Motsoaledi) | N/A |
-| 32 | [Madhuku](http://twitter.com/search?q=Madhuku) | N/A |
-| 33 | [UNSTOPPABLE KHOSI](http://twitter.com/search?q=UNSTOPPABLE+KHOSI) | N/A |
-| 34 | [THE TSATSII EFFECT](http://twitter.com/search?q=THE+TSATSII+EFFECT) | N/A |
-| 35 | [SAPS](http://twitter.com/search?q=SAPS) | N/A |
-| 36 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 37 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 38 | [dyantyi](http://twitter.com/search?q=dyantyi) | N/A |
-| 39 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 40 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
-| 41 | [Glynnis Breytenbach](http://twitter.com/search?q=Glynnis+Breytenbach) | N/A |
-| 42 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 43 | [Grade 5](http://twitter.com/search?q=Grade+5) | N/A |
-| 44 | [Grant Williams](http://twitter.com/search?q=Grant+Williams) | Grant Williams is a name, typically used as a given name for males. It is derived from the Old French word "grand" meaning "great" and the Germanic word "willihelm" meaning "helmet of protection". The name Grant is often associated with strength, courage, and determination. |
-| 45 | [TBANGERS 2K CHALLENGE](http://twitter.com/search?q=TBANGERS+2K+CHALLENGE) | N/A |
-| 46 | [Moshe](http://twitter.com/search?q=Moshe) | N/A |
-| 47 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 48 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
+| 29 | [Bomma](http://twitter.com/search?q=Bomma) | N/A |
+| 30 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 31 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 32 | [Melita](http://twitter.com/search?q=Melita) | N/A |
+| 33 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 34 | [Motsoaledi](http://twitter.com/search?q=Motsoaledi) | N/A |
+| 35 | [GRACEFUL KHOSI](http://twitter.com/search?q=GRACEFUL+KHOSI) | N/A |
+| 36 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 37 | [Sandra](http://twitter.com/search?q=Sandra) | Sandra is a female given name of Latin origin, derived from the masculine name Alexander. It means "defender of men" or "protector of mankind". |
+| 38 | [Raspberry](http://twitter.com/search?q=Raspberry) | N/A |
+| 39 | [Bail](http://twitter.com/search?q=Bail) | N/A |
+| 40 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
+| 41 | [Gemini](http://twitter.com/search?q=Gemini) | N/A |
+| 42 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
+| 43 | [Christy O](http://twitter.com/search?q=Christy+O) | N/A |
+| 44 | [My Friend](http://twitter.com/search?q=My+Friend) | N/A |
+| 45 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 46 | [Mabaso](http://twitter.com/search?q=Mabaso) | N/A |
+| 47 | [Just Do It](http://twitter.com/search?q=Just+Do+It) | N/A |
+| 48 | [Kgosi Mampuru](http://twitter.com/search?q=Kgosi+Mampuru) | N/A |
+| 49 | [tbangers 2k challenge](http://twitter.com/search?q=tbangers+2k+challenge) | N/A |
 
 
 

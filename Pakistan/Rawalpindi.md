@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-04-15 00:28:09 UTC`
+📆 Last Updated: `2023-04-15 01:43:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#بنے_گا_نیا_پاکستان](http://twitter.com/search?q=%23%d8%a8%d9%86%db%92_%da%af%d8%a7_%d9%86%db%8c%d8%a7_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86) | N/A |
 | 4 | [#WeStandwithConstitution](http://twitter.com/search?q=%23WeStandwithConstitution) | N/A |
 | 5 | [#BajaurStandForPeace](http://twitter.com/search?q=%23BajaurStandForPeace) | N/A |
-| 6 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 7 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 8 | [SHAHEEN SHAH AFRIDI](http://twitter.com/search?q=SHAHEEN+SHAH+AFRIDI) | N/A |
-| 9 | [bank al habib](http://twitter.com/search?q=bank+al+habib) | N/A |
-| 10 | [Zaman](http://twitter.com/search?q=Zaman) | N/A |
-| 11 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 6 | [Saim Ayub](http://twitter.com/search?q=Saim+Ayub) | N/A |
+| 7 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
+| 8 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
+| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 11 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
 | 12 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
-| 13 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
-| 14 | [Download Now](http://twitter.com/search?q=Download+Now) | N/A |
-| 15 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 16 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 17 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 18 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 19 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 20 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 21 | [mashion bazaar](http://twitter.com/search?q=mashion+bazaar) | N/A |
-| 22 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 23 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 24 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 25 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
-| 26 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
-| 27 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 28 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 29 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 30 | [Kiwis](http://twitter.com/search?q=Kiwis) | N/A |
-| 31 | [Amir](http://twitter.com/search?q=Amir) | Amir is an Arabic name meaning "Prince" or "Commander". It is also used as a title of nobility in some Muslim countries. |
-| 32 | [Speed](http://twitter.com/search?q=Speed) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [Contact](http://twitter.com/search?q=Contact) | N/A |
-| 35 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
-| 36 | [Mashallah](http://twitter.com/search?q=Mashallah) | N/A |
-| 37 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 38 | [Yes Sir](http://twitter.com/search?q=Yes+Sir) | N/A |
-| 39 | [Hoping](http://twitter.com/search?q=Hoping) | N/A |
-| 40 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
-| 41 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
-| 42 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 43 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
-| 44 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 45 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 46 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
-| 47 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 48 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 49 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 50 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 13 | [State Bank](http://twitter.com/search?q=State+Bank) | N/A |
+| 14 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 15 | [Shaheen Shah Afridi](http://twitter.com/search?q=Shaheen+Shah+Afridi) | N/A |
+| 16 | [Zaman](http://twitter.com/search?q=Zaman) | N/A |
+| 17 | [bank al habib](http://twitter.com/search?q=bank+al+habib) | N/A |
+| 18 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
+| 19 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
+| 20 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 21 | [Sehri](http://twitter.com/search?q=Sehri) | N/A |
+| 22 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
+| 23 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 24 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 25 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 26 | [Friday of Ramadan](http://twitter.com/search?q=Friday+of+Ramadan) | N/A |
+| 27 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 28 | [mashion bazaar](http://twitter.com/search?q=mashion+bazaar) | N/A |
+| 29 | [Center of Gravity](http://twitter.com/search?q=Center+of+Gravity) | N/A |
+| 30 | [Zong](http://twitter.com/search?q=Zong) | N/A |
+| 31 | [Speed](http://twitter.com/search?q=Speed) | N/A |
+| 32 | [Milne](http://twitter.com/search?q=Milne) | N/A |
+| 33 | [Sherry Rehman](http://twitter.com/search?q=Sherry+Rehman) | N/A |
+| 34 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
+| 35 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
+| 36 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 37 | [Contact](http://twitter.com/search?q=Contact) | N/A |
+| 38 | [Ma Sha Allah](http://twitter.com/search?q=Ma+Sha+Allah) | N/A |
+| 39 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
+| 40 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
+| 41 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 42 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 43 | [Hamid](http://twitter.com/search?q=Hamid) | N/A |
+| 44 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 45 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 46 | [Boss](http://twitter.com/search?q=Boss) | N/A |
+| 47 | [Hiya](http://twitter.com/search?q=Hiya) | N/A |
+| 48 | [Kuch](http://twitter.com/search?q=Kuch) | N/A |
+| 49 | [Generals](http://twitter.com/search?q=Generals) | N/A |
+| 50 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 
 
 

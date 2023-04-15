@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-15 00:27:53 UTC`
+📆 Last Updated: `2023-04-15 01:43:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 2 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
-| 3 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
-| 4 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
-| 5 | [#GSHC](http://twitter.com/search?q=%23GSHC) | N/A |
-| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 7 | [eToro](http://twitter.com/search?q=eToro) | N/A |
-| 8 | [Sion](http://twitter.com/search?q=Sion) | N/A |
-| 9 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
-| 10 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 11 | [Brot](http://twitter.com/search?q=Brot) | N/A |
-| 12 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 13 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
-| 14 | [Tier](http://twitter.com/search?q=Tier) | N/A |
-| 15 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 16 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 17 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 18 | [Begriff](http://twitter.com/search?q=Begriff) | N/A |
-| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 21 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 22 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 23 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
-| 24 | [Depends](http://twitter.com/search?q=Depends) | N/A |
-| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 26 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
-| 27 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
-| 28 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 29 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 30 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 31 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 32 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 35 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 36 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 37 | [Dinger](http://twitter.com/search?q=Dinger) | N/A |
-| 38 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
-| 39 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 40 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 41 | [Windows](http://twitter.com/search?q=Windows) | N/A |
-| 42 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
-| 43 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 44 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 45 | [Geschäft](http://twitter.com/search?q=Gesch%c3%a4ft) | N/A |
-| 46 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
-| 47 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
+| 1 | [Elisabeth Kopp](http://twitter.com/search?q=Elisabeth+Kopp) | N/A |
+| 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
+| 3 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 4 | [#GSHC](http://twitter.com/search?q=%23GSHC) | N/A |
+| 5 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
+| 6 | [Bienne](http://twitter.com/search?q=Bienne) | N/A |
+| 7 | [bundesrätin](http://twitter.com/search?q=bundesr%c3%a4tin) | N/A |
+| 8 | [#FCBOGCN](http://twitter.com/search?q=%23FCBOGCN) | N/A |
+| 9 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 10 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 11 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 12 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 13 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 14 | [Argumentation](http://twitter.com/search?q=Argumentation) | N/A |
+| 15 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 16 | [Einzelfall](http://twitter.com/search?q=Einzelfall) | N/A |
+| 17 | [Notfall](http://twitter.com/search?q=Notfall) | N/A |
+| 18 | [Maske](http://twitter.com/search?q=Maske) | N/A |
+| 19 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 20 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 21 | [Abschaltung](http://twitter.com/search?q=Abschaltung) | N/A |
+| 22 | [Biel](http://twitter.com/search?q=Biel) | N/A |
+| 23 | [En France](http://twitter.com/search?q=En+France) | N/A |
+| 24 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 25 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 26 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 27 | [Theo](http://twitter.com/search?q=Theo) | N/A |
+| 28 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
+| 29 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 30 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 31 | [Brot](http://twitter.com/search?q=Brot) | N/A |
+| 32 | [Tokyo](http://twitter.com/search?q=Tokyo) | N/A |
+| 33 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 34 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 35 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 36 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | N/A |
+| 37 | [Stil](http://twitter.com/search?q=Stil) | N/A |
+| 38 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
+| 39 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 40 | [Phase](http://twitter.com/search?q=Phase) | N/A |
+| 41 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
+| 42 | [Lots](http://twitter.com/search?q=Lots) | N/A |
+| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 44 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 45 | [Rechtsstaat](http://twitter.com/search?q=Rechtsstaat) | N/A |
+| 46 | [Engagement](http://twitter.com/search?q=Engagement) | N/A |
+| 47 | [Shapella](http://twitter.com/search?q=Shapella) | N/A |
 
 
 

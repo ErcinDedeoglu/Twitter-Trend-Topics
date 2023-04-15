@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-04-15 00:28:23 UTC`
+📆 Last Updated: `2023-04-15 01:44:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Canada
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 2 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 3 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 4 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 5 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
-| 6 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 7 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 8 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 9 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
-| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 11 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 12 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 13 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 14 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 15 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 16 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 17 | [Springer Dinger](http://twitter.com/search?q=Springer+Dinger) | N/A |
-| 18 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 19 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
-| 20 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
-| 21 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
-| 22 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 23 | [Rasmussen](http://twitter.com/search?q=Rasmussen) | N/A |
-| 24 | [Kevin Kiermaier](http://twitter.com/search?q=Kevin+Kiermaier) | N/A |
-| 25 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 26 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 27 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
-| 28 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 29 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 30 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
-| 31 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
-| 32 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 33 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 34 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 35 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 36 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 37 | [Régine](http://twitter.com/search?q=R%c3%a9gine) | N/A |
-| 38 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
-| 39 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
-| 40 | [Game 82](http://twitter.com/search?q=Game+82) | N/A |
-| 41 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 42 | [Budda Baker](http://twitter.com/search?q=Budda+Baker) | N/A |
-| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 44 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 45 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 47 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 48 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
-| 49 | [Bo Bichette](http://twitter.com/search?q=Bo+Bichette) | N/A |
-| 50 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 3 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
+| 4 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 5 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 6 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 7 | [Richards](http://twitter.com/search?q=Richards) | Richards is a surname of English origin. It is derived from the given name Richard, which means "strong ruler". |
+| 8 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 9 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 10 | [Bo Bichette](http://twitter.com/search?q=Bo+Bichette) | N/A |
+| 11 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 12 | [Zach Pop](http://twitter.com/search?q=Zach+Pop) | N/A |
+| 13 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 14 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 15 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 16 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 17 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 18 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
+| 19 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 20 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 21 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 22 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 23 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 24 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 25 | [Swanson](http://twitter.com/search?q=Swanson) | N/A |
+| 26 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [Springer Dinger](http://twitter.com/search?q=Springer+Dinger) | N/A |
+| 29 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
+| 30 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 31 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 32 | [Poche](http://twitter.com/search?q=Poche) | N/A |
+| 33 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 34 | [Shinsuke](http://twitter.com/search?q=Shinsuke) | N/A |
+| 35 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 36 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 37 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
+| 38 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 39 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 40 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
+| 41 | [Rasmussen](http://twitter.com/search?q=Rasmussen) | N/A |
+| 42 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 43 | [Danny Jansen](http://twitter.com/search?q=Danny+Jansen) | N/A |
+| 44 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
+| 45 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 46 | [Régine](http://twitter.com/search?q=R%c3%a9gine) | N/A |
+| 47 | [Xavier Woods](http://twitter.com/search?q=Xavier+Woods) | N/A |
+| 48 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
+| 49 | [Burke](http://twitter.com/search?q=Burke) | N/A |
+| 50 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
 
 
 
