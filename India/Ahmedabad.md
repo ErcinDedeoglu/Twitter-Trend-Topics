@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-04-15 07:17:06 UTC`
+📆 Last Updated: `2023-04-15 08:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#सत्यानाशी_कांग्रेस](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%be%e0%a4%b6%e0%a5%80_%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 2 | [#AskHimesh](http://twitter.com/search?q=%23AskHimesh) | N/A |
+| 1 | [#RajasthanWelcomeAmitshah](http://twitter.com/search?q=%23RajasthanWelcomeAmitshah) | N/A |
+| 2 | [#IB71Teaser](http://twitter.com/search?q=%23IB71Teaser) | N/A |
 | 3 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
 | 4 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
 | 5 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
-| 6 | [Shubho Noboborsho](http://twitter.com/search?q=Shubho+Noboborsho) | N/A |
-| 7 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
-| 8 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 9 | [Kahan Chhup Gaye](http://twitter.com/search?q=Kahan+Chhup+Gaye) | N/A |
-| 10 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 6 | [CAPF](http://twitter.com/search?q=CAPF) | N/A |
+| 7 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 8 | [Constable](http://twitter.com/search?q=Constable) | N/A |
+| 9 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 10 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
 | 11 | [नरोत्तम मिश्रा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 12 | [प्राकृतिक सौंदर्य](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%8c%e0%a4%82%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 12 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
 | 13 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
-| 14 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
-| 15 | [Aaj Ki Taja Khabar](http://twitter.com/search?q=Aaj+Ki+Taja+Khabar) | N/A |
-| 16 | [Raigad](http://twitter.com/search?q=Raigad) | N/A |
-| 17 | [Chhoti Damini](http://twitter.com/search?q=Chhoti+Damini) | N/A |
+| 14 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
+| 15 | [जवान शहीद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 16 | [Aaj Ki Taja Khabar](http://twitter.com/search?q=Aaj+Ki+Taja+Khabar) | N/A |
+| 17 | [Raigad](http://twitter.com/search?q=Raigad) | N/A |
 | 18 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 19 | [जवान शहीद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 20 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 21 | [Bournvita](http://twitter.com/search?q=Bournvita) | N/A |
-| 22 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 23 | [दीपक चौरसिया](http://twitter.com/search?q=%e0%a4%a6%e0%a5%80%e0%a4%aa%e0%a4%95+%e0%a4%9a%e0%a5%8c%e0%a4%b0%e0%a4%b8%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 24 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
-| 25 | [Audio](http://twitter.com/search?q=Audio) | N/A |
+| 19 | [प्राकृतिक सौंदर्य](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%8c%e0%a4%82%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 20 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 21 | [Chhoti Damini](http://twitter.com/search?q=Chhoti+Damini) | N/A |
+| 22 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
+| 23 | [Hindi and English](http://twitter.com/search?q=Hindi+and+English) | N/A |
+| 24 | [Bournvita](http://twitter.com/search?q=Bournvita) | N/A |
+| 25 | [Governor](http://twitter.com/search?q=Governor) | N/A |
 | 26 | [The Wire](http://twitter.com/search?q=The+Wire) | N/A |
-| 27 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 28 | [केंद्रीय गृह](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%83%e0%a4%b9) | N/A |
-| 29 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 30 | [Kashi](http://twitter.com/search?q=Kashi) | N/A |
-| 31 | [Godi](http://twitter.com/search?q=Godi) | N/A |
-| 32 | [भारतीय जनता](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
-| 33 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 34 | [#SatyapalMalik](http://twitter.com/search?q=%23SatyapalMalik) | N/A |
-| 35 | [#CorruptPradhanMantri](http://twitter.com/search?q=%23CorruptPradhanMantri) | N/A |
-| 36 | [#WorldArtDay](http://twitter.com/search?q=%23WorldArtDay) | N/A |
-| 37 | [#ArvindKejriwal](http://twitter.com/search?q=%23ArvindKejriwal) | N/A |
-| 38 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
-| 39 | [#HimachalDay](http://twitter.com/search?q=%23HimachalDay) | N/A |
-| 40 | [#bengalinewyear](http://twitter.com/search?q=%23bengalinewyear) | N/A |
-| 41 | [#AlertBSF](http://twitter.com/search?q=%23AlertBSF) | N/A |
-| 42 | [#RCBvsDC](http://twitter.com/search?q=%23RCBvsDC) | N/A |
-| 43 | [#PakSmugglesDrugs](http://twitter.com/search?q=%23PakSmugglesDrugs) | N/A |
-| 44 | [#NaPakDrone](http://twitter.com/search?q=%23NaPakDrone) | N/A |
-| 45 | [#BusAccident](http://twitter.com/search?q=%23BusAccident) | N/A |
-| 46 | [#Japan](http://twitter.com/search?q=%23Japan) | N/A |
+| 27 | [PETA](http://twitter.com/search?q=PETA) | N/A |
+| 28 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 29 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
+| 30 | [Ghulam Nabi Azad](http://twitter.com/search?q=Ghulam+Nabi+Azad) | N/A |
+| 31 | [Corruption](http://twitter.com/search?q=Corruption) | N/A |
+| 32 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 33 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
+| 34 | [भारतीय जनता](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
+| 35 | [#सत्यानाशी_कांग्रेस](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%be%e0%a4%b6%e0%a5%80_%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 36 | [#AskHimesh](http://twitter.com/search?q=%23AskHimesh) | N/A |
+| 37 | [#SatyapalMalik](http://twitter.com/search?q=%23SatyapalMalik) | N/A |
+| 38 | [#CorruptPradhanMantri](http://twitter.com/search?q=%23CorruptPradhanMantri) | N/A |
+| 39 | [#ArvindKejriwal](http://twitter.com/search?q=%23ArvindKejriwal) | N/A |
+| 40 | [#RCBvsDC](http://twitter.com/search?q=%23RCBvsDC) | N/A |
+| 41 | [#WorldArtDay](http://twitter.com/search?q=%23WorldArtDay) | N/A |
+| 42 | [#HimachalDay](http://twitter.com/search?q=%23HimachalDay) | N/A |
+| 43 | [#FireStormIsComing](http://twitter.com/search?q=%23FireStormIsComing) | N/A |
+| 44 | [#FumioKishida](http://twitter.com/search?q=%23FumioKishida) | N/A |
+| 45 | [#AlertBSF](http://twitter.com/search?q=%23AlertBSF) | N/A |
+| 46 | [#bengalinewyear](http://twitter.com/search?q=%23bengalinewyear) | N/A |
 
 
 

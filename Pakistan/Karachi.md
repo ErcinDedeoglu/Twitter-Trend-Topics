@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-04-15 07:17:04 UTC`
+📆 Last Updated: `2023-04-15 08:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ہردشمن_نبی_سےاعلان_جنگ](http://twitter.com/search?q=%23%db%81%d8%b1%d8%af%d8%b4%d9%85%d9%86_%d9%86%d8%a8%db%8c_%d8%b3%db%92%d8%a7%d8%b9%d9%84%d8%a7%d9%86_%d8%ac%d9%86%da%af) | N/A |
-| 2 | [#بنے_گا_نیا_پاکستان](http://twitter.com/search?q=%23%d8%a8%d9%86%db%92_%da%af%d8%a7_%d9%86%db%8c%d8%a7_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86) | N/A |
-| 3 | [#PakvsNz](http://twitter.com/search?q=%23PakvsNz) | N/A |
-| 4 | [#ReverseBajwaDecisions](http://twitter.com/search?q=%23ReverseBajwaDecisions) | N/A |
+| 1 | [#BOLKaAkashLapata](http://twitter.com/search?q=%23BOLKaAkashLapata) | N/A |
+| 2 | [#ہردشمن_نبی_سےاعلان_جنگ](http://twitter.com/search?q=%23%db%81%d8%b1%d8%af%d8%b4%d9%85%d9%86_%d9%86%d8%a8%db%8c_%d8%b3%db%92%d8%a7%d8%b9%d9%84%d8%a7%d9%86_%d8%ac%d9%86%da%af) | N/A |
+| 3 | [#بنے_گا_نیا_پاکستان](http://twitter.com/search?q=%23%d8%a8%d9%86%db%92_%da%af%d8%a7_%d9%86%db%8c%d8%a7_%d9%be%d8%a7%da%a9%d8%b3%d8%aa%d8%a7%d9%86) | N/A |
+| 4 | [#PakvsNz](http://twitter.com/search?q=%23PakvsNz) | N/A |
 | 5 | [#AsimMunir](http://twitter.com/search?q=%23AsimMunir) | N/A |
 | 6 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
 | 7 | [shaheen shah afridi](http://twitter.com/search?q=shaheen+shah+afridi) | N/A |
 | 8 | [Imad](http://twitter.com/search?q=Imad) | N/A |
 | 9 | [Hamara Pakistan](http://twitter.com/search?q=Hamara+Pakistan) | N/A |
-| 10 | [Zaman](http://twitter.com/search?q=Zaman) | N/A |
-| 11 | [Faheem](http://twitter.com/search?q=Faheem) | Faheem is an Arabic name meaning "intelligent" or "wise". |
+| 10 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 11 | [faheem](http://twitter.com/search?q=faheem) | N/A |
 | 12 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
 | 13 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 | 14 | [Bank Al Habib](http://twitter.com/search?q=Bank+Al+Habib) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 17 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 18 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
 | 19 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 20 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 21 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 22 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 20 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
+| 21 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 22 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
 | 23 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
-| 24 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 25 | [Shadab Khan](http://twitter.com/search?q=Shadab+Khan) | N/A |
-| 26 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 27 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
-| 28 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 29 | [Centre](http://twitter.com/search?q=Centre) | N/A |
-| 30 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
-| 31 | [Speed](http://twitter.com/search?q=Speed) | N/A |
-| 32 | [Mashion Bazaar](http://twitter.com/search?q=Mashion+Bazaar) | N/A |
-| 33 | [Asif Ali Zardari](http://twitter.com/search?q=Asif+Ali+Zardari) | N/A |
-| 34 | [APTMA](http://twitter.com/search?q=APTMA) | N/A |
-| 35 | [Sherry Rehman](http://twitter.com/search?q=Sherry+Rehman) | N/A |
+| 24 | [APTMA](http://twitter.com/search?q=APTMA) | N/A |
+| 25 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 26 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 27 | [Asif Ali Zardari](http://twitter.com/search?q=Asif+Ali+Zardari) | N/A |
+| 28 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 29 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 30 | [Centre](http://twitter.com/search?q=Centre) | N/A |
+| 31 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
+| 32 | [Speed](http://twitter.com/search?q=Speed) | N/A |
+| 33 | [Mashion Bazaar](http://twitter.com/search?q=Mashion+Bazaar) | N/A |
+| 34 | [Sherry Rehman](http://twitter.com/search?q=Sherry+Rehman) | N/A |
+| 35 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
 | 36 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 38 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 39 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 40 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 41 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 42 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
-| 43 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 44 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 45 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 37 | [Ramzan Habit Tracker](http://twitter.com/search?q=Ramzan+Habit+Tracker) | N/A |
+| 38 | [Center of Gravity](http://twitter.com/search?q=Center+of+Gravity) | N/A |
+| 39 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 40 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 41 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 42 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 43 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
+| 44 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 45 | [Modi](http://twitter.com/search?q=Modi) | N/A |
 | 46 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 47 | [Khoob](http://twitter.com/search?q=Khoob) | N/A |
-| 48 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 49 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 50 | [Saudi](http://twitter.com/search?q=Saudi) | Saudi is an adjective used to refer to something or someone from Saudi Arabia, a country in the Middle East. |
+| 47 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 48 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
+| 49 | [Ignore](http://twitter.com/search?q=Ignore) | N/A |
+| 50 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
 
 
 

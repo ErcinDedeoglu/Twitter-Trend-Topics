@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-04-15 07:17:01 UTC`
+📆 Last Updated: `2023-04-15 08:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [السناب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
-| 2 | [#ريبون](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a8%d9%88%d9%86) | N/A |
-| 3 | [#عيديه_كارديال_2](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d9%87_%d9%83%d8%a7%d8%b1%d8%af%d9%8a%d8%a7%d9%84_2) | N/A |
-| 4 | [#التحديث_الجديد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab_%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 5 | [#الغزال_لتاجير_السيارات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ba%d8%b2%d8%a7%d9%84_%d9%84%d8%aa%d8%a7%d8%ac%d9%8a%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 6 | [#الذكاء_الاصطناعي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1_%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 7 | [٢٤ رمضان](http://twitter.com/search?q=%d9%a2%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 8 | [24 رمضان](http://twitter.com/search?q=24+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 9 | [خالد بن عبدالعزيز](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 10 | [الملك خالد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 11 | [شكلي الوحيده](http://twitter.com/search?q=%d8%b4%d9%83%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af%d9%87) | N/A |
-| 12 | [صديقي الجديد](http://twitter.com/search?q=%d8%b5%d8%af%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 13 | [عبدالسلام](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 14 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 15 | [الجهه المتقطعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%b7%d8%b9%d9%87) | N/A |
-| 16 | [علي جوي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d9%88%d9%8a) | N/A |
-| 17 | [علي القرني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
-| 18 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 19 | [#المشراق1](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d8%a7%d9%821) | N/A |
-| 20 | [#مسابقه_طرق_الرياض24](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b624) | N/A |
-| 21 | [#مشاري_العتيبي](http://twitter.com/search?q=%23%d9%85%d8%b4%d8%a7%d8%b1%d9%8a_%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | N/A |
-| 22 | [#مسابقه_المربع_نت24](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa24) | N/A |
-| 23 | [#مبارك_الرشيدي](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
-| 24 | [#حلا_العيد_من_قطوف_وحلا](http://twitter.com/search?q=%23%d8%ad%d9%84%d8%a7_%d8%a7%d9%84%d8%b9%d9%8a%d8%af_%d9%85%d9%86_%d9%82%d8%b7%d9%88%d9%81_%d9%88%d8%ad%d9%84%d8%a7) | N/A |
-| 25 | [#حمله_البحث_عن_مبارك](http://twitter.com/search?q=%23%d8%ad%d9%85%d9%84%d9%87_%d8%a7%d9%84%d8%a8%d8%ad%d8%ab_%d8%b9%d9%86_%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 26 | [#فوازير_جدي6](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ac%d8%af%d9%8a6) | N/A |
-| 27 | [#الروشن23](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8623) | N/A |
-| 28 | [#عبدالرحمن_المطيري](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86_%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1%d9%8a) | N/A |
-| 29 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
-| 30 | [#المطانيخ23](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d9%86%d9%8a%d8%ae23) | N/A |
-| 31 | [#مسابقه_السلامه_المروريه23](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8723) | N/A |
-| 32 | [#بدايه](http://twitter.com/search?q=%23%d8%a8%d8%af%d8%a7%d9%8a%d9%87) | N/A |
-| 33 | [#تشيلسي_ريال_مدريد](http://twitter.com/search?q=%23%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
-| 34 | [#نابولي_ميلان](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a_%d9%85%d9%8a%d9%84%d8%a7%d9%86) | N/A |
-| 35 | [#وصيف_العالم](http://twitter.com/search?q=%23%d9%88%d8%b5%d9%8a%d9%81_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
-| 36 | [#غازكو_معكم20](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%b2%d9%83%d9%88_%d9%85%d8%b9%d9%83%d9%8520) | N/A |
+| 1 | [#الهلال_الباطن](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86) | N/A |
+| 2 | [السناب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
+| 3 | [#ريبون](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a8%d9%88%d9%86) | N/A |
+| 4 | [#الغزال_لتاجير_السيارات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ba%d8%b2%d8%a7%d9%84_%d9%84%d8%aa%d8%a7%d8%ac%d9%8a%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
+| 5 | [#كلمه_من_قلبك](http://twitter.com/search?q=%23%d9%83%d9%84%d9%85%d9%87_%d9%85%d9%86_%d9%82%d9%84%d8%a8%d9%83) | N/A |
+| 6 | [#عيديه_كارديال_2](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d9%87_%d9%83%d8%a7%d8%b1%d8%af%d9%8a%d8%a7%d9%84_2) | N/A |
+| 7 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
+| 8 | [٢٤ رمضان](http://twitter.com/search?q=%d9%a2%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 9 | [العويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%88%d9%8a%d8%b3) | العويس is an Arabic phrase that translates to "the one who is away". It is often used to refer to someone who has gone away or is absent. |
+| 10 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 11 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 12 | [الجهه المتقطعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%b7%d8%b9%d9%87) | N/A |
+| 13 | [ناصر الدوسري](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | ناصر الدوسري is the name of a prominent Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014. In English, it translates to Nouri al-Maliki. |
+| 14 | [ياسر الشهراني](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b3%d8%b1+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 15 | [صالح الشهري](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%b4%d9%87%d8%b1%d9%8a) | صالح الشهري is an Arabic phrase that translates to "monthly good deed". It is a phrase used to describe a charitable act or donation that is done on a regular basis. |
+| 16 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 17 | [صديقي الجديد](http://twitter.com/search?q=%d8%b5%d8%af%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 18 | [الملك خالد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
+| 19 | [خالد بن عبدالعزيز](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 20 | [24 رمضان](http://twitter.com/search?q=24+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 21 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 22 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 23 | [اوتار العشر](http://twitter.com/search?q=%d8%a7%d9%88%d8%aa%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%b4%d8%b1) | N/A |
+| 24 | [المركبه البيضاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%a8%d9%87+%d8%a7%d9%84%d8%a8%d9%8a%d8%b6%d8%a7%d8%a1) | N/A |
+| 25 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
+| 26 | [علي القرني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
+| 27 | [عبدالله الحربي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | N/A |
+| 28 | [الليله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 29 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 30 | [الجبر التجاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a8%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 31 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 32 | [رصيف العالم](http://twitter.com/search?q=%d8%b1%d8%b5%d9%8a%d9%81+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 33 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 34 | [الشعب السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 35 | [الخرطوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d8%b7%d9%88%d9%85) | N/A |
+| 36 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 37 | [عبدالسلام](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 38 | [ريانة برناوي](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%86%d8%a9+%d8%a8%d8%b1%d9%86%d8%a7%d9%88%d9%8a) | N/A |
+| 39 | [راعي الجمس](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d8%b3) | N/A |
+| 40 | [موسي ماريغا](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%85%d8%a7%d8%b1%d9%8a%d8%ba%d8%a7) | N/A |
+| 41 | [عبدالله الحمدان](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | N/A |
+| 42 | [المركز الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 43 | [خليفه الدوسري](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 44 | [كرت الشاشه](http://twitter.com/search?q=%d9%83%d8%b1%d8%aa+%d8%a7%d9%84%d8%b4%d8%a7%d8%b4%d9%87) | N/A |
+| 45 | [محمود الصبيحي](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%b5%d8%a8%d9%8a%d8%ad%d9%8a) | N/A |
+| 46 | [شكلي الوحيده](http://twitter.com/search?q=%d8%b4%d9%83%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af%d9%87) | N/A |
+| 47 | [علي الطنطاوي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b7%d9%86%d8%b7%d8%a7%d9%88%d9%8a) | N/A |
+| 48 | [سميرة](http://twitter.com/search?q=%d8%b3%d9%85%d9%8a%d8%b1%d8%a9) | N/A |
+| 49 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
+| 50 | [بيوت النبي](http://twitter.com/search?q=%d8%a8%d9%8a%d9%88%d8%aa+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | N/A |
 
 
 

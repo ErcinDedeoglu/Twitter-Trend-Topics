@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-15 07:16:28 UTC`
+📆 Last Updated: `2023-04-15 08:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,16 +17,16 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
 | 2 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 3 | [#Coachella](http://twitter.com/search?q=%23Coachella) | N/A |
-| 4 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 3 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 4 | [#Coachella](http://twitter.com/search?q=%23Coachella) | N/A |
 | 5 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 6 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 6 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 7 | [Telford](http://twitter.com/search?q=Telford) | N/A |
 | 8 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
 | 9 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 10 | [#Vaisakhi](http://twitter.com/search?q=%23Vaisakhi) | N/A |
-| 11 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 12 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
+| 10 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
+| 11 | [#Vaisakhi](http://twitter.com/search?q=%23Vaisakhi) | N/A |
+| 12 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 13 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 14 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
 | 15 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
@@ -37,33 +37,33 @@ This is top 50 for [Canada](</Canada>)
 | 20 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
 | 21 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
 | 22 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 23 | [NATHAN MACKINNON](http://twitter.com/search?q=NATHAN+MACKINNON) | N/A |
-| 24 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
-| 25 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
+| 23 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 24 | [Nathan MacKinnon](http://twitter.com/search?q=Nathan+MacKinnon) | N/A |
+| 25 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
 | 26 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
 | 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 28 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 29 | [Zach Pop](http://twitter.com/search?q=Zach+Pop) | N/A |
-| 30 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
-| 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 32 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 33 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 34 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 35 | [Auditor General](http://twitter.com/search?q=Auditor+General) | N/A |
-| 36 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 37 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 38 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 39 | [Régine](http://twitter.com/search?q=R%c3%a9gine) | N/A |
-| 40 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 41 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 42 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 43 | [Rasmussen](http://twitter.com/search?q=Rasmussen) | N/A |
-| 44 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
-| 45 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 46 | [espinal](http://twitter.com/search?q=espinal) | N/A |
-| 47 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 48 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 49 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 28 | [Zach Pop](http://twitter.com/search?q=Zach+Pop) | N/A |
+| 29 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 30 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 31 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
+| 32 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 33 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 34 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 35 | [Régine](http://twitter.com/search?q=R%c3%a9gine) | N/A |
+| 36 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 37 | [Auditor General](http://twitter.com/search?q=Auditor+General) | N/A |
+| 38 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 39 | [Rasmussen](http://twitter.com/search?q=Rasmussen) | N/A |
+| 40 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
+| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 42 | [espinal](http://twitter.com/search?q=espinal) | N/A |
+| 43 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 44 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 45 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 46 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 47 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 48 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 49 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
 
 
 

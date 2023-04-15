@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-04-15 07:16:29 UTC`
+📆 Last Updated: `2023-04-15 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
-| 2 | [Never Forgotten](http://twitter.com/search?q=Never+Forgotten) | N/A |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 5 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 6 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 7 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 8 | [#PostboxSaturday](http://twitter.com/search?q=%23PostboxSaturday) | N/A |
-| 9 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 10 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 11 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 12 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 4 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 5 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 6 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 7 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 10 | [Never Forgotten](http://twitter.com/search?q=Never+Forgotten) | N/A |
+| 11 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 12 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 13 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 14 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 15 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
-| 16 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 14 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 15 | [200 PRITT STICKS](http://twitter.com/search?q=200+PRITT+STICKS) | N/A |
+| 16 | [RIP the 97](http://twitter.com/search?q=RIP+the+97) | N/A |
+| 17 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 19 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 20 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 20 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
 | 21 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 22 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 23 | [RIP the 97](http://twitter.com/search?q=RIP+the+97) | N/A |
-| 24 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
-| 25 | [Ralphy](http://twitter.com/search?q=Ralphy) | N/A |
+| 22 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
+| 23 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
+| 24 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 25 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
 | 26 | [Brett](http://twitter.com/search?q=Brett) | N/A |
 | 27 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 28 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 29 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 30 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
-| 31 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 28 | [Ralphy](http://twitter.com/search?q=Ralphy) | N/A |
+| 29 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 30 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 31 | [Archer](http://twitter.com/search?q=Archer) | N/A |
 | 32 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
 | 33 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
 | 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 35 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 36 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 35 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 36 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 37 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 38 | [Sunak](http://twitter.com/search?q=Sunak) | N/A |
-| 39 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 40 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 41 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
-| 42 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 43 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 44 | [Aaron Ramsey](http://twitter.com/search?q=Aaron+Ramsey) | N/A |
-| 45 | [Not the North](http://twitter.com/search?q=Not+the+North) | N/A |
+| 38 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 39 | [RIP 97](http://twitter.com/search?q=RIP+97) | N/A |
+| 40 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 41 | [Derby Day](http://twitter.com/search?q=Derby+Day) | Derby Day is a term used to refer to the day of a major horse race, usually the Kentucky Derby in the United States. It is a day of celebration and excitement, with people gathering to watch the race and place bets on their favorite horses. The phrase can also be used more generally to refer to any day when a major horse race takes place. |
+| 42 | [97 Liverpool](http://twitter.com/search?q=97+Liverpool) | N/A |
+| 43 | [Not the North](http://twitter.com/search?q=Not+the+North) | N/A |
+| 44 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 45 | [Meghan](http://twitter.com/search?q=Meghan) | N/A |
 | 46 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
-| 47 | [97 Liverpool](http://twitter.com/search?q=97+Liverpool) | N/A |
-| 48 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
-| 49 | [Lamela](http://twitter.com/search?q=Lamela) | Lamela is a Spanish surname derived from the Latin word "lamina," which means "blade." It is also used as a given name in some countries. In English, Lamela can be translated to mean "blade of steel." |
+| 47 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 48 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 49 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 
 
 

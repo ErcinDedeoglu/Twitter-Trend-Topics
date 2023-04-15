@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-04-15 07:16:50 UTC`
+📆 Last Updated: `2023-04-15 08:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,42 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#MudikBersamaBRI2023](http://twitter.com/search?q=%23MudikBersamaBRI2023) | N/A |
 | 2 | [#RtoVinJKT](http://twitter.com/search?q=%23RtoVinJKT) | N/A |
 | 3 | [#blibli](http://twitter.com/search?q=%23blibli) | N/A |
-| 4 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
-| 5 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 6 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 7 | [#ajaibluckyfriday](http://twitter.com/search?q=%23ajaibluckyfriday) | N/A |
-| 8 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 9 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
-| 10 | [New Spring With Our Trio](http://twitter.com/search?q=New+Spring+With+Our+Trio) | N/A |
-| 11 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 12 | [GULF READY TO HK](http://twitter.com/search?q=GULF+READY+TO+HK) | N/A |
+| 4 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 5 | [#GalaxyS235G](http://twitter.com/search?q=%23GalaxyS235G) | N/A |
+| 6 | [FLOWER FIFTH WIN](http://twitter.com/search?q=FLOWER+FIFTH+WIN) | N/A |
+| 7 | [CAT 2](http://twitter.com/search?q=CAT+2) | N/A |
+| 8 | [CAT 4A](http://twitter.com/search?q=CAT+4A) | N/A |
+| 9 | [New Spring With Our Trio](http://twitter.com/search?q=New+Spring+With+Our+Trio) | N/A |
+| 10 | [Awet](http://twitter.com/search?q=Awet) | N/A |
+| 11 | [GULF READY TO HK](http://twitter.com/search?q=GULF+READY+TO+HK) | N/A |
+| 12 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
 | 13 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
-| 16 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
-| 17 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
-| 18 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 19 | [Bandung](http://twitter.com/search?q=Bandung) | N/A |
-| 20 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
-| 21 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
-| 22 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 23 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 24 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
-| 25 | [Awet](http://twitter.com/search?q=Awet) | N/A |
-| 26 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 27 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
-| 28 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 29 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 30 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
-| 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 32 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 33 | [BIRD OT8](http://twitter.com/search?q=BIRD+OT8) | N/A |
-| 34 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
-| 35 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 36 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 37 | [prepare nuzulul qur'an](http://twitter.com/search?q=prepare+nuzulul+qur%27an) | N/A |
-| 38 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 39 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 40 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
-| 41 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
-| 42 | [Quora](http://twitter.com/search?q=Quora) | N/A |
-| 43 | [bsi maslahat](http://twitter.com/search?q=bsi+maslahat) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 46 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 47 | [Hotman](http://twitter.com/search?q=Hotman) | N/A |
-| 48 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 49 | [taeyong 1st love dictionary](http://twitter.com/search?q=taeyong+1st+love+dictionary) | N/A |
-| 50 | [Kafir](http://twitter.com/search?q=Kafir) | N/A |
+| 14 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
+| 15 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
+| 16 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
+| 17 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 18 | [Bandung](http://twitter.com/search?q=Bandung) | N/A |
+| 19 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 20 | [Aqua](http://twitter.com/search?q=Aqua) | N/A |
+| 21 | [Yana](http://twitter.com/search?q=Yana) | N/A |
+| 22 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
+| 23 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 24 | [APBD](http://twitter.com/search?q=APBD) | N/A |
+| 25 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
+| 26 | [Pejabat](http://twitter.com/search?q=Pejabat) | N/A |
+| 27 | [Gubernur](http://twitter.com/search?q=Gubernur) | N/A |
+| 28 | [#FLOWER5thWin](http://twitter.com/search?q=%23FLOWER5thWin) | N/A |
+| 29 | [#GalaxyS23xShopee](http://twitter.com/search?q=%23GalaxyS23xShopee) | N/A |
+| 30 | [#CosmostalesJKT48](http://twitter.com/search?q=%23CosmostalesJKT48) | N/A |
+| 31 | [#WelcomeWooYoonHo](http://twitter.com/search?q=%23WelcomeWooYoonHo) | N/A |
+| 32 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
+| 33 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 34 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 35 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 36 | [#READYTOBEinSEOUL_D1](http://twitter.com/search?q=%23READYTOBEinSEOUL_D1) | N/A |
+| 37 | [#GULFgotoHongKong](http://twitter.com/search?q=%23GULFgotoHongKong) | N/A |
+| 38 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
+| 39 | [#TaxiDriver2Ep15](http://twitter.com/search?q=%23TaxiDriver2Ep15) | N/A |
 
 
 

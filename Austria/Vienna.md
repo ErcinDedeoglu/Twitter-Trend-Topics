@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-15 07:16:41 UTC`
+📆 Last Updated: `2023-04-15 08:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Austria](</Austria>)
 | 1 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
 | 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 3 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
-| 4 | [#svrwsg](http://twitter.com/search?q=%23svrwsg) | N/A |
-| 5 | [Spruch](http://twitter.com/search?q=Spruch) | N/A |
-| 6 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 7 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 8 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 9 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 10 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 11 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 12 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 13 | [Experte](http://twitter.com/search?q=Experte) | N/A |
+| 4 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 5 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 6 | [#svrwsg](http://twitter.com/search?q=%23svrwsg) | N/A |
+| 7 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 8 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
+| 9 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 10 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 11 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
+| 12 | [Experte](http://twitter.com/search?q=Experte) | N/A |
+| 13 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
 | 14 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 15 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 16 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 17 | [Utopien](http://twitter.com/search?q=Utopien) | N/A |
-| 18 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 19 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
-| 20 | [instanz](http://twitter.com/search?q=instanz) | N/A |
-| 21 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
-| 22 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [Lebens](http://twitter.com/search?q=Lebens) | N/A |
-| 25 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 26 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 27 | [Wenns](http://twitter.com/search?q=Wenns) | N/A |
-| 28 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 29 | [5sos](http://twitter.com/search?q=5sos) | N/A |
-| 30 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 31 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 32 | [massenschlägerei](http://twitter.com/search?q=massenschl%c3%a4gerei) | N/A |
-| 33 | [Freizeit](http://twitter.com/search?q=Freizeit) | N/A |
-| 34 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 35 | [Hinsicht](http://twitter.com/search?q=Hinsicht) | N/A |
-| 36 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 37 | [Ungarn](http://twitter.com/search?q=Ungarn) | N/A |
-| 38 | [heast](http://twitter.com/search?q=heast) | N/A |
-| 39 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 40 | [Branche](http://twitter.com/search?q=Branche) | N/A |
-| 41 | [Livestream](http://twitter.com/search?q=Livestream) | N/A |
-| 42 | [gesundheitsminister](http://twitter.com/search?q=gesundheitsminister) | N/A |
-| 43 | [Kontakte](http://twitter.com/search?q=Kontakte) | N/A |
-| 44 | [Konzert](http://twitter.com/search?q=Konzert) | N/A |
-| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 46 | [schwaiger](http://twitter.com/search?q=schwaiger) | N/A |
-| 47 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
-| 48 | [Troll](http://twitter.com/search?q=Troll) | N/A |
-| 49 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 50 | [Kompetenz](http://twitter.com/search?q=Kompetenz) | N/A |
+| 15 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 16 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 17 | [Lebens](http://twitter.com/search?q=Lebens) | N/A |
+| 18 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 19 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 20 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 21 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
+| 22 | [Lizenz](http://twitter.com/search?q=Lizenz) | N/A |
+| 23 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 24 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 25 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [Branche](http://twitter.com/search?q=Branche) | N/A |
+| 28 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 29 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 30 | [Wenns](http://twitter.com/search?q=Wenns) | N/A |
+| 31 | [Expertise](http://twitter.com/search?q=Expertise) | N/A |
+| 32 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 33 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 34 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
+| 35 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 36 | [Einkommen](http://twitter.com/search?q=Einkommen) | N/A |
+| 37 | [5sos](http://twitter.com/search?q=5sos) | N/A |
+| 38 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 39 | [Pension](http://twitter.com/search?q=Pension) | N/A |
+| 40 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 41 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 42 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 43 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 44 | [massenschlägerei](http://twitter.com/search?q=massenschl%c3%a4gerei) | N/A |
+| 45 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
+| 46 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 47 | [heast](http://twitter.com/search?q=heast) | N/A |
+| 48 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 49 | [Livestream](http://twitter.com/search?q=Livestream) | N/A |
+| 50 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
 
 
 

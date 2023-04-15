@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-15 07:16:33 UTC`
+📆 Last Updated: `2023-04-15 08:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,7 +23,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 6 | [#foroglobalcasacampo](http://twitter.com/search?q=%23foroglobalcasacampo) | N/A |
 | 7 | [#feriadellibrocatolico2023](http://twitter.com/search?q=%23feriadellibrocatolico2023) | N/A |
 | 8 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 9 | [Diandino Peña](http://twitter.com/search?q=Diandino+Pe%c3%b1a) | N/A |
+| 9 | [diandino peña](http://twitter.com/search?q=diandino+pe%c3%b1a) | N/A |
 | 10 | [#cursillosdecristiandad](http://twitter.com/search?q=%23cursillosdecristiandad) | N/A |
 | 11 | [#abelpresidente](http://twitter.com/search?q=%23abelpresidente) | N/A |
 | 12 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
@@ -42,8 +42,8 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 27 | [omar fernández](http://twitter.com/search?q=omar+fern%c3%a1ndez) | N/A |
-| 28 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
-| 29 | [extraviejo](http://twitter.com/search?q=extraviejo) | N/A |
+| 28 | [extraviejo](http://twitter.com/search?q=extraviejo) | N/A |
+| 29 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
 | 30 | [Rays](http://twitter.com/search?q=Rays) | N/A |
 | 31 | [fulcar](http://twitter.com/search?q=fulcar) | N/A |
 | 32 | [villa mella](http://twitter.com/search?q=villa+mella) | N/A |

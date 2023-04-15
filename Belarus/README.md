@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-15 07:17:19 UTC`
+📆 Last Updated: `2023-04-15 08:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,21 +19,20 @@ This is top 50 for Belarus
 | 2 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
 | 3 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
 | 4 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
-| 5 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
-| 6 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
-| 7 | [#Фото](http://twitter.com/search?q=%23%d0%a4%d0%be%d1%82%d0%be) | N/A |
-| 8 | [ЖИЗА](http://twitter.com/search?q=%d0%96%d0%98%d0%97%d0%90) | N/A |
+| 5 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | N/A |
+| 6 | [#Фото](http://twitter.com/search?q=%23%d0%a4%d0%be%d1%82%d0%be) | N/A |
+| 7 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 8 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | N/A |
 | 9 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 10 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 10 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 | 11 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 12 | [гомельской](http://twitter.com/search?q=%d0%b3%d0%be%d0%bc%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%be%d0%b9) | N/A |
 | 13 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | N/A |
 | 14 | [Надеюсь](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b4%d0%b5%d1%8e%d1%81%d1%8c) | N/A |
-| 15 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 15 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
 | 16 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
 | 17 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 18 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 19 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
 
 
 

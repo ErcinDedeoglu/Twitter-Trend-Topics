@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-15 07:16:48 UTC`
+📆 Last Updated: `2023-04-15 08:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 2 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 1 | [#Atomausstieg](http://twitter.com/search?q=%23Atomausstieg) | N/A |
+| 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 3 | [bienne](http://twitter.com/search?q=bienne) | N/A |
 | 4 | [#fcbogcn](http://twitter.com/search?q=%23fcbogcn) | N/A |
 | 5 | [#MaskSinger](http://twitter.com/search?q=%23MaskSinger) | N/A |
-| 6 | [#GSHC](http://twitter.com/search?q=%23GSHC) | N/A |
-| 7 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 8 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 6 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 7 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 8 | [Sion](http://twitter.com/search?q=Sion) | N/A |
+| 9 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 10 | [Interesse](http://twitter.com/search?q=Interesse) | N/A |
 | 11 | [Brot](http://twitter.com/search?q=Brot) | N/A |
 | 12 | [Freude](http://twitter.com/search?q=Freude) | N/A |
-| 13 | [bundesrat](http://twitter.com/search?q=bundesrat) | N/A |
-| 14 | [Masken](http://twitter.com/search?q=Masken) | N/A |
-| 15 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
-| 16 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
-| 17 | [Tier](http://twitter.com/search?q=Tier) | N/A |
-| 18 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 13 | [Masken](http://twitter.com/search?q=Masken) | N/A |
+| 14 | [Strasse](http://twitter.com/search?q=Strasse) | N/A |
+| 15 | [Dokumente](http://twitter.com/search?q=Dokumente) | N/A |
+| 16 | [Tier](http://twitter.com/search?q=Tier) | N/A |
+| 17 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 18 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 19 | [La France](http://twitter.com/search?q=La+France) | N/A |
 | 20 | [Rechtsstaat](http://twitter.com/search?q=Rechtsstaat) | N/A |
 | 21 | [Biel](http://twitter.com/search?q=Biel) | N/A |
-| 22 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
-| 23 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
-| 24 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 25 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
-| 26 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 27 | [PTDRRRR](http://twitter.com/search?q=PTDRRRR) | N/A |
-| 28 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 29 | [Vorteil](http://twitter.com/search?q=Vorteil) | N/A |
-| 30 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 31 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 32 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 33 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
-| 34 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
-| 35 | [Serie](http://twitter.com/search?q=Serie) | N/A |
-| 36 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 37 | [Fälle](http://twitter.com/search?q=F%c3%a4lle) | N/A |
-| 38 | [Ding](http://twitter.com/search?q=Ding) | N/A |
-| 39 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
-| 40 | [Cardano](http://twitter.com/search?q=Cardano) | N/A |
-| 41 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 42 | [J'avoue](http://twitter.com/search?q=J%27avoue) | N/A |
-| 43 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
-| 44 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 45 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 46 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 47 | [Abhängigkeit](http://twitter.com/search?q=Abh%c3%a4ngigkeit) | N/A |
-| 48 | [AKWs](http://twitter.com/search?q=AKWs) | N/A |
-| 49 | [Wissenschaft](http://twitter.com/search?q=Wissenschaft) | N/A |
+| 22 | [Demokratie](http://twitter.com/search?q=Demokratie) | N/A |
+| 23 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 24 | [Handeln](http://twitter.com/search?q=Handeln) | N/A |
+| 25 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 26 | [Leaks](http://twitter.com/search?q=Leaks) | N/A |
+| 27 | [Ptdrrrr](http://twitter.com/search?q=Ptdrrrr) | N/A |
+| 28 | [Vorteile](http://twitter.com/search?q=Vorteile) | N/A |
+| 29 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 30 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 31 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 32 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 33 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 34 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 35 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 36 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 37 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 38 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 39 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 40 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 41 | [Gelegenheit](http://twitter.com/search?q=Gelegenheit) | N/A |
+| 42 | [Bundesrat](http://twitter.com/search?q=Bundesrat) | N/A |
+| 43 | [Serie](http://twitter.com/search?q=Serie) | N/A |
+| 44 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
+| 45 | [Drogen](http://twitter.com/search?q=Drogen) | N/A |
+| 46 | [J'arrive](http://twitter.com/search?q=J%27arrive) | N/A |
+| 47 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 48 | [Abhängigkeit](http://twitter.com/search?q=Abh%c3%a4ngigkeit) | N/A |
+| 49 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
 
 
 

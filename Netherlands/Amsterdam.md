@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-04-15 07:16:46 UTC`
+📆 Last Updated: `2023-04-15 08:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NACwil](http://twitter.com/search?q=%23NACwil) | N/A |
-| 2 | [#tulpen](http://twitter.com/search?q=%23tulpen) | N/A |
-| 3 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 4 | [#feyrom](http://twitter.com/search?q=%23feyrom) | N/A |
-| 5 | [#DeVerraders](http://twitter.com/search?q=%23DeVerraders) | N/A |
+| 2 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 3 | [#tulpen](http://twitter.com/search?q=%23tulpen) | N/A |
+| 4 | [#DeVerraders](http://twitter.com/search?q=%23DeVerraders) | N/A |
+| 5 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
 | 6 | [#NACpraat](http://twitter.com/search?q=%23NACpraat) | N/A |
-| 7 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
-| 8 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
-| 9 | [Musk](http://twitter.com/search?q=Musk) | N/A |
-| 10 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 11 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
-| 12 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
-| 13 | [Breda](http://twitter.com/search?q=Breda) | N/A |
-| 14 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 15 | [Werkse](http://twitter.com/search?q=Werkse) | N/A |
-| 16 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
-| 17 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 18 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
-| 19 | [STREAM TO 2B FOR JUNGKOOK](http://twitter.com/search?q=STREAM+TO+2B+FOR+JUNGKOOK) | N/A |
-| 20 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 21 | [mats wieffer](http://twitter.com/search?q=mats+wieffer) | N/A |
+| 7 | [#excgae](http://twitter.com/search?q=%23excgae) | N/A |
+| 8 | [Musk](http://twitter.com/search?q=Musk) | N/A |
+| 9 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
+| 10 | [Remus](http://twitter.com/search?q=Remus) | N/A |
+| 11 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 12 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 13 | [Rutger](http://twitter.com/search?q=Rutger) | N/A |
+| 14 | [Arnout Jaspers](http://twitter.com/search?q=Arnout+Jaspers) | N/A |
+| 15 | [Breda](http://twitter.com/search?q=Breda) | N/A |
+| 16 | [Werkse](http://twitter.com/search?q=Werkse) | N/A |
+| 17 | [Manschot](http://twitter.com/search?q=Manschot) | N/A |
+| 18 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 19 | [LHBTI](http://twitter.com/search?q=LHBTI) | N/A |
+| 20 | [STREAM TO 2B FOR JUNGKOOK](http://twitter.com/search?q=STREAM+TO+2B+FOR+JUNGKOOK) | N/A |
+| 21 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
 | 22 | [Ter Apel](http://twitter.com/search?q=Ter+Apel) | N/A |
-| 23 | [Telstar](http://twitter.com/search?q=Telstar) | N/A |
+| 23 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
 | 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 25 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 26 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
-| 27 | [fc eindhoven](http://twitter.com/search?q=fc+eindhoven) | N/A |
-| 28 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 29 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
-| 30 | [Remus](http://twitter.com/search?q=Remus) | N/A |
+| 25 | [Succes](http://twitter.com/search?q=Succes) | N/A |
+| 26 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 27 | [Tijs](http://twitter.com/search?q=Tijs) | N/A |
+| 28 | [Telstar](http://twitter.com/search?q=Telstar) | N/A |
+| 29 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 30 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
 | 31 | [Flutprocessen](http://twitter.com/search?q=Flutprocessen) | N/A |
-| 32 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 33 | [Vlissingen](http://twitter.com/search?q=Vlissingen) | N/A |
-| 34 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
-| 35 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 36 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 32 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 33 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
+| 34 | [Vlissingen](http://twitter.com/search?q=Vlissingen) | N/A |
+| 35 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
+| 36 | [wieffer](http://twitter.com/search?q=wieffer) | N/A |
 | 37 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 38 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |
-| 39 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 40 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 41 | [Bern](http://twitter.com/search?q=Bern) | N/A |
-| 42 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 43 | [Ab Osterhaus](http://twitter.com/search?q=Ab+Osterhaus) | N/A |
-| 44 | [Rutger](http://twitter.com/search?q=Rutger) | N/A |
-| 45 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 46 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
-| 47 | [Suzanne](http://twitter.com/search?q=Suzanne) | N/A |
-| 48 | [doe maar](http://twitter.com/search?q=doe+maar) | N/A |
-| 49 | [Somalia](http://twitter.com/search?q=Somalia) | N/A |
-| 50 | [De Koninklijke 500](http://twitter.com/search?q=De+Koninklijke+500) | N/A |
+| 38 | [Ineke](http://twitter.com/search?q=Ineke) | N/A |
+| 39 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |
+| 40 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 41 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
+| 42 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 43 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 44 | [Bern](http://twitter.com/search?q=Bern) | N/A |
+| 45 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 46 | [Ab Osterhaus](http://twitter.com/search?q=Ab+Osterhaus) | N/A |
+| 47 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 48 | [De Graafschap](http://twitter.com/search?q=De+Graafschap) | N/A |
+| 49 | [De Koninklijke 500](http://twitter.com/search?q=De+Koninklijke+500) | N/A |
+| 50 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
 
 
 
