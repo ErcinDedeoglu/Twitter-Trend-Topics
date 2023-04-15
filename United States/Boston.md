@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-04-15 08:17:29 UTC`
+📆 Last Updated: `2023-04-15 09:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 3 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
 | 4 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 5 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 6 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 7 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
-| 8 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 9 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 10 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 5 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 6 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 7 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 8 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 9 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
+| 10 | [Posty](http://twitter.com/search?q=Posty) | N/A |
 | 11 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 12 | [LA CANCIÓN](http://twitter.com/search?q=LA+CANCI%c3%93N) | N/A |
-| 13 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
-| 14 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 15 | [Te Bote](http://twitter.com/search?q=Te+Bote) | N/A |
-| 16 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
-| 17 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 18 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
-| 19 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 20 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 21 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 22 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 23 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 24 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 25 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 26 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 27 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 28 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 29 | [#Wordle665](http://twitter.com/search?q=%23Wordle665) | N/A |
-| 30 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 31 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 32 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 33 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 34 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 35 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
-| 36 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 37 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 38 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 39 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 40 | [Low Life](http://twitter.com/search?q=Low+Life) | N/A |
-| 41 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
-| 42 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 43 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
-| 44 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 45 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 47 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 48 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 49 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 50 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 12 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 13 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 14 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
+| 15 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
+| 16 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
+| 17 | [Te Bote](http://twitter.com/search?q=Te+Bote) | N/A |
+| 18 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 19 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 20 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
+| 21 | [#Wordle665](http://twitter.com/search?q=%23Wordle665) | N/A |
+| 22 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
+| 23 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 24 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 25 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 26 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 27 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 28 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 30 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 31 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 32 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 33 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
+| 34 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 35 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 36 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 37 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 38 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 39 | [Low Life](http://twitter.com/search?q=Low+Life) | N/A |
+| 40 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
+| 41 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 42 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 43 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
+| 44 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 45 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 46 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 47 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |
+| 48 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 49 | [Suns in 6](http://twitter.com/search?q=Suns+in+6) | N/A |
+| 50 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
 
 
 

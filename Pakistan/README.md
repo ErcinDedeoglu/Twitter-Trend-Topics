@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-04-15 08:17:42 UTC`
+📆 Last Updated: `2023-04-15 09:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Pakistan
 | 4 | [#PakvsNz](http://twitter.com/search?q=%23PakvsNz) | N/A |
 | 5 | [#AsimMunir](http://twitter.com/search?q=%23AsimMunir) | N/A |
 | 6 | [Haris Rauf](http://twitter.com/search?q=Haris+Rauf) | N/A |
-| 7 | [shaheen shah afridi](http://twitter.com/search?q=shaheen+shah+afridi) | N/A |
-| 8 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 9 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 10 | [faheem](http://twitter.com/search?q=faheem) | N/A |
-| 11 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
-| 12 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 13 | [Bank Al Habib](http://twitter.com/search?q=Bank+Al+Habib) | N/A |
-| 14 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 15 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 16 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 17 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 18 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 19 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 20 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 21 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
-| 22 | [APTMA](http://twitter.com/search?q=APTMA) | N/A |
-| 23 | [T20I](http://twitter.com/search?q=T20I) | N/A |
-| 24 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 25 | [Asif Ali Zardari](http://twitter.com/search?q=Asif+Ali+Zardari) | N/A |
-| 26 | [Basil](http://twitter.com/search?q=Basil) | N/A |
-| 27 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 28 | [Centre](http://twitter.com/search?q=Centre) | N/A |
-| 29 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
-| 30 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
-| 31 | [Speed](http://twitter.com/search?q=Speed) | N/A |
-| 32 | [Mashion Bazaar](http://twitter.com/search?q=Mashion+Bazaar) | N/A |
-| 33 | [Sherry Rehman](http://twitter.com/search?q=Sherry+Rehman) | N/A |
+| 7 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 8 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 9 | [faheem](http://twitter.com/search?q=faheem) | N/A |
+| 10 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 11 | [bank al habib](http://twitter.com/search?q=bank+al+habib) | N/A |
+| 12 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 13 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 14 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 15 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 16 | [Matt Henry](http://twitter.com/search?q=Matt+Henry) | Matt Henry is a phrase used to describe someone who is strong, determined, and reliable. It is derived from the name of the biblical figure Matthew, who was known for his faithfulness and courage. |
+| 17 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 19 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
+| 20 | [T20I](http://twitter.com/search?q=T20I) | N/A |
+| 21 | [Asif Ali Zardari](http://twitter.com/search?q=Asif+Ali+Zardari) | N/A |
+| 22 | [Basil](http://twitter.com/search?q=Basil) | N/A |
+| 23 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 24 | [APTMA](http://twitter.com/search?q=APTMA) | N/A |
+| 25 | [Centre](http://twitter.com/search?q=Centre) | N/A |
+| 26 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 27 | [Beauty](http://twitter.com/search?q=Beauty) | N/A |
+| 28 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 29 | [Awam](http://twitter.com/search?q=Awam) | N/A |
+| 30 | [mashion bazaar](http://twitter.com/search?q=mashion+bazaar) | N/A |
+| 31 | [Sherry Rehman](http://twitter.com/search?q=Sherry+Rehman) | N/A |
+| 32 | [Ramzan Habit Tracker](http://twitter.com/search?q=Ramzan+Habit+Tracker) | N/A |
+| 33 | [Center of Gravity](http://twitter.com/search?q=Center+of+Gravity) | N/A |
 | 34 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 35 | [Ramzan Habit Tracker](http://twitter.com/search?q=Ramzan+Habit+Tracker) | N/A |
-| 36 | [Center of Gravity](http://twitter.com/search?q=Center+of+Gravity) | N/A |
-| 37 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
-| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 39 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
-| 40 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 41 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
-| 42 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 43 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 44 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 45 | [Legend](http://twitter.com/search?q=Legend) | N/A |
-| 46 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 47 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
-| 48 | [Ignore](http://twitter.com/search?q=Ignore) | N/A |
-| 49 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 50 | [Salute](http://twitter.com/search?q=Salute) | N/A |
+| 35 | [Noon](http://twitter.com/search?q=Noon) | N/A |
+| 36 | [My Twitter Interaction Circle](http://twitter.com/search?q=My+Twitter+Interaction+Circle) | N/A |
+| 37 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 38 | [Saqib Nisar](http://twitter.com/search?q=Saqib+Nisar) | N/A |
+| 39 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 40 | [Nadra](http://twitter.com/search?q=Nadra) | N/A |
+| 41 | [Adil Raja](http://twitter.com/search?q=Adil+Raja) | N/A |
+| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 43 | [Handsome](http://twitter.com/search?q=Handsome) | N/A |
+| 44 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 45 | [America](http://twitter.com/search?q=America) | N/A |
+| 46 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
+| 47 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 48 | [Legend](http://twitter.com/search?q=Legend) | N/A |
+| 49 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
+| 50 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
 
 
 

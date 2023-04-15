@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-15 08:17:38 UTC`
+📆 Last Updated: `2023-04-15 09:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,15 +17,15 @@ This is top 50 for Dominican Republic
 | ------- | ------------ | ------------ |
 | 1 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
 | 2 | [chatgptrd](http://twitter.com/search?q=chatgptrd) | N/A |
-| 3 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 4 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
-| 5 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
-| 6 | [#foroglobalcasacampo](http://twitter.com/search?q=%23foroglobalcasacampo) | N/A |
-| 7 | [#feriadellibrocatolico2023](http://twitter.com/search?q=%23feriadellibrocatolico2023) | N/A |
-| 8 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 3 | [#Coachella](http://twitter.com/search?q=%23Coachella) | N/A |
+| 4 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 5 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
+| 6 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 7 | [#foroglobalcasacampo](http://twitter.com/search?q=%23foroglobalcasacampo) | N/A |
+| 8 | [#feriadellibrocatolico2023](http://twitter.com/search?q=%23feriadellibrocatolico2023) | N/A |
 | 9 | [diandino peña](http://twitter.com/search?q=diandino+pe%c3%b1a) | N/A |
 | 10 | [#cursillosdecristiandad](http://twitter.com/search?q=%23cursillosdecristiandad) | N/A |
-| 11 | [#abelpresidente](http://twitter.com/search?q=%23abelpresidente) | N/A |
+| 11 | [#AbelPresidente](http://twitter.com/search?q=%23AbelPresidente) | N/A |
 | 12 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
 | 13 | [opret](http://twitter.com/search?q=opret) | N/A |
 | 14 | [Casa de Campo](http://twitter.com/search?q=Casa+de+Campo) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for Dominican Republic
 | 20 | [caro brito](http://twitter.com/search?q=caro+brito) | N/A |
 | 21 | [doble reserva](http://twitter.com/search?q=doble+reserva) | N/A |
 | 22 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
-| 23 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
+| 23 | [montecristi](http://twitter.com/search?q=montecristi) | N/A |
 | 24 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
 | 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
@@ -48,15 +48,15 @@ This is top 50 for Dominican Republic
 | 31 | [fulcar](http://twitter.com/search?q=fulcar) | N/A |
 | 32 | [villa mella](http://twitter.com/search?q=villa+mella) | N/A |
 | 33 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
-| 34 | [#deultimominuto](http://twitter.com/search?q=%23deultimominuto) | N/A |
-| 35 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
-| 36 | [yadira morel](http://twitter.com/search?q=yadira+morel) | N/A |
-| 37 | [Aparte](http://twitter.com/search?q=Aparte) | N/A |
-| 38 | [Ay Dios](http://twitter.com/search?q=Ay+Dios) | N/A |
-| 39 | [conani](http://twitter.com/search?q=conani) | N/A |
-| 40 | [alcarrizos](http://twitter.com/search?q=alcarrizos) | N/A |
-| 41 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
-| 42 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
+| 34 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 35 | [yadira morel](http://twitter.com/search?q=yadira+morel) | N/A |
+| 36 | [Aparte](http://twitter.com/search?q=Aparte) | N/A |
+| 37 | [Ay Dios](http://twitter.com/search?q=Ay+Dios) | N/A |
+| 38 | [conani](http://twitter.com/search?q=conani) | N/A |
+| 39 | [alcarrizos](http://twitter.com/search?q=alcarrizos) | N/A |
+| 40 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
+| 41 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 42 | [Presidente Abinader](http://twitter.com/search?q=Presidente+Abinader) | N/A |
 | 43 | [ramón alburquerque](http://twitter.com/search?q=ram%c3%b3n+alburquerque) | N/A |
 | 44 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 45 | [Uber](http://twitter.com/search?q=Uber) | N/A |

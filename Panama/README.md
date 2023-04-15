@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-15 08:17:42 UTC`
+📆 Last Updated: `2023-04-15 09:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Panama
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 2 | [#Coachella](http://twitter.com/search?q=%23Coachella) | N/A |
+| 2 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 3 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
 | 4 | [Copa Oro](http://twitter.com/search?q=Copa+Oro) | N/A |
 | 5 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
@@ -61,7 +61,7 @@ This is top 50 for Panama
 | 44 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
 | 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 46 | [#Seguimos](http://twitter.com/search?q=%23Seguimos) | N/A |
-| 47 | [Copa Airlines](http://twitter.com/search?q=Copa+Airlines) | N/A |
+| 47 | [copa airlines](http://twitter.com/search?q=copa+airlines) | N/A |
 | 48 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 49 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 50 | [anati](http://twitter.com/search?q=anati) | N/A |

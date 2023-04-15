@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-04-15 08:17:11 UTC`
+📆 Last Updated: `2023-04-15 09:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MudikBersamaBRI2023](http://twitter.com/search?q=%23MudikBersamaBRI2023) | N/A |
-| 2 | [#RtoVinJKT](http://twitter.com/search?q=%23RtoVinJKT) | N/A |
-| 3 | [#AwesomeRamadanNightography](http://twitter.com/search?q=%23AwesomeRamadanNightography) | N/A |
-| 4 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 5 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
-| 6 | [#ajaibluckyfriday](http://twitter.com/search?q=%23ajaibluckyfriday) | N/A |
-| 7 | [#blibli](http://twitter.com/search?q=%23blibli) | N/A |
-| 8 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 9 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
-| 10 | [FLOWER FIFTH WIN](http://twitter.com/search?q=FLOWER+FIFTH+WIN) | N/A |
-| 11 | [APBN](http://twitter.com/search?q=APBN) | N/A |
-| 12 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 13 | [CAT 2](http://twitter.com/search?q=CAT+2) | N/A |
-| 14 | [Refresh](http://twitter.com/search?q=Refresh) | N/A |
-| 15 | [Yudo](http://twitter.com/search?q=Yudo) | N/A |
-| 16 | [New Spring With Our Trio](http://twitter.com/search?q=New+Spring+With+Our+Trio) | N/A |
-| 17 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
-| 18 | [CAT 4A](http://twitter.com/search?q=CAT+4A) | N/A |
-| 19 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 20 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 21 | [Waze](http://twitter.com/search?q=Waze) | N/A |
-| 22 | [Bu Ratih](http://twitter.com/search?q=Bu+Ratih) | N/A |
-| 23 | [Bandung](http://twitter.com/search?q=Bandung) | N/A |
-| 24 | [Awet](http://twitter.com/search?q=Awet) | N/A |
-| 25 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
-| 26 | [Tuban](http://twitter.com/search?q=Tuban) | N/A |
-| 27 | [GULF READY TO HK](http://twitter.com/search?q=GULF+READY+TO+HK) | N/A |
-| 28 | [Kasad Dudung Abdurachman](http://twitter.com/search?q=Kasad+Dudung+Abdurachman) | N/A |
-| 29 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 30 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
-| 31 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
-| 32 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
-| 33 | [ODGJ](http://twitter.com/search?q=ODGJ) | N/A |
-| 34 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
-| 35 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 36 | [Dallas](http://twitter.com/search?q=Dallas) | Dallas is a city in the U.S. state of Texas. It is the ninth most populous city in the United States and the third-largest in Texas after Houston and San Antonio. The city's population ranks ninth in the U.S. and third in Texas after Houston and San Antonio. Dallas is known for its oil, telecommunications, banking, technology, healthcare, defense, transportation, and commerce industries. |
-| 37 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 38 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 39 | [prepare nuzulul qur'an](http://twitter.com/search?q=prepare+nuzulul+qur%27an) | N/A |
-| 40 | [Kerasa](http://twitter.com/search?q=Kerasa) | Kerasa is a Sanskrit word meaning “to be filled with joy” or “to be happy.” It is often used as a mantra in meditation and yoga practices to bring about feelings of joy and contentment. |
-| 41 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 42 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 43 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 44 | [Gempa](http://twitter.com/search?q=Gempa) | N/A |
-| 45 | [Quora](http://twitter.com/search?q=Quora) | N/A |
-| 46 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 48 | [Bird](http://twitter.com/search?q=Bird) | N/A |
-| 49 | [ARMY FOREVER BANGTAN FOREVER](http://twitter.com/search?q=ARMY+FOREVER+BANGTAN+FOREVER) | N/A |
+| 1 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 2 | [#MudikBersamaBRI2023](http://twitter.com/search?q=%23MudikBersamaBRI2023) | N/A |
+| 3 | [#RtoVinJKT](http://twitter.com/search?q=%23RtoVinJKT) | N/A |
+| 4 | [#GalaxyS235G](http://twitter.com/search?q=%23GalaxyS235G) | N/A |
+| 5 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 6 | [#blibli](http://twitter.com/search?q=%23blibli) | N/A |
+| 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 8 | [CAT 2](http://twitter.com/search?q=CAT+2) | N/A |
+| 9 | [FLOWER FIFTH WIN](http://twitter.com/search?q=FLOWER+FIFTH+WIN) | N/A |
+| 10 | [Awet](http://twitter.com/search?q=Awet) | N/A |
+| 11 | [Cat 4](http://twitter.com/search?q=Cat+4) | N/A |
+| 12 | [CAT 1](http://twitter.com/search?q=CAT+1) | CAT 1 is an abbreviation for Category 1, which is a classification used to describe the severity of a hurricane. Category 1 hurricanes have sustained winds of 74-95 mph and can cause some damage to buildings, trees, and power lines. |
+| 13 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
+| 14 | [New Spring With Our Trio](http://twitter.com/search?q=New+Spring+With+Our+Trio) | N/A |
+| 15 | [GULF READY TO HK](http://twitter.com/search?q=GULF+READY+TO+HK) | N/A |
+| 16 | [Lampung](http://twitter.com/search?q=Lampung) | N/A |
+| 17 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 18 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
+| 19 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 20 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 21 | [Aqua](http://twitter.com/search?q=Aqua) | N/A |
+| 22 | [Bupati](http://twitter.com/search?q=Bupati) | N/A |
+| 23 | [Yana](http://twitter.com/search?q=Yana) | N/A |
+| 24 | [IISMA](http://twitter.com/search?q=IISMA) | N/A |
+| 25 | [Muhammadiyah](http://twitter.com/search?q=Muhammadiyah) | N/A |
+| 26 | [Nastar](http://twitter.com/search?q=Nastar) | N/A |
+| 27 | [APBD](http://twitter.com/search?q=APBD) | N/A |
+| 28 | [Bank](http://twitter.com/search?q=Bank) | N/A |
+| 29 | [#GalaxyS23xShopee](http://twitter.com/search?q=%23GalaxyS23xShopee) | N/A |
+| 30 | [#CosmostalesJKT48](http://twitter.com/search?q=%23CosmostalesJKT48) | N/A |
+| 31 | [#FLOWER5thWin](http://twitter.com/search?q=%23FLOWER5thWin) | N/A |
+| 32 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 33 | [#JISOO5thWin](http://twitter.com/search?q=%23JISOO5thWin) | N/A |
+| 34 | [#READYTOBEinSEOUL_D1](http://twitter.com/search?q=%23READYTOBEinSEOUL_D1) | N/A |
+| 35 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 36 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
+| 37 | [#WelcomeWooYoonHo](http://twitter.com/search?q=%23WelcomeWooYoonHo) | N/A |
+| 38 | [#FullDaySaleTransmart](http://twitter.com/search?q=%23FullDaySaleTransmart) | N/A |
+| 39 | [#KitaSukaDiskon](http://twitter.com/search?q=%23KitaSukaDiskon) | N/A |
+| 40 | [#DiskonSeharian](http://twitter.com/search?q=%23DiskonSeharian) | N/A |
+| 41 | [#OPPOReno8T5G](http://twitter.com/search?q=%23OPPOReno8T5G) | N/A |
+| 42 | [#GULFgotoHongKong](http://twitter.com/search?q=%23GULFgotoHongKong) | N/A |
+| 43 | [#TaxiDriver2Ep15](http://twitter.com/search?q=%23TaxiDriver2Ep15) | N/A |
 
 
 

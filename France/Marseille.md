@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Marseille
 
-📆 Last Updated: `2023-04-15 08:17:04 UTC`
+📆 Last Updated: `2023-04-15 09:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,46 +22,46 @@ This is top 50 for [France](</France>)
 | 5 | [Mister V](http://twitter.com/search?q=Mister+V) | N/A |
 | 6 | [ZAHO](http://twitter.com/search?q=ZAHO) | N/A |
 | 7 | [Hugo Clément](http://twitter.com/search?q=Hugo+Cl%c3%a9ment) | N/A |
-| 8 | [martin lamotte](http://twitter.com/search?q=martin+lamotte) | N/A |
+| 8 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
 | 9 | [Jeffinho](http://twitter.com/search?q=Jeffinho) | Jeffinho is a Portuguese nickname derived from the name "Jefferson". It is often used as a term of endearment, similar to "honey" or "sweetheart" in English. |
-| 10 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 11 | [Cherki](http://twitter.com/search?q=Cherki) | Cherki is a term used in Moroccan Arabic to refer to someone who is of mixed race or of mixed heritage. It literally translates to "half-breed" or "mixed-breed". |
-| 12 | [Pers](http://twitter.com/search?q=Pers) | N/A |
-| 13 | [Promulguer](http://twitter.com/search?q=Promulguer) | N/A |
-| 14 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
-| 15 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
-| 16 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 17 | [3h28](http://twitter.com/search?q=3h28) | N/A |
-| 18 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
-| 19 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
-| 20 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 21 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
-| 22 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
-| 23 | [Vertbaudet](http://twitter.com/search?q=Vertbaudet) | N/A |
+| 10 | [Pers](http://twitter.com/search?q=Pers) | N/A |
+| 11 | [Fabius](http://twitter.com/search?q=Fabius) | N/A |
+| 12 | [Le CC](http://twitter.com/search?q=Le+CC) | N/A |
+| 13 | [République](http://twitter.com/search?q=R%c3%a9publique) | N/A |
+| 14 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
+| 15 | [Martin Lamotte](http://twitter.com/search?q=Martin+Lamotte) | N/A |
+| 16 | [3h28](http://twitter.com/search?q=3h28) | N/A |
+| 17 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 18 | [LVMH](http://twitter.com/search?q=LVMH) | N/A |
+| 19 | [Promulguer](http://twitter.com/search?q=Promulguer) | N/A |
+| 20 | [Lacazette](http://twitter.com/search?q=Lacazette) | N/A |
+| 21 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 22 | [Vertbaudet](http://twitter.com/search?q=Vertbaudet) | N/A |
+| 23 | [Le Pen](http://twitter.com/search?q=Le+Pen) | N/A |
 | 24 | [Cléopâtre](http://twitter.com/search?q=Cl%c3%a9op%c3%a2tre) | N/A |
-| 25 | [Journal Officiel](http://twitter.com/search?q=Journal+Officiel) | N/A |
-| 26 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 27 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 25 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 26 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
+| 27 | [Varennes](http://twitter.com/search?q=Varennes) | N/A |
 | 28 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 29 | [Varennes](http://twitter.com/search?q=Varennes) | N/A |
-| 30 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 31 | [Notre Dame](http://twitter.com/search?q=Notre+Dame) | Notre Dame is a historic Catholic cathedral located in Paris, France. The name Notre Dame translates to "Our Lady" in English, referring to the Virgin Mary. It is one of the most famous and iconic landmarks in the world. |
-| 32 | [La France](http://twitter.com/search?q=La+France) | N/A |
-| 33 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
-| 34 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 35 | [Jacobins](http://twitter.com/search?q=Jacobins) | N/A |
-| 36 | [Gims](http://twitter.com/search?q=Gims) | N/A |
-| 37 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 38 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 39 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
-| 40 | [Les JO](http://twitter.com/search?q=Les+JO) | N/A |
-| 41 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 42 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 43 | [Indépendant](http://twitter.com/search?q=Ind%c3%a9pendant) | N/A |
-| 44 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 45 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
-| 46 | [Le 15](http://twitter.com/search?q=Le+15) | N/A |
-| 47 | [Sages](http://twitter.com/search?q=Sages) | N/A |
+| 29 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 30 | [Jacobins](http://twitter.com/search?q=Jacobins) | N/A |
+| 31 | [Le JO](http://twitter.com/search?q=Le+JO) | N/A |
+| 32 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 33 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 34 | [Gims](http://twitter.com/search?q=Gims) | N/A |
+| 35 | [Démocratique](http://twitter.com/search?q=D%c3%a9mocratique) | N/A |
+| 36 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 37 | [derozan](http://twitter.com/search?q=derozan) | N/A |
+| 38 | [Le 15](http://twitter.com/search?q=Le+15) | N/A |
+| 39 | [Parlement](http://twitter.com/search?q=Parlement) | N/A |
+| 40 | [Moffi](http://twitter.com/search?q=Moffi) | Moffi is a slang term used in some parts of the United States to refer to someone who is a nerd or geek. It can also be used as an insult, implying that someone is socially awkward or not cool. |
+| 41 | [Sages](http://twitter.com/search?q=Sages) | N/A |
+| 42 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
+| 43 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 44 | [Adebayo](http://twitter.com/search?q=Adebayo) | N/A |
+| 45 | [Journal Officiel](http://twitter.com/search?q=Journal+Officiel) | N/A |
+| 46 | [Jay-Z](http://twitter.com/search?q=Jay-Z) | N/A |
+| 47 | [Lopes](http://twitter.com/search?q=Lopes) | N/A |
 
 
 

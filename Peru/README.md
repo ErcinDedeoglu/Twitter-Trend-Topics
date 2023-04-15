@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-04-15 08:17:41 UTC`
+📆 Last Updated: `2023-04-15 09:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Peru
 | 3 | [Malone](http://twitter.com/search?q=Malone) | N/A |
 | 4 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
 | 5 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 6 | [#TSMeetUsInPeru](http://twitter.com/search?q=%23TSMeetUsInPeru) | N/A |
+| 6 | [#tsmeetusinperu](http://twitter.com/search?q=%23tsmeetusinperu) | N/A |
 | 7 | [#taylorswiftenperu](http://twitter.com/search?q=%23taylorswiftenperu) | N/A |
 | 8 | [Urresti](http://twitter.com/search?q=Urresti) | N/A |
 | 9 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for Peru
 | 21 | [Sport Boys](http://twitter.com/search?q=Sport+Boys) | N/A |
 | 22 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
 | 23 | [Aldair](http://twitter.com/search?q=Aldair) | N/A |
-| 24 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 25 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 24 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 25 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
 | 26 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
 | 27 | [Sporting Cristal](http://twitter.com/search?q=Sporting+Cristal) | N/A |
 | 28 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 29 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 30 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 31 | [Huaral](http://twitter.com/search?q=Huaral) | N/A |
-| 32 | [Innova](http://twitter.com/search?q=Innova) | N/A |
-| 33 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
-| 34 | [raffo](http://twitter.com/search?q=raffo) | N/A |
-| 35 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
-| 36 | [Haro](http://twitter.com/search?q=Haro) | N/A |
-| 37 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
-| 38 | [Yotun](http://twitter.com/search?q=Yotun) | N/A |
-| 39 | [Corozo](http://twitter.com/search?q=Corozo) | N/A |
-| 40 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
-| 41 | [heidy juárez](http://twitter.com/search?q=heidy+ju%c3%a1rez) | N/A |
-| 42 | [Hurtado](http://twitter.com/search?q=Hurtado) | N/A |
-| 43 | [extrema](http://twitter.com/search?q=extrema) | N/A |
-| 44 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
-| 45 | [Juan Aurich](http://twitter.com/search?q=Juan+Aurich) | N/A |
-| 46 | [JOAQUIN YA ES JAMIE](http://twitter.com/search?q=JOAQUIN+YA+ES+JAMIE) | N/A |
-| 47 | [Exigen](http://twitter.com/search?q=Exigen) | N/A |
-| 48 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 49 | [hugo bustios](http://twitter.com/search?q=hugo+bustios) | N/A |
-| 50 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 29 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 30 | [Huaral](http://twitter.com/search?q=Huaral) | N/A |
+| 31 | [Innova](http://twitter.com/search?q=Innova) | N/A |
+| 32 | [Cienciano](http://twitter.com/search?q=Cienciano) | N/A |
+| 33 | [raffo](http://twitter.com/search?q=raffo) | N/A |
+| 34 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
+| 35 | [Haro](http://twitter.com/search?q=Haro) | N/A |
+| 36 | [Gallardo](http://twitter.com/search?q=Gallardo) | Gallardo is a Spanish word meaning "brave" or "courageous". It is often used as a surname or given name. |
+| 37 | [yotun](http://twitter.com/search?q=yotun) | N/A |
+| 38 | [Corozo](http://twitter.com/search?q=Corozo) | N/A |
+| 39 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
+| 40 | [heidy juárez](http://twitter.com/search?q=heidy+ju%c3%a1rez) | N/A |
+| 41 | [Hurtado](http://twitter.com/search?q=Hurtado) | N/A |
+| 42 | [EXTREMA](http://twitter.com/search?q=EXTREMA) | N/A |
+| 43 | [Burger King](http://twitter.com/search?q=Burger+King) | N/A |
+| 44 | [Juan Aurich](http://twitter.com/search?q=Juan+Aurich) | N/A |
+| 45 | [JOAQUIN YA ES JAMIE](http://twitter.com/search?q=JOAQUIN+YA+ES+JAMIE) | N/A |
+| 46 | [Exigen](http://twitter.com/search?q=Exigen) | N/A |
+| 47 | [hugo bustios](http://twitter.com/search?q=hugo+bustios) | N/A |
+| 48 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 49 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 50 | [vamos boys](http://twitter.com/search?q=vamos+boys) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-04-15 08:17:29 UTC`
+📆 Last Updated: `2023-04-15 09:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for [United States](</United States>)
 | 7 | [jisung](http://twitter.com/search?q=jisung) | N/A |
 | 8 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 9 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 10 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
-| 11 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 10 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 11 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
 | 12 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 13 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 14 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 15 | [LA CANCIÓN](http://twitter.com/search?q=LA+CANCI%c3%93N) | N/A |
-| 16 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
-| 17 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 18 | [Te Bote](http://twitter.com/search?q=Te+Bote) | N/A |
-| 19 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
-| 20 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 21 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
-| 22 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 23 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 24 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 25 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 26 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 27 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 28 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 29 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 30 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 31 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 32 | [#Wordle665](http://twitter.com/search?q=%23Wordle665) | N/A |
-| 33 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 34 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 35 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 36 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
-| 37 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 38 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 39 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 40 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 41 | [Low Life](http://twitter.com/search?q=Low+Life) | N/A |
-| 42 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
-| 43 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 44 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
-| 45 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 46 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 13 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 14 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 15 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 16 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
+| 17 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
+| 18 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
+| 19 | [Te Bote](http://twitter.com/search?q=Te+Bote) | N/A |
+| 20 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 21 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 22 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
+| 23 | [#Wordle665](http://twitter.com/search?q=%23Wordle665) | N/A |
+| 24 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 25 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 26 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 27 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 28 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 30 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 31 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 32 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 33 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
+| 34 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 35 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 36 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 37 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 38 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 39 | [Low Life](http://twitter.com/search?q=Low+Life) | N/A |
+| 40 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
+| 41 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 42 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 43 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
+| 44 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 45 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 46 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 47 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |
 | 48 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 49 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 50 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 49 | [Suns in 6](http://twitter.com/search?q=Suns+in+6) | N/A |
+| 50 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
 
 
 
