@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-15 05:17:18 UTC`
+📆 Last Updated: `2023-04-15 06:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ANJI BACK OnSHOWTIME](http://twitter.com/search?q=ANJI+BACK+OnSHOWTIME) | N/A |
-| 2 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
-| 3 | [#READYTOBEinSEOUL_D1](http://twitter.com/search?q=%23READYTOBEinSEOUL_D1) | N/A |
-| 4 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
-| 5 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
-| 6 | [Atty](http://twitter.com/search?q=Atty) | N/A |
-| 7 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
-| 8 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
-| 9 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [ANJI BACK OnSHOWTIME](http://twitter.com/search?q=ANJI+BACK+OnSHOWTIME) | N/A |
+| 3 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
+| 4 | [#READYTOBEinSEOUL_D1](http://twitter.com/search?q=%23READYTOBEinSEOUL_D1) | N/A |
+| 5 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
+| 6 | [#FELIP_SuperiorSessions](http://twitter.com/search?q=%23FELIP_SuperiorSessions) | N/A |
+| 7 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
+| 8 | [#HELLO_TOUR_IN_MANILA](http://twitter.com/search?q=%23HELLO_TOUR_IN_MANILA) | N/A |
+| 9 | [Atty](http://twitter.com/search?q=Atty) | N/A |
 | 10 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 11 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 12 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
-| 13 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
-| 14 | [happy 1st year karlian](http://twitter.com/search?q=happy+1st+year+karlian) | N/A |
-| 15 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
+| 11 | [FML OFFICIAL PHOTO 3](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+3) | N/A |
+| 12 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
+| 13 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 14 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
+| 15 | [clashmate vivoree](http://twitter.com/search?q=clashmate+vivoree) | N/A |
 | 16 | [magandang buhay vibrent](http://twitter.com/search?q=magandang+buhay+vibrent) | N/A |
-| 17 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
-| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 19 | [maligayang pagbabalik](http://twitter.com/search?q=maligayang+pagbabalik) | N/A |
+| 17 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
+| 18 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
+| 19 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
 | 20 | [up law](http://twitter.com/search?q=up+law) | N/A |
-| 21 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
-| 22 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
-| 23 | [alexa on starmagic convo](http://twitter.com/search?q=alexa+on+starmagic+convo) | N/A |
-| 24 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 25 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 26 | [ALDENxBSE SunScreenGel](http://twitter.com/search?q=ALDENxBSE+SunScreenGel) | N/A |
-| 27 | [COMING OVER](http://twitter.com/search?q=COMING+OVER) | N/A |
-| 28 | [kath for gatorade](http://twitter.com/search?q=kath+for+gatorade) | N/A |
-| 29 | [Bird](http://twitter.com/search?q=Bird) | N/A |
-| 30 | [MARBELous HORI7ON](http://twitter.com/search?q=MARBELous+HORI7ON) | N/A |
-| 31 | [Mark Sheehan](http://twitter.com/search?q=Mark+Sheehan) | N/A |
-| 32 | [eager for janeshua](http://twitter.com/search?q=eager+for+janeshua) | N/A |
-| 33 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 34 | [Moonlight Sunrise](http://twitter.com/search?q=Moonlight+Sunrise) | N/A |
-| 35 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 36 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 37 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 38 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 39 | [HAPPY 1M](http://twitter.com/search?q=HAPPY+1M) | N/A |
-| 40 | [Oriental Mindoro](http://twitter.com/search?q=Oriental+Mindoro) | N/A |
-| 41 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 42 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
-| 43 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
-| 44 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 45 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 46 | [YOU'RE ON YOUR OWN KID](http://twitter.com/search?q=YOU%27RE+ON+YOUR+OWN+KID) | N/A |
-| 47 | [GINAGAWANYU KENAYU](http://twitter.com/search?q=GINAGAWANYU+KENAYU) | N/A |
+| 21 | [GULF READY TO HK](http://twitter.com/search?q=GULF+READY+TO+HK) | N/A |
+| 22 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
+| 23 | [MARBELous HORI7ON](http://twitter.com/search?q=MARBELous+HORI7ON) | N/A |
+| 24 | [alexa on starmagic convo](http://twitter.com/search?q=alexa+on+starmagic+convo) | N/A |
+| 25 | [triggered chico](http://twitter.com/search?q=triggered+chico) | N/A |
+| 26 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 27 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
+| 28 | [Bird](http://twitter.com/search?q=Bird) | N/A |
+| 29 | [Bar Exam](http://twitter.com/search?q=Bar+Exam) | N/A |
+| 30 | [COMING OVER](http://twitter.com/search?q=COMING+OVER) | N/A |
+| 31 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 32 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 33 | [ALDENxBSE SunScreenGel](http://twitter.com/search?q=ALDENxBSE+SunScreenGel) | N/A |
+| 34 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
+| 35 | [Mark Sheehan](http://twitter.com/search?q=Mark+Sheehan) | N/A |
+| 36 | [teenclash seham ep4](http://twitter.com/search?q=teenclash+seham+ep4) | N/A |
+| 37 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
+| 38 | [kath for gatorade](http://twitter.com/search?q=kath+for+gatorade) | N/A |
+| 39 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 40 | [PROTECT BECKY AT ALL COST](http://twitter.com/search?q=PROTECT+BECKY+AT+ALL+COST) | N/A |
+| 41 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 42 | [happy 1st year karlian](http://twitter.com/search?q=happy+1st+year+karlian) | N/A |
+| 43 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 44 | [HAPPY 1M](http://twitter.com/search?q=HAPPY+1M) | N/A |
+| 45 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 46 | [Bucks in 5](http://twitter.com/search?q=Bucks+in+5) | N/A |
+| 47 | [ginagawanyu kenayu](http://twitter.com/search?q=ginagawanyu+kenayu) | N/A |
 
 
 

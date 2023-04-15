@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-15 05:17:36 UTC`
+📆 Last Updated: `2023-04-15 06:18:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 2 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 2 | [#Athletics](http://twitter.com/search?q=%23Athletics) | N/A |
 | 3 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 4 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 5 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
-| 6 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 7 | [Dodger Stadium](http://twitter.com/search?q=Dodger+Stadium) | N/A |
-| 8 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
-| 9 | [Wacha](http://twitter.com/search?q=Wacha) | N/A |
-| 10 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
-| 11 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 12 | [Yuma](http://twitter.com/search?q=Yuma) | N/A |
-| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 14 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 15 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 16 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
-| 17 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 18 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 19 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 20 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 21 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 22 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 23 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
-| 24 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
-| 25 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 26 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 27 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 28 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 29 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 30 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 31 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 32 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 33 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 34 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 35 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 36 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 37 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 38 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 39 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 40 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 41 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 42 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 4 | [Dixon](http://twitter.com/search?q=Dixon) | N/A |
+| 5 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
+| 6 | [Bellinger](http://twitter.com/search?q=Bellinger) | N/A |
+| 7 | [Yuma](http://twitter.com/search?q=Yuma) | N/A |
+| 8 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 9 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
+| 10 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
+| 11 | [Lakers in 6](http://twitter.com/search?q=Lakers+in+6) | N/A |
+| 12 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 13 | [Dodger Stadium](http://twitter.com/search?q=Dodger+Stadium) | N/A |
+| 14 | [FOMO](http://twitter.com/search?q=FOMO) | N/A |
+| 15 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 16 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 17 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
+| 18 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 19 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 20 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 21 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 22 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 23 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 24 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 25 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 26 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
+| 27 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 29 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 30 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 31 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 32 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 33 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 34 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 35 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 36 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 37 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 38 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 39 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 40 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 41 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 42 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
 | 43 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 44 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 45 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 46 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 47 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 48 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 49 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 44 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 45 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 46 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
+| 47 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 48 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 49 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 50 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
 
 
 

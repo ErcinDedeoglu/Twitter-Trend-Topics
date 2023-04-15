@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-15 05:17:02 UTC`
+📆 Last Updated: `2023-04-15 06:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FicaBruna](http://twitter.com/search?q=%23FicaBruna) | N/A |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 3 | [Choquei](http://twitter.com/search?q=Choquei) | N/A |
-| 4 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
-| 5 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 6 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 7 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 8 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
-| 9 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 10 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
-| 11 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 12 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 13 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 14 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
-| 15 | [DVD JOELMA ETAPA SP](http://twitter.com/search?q=DVD+JOELMA+ETAPA+SP) | N/A |
-| 16 | [#FicaSarah](http://twitter.com/search?q=%23FicaSarah) | N/A |
-| 17 | [Fora Bruna](http://twitter.com/search?q=Fora+Bruna) | N/A |
-| 18 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 19 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 20 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 21 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 22 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 23 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 24 | [#ConversaComBial](http://twitter.com/search?q=%23ConversaComBial) | N/A |
-| 25 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
-| 26 | [Camila Cabello](http://twitter.com/search?q=Camila+Cabello) | Camila Cabello is a Cuban-American singer and songwriter. She rose to fame as a member of the girl group Fifth Harmony, formed on the US version of The X Factor in 2012. Her solo career began in 2016 with the release of her debut single "Crying in the Club". The name Camila Cabello is derived from her full name, Karla Camila Cabello Estrabao. |
-| 27 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 28 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 29 | [Tom DeLonge](http://twitter.com/search?q=Tom+DeLonge) | N/A |
-| 30 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 31 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 32 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 33 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 34 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 36 | [CRIAS CAMPEÃO DA NFA](http://twitter.com/search?q=CRIAS+CAMPE%c3%83O+DA+NFA) | N/A |
-| 37 | [tchau sarah](http://twitter.com/search?q=tchau+sarah) | N/A |
-| 38 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 39 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 40 | [Se a Sarah](http://twitter.com/search?q=Se+a+Sarah) | N/A |
-| 41 | [I Miss You](http://twitter.com/search?q=I+Miss+You) | N/A |
-| 42 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 43 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 44 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 45 | [Agora a Bruna](http://twitter.com/search?q=Agora+a+Bruna) | N/A |
-| 46 | [You're On Your Own](http://twitter.com/search?q=You%27re+On+Your+Own) | N/A |
-| 47 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 48 | [Tchau Bruna](http://twitter.com/search?q=Tchau+Bruna) | N/A |
-| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 1 | [Fora Bruna](http://twitter.com/search?q=Fora+Bruna) | N/A |
+| 2 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
+| 3 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 4 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
+| 5 | [DVD JOELMA ETAPA SP](http://twitter.com/search?q=DVD+JOELMA+ETAPA+SP) | N/A |
+| 6 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 7 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 8 | [Shawn](http://twitter.com/search?q=Shawn) | N/A |
+| 9 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 10 | [#FicaSarah](http://twitter.com/search?q=%23FicaSarah) | N/A |
+| 11 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 12 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 13 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 14 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 15 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 16 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 17 | [#ConversaComBial](http://twitter.com/search?q=%23ConversaComBial) | N/A |
+| 18 | [Camila Cabello](http://twitter.com/search?q=Camila+Cabello) | Camila Cabello is a Cuban-American singer and songwriter. She rose to fame as a member of the girl group Fifth Harmony, formed on the US version of The X Factor in 2012. Her solo career began in 2016 with the release of her debut single "Crying in the Club". The name Camila Cabello is derived from her full name, Karla Camila Cabello Estrabao. |
+| 19 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 20 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 21 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 22 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 23 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 24 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 25 | [CRIAS CAMPEÃO DA NFA](http://twitter.com/search?q=CRIAS+CAMPE%c3%83O+DA+NFA) | N/A |
+| 26 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
+| 27 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 28 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
+| 29 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
+| 30 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 31 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 32 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 33 | [Se a Sarah](http://twitter.com/search?q=Se+a+Sarah) | N/A |
+| 34 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 35 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 36 | [Hygor](http://twitter.com/search?q=Hygor) | N/A |
+| 37 | [Tchau Bruna](http://twitter.com/search?q=Tchau+Bruna) | N/A |
+| 38 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 39 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 40 | [Tchau Sarah](http://twitter.com/search?q=Tchau+Sarah) | N/A |
+| 41 | [Bruno Xavier](http://twitter.com/search?q=Bruno+Xavier) | N/A |
+| 42 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 43 | [Aaron Dessner](http://twitter.com/search?q=Aaron+Dessner) | N/A |
+| 44 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 45 | [The Last Kingdom](http://twitter.com/search?q=The+Last+Kingdom) | N/A |
+| 46 | [Butler](http://twitter.com/search?q=Butler) | N/A |
+| 47 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 48 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
+| 49 | [Parabéns Santos](http://twitter.com/search?q=Parab%c3%a9ns+Santos) | N/A |
 
 
 

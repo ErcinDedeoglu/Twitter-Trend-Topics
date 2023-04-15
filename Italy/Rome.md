@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-04-15 05:17:07 UTC`
+📆 Last Updated: `2023-04-15 06:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Spuntablu](http://twitter.com/search?q=%23Spuntablu) | N/A |
-| 2 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 3 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
-| 4 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
-| 5 | [#15aprile](http://twitter.com/search?q=%2315aprile) | N/A |
-| 6 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
-| 7 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 8 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 9 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 1 | [#15aprile](http://twitter.com/search?q=%2315aprile) | N/A |
+| 2 | [#Spuntablu](http://twitter.com/search?q=%23Spuntablu) | N/A |
+| 3 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 4 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
+| 5 | [#SpeziaLazio](http://twitter.com/search?q=%23SpeziaLazio) | N/A |
+| 6 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
+| 7 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
+| 8 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 9 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
 | 10 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 11 | [Marcos Antonio](http://twitter.com/search?q=Marcos+Antonio) | N/A |
-| 12 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 13 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 14 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
-| 15 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 16 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 17 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 18 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 19 | [Ampadu](http://twitter.com/search?q=Ampadu) | N/A |
-| 20 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 21 | [il tar](http://twitter.com/search?q=il+tar) | N/A |
+| 11 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 12 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 13 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
+| 14 | [Buongiorno Simone](http://twitter.com/search?q=Buongiorno+Simone) | N/A |
+| 15 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
+| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 17 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 18 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
+| 19 | [Azione](http://twitter.com/search?q=Azione) | N/A |
+| 20 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 21 | [Buongiorno Stefano](http://twitter.com/search?q=Buongiorno+Stefano) | N/A |
 | 22 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 23 | [Felipe Anderson](http://twitter.com/search?q=Felipe+Anderson) | Felipe Anderson is a Brazilian professional footballer who plays as an attacking midfielder for Premier League club West Ham United. His name is derived from the Portuguese words "feliz" (happy) and "pé" (foot). In English, his name translates to "happy foot". |
-| 24 | [mentana](http://twitter.com/search?q=mentana) | N/A |
-| 25 | [Anice](http://twitter.com/search?q=Anice) | N/A |
-| 26 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 27 | [Carmelo](http://twitter.com/search?q=Carmelo) | N/A |
-| 28 | [irrati](http://twitter.com/search?q=irrati) | N/A |
-| 29 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 30 | [pulcinella](http://twitter.com/search?q=pulcinella) | N/A |
-| 31 | [il 14](http://twitter.com/search?q=il+14) | N/A |
-| 32 | [Abraham](http://twitter.com/search?q=Abraham) | N/A |
-| 33 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 34 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
-| 35 | [adli](http://twitter.com/search?q=adli) | N/A |
-| 36 | [Sala](http://twitter.com/search?q=Sala) | N/A |
-| 37 | [Buongiorno Liliana](http://twitter.com/search?q=Buongiorno+Liliana) | N/A |
-| 38 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 39 | [Enrico](http://twitter.com/search?q=Enrico) | N/A |
-| 40 | [Buongiorno Stefano](http://twitter.com/search?q=Buongiorno+Stefano) | N/A |
-| 41 | [Leonardo da Vinci](http://twitter.com/search?q=Leonardo+da+Vinci) | N/A |
-| 42 | [Credi](http://twitter.com/search?q=Credi) | N/A |
-| 43 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
-| 44 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 45 | [Belgio](http://twitter.com/search?q=Belgio) | N/A |
-| 46 | [Bellissima](http://twitter.com/search?q=Bellissima) | N/A |
-| 47 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 48 | [Piera](http://twitter.com/search?q=Piera) | N/A |
-| 49 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 50 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 23 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 24 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
+| 25 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
+| 26 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
+| 27 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 28 | [Berardi](http://twitter.com/search?q=Berardi) | Berardi is an Italian surname. It is derived from the Latin word "berardus", which means "bold". In English, it can be translated to mean "brave" or "courageous". |
+| 29 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
+| 30 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 31 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
+| 32 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 33 | [Buongiorno Michael](http://twitter.com/search?q=Buongiorno+Michael) | N/A |
+| 34 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 35 | [Ampadu](http://twitter.com/search?q=Ampadu) | N/A |
+| 36 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
+| 37 | [Etiopia](http://twitter.com/search?q=Etiopia) | N/A |
+| 38 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
+| 39 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 40 | [Anice](http://twitter.com/search?q=Anice) | N/A |
+| 41 | [TURIN](http://twitter.com/search?q=TURIN) | N/A |
+| 42 | [Nole](http://twitter.com/search?q=Nole) | Nole is a nickname for Novak Djokovic, a Serbian professional tennis player. It is derived from his last name, Djokovic. |
+| 43 | [Belgio](http://twitter.com/search?q=Belgio) | N/A |
+| 44 | [pulcinella](http://twitter.com/search?q=pulcinella) | N/A |
+| 45 | [Felipe Anderson](http://twitter.com/search?q=Felipe+Anderson) | Felipe Anderson is a Brazilian professional footballer who plays as an attacking midfielder for Premier League club West Ham United. His name is derived from the Portuguese words "feliz" (happy) and "pé" (foot). In English, his name translates to "happy foot". |
+| 46 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
+| 47 | [Il 15](http://twitter.com/search?q=Il+15) | N/A |
+| 48 | [umbria](http://twitter.com/search?q=umbria) | N/A |
+| 49 | [Fritz](http://twitter.com/search?q=Fritz) | Fritz is a German nickname for Friedrich, which is a German name meaning "peaceful ruler". In English, it can be used as a nickname for someone named Frederick or Frederic. |
+| 50 | [Buongiorno Patrizia](http://twitter.com/search?q=Buongiorno+Patrizia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-04-15 05:17:36 UTC`
+📆 Last Updated: `2023-04-15 06:18:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [#SeaUsRise](http://twitter.com/search?q=%23SeaUsRise) | N/A |
 | 2 | [Ty France](http://twitter.com/search?q=Ty+France) | N/A |
 | 3 | [Tommy Milone](http://twitter.com/search?q=Tommy+Milone) | N/A |
-| 4 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 4 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 5 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 6 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 8 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 9 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 10 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 11 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 6 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 7 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 8 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 9 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 10 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 11 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
 | 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 13 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 14 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 15 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
-| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 17 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
-| 18 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 19 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 20 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 21 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 22 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 23 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 24 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
-| 25 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 26 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 27 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 28 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 29 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 30 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 31 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
-| 32 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 33 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
-| 34 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 35 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 36 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 37 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
-| 38 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
+| 13 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 14 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 15 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 16 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 17 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 18 | [#ThunderUp](http://twitter.com/search?q=%23ThunderUp) | N/A |
+| 19 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 20 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 21 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 22 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 23 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 24 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 25 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 26 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 27 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 28 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 29 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
+| 30 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 31 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 32 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 33 | [AARON DESSNER](http://twitter.com/search?q=AARON+DESSNER) | N/A |
+| 34 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 35 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 36 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 37 | [Ian Happ](http://twitter.com/search?q=Ian+Happ) | N/A |
+| 38 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
 | 39 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 40 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 41 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 42 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
-| 43 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
-| 44 | [Senga](http://twitter.com/search?q=Senga) | N/A |
-| 45 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
+| 40 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 41 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 42 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 43 | [Whyte Fang](http://twitter.com/search?q=Whyte+Fang) | N/A |
+| 44 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 45 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 46 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 47 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 48 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 49 | [NICK MATON](http://twitter.com/search?q=NICK+MATON) | N/A |
-| 50 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 47 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 48 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 49 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 50 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
 
 
 
