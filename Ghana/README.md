@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ghana
 
-📆 Last Updated: `2023-04-15 02:30:43 UTC`
+📆 Last Updated: `2023-04-15 03:17:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Ghana
 | ------- | ------------ | ------------ |
 | 1 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 2 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 3 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 4 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 3 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [#AdoleyVideo](http://twitter.com/search?q=%23AdoleyVideo) | N/A |
-| 7 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
-| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 9 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 10 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 11 | [Smart](http://twitter.com/search?q=Smart) | N/A |
-| 12 | [SABITZER](http://twitter.com/search?q=SABITZER) | N/A |
-| 13 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 14 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 6 | [#MUNSEV](http://twitter.com/search?q=%23MUNSEV) | N/A |
+| 7 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 8 | [#AdoleyVideo](http://twitter.com/search?q=%23AdoleyVideo) | N/A |
+| 9 | [chickenman](http://twitter.com/search?q=chickenman) | N/A |
+| 10 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 11 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 12 | [Kidi](http://twitter.com/search?q=Kidi) | N/A |
+| 13 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 14 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
 | 15 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 17 | [Sane](http://twitter.com/search?q=Sane) | N/A |
-| 18 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
-| 19 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
-| 20 | [Bongo Ideas](http://twitter.com/search?q=Bongo+Ideas) | N/A |
-| 21 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 22 | [#FridayVibe](http://twitter.com/search?q=%23FridayVibe) | N/A |
-| 23 | [Hajia Bintu](http://twitter.com/search?q=Hajia+Bintu) | N/A |
-| 24 | [Kidi](http://twitter.com/search?q=Kidi) | N/A |
-| 25 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 26 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 27 | [CONGRATULATIONS KHOSI](http://twitter.com/search?q=CONGRATULATIONS+KHOSI) | N/A |
-| 28 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 29 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 30 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 31 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 32 | [senegalese](http://twitter.com/search?q=senegalese) | N/A |
-| 33 | [Kuami Eugene](http://twitter.com/search?q=Kuami+Eugene) | N/A |
+| 16 | [#siiciemyside](http://twitter.com/search?q=%23siiciemyside) | N/A |
+| 17 | [Bongo Ideas](http://twitter.com/search?q=Bongo+Ideas) | N/A |
+| 18 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 20 | [Kuami Eugene](http://twitter.com/search?q=Kuami+Eugene) | N/A |
+| 21 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 22 | [Hajia Bintu](http://twitter.com/search?q=Hajia+Bintu) | N/A |
+| 23 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 24 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 25 | [#bringbackdatazonebundle](http://twitter.com/search?q=%23bringbackdatazonebundle) | N/A |
+| 26 | [Georgina](http://twitter.com/search?q=Georgina) | Georgina is a female given name of Greek origin, derived from the Greek name Γεωργινα (Geōrgina), which is a feminine form of the name George. It means "farmer" or "earth worker". |
+| 27 | [Sane](http://twitter.com/search?q=Sane) | N/A |
+| 28 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
+| 29 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 30 | [#fridayvibe](http://twitter.com/search?q=%23fridayvibe) | N/A |
+| 31 | [Eboue](http://twitter.com/search?q=Eboue) | N/A |
+| 32 | [danlad](http://twitter.com/search?q=danlad) | N/A |
+| 33 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 34 | [King Promise](http://twitter.com/search?q=King+Promise) | King Promise is a Ghanaian singer, songwriter, and record producer. The phrase "King Promise" is a metaphor for the promise of greatness that comes with being a king. It is also a reference to the artist's commitment to delivering quality music and creating an impact in the music industry. |
-| 35 | [Mane](http://twitter.com/search?q=Mane) | Mane is a noun that refers to the long, thick hair that grows from the neck of certain animals, such as horses and lions. In English, it is also used to refer to a person's long, thick hair. |
-| 36 | [Scar](http://twitter.com/search?q=Scar) | N/A |
-| 37 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
-| 38 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 39 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 40 | [camidoh](http://twitter.com/search?q=camidoh) | N/A |
-| 41 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 42 | [Asamoah Gyan](http://twitter.com/search?q=Asamoah+Gyan) | N/A |
-| 43 | [Eboue](http://twitter.com/search?q=Eboue) | N/A |
-| 44 | [cregxforce mega project](http://twitter.com/search?q=cregxforce+mega+project) | N/A |
-| 45 | [Tariq](http://twitter.com/search?q=Tariq) | N/A |
-| 46 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 47 | [Man Utd](http://twitter.com/search?q=Man+Utd) | N/A |
-| 48 | [subscribe to yemicregx youtube](http://twitter.com/search?q=subscribe+to+yemicregx+youtube) | N/A |
-| 49 | [Biko](http://twitter.com/search?q=Biko) | N/A |
-| 50 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 35 | [camidoh](http://twitter.com/search?q=camidoh) | N/A |
+| 36 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 37 | [berekum chelsea](http://twitter.com/search?q=berekum+chelsea) | N/A |
+| 38 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
+| 39 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 40 | [Monet](http://twitter.com/search?q=Monet) | N/A |
+| 41 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 42 | [Ashanti](http://twitter.com/search?q=Ashanti) | N/A |
+| 43 | [Moroccan](http://twitter.com/search?q=Moroccan) | N/A |
+| 44 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 45 | [asamoah gyan](http://twitter.com/search?q=asamoah+gyan) | N/A |
+| 46 | [Scar](http://twitter.com/search?q=Scar) | N/A |
+| 47 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 48 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 49 | [Juicy Jay](http://twitter.com/search?q=Juicy+Jay) | Juicy Jay is a brand of flavored rolling papers. The papers are made from hemp and come in a variety of flavors, such as strawberry, blueberry, watermelon, and more. The name "Juicy Jay" is derived from the fact that the papers are extra-long and extra-thick, making them juicy and flavorful when smoked. |
+| 50 | [Mothers](http://twitter.com/search?q=Mothers) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-04-15 02:30:39 UTC`
+📆 Last Updated: `2023-04-15 03:17:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 3 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 4 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 5 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 6 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 7 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 8 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 9 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 10 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 11 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 12 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 13 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 14 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
-| 15 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 16 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 17 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 18 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 19 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 20 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 21 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 22 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 23 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 24 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 25 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 26 | [Shinsuke](http://twitter.com/search?q=Shinsuke) | N/A |
-| 27 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
-| 28 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 30 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
-| 31 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
-| 32 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 33 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
-| 34 | [Volpe](http://twitter.com/search?q=Volpe) | N/A |
-| 35 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 36 | [Bam Adebayo](http://twitter.com/search?q=Bam+Adebayo) | Bam Adebayo is the name of a professional basketball player who currently plays for the Miami Heat in the National Basketball Association (NBA). His name is derived from his initials, B.A.M., which stands for "Born A Man". |
-| 37 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
-| 38 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
-| 39 | [Budda](http://twitter.com/search?q=Budda) | N/A |
-| 40 | [Vooch](http://twitter.com/search?q=Vooch) | N/A |
-| 41 | [Josh Bell](http://twitter.com/search?q=Josh+Bell) | N/A |
-| 42 | [Poche](http://twitter.com/search?q=Poche) | N/A |
-| 43 | [Snit](http://twitter.com/search?q=Snit) | N/A |
-| 44 | [Diekman](http://twitter.com/search?q=Diekman) | N/A |
-| 45 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
-| 46 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 47 | [sam hilliard](http://twitter.com/search?q=sam+hilliard) | N/A |
+| 4 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 5 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 6 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
+| 7 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 8 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 9 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 10 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 11 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 12 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 13 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 14 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 15 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 17 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 18 | [#loveafterlockup](http://twitter.com/search?q=%23loveafterlockup) | #LoveAfterLockup is a reality television series that follows couples who have formed relationships while one of them is in prison. The show follows the couples as they reunite and attempt to make their relationships work after the release of the incarcerated partner. |
+| 19 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
+| 20 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
+| 21 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 22 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 23 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
+| 24 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 25 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 26 | [AARON DESSNER](http://twitter.com/search?q=AARON+DESSNER) | N/A |
+| 27 | [Nick Maton](http://twitter.com/search?q=Nick+Maton) | N/A |
+| 28 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 29 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 30 | [Shinsuke](http://twitter.com/search?q=Shinsuke) | N/A |
+| 31 | [Nathan MacKinnon](http://twitter.com/search?q=Nathan+MacKinnon) | N/A |
+| 32 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 33 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | N/A |
+| 34 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 35 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 36 | [Jarred Kelenic](http://twitter.com/search?q=Jarred+Kelenic) | N/A |
+| 37 | [Yan Gomes](http://twitter.com/search?q=Yan+Gomes) | N/A |
+| 38 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 39 | [Oviedo](http://twitter.com/search?q=Oviedo) | N/A |
+| 40 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 41 | [Playoff Jimmy](http://twitter.com/search?q=Playoff+Jimmy) | N/A |
+| 42 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 43 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
+| 44 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 45 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
+| 46 | [Poche](http://twitter.com/search?q=Poche) | N/A |
+| 47 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 48 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 
 
 

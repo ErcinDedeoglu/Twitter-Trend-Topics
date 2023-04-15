@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-04-15 02:30:06 UTC`
+📆 Last Updated: `2023-04-15 03:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#lpoacf](http://twitter.com/search?q=%23lpoacf) | N/A |
-| 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 3 | [#lpofio](http://twitter.com/search?q=%23lpofio) | N/A |
-| 4 | [#ZAGGÓR](http://twitter.com/search?q=%23ZAGG%c3%93R) | N/A |
-| 5 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 6 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 1 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 2 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 3 | [#lpoacf](http://twitter.com/search?q=%23lpoacf) | N/A |
+| 4 | [#warślą](http://twitter.com/search?q=%23war%c5%9bl%c4%85) | N/A |
+| 5 | [#lpofio](http://twitter.com/search?q=%23lpofio) | N/A |
+| 6 | [#zaggór](http://twitter.com/search?q=%23zagg%c3%b3r) | N/A |
 | 7 | [bednarek](http://twitter.com/search?q=bednarek) | N/A |
-| 8 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 9 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 10 | [Żyro](http://twitter.com/search?q=%c5%bbyro) | N/A |
-| 11 | [Polska](http://twitter.com/search?q=Polska) | N/A |
-| 12 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 13 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | N/A |
-| 14 | [młyński](http://twitter.com/search?q=m%c5%82y%c5%84ski) | N/A |
-| 15 | [Niemiec](http://twitter.com/search?q=Niemiec) | N/A |
-| 16 | [salamon](http://twitter.com/search?q=salamon) | N/A |
-| 17 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 18 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
-| 19 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 20 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 21 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
-| 22 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 23 | [Ishak](http://twitter.com/search?q=Ishak) | N/A |
-| 24 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
-| 25 | [bochenek](http://twitter.com/search?q=bochenek) | N/A |
-| 26 | [Marcin Kamiński](http://twitter.com/search?q=Marcin+Kami%c5%84ski) | N/A |
-| 27 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 28 | [Junca](http://twitter.com/search?q=Junca) | N/A |
-| 29 | [starzyński](http://twitter.com/search?q=starzy%c5%84ski) | N/A |
-| 30 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
-| 31 | [oPOzycja](http://twitter.com/search?q=oPOzycja) | N/A |
-| 32 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 33 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
-| 34 | [Sobol](http://twitter.com/search?q=Sobol) | N/A |
-| 35 | [zaksy](http://twitter.com/search?q=zaksy) | N/A |
-| 36 | [Miedwiediew](http://twitter.com/search?q=Miedwiediew) | N/A |
-| 37 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
-| 38 | [velde](http://twitter.com/search?q=velde) | N/A |
-| 39 | [czarnkiem](http://twitter.com/search?q=czarnkiem) | N/A |
-| 40 | [Tachi](http://twitter.com/search?q=Tachi) | N/A |
-| 41 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 42 | [Tomasz L.](http://twitter.com/search?q=Tomasz+L.) | N/A |
-| 43 | [berlingo](http://twitter.com/search?q=berlingo) | N/A |
-| 44 | [PiSu](http://twitter.com/search?q=PiSu) | N/A |
-| 45 | [Chrztu Polski](http://twitter.com/search?q=Chrztu+Polski) | N/A |
-| 46 | [broniarz](http://twitter.com/search?q=broniarz) | N/A |
-| 47 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
-| 48 | [Ruchem](http://twitter.com/search?q=Ruchem) | N/A |
-| 49 | [Igbekeme](http://twitter.com/search?q=Igbekeme) | N/A |
+| 8 | [bochenek](http://twitter.com/search?q=bochenek) | N/A |
+| 9 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 10 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 11 | [żyro](http://twitter.com/search?q=%c5%bcyro) | N/A |
+| 12 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 13 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 14 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
+| 15 | [młyński](http://twitter.com/search?q=m%c5%82y%c5%84ski) | N/A |
+| 16 | [Tomasz L.](http://twitter.com/search?q=Tomasz+L.) | N/A |
+| 17 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 18 | [pani profesor](http://twitter.com/search?q=pani+profesor) | N/A |
+| 19 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 20 | [T-55](http://twitter.com/search?q=T-55) | N/A |
+| 21 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | N/A |
+| 22 | [salamona](http://twitter.com/search?q=salamona) | N/A |
+| 23 | [rodado](http://twitter.com/search?q=rodado) | N/A |
+| 24 | [czarnkiem](http://twitter.com/search?q=czarnkiem) | N/A |
+| 25 | [chrztu polski](http://twitter.com/search?q=chrztu+polski) | N/A |
+| 26 | [żakowski](http://twitter.com/search?q=%c5%bcakowski) | N/A |
+| 27 | [broniarz](http://twitter.com/search?q=broniarz) | N/A |
+| 28 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 29 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 30 | [amsterdamie](http://twitter.com/search?q=amsterdamie) | N/A |
+| 31 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
+| 32 | [Opozycja](http://twitter.com/search?q=Opozycja) | N/A |
+| 33 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 34 | [Marcin Kamiński](http://twitter.com/search?q=Marcin+Kami%c5%84ski) | N/A |
+| 35 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 36 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 37 | [weronika falkowska](http://twitter.com/search?q=weronika+falkowska) | N/A |
+| 38 | [junca](http://twitter.com/search?q=junca) | N/A |
+| 39 | [starzyński](http://twitter.com/search?q=starzy%c5%84ski) | N/A |
+| 40 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 41 | [Chin](http://twitter.com/search?q=Chin) | N/A |
+| 42 | [berlingo](http://twitter.com/search?q=berlingo) | N/A |
+| 43 | [sobol](http://twitter.com/search?q=sobol) | N/A |
+| 44 | [zaksy](http://twitter.com/search?q=zaksy) | N/A |
+| 45 | [Hailie](http://twitter.com/search?q=Hailie) | N/A |
+| 46 | [casy](http://twitter.com/search?q=casy) | N/A |
+| 47 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 48 | [velde](http://twitter.com/search?q=velde) | N/A |
+| 49 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
 
 
 

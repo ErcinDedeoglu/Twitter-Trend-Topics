@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-15 02:30:05 UTC`
+📆 Last Updated: `2023-04-15 03:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Regis](http://twitter.com/search?q=Regis) | N/A |
-| 2 | [Nairóbi](http://twitter.com/search?q=Nair%c3%b3bi) | N/A |
-| 3 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 4 | [#MLBS5Spoilers](http://twitter.com/search?q=%23MLBS5Spoilers) | N/A |
-| 5 | [Série B](http://twitter.com/search?q=S%c3%a9rie+B) | N/A |
-| 6 | [O Flamengo](http://twitter.com/search?q=O+Flamengo) | N/A |
-| 7 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
-| 8 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
-| 9 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 10 | [Paraná](http://twitter.com/search?q=Paran%c3%a1) | N/A |
-| 11 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
-| 12 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 13 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 14 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 15 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 16 | [Mengão](http://twitter.com/search?q=Meng%c3%a3o) | N/A |
-| 17 | [Duilio](http://twitter.com/search?q=Duilio) | Duilio is an Italian name derived from the Latin name Julius, which means "youthful". It is also a variant of the name Julio, which is Spanish for "youthful". |
-| 18 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 19 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
-| 20 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 21 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 22 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
-| 23 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 24 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 25 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
-| 26 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 27 | [#Travessia](http://twitter.com/search?q=%23Travessia) | #Travessia is a Portuguese word meaning “crossing” or “journey”. It is often used to refer to a journey of discovery, exploration, or transformation. |
-| 28 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 29 | [CRIAS CAMPEÃO DA NFA](http://twitter.com/search?q=CRIAS+CAMPE%c3%83O+DA+NFA) | N/A |
-| 30 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 31 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 32 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 33 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 34 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 1 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 2 | [Choquei](http://twitter.com/search?q=Choquei) | N/A |
+| 3 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 4 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
+| 5 | [Nairóbi](http://twitter.com/search?q=Nair%c3%b3bi) | N/A |
+| 6 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
+| 7 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 8 | [Paraná](http://twitter.com/search?q=Paran%c3%a1) | N/A |
+| 9 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 10 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 11 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 12 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 13 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 14 | [#ForaSarah](http://twitter.com/search?q=%23ForaSarah) | N/A |
+| 15 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
+| 16 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 17 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 18 | [#FicaSarah](http://twitter.com/search?q=%23FicaSarah) | N/A |
+| 19 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 20 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 21 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 22 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 23 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 24 | [CRIAS CAMPEÃO DA NFA](http://twitter.com/search?q=CRIAS+CAMPE%c3%83O+DA+NFA) | N/A |
+| 25 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 26 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
+| 27 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 28 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 29 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 30 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 31 | [DVD JOELMA ETAPA SP](http://twitter.com/search?q=DVD+JOELMA+ETAPA+SP) | N/A |
+| 32 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
+| 33 | [Tchau Sarah](http://twitter.com/search?q=Tchau+Sarah) | N/A |
+| 34 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
 | 35 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
-| 36 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 37 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 38 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
-| 39 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 40 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 41 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 42 | [DVD JOELMA ETAPA SP](http://twitter.com/search?q=DVD+JOELMA+ETAPA+SP) | N/A |
-| 43 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 44 | [Tom Delonge](http://twitter.com/search?q=Tom+Delonge) | N/A |
-| 45 | [Brisa](http://twitter.com/search?q=Brisa) | N/A |
-| 46 | [Adebayo](http://twitter.com/search?q=Adebayo) | N/A |
-| 47 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 48 | [Natinha](http://twitter.com/search?q=Natinha) | Natinha is a Portuguese nickname for the name Natalia. It is derived from the Latin word natalia, which means "birthday" or "Christmas Day". In English, it can be translated to mean "little Natalia". |
-| 49 | [Vucevic](http://twitter.com/search?q=Vucevic) | N/A |
+| 36 | [Jinkx](http://twitter.com/search?q=Jinkx) | N/A |
+| 37 | [Osasco](http://twitter.com/search?q=Osasco) | N/A |
+| 38 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 39 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 40 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 41 | [Hygor](http://twitter.com/search?q=Hygor) | N/A |
+| 42 | [I Miss You](http://twitter.com/search?q=I+Miss+You) | N/A |
+| 43 | [Tchau Bruna](http://twitter.com/search?q=Tchau+Bruna) | N/A |
+| 44 | [Agora a Bruna](http://twitter.com/search?q=Agora+a+Bruna) | N/A |
+| 45 | [You're On Your Own](http://twitter.com/search?q=You%27re+On+Your+Own) | N/A |
+| 46 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 47 | [Se a Sarah](http://twitter.com/search?q=Se+a+Sarah) | N/A |
+| 48 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 49 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
 
 
 

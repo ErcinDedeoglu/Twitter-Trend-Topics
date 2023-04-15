@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minsk
 
-📆 Last Updated: `2023-04-15 02:30:12 UTC`
+📆 Last Updated: `2023-04-15 03:17:26 UTC`
 
 🔧 Updated every 1 hour!
 

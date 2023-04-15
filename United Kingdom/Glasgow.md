@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-04-15 02:29:56 UTC`
+📆 Last Updated: `2023-04-15 03:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 2 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 3 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 4 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
-| 5 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 6 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 7 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 8 | [Butler](http://twitter.com/search?q=Butler) | N/A |
-| 9 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 10 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 11 | [Justice for the 97](http://twitter.com/search?q=Justice+for+the+97) | N/A |
-| 12 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
-| 13 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 14 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 15 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 16 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
-| 17 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 18 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 19 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 20 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 21 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 22 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 23 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 24 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 25 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 26 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 27 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 28 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 29 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 30 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 31 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
-| 32 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 33 | [Aberdeen](http://twitter.com/search?q=Aberdeen) | Aberdeen is a city in Scotland, located on the northeast coast of the country. It is the third-largest city in Scotland and the largest in Aberdeenshire. The name Aberdeen comes from the Gaelic words "aber" meaning "mouth of the river" and "dun" meaning "fort". |
-| 34 | [Larne](http://twitter.com/search?q=Larne) | N/A |
-| 35 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 36 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 37 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 38 | [Mark Sheehan](http://twitter.com/search?q=Mark+Sheehan) | N/A |
-| 39 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 40 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 41 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
-| 42 | [James Bond](http://twitter.com/search?q=James+Bond) | N/A |
-| 43 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 44 | [Borg](http://twitter.com/search?q=Borg) | N/A |
-| 45 | [Nile](http://twitter.com/search?q=Nile) | N/A |
-| 46 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
-| 47 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 48 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
-| 49 | [#gogglebox](http://twitter.com/search?q=%23gogglebox) | N/A |
+| 1 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 2 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 3 | [#SwanGiveaway](http://twitter.com/search?q=%23SwanGiveaway) | N/A |
+| 4 | [#TOTP](http://twitter.com/search?q=%23TOTP) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that uses a unique code generated by an algorithm to authenticate a user. The code is typically valid for only a short period of time, usually 30 seconds or less. |
+| 5 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 6 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 7 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 8 | [Unison](http://twitter.com/search?q=Unison) | N/A |
+| 9 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 10 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
+| 11 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 12 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
+| 13 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 14 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 15 | [Shinsuke](http://twitter.com/search?q=Shinsuke) | N/A |
+| 16 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 17 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 18 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
+| 19 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 20 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 22 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 23 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 24 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 25 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 26 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 27 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 28 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 29 | [ECHR](http://twitter.com/search?q=ECHR) | N/A |
+| 30 | [gerri colombe](http://twitter.com/search?q=gerri+colombe) | N/A |
+| 31 | [Tupperware](http://twitter.com/search?q=Tupperware) | N/A |
+| 32 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 33 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 34 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 35 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
+| 36 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 37 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
+| 38 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 39 | [Cameron Archer](http://twitter.com/search?q=Cameron+Archer) | N/A |
+| 40 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 41 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 42 | [Justice for the 97](http://twitter.com/search?q=Justice+for+the+97) | N/A |
+| 43 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 44 | [Pic D'orhy](http://twitter.com/search?q=Pic+D%27orhy) | N/A |
+| 45 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 46 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 47 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 48 | [Achilles](http://twitter.com/search?q=Achilles) | N/A |
+| 49 | [Boro](http://twitter.com/search?q=Boro) | N/A |
 
 
 
