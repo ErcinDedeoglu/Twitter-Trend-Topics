@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-15 03:17:24 UTC`
+📆 Last Updated: `2023-04-15 04:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#nacwil](http://twitter.com/search?q=%23nacwil) | N/A |
 | 2 | [#feyrom](http://twitter.com/search?q=%23feyrom) | N/A |
-| 3 | [#terugvolgvrijdag](http://twitter.com/search?q=%23terugvolgvrijdag) | N/A |
-| 4 | [#excgae](http://twitter.com/search?q=%23excgae) | N/A |
+| 3 | [#deverraders](http://twitter.com/search?q=%23deverraders) | N/A |
+| 4 | [#Andaz](http://twitter.com/search?q=%23Andaz) | N/A |
 | 5 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
-| 6 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 7 | [thijs zeeman](http://twitter.com/search?q=thijs+zeeman) | N/A |
-| 8 | [ter apel](http://twitter.com/search?q=ter+apel) | N/A |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [Ferry](http://twitter.com/search?q=Ferry) | N/A |
-| 11 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 12 | [manschot](http://twitter.com/search?q=manschot) | N/A |
-| 13 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
-| 14 | [Breda](http://twitter.com/search?q=Breda) | N/A |
-| 15 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 16 | [hillegersberg](http://twitter.com/search?q=hillegersberg) | N/A |
-| 17 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 18 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
-| 19 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 20 | [zomergasten](http://twitter.com/search?q=zomergasten) | N/A |
-| 21 | [mats wieffer](http://twitter.com/search?q=mats+wieffer) | N/A |
-| 22 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
-| 23 | [fc eindhoven](http://twitter.com/search?q=fc+eindhoven) | N/A |
-| 24 | [babs gons](http://twitter.com/search?q=babs+gons) | N/A |
-| 25 | [rai vloet](http://twitter.com/search?q=rai+vloet) | N/A |
-| 26 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 27 | [dichter](http://twitter.com/search?q=dichter) | N/A |
-| 28 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 29 | [gijs van dijk](http://twitter.com/search?q=gijs+van+dijk) | N/A |
-| 30 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
-| 31 | [anderlecht](http://twitter.com/search?q=anderlecht) | N/A |
-| 32 | [Dragqueens](http://twitter.com/search?q=Dragqueens) | N/A |
-| 33 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 34 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 35 | [Go Ahead](http://twitter.com/search?q=Go+Ahead) | N/A |
-| 36 | [b. nee](http://twitter.com/search?q=b.+nee) | N/A |
-| 37 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 38 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
-| 39 | [Blauw](http://twitter.com/search?q=Blauw) | N/A |
-| 40 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 41 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |
-| 42 | [Bart De Wever](http://twitter.com/search?q=Bart+De+Wever) | N/A |
-| 43 | [draagvlak](http://twitter.com/search?q=draagvlak) | N/A |
-| 44 | [laks](http://twitter.com/search?q=laks) | N/A |
-| 45 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
-| 46 | [Belt](http://twitter.com/search?q=Belt) | N/A |
-| 47 | [fc den bosch](http://twitter.com/search?q=fc+den+bosch) | N/A |
-| 48 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 49 | [zembla](http://twitter.com/search?q=zembla) | N/A |
+| 6 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 7 | [KNVB](http://twitter.com/search?q=KNVB) | N/A |
+| 8 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 9 | [Gefeliciteerd](http://twitter.com/search?q=Gefeliciteerd) | N/A |
+| 10 | [manschot](http://twitter.com/search?q=manschot) | N/A |
+| 11 | [Breda](http://twitter.com/search?q=Breda) | N/A |
+| 12 | [telstar](http://twitter.com/search?q=telstar) | N/A |
+| 13 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
+| 14 | [Rolex](http://twitter.com/search?q=Rolex) | Rolex is a Swiss luxury watchmaker that is known for its high-end, precision timepieces. The name Rolex is derived from the French phrase horlogerie exquise, which translates to "exquisite watchmaking." Rolex watches are considered status symbols and are often given as gifts to mark special occasions. |
+| 15 | [thijs zeeman](http://twitter.com/search?q=thijs+zeeman) | N/A |
+| 16 | [STREAM TO 2B FOR JUNGKOOK](http://twitter.com/search?q=STREAM+TO+2B+FOR+JUNGKOOK) | N/A |
+| 17 | [mats wieffer](http://twitter.com/search?q=mats+wieffer) | N/A |
+| 18 | [Den Bosch](http://twitter.com/search?q=Den+Bosch) | Den Bosch is the Dutch name for the city of 's-Hertogenbosch, which is located in the southern Netherlands. The English translation of Den Bosch is 'The Duke's Forest'. |
+| 19 | [Vlissingen](http://twitter.com/search?q=Vlissingen) | N/A |
+| 20 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 21 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 22 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 23 | [laks](http://twitter.com/search?q=laks) | N/A |
+| 24 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 25 | [de graafschap](http://twitter.com/search?q=de+graafschap) | N/A |
+| 26 | [zomergasten](http://twitter.com/search?q=zomergasten) | N/A |
+| 27 | [fc eindhoven](http://twitter.com/search?q=fc+eindhoven) | N/A |
+| 28 | [Ter Apel](http://twitter.com/search?q=Ter+Apel) | N/A |
+| 29 | [idrissi](http://twitter.com/search?q=idrissi) | N/A |
+| 30 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 31 | [bijlmerramp](http://twitter.com/search?q=bijlmerramp) | N/A |
+| 32 | [rotterdammers](http://twitter.com/search?q=rotterdammers) | N/A |
+| 33 | [theo maassen](http://twitter.com/search?q=theo+maassen) | N/A |
+| 34 | [Ferry](http://twitter.com/search?q=Ferry) | N/A |
+| 35 | [hillegersberg](http://twitter.com/search?q=hillegersberg) | N/A |
+| 36 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
+| 37 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 38 | [Belt](http://twitter.com/search?q=Belt) | N/A |
+| 39 | [ab osterhaus](http://twitter.com/search?q=ab+osterhaus) | N/A |
+| 40 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 41 | [bern](http://twitter.com/search?q=bern) | N/A |
+| 42 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
+| 43 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
+| 44 | [omrijden](http://twitter.com/search?q=omrijden) | N/A |
+| 45 | [eToro](http://twitter.com/search?q=eToro) | N/A |
+| 46 | [TOP Oss](http://twitter.com/search?q=TOP+Oss) | N/A |
+| 47 | [Groningen](http://twitter.com/search?q=Groningen) | N/A |
+| 48 | [doe maar](http://twitter.com/search?q=doe+maar) | N/A |
+| 49 | [Avril Lavigne](http://twitter.com/search?q=Avril+Lavigne) | N/A |
 
 
 

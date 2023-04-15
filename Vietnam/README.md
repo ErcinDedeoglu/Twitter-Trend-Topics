@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-04-15 03:18:02 UTC`
+📆 Last Updated: `2023-04-15 04:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#arbitrumspace](http://twitter.com/search?q=%23arbitrumspace) | N/A |
+| 1 | [#tradecoin](http://twitter.com/search?q=%23tradecoin) | N/A |
 | 2 | [#JustinSun](http://twitter.com/search?q=%23JustinSun) | N/A |
-| 3 | [#Cryptonews](http://twitter.com/search?q=%23Cryptonews) | N/A |
-| 4 | [$SUI](http://twitter.com/search?q=%24SUI) | N/A |
-| 5 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
-| 6 | [#AlwayshereforBecky](http://twitter.com/search?q=%23AlwayshereforBecky) | N/A |
-| 7 | [#เล่นสงกรานต์กับบิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
-| 8 | [SONGKRAN WITH BIU](http://twitter.com/search?q=SONGKRAN+WITH+BIU) | N/A |
-| 9 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
-| 10 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
-| 11 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 12 | [Conan](http://twitter.com/search?q=Conan) | N/A |
-| 13 | [BTS OT7 OST](http://twitter.com/search?q=BTS+OT7+OST) | N/A |
-| 14 | [BTS NEW SONG](http://twitter.com/search?q=BTS+NEW+SONG) | N/A |
-| 15 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 16 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 17 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 18 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 19 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 20 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 21 | [Protector](http://twitter.com/search?q=Protector) | N/A |
-| 22 | [ShinRan](http://twitter.com/search?q=ShinRan) | N/A |
-| 23 | [Motorcycle Skull](http://twitter.com/search?q=Motorcycle+Skull) | N/A |
-| 24 | [$TPAD   $PZP](http://twitter.com/search?q=%24TPAD+++%24PZP) | N/A |
-| 25 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
-| 26 | [ETHW](http://twitter.com/search?q=ETHW) | N/A |
-| 27 | [Accessories](http://twitter.com/search?q=Accessories) | N/A |
-| 28 | [snow boots](http://twitter.com/search?q=snow+boots) | N/A |
-| 29 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 30 | [Flooring](http://twitter.com/search?q=Flooring) | N/A |
-| 31 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
-| 32 | [$AGI](http://twitter.com/search?q=%24AGI) | N/A |
-| 33 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
-| 34 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
-| 35 | [Neel](http://twitter.com/search?q=Neel) | N/A |
-| 36 | [new girl  coming](http://twitter.com/search?q=new+girl++coming) | N/A |
-| 37 | [TTTT](http://twitter.com/search?q=TTTT) | N/A |
-| 38 | [$MYRIA](http://twitter.com/search?q=%24MYRIA) | N/A |
-| 39 | [Beijing](http://twitter.com/search?q=Beijing) | N/A |
-| 40 | [uquid](http://twitter.com/search?q=uquid) | N/A |
-| 41 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 42 | [thời](http://twitter.com/search?q=th%e1%bb%9di) | N/A |
-| 43 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
-| 44 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
-| 45 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 46 | [thượng hải](http://twitter.com/search?q=th%c6%b0%e1%bb%a3ng+h%e1%ba%a3i) | N/A |
-| 47 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
-| 48 | [Genshin](http://twitter.com/search?q=Genshin) | N/A |
-| 49 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 50 | [Jubail](http://twitter.com/search?q=Jubail) | N/A |
+| 3 | [#GreatDanceCrewS2](http://twitter.com/search?q=%23GreatDanceCrewS2) | N/A |
+| 4 | [BATTLE KING SANTA IS BACK](http://twitter.com/search?q=BATTLE+KING+SANTA+IS+BACK) | N/A |
+| 5 | [#เล่นสงกรานต์กับบิว](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%aa%e0%b8%87%e0%b8%81%e0%b8%a3%e0%b8%b2%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 6 | [SONGKRAN WITH BIU](http://twitter.com/search?q=SONGKRAN+WITH+BIU) | N/A |
+| 7 | [#Cryptonews](http://twitter.com/search?q=%23Cryptonews) | N/A |
+| 8 | [$SUI](http://twitter.com/search?q=%24SUI) | N/A |
+| 9 | [$ARB](http://twitter.com/search?q=%24ARB) | N/A |
+| 10 | [let jennie attend cannes](http://twitter.com/search?q=let+jennie+attend+cannes) | N/A |
+| 11 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 12 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 13 | [Protector](http://twitter.com/search?q=Protector) | N/A |
+| 14 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
+| 15 | [Grim Reaper](http://twitter.com/search?q=Grim+Reaper) | N/A |
+| 16 | [Conan](http://twitter.com/search?q=Conan) | N/A |
+| 17 | [ETHW](http://twitter.com/search?q=ETHW) | N/A |
+| 18 | [Floor](http://twitter.com/search?q=Floor) | N/A |
+| 19 | [snow boots](http://twitter.com/search?q=snow+boots) | N/A |
+| 20 | [Airdrop](http://twitter.com/search?q=Airdrop) | N/A |
+| 21 | [Most Handsome Man Alive](http://twitter.com/search?q=Most+Handsome+Man+Alive) | N/A |
+| 22 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 23 | [$ETH](http://twitter.com/search?q=%24ETH) | N/A |
+| 24 | [Mainnet](http://twitter.com/search?q=Mainnet) | N/A |
+| 25 | [Neel](http://twitter.com/search?q=Neel) | N/A |
+| 26 | [Shanghai](http://twitter.com/search?q=Shanghai) | N/A |
+| 27 | [Sakura](http://twitter.com/search?q=Sakura) | N/A |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Cũng](http://twitter.com/search?q=C%c5%a9ng) | N/A |
+| 30 | [$AGI](http://twitter.com/search?q=%24AGI) | N/A |
+| 31 | [$tpad $pzp](http://twitter.com/search?q=%24tpad+%24pzp) | N/A |
+| 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 33 | [uquid](http://twitter.com/search?q=uquid) | N/A |
+| 34 | [giao](http://twitter.com/search?q=giao) | N/A |
+| 35 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 36 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 37 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 38 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 39 | [jubail](http://twitter.com/search?q=jubail) | N/A |
+| 40 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 41 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 42 | [Horror Pu](http://twitter.com/search?q=Horror+Pu) | N/A |
+| 43 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 44 | [4pcs Flaming](http://twitter.com/search?q=4pcs+Flaming) | N/A |
+| 45 | [Thuận](http://twitter.com/search?q=Thu%e1%ba%adn) | N/A |
+| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 47 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [Chốt](http://twitter.com/search?q=Ch%e1%bb%91t) | N/A |
+| 50 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
 
 
 

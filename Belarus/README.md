@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-15 03:17:55 UTC`
+📆 Last Updated: `2023-04-15 04:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,30 +17,25 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [#JYPEDoBetterForSKZ](http://twitter.com/search?q=%23JYPEDoBetterForSKZ) | N/A |
 | 2 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 3 | [аааа](http://twitter.com/search?q=%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
-| 4 | [Пасху](http://twitter.com/search?q=%d0%9f%d0%b0%d1%81%d1%85%d1%83) | N/A |
-| 5 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 6 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 7 | [хэ сюань](http://twitter.com/search?q=%d1%85%d1%8d+%d1%81%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
-| 8 | [интересно](http://twitter.com/search?q=%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 9 | [республики беларусь](http://twitter.com/search?q=%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 10 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
-| 11 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | N/A |
-| 12 | [Давайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
-| 13 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
-| 14 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 15 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 16 | [точно](http://twitter.com/search?q=%d1%82%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 17 | [отправлено из viber](http://twitter.com/search?q=%d0%be%d1%82%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%be+%d0%b8%d0%b7+viber) | N/A |
-| 18 | [together by dimash mv](http://twitter.com/search?q=together+by+dimash+mv) | N/A |
-| 19 | [дааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0) | N/A |
-| 20 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 21 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 22 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 23 | [звучит](http://twitter.com/search?q=%d0%b7%d0%b2%d1%83%d1%87%d0%b8%d1%82) | N/A |
-| 24 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
-| 25 | [#голосвремени](http://twitter.com/search?q=%23%d0%b3%d0%be%d0%bb%d0%be%d1%81%d0%b2%d1%80%d0%b5%d0%bc%d0%b5%d0%bd%d0%b8) | N/A |
-| 26 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 3 | [давай](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 4 | [аааа](http://twitter.com/search?q=%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
+| 5 | [интересно](http://twitter.com/search?q=%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 6 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | N/A |
+| 7 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | N/A |
+| 8 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | N/A |
+| 9 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | N/A |
+| 10 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 11 | [#twiby](http://twitter.com/search?q=%23twiby) | N/A |
+| 12 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 13 | [гомельской](http://twitter.com/search?q=%d0%b3%d0%be%d0%bc%d0%b5%d0%bb%d1%8c%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 14 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 15 | [дааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0) | N/A |
+| 16 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 17 | [#blockchain](http://twitter.com/search?q=%23blockchain) | N/A |
+| 18 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 19 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 20 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
+| 21 | [#минск](http://twitter.com/search?q=%23%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
 
 
 

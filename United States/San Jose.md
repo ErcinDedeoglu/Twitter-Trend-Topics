@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-04-15 03:17:53 UTC`
+📆 Last Updated: `2023-04-15 04:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wacha](http://twitter.com/search?q=Wacha) | N/A |
-| 2 | [Villar](http://twitter.com/search?q=Villar) | N/A |
-| 3 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
-| 4 | [JD Davis](http://twitter.com/search?q=JD+Davis) | N/A |
+| 1 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 2 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 3 | [Villar](http://twitter.com/search?q=Villar) | N/A |
+| 4 | [Rendon](http://twitter.com/search?q=Rendon) | N/A |
 | 5 | [Dodger Stadium](http://twitter.com/search?q=Dodger+Stadium) | N/A |
-| 6 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
-| 7 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
-| 8 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
-| 9 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
-| 10 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
-| 11 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 6 | [Wacha](http://twitter.com/search?q=Wacha) | N/A |
+| 7 | [Rengifo](http://twitter.com/search?q=Rengifo) | N/A |
+| 8 | [JD Davis](http://twitter.com/search?q=JD+Davis) | N/A |
+| 9 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
+| 10 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 11 | [Brewers](http://twitter.com/search?q=Brewers) | N/A |
 | 12 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
-| 13 | [Starship](http://twitter.com/search?q=Starship) | N/A |
-| 14 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 15 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
-| 16 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 17 | [#TCMFF](http://twitter.com/search?q=%23TCMFF) | N/A |
-| 18 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 19 | [#IMSA](http://twitter.com/search?q=%23IMSA) | N/A |
-| 20 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 21 | [Beau is Afraid](http://twitter.com/search?q=Beau+is+Afraid) | Beau is Afraid is a French phrase that translates to "Beau is scared" in English. It is used to express fear or anxiety about something. |
-| 22 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 23 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 24 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 25 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 26 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 27 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 28 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 29 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 30 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
-| 31 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 32 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 33 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 34 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 35 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 36 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 37 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 38 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 39 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 40 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 41 | [Billy Donovan](http://twitter.com/search?q=Billy+Donovan) | N/A |
-| 42 | [YOURE ON YOUR OWN KID](http://twitter.com/search?q=YOURE+ON+YOUR+OWN+KID) | N/A |
-| 43 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 44 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 45 | [Clay Holmes](http://twitter.com/search?q=Clay+Holmes) | N/A |
-| 46 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 47 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 48 | [AARON DESSNER](http://twitter.com/search?q=AARON+DESSNER) | N/A |
-| 49 | [Nick Maton](http://twitter.com/search?q=Nick+Maton) | N/A |
+| 13 | [Yuma](http://twitter.com/search?q=Yuma) | N/A |
+| 14 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 15 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 16 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 17 | [Apple TV](http://twitter.com/search?q=Apple+TV) | N/A |
+| 18 | [Mariana](http://twitter.com/search?q=Mariana) | N/A |
+| 19 | [Milwaukee](http://twitter.com/search?q=Milwaukee) | N/A |
+| 20 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 21 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | N/A |
+| 22 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 23 | [DeRozan](http://twitter.com/search?q=DeRozan) | DeRozan is a surname of French origin. It is derived from the French word "rozier," which means "rosebush." The name is most commonly associated with the basketball player DeMar DeRozan, who currently plays for the San Antonio Spurs. |
+| 24 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 25 | [Red Sox](http://twitter.com/search?q=Red+Sox) | Red Sox is a nickname for the Boston Red Sox, a professional baseball team based in Boston, Massachusetts. The team is a member of Major League Baseball's American League East Division. The name "Red Sox" is derived from the iconic red socks that the team wears on the field. |
+| 26 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 27 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 28 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 29 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 30 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 31 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 32 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 33 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 34 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 35 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 36 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 37 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 38 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
+| 39 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 40 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 41 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
+| 42 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 43 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 44 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 45 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 46 | [Hocevar](http://twitter.com/search?q=Hocevar) | N/A |
+| 47 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
+| 48 | [Lindor](http://twitter.com/search?q=Lindor) | Lindor is a brand of chocolate truffles made by the Swiss company Lindt & Sprüngli. The name is derived from the Lindt factory in the town of Rorschach, Switzerland. In English, Lindor means "the land of chocolate". |
+| 49 | [Chet](http://twitter.com/search?q=Chet) | N/A |
 
 
 

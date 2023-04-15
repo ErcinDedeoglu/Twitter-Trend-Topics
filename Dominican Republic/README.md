@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-15 03:17:56 UTC`
+📆 Last Updated: `2023-04-15 04:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Dominican Republic
 | 2 | [ChatGPTrd](http://twitter.com/search?q=ChatGPTrd) | N/A |
 | 3 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
 | 4 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
-| 5 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
-| 6 | [Casa de Campo](http://twitter.com/search?q=Casa+de+Campo) | N/A |
-| 7 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 8 | [duarte méndez peña](http://twitter.com/search?q=duarte+m%c3%a9ndez+pe%c3%b1a) | N/A |
-| 9 | [#AbelPresidente](http://twitter.com/search?q=%23AbelPresidente) | N/A |
-| 10 | [#FeriadelLibroCatolico2023](http://twitter.com/search?q=%23FeriadelLibroCatolico2023) | N/A |
-| 11 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 12 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 13 | [Diandino Peña](http://twitter.com/search?q=Diandino+Pe%c3%b1a) | N/A |
-| 14 | [#CursillosdeCristiandad](http://twitter.com/search?q=%23CursillosdeCristiandad) | N/A |
-| 15 | [Miami Heat](http://twitter.com/search?q=Miami+Heat) | N/A |
-| 16 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
-| 17 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 18 | [Titulación](http://twitter.com/search?q=Titulaci%c3%b3n) | N/A |
-| 19 | [Opret](http://twitter.com/search?q=Opret) | N/A |
-| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 21 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 22 | [Pedro Brand](http://twitter.com/search?q=Pedro+Brand) | N/A |
-| 23 | [#AguantenQueFaltaPoco](http://twitter.com/search?q=%23AguantenQueFaltaPoco) | N/A |
-| 24 | [El Caribe](http://twitter.com/search?q=El+Caribe) | N/A |
-| 25 | [Adán Cáceres](http://twitter.com/search?q=Ad%c3%a1n+C%c3%a1ceres) | N/A |
-| 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 27 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 28 | [Morro](http://twitter.com/search?q=Morro) | N/A |
-| 29 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
-| 30 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 31 | [super tucano](http://twitter.com/search?q=super+tucano) | N/A |
-| 32 | [ITLA](http://twitter.com/search?q=ITLA) | N/A |
-| 33 | [Doble Reserva](http://twitter.com/search?q=Doble+Reserva) | N/A |
-| 34 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 35 | [Caro Brito](http://twitter.com/search?q=Caro+Brito) | N/A |
-| 36 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
-| 37 | [Progreso o Amenaza](http://twitter.com/search?q=Progreso+o+Amenaza) | N/A |
-| 38 | [mérido torres](http://twitter.com/search?q=m%c3%a9rido+torres) | N/A |
-| 39 | [Humanidad](http://twitter.com/search?q=Humanidad) | N/A |
-| 40 | [Valentín](http://twitter.com/search?q=Valent%c3%adn) | N/A |
-| 41 | [Extraviejo](http://twitter.com/search?q=Extraviejo) | N/A |
-| 42 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 43 | [Villa Altagracia](http://twitter.com/search?q=Villa+Altagracia) | N/A |
-| 44 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
-| 45 | [Alianza Opositora](http://twitter.com/search?q=Alianza+Opositora) | N/A |
-| 46 | [Uber](http://twitter.com/search?q=Uber) | N/A |
-| 47 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 48 | [Jimaní](http://twitter.com/search?q=Jiman%c3%ad) | N/A |
-| 49 | [#DeUltimoMinuto](http://twitter.com/search?q=%23DeUltimoMinuto) | N/A |
-| 50 | [Los Alcarrizos](http://twitter.com/search?q=Los+Alcarrizos) | N/A |
+| 5 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
+| 6 | [#ForoGlobalCasaCampo](http://twitter.com/search?q=%23ForoGlobalCasaCampo) | N/A |
+| 7 | [#FeriadelLibroCatolico2023](http://twitter.com/search?q=%23FeriadelLibroCatolico2023) | N/A |
+| 8 | [Diandino Peña](http://twitter.com/search?q=Diandino+Pe%c3%b1a) | N/A |
+| 9 | [#CursillosdeCristiandad](http://twitter.com/search?q=%23CursillosdeCristiandad) | N/A |
+| 10 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 11 | [#AbelPresidente](http://twitter.com/search?q=%23AbelPresidente) | N/A |
+| 12 | [Inteligencia Artificial](http://twitter.com/search?q=Inteligencia+Artificial) | N/A |
+| 13 | [Casa de Campo](http://twitter.com/search?q=Casa+de+Campo) | N/A |
+| 14 | [Opret](http://twitter.com/search?q=Opret) | N/A |
+| 15 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 16 | [Pedro Brand](http://twitter.com/search?q=Pedro+Brand) | N/A |
+| 17 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 18 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 19 | [alianza opositora](http://twitter.com/search?q=alianza+opositora) | N/A |
+| 20 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 21 | [Caro Brito](http://twitter.com/search?q=Caro+Brito) | N/A |
+| 22 | [Doble Reserva](http://twitter.com/search?q=Doble+Reserva) | N/A |
+| 23 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
+| 24 | [FUPU](http://twitter.com/search?q=FUPU) | N/A |
+| 25 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
+| 26 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 27 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 28 | [Extraviejo](http://twitter.com/search?q=Extraviejo) | N/A |
+| 29 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 31 | [Fulcar](http://twitter.com/search?q=Fulcar) | N/A |
+| 32 | [Villa Mella](http://twitter.com/search?q=Villa+Mella) | N/A |
+| 33 | [Santo Domingo Oeste](http://twitter.com/search?q=Santo+Domingo+Oeste) | N/A |
+| 34 | [Kpinini](http://twitter.com/search?q=Kpinini) | N/A |
+| 35 | [#DeUltimoMinuto](http://twitter.com/search?q=%23DeUltimoMinuto) | N/A |
+| 36 | [Aparte](http://twitter.com/search?q=Aparte) | N/A |
+| 37 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 38 | [Yadira Morel](http://twitter.com/search?q=Yadira+Morel) | N/A |
+| 39 | [Conani](http://twitter.com/search?q=Conani) | N/A |
+| 40 | [Alcarrizos](http://twitter.com/search?q=Alcarrizos) | N/A |
+| 41 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
+| 42 | [Ramón Alburquerque](http://twitter.com/search?q=Ram%c3%b3n+Alburquerque) | N/A |
+| 43 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 44 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
+| 45 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 46 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
+| 47 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 48 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
+| 49 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 50 | [Ay Dios](http://twitter.com/search?q=Ay+Dios) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahsa
 
-📆 Last Updated: `2023-04-15 03:18:02 UTC`
+📆 Last Updated: `2023-04-15 04:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ريبون](http://twitter.com/search?q=%23%d8%b1%d9%8a%d8%a8%d9%88%d9%86) | N/A |
-| 2 | [السناب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
-| 3 | [#عيديات_زياد_الجهني_](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d8%a7%d8%aa_%d8%b2%d9%8a%d8%a7%d8%af_%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a_) | N/A |
+| 2 | [#عيديه_كارديال_2](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d9%87_%d9%83%d8%a7%d8%b1%d8%af%d9%8a%d8%a7%d9%84_2) | N/A |
+| 3 | [السناب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%86%d8%a7%d8%a8) | N/A |
 | 4 | [#الغزال_لتاجير_السيارات](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ba%d8%b2%d8%a7%d9%84_%d9%84%d8%aa%d8%a7%d8%ac%d9%8a%d8%b1_%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b1%d8%a7%d8%aa) | N/A |
-| 5 | [#مخلد_سهل](http://twitter.com/search?q=%23%d9%85%d8%ae%d9%84%d8%af_%d8%b3%d9%87%d9%84) | N/A |
+| 5 | [#عيديات_زياد_الجهني_](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af%d9%8a%d8%a7%d8%aa_%d8%b2%d9%8a%d8%a7%d8%af_%d8%a7%d9%84%d8%ac%d9%87%d9%86%d9%8a_) | N/A |
 | 6 | [#المشراق1](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d8%a7%d9%821) | N/A |
 | 7 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
 | 8 | [٢٤ رمضان](http://twitter.com/search?q=%d9%a2%d9%a4+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | 10 | [عبدالسلام](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
 | 11 | [24 رمضان](http://twitter.com/search?q=24+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 12 | [الملك خالد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%ae%d8%a7%d9%84%d8%af) | N/A |
-| 13 | [خالد بن عبدالعزيز](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 14 | [صديقي الجديد](http://twitter.com/search?q=%d8%b5%d8%af%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 13 | [صديقي الجديد](http://twitter.com/search?q=%d8%b5%d8%af%d9%8a%d9%82%d9%8a+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 14 | [خالد بن عبدالعزيز](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
 | 15 | [شكلي الوحيده](http://twitter.com/search?q=%d8%b4%d9%83%d9%84%d9%8a+%d8%a7%d9%84%d9%88%d8%ad%d9%8a%d8%af%d9%87) | N/A |
-| 16 | [دياز](http://twitter.com/search?q=%d8%af%d9%8a%d8%a7%d8%b2) | دياز is an Arabic word that means "bargain" or "discount". |
-| 17 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 18 | [الجهه المتقطعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%b7%d8%b9%d9%87) | N/A |
-| 19 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | N/A |
-| 20 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
-| 21 | [محمد عباس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 22 | [سلطان بروناي دار السلام](http://twitter.com/search?q=%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d8%a8%d8%b1%d9%88%d9%86%d8%a7%d9%8a+%d8%af%d8%a7%d8%b1+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 23 | [علي النصر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | N/A |
-| 24 | [علي جوي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d9%88%d9%8a) | N/A |
-| 25 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 26 | [ناصر الدوسري](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | ناصر الدوسري is the name of a prominent Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014. In English, it translates to Nouri al-Maliki. |
-| 27 | [موسي ماريغا](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d9%85%d8%a7%d8%b1%d9%8a%d8%ba%d8%a7) | N/A |
-| 28 | [الكرت الاصفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%81%d8%b1) | N/A |
-| 29 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
-| 30 | [المباراه القادمه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85%d9%87) | N/A |
-| 31 | [الديوان الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%8a%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 32 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 33 | [إسماعيل](http://twitter.com/search?q=%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
-| 34 | [المركز الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
-| 35 | [الحمدان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | الحمدان is an Arabic phrase meaning "praise be to God". It is often used as a form of expression of gratitude and appreciation. |
-| 36 | [نبي اسيا](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 37 | [فييتو](http://twitter.com/search?q=%d9%81%d9%8a%d9%8a%d8%aa%d9%88) | فييتو is a type of traditional Japanese dance. It is a form of folk dance that has been performed since the Edo period (1603-1868). The word "fiyeto" comes from the Japanese phrase "furi yatto," which means "to dance with joy." In English, it can be translated as "joyful dance." |
-| 38 | [علي الهبوط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a8%d9%88%d8%b7) | N/A |
-| 39 | [عبدالله الحربي](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a) | N/A |
-| 40 | [ثالث العيد](http://twitter.com/search?q=%d8%ab%d8%a7%d9%84%d8%ab+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 41 | [النهايي الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | N/A |
-| 42 | [#مسابقه_المربع_نت24](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa24) | N/A |
-| 43 | [#مسابقه_طرق_الرياض24](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b624) | N/A |
-| 44 | [#عبدالرحمن_المطيري](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86_%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1%d9%8a) | N/A |
-| 45 | [#التحديث_الجديد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab_%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 46 | [#الروشن23](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8623) | N/A |
-| 47 | [#بدايه](http://twitter.com/search?q=%23%d8%a8%d8%af%d8%a7%d9%8a%d9%87) | N/A |
-| 48 | [#المطانيخ23](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d9%86%d9%8a%d8%ae23) | N/A |
-| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 50 | [#وصيف_العالم](http://twitter.com/search?q=%23%d9%88%d8%b5%d9%8a%d9%81_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 16 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
+| 17 | [الجهه المتقطعه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d9%87+%d8%a7%d9%84%d9%85%d8%aa%d9%82%d8%b7%d8%b9%d9%87) | N/A |
+| 18 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 19 | [علي جوي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ac%d9%88%d9%8a) | N/A |
+| 20 | [علي القرني](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86%d9%8a) | N/A |
+| 21 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 22 | [الكرت الاصفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d8%aa+%d8%a7%d9%84%d8%a7%d8%b5%d9%81%d8%b1) | N/A |
+| 23 | [كاس اسيا](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d8%b3%d9%8a%d8%a7) | كاس اسيا (Kas Asia) is an annual football tournament held in Southeast Asia. It is organized by the ASEAN Football Federation (AFF) and features teams from the ten ASEAN countries. The tournament was first held in 1996 and has been held every two years since then. The tournament serves as a qualifying event for the AFC Asian Cup, with the top four teams qualifying for the continental championship. |
+| 24 | [الازمه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b2%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
+| 25 | [إسماعيل](http://twitter.com/search?q=%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84) | N/A |
+| 26 | [وناصر الدوسري](http://twitter.com/search?q=%d9%88%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 27 | [جماهير الهلال](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%87%d9%8a%d8%b1+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 28 | [المركز الاخير](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1) | N/A |
+| 29 | [الحمدان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%85%d8%af%d8%a7%d9%86) | الحمدان is an Arabic phrase meaning "praise be to God". It is often used as a form of expression of gratitude and appreciation. |
+| 30 | [#التحديث_الجديد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%ad%d8%af%d9%8a%d8%ab_%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 31 | [#مخلد_سهل](http://twitter.com/search?q=%23%d9%85%d8%ae%d9%84%d8%af_%d8%b3%d9%87%d9%84) | N/A |
+| 32 | [#مسابقه_المربع_نت24](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d8%a8%d8%b9_%d9%86%d8%aa24) | N/A |
+| 33 | [#مسابقه_طرق_الرياض24](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%b7%d8%b1%d9%82_%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b624) | N/A |
+| 34 | [#عبدالرحمن_المطيري](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86_%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1%d9%8a) | N/A |
+| 35 | [#الروشن23](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b1%d9%88%d8%b4%d9%8623) | N/A |
+| 36 | [#مبارك_الرشيدي](http://twitter.com/search?q=%23%d9%85%d8%a8%d8%a7%d8%b1%d9%83_%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 37 | [#فوازير_جدي6](http://twitter.com/search?q=%23%d9%81%d9%88%d8%a7%d8%b2%d9%8a%d8%b1_%d8%ac%d8%af%d9%8a6) | N/A |
+| 38 | [#حمله_البحث_عن_مبارك](http://twitter.com/search?q=%23%d8%ad%d9%85%d9%84%d9%87_%d8%a7%d9%84%d8%a8%d8%ad%d8%ab_%d8%b9%d9%86_%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 39 | [#بدايه](http://twitter.com/search?q=%23%d8%a8%d8%af%d8%a7%d9%8a%d9%87) | N/A |
+| 40 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
+| 41 | [#المطانيخ23](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b7%d8%a7%d9%86%d9%8a%d8%ae23) | N/A |
+| 42 | [#مسابقه_السلامه_المروريه23](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a8%d9%82%d9%87_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87_%d8%a7%d9%84%d9%85%d8%b1%d9%88%d8%b1%d9%8a%d9%8723) | N/A |
+| 43 | [#ام_خالد_الحويطي_تنخاكم12](http://twitter.com/search?q=%23%d8%a7%d9%85_%d8%ae%d8%a7%d9%84%d8%af_%d8%a7%d9%84%d8%ad%d9%88%d9%8a%d8%b7%d9%8a_%d8%aa%d9%86%d8%ae%d8%a7%d9%83%d9%8512) | N/A |
+| 44 | [#وصيف_العالم](http://twitter.com/search?q=%23%d9%88%d8%b5%d9%8a%d9%81_%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85) | N/A |
+| 45 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 46 | [#غازكو_معكم20](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%b2%d9%83%d9%88_%d9%85%d8%b9%d9%83%d9%8520) | N/A |
+| 47 | [#تشيلسي_ريال_مدريد](http://twitter.com/search?q=%23%d8%aa%d8%b4%d9%8a%d9%84%d8%b3%d9%8a_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
+| 48 | [#نابولي_ميلان](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a_%d9%85%d9%8a%d9%84%d8%a7%d9%86) | N/A |
+| 49 | [#يلو_تجمعنا](http://twitter.com/search?q=%23%d9%8a%d9%84%d9%88_%d8%aa%d8%ac%d9%85%d8%b9%d9%86%d8%a7) | N/A |
+| 50 | [#ليالي_ماسه](http://twitter.com/search?q=%23%d9%84%d9%8a%d8%a7%d9%84%d9%8a_%d9%85%d8%a7%d8%b3%d9%87) | N/A |
 
 
 

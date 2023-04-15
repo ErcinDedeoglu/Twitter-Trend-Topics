@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-04-15 03:17:34 UTC`
+📆 Last Updated: `2023-04-15 04:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [ANJI BACK OnSHOWTIME](http://twitter.com/search?q=ANJI+BACK+OnSHOWTIME) | N/A |
 | 2 | [#TREASURE_HELLO_IN_MANILA](http://twitter.com/search?q=%23TREASURE_HELLO_IN_MANILA) | N/A |
-| 3 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
-| 4 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 5 | [#FELIP_SuperiorSessions](http://twitter.com/search?q=%23FELIP_SuperiorSessions) | N/A |
-| 6 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 7 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
-| 8 | [Atty](http://twitter.com/search?q=Atty) | N/A |
-| 9 | [#READYTOBEinSEOUL_D1](http://twitter.com/search?q=%23READYTOBEinSEOUL_D1) | N/A |
-| 10 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
-| 11 | [ZACHAM ON SHOWTIME](http://twitter.com/search?q=ZACHAM+ON+SHOWTIME) | N/A |
-| 12 | [FML OFFICIAL PHOTO 3](http://twitter.com/search?q=FML+OFFICIAL+PHOTO+3) | N/A |
-| 13 | [Coby White](http://twitter.com/search?q=Coby+White) | N/A |
-| 14 | [ALDENxBSE SunScreenGel](http://twitter.com/search?q=ALDENxBSE+SunScreenGel) | N/A |
-| 15 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
-| 16 | [YOU'RE ON YOUR OWN KID](http://twitter.com/search?q=YOU%27RE+ON+YOUR+OWN+KID) | N/A |
-| 17 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
-| 18 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
-| 19 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 20 | [clashmate vivoree](http://twitter.com/search?q=clashmate+vivoree) | N/A |
-| 21 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 3 | [#READYTOBEinSEOUL_D1](http://twitter.com/search?q=%23READYTOBEinSEOUL_D1) | N/A |
+| 4 | [TWICE 5thWorldTour KickOff](http://twitter.com/search?q=TWICE+5thWorldTour+KickOff) | N/A |
+| 5 | [#TWICE_5TH_WORLD_TOUR](http://twitter.com/search?q=%23TWICE_5TH_WORLD_TOUR) | N/A |
+| 6 | [#GetThatBar2022](http://twitter.com/search?q=%23GetThatBar2022) | N/A |
+| 7 | [Atty](http://twitter.com/search?q=Atty) | N/A |
+| 8 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 9 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
+| 10 | [KDLEXciting PETA RETURN](http://twitter.com/search?q=KDLEXciting+PETA+RETURN) | N/A |
+| 11 | [THE GREAT WAR](http://twitter.com/search?q=THE+GREAT+WAR) | N/A |
+| 12 | [SocialHouse](http://twitter.com/search?q=SocialHouse) | N/A |
+| 13 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
+| 14 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 15 | [happy 1st year karlian](http://twitter.com/search?q=happy+1st+year+karlian) | N/A |
+| 16 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 17 | [magandang buhay vibrent](http://twitter.com/search?q=magandang+buhay+vibrent) | N/A |
+| 18 | [JOY COLLAB OUT NOW](http://twitter.com/search?q=JOY+COLLAB+OUT+NOW) | N/A |
+| 19 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
+| 20 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 21 | [LIA BLONDE](http://twitter.com/search?q=LIA+BLONDE) | N/A |
 | 22 | [maligayang pagbabalik](http://twitter.com/search?q=maligayang+pagbabalik) | N/A |
-| 23 | [Mark Sheehan](http://twitter.com/search?q=Mark+Sheehan) | N/A |
-| 24 | [HAPPY 1M](http://twitter.com/search?q=HAPPY+1M) | N/A |
-| 25 | [PARAISO OUT NOW](http://twitter.com/search?q=PARAISO+OUT+NOW) | N/A |
-| 26 | [magandang buhay vibrent](http://twitter.com/search?q=magandang+buhay+vibrent) | N/A |
-| 27 | [AESPA IS COMING](http://twitter.com/search?q=AESPA+IS+COMING) | N/A |
-| 28 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 29 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
-| 30 | [up law](http://twitter.com/search?q=up+law) | N/A |
-| 31 | [MARBELous HORI7ON](http://twitter.com/search?q=MARBELous+HORI7ON) | N/A |
-| 32 | [Bird](http://twitter.com/search?q=Bird) | N/A |
-| 33 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
-| 34 | [alexa on starmagic convo](http://twitter.com/search?q=alexa+on+starmagic+convo) | N/A |
-| 35 | [Drummond](http://twitter.com/search?q=Drummond) | N/A |
-| 36 | [triggered chico](http://twitter.com/search?q=triggered+chico) | N/A |
-| 37 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 38 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 39 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 40 | [Bar Exam](http://twitter.com/search?q=Bar+Exam) | N/A |
-| 41 | [seventeen fxck my life](http://twitter.com/search?q=seventeen+fxck+my+life) | N/A |
-| 42 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
-| 43 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 44 | [joy collab out now](http://twitter.com/search?q=joy+collab+out+now) | N/A |
-| 45 | [teenclash seham ep4](http://twitter.com/search?q=teenclash+seham+ep4) | N/A |
-| 46 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
-| 47 | [All Stars](http://twitter.com/search?q=All+Stars) | N/A |
+| 23 | [up law](http://twitter.com/search?q=up+law) | N/A |
+| 24 | [alexa on starmagic convo](http://twitter.com/search?q=alexa+on+starmagic+convo) | N/A |
+| 25 | [Bird](http://twitter.com/search?q=Bird) | N/A |
+| 26 | [HAPPY 1M](http://twitter.com/search?q=HAPPY+1M) | N/A |
+| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 28 | [ALDENxBSE SunScreenGel](http://twitter.com/search?q=ALDENxBSE+SunScreenGel) | N/A |
+| 29 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 30 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 31 | [ANJI AMING PARAISO](http://twitter.com/search?q=ANJI+AMING+PARAISO) | N/A |
+| 32 | [kath for gatorade](http://twitter.com/search?q=kath+for+gatorade) | N/A |
+| 33 | [YOU'RE ON YOUR OWN KID](http://twitter.com/search?q=YOU%27RE+ON+YOUR+OWN+KID) | N/A |
+| 34 | [COMING OVER](http://twitter.com/search?q=COMING+OVER) | N/A |
+| 35 | [bgyo vividlife with xiaomi](http://twitter.com/search?q=bgyo+vividlife+with+xiaomi) | N/A |
+| 36 | [Mark Sheehan](http://twitter.com/search?q=Mark+Sheehan) | N/A |
+| 37 | [MARBELous HORI7ON](http://twitter.com/search?q=MARBELous+HORI7ON) | N/A |
+| 38 | [eager for janeshua](http://twitter.com/search?q=eager+for+janeshua) | N/A |
+| 39 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 40 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 41 | [Bias Wrecker](http://twitter.com/search?q=Bias+Wrecker) | N/A |
+| 42 | [FLOWER FOURTH WIN](http://twitter.com/search?q=FLOWER+FOURTH+WIN) | N/A |
+| 43 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 44 | [abogado na ako](http://twitter.com/search?q=abogado+na+ako) | N/A |
+| 45 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 46 | [joshko mandy tc episode4](http://twitter.com/search?q=joshko+mandy+tc+episode4) | N/A |
+| 47 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 
 
 
