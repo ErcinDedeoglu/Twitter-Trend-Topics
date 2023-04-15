@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indore
 
-📆 Last Updated: `2023-04-15 11:17:11 UTC`
+📆 Last Updated: `2023-04-15 12:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 1 | [नरोत्तम मिश्रा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
 | 2 | [#RCBvDC](http://twitter.com/search?q=%23RCBvDC) | N/A |
-| 3 | [#FireStormIsComing](http://twitter.com/search?q=%23FireStormIsComing) | N/A |
-| 4 | [#TheyCallHimOG](http://twitter.com/search?q=%23TheyCallHimOG) | N/A |
-| 5 | [CORRUPT PRADHAN MANTRI](http://twitter.com/search?q=CORRUPT+PRADHAN+MANTRI) | N/A |
-| 6 | [#BJPWithTSJobAspirants](http://twitter.com/search?q=%23BJPWithTSJobAspirants) | N/A |
-| 7 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
-| 8 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
-| 9 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 10 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
-| 11 | [SRK TIME100 ICON](http://twitter.com/search?q=SRK+TIME100+ICON) | N/A |
-| 12 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
-| 13 | [King Kohli](http://twitter.com/search?q=King+Kohli) | N/A |
-| 14 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 15 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
-| 16 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 17 | [RUBINA HOSTING EKRH](http://twitter.com/search?q=RUBINA+HOSTING+EKRH) | N/A |
-| 18 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
-| 19 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
-| 20 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 21 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
-| 22 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 23 | [Match 20](http://twitter.com/search?q=Match+20) | N/A |
-| 24 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 25 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
-| 26 | [Athani](http://twitter.com/search?q=Athani) | N/A |
-| 27 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
-| 28 | [गुलाम नबी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%a8%e0%a4%ac%e0%a5%80) | N/A |
-| 29 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 30 | [Kolar](http://twitter.com/search?q=Kolar) | N/A |
-| 31 | [जवान शहीद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 32 | [नरोत्तम मिश्रा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 33 | [Delhi CM](http://twitter.com/search?q=Delhi+CM) | N/A |
-| 34 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
-| 35 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 36 | [करण थापर](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a4%a3+%e0%a4%a5%e0%a4%be%e0%a4%aa%e0%a4%b0) | N/A |
-| 37 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 38 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 39 | [Shubho Nobo Borsho](http://twitter.com/search?q=Shubho+Nobo+Borsho) | N/A |
-| 40 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 41 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 42 | [मंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 43 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 44 | [प्राकृतिक सौंदर्य](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%8c%e0%a4%82%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 45 | [प्रेस कांफ्रेंस](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%ab%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%b8) | N/A |
-| 46 | [#kabzaa2shootingstarts](http://twitter.com/search?q=%23kabzaa2shootingstarts) | N/A |
-| 47 | [#Satyapal_Malik](http://twitter.com/search?q=%23Satyapal_Malik) | N/A |
-| 48 | [#Nani30](http://twitter.com/search?q=%23Nani30) | N/A |
-| 49 | [#RajasthanWelcomeAmitshah](http://twitter.com/search?q=%23RajasthanWelcomeAmitshah) | N/A |
-| 50 | [#PawanKalyan](http://twitter.com/search?q=%23PawanKalyan) | N/A |
+| 3 | [#SkechersGOWALK](http://twitter.com/search?q=%23SkechersGOWALK) | N/A |
+| 4 | [Anuj Rawat](http://twitter.com/search?q=Anuj+Rawat) | N/A |
+| 5 | [#FireStormIsComing](http://twitter.com/search?q=%23FireStormIsComing) | N/A |
+| 6 | [#TheyCallHimOG](http://twitter.com/search?q=%23TheyCallHimOG) | N/A |
+| 7 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
+| 8 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
+| 9 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
+| 10 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
+| 11 | [CORRUPT PRADHAN MANTRI](http://twitter.com/search?q=CORRUPT+PRADHAN+MANTRI) | N/A |
+| 12 | [Prithvi Shaw](http://twitter.com/search?q=Prithvi+Shaw) | N/A |
+| 13 | [Ananya Pandey](http://twitter.com/search?q=Ananya+Pandey) | N/A |
+| 14 | [Suyash](http://twitter.com/search?q=Suyash) | N/A |
+| 15 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 16 | [Hesson](http://twitter.com/search?q=Hesson) | N/A |
+| 17 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
+| 18 | [Dinesh Karthik](http://twitter.com/search?q=Dinesh+Karthik) | N/A |
+| 19 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
+| 20 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 21 | [SRK TIME100 ICON](http://twitter.com/search?q=SRK+TIME100+ICON) | N/A |
+| 22 | [Shahbaz](http://twitter.com/search?q=Shahbaz) | N/A |
+| 23 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
+| 24 | [Impact Player](http://twitter.com/search?q=Impact+Player) | N/A |
+| 25 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 26 | [Sai Baba](http://twitter.com/search?q=Sai+Baba) | N/A |
+| 27 | [Kuldeep](http://twitter.com/search?q=Kuldeep) | Kuldeep is a Hindu name derived from Sanskrit, meaning "light of the family". It is typically used as a masculine name. |
+| 28 | [Lalit Yadav](http://twitter.com/search?q=Lalit+Yadav) | N/A |
+| 29 | [King Kohli](http://twitter.com/search?q=King+Kohli) | N/A |
+| 30 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 31 | [Dhaba](http://twitter.com/search?q=Dhaba) | N/A |
+| 32 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
+| 33 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
+| 34 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 35 | [RUBINA HOSTING EKRH](http://twitter.com/search?q=RUBINA+HOSTING+EKRH) | N/A |
+| 36 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
+| 37 | [Constable](http://twitter.com/search?q=Constable) | N/A |
+| 38 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 39 | [Match 20](http://twitter.com/search?q=Match+20) | N/A |
+| 40 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
+| 41 | [Mike](http://twitter.com/search?q=Mike) | N/A |
+| 42 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
+| 43 | [batsman](http://twitter.com/search?q=batsman) | N/A |
+| 44 | [गुलाम नबी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%a8%e0%a4%ac%e0%a5%80) | N/A |
+| 45 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 46 | [जवान शहीद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 47 | [CBI and ED](http://twitter.com/search?q=CBI+and+ED) | N/A |
+| 48 | [Kolar](http://twitter.com/search?q=Kolar) | N/A |
+| 49 | [Delhi CM](http://twitter.com/search?q=Delhi+CM) | N/A |
+| 50 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
 
 
 

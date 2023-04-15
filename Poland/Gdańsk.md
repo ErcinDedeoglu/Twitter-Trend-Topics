@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-15 11:16:43 UTC`
+📆 Last Updated: `2023-04-15 12:15:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
-| 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 3 | [Marsz](http://twitter.com/search?q=Marsz) | N/A |
-| 4 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 5 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 6 | [#spaces5sosgliwice](http://twitter.com/search?q=%23spaces5sosgliwice) | N/A |
-| 7 | [#WISSTA](http://twitter.com/search?q=%23WISSTA) | N/A |
-| 8 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 9 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
-| 10 | [Będziemy](http://twitter.com/search?q=B%c4%99dziemy) | N/A |
-| 11 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 2 | [#DlaPolskiejWsi](http://twitter.com/search?q=%23DlaPolskiejWsi) | N/A |
+| 3 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 4 | [#PolskaWieś](http://twitter.com/search?q=%23PolskaWie%c5%9b) | N/A |
+| 5 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
+| 6 | [Marsz](http://twitter.com/search?q=Marsz) | N/A |
+| 7 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 8 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 9 | [Łysych](http://twitter.com/search?q=%c5%81ysych) | N/A |
+| 10 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 11 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
 | 12 | [Stankiewicz](http://twitter.com/search?q=Stankiewicz) | N/A |
-| 13 | [Polska](http://twitter.com/search?q=Polska) | N/A |
-| 14 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 15 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 16 | [Żyro](http://twitter.com/search?q=%c5%bbyro) | N/A |
-| 17 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
-| 18 | [Obecność](http://twitter.com/search?q=Obecno%c5%9b%c4%87) | N/A |
-| 19 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
-| 20 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 21 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 22 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 23 | [Młyński](http://twitter.com/search?q=M%c5%82y%c5%84ski) | N/A |
-| 24 | [Junca](http://twitter.com/search?q=Junca) | N/A |
-| 25 | [Strajk](http://twitter.com/search?q=Strajk) | N/A |
-| 26 | [Przeciw](http://twitter.com/search?q=Przeciw) | N/A |
-| 27 | [starzyński](http://twitter.com/search?q=starzy%c5%84ski) | N/A |
-| 28 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
-| 29 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 30 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 31 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
-| 32 | [Marcin Kamiński](http://twitter.com/search?q=Marcin+Kami%c5%84ski) | N/A |
-| 33 | [Miedwiediew](http://twitter.com/search?q=Miedwiediew) | N/A |
-| 34 | [Krawczyk](http://twitter.com/search?q=Krawczyk) | N/A |
-| 35 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 36 | [Udanej](http://twitter.com/search?q=Udanej) | N/A |
-| 37 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
-| 38 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 13 | [Żyro](http://twitter.com/search?q=%c5%bbyro) | N/A |
+| 14 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 15 | [Będziemy](http://twitter.com/search?q=B%c4%99dziemy) | N/A |
+| 16 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 17 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 18 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
+| 19 | [Młyński](http://twitter.com/search?q=M%c5%82y%c5%84ski) | N/A |
+| 20 | [Junca](http://twitter.com/search?q=Junca) | N/A |
+| 21 | [sejmie](http://twitter.com/search?q=sejmie) | N/A |
+| 22 | [Strajk](http://twitter.com/search?q=Strajk) | N/A |
+| 23 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
+| 24 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 25 | [marcin kamiński](http://twitter.com/search?q=marcin+kami%c5%84ski) | N/A |
+| 26 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 27 | [Miedwiediew](http://twitter.com/search?q=Miedwiediew) | N/A |
+| 28 | [Krawczyk](http://twitter.com/search?q=Krawczyk) | N/A |
+| 29 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
+| 30 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
+| 31 | [Będziesz](http://twitter.com/search?q=B%c4%99dziesz) | N/A |
+| 32 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 33 | [Obecność](http://twitter.com/search?q=Obecno%c5%9b%c4%87) | N/A |
+| 34 | [Ewangelię](http://twitter.com/search?q=Ewangeli%c4%99) | N/A |
+| 35 | [lecha](http://twitter.com/search?q=lecha) | N/A |
+| 36 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 37 | [Lempart](http://twitter.com/search?q=Lempart) | N/A |
+| 38 | [Amsterdamie](http://twitter.com/search?q=Amsterdamie) | N/A |
 | 39 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 40 | [Lisie](http://twitter.com/search?q=Lisie) | N/A |
-| 41 | [PiSu](http://twitter.com/search?q=PiSu) | N/A |
-| 42 | [Amsterdamie](http://twitter.com/search?q=Amsterdamie) | N/A |
-| 43 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 44 | [Ewangelię](http://twitter.com/search?q=Ewangeli%c4%99) | N/A |
-| 45 | [hailie](http://twitter.com/search?q=hailie) | N/A |
-| 46 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
-| 47 | [Lempart](http://twitter.com/search?q=Lempart) | N/A |
-| 48 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 40 | [hailie](http://twitter.com/search?q=hailie) | N/A |
+| 41 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | N/A |
+| 42 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 43 | [Lisie](http://twitter.com/search?q=Lisie) | N/A |
+| 44 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 45 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 46 | [ruchem](http://twitter.com/search?q=ruchem) | N/A |
+| 47 | [Leonardo da Vinci](http://twitter.com/search?q=Leonardo+da+Vinci) | N/A |
+| 48 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
 
 
 

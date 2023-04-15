@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-04-15 11:17:21 UTC`
+📆 Last Updated: `2023-04-15 12:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 2 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 3 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 4 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 5 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
-| 6 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
-| 7 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 9 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 10 | [JEONGYEON](http://twitter.com/search?q=JEONGYEON) | N/A |
-| 11 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 12 | [TSB IS HERE TO SWALLOW](http://twitter.com/search?q=TSB+IS+HERE+TO+SWALLOW) | N/A |
-| 13 | [JIHYO](http://twitter.com/search?q=JIHYO) | N/A |
-| 14 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
-| 15 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 16 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
-| 17 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 18 | [LA CANCIÓN](http://twitter.com/search?q=LA+CANCI%c3%93N) | N/A |
-| 19 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
+| 1 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 2 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 4 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 5 | [#AVLNEW](http://twitter.com/search?q=%23AVLNEW) | N/A |
+| 6 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 7 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 8 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 9 | [#askwxm](http://twitter.com/search?q=%23askwxm) | N/A |
+| 10 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 11 | [Meet Day](http://twitter.com/search?q=Meet+Day) | N/A |
+| 12 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
+| 13 | [Khartoum](http://twitter.com/search?q=Khartoum) | N/A |
+| 14 | [JEONGYEON](http://twitter.com/search?q=JEONGYEON) | N/A |
+| 15 | [TSB IS HERE TO SWALLOW](http://twitter.com/search?q=TSB+IS+HERE+TO+SWALLOW) | N/A |
+| 16 | [Jihyo](http://twitter.com/search?q=Jihyo) | N/A |
+| 17 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
+| 18 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
+| 19 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
 | 20 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 21 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 22 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 23 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 24 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 25 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 26 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 27 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 28 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
-| 29 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 30 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 31 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 32 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
-| 33 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 34 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 35 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 36 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 37 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
-| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 39 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 40 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 41 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
-| 42 | [Great War](http://twitter.com/search?q=Great+War) | N/A |
-| 43 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
-| 44 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 45 | [anetra](http://twitter.com/search?q=anetra) | N/A |
-| 46 | [Monet](http://twitter.com/search?q=Monet) | N/A |
-| 47 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
-| 48 | [aaron dessner](http://twitter.com/search?q=aaron+dessner) | N/A |
+| 21 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
+| 22 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 23 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 24 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 25 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 26 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 27 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 28 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 29 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 30 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 31 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 32 | [Boston Marathon](http://twitter.com/search?q=Boston+Marathon) | N/A |
+| 33 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
+| 34 | [Bucks in 5](http://twitter.com/search?q=Bucks+in+5) | N/A |
+| 35 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 36 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 37 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 38 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
+| 39 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 40 | [Great War](http://twitter.com/search?q=Great+War) | N/A |
+| 41 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 42 | [Blink-182](http://twitter.com/search?q=Blink-182) | N/A |
+| 43 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
+| 44 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 45 | [#JackieRobinsonDay](http://twitter.com/search?q=%23JackieRobinsonDay) | N/A |
+| 46 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
+| 47 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 48 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
 
 
 

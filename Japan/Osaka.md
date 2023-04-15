@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-04-15 11:17:23 UTC`
+📆 Last Updated: `2023-04-15 12:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [恩返し弾](http://twitter.com/search?q=%e6%81%a9%e8%bf%94%e3%81%97%e5%bc%be) | N/A |
+| 1 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
 | 2 | [大我くん](http://twitter.com/search?q=%e5%a4%a7%e6%88%91%e3%81%8f%e3%82%93) | N/A |
-| 3 | [#ガンバ大阪](http://twitter.com/search?q=%23%e3%82%ac%e3%83%b3%e3%83%90%e5%a4%a7%e9%98%aa) | N/A |
-| 4 | [セレッソ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%83%e3%82%bd) | セレッソ is a Japanese football club based in Osaka. The name is an abbreviation of the club's full name, Cerezo Osaka. In English, it means "Cerezo Osaka". |
-| 5 | [クルークス](http://twitter.com/search?q=%e3%82%af%e3%83%ab%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
-| 6 | [ゴラッソ](http://twitter.com/search?q=%e3%82%b4%e3%83%a9%e3%83%83%e3%82%bd) | N/A |
-| 7 | [#とき宣晴れ舞台2023](http://twitter.com/search?q=%23%e3%81%a8%e3%81%8d%e5%ae%a3%e6%99%b4%e3%82%8c%e8%88%9e%e5%8f%b02023) | N/A |
-| 8 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 9 | [インスト](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88) | N/A |
-| 10 | [オオバンブルマイ](http://twitter.com/search?q=%e3%82%aa%e3%82%aa%e3%83%90%e3%83%b3%e3%83%96%e3%83%ab%e3%83%9e%e3%82%a4) | N/A |
-| 11 | [ニシノデイジー](http://twitter.com/search?q=%e3%83%8b%e3%82%b7%e3%83%8e%e3%83%87%e3%82%a4%e3%82%b8%e3%83%bc) | ニシノデイジー (Nishino Daisy) is a Japanese rock band formed in 2002. The band's name is derived from the English phrase "Nice to Meet You". The band's music is characterized by a mix of rock, pop, and punk influences. |
-| 12 | [ジェバリ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%90%e3%83%aa) | ジェバリ (Jebari) is a Japanese slang term that means "cool" or "awesome". It is often used to express admiration or approval of something. |
-| 13 | [#京都サンガ](http://twitter.com/search?q=%23%e4%ba%ac%e9%83%bd%e3%82%b5%e3%83%b3%e3%82%ac) | N/A |
-| 14 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
-| 15 | [#SHEアワード](http://twitter.com/search?q=%23SHE%e3%82%a2%e3%83%af%e3%83%bc%e3%83%89) | N/A |
-| 16 | [勝ち点3](http://twitter.com/search?q=%e5%8b%9d%e3%81%a1%e7%82%b93) | N/A |
-| 17 | [テロ行為](http://twitter.com/search?q=%e3%83%86%e3%83%ad%e8%a1%8c%e7%82%ba) | N/A |
-| 18 | [殺人未遂](http://twitter.com/search?q=%e6%ae%ba%e4%ba%ba%e6%9c%aa%e9%81%82) | N/A |
-| 19 | [街頭演説](http://twitter.com/search?q=%e8%a1%97%e9%a0%ad%e6%bc%94%e8%aa%ac) | N/A |
-| 20 | [ファール](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ab) | N/A |
-| 21 | [グリフィン](http://twitter.com/search?q=%e3%82%b0%e3%83%aa%e3%83%95%e3%82%a3%e3%83%b3) | N/A |
-| 22 | [バイトコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 23 | [ALGS](http://twitter.com/search?q=ALGS) | ALGS stands for Advanced Logistics and Supply Chain Solutions. It is a company that provides logistics and supply chain solutions to businesses. The company specializes in helping businesses optimize their supply chain operations, reduce costs, and improve customer service. |
-| 24 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 25 | [岸田首相](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e9%a6%96%e7%9b%b8) | N/A |
-| 26 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
-| 27 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 28 | [追加公演](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e5%85%ac%e6%bc%94) | 追加公演 (tsui ka kouen) is a Japanese phrase meaning "additional performance". It is used to refer to an extra show or concert that has been added to an artist's tour schedule. |
-| 29 | [シュート](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88) | シュート is a Japanese word that means "shoot" or "shooting". It is used to refer to shooting a basketball, soccer ball, or other type of ball. It can also be used to refer to shooting a gun. |
-| 30 | [ゴールデン](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3) | ゴールデン (Gōruden) is a Japanese word that means "golden" or "gilded". It is often used to describe something that is of high quality, luxurious, or prestigious. |
-| 31 | [からあげクン](http://twitter.com/search?q=%e3%81%8b%e3%82%89%e3%81%82%e3%81%92%e3%82%af%e3%83%b3) | N/A |
-| 32 | [パイプ爆弾](http://twitter.com/search?q=%e3%83%91%e3%82%a4%e3%83%97%e7%88%86%e5%bc%be) | N/A |
-| 33 | [自作自演](http://twitter.com/search?q=%e8%87%aa%e4%bd%9c%e8%87%aa%e6%bc%94) | N/A |
-| 34 | [アーリントンC](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%aa%e3%83%b3%e3%83%88%e3%83%b3C) | N/A |
-| 35 | [コナンくん](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%8f%e3%82%93) | コナンくん is a nickname for the fictional character Conan Edogawa from the manga and anime series Detective Conan. In English, it can be translated to "Conan-kun". |
-| 36 | [取り押さえ](http://twitter.com/search?q=%e5%8f%96%e3%82%8a%e6%8a%bc%e3%81%95%e3%81%88) | N/A |
-| 37 | [ショーモン](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%83%bc%e3%83%a2%e3%83%b3) | N/A |
-| 38 | [中山GJ](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1GJ) | N/A |
-| 39 | [アウェイ](http://twitter.com/search?q=%e3%82%a2%e3%82%a6%e3%82%a7%e3%82%a4) | アウェイ is a Japanese word that means "away" or "away from home". It is used to describe a team or individual that is playing away from their home stadium or court. |
-| 40 | [威力業務妨害](http://twitter.com/search?q=%e5%a8%81%e5%8a%9b%e6%a5%ad%e5%8b%99%e5%a6%a8%e5%ae%b3) | N/A |
-| 41 | [Prince](http://twitter.com/search?q=Prince) | N/A |
-| 42 | [雨のせい](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e3%81%9b%e3%81%84) | 雨のせい is a Japanese phrase that literally translates to "because of the rain." It is used to express the idea that something has happened or been caused by the rain. For example, if someone was late for an appointment, they might say "雨のせいで遅れました" ("I was late because of the rain"). |
-| 43 | [マスコミ](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%9f) | N/A |
-| 44 | [キーガン](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%82%ac%e3%83%b3) | N/A |
-| 45 | [めーぷるなっつ](http://twitter.com/search?q=%e3%82%81%e3%83%bc%e3%81%b7%e3%82%8b%e3%81%aa%e3%81%a3%e3%81%a4) | N/A |
-| 46 | [こいほー](http://twitter.com/search?q=%e3%81%93%e3%81%84%e3%81%bb%e3%83%bc) | N/A |
-| 47 | [単独首位](http://twitter.com/search?q=%e5%8d%98%e7%8b%ac%e9%a6%96%e4%bd%8d) | N/A |
-| 48 | [民主主義](http://twitter.com/search?q=%e6%b0%91%e4%b8%bb%e4%b8%bb%e7%be%a9) | N/A |
-| 49 | [青空レストラン](http://twitter.com/search?q=%e9%9d%92%e7%a9%ba%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
-| 50 | [漁師さん](http://twitter.com/search?q=%e6%bc%81%e5%b8%ab%e3%81%95%e3%82%93) | N/A |
+| 3 | [#東京リベンジャーズ](http://twitter.com/search?q=%23%e6%9d%b1%e4%ba%ac%e3%83%aa%e3%83%99%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc%e3%82%ba) | N/A |
+| 4 | [#すとぷり大阪城ホール](http://twitter.com/search?q=%23%e3%81%99%e3%81%a8%e3%81%b7%e3%82%8a%e5%a4%a7%e9%98%aa%e5%9f%8e%e3%83%9b%e3%83%bc%e3%83%ab) | N/A |
+| 5 | [莉犬くん](http://twitter.com/search?q=%e8%8e%89%e7%8a%ac%e3%81%8f%e3%82%93) | N/A |
+| 6 | [インスト](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%88) | N/A |
+| 7 | [恩返し弾](http://twitter.com/search?q=%e6%81%a9%e8%bf%94%e3%81%97%e5%bc%be) | N/A |
+| 8 | [パトリック](http://twitter.com/search?q=%e3%83%91%e3%83%88%e3%83%aa%e3%83%83%e3%82%af) | N/A |
+| 9 | [アンジュルム](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%ab%e3%83%a0) | アンジュルム is a Japanese idol group formed in 2014 by Up-Front Promotion. The group consists of nine members and their name is derived from the French word "ange" meaning angel. In English, the name translates to "Angels". |
+| 10 | [ころんくん](http://twitter.com/search?q=%e3%81%93%e3%82%8d%e3%82%93%e3%81%8f%e3%82%93) | N/A |
+| 11 | [最高のライブ](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96) | "最高のライブ" is a Japanese phrase that translates to "the best live performance". It is used to describe a live performance that is particularly impressive or memorable. |
+| 12 | [#とき宣晴れ舞台2023](http://twitter.com/search?q=%23%e3%81%a8%e3%81%8d%e5%ae%a3%e6%99%b4%e3%82%8c%e8%88%9e%e5%8f%b02023) | N/A |
+| 13 | [アニコナ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%b3%e3%83%8a) | アニコナ is a Japanese portmanteau of the words "anime" and "konbini" (convenience store). It refers to a type of convenience store that specializes in selling anime-related merchandise, such as figures, DVDs, and other collectibles. |
+| 14 | [#あなたをモブおばさん化](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%82%92%e3%83%a2%e3%83%96%e3%81%8a%e3%81%b0%e3%81%95%e3%82%93%e5%8c%96) | N/A |
+| 15 | [モブおば化](http://twitter.com/search?q=%e3%83%a2%e3%83%96%e3%81%8a%e3%81%b0%e5%8c%96) | N/A |
+| 16 | [安倍さん](http://twitter.com/search?q=%e5%ae%89%e5%80%8d%e3%81%95%e3%82%93) | N/A |
+| 17 | [#SRDWIN](http://twitter.com/search?q=%23SRDWIN) | N/A |
+| 18 | [クルークス](http://twitter.com/search?q=%e3%82%af%e3%83%ab%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
+| 19 | [国語偏差値](http://twitter.com/search?q=%e5%9b%bd%e8%aa%9e%e5%81%8f%e5%b7%ae%e5%80%a4) | N/A |
+| 20 | [ジェイソン](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%82%a4%e3%82%bd%e3%83%b3) | ジェイソン is a Japanese transliteration of the English name "Jason". It is a masculine given name derived from the Greek name Ιασων (Iason), meaning "healer". |
+| 21 | [岸田総理](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e7%b7%8f%e7%90%86) | 岸田総理 is the name of a former Prime Minister of Japan, Ryutaro Hashimoto. His name is often abbreviated to K-Sou, which stands for "Kishida Souri" (Kishida being his family name). In English, it translates to "Prime Minister Ryutaro Hashimoto". |
+| 22 | [秋山さん](http://twitter.com/search?q=%e7%a7%8b%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
+| 23 | [漁師のおっちゃん](http://twitter.com/search?q=%e6%bc%81%e5%b8%ab%e3%81%ae%e3%81%8a%e3%81%a3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 24 | [セレッソ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%83%e3%82%bd) | セレッソ is a Japanese football club based in Osaka. The name is an abbreviation of the club's full name, Cerezo Osaka. In English, it means "Cerezo Osaka". |
+| 25 | [うさほー](http://twitter.com/search?q=%e3%81%86%e3%81%95%e3%81%bb%e3%83%bc) | N/A |
+| 26 | [岸田さん](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e3%81%95%e3%82%93) | 岸田さん is a Japanese surname. In English, it would be translated as "Kishida". |
+| 27 | [秋山翔吾](http://twitter.com/search?q=%e7%a7%8b%e5%b1%b1%e7%bf%94%e5%90%be) | N/A |
+| 28 | [哀ちゃん](http://twitter.com/search?q=%e5%93%80%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 29 | [応援上映](http://twitter.com/search?q=%e5%bf%9c%e6%8f%b4%e4%b8%8a%e6%98%a0) | N/A |
+| 30 | [Suica](http://twitter.com/search?q=Suica) | N/A |
+| 31 | [パブリックビューイング](http://twitter.com/search?q=%e3%83%91%e3%83%96%e3%83%aa%e3%83%83%e3%82%af%e3%83%93%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%b0) | N/A |
+| 32 | [のあちゃん](http://twitter.com/search?q=%e3%81%ae%e3%81%82%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [初ドーム](http://twitter.com/search?q=%e5%88%9d%e3%83%89%e3%83%bc%e3%83%a0) | N/A |
+| 34 | [ヨンジュン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%82%b8%e3%83%a5%e3%83%b3) | ヨンジュン is a Korean given name, which is usually written in hanja as 永俊. It is composed of two characters, 永 (yeong) meaning "eternal" and 俊 (jun) meaning "talented". In English, it can be translated to mean "eternally talented". |
+| 35 | [ニシノデイジー](http://twitter.com/search?q=%e3%83%8b%e3%82%b7%e3%83%8e%e3%83%87%e3%82%a4%e3%82%b8%e3%83%bc) | ニシノデイジー (Nishino Daisy) is a Japanese rock band formed in 2002. The band's name is derived from the English phrase "Nice to Meet You". The band's music is characterized by a mix of rock, pop, and punk influences. |
+| 36 | [りくりゅう](http://twitter.com/search?q=%e3%82%8a%e3%81%8f%e3%82%8a%e3%82%85%e3%81%86) | りくりゅう (rikuryuu) is a Japanese word that means "luxury". It is used to describe something that is of high quality, expensive, or luxurious. |
+| 37 | [伊藤涼太郎](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e6%b6%bc%e5%a4%aa%e9%83%8e) | N/A |
+| 38 | [ホウオウビスケッツ](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%aa%e3%82%a6%e3%83%93%e3%82%b9%e3%82%b1%e3%83%83%e3%83%84) | N/A |
+| 39 | [ファントムシーフ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%83%88%e3%83%a0%e3%82%b7%e3%83%bc%e3%83%95) | N/A |
+| 40 | [追加公演](http://twitter.com/search?q=%e8%bf%bd%e5%8a%a0%e5%85%ac%e6%bc%94) | 追加公演 (tsui ka kouen) is a Japanese phrase meaning "additional performance". It is used to refer to an extra show or concert that has been added to an artist's tour schedule. |
+| 41 | [タスティエーラ](http://twitter.com/search?q=%e3%82%bf%e3%82%b9%e3%83%86%e3%82%a3%e3%82%a8%e3%83%bc%e3%83%a9) | N/A |
+| 42 | [イロゴトシ](http://twitter.com/search?q=%e3%82%a4%e3%83%ad%e3%82%b4%e3%83%88%e3%82%b7) | N/A |
+| 43 | [殺人未遂](http://twitter.com/search?q=%e6%ae%ba%e4%ba%ba%e6%9c%aa%e9%81%82) | N/A |
+| 44 | [バイトコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 45 | [ポップコーン](http://twitter.com/search?q=%e3%83%9d%e3%83%83%e3%83%97%e3%82%b3%e3%83%bc%e3%83%b3) | N/A |
+| 46 | [ALGS](http://twitter.com/search?q=ALGS) | ALGS stands for Advanced Logistics and Supply Chain Solutions. It is a company that provides logistics and supply chain solutions to businesses. The company specializes in helping businesses optimize their supply chain operations, reduce costs, and improve customer service. |
+| 47 | [岸田首相](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e9%a6%96%e7%9b%b8) | N/A |
+| 48 | [バイトチームコンテスト](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%88%e3%83%81%e3%83%bc%e3%83%a0%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 49 | [テロ行為](http://twitter.com/search?q=%e3%83%86%e3%83%ad%e8%a1%8c%e7%82%ba) | N/A |
+| 50 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
 
 
 
