@@ -1,7 +1,7 @@
 name: Run dublok/github.action.twittertt
-x
+
 on:
-  #schedule:
+  schedule:
     - cron: '0 * * * *'
   workflow_dispatch:
     inputs:
