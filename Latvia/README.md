@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-15 21:27:05 UTC`
+📆 Last Updated: `2023-04-15 22:26:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,13 +30,13 @@ This is top 50 for Latvia
 | 13 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | Kādā is a Hindi word that means "when". |
 | 14 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | Vācijā is a Latvian word meaning "in Germany". |
 | 15 | [Dieva](http://twitter.com/search?q=Dieva) | Die Va is a term used in the Vietnamese language to express admiration or appreciation. It translates to "Oh wow!" or "That's great!" in English. |
-| 16 | [Noteikti](http://twitter.com/search?q=Noteikti) | Noteikti is a Latvian word that means "to determine" or "to decide". It is used to describe the process of making a decision or reaching a conclusion. |
-| 17 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 18 | [$gini](http://twitter.com/search?q=%24gini) | Gini is a measure of inequality, often used to measure income inequality. It is calculated by taking the ratio of the total area between the Lorenz curve and the line of perfect equality to the total area under the line of perfect equality. A Gini coefficient of 0 indicates perfect equality, while a Gini coefficient of 1 indicates perfect inequality. |
-| 19 | [Valsts](http://twitter.com/search?q=Valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of Latvia, as well as the nation itself. |
-| 20 | [Neko](http://twitter.com/search?q=Neko) | Neko is a Japanese word meaning "cat". It is often used as an affectionate term for cats, similar to how people in English might refer to their cats as "kitty" or "kitties". |
-| 21 | [droši](http://twitter.com/search?q=dro%c5%a1i) | Droši is a Latvian word that means "safe" or "secure". It is often used to express a feeling of safety or security. |
-| 22 | [Putins](http://twitter.com/search?q=Putins) | Putins is a nickname for Russian President Vladimir Putin. It is derived from his last name and is used as a term of endearment by his supporters. |
+| 16 | [noteikti](http://twitter.com/search?q=noteikti) | Noteikti is a Latvian word that means "to determine" or "to decide". It is used to express the idea of making a decision or ruling on something. |
+| 17 | [$gini](http://twitter.com/search?q=%24gini) | Gini is a measure of inequality, often used to measure income inequality. It is calculated by taking the ratio of the total area between the Lorenz curve and the line of perfect equality to the total area under the line of perfect equality. A Gini coefficient of 0 indicates perfect equality, while a Gini coefficient of 1 indicates perfect inequality. |
+| 18 | [Valsts](http://twitter.com/search?q=Valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of Latvia, as well as the nation itself. |
+| 19 | [Neko](http://twitter.com/search?q=Neko) | Neko is a Japanese word meaning "cat". It is often used as an affectionate term for cats, similar to how people in English might refer to their cats as "kitty" or "kitties". |
+| 20 | [droši](http://twitter.com/search?q=dro%c5%a1i) | Droši is a Latvian word that means "safe" or "secure". It is often used to express a feeling of safety or security. |
+| 21 | [Putins](http://twitter.com/search?q=Putins) | Putins is a nickname for Russian President Vladimir Putin. It is derived from his last name and is used as a term of endearment by his supporters. |
+| 22 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | Viņa is a Latvian pronoun meaning "he" or "she". |
 | 23 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | Tāpēc is a Latvian word meaning "therefore" or "so". |
 | 24 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | Saeimā is the name of the Latvian Parliament. It is derived from the Latvian word saeima, which means "assembly". In English, it can be translated as "Parliament". |
 | 25 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | Lūdzu is a Latvian word that means "please" or "kindly" in English. It is used as a polite request or as an expression of gratitude. |
@@ -46,25 +46,25 @@ This is top 50 for Latvia
 | 29 | [šlesers](http://twitter.com/search?q=%c5%a1lesers) | "Šlesers" is a Latvian surname. It is derived from the word "šļēsējs", which means "shoemaker". |
 | 30 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | Nebūs is a Lithuanian word meaning "will not be". |
 | 31 | [toties](http://twitter.com/search?q=toties) | Toties is a Latin word meaning "in that case" or "in such circumstances". It is used to indicate that a certain action should be taken in response to a particular situation. |
-| 32 | [Paga](http://twitter.com/search?q=Paga) | Paga is a mobile money transfer service in Ghana. It allows users to send and receive money, pay bills, and buy airtime. In English, Paga means "pay". |
-| 33 | [Krievija](http://twitter.com/search?q=Krievija) | Krievija is the Russian word for Russia. It is derived from the Old East Slavic word kryvi, which means "land of the Slavs". |
-| 34 | [beidzot](http://twitter.com/search?q=beidzot) | Beidzot is a Hebrew word meaning "enough". It is used to indicate that something has reached its limit or that an action should stop. |
-| 35 | [Zinu](http://twitter.com/search?q=Zinu) | Zinu is a term used in the Yoruba language of Nigeria, which means "love". It is often used as a term of endearment or to express affection. |
-| 36 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | Tāds is a Latvian word meaning "such" or "like that". It is used to describe something that has been previously mentioned or is already known. |
-| 37 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | Šeit is a Latvian word meaning "here" or "this place". |
-| 38 | [NEKAD](http://twitter.com/search?q=NEKAD) | NEKAD is an acronym for Never Ever Kick A Dog, which is a phrase used to remind people to never physically harm or mistreat animals. |
-| 39 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | Diemžēl is a Latvian word that translates to "unfortunately" or "sadly" in English. It is used to express regret or disappointment. |
-| 40 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | Европе is a Russian word that translates to Europe in English. It is the Russian word for the continent of Europe. |
-| 41 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | Tieši is a Latvian word meaning "exactly" or "precisely". |
-| 42 | [Ukrainai](http://twitter.com/search?q=Ukrainai) | Ukrainai is a type of Ukrainian folk dance. It is a lively, fast-paced dance that involves couples dancing in a circle, usually accompanied by traditional Ukrainian music. The name Ukrainai comes from the Ukrainian word for "dance". In English, it means "to dance". |
+| 32 | [Ukrainai](http://twitter.com/search?q=Ukrainai) | Ukrainai is a type of Ukrainian folk dance. It is a lively, fast-paced dance that involves couples dancing in a circle, usually accompanied by traditional Ukrainian music. The name Ukrainai comes from the Ukrainian word for "dance". In English, it means "to dance". |
+| 33 | [Paga](http://twitter.com/search?q=Paga) | Paga is a mobile money transfer service in Ghana. It allows users to send and receive money, pay bills, and buy airtime. In English, Paga means "pay". |
+| 34 | [krievija](http://twitter.com/search?q=krievija) | Krievija is the Latvian word for Russia. In English, it translates to "Russia". |
+| 35 | [beidzot](http://twitter.com/search?q=beidzot) | Beidzot is a Hebrew word meaning "enough". It is used to indicate that something has reached its limit or that an action should stop. |
+| 36 | [Zinu](http://twitter.com/search?q=Zinu) | Zinu is a term used in the Yoruba language of Nigeria, which means "love". It is often used as a term of endearment or to express affection. |
+| 37 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | Tāds is a Latvian word meaning "such" or "like that". It is used to describe something that has been previously mentioned or is already known. |
+| 38 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | Šeit is a Latvian word meaning "here" or "this place". |
+| 39 | [NEKAD](http://twitter.com/search?q=NEKAD) | NEKAD is an acronym for Never Ever Kick A Dog, which is a phrase used to remind people to never physically harm or mistreat animals. |
+| 40 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | Diemžēl is a Latvian word that translates to "unfortunately" or "sadly" in English. It is used to express regret or disappointment. |
+| 41 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | Европе is a Russian word that translates to Europe in English. It is the Russian word for the continent of Europe. |
+| 42 | [Vajag](http://twitter.com/search?q=Vajag) | Vajag is a term used in the Indian language of Marathi, which means “to go” or “to move”. It is commonly used as an imperative verb to tell someone to go somewhere. |
 | 43 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | Līdz is a Latvian word that means "until" or "up to". It is used to indicate a point in time or a limit. For example, Līdz šim brīdim can be translated as "up to this point" or "until now". |
-| 44 | [Baltijā](http://twitter.com/search?q=Baltij%c4%81) | Baltijā is a region in Northern Europe that includes the three Baltic states of Estonia, Latvia, and Lithuania. The term is derived from the Baltic Sea, which borders the region. In English, Baltijā means "the Baltic". |
+| 44 | [baltijā](http://twitter.com/search?q=baltij%c4%81) | Baltijā is a Latvian word meaning "in the Baltic". It is used to refer to the region of Northern Europe that includes Estonia, Latvia, and Lithuania. |
 | 45 | [#GINIAI](http://twitter.com/search?q=%23GINIAI) | #GINIAI is an acronym for the phrase "Get It Now And Improve It Later". It is a popular productivity mantra that encourages people to take action and start working on a project or task, even if it's not perfect. The idea is that you can always improve it later, but you have to get started now. |
 | 46 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | Daugavpils is a city in Latvia, located on the banks of the Daugava River. The name Daugavpils translates to "Daugava Castle" in English. |
-| 47 | [Cerams](http://twitter.com/search?q=Cerams) | Cerams is an acronym for the French phrase “Cercle des Amis de la Musique”, which translates to “Circle of Friends of Music”. It is a non-profit organization that promotes music education and appreciation in France. |
-| 48 | [Google](http://twitter.com/search?q=Google) | Google is a search engine and technology company. It is the most popular search engine in the world, and its name has become a verb used to describe searching for information on the internet. The word "Google" is derived from the word "googol," which is a mathematical term for a number represented by 1 followed by 100 zeros. |
-| 49 | [Jautājums](http://twitter.com/search?q=Jaut%c4%81jums) | Jautājums is a Latvian word meaning "question" in English. |
-| 50 | [iesaku](http://twitter.com/search?q=iesaku) | Iesaku is a Japanese word that means "recommendation" or "suggestion". It is often used when someone is recommending something to another person. |
+| 47 | [cerams](http://twitter.com/search?q=cerams) | Cerams is an abbreviation for ceramic materials, which are materials made from clay and other inorganic, nonmetallic minerals. Ceramic materials are used in a variety of applications, including pottery, building materials, and industrial components. |
+| 48 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | Tieši is a Latvian word meaning "exactly" or "precisely". |
+| 49 | [Google](http://twitter.com/search?q=Google) | Google is a search engine and technology company. It is the most popular search engine in the world, and its name has become a verb used to describe searching for information on the internet. The word "Google" is derived from the word "googol," which is a mathematical term for a number represented by 1 followed by 100 zeros. |
+| 50 | [Neviens](http://twitter.com/search?q=Neviens) | Neviens is a made-up word with no meaning in English. It is not a real word and does not appear in any dictionary. |
 
 
 
