@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-15 12:16:00 UTC`
+📆 Last Updated: `2023-04-15 14:01:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,6 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 2 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | N/A |
-| 3 | [knab](http://twitter.com/search?q=knab) | N/A |
-| 4 | [Varbūt](http://twitter.com/search?q=Varb%c5%abt) | N/A |
-| 5 | [Azov](http://twitter.com/search?q=Azov) | N/A |
-| 6 | [Kariņa](http://twitter.com/search?q=Kari%c5%86a) | N/A |
-| 7 | [Vakar](http://twitter.com/search?q=Vakar) | N/A |
-| 8 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | N/A |
-| 9 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 10 | [Labi](http://twitter.com/search?q=Labi) | N/A |
-| 11 | [LPSR](http://twitter.com/search?q=LPSR) | N/A |
-| 12 | [Levitu](http://twitter.com/search?q=Levitu) | N/A |
-| 13 | [AI-powered](http://twitter.com/search?q=AI-powered) | N/A |
-| 14 | [Paga](http://twitter.com/search?q=Paga) | N/A |
-| 15 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | N/A |
-| 16 | [kādā](http://twitter.com/search?q=k%c4%81d%c4%81) | N/A |
-| 17 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
-| 18 | [Ukrainai](http://twitter.com/search?q=Ukrainai) | N/A |
-| 19 | [Kāpēc](http://twitter.com/search?q=K%c4%81p%c4%93c) | N/A |
-| 20 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | N/A |
-| 21 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 22 | [$gini](http://twitter.com/search?q=%24gini) | N/A |
-| 23 | [Valsts](http://twitter.com/search?q=Valsts) | N/A |
-| 24 | [tavs](http://twitter.com/search?q=tavs) | N/A |
-| 25 | [ļoti](http://twitter.com/search?q=%c4%bcoti) | N/A |
-| 26 | [Droši](http://twitter.com/search?q=Dro%c5%a1i) | N/A |
-| 27 | [Nebūs](http://twitter.com/search?q=Neb%c5%abs) | N/A |
-| 28 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | N/A |
-| 29 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
-| 30 | [šlesers](http://twitter.com/search?q=%c5%a1lesers) | N/A |
-| 31 | [Toties](http://twitter.com/search?q=Toties) | N/A |
-| 32 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 33 | [Beidzot](http://twitter.com/search?q=Beidzot) | N/A |
-| 34 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
-| 35 | [Varētu](http://twitter.com/search?q=Var%c4%93tu) | N/A |
-| 36 | [līdz](http://twitter.com/search?q=l%c4%abdz) | N/A |
-| 37 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | N/A |
-| 38 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | N/A |
-| 39 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
-| 40 | [Nezinu](http://twitter.com/search?q=Nezinu) | N/A |
-| 41 | [Putins](http://twitter.com/search?q=Putins) | N/A |
-| 42 | [Mums](http://twitter.com/search?q=Mums) | N/A |
-| 43 | [Vajag](http://twitter.com/search?q=Vajag) | N/A |
-| 44 | [baltijā](http://twitter.com/search?q=baltij%c4%81) | N/A |
-| 45 | [#giniai](http://twitter.com/search?q=%23giniai) | N/A |
-| 46 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
-| 47 | [Neko](http://twitter.com/search?q=Neko) | N/A |
-| 48 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
-| 49 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 50 | [polijas](http://twitter.com/search?q=polijas) | N/A |
 
 
 

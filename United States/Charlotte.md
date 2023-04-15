@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Charlotte
 
-📆 Last Updated: `2023-04-15 12:15:49 UTC`
+📆 Last Updated: `2023-04-15 14:01:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,6 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 2 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 3 | [COBY WHITE](http://twitter.com/search?q=COBY+WHITE) | N/A |
-| 4 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 6 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 7 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 8 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 9 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 10 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 11 | [#LoveisBlind4](http://twitter.com/search?q=%23LoveisBlind4) | N/A |
-| 12 | [Martinsville](http://twitter.com/search?q=Martinsville) | N/A |
-| 13 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 14 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 15 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 16 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 17 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 18 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 19 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
-| 20 | [Khartoum](http://twitter.com/search?q=Khartoum) | N/A |
-| 21 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 22 | [JEONGYEON](http://twitter.com/search?q=JEONGYEON) | N/A |
-| 23 | [TSB IS HERE TO SWALLOW](http://twitter.com/search?q=TSB+IS+HERE+TO+SWALLOW) | N/A |
-| 24 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 25 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
-| 26 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 27 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 28 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 29 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
-| 30 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 31 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 32 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 33 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 34 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 35 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 36 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 37 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 38 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 39 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 40 | [Boston Marathon](http://twitter.com/search?q=Boston+Marathon) | N/A |
-| 41 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 42 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 43 | [Bucks in 5](http://twitter.com/search?q=Bucks+in+5) | N/A |
-| 44 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 45 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 46 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 47 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
-| 48 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 49 | [Great War](http://twitter.com/search?q=Great+War) | N/A |
-| 50 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
 
 
 

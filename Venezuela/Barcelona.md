@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-04-15 12:15:18 UTC`
+📆 Last Updated: `2023-04-15 14:01:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,6 @@ This is top 50 for [Venezuela](</Venezuela>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#15Abr](http://twitter.com/search?q=%2315Abr) | N/A |
-| 2 | [#LogrosEnRevolución](http://twitter.com/search?q=%23LogrosEnRevoluci%c3%b3n) | N/A |
-| 3 | [#MaduroLealtadYVictoria](http://twitter.com/search?q=%23MaduroLealtadYVictoria) | N/A |
-| 4 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 5 | [Día Mundial del Arte](http://twitter.com/search?q=D%c3%ada+Mundial+del+Arte) | N/A |
-| 6 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 7 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 8 | [Petete](http://twitter.com/search?q=Petete) | N/A |
-| 9 | [Leonardo da Vinci](http://twitter.com/search?q=Leonardo+da+Vinci) | N/A |
-| 10 | [#avalliberalparalourdeslópez](http://twitter.com/search?q=%23avalliberalparalourdesl%c3%b3pez) | N/A |
-| 11 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 12 | [Yulimar Rojas](http://twitter.com/search?q=Yulimar+Rojas) | N/A |
-| 13 | [Luis Aparicio](http://twitter.com/search?q=Luis+Aparicio) | N/A |
-| 14 | [Rebeca González](http://twitter.com/search?q=Rebeca+Gonz%c3%a1lez) | N/A |
-| 15 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 16 | [Rumildo](http://twitter.com/search?q=Rumildo) | N/A |
-| 17 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
-| 18 | [Carl Herrera](http://twitter.com/search?q=Carl+Herrera) | N/A |
-| 19 | [orlando urdaneta](http://twitter.com/search?q=orlando+urdaneta) | N/A |
-| 20 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
-| 21 | [Juan Arango](http://twitter.com/search?q=Juan+Arango) | N/A |
-| 22 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
-| 23 | [Díaz](http://twitter.com/search?q=D%c3%adaz) | N/A |
-| 24 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 25 | [Pedro Carreño](http://twitter.com/search?q=Pedro+Carre%c3%b1o) | N/A |
-| 26 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
-| 27 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
-| 28 | [expo gobierno](http://twitter.com/search?q=expo+gobierno) | N/A |
-| 29 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
-| 30 | [Cichero](http://twitter.com/search?q=Cichero) | N/A |
-| 31 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 32 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
-| 33 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
-| 34 | [Granjero](http://twitter.com/search?q=Granjero) | N/A |
-| 35 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
-| 36 | [Cota Mil](http://twitter.com/search?q=Cota+Mil) | N/A |
-| 37 | [Bendiciones](http://twitter.com/search?q=Bendiciones) | N/A |
-| 38 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 39 | [brasil y argentina](http://twitter.com/search?q=brasil+y+argentina) | N/A |
-| 40 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 41 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 42 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
-| 43 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 44 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 45 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 46 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 47 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 48 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 49 | [lucciano reinoso](http://twitter.com/search?q=lucciano+reinoso) | N/A |
 
 
 

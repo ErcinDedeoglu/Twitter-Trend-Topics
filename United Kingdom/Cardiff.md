@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-04-15 12:15:11 UTC`
+📆 Last Updated: `2023-04-15 14:01:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,6 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 2 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 3 | [#AVLNEW](http://twitter.com/search?q=%23AVLNEW) | N/A |
-| 4 | [Jacob Ramsey](http://twitter.com/search?q=Jacob+Ramsey) | N/A |
-| 5 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
-| 6 | [Emery](http://twitter.com/search?q=Emery) | Emery is a type of rock that is made up of corundum and other minerals. It is used as an abrasive for grinding, polishing, and sanding. In English, the word "emery" can also refer to a type of dark gray or black powder made from this rock, which is used for polishing and sharpening metal tools. |
-| 7 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
-| 8 | [Dan Burn](http://twitter.com/search?q=Dan+Burn) | Dan Burn is a phrase used to describe a situation in which someone has been completely overwhelmed by an emotional experience. It is often used to describe the feeling of being overwhelmed with sadness or grief. |
-| 9 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 10 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 11 | [#AVFC](http://twitter.com/search?q=%23AVFC) | #AVFC stands for Aston Villa Football Club, an English professional football club based in Birmingham. The club competes in the Premier League, the top tier of the English football league system. |
-| 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 13 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
-| 14 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 15 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 16 | [Sudan](http://twitter.com/search?q=Sudan) | N/A |
-| 17 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
-| 18 | [Steve Watson](http://twitter.com/search?q=Steve+Watson) | N/A |
-| 19 | [Targett](http://twitter.com/search?q=Targett) | N/A |
-| 20 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
-| 21 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
-| 22 | [Edinburgh Derby](http://twitter.com/search?q=Edinburgh+Derby) | N/A |
-| 23 | [Le Milos](http://twitter.com/search?q=Le+Milos) | N/A |
-| 24 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
-| 25 | [Simpson](http://twitter.com/search?q=Simpson) | N/A |
-| 26 | [Khartoum](http://twitter.com/search?q=Khartoum) | N/A |
-| 27 | [Schar](http://twitter.com/search?q=Schar) | N/A |
-| 28 | [Audrey](http://twitter.com/search?q=Audrey) | N/A |
-| 29 | [Lifetime Ambition](http://twitter.com/search?q=Lifetime+Ambition) | N/A |
-| 30 | [200 PRITT STICKS](http://twitter.com/search?q=200+PRITT+STICKS) | N/A |
-| 31 | [The Big Dog](http://twitter.com/search?q=The+Big+Dog) | N/A |
-| 32 | [Mr Incredible](http://twitter.com/search?q=Mr+Incredible) | N/A |
-| 33 | [Velvet Elvis](http://twitter.com/search?q=Velvet+Elvis) | N/A |
-| 34 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 35 | [Coko Beach](http://twitter.com/search?q=Coko+Beach) | N/A |
-| 36 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
-| 37 | [Any Second Now](http://twitter.com/search?q=Any+Second+Now) | N/A |
-| 38 | [Roi Mage](http://twitter.com/search?q=Roi+Mage) | N/A |
-| 39 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 40 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
-| 41 | [Longhouse Poet](http://twitter.com/search?q=Longhouse+Poet) | N/A |
-| 42 | [RIP the 97](http://twitter.com/search?q=RIP+the+97) | N/A |
-| 43 | [Galvin](http://twitter.com/search?q=Galvin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-04-15 12:15:47 UTC`
+📆 Last Updated: `2023-04-15 14:01:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,6 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#உசிலம்பட்டியில்_சீமான்](http://twitter.com/search?q=%23%e0%ae%89%e0%ae%9a%e0%ae%bf%e0%ae%b2%e0%ae%ae%e0%af%8d%e0%ae%aa%e0%ae%9f%e0%af%8d%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d_%e0%ae%9a%e0%af%80%e0%ae%ae%e0%ae%be%e0%ae%a9%e0%af%8d) | N/A |
-| 2 | [#RCBvDC](http://twitter.com/search?q=%23RCBvDC) | N/A |
-| 3 | [#SkechersGOWALK](http://twitter.com/search?q=%23SkechersGOWALK) | N/A |
-| 4 | [Anuj Rawat](http://twitter.com/search?q=Anuj+Rawat) | N/A |
-| 5 | [#FireStormIsComing](http://twitter.com/search?q=%23FireStormIsComing) | N/A |
-| 6 | [#TheyCallHimOG](http://twitter.com/search?q=%23TheyCallHimOG) | N/A |
-| 7 | [Parnell](http://twitter.com/search?q=Parnell) | N/A |
-| 8 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
-| 9 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
-| 10 | [CORRUPT PRADHAN MANTRI](http://twitter.com/search?q=CORRUPT+PRADHAN+MANTRI) | N/A |
-| 11 | [Ananya Pandey](http://twitter.com/search?q=Ananya+Pandey) | N/A |
-| 12 | [Prithvi Shaw](http://twitter.com/search?q=Prithvi+Shaw) | N/A |
-| 13 | [Suyash](http://twitter.com/search?q=Suyash) | N/A |
-| 14 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 15 | [Hesson](http://twitter.com/search?q=Hesson) | N/A |
-| 16 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
-| 17 | [Dinesh Karthik](http://twitter.com/search?q=Dinesh+Karthik) | N/A |
-| 18 | [Karn Sharma](http://twitter.com/search?q=Karn+Sharma) | N/A |
-| 19 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
-| 20 | [SRK TIME100 ICON](http://twitter.com/search?q=SRK+TIME100+ICON) | N/A |
-| 21 | [Shahbaz](http://twitter.com/search?q=Shahbaz) | N/A |
-| 22 | [Delhi Capitals](http://twitter.com/search?q=Delhi+Capitals) | N/A |
-| 23 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
-| 24 | [Impact Player](http://twitter.com/search?q=Impact+Player) | N/A |
-| 25 | [Kuldeep](http://twitter.com/search?q=Kuldeep) | Kuldeep is a Hindu name derived from Sanskrit, meaning "light of the family". It is typically used as a masculine name. |
-| 26 | [Sai Baba](http://twitter.com/search?q=Sai+Baba) | N/A |
-| 27 | [Lalit Yadav](http://twitter.com/search?q=Lalit+Yadav) | N/A |
-| 28 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 29 | [Dhaba](http://twitter.com/search?q=Dhaba) | N/A |
-| 30 | [Mahatma Gandhi](http://twitter.com/search?q=Mahatma+Gandhi) | N/A |
-| 31 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
-| 32 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 33 | [RUBINA HOSTING EKRH](http://twitter.com/search?q=RUBINA+HOSTING+EKRH) | N/A |
-| 34 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
-| 35 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 36 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 37 | [Match 20](http://twitter.com/search?q=Match+20) | N/A |
-| 38 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
-| 39 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 40 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 41 | [batsman](http://twitter.com/search?q=batsman) | N/A |
-| 42 | [गुलाम नबी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%a8%e0%a4%ac%e0%a5%80) | N/A |
-| 43 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 44 | [जवान शहीद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 45 | [CBI and ED](http://twitter.com/search?q=CBI+and+ED) | N/A |
-| 46 | [Kolar](http://twitter.com/search?q=Kolar) | N/A |
-| 47 | [Delhi CM](http://twitter.com/search?q=Delhi+CM) | N/A |
-| 48 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
-| 49 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
-| 50 | [#BJPWithTSJobAspirants](http://twitter.com/search?q=%23BJPWithTSJobAspirants) | N/A |
 
 
 

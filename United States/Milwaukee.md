@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-04-15 12:15:52 UTC`
+📆 Last Updated: `2023-04-15 14:01:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,6 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rowdy](http://twitter.com/search?q=Rowdy) | N/A |
-| 2 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 3 | [LUKE VOIT](http://twitter.com/search?q=LUKE+VOIT) | N/A |
-| 4 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
-| 5 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
-| 6 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 7 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 8 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 9 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 10 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 11 | [#AVLNEW](http://twitter.com/search?q=%23AVLNEW) | N/A |
-| 12 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 13 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 14 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 15 | [#askwxm](http://twitter.com/search?q=%23askwxm) | N/A |
-| 16 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 17 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
-| 18 | [Khartoum](http://twitter.com/search?q=Khartoum) | N/A |
-| 19 | [Meet Day](http://twitter.com/search?q=Meet+Day) | N/A |
-| 20 | [JEONGYEON](http://twitter.com/search?q=JEONGYEON) | N/A |
-| 21 | [TSB IS HERE TO SWALLOW](http://twitter.com/search?q=TSB+IS+HERE+TO+SWALLOW) | N/A |
-| 22 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 23 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
-| 24 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
-| 25 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 26 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 27 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
-| 28 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 29 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 30 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 31 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 32 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 33 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 34 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 35 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 36 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 37 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 38 | [Boston Marathon](http://twitter.com/search?q=Boston+Marathon) | N/A |
-| 39 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 40 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
-| 41 | [Bucks in 5](http://twitter.com/search?q=Bucks+in+5) | N/A |
-| 42 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 43 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 44 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 45 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
-| 46 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 47 | [Great War](http://twitter.com/search?q=Great+War) | N/A |
-| 48 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 49 | [Blink-182](http://twitter.com/search?q=Blink-182) | N/A |
 
 
 
