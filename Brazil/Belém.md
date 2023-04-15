@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-04-14 23:16:47 UTC`
+📆 Last Updated: `2023-04-15 00:27:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,52 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 2 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 3 | [Heinz](http://twitter.com/search?q=Heinz) | N/A |
-| 4 | [Matheus Barbosa](http://twitter.com/search?q=Matheus+Barbosa) | N/A |
+| 1 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 2 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 3 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 4 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
 | 5 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 6 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 7 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 8 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
-| 9 | [SIGA SARAH ALINE NO IG](http://twitter.com/search?q=SIGA+SARAH+ALINE+NO+IG) | N/A |
-| 10 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
-| 11 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 12 | [AMOR DA MINHA VIDA](http://twitter.com/search?q=AMOR+DA+MINHA+VIDA) | N/A |
-| 13 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 14 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 15 | [#TrêsVezesAna055](http://twitter.com/search?q=%23Tr%c3%aasVezesAna055) | N/A |
-| 16 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 17 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 18 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 19 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 20 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 21 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 22 | [Bambu](http://twitter.com/search?q=Bambu) | N/A |
-| 23 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
-| 24 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
-| 25 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
-| 26 | [Hemmer](http://twitter.com/search?q=Hemmer) | N/A |
-| 27 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 28 | [Roberta Pardo](http://twitter.com/search?q=Roberta+Pardo) | N/A |
-| 29 | [#TodaManhaVitao](http://twitter.com/search?q=%23TodaManhaVitao) | N/A |
-| 30 | [Neiff](http://twitter.com/search?q=Neiff) | N/A |
-| 31 | [#ADona089](http://twitter.com/search?q=%23ADona089) | N/A |
-| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 33 | [drag race](http://twitter.com/search?q=drag+race) | N/A |
-| 34 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 35 | [Ana Letícia](http://twitter.com/search?q=Ana+Let%c3%adcia) | N/A |
-| 36 | [#espnfcbr](http://twitter.com/search?q=%23espnfcbr) | N/A |
-| 37 | [Robson](http://twitter.com/search?q=Robson) | N/A |
-| 38 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 39 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
-| 40 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
-| 41 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 42 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 43 | [Novo Tempo](http://twitter.com/search?q=Novo+Tempo) | N/A |
-| 44 | [Esbanja](http://twitter.com/search?q=Esbanja) | N/A |
-| 45 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 6 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 7 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 8 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 9 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 11 | [Heinz](http://twitter.com/search?q=Heinz) | N/A |
+| 12 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 13 | [#ChiaraXMoretti](http://twitter.com/search?q=%23ChiaraXMoretti) | N/A |
+| 14 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 15 | [#nbanoprimevideo](http://twitter.com/search?q=%23nbanoprimevideo) | N/A |
+| 16 | [Matheus Barbosa](http://twitter.com/search?q=Matheus+Barbosa) | N/A |
+| 17 | [Strus](http://twitter.com/search?q=Strus) | N/A |
+| 18 | [ORGULHO JEOVANNY SANF](http://twitter.com/search?q=ORGULHO+JEOVANNY+SANF) | N/A |
+| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 20 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 21 | [Choquei](http://twitter.com/search?q=Choquei) | N/A |
+| 22 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
+| 23 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 24 | [Régis](http://twitter.com/search?q=R%c3%a9gis) | N/A |
+| 25 | [Alan Costa](http://twitter.com/search?q=Alan+Costa) | N/A |
+| 26 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 27 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 28 | [Bambu](http://twitter.com/search?q=Bambu) | N/A |
+| 29 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 30 | [Até 2024](http://twitter.com/search?q=At%c3%a9+2024) | N/A |
+| 31 | [Judas Tadeu](http://twitter.com/search?q=Judas+Tadeu) | N/A |
+| 32 | [AMOR DA MINHA VIDA](http://twitter.com/search?q=AMOR+DA+MINHA+VIDA) | N/A |
+| 33 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
+| 34 | [Série B](http://twitter.com/search?q=S%c3%a9rie+B) | N/A |
+| 35 | [SIGA SARAH ALINE NO IG](http://twitter.com/search?q=SIGA+SARAH+ALINE+NO+IG) | N/A |
+| 36 | [Bugre](http://twitter.com/search?q=Bugre) | N/A |
+| 37 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 39 | [Regiane](http://twitter.com/search?q=Regiane) | N/A |
+| 40 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 41 | [Marinette](http://twitter.com/search?q=Marinette) | N/A |
+| 42 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 43 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 44 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 45 | [Maricota](http://twitter.com/search?q=Maricota) | N/A |
+| 46 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
 
 
 

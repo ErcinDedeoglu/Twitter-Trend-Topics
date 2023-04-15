@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-14 23:17:26 UTC`
+📆 Last Updated: `2023-04-15 00:28:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,10 +17,10 @@ This is top 50 for Denmark
 | ------- | ------------ | ------------ |
 | 1 | [#fcmaab](http://twitter.com/search?q=%23fcmaab) | N/A |
 | 2 | [Hummelgaard](http://twitter.com/search?q=Hummelgaard) | N/A |
-| 3 | [#superaab](http://twitter.com/search?q=%23superaab) | N/A |
-| 4 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 5 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 6 | [#ECCMID2023](http://twitter.com/search?q=%23ECCMID2023) | N/A |
+| 3 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
+| 4 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 5 | [#ECCMID2023](http://twitter.com/search?q=%23ECCMID2023) | N/A |
+| 6 | [#superaab](http://twitter.com/search?q=%23superaab) | N/A |
 | 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 8 | [Herning](http://twitter.com/search?q=Herning) | N/A |
 | 9 | [Justitsminister](http://twitter.com/search?q=Justitsminister) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for Denmark
 | 14 | [bilka](http://twitter.com/search?q=bilka) | N/A |
 | 15 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 16 | [onkel reje](http://twitter.com/search?q=onkel+reje) | N/A |
-| 17 | [Aalborg](http://twitter.com/search?q=Aalborg) | N/A |
-| 18 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
-| 19 | [Lego](http://twitter.com/search?q=Lego) | N/A |
-| 20 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 21 | [Barnets Lov](http://twitter.com/search?q=Barnets+Lov) | N/A |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 23 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
-| 24 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 25 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 26 | [Held](http://twitter.com/search?q=Held) | N/A |
-| 27 | [Uanset](http://twitter.com/search?q=Uanset) | N/A |
-| 28 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
-| 29 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
-| 30 | [Politiet](http://twitter.com/search?q=Politiet) | N/A |
-| 31 | [go - paris major eu rmr b](http://twitter.com/search?q=go+-+paris+major+eu+rmr+b) | N/A |
-| 32 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
-| 33 | [ekstra bladet](http://twitter.com/search?q=ekstra+bladet) | N/A |
-| 34 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
+| 17 | [Socialdemokratiet](http://twitter.com/search?q=Socialdemokratiet) | N/A |
+| 18 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 19 | [Skat](http://twitter.com/search?q=Skat) | N/A |
+| 20 | [Barnets Lov](http://twitter.com/search?q=Barnets+Lov) | N/A |
+| 21 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 22 | [Astralis](http://twitter.com/search?q=Astralis) | N/A |
+| 23 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 24 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 25 | [Held](http://twitter.com/search?q=Held) | N/A |
+| 26 | [Uanset](http://twitter.com/search?q=Uanset) | N/A |
+| 27 | [Venstre](http://twitter.com/search?q=Venstre) | N/A |
+| 28 | [folketingets](http://twitter.com/search?q=folketingets) | N/A |
+| 29 | [Politiet](http://twitter.com/search?q=Politiet) | N/A |
+| 30 | [go - paris major eu rmr b](http://twitter.com/search?q=go+-+paris+major+eu+rmr+b) | N/A |
+| 31 | [Syrien](http://twitter.com/search?q=Syrien) | N/A |
+| 32 | [ekstra bladet](http://twitter.com/search?q=ekstra+bladet) | N/A |
+| 33 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
+| 34 | [Aalborg](http://twitter.com/search?q=Aalborg) | N/A |
 | 35 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 36 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | N/A |
 | 37 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 38 | [Pentagon](http://twitter.com/search?q=Pentagon) | Pentagon is a term used to describe a five-sided polygon or a five-sided building. It is derived from the Greek word "pentagonon" which means "five angles". In English, it is used to refer to the headquarters of the United States Department of Defense, located in Arlington, Virginia. |
-| 39 | [Bornholm](http://twitter.com/search?q=Bornholm) | N/A |
-| 40 | [Manden](http://twitter.com/search?q=Manden) | N/A |
-| 41 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
-| 42 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
-| 43 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
-| 44 | [ruslands](http://twitter.com/search?q=ruslands) | N/A |
-| 45 | [Jamen](http://twitter.com/search?q=Jamen) | N/A |
-| 46 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
-| 47 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 48 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 49 | [Troede](http://twitter.com/search?q=Troede) | N/A |
-| 50 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
+| 38 | [Manden](http://twitter.com/search?q=Manden) | N/A |
+| 39 | [Borgen](http://twitter.com/search?q=Borgen) | N/A |
+| 40 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 41 | [ruslands](http://twitter.com/search?q=ruslands) | N/A |
+| 42 | [Fedt](http://twitter.com/search?q=Fedt) | N/A |
+| 43 | [Jamen](http://twitter.com/search?q=Jamen) | N/A |
+| 44 | [Tyskland](http://twitter.com/search?q=Tyskland) | N/A |
+| 45 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 46 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 47 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 48 | [Troede](http://twitter.com/search?q=Troede) | N/A |
+| 49 | [Rasmus](http://twitter.com/search?q=Rasmus) | N/A |
+| 50 | [åbenbart](http://twitter.com/search?q=%c3%a5benbart) | N/A |
 
 
 

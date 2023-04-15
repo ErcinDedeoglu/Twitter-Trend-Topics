@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-04-14 23:16:45 UTC`
+📆 Last Updated: `2023-04-15 00:27:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
-| 2 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
-| 3 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
-| 4 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 5 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
-| 6 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
-| 7 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 8 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
-| 9 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 10 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 11 | [Rigamonti](http://twitter.com/search?q=Rigamonti) | N/A |
-| 12 | [Talca](http://twitter.com/search?q=Talca) | N/A |
-| 13 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 14 | [#PALvsCSLxTNTSports](http://twitter.com/search?q=%23PALvsCSLxTNTSports) | N/A |
-| 15 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
-| 16 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
-| 17 | [Decide](http://twitter.com/search?q=Decide) | N/A |
-| 18 | [#VolverANacer](http://twitter.com/search?q=%23VolverANacer) | N/A |
-| 19 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
-| 20 | [La Cisterna](http://twitter.com/search?q=La+Cisterna) | N/A |
-| 21 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
-| 22 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 23 | [Las Condes](http://twitter.com/search?q=Las+Condes) | N/A |
-| 24 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
-| 25 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
-| 26 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
-| 27 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
-| 28 | [Cecilio Waterman](http://twitter.com/search?q=Cecilio+Waterman) | N/A |
-| 29 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 3 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
+| 4 | [La Polar](http://twitter.com/search?q=La+Polar) | La Polar is a Chilean department store chain. It is one of the largest retail chains in Chile, with over 200 stores located throughout the country. The name La Polar translates to "The North Pole" in English. |
+| 5 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
+| 6 | [Ñublense](http://twitter.com/search?q=%c3%91ublense) | Ñublense is a Chilean football club based in the city of Chillán. The club's name is derived from the Mapudungun language, meaning "people of the sun". |
+| 7 | [#AlmaNegraTVN](http://twitter.com/search?q=%23AlmaNegraTVN) | N/A |
+| 8 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
+| 9 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
+| 10 | [#LaRojaEnTVN](http://twitter.com/search?q=%23LaRojaEnTVN) | N/A |
+| 11 | [#ÑUBvsCOQxTNTSports](http://twitter.com/search?q=%23%c3%91UBvsCOQxTNTSports) | N/A |
+| 12 | [Coquimbo](http://twitter.com/search?q=Coquimbo) | N/A |
+| 13 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 14 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 15 | [#100Indecisos](http://twitter.com/search?q=%23100Indecisos) | N/A |
+| 16 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 17 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
+| 18 | [Pato Rubio](http://twitter.com/search?q=Pato+Rubio) | N/A |
+| 19 | [Talca](http://twitter.com/search?q=Talca) | N/A |
+| 20 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 21 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
+| 22 | [Pablo Maltés](http://twitter.com/search?q=Pablo+Malt%c3%a9s) | N/A |
+| 23 | [La Florida](http://twitter.com/search?q=La+Florida) | N/A |
+| 24 | [Decide](http://twitter.com/search?q=Decide) | N/A |
+| 25 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 26 | [Las Condes](http://twitter.com/search?q=Las+Condes) | N/A |
+| 27 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 28 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
+| 29 | [Oportunista](http://twitter.com/search?q=Oportunista) | N/A |
 | 30 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
-| 31 | [Rodrigo del Valle](http://twitter.com/search?q=Rodrigo+del+Valle) | N/A |
-| 32 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
-| 33 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
-| 34 | [Suazo](http://twitter.com/search?q=Suazo) | N/A |
-| 35 | [María Luisa Godoy](http://twitter.com/search?q=Mar%c3%ada+Luisa+Godoy) | N/A |
-| 36 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
-| 37 | [Cobreloa](http://twitter.com/search?q=Cobreloa) | N/A |
-| 38 | [Tere Marinovic](http://twitter.com/search?q=Tere+Marinovic) | N/A |
-| 39 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 40 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 41 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 42 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
-| 43 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 44 | [Mauricio Israel](http://twitter.com/search?q=Mauricio+Israel) | N/A |
-| 45 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 46 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 47 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
-| 48 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 49 | [Guevara](http://twitter.com/search?q=Guevara) | N/A |
+| 31 | [Carla Zunino](http://twitter.com/search?q=Carla+Zunino) | N/A |
+| 32 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 33 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
+| 34 | [Rigamonti](http://twitter.com/search?q=Rigamonti) | N/A |
+| 35 | [Rodrigo del Valle](http://twitter.com/search?q=Rodrigo+del+Valle) | N/A |
+| 36 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 37 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
+| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 39 | [Waterman](http://twitter.com/search?q=Waterman) | N/A |
+| 40 | [Tasadores](http://twitter.com/search?q=Tasadores) | N/A |
+| 41 | [María Luisa Godoy](http://twitter.com/search?q=Mar%c3%ada+Luisa+Godoy) | N/A |
+| 42 | [Incompetente](http://twitter.com/search?q=Incompetente) | N/A |
+| 43 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
+| 44 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 45 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 46 | [Cataldo](http://twitter.com/search?q=Cataldo) | N/A |
+| 47 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 48 | [Guatona](http://twitter.com/search?q=Guatona) | N/A |
+| 49 | [Octubrismo ABC1](http://twitter.com/search?q=Octubrismo+ABC1) | N/A |
 
 
 

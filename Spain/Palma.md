@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-04-14 23:16:56 UTC`
+📆 Last Updated: `2023-04-15 00:27:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#TCMS3](http://twitter.com/search?q=%23TCMS3) | N/A |
-| 2 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
-| 3 | [#Solos14A](http://twitter.com/search?q=%23Solos14A) | N/A |
-| 4 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 5 | [#Los40PrimaveraPop](http://twitter.com/search?q=%23Los40PrimaveraPop) | N/A |
-| 6 | [Merche](http://twitter.com/search?q=Merche) | N/A |
-| 7 | [Josie](http://twitter.com/search?q=Josie) | N/A |
-| 8 | [Carlos Tena](http://twitter.com/search?q=Carlos+Tena) | N/A |
-| 9 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 10 | [Paracuellos](http://twitter.com/search?q=Paracuellos) | N/A |
-| 11 | [Moi Gómez](http://twitter.com/search?q=Moi+G%c3%b3mez) | N/A |
-| 12 | [Eibar](http://twitter.com/search?q=Eibar) | N/A |
-| 13 | [Cher](http://twitter.com/search?q=Cher) | N/A |
-| 14 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
-| 15 | [Isi Palazón](http://twitter.com/search?q=Isi+Palaz%c3%b3n) | N/A |
-| 16 | [Ley de Vivienda](http://twitter.com/search?q=Ley+de+Vivienda) | N/A |
-| 17 | [Jadel](http://twitter.com/search?q=Jadel) | N/A |
-| 18 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 19 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
-| 20 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
+| 2 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
+| 3 | [#SVGala7](http://twitter.com/search?q=%23SVGala7) | N/A |
+| 4 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 5 | [#Solos14A](http://twitter.com/search?q=%23Solos14A) | N/A |
+| 6 | [#EufòriaTV3](http://twitter.com/search?q=%23Euf%c3%b2riaTV3) | N/A |
+| 7 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 8 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 9 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 10 | [Merche](http://twitter.com/search?q=Merche) | N/A |
+| 11 | [Josie](http://twitter.com/search?q=Josie) | N/A |
+| 12 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 13 | [Ley de Vivienda](http://twitter.com/search?q=Ley+de+Vivienda) | N/A |
+| 14 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 15 | [Carlos Tena](http://twitter.com/search?q=Carlos+Tena) | N/A |
+| 16 | [Cher](http://twitter.com/search?q=Cher) | N/A |
+| 17 | [Gaming Days](http://twitter.com/search?q=Gaming+Days) | N/A |
+| 18 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
+| 19 | [Paracuellos](http://twitter.com/search?q=Paracuellos) | N/A |
+| 20 | [Isi Palazón](http://twitter.com/search?q=Isi+Palaz%c3%b3n) | N/A |
 | 21 | [Zalgiris](http://twitter.com/search?q=Zalgiris) | N/A |
-| 22 | [Aridane](http://twitter.com/search?q=Aridane) | N/A |
-| 23 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 24 | [Euroliga](http://twitter.com/search?q=Euroliga) | N/A |
-| 25 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
-| 26 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 27 | [Susi](http://twitter.com/search?q=Susi) | N/A |
-| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 29 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
-| 30 | [Carlos Belmonte](http://twitter.com/search?q=Carlos+Belmonte) | N/A |
-| 31 | [Kaunas](http://twitter.com/search?q=Kaunas) | N/A |
-| 32 | [Anne](http://twitter.com/search?q=Anne) | N/A |
-| 33 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 34 | [Maccabi](http://twitter.com/search?q=Maccabi) | N/A |
-| 35 | [Ana Mena](http://twitter.com/search?q=Ana+Mena) | Ana Mena is a Spanish singer and songwriter. Her name translates to "I am me" in English, which reflects her independent spirit and her commitment to staying true to herself. |
-| 36 | [Makoto Shinkai](http://twitter.com/search?q=Makoto+Shinkai) | N/A |
-| 37 | [Nacho Vidal](http://twitter.com/search?q=Nacho+Vidal) | N/A |
-| 38 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
-| 39 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 40 | [Abraham Mateo](http://twitter.com/search?q=Abraham+Mateo) | N/A |
-| 41 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 42 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 43 | [Lola Índigo](http://twitter.com/search?q=Lola+%c3%8dndigo) | N/A |
-| 44 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 45 | [#LaReunionSecreta](http://twitter.com/search?q=%23LaReunionSecreta) | N/A |
-| 46 | [#RayoOsasuna](http://twitter.com/search?q=%23RayoOsasuna) | N/A |
-| 47 | [#mamaobregon](http://twitter.com/search?q=%23mamaobregon) | N/A |
-| 48 | [#TuCaraMeSuena](http://twitter.com/search?q=%23TuCaraMeSuena) | N/A |
+| 22 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 23 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 24 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 25 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 26 | [Ladilla Rusa](http://twitter.com/search?q=Ladilla+Rusa) | N/A |
+| 27 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 28 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 29 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 30 | [nianzou](http://twitter.com/search?q=nianzou) | N/A |
+| 31 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
+| 32 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
+| 33 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 34 | [Beatriz Flamini](http://twitter.com/search?q=Beatriz+Flamini) | N/A |
+| 35 | [Mendilibar](http://twitter.com/search?q=Mendilibar) | N/A |
+| 36 | [Moi Gómez](http://twitter.com/search?q=Moi+G%c3%b3mez) | N/A |
+| 37 | [Quevedo](http://twitter.com/search?q=Quevedo) | Quevedo is a Spanish surname derived from the town of Quevedo in the province of Valladolid, Spain. The name is derived from the Latin word quercus, meaning "oak tree". In English, it can be translated to mean "from the oak tree". |
+| 38 | [Juanita Reina](http://twitter.com/search?q=Juanita+Reina) | N/A |
+| 39 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 40 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 41 | [Feliz 14](http://twitter.com/search?q=Feliz+14) | N/A |
+| 42 | [Oshi](http://twitter.com/search?q=Oshi) | N/A |
+| 43 | [The Killers](http://twitter.com/search?q=The+Killers) | N/A |
+| 44 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 45 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 46 | [Maccabi](http://twitter.com/search?q=Maccabi) | N/A |
+| 47 | [Chanel](http://twitter.com/search?q=Chanel) | Chanel is a French luxury fashion house founded by Gabrielle “Coco” Chanel in 1909. The brand is known for its iconic designs, such as the little black dress, quilted handbags, and the Chanel No. 5 perfume. The name Chanel is derived from the French word chanel, meaning “channel” or “pipe”. |
+| 48 | [El Albacete](http://twitter.com/search?q=El+Albacete) | N/A |
 
 
 

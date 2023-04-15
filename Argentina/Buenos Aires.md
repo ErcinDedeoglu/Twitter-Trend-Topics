@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-04-14 23:16:49 UTC`
+📆 Last Updated: `2023-04-15 00:27:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chouza](http://twitter.com/search?q=Chouza) | N/A |
-| 2 | [#inflacion](http://twitter.com/search?q=%23inflacion) | N/A |
-| 3 | [#VOLEYenDEPORTV](http://twitter.com/search?q=%23VOLEYenDEPORTV) | N/A |
-| 4 | [Santi López](http://twitter.com/search?q=Santi+L%c3%b3pez) | N/A |
-| 5 | [#ElNorteASeguir](http://twitter.com/search?q=%23ElNorteASeguir) | N/A |
-| 6 | [#ElPeorGobiernoDeLaHistoria](http://twitter.com/search?q=%23ElPeorGobiernoDeLaHistoria) | N/A |
-| 7 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Ezeiza](http://twitter.com/search?q=Ezeiza) | N/A |
+| 3 | [Dillom](http://twitter.com/search?q=Dillom) | N/A |
+| 4 | [Chouza](http://twitter.com/search?q=Chouza) | N/A |
+| 5 | [#inflacion](http://twitter.com/search?q=%23inflacion) | N/A |
+| 6 | [#VOLEYenDEPORTV](http://twitter.com/search?q=%23VOLEYenDEPORTV) | N/A |
+| 7 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
 | 8 | [Tombolini](http://twitter.com/search?q=Tombolini) | N/A |
-| 9 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 9 | [#ElNorteASeguir](http://twitter.com/search?q=%23ElNorteASeguir) | N/A |
 | 10 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 11 | [Migliore](http://twitter.com/search?q=Migliore) | N/A |
-| 12 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
-| 13 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
-| 14 | [gaga](http://twitter.com/search?q=gaga) | N/A |
-| 15 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
-| 16 | [Marzo 7,7%](http://twitter.com/search?q=Marzo+7%2c7%25) | N/A |
-| 17 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 18 | [Gracias Macri](http://twitter.com/search?q=Gracias+Macri) | N/A |
-| 19 | [CONE Y COTY AL BAILANDO](http://twitter.com/search?q=CONE+Y+COTY+AL+BAILANDO) | N/A |
-| 20 | [Becas Progresar](http://twitter.com/search?q=Becas+Progresar) | N/A |
-| 21 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 22 | [Renuncien](http://twitter.com/search?q=Renuncien) | N/A |
-| 23 | [Guzmán](http://twitter.com/search?q=Guzm%c3%a1n) | N/A |
-| 24 | [Telam](http://twitter.com/search?q=Telam) | N/A |
-| 25 | [Juan Román Riquelme](http://twitter.com/search?q=Juan+Rom%c3%a1n+Riquelme) | N/A |
-| 26 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 27 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 28 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 29 | [Previaje 4](http://twitter.com/search?q=Previaje+4) | N/A |
-| 30 | [Cacho Garay](http://twitter.com/search?q=Cacho+Garay) | N/A |
-| 31 | [Maratea](http://twitter.com/search?q=Maratea) | N/A |
-| 32 | [Peralta](http://twitter.com/search?q=Peralta) | N/A |
-| 33 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 34 | [#integracionharrie](http://twitter.com/search?q=%23integracionharrie) | N/A |
-| 35 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
-| 36 | [#AeropuertoEzeiza](http://twitter.com/search?q=%23AeropuertoEzeiza) | N/A |
-| 37 | [#Aldosivi](http://twitter.com/search?q=%23Aldosivi) | N/A |
-| 38 | [#GobiernoDeInutiles](http://twitter.com/search?q=%23GobiernoDeInutiles) | N/A |
-| 39 | [#SeVan](http://twitter.com/search?q=%23SeVan) | N/A |
-| 40 | [#CantaConmigoAhora](http://twitter.com/search?q=%23CantaConmigoAhora) | N/A |
-| 41 | [#ALaTarde](http://twitter.com/search?q=%23ALaTarde) | N/A |
-| 42 | [#ElPeorPresidenteDeLaHistoria](http://twitter.com/search?q=%23ElPeorPresidenteDeLaHistoria) | N/A |
-| 43 | [#LaMegaFrodo](http://twitter.com/search?q=%23LaMegaFrodo) | N/A |
-| 44 | [#TUGO](http://twitter.com/search?q=%23TUGO) | N/A |
-| 45 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 46 | [#CreoEnArgentina](http://twitter.com/search?q=%23CreoEnArgentina) | N/A |
+| 12 | [Santi López](http://twitter.com/search?q=Santi+L%c3%b3pez) | N/A |
+| 13 | [#ElPeorGobiernoDeLaHistoria](http://twitter.com/search?q=%23ElPeorGobiernoDeLaHistoria) | N/A |
+| 14 | [Massa](http://twitter.com/search?q=Massa) | N/A |
+| 15 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 16 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
+| 17 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 18 | [Cerruti](http://twitter.com/search?q=Cerruti) | N/A |
+| 19 | [TUGO](http://twitter.com/search?q=TUGO) | N/A |
+| 20 | [INDEC](http://twitter.com/search?q=INDEC) | N/A |
+| 21 | [Gracias Macri](http://twitter.com/search?q=Gracias+Macri) | N/A |
+| 22 | [Ostachuk](http://twitter.com/search?q=Ostachuk) | N/A |
+| 23 | [gaga](http://twitter.com/search?q=gaga) | N/A |
+| 24 | [Lourdes](http://twitter.com/search?q=Lourdes) | Lourdes is a small town in the south of France that is known as a Catholic pilgrimage site. It is believed that the Virgin Mary appeared to a young girl named Bernadette Soubirous in 1858, and since then, millions of people have visited the site in search of healing and spiritual renewal. The name Lourdes comes from the French word for "Lord," which is a reference to the Marian apparition. |
+| 25 | [Ushuaia](http://twitter.com/search?q=Ushuaia) | N/A |
+| 26 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 27 | [Long Beach](http://twitter.com/search?q=Long+Beach) | N/A |
+| 28 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 29 | [Inútil](http://twitter.com/search?q=In%c3%batil) | N/A |
+| 30 | [Cilindro](http://twitter.com/search?q=Cilindro) | N/A |
+| 31 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 32 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 33 | [Marzo 7,7%](http://twitter.com/search?q=Marzo+7%2c7%25) | N/A |
+| 34 | [Telam](http://twitter.com/search?q=Telam) | N/A |
+| 35 | [Guzmán](http://twitter.com/search?q=Guzm%c3%a1n) | N/A |
+| 36 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
+| 37 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 38 | [Juan Román Riquelme](http://twitter.com/search?q=Juan+Rom%c3%a1n+Riquelme) | N/A |
+| 39 | [Senasa](http://twitter.com/search?q=Senasa) | N/A |
+| 40 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 41 | [Diana Mondino](http://twitter.com/search?q=Diana+Mondino) | N/A |
+| 42 | [CONE Y COTY AL BAILANDO](http://twitter.com/search?q=CONE+Y+COTY+AL+BAILANDO) | N/A |
+| 43 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
+| 44 | [PreViaje 4](http://twitter.com/search?q=PreViaje+4) | N/A |
+| 45 | [#Sub17](http://twitter.com/search?q=%23Sub17) | N/A |
+| 46 | [#TorneoProyección](http://twitter.com/search?q=%23TorneoProyecci%c3%b3n) | N/A |
+| 47 | [#HarryStyles](http://twitter.com/search?q=%23HarryStyles) | N/A |
+| 48 | [#integracionharrie](http://twitter.com/search?q=%23integracionharrie) | N/A |
+| 49 | [#Aldosivi](http://twitter.com/search?q=%23Aldosivi) | N/A |
+| 50 | [#CantaConmigoAhora](http://twitter.com/search?q=%23CantaConmigoAhora) | N/A |
 
 
 

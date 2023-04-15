@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-04-14 23:16:39 UTC`
+📆 Last Updated: `2023-04-15 00:27:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 2 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
-| 3 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 2 | [Degen](http://twitter.com/search?q=Degen) | N/A |
+| 3 | [Bruce](http://twitter.com/search?q=Bruce) | Bruce is a masculine given name of Scottish origin, derived from the French word "bruis" meaning "the one from the brushwood". It is also a surname, derived from the same root. |
 | 4 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 5 | [Telford](http://twitter.com/search?q=Telford) | N/A |
-| 6 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 7 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
-| 8 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 9 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
-| 10 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
-| 11 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 12 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
-| 13 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 5 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
+| 6 | [Max Strus](http://twitter.com/search?q=Max+Strus) | N/A |
+| 7 | [Telford](http://twitter.com/search?q=Telford) | N/A |
+| 8 | [Brandon Belt](http://twitter.com/search?q=Brandon+Belt) | Brandon Belt is a professional baseball player who plays for the San Francisco Giants. He is a first baseman and outfielder. The phrase "Brandon Belt" is used to refer to the player himself. |
+| 9 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
+| 10 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 11 | [Happy Vaisakhi](http://twitter.com/search?q=Happy+Vaisakhi) | N/A |
+| 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 13 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 14 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 15 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 16 | [Peter Laviolette](http://twitter.com/search?q=Peter+Laviolette) | N/A |
-| 17 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 18 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 19 | [Degen](http://twitter.com/search?q=Degen) | N/A |
-| 20 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
-| 21 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 22 | [Sega](http://twitter.com/search?q=Sega) | N/A |
-| 23 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 25 | [Angry Birds](http://twitter.com/search?q=Angry+Birds) | N/A |
-| 26 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
-| 27 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
-| 28 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 29 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 30 | [#CriticalRoleSpoilers](http://twitter.com/search?q=%23CriticalRoleSpoilers) | #CriticalRoleSpoilers is a hashtag used on social media to warn people that a post contains spoilers for the popular Dungeons & Dragons web series Critical Role. It is used to alert viewers who have not yet seen the episode or read the source material that the post contains information that could spoil their experience. |
-| 31 | [Régine](http://twitter.com/search?q=R%c3%a9gine) | N/A |
-| 32 | [DeBrincat](http://twitter.com/search?q=DeBrincat) | N/A |
-| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [Garrioch](http://twitter.com/search?q=Garrioch) | N/A |
-| 35 | [Rays](http://twitter.com/search?q=Rays) | N/A |
-| 36 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
-| 37 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 38 | [Tiffany](http://twitter.com/search?q=Tiffany) | N/A |
-| 39 | [Game 82](http://twitter.com/search?q=Game+82) | N/A |
-| 40 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
-| 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 42 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 43 | [condotta](http://twitter.com/search?q=condotta) | N/A |
+| 15 | [Rays](http://twitter.com/search?q=Rays) | N/A |
+| 16 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
+| 17 | [#LoveIsBlind](http://twitter.com/search?q=%23LoveIsBlind) | N/A |
+| 18 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 19 | [Springer Dinger](http://twitter.com/search?q=Springer+Dinger) | N/A |
+| 20 | [Allan Rock](http://twitter.com/search?q=Allan+Rock) | N/A |
+| 21 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
+| 22 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 23 | [Rasmussen](http://twitter.com/search?q=Rasmussen) | N/A |
+| 24 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 25 | [#NextLevel](http://twitter.com/search?q=%23NextLevel) | N/A |
+| 26 | [Budda Baker](http://twitter.com/search?q=Budda+Baker) | N/A |
+| 27 | [Peter Laviolette](http://twitter.com/search?q=Peter+Laviolette) | N/A |
+| 28 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 29 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
+| 30 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 31 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 32 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
+| 33 | [Varsho](http://twitter.com/search?q=Varsho) | Varsho is a Gujarati word that means "year". In English, it can be used to refer to a period of time or an anniversary. |
+| 34 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 35 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 36 | [Staged](http://twitter.com/search?q=Staged) | Staged is a term used to describe a situation that has been deliberately set up or arranged. It can refer to an event, a performance, or a scene that has been carefully planned and orchestrated in order to achieve a desired effect. |
+| 37 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 38 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 39 | [Régine](http://twitter.com/search?q=R%c3%a9gine) | N/A |
+| 40 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
+| 41 | [Game 82](http://twitter.com/search?q=Game+82) | N/A |
+| 42 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 44 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 45 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 46 | [Gorton](http://twitter.com/search?q=Gorton) | N/A |
-| 47 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 48 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 45 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 46 | [Jansen](http://twitter.com/search?q=Jansen) | Jansen is a Dutch surname derived from the given name Jan. It is the most common surname in the Netherlands, and it is also found in Belgium, Germany, France, and other countries. In English, it means "son of Jan". |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 48 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 49 | [Gold Cup](http://twitter.com/search?q=Gold+Cup) | N/A |
+| 50 | [XDefiant](http://twitter.com/search?q=XDefiant) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-04-14 23:17:14 UTC`
+📆 Last Updated: `2023-04-15 00:28:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#AmbedkarJayanti](http://twitter.com/search?q=%23AmbedkarJayanti) | N/A |
 | 2 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 3 | [#JaiBhim](http://twitter.com/search?q=%23JaiBhim) | N/A |
-| 4 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 5 | [#HiddenSecretsInQuran](http://twitter.com/search?q=%23HiddenSecretsInQuran) | N/A |
-| 6 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
-| 7 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
+| 3 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
+| 4 | [#JaiBhim](http://twitter.com/search?q=%23JaiBhim) | N/A |
+| 5 | [भीमराव अंबेडकर](http://twitter.com/search?q=%e0%a4%ad%e0%a5%80%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%85%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 6 | [#HiddenSecretsInQuran](http://twitter.com/search?q=%23HiddenSecretsInQuran) | N/A |
+| 7 | [Allah Kabir](http://twitter.com/search?q=Allah+Kabir) | N/A |
 | 8 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
 | 9 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
-| 10 | [Indian Constitution](http://twitter.com/search?q=Indian+Constitution) | N/A |
-| 11 | [Rinku Singh](http://twitter.com/search?q=Rinku+Singh) | N/A |
-| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 10 | [Satyapal Malik](http://twitter.com/search?q=Satyapal+Malik) | N/A |
+| 11 | [Indian Constitution](http://twitter.com/search?q=Indian+Constitution) | N/A |
+| 12 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
 | 13 | [आधुनिक भारत](http://twitter.com/search?q=%e0%a4%86%e0%a4%a7%e0%a5%81%e0%a4%a8%e0%a4%bf%e0%a4%95+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
 | 14 | [विकास दुबे](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%95%e0%a4%be%e0%a4%b8+%e0%a4%a6%e0%a5%81%e0%a4%ac%e0%a5%87) | N/A |
-| 15 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
-| 16 | [असद अहमद](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
-| 17 | [Nitish Rana](http://twitter.com/search?q=Nitish+Rana) | N/A |
-| 18 | [Yogi](http://twitter.com/search?q=Yogi) | N/A |
-| 19 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
-| 20 | [youngji](http://twitter.com/search?q=youngji) | Youngji is a Korean term that literally translates to “younger sister”. It is used to refer to a younger female friend or acquaintance, and is often used as an affectionate term of endearment. |
-| 21 | [बाबासाहेब आंबेडकर](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac+%e0%a4%86%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
-| 22 | [Lockie](http://twitter.com/search?q=Lockie) | N/A |
-| 23 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
-| 24 | [Raneji Make Pendrive Public](http://twitter.com/search?q=Raneji+Make+Pendrive+Public) | N/A |
-| 25 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 26 | [Umesh Pal](http://twitter.com/search?q=Umesh+Pal) | N/A |
-| 27 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
-| 28 | [C Sharma](http://twitter.com/search?q=C+Sharma) | N/A |
-| 29 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 30 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 31 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
-| 32 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 15 | [असद अहमद](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%a6+%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6) | N/A |
+| 16 | [Yogi](http://twitter.com/search?q=Yogi) | N/A |
+| 17 | [जलियांवाला बाग](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b2%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a4%be%e0%a4%b2%e0%a4%be+%e0%a4%ac%e0%a4%be%e0%a4%97) | N/A |
+| 18 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 19 | [बाबासाहेब आंबेडकर](http://twitter.com/search?q=%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac+%e0%a4%86%e0%a4%82%e0%a4%ac%e0%a5%87%e0%a4%a1%e0%a4%95%e0%a4%b0) | N/A |
+| 20 | [24H Volume](http://twitter.com/search?q=24H+Volume) | N/A |
+| 21 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
+| 22 | [हजरत मुहम्मद](http://twitter.com/search?q=%e0%a4%b9%e0%a4%9c%e0%a4%b0%e0%a4%a4+%e0%a4%ae%e0%a5%81%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6) | N/A |
+| 23 | [Raneji Make Pendrive Public](http://twitter.com/search?q=Raneji+Make+Pendrive+Public) | N/A |
+| 24 | [Umesh Pal](http://twitter.com/search?q=Umesh+Pal) | N/A |
+| 25 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
+| 26 | [आदित्य राणा](http://twitter.com/search?q=%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%a3%e0%a4%be) | N/A |
+| 27 | [Achraf Hakimi](http://twitter.com/search?q=Achraf+Hakimi) | N/A |
+| 28 | [Rinku](http://twitter.com/search?q=Rinku) | N/A |
+| 29 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 30 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 31 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 32 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
 | 33 | [PETA](http://twitter.com/search?q=PETA) | N/A |
-| 34 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 36 | [Lendl S](http://twitter.com/search?q=Lendl+S) | N/A |
-| 37 | [Dr. Reddy Cricket Stadium](http://twitter.com/search?q=Dr.+Reddy+Cricket+Stadium) | N/A |
-| 38 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 39 | [Market Cap](http://twitter.com/search?q=Market+Cap) | N/A |
-| 40 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 41 | [S Marsh](http://twitter.com/search?q=S+Marsh) | N/A |
-| 42 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
-| 43 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 44 | [Davinder Singh](http://twitter.com/search?q=Davinder+Singh) | N/A |
-| 45 | [Ganesha](http://twitter.com/search?q=Ganesha) | N/A |
-| 46 | [KBKJ ARRIVES IN ONE WEEK](http://twitter.com/search?q=KBKJ+ARRIVES+IN+ONE+WEEK) | N/A |
-| 47 | [Punk](http://twitter.com/search?q=Punk) | N/A |
-| 48 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 34 | [C Sharma](http://twitter.com/search?q=C+Sharma) | N/A |
+| 35 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 37 | [Wriddhiman S](http://twitter.com/search?q=Wriddhiman+S) | N/A |
+| 38 | [Russell](http://twitter.com/search?q=Russell) | N/A |
+| 39 | [Holkar Cricket Stadium](http://twitter.com/search?q=Holkar+Cricket+Stadium) | N/A |
+| 40 | [Lendl S](http://twitter.com/search?q=Lendl+S) | N/A |
+| 41 | [$SFUND](http://twitter.com/search?q=%24SFUND) | N/A |
+| 42 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 43 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 44 | [Punk](http://twitter.com/search?q=Punk) | N/A |
+| 45 | [S Marsh](http://twitter.com/search?q=S+Marsh) | N/A |
+| 46 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 47 | [Godi](http://twitter.com/search?q=Godi) | N/A |
+| 48 | [Bhuvi](http://twitter.com/search?q=Bhuvi) | N/A |
 
 
 

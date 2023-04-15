@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-04-14 23:17:32 UTC`
+📆 Last Updated: `2023-04-15 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
-| 2 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 1 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
+| 2 | [#LateNightLycett](http://twitter.com/search?q=%23LateNightLycett) | N/A |
 | 3 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 4 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
-| 5 | [Boro](http://twitter.com/search?q=Boro) | N/A |
-| 6 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 7 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
-| 8 | [#gogglebox](http://twitter.com/search?q=%23gogglebox) | N/A |
-| 9 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
-| 10 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 11 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
-| 12 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 13 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
-| 14 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 15 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 16 | [Larne](http://twitter.com/search?q=Larne) | N/A |
-| 17 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
-| 18 | [Aberdeen](http://twitter.com/search?q=Aberdeen) | Aberdeen is a city in Scotland, located on the northeast coast of the country. It is the third-largest city in Scotland and the largest in Aberdeenshire. The name Aberdeen comes from the Gaelic words "aber" meaning "mouth of the river" and "dun" meaning "fort". |
-| 19 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 20 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 21 | [Mayo for Sam](http://twitter.com/search?q=Mayo+for+Sam) | N/A |
-| 22 | [Mowatt](http://twitter.com/search?q=Mowatt) | N/A |
-| 23 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 24 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 25 | [Harry Smith](http://twitter.com/search?q=Harry+Smith) | N/A |
-| 26 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 27 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
-| 28 | [Webber](http://twitter.com/search?q=Webber) | N/A |
-| 29 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 30 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
-| 31 | [Max Aarons](http://twitter.com/search?q=Max+Aarons) | N/A |
-| 32 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 33 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 34 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 35 | [Not the North](http://twitter.com/search?q=Not+the+North) | N/A |
-| 36 | [Joan Collins](http://twitter.com/search?q=Joan+Collins) | N/A |
-| 37 | [Wellens](http://twitter.com/search?q=Wellens) | N/A |
-| 38 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
-| 39 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 40 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
-| 41 | [Akpom](http://twitter.com/search?q=Akpom) | N/A |
+| 4 | [Justice for the 97](http://twitter.com/search?q=Justice+for+the+97) | N/A |
+| 5 | [#ncfc](http://twitter.com/search?q=%23ncfc) | N/A |
+| 6 | [Boro](http://twitter.com/search?q=Boro) | N/A |
+| 7 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 8 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
+| 9 | [#gogglebox](http://twitter.com/search?q=%23gogglebox) | N/A |
+| 10 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 11 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 12 | [Wigan](http://twitter.com/search?q=Wigan) | N/A |
+| 13 | [RIP Mark](http://twitter.com/search?q=RIP+Mark) | N/A |
+| 14 | [Ballina](http://twitter.com/search?q=Ballina) | N/A |
+| 15 | [Larne](http://twitter.com/search?q=Larne) | N/A |
+| 16 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
+| 17 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 18 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 19 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 20 | [Unison](http://twitter.com/search?q=Unison) | N/A |
+| 21 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 22 | [Aberdeen](http://twitter.com/search?q=Aberdeen) | Aberdeen is a city in Scotland, located on the northeast coast of the country. It is the third-largest city in Scotland and the largest in Aberdeenshire. The name Aberdeen comes from the Gaelic words "aber" meaning "mouth of the river" and "dun" meaning "fort". |
+| 23 | [Mowatt](http://twitter.com/search?q=Mowatt) | N/A |
+| 24 | [The Script](http://twitter.com/search?q=The+Script) | N/A |
+| 25 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
+| 26 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 27 | [Harry Smith](http://twitter.com/search?q=Harry+Smith) | N/A |
+| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 29 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 30 | [Webber](http://twitter.com/search?q=Webber) | N/A |
+| 31 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 32 | [Not the North](http://twitter.com/search?q=Not+the+North) | N/A |
+| 33 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 34 | [Wellens](http://twitter.com/search?q=Wellens) | N/A |
+| 35 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 36 | [Middlesbrough](http://twitter.com/search?q=Middlesbrough) | N/A |
+| 37 | [Jurgen](http://twitter.com/search?q=Jurgen) | Jurgen is a German name derived from the Germanic elements "gari" meaning spear and "wald" meaning rule. It is also a variant of the name George, which means farmer or earthworker. |
+| 38 | [Wire](http://twitter.com/search?q=Wire) | N/A |
+| 39 | [Borg](http://twitter.com/search?q=Borg) | N/A |
+| 40 | [Scarlets](http://twitter.com/search?q=Scarlets) | N/A |
+| 41 | [Monet](http://twitter.com/search?q=Monet) | N/A |
 | 42 | [Stephen](http://twitter.com/search?q=Stephen) | N/A |
-| 43 | [Delia](http://twitter.com/search?q=Delia) | N/A |
-| 44 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 45 | [Borg](http://twitter.com/search?q=Borg) | N/A |
-| 46 | [Glen](http://twitter.com/search?q=Glen) | N/A |
-| 47 | [Sargent](http://twitter.com/search?q=Sargent) | N/A |
-| 48 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 49 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 50 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 43 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 44 | [Kirstie](http://twitter.com/search?q=Kirstie) | N/A |
+| 45 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 46 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 47 | [Glen](http://twitter.com/search?q=Glen) | N/A |
+| 48 | [Julian Cope](http://twitter.com/search?q=Julian+Cope) | N/A |
+| 49 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 50 | [Gloucester](http://twitter.com/search?q=Gloucester) | N/A |
 
 
 

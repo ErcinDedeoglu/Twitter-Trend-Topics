@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-04-14 23:16:49 UTC`
+📆 Last Updated: `2023-04-15 00:27:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ceará](http://twitter.com/search?q=Cear%c3%a1) | Ceará is a state in northeastern Brazil. Its capital is Fortaleza. The name Ceará comes from the Tupi language and means "sings the jaguar". |
-| 2 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 3 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
-| 4 | [tracie](http://twitter.com/search?q=tracie) | N/A |
-| 5 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 6 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
-| 7 | [Heinz](http://twitter.com/search?q=Heinz) | N/A |
-| 8 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 9 | [Matheus Barbosa](http://twitter.com/search?q=Matheus+Barbosa) | N/A |
-| 10 | [Guarani](http://twitter.com/search?q=Guarani) | Guarani is an indigenous language spoken by the Guarani people of South America. It is the official language of Paraguay and is also spoken in parts of Argentina, Bolivia, and Brazil. In English, the word Guarani means "of the people". |
-| 11 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 12 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 13 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
-| 14 | [SIGA SARAH ALINE NO IG](http://twitter.com/search?q=SIGA+SARAH+ALINE+NO+IG) | N/A |
-| 15 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 16 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
-| 17 | [AMOR DA MINHA VIDA](http://twitter.com/search?q=AMOR+DA+MINHA+VIDA) | N/A |
-| 18 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
-| 19 | [Katy Perry](http://twitter.com/search?q=Katy+Perry) | N/A |
-| 20 | [#TrêsVezesAna055](http://twitter.com/search?q=%23Tr%c3%aasVezesAna055) | N/A |
-| 21 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 22 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
-| 23 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 24 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 25 | [bruyne](http://twitter.com/search?q=bruyne) | Bruyne is a Dutch surname. It is derived from the Old Dutch word "bruin", meaning "brown". |
-| 26 | [Libra](http://twitter.com/search?q=Libra) | N/A |
-| 27 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
-| 28 | [Nairobi](http://twitter.com/search?q=Nairobi) | N/A |
-| 29 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
-| 30 | [Roberta Pardo](http://twitter.com/search?q=Roberta+Pardo) | N/A |
-| 31 | [#TodaManhaVitao](http://twitter.com/search?q=%23TodaManhaVitao) | N/A |
-| 32 | [Hemmer](http://twitter.com/search?q=Hemmer) | N/A |
-| 33 | [Bambu](http://twitter.com/search?q=Bambu) | N/A |
-| 34 | [#ADona089](http://twitter.com/search?q=%23ADona089) | N/A |
-| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 36 | [Neiff](http://twitter.com/search?q=Neiff) | N/A |
-| 37 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 38 | [Ana Letícia](http://twitter.com/search?q=Ana+Let%c3%adcia) | N/A |
-| 39 | [Drag Race](http://twitter.com/search?q=Drag+Race) | N/A |
-| 40 | [Oppenheimer](http://twitter.com/search?q=Oppenheimer) | N/A |
-| 41 | [#espnfcbr](http://twitter.com/search?q=%23espnfcbr) | N/A |
-| 42 | [Robson](http://twitter.com/search?q=Robson) | N/A |
-| 43 | [Marê](http://twitter.com/search?q=Mar%c3%aa) | N/A |
-| 44 | [São Januário](http://twitter.com/search?q=S%c3%a3o+Janu%c3%a1rio) | São Januário is a football stadium located in Rio de Janeiro, Brazil. It is the home stadium of the football club Vasco da Gama. The name São Januário translates to Saint Januarius in English, and it is named after the patron saint of the city of Rio de Janeiro. |
-| 45 | [Cleópatra](http://twitter.com/search?q=Cle%c3%b3patra) | N/A |
-| 46 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 47 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 48 | [Novo Tempo](http://twitter.com/search?q=Novo+Tempo) | N/A |
-| 49 | [Esbanja](http://twitter.com/search?q=Esbanja) | N/A |
+| 1 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 2 | [Gerson](http://twitter.com/search?q=Gerson) | Gerson is a German name derived from the Hebrew name Gershom, meaning “exile” or “stranger.” It is also a variant of the English name Garth, which means “garden.” |
+| 3 | [Libra](http://twitter.com/search?q=Libra) | N/A |
+| 4 | [Gávea](http://twitter.com/search?q=G%c3%a1vea) | N/A |
+| 5 | [Gilmar Mendes](http://twitter.com/search?q=Gilmar+Mendes) | N/A |
+| 6 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 7 | [Ariel](http://twitter.com/search?q=Ariel) | Ariel is a name of Hebrew origin meaning "lion of God". It is commonly used as a given name for girls. |
+| 8 | [Palácio](http://twitter.com/search?q=Pal%c3%a1cio) | N/A |
+| 9 | [mc daniel](http://twitter.com/search?q=mc+daniel) | McDaniel is a surname of Scottish origin. It is derived from the Gaelic Mac Dhomhnuill, meaning "son of Donald". |
+| 10 | [Pato](http://twitter.com/search?q=Pato) | N/A |
+| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 12 | [tracie](http://twitter.com/search?q=tracie) | N/A |
+| 13 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 14 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 15 | [#VaiNaFé](http://twitter.com/search?q=%23VaiNaF%c3%a9) | #VaiNaFé is a Portuguese phrase that translates to "Have Faith" in English. It is often used as an encouragement to someone who is facing a difficult situation or challenge. |
+| 16 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 17 | [Avaí](http://twitter.com/search?q=Ava%c3%ad) | N/A |
+| 18 | [Orfeu](http://twitter.com/search?q=Orfeu) | N/A |
+| 19 | [#VoleiNoSporTV](http://twitter.com/search?q=%23VoleiNoSporTV) | #VoleiNoSporTV is a hashtag used by fans of volleyball in Brazil to call for more coverage of the sport on the Brazilian sports channel SporTV. In English, it translates to "Volleyball on SporTV". |
+| 20 | [Aguero](http://twitter.com/search?q=Aguero) | N/A |
+| 21 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 22 | [Heinz](http://twitter.com/search?q=Heinz) | N/A |
+| 23 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 24 | [#ChiaraXMoretti](http://twitter.com/search?q=%23ChiaraXMoretti) | N/A |
+| 25 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 26 | [#nbanoprimevideo](http://twitter.com/search?q=%23nbanoprimevideo) | N/A |
+| 27 | [Matheus Barbosa](http://twitter.com/search?q=Matheus+Barbosa) | N/A |
+| 28 | [Strus](http://twitter.com/search?q=Strus) | N/A |
+| 29 | [ORGULHO JEOVANNY SANF](http://twitter.com/search?q=ORGULHO+JEOVANNY+SANF) | N/A |
+| 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 31 | [Landim](http://twitter.com/search?q=Landim) | N/A |
+| 32 | [Choquei](http://twitter.com/search?q=Choquei) | N/A |
+| 33 | [Ivan Lins](http://twitter.com/search?q=Ivan+Lins) | N/A |
+| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 35 | [Régis](http://twitter.com/search?q=R%c3%a9gis) | N/A |
+| 36 | [Alan Costa](http://twitter.com/search?q=Alan+Costa) | N/A |
+| 37 | [Barbieri](http://twitter.com/search?q=Barbieri) | Barbieri is an Italian surname. It is derived from the Latin word "barba", meaning "beard". The name is thought to have been given to someone who had a particularly thick or long beard. In English, the name Barbieri means "bearded one". |
+| 38 | [Adrien](http://twitter.com/search?q=Adrien) | N/A |
+| 39 | [Bambu](http://twitter.com/search?q=Bambu) | N/A |
+| 40 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 41 | [Até 2024](http://twitter.com/search?q=At%c3%a9+2024) | N/A |
+| 42 | [Judas Tadeu](http://twitter.com/search?q=Judas+Tadeu) | N/A |
+| 43 | [AMOR DA MINHA VIDA](http://twitter.com/search?q=AMOR+DA+MINHA+VIDA) | N/A |
+| 44 | [Série B](http://twitter.com/search?q=S%c3%a9rie+B) | N/A |
+| 45 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
+| 46 | [SIGA SARAH ALINE NO IG](http://twitter.com/search?q=SIGA+SARAH+ALINE+NO+IG) | N/A |
+| 47 | [Bugre](http://twitter.com/search?q=Bugre) | N/A |
+| 48 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 
 
 
