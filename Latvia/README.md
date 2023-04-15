@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-15 22:26:18 UTC`
+📆 Last Updated: `2023-04-15 23:27:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for Latvia
 | 2 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | Apsveicu is a Latvian phrase that translates to "Congratulations" in English. |
 | 3 | [knab](http://twitter.com/search?q=knab) | Knab is a Swedish word meaning "to snatch" or "to grab". It is often used in the context of grabbing something quickly or unexpectedly. |
 | 4 | [vakar](http://twitter.com/search?q=vakar) | Vakar is a Lithuanian word meaning "yesterday". |
-| 5 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | Pīlēns is a Latvian word meaning "butterfly". |
-| 6 | [Azov](http://twitter.com/search?q=Azov) | Azov is a city in southern Russia, located on the northern shore of the Sea of Azov. The name Azov is derived from the Turkic word for "sea". In English, it can be translated to mean "Sea of Azov". |
-| 7 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | Kariņa is a traditional Latvian folk dance. It is a lively, fast-paced dance that involves two lines of dancers facing each other and performing a series of steps and turns. The name comes from the Latvian word for "circle". In English, it can be translated as "circle dance". |
-| 8 | [Levits](http://twitter.com/search?q=Levits) | Levits is a term used in Jewish law to refer to the laws of the Jewish people. It is derived from the Hebrew word "halacha," which means "the way" or "the path." Levits encompasses all aspects of Jewish life, including religious observance, civil law, and social customs. |
+| 5 | [Azov](http://twitter.com/search?q=Azov) | Azov is a city in southern Russia, located on the northern shore of the Sea of Azov. The name Azov is derived from the Turkic word for "sea". In English, it can be translated to mean "Sea of Azov". |
+| 6 | [kariņa](http://twitter.com/search?q=kari%c5%86a) | Kariņa is a traditional Latvian folk dance. It is a lively, fast-paced dance that involves two lines of dancers facing each other and performing a series of steps and turns. The name comes from the Latvian word for "circle". In English, it can be translated as "circle dance". |
+| 7 | [Levits](http://twitter.com/search?q=Levits) | Levits is a term used in Jewish law to refer to the laws of the Jewish people. It is derived from the Hebrew word "halacha," which means "the way" or "the path." Levits encompasses all aspects of Jewish life, including religious observance, civil law, and social customs. |
+| 8 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | Pīlēns is a Latvian word meaning "butterfly". |
 | 9 | [rīgai](http://twitter.com/search?q=r%c4%abgai) | Rīgai is a Lithuanian word meaning "for sure" or "definitely". |
 | 10 | [lpsr](http://twitter.com/search?q=lpsr) | LPSR stands for "Long-Term Planning and Strategic Review." It is a process used by organizations to assess their current situation, identify long-term goals, and develop strategies to achieve those goals. It involves analyzing the organization's strengths and weaknesses, assessing external opportunities and threats, and developing a plan of action to reach the desired objectives. |
 | 11 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | Kremļa is the Russian word for Kremlin, which is a fortified complex in the center of Moscow that serves as the official residence of the President of Russia. It is also a symbol of Russian power and authority. |
@@ -31,18 +31,18 @@ This is top 50 for Latvia
 | 14 | [Vācijā](http://twitter.com/search?q=V%c4%81cij%c4%81) | Vācijā is a Latvian word meaning "in Germany". |
 | 15 | [Dieva](http://twitter.com/search?q=Dieva) | Die Va is a term used in the Vietnamese language to express admiration or appreciation. It translates to "Oh wow!" or "That's great!" in English. |
 | 16 | [noteikti](http://twitter.com/search?q=noteikti) | Noteikti is a Latvian word that means "to determine" or "to decide". It is used to express the idea of making a decision or ruling on something. |
-| 17 | [$gini](http://twitter.com/search?q=%24gini) | Gini is a measure of inequality, often used to measure income inequality. It is calculated by taking the ratio of the total area between the Lorenz curve and the line of perfect equality to the total area under the line of perfect equality. A Gini coefficient of 0 indicates perfect equality, while a Gini coefficient of 1 indicates perfect inequality. |
+| 17 | [$GINI](http://twitter.com/search?q=%24GINI) | GINI is an acronym for the Gini coefficient, which is a measure of income inequality. It is calculated by taking the ratio of the total income earned by the top 20% of a population to the total income earned by the bottom 20%. A higher Gini coefficient indicates greater inequality in a society. |
 | 18 | [Valsts](http://twitter.com/search?q=Valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of Latvia, as well as the nation itself. |
 | 19 | [Neko](http://twitter.com/search?q=Neko) | Neko is a Japanese word meaning "cat". It is often used as an affectionate term for cats, similar to how people in English might refer to their cats as "kitty" or "kitties". |
-| 20 | [droši](http://twitter.com/search?q=dro%c5%a1i) | Droši is a Latvian word that means "safe" or "secure". It is often used to express a feeling of safety or security. |
-| 21 | [Putins](http://twitter.com/search?q=Putins) | Putins is a nickname for Russian President Vladimir Putin. It is derived from his last name and is used as a term of endearment by his supporters. |
-| 22 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | Viņa is a Latvian pronoun meaning "he" or "she". |
-| 23 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | Tāpēc is a Latvian word meaning "therefore" or "so". |
-| 24 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | Saeimā is the name of the Latvian Parliament. It is derived from the Latvian word saeima, which means "assembly". In English, it can be translated as "Parliament". |
+| 20 | [Putins](http://twitter.com/search?q=Putins) | Putins is a nickname for Russian President Vladimir Putin. It is derived from his last name and is used as a term of endearment by his supporters. |
+| 21 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | Viņa is a Latvian pronoun meaning "he" or "she". |
+| 22 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | Tāpēc is a Latvian word meaning "therefore" or "so". |
+| 23 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | Saeimā is the name of the Latvian Parliament. It is derived from the Latvian word saeima, which means "assembly". In English, it can be translated as "Parliament". |
+| 24 | [Russian](http://twitter.com/search?q=Russian) | Russian is an East Slavic language spoken mainly in Russia, Belarus, Ukraine, Kazakhstan and Kyrgyzstan. It is the official language of Russia and one of the six official languages of the United Nations. In English, it is often referred to as "the Russian language". |
 | 25 | [Lūdzu](http://twitter.com/search?q=L%c5%abdzu) | Lūdzu is a Latvian word that means "please" or "kindly" in English. It is used as a polite request or as an expression of gratitude. |
 | 26 | [Igaunijas](http://twitter.com/search?q=Igaunijas) | Igaunijas is the Latvian word for Estonia. It literally translates to "land of the Estonians". |
 | 27 | [Ventspils](http://twitter.com/search?q=Ventspils) | Ventspils is a city in Latvia located on the Baltic Sea. It is the sixth largest city in the country and the largest port in Latvia. The name Ventspils translates to "wind castle" in English. |
-| 28 | [Labāk](http://twitter.com/search?q=Lab%c4%81k) | Labāk is a Latvian word meaning "better". It is used to express the idea that something is preferable or of higher quality. |
+| 28 | [labāk](http://twitter.com/search?q=lab%c4%81k) | Labāk is a Latvian word meaning "better" or "best". |
 | 29 | [šlesers](http://twitter.com/search?q=%c5%a1lesers) | "Šlesers" is a Latvian surname. It is derived from the word "šļēsējs", which means "shoemaker". |
 | 30 | [nebūs](http://twitter.com/search?q=neb%c5%abs) | Nebūs is a Lithuanian word meaning "will not be". |
 | 31 | [toties](http://twitter.com/search?q=toties) | Toties is a Latin word meaning "in that case" or "in such circumstances". It is used to indicate that a certain action should be taken in response to a particular situation. |
@@ -50,14 +50,14 @@ This is top 50 for Latvia
 | 33 | [Paga](http://twitter.com/search?q=Paga) | Paga is a mobile money transfer service in Ghana. It allows users to send and receive money, pay bills, and buy airtime. In English, Paga means "pay". |
 | 34 | [krievija](http://twitter.com/search?q=krievija) | Krievija is the Latvian word for Russia. In English, it translates to "Russia". |
 | 35 | [beidzot](http://twitter.com/search?q=beidzot) | Beidzot is a Hebrew word meaning "enough". It is used to indicate that something has reached its limit or that an action should stop. |
-| 36 | [Zinu](http://twitter.com/search?q=Zinu) | Zinu is a term used in the Yoruba language of Nigeria, which means "love". It is often used as a term of endearment or to express affection. |
+| 36 | [zinu](http://twitter.com/search?q=zinu) | Zinu is a term used in the Caribbean to refer to someone who is being annoying or irritating. It can also be used to describe someone who is acting foolishly or recklessly. In English, it could be translated as "annoying" or "irritating". |
 | 37 | [Tāds](http://twitter.com/search?q=T%c4%81ds) | Tāds is a Latvian word meaning "such" or "like that". It is used to describe something that has been previously mentioned or is already known. |
 | 38 | [Šeit](http://twitter.com/search?q=%c5%a0eit) | Šeit is a Latvian word meaning "here" or "this place". |
 | 39 | [NEKAD](http://twitter.com/search?q=NEKAD) | NEKAD is an acronym for Never Ever Kick A Dog, which is a phrase used to remind people to never physically harm or mistreat animals. |
 | 40 | [Diemžēl](http://twitter.com/search?q=Diem%c5%be%c4%93l) | Diemžēl is a Latvian word that translates to "unfortunately" or "sadly" in English. It is used to express regret or disappointment. |
 | 41 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | Европе is a Russian word that translates to Europe in English. It is the Russian word for the continent of Europe. |
 | 42 | [Vajag](http://twitter.com/search?q=Vajag) | Vajag is a term used in the Indian language of Marathi, which means “to go” or “to move”. It is commonly used as an imperative verb to tell someone to go somewhere. |
-| 43 | [Līdz](http://twitter.com/search?q=L%c4%abdz) | Līdz is a Latvian word that means "until" or "up to". It is used to indicate a point in time or a limit. For example, Līdz šim brīdim can be translated as "up to this point" or "until now". |
+| 43 | [līdz](http://twitter.com/search?q=l%c4%abdz) | Līdz is a Latvian word meaning "until" or "up to". It is used to indicate a point in time or a place that something will reach or go up to. For example, "Līdz šim brīdim" means "up to this point in time". |
 | 44 | [baltijā](http://twitter.com/search?q=baltij%c4%81) | Baltijā is a Latvian word meaning "in the Baltic". It is used to refer to the region of Northern Europe that includes Estonia, Latvia, and Lithuania. |
 | 45 | [#GINIAI](http://twitter.com/search?q=%23GINIAI) | #GINIAI is an acronym for the phrase "Get It Now And Improve It Later". It is a popular productivity mantra that encourages people to take action and start working on a project or task, even if it's not perfect. The idea is that you can always improve it later, but you have to get started now. |
 | 46 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | Daugavpils is a city in Latvia, located on the banks of the Daugava River. The name Daugavpils translates to "Daugava Castle" in English. |
