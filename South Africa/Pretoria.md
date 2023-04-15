@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-04-15 09:17:17 UTC`
+📆 Last Updated: `2023-04-15 10:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ThaboBester](http://twitter.com/search?q=%23ThaboBester) | N/A |
-| 2 | [#DrNandiphaMagudumana](http://twitter.com/search?q=%23DrNandiphaMagudumana) | N/A |
-| 3 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 2 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 3 | [#DrNandiphaMagudumana](http://twitter.com/search?q=%23DrNandiphaMagudumana) | N/A |
 | 4 | [#TTOM2023](http://twitter.com/search?q=%23TTOM2023) | N/A |
-| 5 | [Gerda](http://twitter.com/search?q=Gerda) | N/A |
+| 5 | [#GoldMafia4](http://twitter.com/search?q=%23GoldMafia4) | N/A |
 | 6 | [#URChannelO](http://twitter.com/search?q=%23URChannelO) | N/A |
-| 7 | [#MetroFMTop30WithKyeezi](http://twitter.com/search?q=%23MetroFMTop30WithKyeezi) | N/A |
-| 8 | [Brett](http://twitter.com/search?q=Brett) | N/A |
-| 9 | [THE KHOSI TWALA EFFECT](http://twitter.com/search?q=THE+KHOSI+TWALA+EFFECT) | N/A |
-| 10 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
-| 11 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
-| 12 | [INVINCIBLE KHOSI](http://twitter.com/search?q=INVINCIBLE+KHOSI) | N/A |
-| 13 | [THABANG THE FACECARD](http://twitter.com/search?q=THABANG+THE+FACECARD) | N/A |
-| 14 | [Bara](http://twitter.com/search?q=Bara) | N/A |
-| 15 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
-| 16 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
-| 17 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 18 | [mr jones](http://twitter.com/search?q=mr+jones) | N/A |
-| 19 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 20 | [CONGRATULATIONS KHOSI](http://twitter.com/search?q=CONGRATULATIONS+KHOSI) | N/A |
-| 21 | [graceful khosi](http://twitter.com/search?q=graceful+khosi) | N/A |
-| 22 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
-| 23 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 7 | [Brett](http://twitter.com/search?q=Brett) | N/A |
+| 8 | [THE KHOSI TWALA EFFECT](http://twitter.com/search?q=THE+KHOSI+TWALA+EFFECT) | N/A |
+| 9 | [THABANG THE FACECARD](http://twitter.com/search?q=THABANG+THE+FACECARD) | N/A |
+| 10 | [CONGRATULATIONS JUICY JAY](http://twitter.com/search?q=CONGRATULATIONS+JUICY+JAY) | N/A |
+| 11 | [VERIFIED KHOSI](http://twitter.com/search?q=VERIFIED+KHOSI) | N/A |
+| 12 | [Tanzania](http://twitter.com/search?q=Tanzania) | N/A |
+| 13 | [Bara](http://twitter.com/search?q=Bara) | N/A |
+| 14 | [INVINCIBLE KHOSI](http://twitter.com/search?q=INVINCIBLE+KHOSI) | N/A |
+| 15 | [Home Affairs](http://twitter.com/search?q=Home+Affairs) | N/A |
+| 16 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 17 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 18 | [Mr Jones](http://twitter.com/search?q=Mr+Jones) | N/A |
+| 19 | [Gerda Steyn](http://twitter.com/search?q=Gerda+Steyn) | N/A |
+| 20 | [graceful khosi](http://twitter.com/search?q=graceful+khosi) | N/A |
+| 21 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 22 | [CONGRATULATIONS KHOSI](http://twitter.com/search?q=CONGRATULATIONS+KHOSI) | N/A |
+| 23 | [Tom Motsepe](http://twitter.com/search?q=Tom+Motsepe) | N/A |
 | 24 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
 | 25 | [Standard Bank](http://twitter.com/search?q=Standard+Bank) | N/A |
 | 26 | [Madhuku](http://twitter.com/search?q=Madhuku) | N/A |
 | 27 | [Nike](http://twitter.com/search?q=Nike) | N/A |
 | 28 | [Xoli](http://twitter.com/search?q=Xoli) | N/A |
-| 29 | [7de Laan](http://twitter.com/search?q=7de+Laan) | N/A |
-| 30 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
-| 31 | [Bheki Cele](http://twitter.com/search?q=Bheki+Cele) | N/A |
-| 32 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 33 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 34 | [dyantyi](http://twitter.com/search?q=dyantyi) | N/A |
-| 35 | [Uzzi](http://twitter.com/search?q=Uzzi) | N/A |
-| 36 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 37 | [Damelin](http://twitter.com/search?q=Damelin) | N/A |
-| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 39 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 40 | [SA ID](http://twitter.com/search?q=SA+ID) | N/A |
-| 41 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
-| 42 | [tbangers 2k challenge](http://twitter.com/search?q=tbangers+2k+challenge) | N/A |
-| 43 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 44 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 45 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 46 | [Banks](http://twitter.com/search?q=Banks) | N/A |
-| 47 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
-| 48 | [Zack](http://twitter.com/search?q=Zack) | N/A |
-| 49 | [Teko](http://twitter.com/search?q=Teko) | N/A |
-| 50 | [Grade 5](http://twitter.com/search?q=Grade+5) | N/A |
+| 29 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
+| 30 | [THE TSATSII EFFECT](http://twitter.com/search?q=THE+TSATSII+EFFECT) | N/A |
+| 31 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 32 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 33 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 34 | [Cele](http://twitter.com/search?q=Cele) | N/A |
+| 35 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 36 | [Damelin](http://twitter.com/search?q=Damelin) | N/A |
+| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 38 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 39 | [SA ID](http://twitter.com/search?q=SA+ID) | N/A |
+| 40 | [Thembinkosi Lorch](http://twitter.com/search?q=Thembinkosi+Lorch) | N/A |
+| 41 | [tbangers 2k challenge](http://twitter.com/search?q=tbangers+2k+challenge) | N/A |
+| 42 | [Botswana](http://twitter.com/search?q=Botswana) | N/A |
+| 43 | [Zuma](http://twitter.com/search?q=Zuma) | N/A |
+| 44 | [Banks](http://twitter.com/search?q=Banks) | N/A |
+| 45 | [7de Laan](http://twitter.com/search?q=7de+Laan) | N/A |
+| 46 | [Malacia](http://twitter.com/search?q=Malacia) | Malacia is a medical term used to describe a condition in which the muscles of the body become abnormally soft and flaccid. It is usually caused by a lack of muscle tone or nerve damage. In English, it can be translated as "muscle weakness". |
+| 47 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 48 | [Grade 5](http://twitter.com/search?q=Grade+5) | N/A |
+| 49 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 50 | [Bomma](http://twitter.com/search?q=Bomma) | N/A |
 
 
 

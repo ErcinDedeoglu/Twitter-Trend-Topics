@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-04-15 09:16:47 UTC`
+📆 Last Updated: `2023-04-15 10:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,10 +25,10 @@ This is top 50 for [Canada](</Canada>)
 | 8 | [#xboxfreecodefriday](http://twitter.com/search?q=%23xboxfreecodefriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox fans and companies to share codes for free games, discounts, and other offers related to the Xbox platform. |
 | 9 | [Brett](http://twitter.com/search?q=Brett) | N/A |
 | 10 | [250K in ETH](http://twitter.com/search?q=250K+in+ETH) | N/A |
-| 11 | [#Vaisakhi](http://twitter.com/search?q=%23Vaisakhi) | N/A |
+| 11 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 12 | [Micah](http://twitter.com/search?q=Micah) | Micah is a Hebrew name meaning “who is like God?” It is also the name of a book in the Old Testament of the Bible. |
 | 13 | [Berrios](http://twitter.com/search?q=Berrios) | N/A |
-| 14 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 14 | [#Vaisakhi](http://twitter.com/search?q=%23Vaisakhi) | N/A |
 | 15 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
 | 16 | [Romano](http://twitter.com/search?q=Romano) | N/A |
 | 17 | [Richards](http://twitter.com/search?q=Richards) | Richards is a surname of English origin. It is derived from the given name Richard, which means "strong ruler". |
@@ -40,30 +40,30 @@ This is top 50 for [Canada](</Canada>)
 | 23 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 24 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
 | 25 | [Nathan MacKinnon](http://twitter.com/search?q=Nathan+MacKinnon) | N/A |
-| 26 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
+| 26 | [Duhaime](http://twitter.com/search?q=Duhaime) | N/A |
 | 27 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
 | 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 29 | [zach pop](http://twitter.com/search?q=zach+pop) | N/A |
-| 30 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 30 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
 | 31 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 32 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
-| 33 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 34 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 35 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
-| 36 | [Auditor General](http://twitter.com/search?q=Auditor+General) | N/A |
-| 37 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 38 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
-| 39 | [Régine](http://twitter.com/search?q=R%c3%a9gine) | N/A |
-| 40 | [Rasmussen](http://twitter.com/search?q=Rasmussen) | N/A |
-| 41 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
-| 42 | [espinal](http://twitter.com/search?q=espinal) | N/A |
-| 43 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
-| 44 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
-| 45 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 46 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 47 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 48 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 49 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 32 | [Science Centre](http://twitter.com/search?q=Science+Centre) | N/A |
+| 33 | [Shelby](http://twitter.com/search?q=Shelby) | N/A |
+| 34 | [Hawaiian](http://twitter.com/search?q=Hawaiian) | N/A |
+| 35 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 36 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 37 | [Bliss](http://twitter.com/search?q=Bliss) | N/A |
+| 38 | [Auditor General](http://twitter.com/search?q=Auditor+General) | N/A |
+| 39 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 40 | [Poilievre](http://twitter.com/search?q=Poilievre) | N/A |
+| 41 | [Cheech](http://twitter.com/search?q=Cheech) | N/A |
+| 42 | [Régine](http://twitter.com/search?q=R%c3%a9gine) | N/A |
+| 43 | [Rasmussen](http://twitter.com/search?q=Rasmussen) | N/A |
+| 44 | [Khalsa](http://twitter.com/search?q=Khalsa) | N/A |
+| 45 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
+| 46 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 47 | [espinal](http://twitter.com/search?q=espinal) | N/A |
+| 48 | [Jimmy Butler](http://twitter.com/search?q=Jimmy+Butler) | Jimmy Butler is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). He is a four-time NBA All-Star and was named the NBA Most Improved Player in 2015. He is known for his defensive prowess and his ability to score, pass, and rebound. |
+| 49 | [Lilo](http://twitter.com/search?q=Lilo) | N/A |
 
 
 

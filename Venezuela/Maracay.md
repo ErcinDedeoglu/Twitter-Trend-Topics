@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-04-15 09:16:55 UTC`
+📆 Last Updated: `2023-04-15 10:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,8 +26,8 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 9 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
 | 10 | [#vinotintosub17xmtv](http://twitter.com/search?q=%23vinotintosub17xmtv) | N/A |
 | 11 | [Luis Aparicio](http://twitter.com/search?q=Luis+Aparicio) | N/A |
-| 12 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 13 | [Rumildo](http://twitter.com/search?q=Rumildo) | N/A |
+| 12 | [rumildo](http://twitter.com/search?q=rumildo) | N/A |
+| 13 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
 | 14 | [Miguel Cabrera](http://twitter.com/search?q=Miguel+Cabrera) | N/A |
 | 15 | [Rebeca González](http://twitter.com/search?q=Rebeca+Gonz%c3%a1lez) | N/A |
 | 16 | [Carl Herrera](http://twitter.com/search?q=Carl+Herrera) | N/A |
@@ -35,9 +35,9 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 18 | [Juan Arango](http://twitter.com/search?q=Juan+Arango) | N/A |
 | 19 | [orlando urdaneta](http://twitter.com/search?q=orlando+urdaneta) | N/A |
 | 20 | [Tamara Adrián](http://twitter.com/search?q=Tamara+Adri%c3%a1n) | N/A |
-| 21 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
-| 22 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
-| 23 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 21 | [Chávez](http://twitter.com/search?q=Ch%c3%a1vez) | N/A |
+| 22 | [Jorge Rodríguez](http://twitter.com/search?q=Jorge+Rodr%c3%adguez) | N/A |
+| 23 | [Juan Almeida](http://twitter.com/search?q=Juan+Almeida) | N/A |
 | 24 | [Expo Gobierno](http://twitter.com/search?q=Expo+Gobierno) | N/A |
 | 25 | [Carlos Olivier](http://twitter.com/search?q=Carlos+Olivier) | N/A |
 | 26 | [Álvaro Pulido](http://twitter.com/search?q=%c3%81lvaro+Pulido) | N/A |
@@ -48,21 +48,21 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 31 | [Capriles](http://twitter.com/search?q=Capriles) | N/A |
 | 32 | [Cota Mil](http://twitter.com/search?q=Cota+Mil) | N/A |
 | 33 | [Canel](http://twitter.com/search?q=Canel) | N/A |
-| 34 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
-| 35 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
-| 36 | [Granjero](http://twitter.com/search?q=Granjero) | N/A |
-| 37 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
-| 38 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
-| 39 | [Brasil y Argentina](http://twitter.com/search?q=Brasil+y+Argentina) | N/A |
-| 40 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
-| 41 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 42 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
-| 43 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
-| 44 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 45 | [David Martínez](http://twitter.com/search?q=David+Mart%c3%adnez) | N/A |
+| 34 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
+| 35 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
+| 36 | [Hace 10](http://twitter.com/search?q=Hace+10) | N/A |
+| 37 | [Brasil y Argentina](http://twitter.com/search?q=Brasil+y+Argentina) | N/A |
+| 38 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 39 | [Granjero](http://twitter.com/search?q=Granjero) | N/A |
+| 40 | [Zorro](http://twitter.com/search?q=Zorro) | N/A |
+| 41 | [Omar Enrique](http://twitter.com/search?q=Omar+Enrique) | N/A |
+| 42 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 43 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
+| 44 | [david martínez](http://twitter.com/search?q=david+mart%c3%adnez) | N/A |
+| 45 | [José Bardina](http://twitter.com/search?q=Jos%c3%a9+Bardina) | N/A |
 | 46 | [Alcaldía de Baruta](http://twitter.com/search?q=Alcald%c3%ada+de+Baruta) | N/A |
-| 47 | [Mayra Alejandra](http://twitter.com/search?q=Mayra+Alejandra) | N/A |
-| 48 | [daniel dhers](http://twitter.com/search?q=daniel+dhers) | N/A |
+| 47 | [Tibisay Lucena](http://twitter.com/search?q=Tibisay+Lucena) | N/A |
+| 48 | [Daniel Dhers](http://twitter.com/search?q=Daniel+Dhers) | N/A |
 | 49 | [lucciano reinoso](http://twitter.com/search?q=lucciano+reinoso) | N/A |
 
 

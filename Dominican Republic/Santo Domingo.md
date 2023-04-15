@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-04-15 09:16:51 UTC`
+📆 Last Updated: `2023-04-15 10:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,9 +17,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | ------- | ------------ | ------------ |
 | 1 | [Sophia](http://twitter.com/search?q=Sophia) | N/A |
 | 2 | [chatgptrd](http://twitter.com/search?q=chatgptrd) | N/A |
-| 3 | [#Coachella](http://twitter.com/search?q=%23Coachella) | N/A |
-| 4 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
-| 5 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
+| 3 | [Leonel](http://twitter.com/search?q=Leonel) | N/A |
+| 4 | [Sofía](http://twitter.com/search?q=Sof%c3%ada) | N/A |
+| 5 | [#Coachella](http://twitter.com/search?q=%23Coachella) | N/A |
 | 6 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
 | 7 | [#foroglobalcasacampo](http://twitter.com/search?q=%23foroglobalcasacampo) | N/A |
 | 8 | [#feriadellibrocatolico2023](http://twitter.com/search?q=%23feriadellibrocatolico2023) | N/A |
@@ -37,7 +37,7 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 20 | [caro brito](http://twitter.com/search?q=caro+brito) | N/A |
 | 21 | [doble reserva](http://twitter.com/search?q=doble+reserva) | N/A |
 | 22 | [Wendy Sherman](http://twitter.com/search?q=Wendy+Sherman) | N/A |
-| 23 | [Montecristi](http://twitter.com/search?q=Montecristi) | N/A |
+| 23 | [montecristi](http://twitter.com/search?q=montecristi) | N/A |
 | 24 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
 | 25 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 | 26 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
@@ -47,24 +47,24 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 30 | [Rays](http://twitter.com/search?q=Rays) | N/A |
 | 31 | [fulcar](http://twitter.com/search?q=fulcar) | N/A |
 | 32 | [villa mella](http://twitter.com/search?q=villa+mella) | N/A |
-| 33 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
-| 34 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
-| 35 | [yadira morel](http://twitter.com/search?q=yadira+morel) | N/A |
-| 36 | [Aparte](http://twitter.com/search?q=Aparte) | N/A |
-| 37 | [Ay Dios](http://twitter.com/search?q=Ay+Dios) | N/A |
-| 38 | [conani](http://twitter.com/search?q=conani) | N/A |
-| 39 | [alcarrizos](http://twitter.com/search?q=alcarrizos) | N/A |
-| 40 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
-| 41 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 42 | [presidente abinader](http://twitter.com/search?q=presidente+abinader) | N/A |
-| 43 | [ramón alburquerque](http://twitter.com/search?q=ram%c3%b3n+alburquerque) | N/A |
+| 33 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 34 | [santo domingo oeste](http://twitter.com/search?q=santo+domingo+oeste) | N/A |
+| 35 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 36 | [yadira morel](http://twitter.com/search?q=yadira+morel) | N/A |
+| 37 | [Aparte](http://twitter.com/search?q=Aparte) | N/A |
+| 38 | [Ay Dios](http://twitter.com/search?q=Ay+Dios) | N/A |
+| 39 | [conani](http://twitter.com/search?q=conani) | N/A |
+| 40 | [alcarrizos](http://twitter.com/search?q=alcarrizos) | N/A |
+| 41 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
+| 42 | [ramón alburquerque](http://twitter.com/search?q=ram%c3%b3n+alburquerque) | N/A |
+| 43 | [Debiste](http://twitter.com/search?q=Debiste) | N/A |
 | 44 | [Florida](http://twitter.com/search?q=Florida) | N/A |
 | 45 | [Uber](http://twitter.com/search?q=Uber) | N/A |
 | 46 | [Kpinini](http://twitter.com/search?q=Kpinini) | N/A |
 | 47 | [Valentin](http://twitter.com/search?q=Valentin) | N/A |
-| 48 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 49 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
-| 50 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 48 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 49 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 50 | [Naciones Unidas](http://twitter.com/search?q=Naciones+Unidas) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-15 09:17:34 UTC`
+📆 Last Updated: `2023-04-15 10:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Austria
 | 2 | [#dancingstars](http://twitter.com/search?q=%23dancingstars) | N/A |
 | 3 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
 | 4 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 5 | [Kern](http://twitter.com/search?q=Kern) | N/A |
-| 6 | [#svrwsg](http://twitter.com/search?q=%23svrwsg) | N/A |
-| 7 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
-| 8 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 9 | [Experte](http://twitter.com/search?q=Experte) | N/A |
-| 10 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 11 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
-| 12 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 13 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
-| 14 | [Lebens](http://twitter.com/search?q=Lebens) | N/A |
-| 15 | [Bine](http://twitter.com/search?q=Bine) | N/A |
-| 16 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 17 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 18 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
-| 19 | [Lohnausgleich](http://twitter.com/search?q=Lohnausgleich) | N/A |
-| 20 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
-| 21 | [Expertise](http://twitter.com/search?q=Expertise) | N/A |
-| 22 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
-| 23 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 24 | [Umfragen](http://twitter.com/search?q=Umfragen) | N/A |
-| 25 | [Branche](http://twitter.com/search?q=Branche) | N/A |
-| 26 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
-| 29 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
-| 30 | [Wenns](http://twitter.com/search?q=Wenns) | N/A |
-| 31 | [Presse](http://twitter.com/search?q=Presse) | N/A |
-| 32 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
-| 33 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 5 | [#svrwsg](http://twitter.com/search?q=%23svrwsg) | N/A |
+| 6 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | N/A |
+| 7 | [Kern](http://twitter.com/search?q=Kern) | N/A |
+| 8 | [Experte](http://twitter.com/search?q=Experte) | N/A |
+| 9 | [Unschuldsvermutung](http://twitter.com/search?q=Unschuldsvermutung) | N/A |
+| 10 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | N/A |
+| 11 | [Dietmar](http://twitter.com/search?q=Dietmar) | N/A |
+| 12 | [Bine](http://twitter.com/search?q=Bine) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 15 | [Expertise](http://twitter.com/search?q=Expertise) | N/A |
+| 16 | [lohnausgleich](http://twitter.com/search?q=lohnausgleich) | N/A |
+| 17 | [Fakt](http://twitter.com/search?q=Fakt) | N/A |
+| 18 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 19 | [Branche](http://twitter.com/search?q=Branche) | N/A |
+| 20 | [Profil](http://twitter.com/search?q=Profil) | N/A |
+| 21 | [Vorschlag](http://twitter.com/search?q=Vorschlag) | N/A |
+| 22 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 23 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 24 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 25 | [Kompetenz](http://twitter.com/search?q=Kompetenz) | N/A |
+| 26 | [Anklage](http://twitter.com/search?q=Anklage) | N/A |
+| 27 | [Wenns](http://twitter.com/search?q=Wenns) | N/A |
+| 28 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | N/A |
+| 29 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 30 | [Sozialismus](http://twitter.com/search?q=Sozialismus) | N/A |
+| 31 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
+| 32 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 33 | [Presse](http://twitter.com/search?q=Presse) | N/A |
 | 34 | [5sos](http://twitter.com/search?q=5sos) | N/A |
 | 35 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 36 | [Pension](http://twitter.com/search?q=Pension) | N/A |
-| 37 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 38 | [Werner](http://twitter.com/search?q=Werner) | N/A |
-| 39 | [massenschlägerei](http://twitter.com/search?q=massenschl%c3%a4gerei) | N/A |
-| 40 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
-| 41 | [Babler](http://twitter.com/search?q=Babler) | N/A |
-| 42 | [heast](http://twitter.com/search?q=heast) | N/A |
-| 43 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 44 | [Kompetenz](http://twitter.com/search?q=Kompetenz) | N/A |
-| 45 | [Livestream](http://twitter.com/search?q=Livestream) | N/A |
-| 46 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | N/A |
-| 47 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 48 | [Kontakte](http://twitter.com/search?q=Kontakte) | N/A |
-| 49 | [Konzert](http://twitter.com/search?q=Konzert) | N/A |
-| 50 | [schwaiger](http://twitter.com/search?q=schwaiger) | N/A |
+| 36 | [Raum](http://twitter.com/search?q=Raum) | N/A |
+| 37 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 38 | [Arbeitszeit](http://twitter.com/search?q=Arbeitszeit) | N/A |
+| 39 | [Tatsache](http://twitter.com/search?q=Tatsache) | N/A |
+| 40 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
+| 41 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 42 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
+| 43 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 44 | [Kontext](http://twitter.com/search?q=Kontext) | N/A |
+| 45 | [Ansichten](http://twitter.com/search?q=Ansichten) | N/A |
+| 46 | [Nehammer](http://twitter.com/search?q=Nehammer) | N/A |
+| 47 | [Babler](http://twitter.com/search?q=Babler) | N/A |
+| 48 | [Falter](http://twitter.com/search?q=Falter) | N/A |
+| 49 | [Energiewende](http://twitter.com/search?q=Energiewende) | N/A |
+| 50 | [heast](http://twitter.com/search?q=heast) | N/A |
 
 
 

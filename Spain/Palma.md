@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-04-15 09:17:04 UTC`
+📆 Last Updated: `2023-04-15 10:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AgropopularGanadería](http://twitter.com/search?q=%23AgropopularGanader%c3%ada) | N/A |
-| 2 | [#TCMS3](http://twitter.com/search?q=%23TCMS3) | N/A |
-| 3 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
-| 4 | [#FelizSábado](http://twitter.com/search?q=%23FelizS%c3%a1bado) | N/A |
-| 5 | [#SHERPADAY](http://twitter.com/search?q=%23SHERPADAY) | N/A |
-| 6 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
-| 7 | [Ruta de la Plata](http://twitter.com/search?q=Ruta+de+la+Plata) | N/A |
-| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 9 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
-| 10 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 11 | [Ley de Vivienda](http://twitter.com/search?q=Ley+de+Vivienda) | N/A |
-| 12 | [Carlos Tena](http://twitter.com/search?q=Carlos+Tena) | N/A |
-| 13 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
-| 14 | [Conferencia Municipal](http://twitter.com/search?q=Conferencia+Municipal) | N/A |
-| 15 | [Leonardo da Vinci](http://twitter.com/search?q=Leonardo+da+Vinci) | N/A |
-| 16 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
-| 17 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 18 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
-| 19 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 20 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 21 | [nianzou](http://twitter.com/search?q=nianzou) | N/A |
-| 22 | [Gaming Days](http://twitter.com/search?q=Gaming+Days) | N/A |
-| 23 | [Mc 16](http://twitter.com/search?q=Mc+16) | N/A |
-| 24 | [Paracuellos](http://twitter.com/search?q=Paracuellos) | N/A |
-| 25 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 26 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 27 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 28 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
-| 29 | [Josie](http://twitter.com/search?q=Josie) | N/A |
-| 30 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 31 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 32 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 33 | [feliz 14](http://twitter.com/search?q=feliz+14) | N/A |
-| 34 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
-| 35 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 36 | [Beatriz Flamini](http://twitter.com/search?q=Beatriz+Flamini) | N/A |
-| 37 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 38 | [Zalgiris](http://twitter.com/search?q=Zalgiris) | N/A |
-| 39 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 40 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
-| 41 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 42 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
-| 43 | [Doña Rogelia](http://twitter.com/search?q=Do%c3%b1a+Rogelia) | N/A |
-| 44 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 45 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
-| 46 | [hoy 14](http://twitter.com/search?q=hoy+14) | N/A |
-| 47 | [Jorge Sampaoli](http://twitter.com/search?q=Jorge+Sampaoli) | N/A |
-| 48 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 49 | [Moi Gómez](http://twitter.com/search?q=Moi+G%c3%b3mez) | N/A |
+| 1 | [#TCMS3](http://twitter.com/search?q=%23TCMS3) | N/A |
+| 2 | [República](http://twitter.com/search?q=Rep%c3%bablica) | N/A |
+| 3 | [#Solos15A](http://twitter.com/search?q=%23Solos15A) | N/A |
+| 4 | [#agropopularganaderia](http://twitter.com/search?q=%23agropopularganaderia) | N/A |
+| 5 | [Doñana](http://twitter.com/search?q=Do%c3%b1ana) | N/A |
+| 6 | [#SVGala7](http://twitter.com/search?q=%23SVGala7) | N/A |
+| 7 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 8 | [Ferrovial](http://twitter.com/search?q=Ferrovial) | N/A |
+| 9 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
+| 10 | [Ley de Vivienda](http://twitter.com/search?q=Ley+de+Vivienda) | N/A |
+| 11 | [Carlos Tena](http://twitter.com/search?q=Carlos+Tena) | N/A |
+| 12 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 13 | [Bildu](http://twitter.com/search?q=Bildu) | N/A |
+| 14 | [Zelda](http://twitter.com/search?q=Zelda) | N/A |
+| 15 | [Conferencia Municipal](http://twitter.com/search?q=Conferencia+Municipal) | N/A |
+| 16 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 17 | [Diego Alves](http://twitter.com/search?q=Diego+Alves) | N/A |
+| 18 | [nianzou](http://twitter.com/search?q=nianzou) | N/A |
+| 19 | [Paracuellos](http://twitter.com/search?q=Paracuellos) | N/A |
+| 20 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 21 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 22 | [Mc 16](http://twitter.com/search?q=Mc+16) | N/A |
+| 23 | [Josie](http://twitter.com/search?q=Josie) | N/A |
+| 24 | [feliz 14](http://twitter.com/search?q=feliz+14) | N/A |
+| 25 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 26 | [Partizan](http://twitter.com/search?q=Partizan) | N/A |
+| 27 | [Hiba Abouk](http://twitter.com/search?q=Hiba+Abouk) | N/A |
+| 28 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 29 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
+| 30 | [Leonardo da Vinci](http://twitter.com/search?q=Leonardo+da+Vinci) | N/A |
+| 31 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
+| 32 | [Ruta de la Plata](http://twitter.com/search?q=Ruta+de+la+Plata) | N/A |
+| 33 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 34 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 35 | [Gaming Days](http://twitter.com/search?q=Gaming+Days) | N/A |
+| 36 | [Zalgiris](http://twitter.com/search?q=Zalgiris) | N/A |
+| 37 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 38 | [Beatriz Flamini](http://twitter.com/search?q=Beatriz+Flamini) | N/A |
+| 39 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 40 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
+| 41 | [hoy 14](http://twitter.com/search?q=hoy+14) | N/A |
+| 42 | [Game Day](http://twitter.com/search?q=Game+Day) | N/A |
+| 43 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
+| 44 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
+| 45 | [Asraf](http://twitter.com/search?q=Asraf) | N/A |
+| 46 | [Regina Coeli](http://twitter.com/search?q=Regina+Coeli) | N/A |
+| 47 | [Baskonia](http://twitter.com/search?q=Baskonia) | N/A |
+| 48 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 49 | [Rui Silva](http://twitter.com/search?q=Rui+Silva) | N/A |
 
 
 

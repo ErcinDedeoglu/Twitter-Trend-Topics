@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-04-15 09:16:54 UTC`
+📆 Last Updated: `2023-04-15 10:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Chile](</Chile>)
 | 1 | [#larojaentvn](http://twitter.com/search?q=%23larojaentvn) | N/A |
 | 2 | [#COACHELLA2023](http://twitter.com/search?q=%23COACHELLA2023) | N/A |
 | 3 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 4 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
-| 5 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
-| 6 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 4 | [Contraloría](http://twitter.com/search?q=Contralor%c3%ada) | N/A |
+| 5 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 6 | [Hassler](http://twitter.com/search?q=Hassler) | N/A |
 | 7 | [Sierra Bella](http://twitter.com/search?q=Sierra+Bella) | N/A |
-| 8 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 9 | [#podemoshablarchv](http://twitter.com/search?q=%23podemoshablarchv) | N/A |
-| 10 | [La Polar](http://twitter.com/search?q=La+Polar) | La Polar is a Chilean department store chain. It is one of the largest retail chains in Chile, with over 200 stores located throughout the country. The name La Polar translates to "The North Pole" in English. |
-| 11 | [pancho saavedra](http://twitter.com/search?q=pancho+saavedra) | N/A |
-| 12 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
-| 13 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 14 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 15 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 8 | [#podemoshablarchv](http://twitter.com/search?q=%23podemoshablarchv) | N/A |
+| 9 | [La Polar](http://twitter.com/search?q=La+Polar) | La Polar is a Chilean department store chain. It is one of the largest retail chains in Chile, with over 200 stores located throughout the country. The name La Polar translates to "The North Pole" in English. |
+| 10 | [Pancho Saavedra](http://twitter.com/search?q=Pancho+Saavedra) | N/A |
+| 11 | [Torrealba](http://twitter.com/search?q=Torrealba) | N/A |
+| 12 | [cobresal](http://twitter.com/search?q=cobresal) | N/A |
+| 13 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 14 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 15 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
 | 16 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 17 | [Palestino](http://twitter.com/search?q=Palestino) | N/A |
-| 18 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
-| 19 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
-| 20 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
-| 21 | [Maltés](http://twitter.com/search?q=Malt%c3%a9s) | N/A |
-| 22 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 17 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
+| 18 | [Barriga](http://twitter.com/search?q=Barriga) | N/A |
+| 19 | [maltés](http://twitter.com/search?q=malt%c3%a9s) | N/A |
+| 20 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 21 | [Festival de Viña](http://twitter.com/search?q=Festival+de+Vi%c3%b1a) | N/A |
+| 22 | [Las Condes](http://twitter.com/search?q=Las+Condes) | N/A |
 | 23 | [Reginato](http://twitter.com/search?q=Reginato) | N/A |
-| 24 | [Las Condes](http://twitter.com/search?q=Las+Condes) | N/A |
-| 25 | [Talca](http://twitter.com/search?q=Talca) | N/A |
-| 26 | [Decide](http://twitter.com/search?q=Decide) | N/A |
-| 27 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
-| 28 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 29 | [carla zunino](http://twitter.com/search?q=carla+zunino) | N/A |
+| 24 | [Talca](http://twitter.com/search?q=Talca) | N/A |
+| 25 | [Decide](http://twitter.com/search?q=Decide) | N/A |
+| 26 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 27 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
+| 28 | [carla zunino](http://twitter.com/search?q=carla+zunino) | N/A |
+| 29 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
 | 30 | [Blondie](http://twitter.com/search?q=Blondie) | N/A |
-| 31 | [Cálida](http://twitter.com/search?q=C%c3%a1lida) | N/A |
-| 32 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
-| 33 | [Mauricio Israel](http://twitter.com/search?q=Mauricio+Israel) | N/A |
-| 34 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
-| 35 | [Rodrigo del Valle](http://twitter.com/search?q=Rodrigo+del+Valle) | N/A |
-| 36 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
-| 37 | [rigamonti](http://twitter.com/search?q=rigamonti) | N/A |
-| 38 | [octubrismo abc1](http://twitter.com/search?q=octubrismo+abc1) | N/A |
-| 39 | [Guatona](http://twitter.com/search?q=Guatona) | N/A |
-| 40 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 41 | [Jorge Sampaoli](http://twitter.com/search?q=Jorge+Sampaoli) | N/A |
-| 42 | [caputto](http://twitter.com/search?q=caputto) | N/A |
-| 43 | [pato rubio](http://twitter.com/search?q=pato+rubio) | N/A |
-| 44 | [pichanga](http://twitter.com/search?q=pichanga) | N/A |
-| 45 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
-| 46 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
-| 47 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 48 | [piero maza](http://twitter.com/search?q=piero+maza) | N/A |
+| 31 | [Mauricio Israel](http://twitter.com/search?q=Mauricio+Israel) | N/A |
+| 32 | [Metallica](http://twitter.com/search?q=Metallica) | N/A |
+| 33 | [Rodrigo del Valle](http://twitter.com/search?q=Rodrigo+del+Valle) | N/A |
+| 34 | [Nayara Vit](http://twitter.com/search?q=Nayara+Vit) | N/A |
+| 35 | [Lavin](http://twitter.com/search?q=Lavin) | N/A |
+| 36 | [rigamonti](http://twitter.com/search?q=rigamonti) | N/A |
+| 37 | [octubrismo abc1](http://twitter.com/search?q=octubrismo+abc1) | N/A |
+| 38 | [Guatona](http://twitter.com/search?q=Guatona) | N/A |
+| 39 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
+| 40 | [Jorge Sampaoli](http://twitter.com/search?q=Jorge+Sampaoli) | N/A |
+| 41 | [caputto](http://twitter.com/search?q=caputto) | N/A |
+| 42 | [pato rubio](http://twitter.com/search?q=pato+rubio) | N/A |
+| 43 | [pichanga](http://twitter.com/search?q=pichanga) | N/A |
+| 44 | [Karen Rojo](http://twitter.com/search?q=Karen+Rojo) | N/A |
+| 45 | [Mirna](http://twitter.com/search?q=Mirna) | N/A |
+| 46 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 47 | [piero maza](http://twitter.com/search?q=piero+maza) | N/A |
+| 48 | [Tilín](http://twitter.com/search?q=Til%c3%adn) | N/A |
 
 
 

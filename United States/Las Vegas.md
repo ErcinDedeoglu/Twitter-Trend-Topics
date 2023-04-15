@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-04-15 09:17:29 UTC`
+📆 Last Updated: `2023-04-15 10:17:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Malone](http://twitter.com/search?q=Malone) | N/A |
 | 3 | [Malone](http://twitter.com/search?q=Malone) | N/A |
 | 4 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
-| 5 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 6 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 7 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 8 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 9 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
-| 10 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
-| 11 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
-| 12 | [Te Bote](http://twitter.com/search?q=Te+Bote) | N/A |
-| 13 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 14 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 15 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
-| 16 | [#Wordle665](http://twitter.com/search?q=%23Wordle665) | N/A |
-| 17 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 18 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 5 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
+| 6 | [Posty](http://twitter.com/search?q=Posty) | N/A |
+| 7 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 8 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 9 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 10 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
+| 11 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
+| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 13 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
+| 14 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
+| 15 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 16 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
+| 17 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 18 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
 | 19 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 20 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 21 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 22 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 23 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 24 | [Andre Jackson](http://twitter.com/search?q=Andre+Jackson) | N/A |
-| 25 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 26 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 27 | [The Chemical Brothers](http://twitter.com/search?q=The+Chemical+Brothers) | N/A |
-| 28 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
-| 29 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 30 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 31 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 32 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 33 | [Low Life](http://twitter.com/search?q=Low+Life) | N/A |
-| 34 | [Mike Dean](http://twitter.com/search?q=Mike+Dean) | Mike Dean is a Grammy Award-winning American record producer, songwriter, and multi-instrumentalist. He is best known for his work with hip hop and R&B artists such as Kanye West, Travis Scott, Jay-Z, Beyoncé, Drake, and Rihanna. |
-| 35 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 36 | [Dave Roberts](http://twitter.com/search?q=Dave+Roberts) | N/A |
-| 37 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
-| 38 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 40 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 41 | [Gabriela](http://twitter.com/search?q=Gabriela) | N/A |
-| 42 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 43 | [Suns in 6](http://twitter.com/search?q=Suns+in+6) | N/A |
-| 44 | [John Legend](http://twitter.com/search?q=John+Legend) | N/A |
-| 45 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 46 | [Aaron Dessner](http://twitter.com/search?q=Aaron+Dessner) | N/A |
-| 47 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 48 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
-| 49 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 20 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 21 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 22 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 23 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 24 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 25 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
+| 26 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 27 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
+| 28 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 29 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 30 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
+| 31 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
+| 32 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
+| 33 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
+| 34 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 35 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
+| 36 | [Suns in 6](http://twitter.com/search?q=Suns+in+6) | N/A |
+| 37 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 38 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 39 | [Chet](http://twitter.com/search?q=Chet) | N/A |
+| 40 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 41 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 42 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
+| 43 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 44 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 45 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
+| 46 | [Peso Pluma](http://twitter.com/search?q=Peso+Pluma) | N/A |
+| 47 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 48 | [Celtics in 4](http://twitter.com/search?q=Celtics+in+4) | N/A |
+| 49 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
 
 
 

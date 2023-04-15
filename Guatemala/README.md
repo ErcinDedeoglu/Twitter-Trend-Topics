@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-15 09:17:36 UTC`
+📆 Last Updated: `2023-04-15 10:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Guatemala
 | 5 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
 | 6 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
 | 7 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 8 | [grupo d](http://twitter.com/search?q=grupo+d) | N/A |
+| 8 | [Grupo D](http://twitter.com/search?q=Grupo+D) | N/A |
 | 9 | [Copa Oro 2023](http://twitter.com/search?q=Copa+Oro+2023) | N/A |
 | 10 | [Trinidad](http://twitter.com/search?q=Trinidad) | Trinidad is an island nation located in the Caribbean Sea off the coast of Venezuela. Its name comes from the Spanish word for "trinity," referring to the three mountain ranges that make up the island. In English, Trinidad means "three hills." |
 | 11 | [Dennys](http://twitter.com/search?q=Dennys) | N/A |
@@ -43,7 +43,7 @@ This is top 50 for Guatemala
 | 26 | [corte de constitucionalidad](http://twitter.com/search?q=corte+de+constitucionalidad) | N/A |
 | 27 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
 | 28 | [Woody](http://twitter.com/search?q=Woody) | Woody is a slang term used to describe someone who is strong, tough, and determined. It can also be used to describe someone who is stubborn and unyielding. |
-| 29 | [Villacorta](http://twitter.com/search?q=Villacorta) | N/A |
+| 29 | [villacorta](http://twitter.com/search?q=villacorta) | N/A |
 | 30 | [Américas](http://twitter.com/search?q=Am%c3%a9ricas) | N/A |
 | 31 | [Peten](http://twitter.com/search?q=Peten) | N/A |
 | 32 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-15 09:17:39 UTC`
+📆 Last Updated: `2023-04-15 10:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for Panama
 | 5 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
 | 6 | [yappy](http://twitter.com/search?q=yappy) | N/A |
 | 7 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
-| 8 | [grupo c](http://twitter.com/search?q=grupo+c) | N/A |
-| 9 | [Global Bank](http://twitter.com/search?q=Global+Bank) | N/A |
+| 8 | [Grupo C](http://twitter.com/search?q=Grupo+C) | N/A |
+| 9 | [global bank](http://twitter.com/search?q=global+bank) | N/A |
 | 10 | [#reconciliaciondaleona](http://twitter.com/search?q=%23reconciliaciondaleona) | N/A |
 | 11 | [team daleona](http://twitter.com/search?q=team+daleona) | N/A |
 | 12 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Panama
 | 32 | [Ganondorf](http://twitter.com/search?q=Ganondorf) | N/A |
 | 33 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 34 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 35 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | N/A |
-| 36 | [new business](http://twitter.com/search?q=new+business) | N/A |
-| 37 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
-| 38 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
-| 39 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 40 | [chepo](http://twitter.com/search?q=chepo) | N/A |
-| 41 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
-| 42 | [RICARDO MARTINELLI](http://twitter.com/search?q=RICARDO+MARTINELLI) | N/A |
-| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 44 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [#Seguimos](http://twitter.com/search?q=%23Seguimos) | N/A |
-| 47 | [copa airlines](http://twitter.com/search?q=copa+airlines) | N/A |
-| 48 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 49 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 50 | [anati](http://twitter.com/search?q=anati) | N/A |
+| 35 | [new business](http://twitter.com/search?q=new+business) | N/A |
+| 36 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | N/A |
+| 37 | [Pentágono](http://twitter.com/search?q=Pent%c3%a1gono) | N/A |
+| 38 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 39 | [chepo](http://twitter.com/search?q=chepo) | N/A |
+| 40 | [Siiii](http://twitter.com/search?q=Siiii) | N/A |
+| 41 | [RICARDO MARTINELLI](http://twitter.com/search?q=RICARDO+MARTINELLI) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 44 | [#Seguimos](http://twitter.com/search?q=%23Seguimos) | N/A |
+| 45 | [Copa Airlines](http://twitter.com/search?q=Copa+Airlines) | N/A |
+| 46 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 47 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 48 | [anati](http://twitter.com/search?q=anati) | N/A |
+| 49 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 50 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
 
 
 

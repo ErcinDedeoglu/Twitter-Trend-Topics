@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-04-15 09:17:03 UTC`
+📆 Last Updated: `2023-04-15 10:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Italy](</Italy>)
 | 5 | [#QuartoGrado](http://twitter.com/search?q=%23QuartoGrado) | N/A |
 | 6 | [Calenda](http://twitter.com/search?q=Calenda) | N/A |
 | 7 | [Giletti](http://twitter.com/search?q=Giletti) | N/A |
-| 8 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 9 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
-| 10 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 11 | [Ciao Paolo](http://twitter.com/search?q=Ciao+Paolo) | N/A |
-| 12 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
-| 13 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 14 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 15 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 16 | [Buongiorno Pasquale](http://twitter.com/search?q=Buongiorno+Pasquale) | N/A |
-| 17 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
-| 18 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
-| 19 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
-| 20 | [ampadu](http://twitter.com/search?q=ampadu) | N/A |
-| 21 | [PELLEGRINI](http://twitter.com/search?q=PELLEGRINI) | N/A |
+| 8 | [Cellino](http://twitter.com/search?q=Cellino) | N/A |
+| 9 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
+| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 11 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 12 | [Votato](http://twitter.com/search?q=Votato) | N/A |
+| 13 | [Pro Recco](http://twitter.com/search?q=Pro+Recco) | N/A |
+| 14 | [Ciao Paolo](http://twitter.com/search?q=Ciao+Paolo) | N/A |
+| 15 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 16 | [Formigli](http://twitter.com/search?q=Formigli) | N/A |
+| 17 | [Marcos Antonio](http://twitter.com/search?q=Marcos+Antonio) | N/A |
+| 18 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 19 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 20 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 21 | [Mattei](http://twitter.com/search?q=Mattei) | N/A |
 | 22 | [Azione](http://twitter.com/search?q=Azione) | N/A |
-| 23 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 24 | [Sarri](http://twitter.com/search?q=Sarri) | N/A |
-| 25 | [Buongiorno Gaetano](http://twitter.com/search?q=Buongiorno+Gaetano) | N/A |
+| 23 | [Prigozhin](http://twitter.com/search?q=Prigozhin) | N/A |
+| 24 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
+| 25 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
 | 26 | [Gruber](http://twitter.com/search?q=Gruber) | N/A |
-| 27 | [Felipe Anderson](http://twitter.com/search?q=Felipe+Anderson) | Felipe Anderson is a Brazilian professional footballer who plays as an attacking midfielder for Premier League club West Ham United. His name is derived from the Portuguese words "feliz" (happy) and "pé" (foot). In English, his name translates to "happy foot". |
-| 28 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 29 | [Francesco Gabbani](http://twitter.com/search?q=Francesco+Gabbani) | N/A |
-| 30 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 31 | [Pipe](http://twitter.com/search?q=Pipe) | N/A |
-| 32 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
-| 33 | [Vittorio Arrigoni](http://twitter.com/search?q=Vittorio+Arrigoni) | N/A |
-| 34 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
-| 35 | [Il 15](http://twitter.com/search?q=Il+15) | N/A |
-| 36 | [Graviano](http://twitter.com/search?q=Graviano) | N/A |
-| 37 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 38 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
-| 39 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
-| 40 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 41 | [anice](http://twitter.com/search?q=anice) | N/A |
-| 42 | [Carmelo](http://twitter.com/search?q=Carmelo) | N/A |
-| 43 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 44 | [Buongiorno Roberto](http://twitter.com/search?q=Buongiorno+Roberto) | N/A |
-| 45 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
-| 46 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 47 | [Piove](http://twitter.com/search?q=Piove) | N/A |
-| 48 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 49 | [Addis Abeba](http://twitter.com/search?q=Addis+Abeba) | N/A |
-| 50 | [Maicol](http://twitter.com/search?q=Maicol) | N/A |
+| 27 | [Kishida](http://twitter.com/search?q=Kishida) | N/A |
+| 28 | [Buongiorno Gaetano](http://twitter.com/search?q=Buongiorno+Gaetano) | N/A |
+| 29 | [PERIN](http://twitter.com/search?q=PERIN) | N/A |
+| 30 | [Felipe Anderson](http://twitter.com/search?q=Felipe+Anderson) | Felipe Anderson is a Brazilian professional footballer who plays as an attacking midfielder for Premier League club West Ham United. His name is derived from the Portuguese words "feliz" (happy) and "pé" (foot). In English, his name translates to "happy foot". |
+| 31 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 32 | [Buongiorno Eli](http://twitter.com/search?q=Buongiorno+Eli) | N/A |
+| 33 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 34 | [Vittorio Arrigoni](http://twitter.com/search?q=Vittorio+Arrigoni) | N/A |
+| 35 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 36 | [Arturo](http://twitter.com/search?q=Arturo) | N/A |
+| 37 | [Il Tar](http://twitter.com/search?q=Il+Tar) | N/A |
+| 38 | [Leopolda](http://twitter.com/search?q=Leopolda) | N/A |
+| 39 | [Buongiorno Daniela](http://twitter.com/search?q=Buongiorno+Daniela) | N/A |
+| 40 | [Eccomi](http://twitter.com/search?q=Eccomi) | N/A |
+| 41 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
+| 42 | [Buongiorno Ilva](http://twitter.com/search?q=Buongiorno+Ilva) | N/A |
+| 43 | [Pipe](http://twitter.com/search?q=Pipe) | N/A |
+| 44 | [Addis Abeba](http://twitter.com/search?q=Addis+Abeba) | N/A |
+| 45 | [Gabbani](http://twitter.com/search?q=Gabbani) | N/A |
+| 46 | [Il 15](http://twitter.com/search?q=Il+15) | N/A |
+| 47 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
+| 48 | [Ampadu](http://twitter.com/search?q=Ampadu) | N/A |
+| 49 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 50 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
 
 
 
