@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-04-15 10:17:06 UTC`
+📆 Last Updated: `2023-04-15 11:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Rowdy](http://twitter.com/search?q=Rowdy) | N/A |
 | 2 | [Padres](http://twitter.com/search?q=Padres) | N/A |
-| 3 | [Luke Voit](http://twitter.com/search?q=Luke+Voit) | N/A |
+| 3 | [LUKE VOIT](http://twitter.com/search?q=LUKE+VOIT) | N/A |
 | 4 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
 | 5 | [Yelich](http://twitter.com/search?q=Yelich) | N/A |
 | 6 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
 | 7 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 8 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 9 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 10 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
-| 11 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
-| 12 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 13 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 14 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 15 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 16 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
-| 17 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
-| 18 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 19 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 20 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
-| 21 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 22 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
-| 23 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 24 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 25 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 26 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 27 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 28 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 29 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 30 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 31 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
-| 32 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 33 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
-| 34 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 35 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 36 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 37 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 38 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 39 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
-| 40 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 41 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 42 | [Suns in 6](http://twitter.com/search?q=Suns+in+6) | N/A |
-| 43 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 44 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 45 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 46 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 47 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 48 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
-| 49 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 9 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 10 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 11 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
+| 12 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
+| 13 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 14 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 15 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 16 | [JEONGYEON](http://twitter.com/search?q=JEONGYEON) | N/A |
+| 17 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 18 | [TSB IS HERE TO SWALLOW](http://twitter.com/search?q=TSB+IS+HERE+TO+SWALLOW) | N/A |
+| 19 | [JIHYO](http://twitter.com/search?q=JIHYO) | N/A |
+| 20 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
+| 21 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 22 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 23 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
+| 24 | [LA CANCIÓN](http://twitter.com/search?q=LA+CANCI%c3%93N) | N/A |
+| 25 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
+| 26 | [Posty](http://twitter.com/search?q=Posty) | N/A |
+| 27 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 28 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 29 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 30 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 31 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 32 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
+| 33 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 34 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
+| 35 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 36 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 37 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 38 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
+| 39 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 40 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 41 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 42 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
+| 43 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
+| 44 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 45 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 46 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 47 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
+| 48 | [Great War](http://twitter.com/search?q=Great+War) | N/A |
+| 49 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-04-15 10:16:26 UTC`
+📆 Last Updated: `2023-04-15 11:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
-| 2 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 3 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 2 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 3 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
 | 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 5 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 6 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 7 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 8 | [Game Day](http://twitter.com/search?q=Game+Day) | N/A |
-| 9 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
-| 10 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 11 | [200 PRITT STICKS](http://twitter.com/search?q=200+PRITT+STICKS) | N/A |
-| 12 | [Justice for the 97](http://twitter.com/search?q=Justice+for+the+97) | N/A |
-| 13 | [remembering the 97](http://twitter.com/search?q=remembering+the+97) | N/A |
-| 14 | [Never Forgotten](http://twitter.com/search?q=Never+Forgotten) | N/A |
-| 15 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
-| 16 | [RIP the 97](http://twitter.com/search?q=RIP+the+97) | N/A |
-| 17 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 18 | [Galvin](http://twitter.com/search?q=Galvin) | N/A |
-| 19 | [The Big Dog](http://twitter.com/search?q=The+Big+Dog) | N/A |
-| 20 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 21 | [Mr Incredible](http://twitter.com/search?q=Mr+Incredible) | N/A |
-| 22 | [Le Milos](http://twitter.com/search?q=Le+Milos) | N/A |
-| 23 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
-| 24 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 25 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 26 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 27 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 28 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 29 | [Barnet](http://twitter.com/search?q=Barnet) | N/A |
-| 30 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 31 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 32 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 33 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
-| 34 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 35 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
-| 36 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
-| 37 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 38 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 39 | [#GW31](http://twitter.com/search?q=%23GW31) | N/A |
-| 40 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 41 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 42 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 43 | [#WorldArtDay](http://twitter.com/search?q=%23WorldArtDay) | N/A |
-| 44 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 45 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 46 | [#WorldSnookerChampionship](http://twitter.com/search?q=%23WorldSnookerChampionship) | N/A |
-| 47 | [#dontbuythesun](http://twitter.com/search?q=%23dontbuythesun) | N/A |
-| 48 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 49 | [#ArtGiftsDay](http://twitter.com/search?q=%23ArtGiftsDay) | N/A |
+| 5 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
+| 6 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 7 | [#AVLNEW](http://twitter.com/search?q=%23AVLNEW) | N/A |
+| 8 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 9 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 10 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 11 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 12 | [Le Milos](http://twitter.com/search?q=Le+Milos) | N/A |
+| 13 | [Khartoum](http://twitter.com/search?q=Khartoum) | N/A |
+| 14 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 15 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 16 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 17 | [200 PRITT STICKS](http://twitter.com/search?q=200+PRITT+STICKS) | N/A |
+| 18 | [RIP the 97](http://twitter.com/search?q=RIP+the+97) | N/A |
+| 19 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 20 | [Edinburgh Derby](http://twitter.com/search?q=Edinburgh+Derby) | N/A |
+| 21 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
+| 22 | [Audrey](http://twitter.com/search?q=Audrey) | N/A |
+| 23 | [The Big Dog](http://twitter.com/search?q=The+Big+Dog) | N/A |
+| 24 | [Galvin](http://twitter.com/search?q=Galvin) | N/A |
+| 25 | [Remembering the 97](http://twitter.com/search?q=Remembering+the+97) | N/A |
+| 26 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 27 | [Justice for the 97](http://twitter.com/search?q=Justice+for+the+97) | N/A |
+| 28 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 29 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 30 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 31 | [Roi Mage](http://twitter.com/search?q=Roi+Mage) | N/A |
+| 32 | [Mr Incredible](http://twitter.com/search?q=Mr+Incredible) | N/A |
+| 33 | [Longhouse Poet](http://twitter.com/search?q=Longhouse+Poet) | N/A |
+| 34 | [Our Power](http://twitter.com/search?q=Our+Power) | N/A |
+| 35 | [Easter Road](http://twitter.com/search?q=Easter+Road) | N/A |
+| 36 | [Coko Beach](http://twitter.com/search?q=Coko+Beach) | N/A |
+| 37 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 38 | [Barnet](http://twitter.com/search?q=Barnet) | N/A |
+| 39 | [Any Second Now](http://twitter.com/search?q=Any+Second+Now) | N/A |
+| 40 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 41 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 42 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
+| 43 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 44 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 45 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 46 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 47 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 48 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
+| 49 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 50 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
 
 
 

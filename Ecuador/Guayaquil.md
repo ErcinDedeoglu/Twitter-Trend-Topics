@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-04-15 10:16:32 UTC`
+📆 Last Updated: `2023-04-15 11:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 2 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 3 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 4 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
-| 5 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 6 | [Obando](http://twitter.com/search?q=Obando) | N/A |
-| 7 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
-| 8 | [Penitenciaría del Litoral](http://twitter.com/search?q=Penitenciar%c3%ada+del+Litoral) | N/A |
-| 9 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
-| 10 | [daule](http://twitter.com/search?q=daule) | N/A |
-| 11 | [michael bermúdez](http://twitter.com/search?q=michael+berm%c3%badez) | N/A |
-| 12 | [Olímpico Atahualpa](http://twitter.com/search?q=Ol%c3%admpico+Atahualpa) | N/A |
-| 13 | [andreina p disco rojo](http://twitter.com/search?q=andreina+p+disco+rojo) | N/A |
-| 14 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 1 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 2 | [Kendry Páez](http://twitter.com/search?q=Kendry+P%c3%a1ez) | N/A |
+| 3 | [Obando](http://twitter.com/search?q=Obando) | N/A |
+| 4 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 5 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
+| 6 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 7 | [Penitenciaría del Litoral](http://twitter.com/search?q=Penitenciar%c3%ada+del+Litoral) | N/A |
+| 8 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | N/A |
+| 9 | [michael bermúdez](http://twitter.com/search?q=michael+berm%c3%badez) | N/A |
+| 10 | [olímpico atahualpa](http://twitter.com/search?q=ol%c3%admpico+atahualpa) | N/A |
+| 11 | [andreina p disco rojo](http://twitter.com/search?q=andreina+p+disco+rojo) | N/A |
+| 12 | [TE ARDE](http://twitter.com/search?q=TE+ARDE) | N/A |
+| 13 | [Ecuador](http://twitter.com/search?q=Ecuador) | Ecuador is a country located in South America, bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. The name Ecuador comes from the Spanish word for "equator," which refers to its location on the equator line. |
+| 14 | [Daule](http://twitter.com/search?q=Daule) | N/A |
 | 15 | [Glas](http://twitter.com/search?q=Glas) | N/A |
-| 16 | [TE ARDE](http://twitter.com/search?q=TE+ARDE) | N/A |
-| 17 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
-| 18 | [alondra](http://twitter.com/search?q=alondra) | N/A |
-| 19 | [#saludsanext2023](http://twitter.com/search?q=%23saludsanext2023) | N/A |
-| 20 | [#minitri](http://twitter.com/search?q=%23minitri) | N/A |
-| 21 | [reina del cisne](http://twitter.com/search?q=reina+del+cisne) | N/A |
-| 22 | [#soybscyusohavoline](http://twitter.com/search?q=%23soybscyusohavoline) | N/A |
-| 23 | [De Jesús](http://twitter.com/search?q=De+Jes%c3%bas) | N/A |
-| 24 | [SNAI](http://twitter.com/search?q=SNAI) | N/A |
+| 16 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
+| 17 | [alondra](http://twitter.com/search?q=alondra) | N/A |
+| 18 | [#saludsanext2023](http://twitter.com/search?q=%23saludsanext2023) | N/A |
+| 19 | [#minitri](http://twitter.com/search?q=%23minitri) | N/A |
+| 20 | [reina del cisne](http://twitter.com/search?q=reina+del+cisne) | N/A |
+| 21 | [#soybscyusohavoline](http://twitter.com/search?q=%23soybscyusohavoline) | N/A |
+| 22 | [De Jesús](http://twitter.com/search?q=De+Jes%c3%bas) | N/A |
+| 23 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 24 | [snai](http://twitter.com/search?q=snai) | N/A |
 | 25 | [guayasamín](http://twitter.com/search?q=guayasam%c3%adn) | N/A |
 | 26 | [#díadelmaestro](http://twitter.com/search?q=%23d%c3%adadelmaestro) | N/A |
 | 27 | [directv](http://twitter.com/search?q=directv) | N/A |
 | 28 | [Anselmi](http://twitter.com/search?q=Anselmi) | N/A |
 | 29 | [Niels](http://twitter.com/search?q=Niels) | N/A |
-| 30 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
-| 31 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
-| 32 | [jaime roldós](http://twitter.com/search?q=jaime+rold%c3%b3s) | N/A |
-| 33 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
-| 34 | [enrollado](http://twitter.com/search?q=enrollado) | N/A |
-| 35 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 36 | [Loja](http://twitter.com/search?q=Loja) | N/A |
-| 37 | [Encebollado](http://twitter.com/search?q=Encebollado) | N/A |
-| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 39 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
-| 40 | [mikaella](http://twitter.com/search?q=mikaella) | N/A |
-| 41 | [Collahuazo](http://twitter.com/search?q=Collahuazo) | N/A |
-| 42 | [erazo](http://twitter.com/search?q=erazo) | N/A |
-| 43 | [Kaviedes](http://twitter.com/search?q=Kaviedes) | N/A |
-| 44 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
+| 30 | [jaime roldós](http://twitter.com/search?q=jaime+rold%c3%b3s) | N/A |
+| 31 | [Encebollado](http://twitter.com/search?q=Encebollado) | N/A |
+| 32 | [Casa Blanca](http://twitter.com/search?q=Casa+Blanca) | N/A |
+| 33 | [enrollado](http://twitter.com/search?q=enrollado) | N/A |
+| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 35 | [Coronel](http://twitter.com/search?q=Coronel) | N/A |
+| 36 | [mikaella](http://twitter.com/search?q=mikaella) | N/A |
+| 37 | [collahuazo](http://twitter.com/search?q=collahuazo) | N/A |
+| 38 | [erazo](http://twitter.com/search?q=erazo) | N/A |
+| 39 | [Kaviedes](http://twitter.com/search?q=Kaviedes) | N/A |
+| 40 | [Esmeraldas](http://twitter.com/search?q=Esmeraldas) | N/A |
+| 41 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 42 | [Cantinflas](http://twitter.com/search?q=Cantinflas) | N/A |
+| 43 | [Miami](http://twitter.com/search?q=Miami) | Miami is a city in the southeastern United States, located on the Atlantic coast in Florida. It is the county seat of Miami-Dade County and the most populous city in Florida. The city's name comes from the Mayaimi, a Native American tribe that lived in the area at the time of European settlement. Miami is known for its beaches, nightlife, and cultural attractions. |
+| 44 | [Loja](http://twitter.com/search?q=Loja) | N/A |
 | 45 | [Castro](http://twitter.com/search?q=Castro) | N/A |
 | 46 | [ligapro](http://twitter.com/search?q=ligapro) | N/A |
-| 47 | [rodrigo paz](http://twitter.com/search?q=rodrigo+paz) | N/A |
-| 48 | [NatGeo](http://twitter.com/search?q=NatGeo) | N/A |
-| 49 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
-| 50 | [Guacharnaco](http://twitter.com/search?q=Guacharnaco) | N/A |
+| 47 | [BTS IS COMING](http://twitter.com/search?q=BTS+IS+COMING) | N/A |
+| 48 | [guacharnaco](http://twitter.com/search?q=guacharnaco) | N/A |
+| 49 | [juan montalvo](http://twitter.com/search?q=juan+montalvo) | N/A |
+| 50 | [BTS IS BACK](http://twitter.com/search?q=BTS+IS+BACK) | N/A |
 
 
 

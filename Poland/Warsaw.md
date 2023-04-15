@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-04-15 10:16:36 UTC`
+📆 Last Updated: `2023-04-15 11:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CzasUlicy](http://twitter.com/search?q=%23CzasUlicy) | N/A |
-| 2 | [#lpoacf](http://twitter.com/search?q=%23lpoacf) | N/A |
-| 3 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 2 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 3 | [Marsz](http://twitter.com/search?q=Marsz) | N/A |
 | 4 | [Czarnka](http://twitter.com/search?q=Czarnka) | N/A |
-| 5 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
-| 6 | [#GW31](http://twitter.com/search?q=%23GW31) | N/A |
-| 7 | [#jakgractoznajlepszymi](http://twitter.com/search?q=%23jakgractoznajlepszymi) | N/A |
-| 8 | [#ZAGGÓR](http://twitter.com/search?q=%23ZAGG%c3%93R) | N/A |
-| 9 | [Będziemy](http://twitter.com/search?q=B%c4%99dziemy) | N/A |
-| 10 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 11 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 12 | [Polska](http://twitter.com/search?q=Polska) | N/A |
-| 13 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
-| 14 | [Obecność](http://twitter.com/search?q=Obecno%c5%9b%c4%87) | N/A |
-| 15 | [Żyro](http://twitter.com/search?q=%c5%bbyro) | N/A |
-| 16 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
-| 17 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
-| 18 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
-| 19 | [Młyński](http://twitter.com/search?q=M%c5%82y%c5%84ski) | N/A |
-| 20 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 21 | [Junca](http://twitter.com/search?q=Junca) | N/A |
-| 22 | [starzyński](http://twitter.com/search?q=starzy%c5%84ski) | N/A |
-| 23 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
-| 24 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 25 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
-| 26 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 27 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 28 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
-| 29 | [Marcin Kamiński](http://twitter.com/search?q=Marcin+Kami%c5%84ski) | N/A |
-| 30 | [Miedwiediew](http://twitter.com/search?q=Miedwiediew) | N/A |
-| 31 | [Udanej](http://twitter.com/search?q=Udanej) | N/A |
-| 32 | [Nareszcie](http://twitter.com/search?q=Nareszcie) | N/A |
-| 33 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
-| 34 | [Krawczyk](http://twitter.com/search?q=Krawczyk) | N/A |
-| 35 | [Mieszka](http://twitter.com/search?q=Mieszka) | N/A |
-| 36 | [Lempart](http://twitter.com/search?q=Lempart) | N/A |
-| 37 | [PiSu](http://twitter.com/search?q=PiSu) | N/A |
-| 38 | [Lisie](http://twitter.com/search?q=Lisie) | N/A |
-| 39 | [Ewangelię](http://twitter.com/search?q=Ewangeli%c4%99) | N/A |
-| 40 | [hailie](http://twitter.com/search?q=hailie) | N/A |
-| 41 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 42 | [Ruchem](http://twitter.com/search?q=Ruchem) | N/A |
-| 43 | [Lubinie](http://twitter.com/search?q=Lubinie) | N/A |
-| 44 | [Bochenek](http://twitter.com/search?q=Bochenek) | N/A |
-| 45 | [Tomasz L.](http://twitter.com/search?q=Tomasz+L.) | N/A |
-| 46 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 47 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 48 | [berlingo](http://twitter.com/search?q=berlingo) | N/A |
-| 49 | [Tachi](http://twitter.com/search?q=Tachi) | N/A |
-| 50 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 5 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 6 | [#spaces5sosgliwice](http://twitter.com/search?q=%23spaces5sosgliwice) | N/A |
+| 7 | [#WISSTA](http://twitter.com/search?q=%23WISSTA) | N/A |
+| 8 | [Tuska](http://twitter.com/search?q=Tuska) | N/A |
+| 9 | [Celtics](http://twitter.com/search?q=Celtics) | Celtics is a term used to refer to the people of the Celtic culture, which originated in Iron Age Europe and spread throughout the British Isles and parts of France. The Celts were known for their art, music, literature, and mythology. In modern times, the term is often used to refer to sports teams such as the Boston Celtics basketball team. |
+| 10 | [#GW31](http://twitter.com/search?q=%23GW31) | N/A |
+| 11 | [#Forum](http://twitter.com/search?q=%23Forum) | N/A |
+| 12 | [Będziemy](http://twitter.com/search?q=B%c4%99dziemy) | N/A |
+| 13 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 14 | [Stankiewicz](http://twitter.com/search?q=Stankiewicz) | N/A |
+| 15 | [Polska](http://twitter.com/search?q=Polska) | N/A |
+| 16 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 17 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 18 | [Żyro](http://twitter.com/search?q=%c5%bbyro) | N/A |
+| 19 | [DZIEŃ MECZOWY](http://twitter.com/search?q=DZIE%c5%83+MECZOWY) | N/A |
+| 20 | [Obecność](http://twitter.com/search?q=Obecno%c5%9b%c4%87) | N/A |
+| 21 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
+| 22 | [Hartwich](http://twitter.com/search?q=Hartwich) | N/A |
+| 23 | [Sejmie](http://twitter.com/search?q=Sejmie) | N/A |
+| 24 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
+| 25 | [Młyński](http://twitter.com/search?q=M%c5%82y%c5%84ski) | N/A |
+| 26 | [Junca](http://twitter.com/search?q=Junca) | N/A |
+| 27 | [Strajk](http://twitter.com/search?q=Strajk) | N/A |
+| 28 | [Przeciw](http://twitter.com/search?q=Przeciw) | N/A |
+| 29 | [starzyński](http://twitter.com/search?q=starzy%c5%84ski) | N/A |
+| 30 | [bednarka](http://twitter.com/search?q=bednarka) | N/A |
+| 31 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 32 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 33 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | N/A |
+| 34 | [Marcin Kamiński](http://twitter.com/search?q=Marcin+Kami%c5%84ski) | N/A |
+| 35 | [Miedwiediew](http://twitter.com/search?q=Miedwiediew) | N/A |
+| 36 | [Krawczyk](http://twitter.com/search?q=Krawczyk) | N/A |
+| 37 | [Śląsk](http://twitter.com/search?q=%c5%9al%c4%85sk) | N/A |
+| 38 | [Udanej](http://twitter.com/search?q=Udanej) | N/A |
+| 39 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
+| 40 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 42 | [Lisie](http://twitter.com/search?q=Lisie) | N/A |
+| 43 | [PiSu](http://twitter.com/search?q=PiSu) | N/A |
+| 44 | [Amsterdamie](http://twitter.com/search?q=Amsterdamie) | N/A |
+| 45 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 46 | [Ewangelię](http://twitter.com/search?q=Ewangeli%c4%99) | N/A |
+| 47 | [hailie](http://twitter.com/search?q=hailie) | N/A |
+| 48 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
+| 49 | [Lempart](http://twitter.com/search?q=Lempart) | N/A |
+| 50 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
 
 
 

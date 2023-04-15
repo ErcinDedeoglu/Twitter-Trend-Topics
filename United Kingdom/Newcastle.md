@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-04-15 10:16:27 UTC`
+📆 Last Updated: `2023-04-15 11:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
-| 2 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
-| 3 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 4 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 5 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 6 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
-| 7 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 1 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 2 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
+| 3 | [#80MM](http://twitter.com/search?q=%2380MM) | N/A |
+| 4 | [Barnet](http://twitter.com/search?q=Barnet) | N/A |
+| 5 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
+| 6 | [#GAConf23](http://twitter.com/search?q=%23GAConf23) | N/A |
+| 7 | [#JFT97](http://twitter.com/search?q=%23JFT97) | N/A |
 | 8 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 11 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 12 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 13 | [Game Day](http://twitter.com/search?q=Game+Day) | N/A |
-| 14 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
-| 15 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
-| 16 | [200 PRITT STICKS](http://twitter.com/search?q=200+PRITT+STICKS) | N/A |
-| 17 | [Justice for the 97](http://twitter.com/search?q=Justice+for+the+97) | N/A |
-| 18 | [remembering the 97](http://twitter.com/search?q=remembering+the+97) | N/A |
-| 19 | [Never Forgotten](http://twitter.com/search?q=Never+Forgotten) | N/A |
-| 20 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 9 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 10 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 11 | [Delta Work](http://twitter.com/search?q=Delta+Work) | N/A |
+| 12 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 13 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 14 | [Le Milos](http://twitter.com/search?q=Le+Milos) | N/A |
+| 15 | [Game Day](http://twitter.com/search?q=Game+Day) | N/A |
+| 16 | [Khartoum](http://twitter.com/search?q=Khartoum) | N/A |
+| 17 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 18 | [GAME ON](http://twitter.com/search?q=GAME+ON) | N/A |
+| 19 | [Hibs](http://twitter.com/search?q=Hibs) | Hibs is an abbreviation for Hibernian Football Club, a professional football club based in Edinburgh, Scotland. The club is also known as the Hibees and plays in the Scottish Premiership. |
+| 20 | [200 PRITT STICKS](http://twitter.com/search?q=200+PRITT+STICKS) | N/A |
 | 21 | [RIP the 97](http://twitter.com/search?q=RIP+the+97) | N/A |
-| 22 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 23 | [Galvin](http://twitter.com/search?q=Galvin) | N/A |
-| 24 | [The Big Dog](http://twitter.com/search?q=The+Big+Dog) | N/A |
-| 25 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
-| 26 | [Mr Incredible](http://twitter.com/search?q=Mr+Incredible) | N/A |
-| 27 | [Le Milos](http://twitter.com/search?q=Le+Milos) | N/A |
-| 28 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 29 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 30 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
-| 31 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
-| 32 | [Barnet](http://twitter.com/search?q=Barnet) | N/A |
-| 33 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
-| 34 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 35 | [Morning Andy](http://twitter.com/search?q=Morning+Andy) | N/A |
-| 36 | [Gerry Adams](http://twitter.com/search?q=Gerry+Adams) | N/A |
-| 37 | [Unison](http://twitter.com/search?q=Unison) | N/A |
-| 38 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
-| 39 | [Shinnie](http://twitter.com/search?q=Shinnie) | N/A |
-| 40 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 41 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 42 | [#GW31](http://twitter.com/search?q=%23GW31) | N/A |
-| 43 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 44 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 45 | [#WorldArtDay](http://twitter.com/search?q=%23WorldArtDay) | N/A |
-| 46 | [#FPLCommunity](http://twitter.com/search?q=%23FPLCommunity) | N/A |
-| 47 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 48 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 49 | [#WorldSnookerChampionship](http://twitter.com/search?q=%23WorldSnookerChampionship) | N/A |
+| 22 | [Corach Rambler](http://twitter.com/search?q=Corach+Rambler) | N/A |
+| 23 | [Edinburgh Derby](http://twitter.com/search?q=Edinburgh+Derby) | N/A |
+| 24 | [Audrey](http://twitter.com/search?q=Audrey) | N/A |
+| 25 | [Longstaff](http://twitter.com/search?q=Longstaff) | Longstaff is a surname of English origin. It is derived from the Old English words "lang" meaning long and "staf" meaning staff. The name was originally given to someone who carried a long staff as a sign of authority or rank. |
+| 26 | [The Big Dog](http://twitter.com/search?q=The+Big+Dog) | N/A |
+| 27 | [Galvin](http://twitter.com/search?q=Galvin) | N/A |
+| 28 | [Remembering the 97](http://twitter.com/search?q=Remembering+the+97) | N/A |
+| 29 | [Aintree](http://twitter.com/search?q=Aintree) | Aintree is a racecourse in the north of England, near Liverpool. It is most famous for hosting the Grand National, an annual steeplechase horse race. The name Aintree is derived from Old English and means "one tree". |
+| 30 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 31 | [Justice for the 97](http://twitter.com/search?q=Justice+for+the+97) | N/A |
+| 32 | [Gaillard Du Mesnil](http://twitter.com/search?q=Gaillard+Du+Mesnil) | N/A |
+| 33 | [Roi Mage](http://twitter.com/search?q=Roi+Mage) | N/A |
+| 34 | [Mr Incredible](http://twitter.com/search?q=Mr+Incredible) | N/A |
+| 35 | [Longhouse Poet](http://twitter.com/search?q=Longhouse+Poet) | N/A |
+| 36 | [Our Power](http://twitter.com/search?q=Our+Power) | N/A |
+| 37 | [Easter Road](http://twitter.com/search?q=Easter+Road) | N/A |
+| 38 | [Coko Beach](http://twitter.com/search?q=Coko+Beach) | N/A |
+| 39 | [Noble Yeats](http://twitter.com/search?q=Noble+Yeats) | N/A |
+| 40 | [Any Second Now](http://twitter.com/search?q=Any+Second+Now) | N/A |
+| 41 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 42 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 43 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 44 | [Morning John](http://twitter.com/search?q=Morning+John) | N/A |
+| 45 | [Morning Mark](http://twitter.com/search?q=Morning+Mark) | N/A |
+| 46 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
+| 47 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 48 | [Ethan](http://twitter.com/search?q=Ethan) | N/A |
+| 49 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
 
 
 

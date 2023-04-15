@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-04-15 10:17:04 UTC`
+📆 Last Updated: `2023-04-15 11:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
 | 2 | [21 Savage](http://twitter.com/search?q=21+Savage) | N/A |
-| 3 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 3 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
 | 4 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 6 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 7 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 8 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 5 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 6 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 7 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 8 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 9 | [#BadChella](http://twitter.com/search?q=%23BadChella) | N/A |
 | 10 | [#TSBWIN](http://twitter.com/search?q=%23TSBWIN) | N/A |
-| 11 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 12 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 13 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 14 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
-| 15 | [La Canción](http://twitter.com/search?q=La+Canci%c3%b3n) | N/A |
-| 16 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
-| 17 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 18 | [#STARDOM](http://twitter.com/search?q=%23STARDOM) | N/A |
-| 19 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
-| 20 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 21 | [OTRA NOCHE EN MIAMI](http://twitter.com/search?q=OTRA+NOCHE+EN+MIAMI) | N/A |
-| 22 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
-| 23 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 24 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 11 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 13 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 14 | [JEONGYEON](http://twitter.com/search?q=JEONGYEON) | N/A |
+| 15 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 16 | [TSB IS HERE TO SWALLOW](http://twitter.com/search?q=TSB+IS+HERE+TO+SWALLOW) | N/A |
+| 17 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
+| 18 | [DO NOT WALLOW](http://twitter.com/search?q=DO+NOT+WALLOW) | N/A |
+| 19 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 20 | [Metro Boomin](http://twitter.com/search?q=Metro+Boomin) | N/A |
+| 21 | [Daily Quordle 446](http://twitter.com/search?q=Daily+Quordle+446) | N/A |
+| 22 | [LA CANCIÓN](http://twitter.com/search?q=LA+CANCI%c3%93N) | N/A |
+| 23 | [Jowell](http://twitter.com/search?q=Jowell) | N/A |
+| 24 | [Posty](http://twitter.com/search?q=Posty) | N/A |
 | 25 | [Hakimi](http://twitter.com/search?q=Hakimi) | Hakimi is an Arabic word meaning "ruler" or "governor". It is often used to refer to a leader or ruler of a region, city, or country. |
-| 26 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
-| 27 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
-| 28 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
-| 29 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
-| 30 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
-| 31 | [Wolves in 6](http://twitter.com/search?q=Wolves+in+6) | N/A |
-| 32 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 33 | [The Great War](http://twitter.com/search?q=The+Great+War) | N/A |
-| 34 | [Thunder](http://twitter.com/search?q=Thunder) | Thunder is the sound caused by lightning. It is a loud, booming sound that can be heard from miles away. Thunder is often associated with storms and bad weather. |
-| 35 | [Montana](http://twitter.com/search?q=Montana) | Montana is a state in the northwestern United States. It is known for its rugged terrain and wide open spaces. The name Montana comes from the Spanish word montaña, which means "mountain". |
-| 36 | [Justin Steele](http://twitter.com/search?q=Justin+Steele) | N/A |
-| 37 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
-| 38 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
-| 39 | [Blink 182](http://twitter.com/search?q=Blink+182) | N/A |
-| 40 | [Suns in 6](http://twitter.com/search?q=Suns+in+6) | N/A |
-| 41 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 42 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
-| 43 | [Chet](http://twitter.com/search?q=Chet) | N/A |
-| 44 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 45 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
-| 46 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
-| 47 | [Seiya](http://twitter.com/search?q=Seiya) | N/A |
+| 26 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
+| 27 | [Gobert](http://twitter.com/search?q=Gobert) | N/A |
+| 28 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 30 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 31 | [Chemical Brothers](http://twitter.com/search?q=Chemical+Brothers) | N/A |
+| 32 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 33 | [YOYOK](http://twitter.com/search?q=YOYOK) | N/A |
+| 34 | [Nuggets in 5](http://twitter.com/search?q=Nuggets+in+5) | N/A |
+| 35 | [Jackie Robinson](http://twitter.com/search?q=Jackie+Robinson) | N/A |
+| 36 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 37 | [Kaytranada](http://twitter.com/search?q=Kaytranada) | N/A |
+| 38 | [Pompeo](http://twitter.com/search?q=Pompeo) | N/A |
+| 39 | [Liz Cheney](http://twitter.com/search?q=Liz+Cheney) | N/A |
+| 40 | [Warriors in 6](http://twitter.com/search?q=Warriors+in+6) | N/A |
+| 41 | [Suzume](http://twitter.com/search?q=Suzume) | N/A |
+| 42 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 43 | [Sam Smith](http://twitter.com/search?q=Sam+Smith) | Sam Smith is the stage name of English singer-songwriter and multi-instrumentalist Samuel Frederick Smith. He rose to fame in October 2012 after being featured on Disclosure's breakthrough single "Latch", which peaked at number eleven on the UK Singles Chart. Smith has since released four studio albums, all of which have reached number one in the UK and have been certified either platinum or multi-platinum in the UK and other countries. |
+| 44 | [Dropkick Murphys](http://twitter.com/search?q=Dropkick+Murphys) | N/A |
+| 45 | [Great War](http://twitter.com/search?q=Great+War) | N/A |
+| 46 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
+| 47 | [Chet](http://twitter.com/search?q=Chet) | N/A |
 | 48 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 49 | [Bishop](http://twitter.com/search?q=Bishop) | N/A |
+| 49 | [Monet](http://twitter.com/search?q=Monet) | N/A |
 
 
 

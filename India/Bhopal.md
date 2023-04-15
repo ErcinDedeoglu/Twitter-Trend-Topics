@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bhopal
 
-📆 Last Updated: `2023-04-15 10:17:00 UTC`
+📆 Last Updated: `2023-04-15 11:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [उत्तम स्वास्थ्य](http://twitter.com/search?q=%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a5%8d%e0%a4%af) | N/A |
-| 2 | [CORRUPT PRADHAN MANTRI](http://twitter.com/search?q=CORRUPT+PRADHAN+MANTRI) | N/A |
-| 3 | [#BJPWithTSJobAspirants](http://twitter.com/search?q=%23BJPWithTSJobAspirants) | N/A |
-| 4 | [#FireStormIsComing](http://twitter.com/search?q=%23FireStormIsComing) | N/A |
-| 5 | [#RCBvsDC](http://twitter.com/search?q=%23RCBvsDC) | N/A |
-| 6 | [#Kabzaa2ShootingStarts](http://twitter.com/search?q=%23Kabzaa2ShootingStarts) | N/A |
-| 7 | [#RajasthanWelcomeAmitshah](http://twitter.com/search?q=%23RajasthanWelcomeAmitshah) | N/A |
+| 2 | [#RCBvDC](http://twitter.com/search?q=%23RCBvDC) | N/A |
+| 3 | [#FireStormIsComing](http://twitter.com/search?q=%23FireStormIsComing) | N/A |
+| 4 | [#TheyCallHimOG](http://twitter.com/search?q=%23TheyCallHimOG) | N/A |
+| 5 | [CORRUPT PRADHAN MANTRI](http://twitter.com/search?q=CORRUPT+PRADHAN+MANTRI) | N/A |
+| 6 | [#BJPWithTSJobAspirants](http://twitter.com/search?q=%23BJPWithTSJobAspirants) | N/A |
+| 7 | [#ViratKohli𓃵](http://twitter.com/search?q=%23ViratKohli%f0%93%83%b5) | #ViratKohli𓃵 is a hashtag used to promote the Indian cricketer Virat Kohli. It is not a phrase in English, but rather a combination of the hashtag and an emoji of a cricket bat. |
 | 8 | [सत्यपाल मलिक](http://twitter.com/search?q=%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%ae%e0%a4%b2%e0%a4%bf%e0%a4%95) | N/A |
-| 9 | [SRK TIME100 ICON](http://twitter.com/search?q=SRK+TIME100+ICON) | N/A |
-| 10 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
-| 11 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
-| 12 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 13 | [Constable](http://twitter.com/search?q=Constable) | N/A |
-| 14 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
-| 15 | [Kolar](http://twitter.com/search?q=Kolar) | N/A |
-| 16 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 17 | [नरोत्तम मिश्रा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
-| 18 | [Athani](http://twitter.com/search?q=Athani) | N/A |
-| 19 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 20 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
-| 21 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
-| 22 | [Shubho Noboborsho](http://twitter.com/search?q=Shubho+Noboborsho) | N/A |
-| 23 | [जवान शहीद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 24 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
-| 25 | [Cadbury](http://twitter.com/search?q=Cadbury) | N/A |
-| 26 | [CBI and ED](http://twitter.com/search?q=CBI+and+ED) | N/A |
-| 27 | [Governor](http://twitter.com/search?q=Governor) | N/A |
-| 28 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
-| 29 | [करण थापर](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a4%a3+%e0%a4%a5%e0%a4%be%e0%a4%aa%e0%a4%b0) | N/A |
-| 30 | [Delhi CM](http://twitter.com/search?q=Delhi+CM) | N/A |
-| 31 | [Hindi and English](http://twitter.com/search?q=Hindi+and+English) | N/A |
-| 32 | [Wire](http://twitter.com/search?q=Wire) | N/A |
-| 33 | [प्राकृतिक सौंदर्य](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%8c%e0%a4%82%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
-| 34 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 35 | [Ghulam Nabi Azad](http://twitter.com/search?q=Ghulam+Nabi+Azad) | N/A |
-| 36 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
-| 37 | [जेल जाना](http://twitter.com/search?q=%e0%a4%9c%e0%a5%87%e0%a4%b2+%e0%a4%9c%e0%a4%be%e0%a4%a8%e0%a4%be) | N/A |
-| 38 | [Sisodia](http://twitter.com/search?q=Sisodia) | N/A |
-| 39 | [#AskHimesh](http://twitter.com/search?q=%23AskHimesh) | N/A |
-| 40 | [#TheyCallHimOG](http://twitter.com/search?q=%23TheyCallHimOG) | N/A |
-| 41 | [#IB71Teaser](http://twitter.com/search?q=%23IB71Teaser) | N/A |
-| 42 | [#Satyapal_Malik](http://twitter.com/search?q=%23Satyapal_Malik) | N/A |
-| 43 | [#सत्यानाशी_कांग्रेस](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%a8%e0%a4%be%e0%a4%b6%e0%a5%80_%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 44 | [#ArvindKejriwal](http://twitter.com/search?q=%23ArvindKejriwal) | N/A |
-| 45 | [#PulwamaAttack](http://twitter.com/search?q=%23PulwamaAttack) | N/A |
-| 46 | [#CAPF](http://twitter.com/search?q=%23CAPF) | N/A |
-| 47 | [#ShehnaazWithFaridoon](http://twitter.com/search?q=%23ShehnaazWithFaridoon) | N/A |
-| 48 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 49 | [#HDFCBank](http://twitter.com/search?q=%23HDFCBank) | N/A |
+| 9 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 10 | [Lomror](http://twitter.com/search?q=Lomror) | N/A |
+| 11 | [SRK TIME100 ICON](http://twitter.com/search?q=SRK+TIME100+ICON) | N/A |
+| 12 | [Pulwama](http://twitter.com/search?q=Pulwama) | N/A |
+| 13 | [King Kohli](http://twitter.com/search?q=King+Kohli) | N/A |
+| 14 | [Marsh](http://twitter.com/search?q=Marsh) | N/A |
+| 15 | [CRPF](http://twitter.com/search?q=CRPF) | N/A |
+| 16 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 17 | [RUBINA HOSTING EKRH](http://twitter.com/search?q=RUBINA+HOSTING+EKRH) | N/A |
+| 18 | [2nd Innings Score](http://twitter.com/search?q=2nd+Innings+Score) | N/A |
+| 19 | [Happy Vishu](http://twitter.com/search?q=Happy+Vishu) | N/A |
+| 20 | [Constable](http://twitter.com/search?q=Constable) | N/A |
+| 21 | [Batsman](http://twitter.com/search?q=Batsman) | Batsman is a term used in cricket to refer to the player who stands at the batting crease and faces the bowler. The batsman's primary role is to score runs by hitting the ball with their bat. |
+| 22 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 23 | [Match 20](http://twitter.com/search?q=Match+20) | N/A |
+| 24 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
+| 25 | [Karan Thapar](http://twitter.com/search?q=Karan+Thapar) | N/A |
+| 26 | [Athani](http://twitter.com/search?q=Athani) | N/A |
+| 27 | [Sushant Words Of Wisdom](http://twitter.com/search?q=Sushant+Words+Of+Wisdom) | N/A |
+| 28 | [गुलाम नबी](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%a8%e0%a4%ac%e0%a5%80) | N/A |
+| 29 | [गृह मंत्री](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 30 | [Kolar](http://twitter.com/search?q=Kolar) | N/A |
+| 31 | [जवान शहीद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
+| 32 | [नरोत्तम मिश्रा](http://twitter.com/search?q=%e0%a4%a8%e0%a4%b0%e0%a5%8b%e0%a4%a4%e0%a5%8d%e0%a4%a4%e0%a4%ae+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%be) | N/A |
+| 33 | [Delhi CM](http://twitter.com/search?q=Delhi+CM) | N/A |
+| 34 | [जम्मू कश्मीर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%82+%e0%a4%95%e0%a4%b6%e0%a5%8d%e0%a4%ae%e0%a5%80%e0%a4%b0) | N/A |
+| 35 | [हिमाचल प्रदेश](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%ae%e0%a4%be%e0%a4%9a%e0%a4%b2+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%87%e0%a4%b6) | N/A |
+| 36 | [करण थापर](http://twitter.com/search?q=%e0%a4%95%e0%a4%b0%e0%a4%a3+%e0%a4%a5%e0%a4%be%e0%a4%aa%e0%a4%b0) | N/A |
+| 37 | [New Zealand](http://twitter.com/search?q=New+Zealand) | New Zealand is a country located in the southwestern Pacific Ocean. It consists of two main islands, the North Island and the South Island, as well as numerous smaller islands. The capital city is Wellington, and the official languages are English and Māori. New Zealand is known for its stunning natural beauty, with its rugged mountains, lush rainforests, and beautiful beaches. It is also home to a diverse range of wildlife, including many species of birds that are found nowhere else in the world. |
+| 38 | [Wire](http://twitter.com/search?q=Wire) | N/A |
+| 39 | [Shubho Nobo Borsho](http://twitter.com/search?q=Shubho+Nobo+Borsho) | N/A |
+| 40 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 41 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 42 | [मंत्री श्री](http://twitter.com/search?q=%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 43 | [Governor](http://twitter.com/search?q=Governor) | N/A |
+| 44 | [प्राकृतिक सौंदर्य](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%95%e0%a5%83%e0%a4%a4%e0%a4%bf%e0%a4%95+%e0%a4%b8%e0%a5%8c%e0%a4%82%e0%a4%a6%e0%a4%b0%e0%a5%8d%e0%a4%af) | N/A |
+| 45 | [#kabzaa2shootingstarts](http://twitter.com/search?q=%23kabzaa2shootingstarts) | N/A |
+| 46 | [#Satyapal_Malik](http://twitter.com/search?q=%23Satyapal_Malik) | N/A |
+| 47 | [#Nani30](http://twitter.com/search?q=%23Nani30) | N/A |
+| 48 | [#RajasthanWelcomeAmitshah](http://twitter.com/search?q=%23RajasthanWelcomeAmitshah) | N/A |
+| 49 | [#PawanKalyan](http://twitter.com/search?q=%23PawanKalyan) | N/A |
 
 
 

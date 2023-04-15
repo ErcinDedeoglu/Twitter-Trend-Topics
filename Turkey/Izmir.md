@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-04-15 10:17:02 UTC`
+📆 Last Updated: `2023-04-15 11:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,38 +15,42 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gençlerin Kararı Erdoğan](http://twitter.com/search?q=Gen%c3%a7lerin+Karar%c4%b1+Erdo%c4%9fan) | N/A |
-| 2 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 3 | [#İMECE](http://twitter.com/search?q=%23%c4%b0MECE) | N/A |
-| 4 | [Zerrin Özer](http://twitter.com/search?q=Zerrin+%c3%96zer) | N/A |
-| 5 | [Kocaeli Şehir Hastanesi](http://twitter.com/search?q=Kocaeli+%c5%9eehir+Hastanesi) | N/A |
-| 6 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
-| 7 | [Videonun](http://twitter.com/search?q=Videonun) | N/A |
-| 8 | [Devlete](http://twitter.com/search?q=Devlete) | N/A |
-| 9 | [Fenerbahçe - Ankaragücü](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Ankarag%c3%bcc%c3%bc) | N/A |
-| 10 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
-| 11 | [16 Nisan Pazar](http://twitter.com/search?q=16+Nisan+Pazar) | N/A |
-| 12 | [Mersin](http://twitter.com/search?q=Mersin) | N/A |
-| 13 | [Palio](http://twitter.com/search?q=Palio) | N/A |
-| 14 | [Hülya](http://twitter.com/search?q=H%c3%bclya) | N/A |
-| 15 | [Tayyibe Çakar](http://twitter.com/search?q=Tayyibe+%c3%87akar) | N/A |
+| 1 | [gençlerin kararı erdoğan](http://twitter.com/search?q=gen%c3%a7lerin+karar%c4%b1+erdo%c4%9fan) | N/A |
+| 2 | [#İMECE](http://twitter.com/search?q=%23%c4%b0MECE) | N/A |
+| 3 | [#23YılGeçtiEvrakBEKLEMEDE](http://twitter.com/search?q=%2323Y%c4%b1lGe%c3%a7tiEvrakBEKLEMEDE) | N/A |
+| 4 | [Adana'da 4.2](http://twitter.com/search?q=Adana%27da+4.2) | N/A |
+| 5 | [Sudan](http://twitter.com/search?q=Sudan) | N/A |
+| 6 | [Altay Bayındır](http://twitter.com/search?q=Altay+Bay%c4%b1nd%c4%b1r) | N/A |
+| 7 | [Zerrin Özer](http://twitter.com/search?q=Zerrin+%c3%96zer) | N/A |
+| 8 | [Kocaeli Şehir Hastanesi](http://twitter.com/search?q=Kocaeli+%c5%9eehir+Hastanesi) | N/A |
+| 9 | [OYLAR ERDOĞANA](http://twitter.com/search?q=OYLAR+ERDO%c4%9eANA) | N/A |
+| 10 | [16 Nisan Pazar](http://twitter.com/search?q=16+Nisan+Pazar) | N/A |
+| 11 | [Ümit Özdağ](http://twitter.com/search?q=%c3%9cmit+%c3%96zda%c4%9f) | N/A |
+| 12 | [Fenerbahçe - Ankaragücü](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Ankarag%c3%bcc%c3%bc) | N/A |
+| 13 | [Videonun](http://twitter.com/search?q=Videonun) | N/A |
+| 14 | [Traktör](http://twitter.com/search?q=Trakt%c3%b6r) | N/A |
+| 15 | [Devlete](http://twitter.com/search?q=Devlete) | N/A |
 | 16 | [Katil](http://twitter.com/search?q=Katil) | N/A |
-| 17 | [Cübbeli](http://twitter.com/search?q=C%c3%bcbbeli) | Cübbeli is a Turkish term that refers to a person who is wise, knowledgeable, and experienced. It is often used to describe someone who has achieved a high level of spiritual enlightenment. In English, it can be translated as "wise one" or "enlightened one". |
-| 18 | [#23YılGeçtiEvrakBEKLEMEDE](http://twitter.com/search?q=%2323Y%c4%b1lGe%c3%a7tiEvrakBEKLEMEDE) | N/A |
-| 19 | [#TurizmHaftası](http://twitter.com/search?q=%23TurizmHaftas%c4%b1) | N/A |
-| 20 | [#DünyaSanatGünü](http://twitter.com/search?q=%23D%c3%bcnyaSanatG%c3%bcn%c3%bc) | N/A |
+| 17 | [Tayyibe Çakar](http://twitter.com/search?q=Tayyibe+%c3%87akar) | N/A |
+| 18 | [Palio](http://twitter.com/search?q=Palio) | N/A |
+| 19 | [Hülya](http://twitter.com/search?q=H%c3%bclya) | N/A |
+| 20 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
 | 21 | [#Kizilcikserbeti](http://twitter.com/search?q=%23Kizilcikserbeti) | N/A |
-| 22 | [#MilletStajıBaşlangıcSayacak](http://twitter.com/search?q=%23MilletStaj%c4%b1Ba%c5%9flang%c4%b1cSayacak) | N/A |
-| 23 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
-| 24 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
-| 25 | [#FBvANK](http://twitter.com/search?q=%23FBvANK) | N/A |
-| 26 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
-| 27 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 28 | [#guenaydin](http://twitter.com/search?q=%23guenaydin) | N/A |
-| 29 | [#BamBam](http://twitter.com/search?q=%23BamBam) | N/A |
-| 30 | [#StajyerveCırakKandırıldı](http://twitter.com/search?q=%23StajyerveC%c4%b1rakKand%c4%b1r%c4%b1ld%c4%b1) | N/A |
-| 31 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 32 | [#EytBuradaMaaşNerede](http://twitter.com/search?q=%23EytBuradaMaa%c5%9fNerede) | N/A |
+| 22 | [#DünyaSanatGünü](http://twitter.com/search?q=%23D%c3%bcnyaSanatG%c3%bcn%c3%bc) | N/A |
+| 23 | [#TurizmHaftası](http://twitter.com/search?q=%23TurizmHaftas%c4%b1) | N/A |
+| 24 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 25 | [#MilletStajıBaşlangıcSayacak](http://twitter.com/search?q=%23MilletStaj%c4%b1Ba%c5%9flang%c4%b1cSayacak) | N/A |
+| 26 | [#Kamuhendisiyolda](http://twitter.com/search?q=%23Kamuhendisiyolda) | N/A |
+| 27 | [#MilliTeknolojiHamlesi](http://twitter.com/search?q=%23MilliTeknolojiHamlesi) | N/A |
+| 28 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
+| 29 | [#FBvANK](http://twitter.com/search?q=%23FBvANK) | N/A |
+| 30 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 31 | [#Giresun](http://twitter.com/search?q=%23Giresun) | N/A |
+| 32 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
+| 33 | [#guenaydin](http://twitter.com/search?q=%23guenaydin) | N/A |
+| 34 | [#StajyerveCırakKandırıldı](http://twitter.com/search?q=%23StajyerveC%c4%b1rakKand%c4%b1r%c4%b1ld%c4%b1) | N/A |
+| 35 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 36 | [#BamBam](http://twitter.com/search?q=%23BamBam) | N/A |
 
 
 
