@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-16 22:23:58 UTC`
+📆 Last Updated: `2023-04-16 23:23:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for Belarus
 | 8 | [#Station19](http://twitter.com/search?q=%23Station19) | Station 19 is an American action-drama television series created by Stacy McKee for ABC. The series follows a group of heroic firefighters at Seattle Fire Station 19—from captain to newest recruit—as they risk their lives and hearts both in the line of duty and off the clock. The title of the show refers to the fire station's call sign. |
 | 9 | [Калі](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bb%d1%96) | Калі is a Belarusian word meaning "when". |
 | 10 | [#JYPEDoBetterForSKZ](http://twitter.com/search?q=%23JYPEDoBetterForSKZ) | #JYPEDoBetterForSKZ is a hashtag used by fans of the South Korean boy band Stray Kids to call on their label, JYP Entertainment, to do more to promote and support the group. The hashtag is used to express fans' dissatisfaction with the company's lack of promotional activities for Stray Kids. |
-| 11 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
-| 12 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | Пусть is a Russian word that can be translated to "let" or "may". It is used to express a wish or desire, usually in the form of a request or suggestion. For example, Пусть они будут счастливы (Let them be happy). |
+| 11 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | Пусть is a Russian word that can be translated to "let" or "may". It is used to express a wish or desire, usually in the form of a request or suggestion. For example, Пусть они будут счастливы (Let them be happy). |
+| 12 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
 | 13 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | Жиза is a Russian word that means "life" or "living". It is often used to refer to the quality of life, such as in the phrase "жизнь во всех ее формах" which translates to "life in all its forms". |
 | 14 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | Ладно is a Russian word that means "okay" or "all right" in English. It is used to express agreement or acceptance of something. |
 | 15 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | "Минск" is the capital city of Belarus. In English, it is known as Minsk. |
@@ -34,9 +34,8 @@ This is top 50 for Belarus
 | 17 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | Гэта is a Belarusian word meaning "this". |
 | 18 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
 | 19 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | #фото is a hashtag in Russian that translates to "#photo" in English. It is used to tag photos on social media platforms such as Instagram and Twitter. |
-| 20 | [Беларусь](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | Беларусь (Belarus) is a country in Eastern Europe bordered by Russia, Ukraine, Poland, Lithuania, and Latvia. Its capital and largest city is Minsk. The official language is Belarusian. The name Belarus means "White Russia" or "White Ruthenia". |
-| 21 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | Украине is the Russian word for Ukraine. In English, it translates to Ukraine. |
-| 22 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | Согласен is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer, proposal, or agreement. |
+| 20 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | Украине is the Russian word for Ukraine. In English, it translates to Ukraine. |
+| 21 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | Согласен is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer, proposal, or agreement. |
 
 
 

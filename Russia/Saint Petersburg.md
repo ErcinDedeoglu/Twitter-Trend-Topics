@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-04-16 22:22:26 UTC`
+📆 Last Updated: `2023-04-16 23:21:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | #маска is a hashtag used on social media in Russia. It translates to "mask" in English and is used to refer to the wearing of face masks as a preventative measure against the spread of COVID-19. |
-| 2 | [Пасху](http://twitter.com/search?q=%d0%9f%d0%b0%d1%81%d1%85%d1%83) | Пасху (Paskha) is a traditional Russian Easter celebration. It is celebrated on the Sunday after Orthodox Easter and marks the end of Lent. The word "Пасха" comes from the Greek word for "Passover". In English, it is usually translated as "Easter". |
+| 1 | [Пасху](http://twitter.com/search?q=%d0%9f%d0%b0%d1%81%d1%85%d1%83) | Пасху (Paskha) is a traditional Russian Easter celebration. It is celebrated on the Sunday after Orthodox Easter and marks the end of Lent. The word "Пасха" comes from the Greek word for "Passover". In English, it is usually translated as "Easter". |
+| 2 | [#маска](http://twitter.com/search?q=%23%d0%bc%d0%b0%d1%81%d0%ba%d0%b0) | #маска is a hashtag used on social media in Russia. It translates to "mask" in English and is used to refer to the wearing of face masks as a preventative measure against the spread of COVID-19. |
 | 3 | [Воистину](http://twitter.com/search?q=%d0%92%d0%be%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d1%83) | Воистину is a Russian phrase that translates to "truly" or "indeed" in English. It is used to emphasize the truth of a statement or opinion. |
 | 4 | [Христос Воскресе](http://twitter.com/search?q=%d0%a5%d1%80%d0%b8%d1%81%d1%82%d0%be%d1%81+%d0%92%d0%be%d1%81%d0%ba%d1%80%d0%b5%d1%81%d0%b5) | Христос Воскресе is a traditional Easter greeting in Russian, which translates to "Christ is Risen" in English. It is a common greeting used during the Easter season to celebrate the resurrection of Jesus Christ. |
 | 5 | [Happy Easter](http://twitter.com/search?q=Happy+Easter) | Happy Easter is a greeting used to wish someone a joyous Easter holiday. It is typically used as a salutation when wishing someone a happy and blessed Easter. |
@@ -34,18 +34,18 @@ This is top 50 for [Russia](</Russia>)
 | 17 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | Москву is the Russian word for Moscow, the capital of Russia. |
 | 18 | [#JYP존경스트레이키즈](http://twitter.com/search?q=%23JYP%ec%a1%b4%ea%b2%bd%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | #JYP존경스트레이키즈 is a hashtag used by fans of the South Korean entertainment company JYP Entertainment. It translates to "Respect JYP Trainees" in English. The hashtag is used to show support for the trainees of JYP Entertainment, who are aspiring singers and dancers who are training to become professional entertainers. |
 | 19 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 20 | [Господь](http://twitter.com/search?q=%d0%93%d0%be%d1%81%d0%bf%d0%be%d0%b4%d1%8c) | Господь is a Russian word for "Lord" or "God". It is used to refer to God in the Christian faith. |
+| 20 | [господь](http://twitter.com/search?q=%d0%b3%d0%be%d1%81%d0%bf%d0%be%d0%b4%d1%8c) | Господь (Gospod') is a Russian word for "Lord" or "Master". It is used to refer to God, or as a term of respect for someone in authority. |
 | 21 | [Христа](http://twitter.com/search?q=%d0%a5%d1%80%d0%b8%d1%81%d1%82%d0%b0) | Христа is a Russian word for "Christ". It is derived from the Greek word Χριστός (Christos), which means "anointed one" or "messiah". |
 | 22 | [#JYPEDoBetterForSKZ](http://twitter.com/search?q=%23JYPEDoBetterForSKZ) | #JYPEDoBetterForSKZ is a hashtag used by fans of the South Korean boy band Stray Kids to call on their label, JYP Entertainment, to do more to promote and support the group. The hashtag is used to express fans' dissatisfaction with the company's lack of promotional activities for Stray Kids. |
 | 23 | [Красота](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | Красота is a Russian word meaning "beauty". It is used to describe something that is aesthetically pleasing or attractive. |
 | 24 | [Какое](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%be%d0%b5) | Какое is a Russian word that means "what" or "which". It is used to ask questions about specific things. For example, Какое время? (What time is it?) |
-| 25 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | Красивое is a Russian adjective meaning "beautiful" or "attractive" in English. |
-| 26 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | "Взаимно" is a Russian word that means "mutual" or "reciprocal". It is used to describe a relationship between two people or groups that is based on mutual understanding, respect, and support. |
-| 27 | [Типа](http://twitter.com/search?q=%d0%a2%d0%b8%d0%bf%d0%b0) | Типа is a Russian slang word that is used to indicate that something is similar to or like something else. It can be translated into English as "kind of" or "sort of". |
-| 28 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
-| 29 | [Прям](http://twitter.com/search?q=%d0%9f%d1%80%d1%8f%d0%bc) | Прям is a Russian word that means "straight" or "direct". It can be used to describe a straight line, a direct route, or an immediate action. |
-| 30 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | Окей is a Russian expression that is used to mean "OK" or "all right". It is an informal way of expressing agreement or acceptance. |
-| 31 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | Антон is a Russian male name, derived from the Greek name Antonios. It is a diminutive form of the name Anton, which means "invaluable" or "priceless". In English, it is usually translated as Anthony. |
+| 25 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | "Взаимно" is a Russian word that means "mutual" or "reciprocal". It is used to describe a relationship between two people or groups that is based on mutual understanding, respect, and support. |
+| 26 | [Типа](http://twitter.com/search?q=%d0%a2%d0%b8%d0%bf%d0%b0) | Типа is a Russian slang word that is used to indicate that something is similar to or like something else. It can be translated into English as "kind of" or "sort of". |
+| 27 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
+| 28 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | Антон is a Russian male name, derived from the Greek name Antonios. It is a diminutive form of the name Anton, which means "invaluable" or "priceless". In English, it is usually translated as Anthony. |
+| 29 | [Красивое](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be%d0%b5) | Красивое is a Russian adjective meaning "beautiful" or "attractive" in English. |
+| 30 | [Прям](http://twitter.com/search?q=%d0%9f%d1%80%d1%8f%d0%bc) | Прям is a Russian word that means "straight" or "direct". It can be used to describe a straight line, a direct route, or an immediate action. |
+| 31 | [окей](http://twitter.com/search?q=%d0%be%d0%ba%d0%b5%d0%b9) | "Окей" is a Russian word meaning "okay" or "all right". It is used to express agreement or acceptance. |
 | 32 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | "Хорошего" is a Russian word meaning "good" or "well". It is often used as a greeting or an expression of good wishes. |
 | 33 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | Игра Wordle is a Russian word game similar to Scrabble. The goal of the game is to create words from a set of letters. Players take turns drawing letters from a bag and must use them to form words on the board. The player with the most points at the end of the game wins. In English, it is sometimes referred to as "Wordle". |
 | 34 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | "Смотри" is a Russian word that means "look" or "watch". It is often used as an imperative to draw someone's attention to something. |
@@ -53,16 +53,16 @@ This is top 50 for [Russia](</Russia>)
 | 36 | [добро](http://twitter.com/search?q=%d0%b4%d0%be%d0%b1%d1%80%d0%be) | "Добро" is a Russian word that means "good" or "kindness". It is often used as a greeting or to express goodwill. |
 | 37 | [Европу](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%83) | Европу is the Russian word for Europe. It is derived from the Greek word Εὐρώπη, which means "wide face". |
 | 38 | [ОтличНО](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%9d%d0%9e) | Отлично (otlichno) is a Russian word meaning "excellent" or "great". It is often used to express approval or satisfaction. |
-| 39 | [Apple](http://twitter.com/search?q=Apple) | Apple is a type of fruit that is round and usually red, yellow, or green in color. It is a symbol of health and nutrition, and it is often used as a metaphor for something desirable or valuable. |
-| 40 | [Russia](http://twitter.com/search?q=Russia) | Russia is a country located in Eastern Europe and Northern Asia. It is the largest country in the world by landmass, and it has a population of over 145 million people. The official language of Russia is Russian, and its capital is Moscow. The name "Russia" comes from the Rus' people, who were a medieval East Slavic people that founded the state of Kievan Rus' in the 9th century. |
-| 41 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | Звучит is a Russian expression that means "sounds like" or "it sounds". It is used to express agreement or understanding of something that has been said. |
-| 42 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | Дааа is an expression of agreement or enthusiasm in Russian. It is similar to the English expression "Yeah!" or "Yay!" |
-| 43 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | Видимо is a Russian word meaning "apparently" or "evidently". It is used to express that something is likely to be true based on the evidence at hand. |
-| 44 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | Завтра is a Russian word meaning "tomorrow". |
-| 45 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | Поэтому is a Russian word meaning "therefore" or "so". It is used to introduce a conclusion or logical consequence of something that has been previously stated. |
-| 46 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | Понимаю is a Russian phrase that translates to "I understand" in English. It is used to express understanding or comprehension of something. |
-| 47 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | Германии is the Russian word for Germany. |
-| 48 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | Знаю is a Russian word meaning "I know" in English. |
+| 39 | [Russia](http://twitter.com/search?q=Russia) | Russia is a country located in Eastern Europe and Northern Asia. It is the largest country in the world by landmass, and it has a population of over 145 million people. The official language of Russia is Russian, and its capital is Moscow. The name "Russia" comes from the Rus' people, who were a medieval East Slavic people that founded the state of Kievan Rus' in the 9th century. |
+| 40 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | Звучит is a Russian expression that means "sounds like" or "it sounds". It is used to express agreement or understanding of something that has been said. |
+| 41 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | Дааа is an expression of agreement or enthusiasm in Russian. It is similar to the English expression "Yeah!" or "Yay!" |
+| 42 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | Видимо is a Russian word meaning "apparently" or "evidently". It is used to express that something is likely to be true based on the evidence at hand. |
+| 43 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | Завтра is a Russian word meaning "tomorrow". |
+| 44 | [Поэтому](http://twitter.com/search?q=%d0%9f%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | Поэтому is a Russian word meaning "therefore" or "so". It is used to introduce a conclusion or logical consequence of something that has been previously stated. |
+| 45 | [Понимаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d0%b8%d0%bc%d0%b0%d1%8e) | Понимаю is a Russian phrase that translates to "I understand" in English. It is used to express understanding or comprehension of something. |
+| 46 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | Германии is the Russian word for Germany. |
+| 47 | [Знаю](http://twitter.com/search?q=%d0%97%d0%bd%d0%b0%d1%8e) | Знаю is a Russian word meaning "I know" in English. |
+| 48 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
 
 
 
