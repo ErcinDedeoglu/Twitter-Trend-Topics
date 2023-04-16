@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-16 09:28:02 UTC`
+📆 Last Updated: `2023-04-16 10:26:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,12 +22,12 @@ This is top 50 for Panama
 | 5 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
 | 6 | [Shawn](http://twitter.com/search?q=Shawn) | Shawn is a given name of Irish origin, derived from the Gaelic name Seán, which is the equivalent of John in English. It is a popular name in the United States, Canada, and other English-speaking countries. |
 | 7 | [global bank](http://twitter.com/search?q=global+bank) | Global bank is a term used to describe a financial institution that operates in multiple countries. It typically provides services such as international banking, foreign exchange, investment banking, and other financial services. Global banks are usually large, multinational organizations that have branches and offices in many different countries. |
-| 8 | [#UFCKansasCity](http://twitter.com/search?q=%23UFCKansasCity) | #UFCKansasCity is a hashtag used to promote the Ultimate Fighting Championship (UFC) event held in Kansas City, Missouri. The hashtag is used to promote the event and share news and updates related to it. |
+| 8 | [#ufckansascity](http://twitter.com/search?q=%23ufckansascity) | #ufckansascity is a hashtag used by soccer fans to show their support for the Kansas City soccer team. It stands for "United For Kansas City" and is used to show solidarity with the team and its supporters. |
 | 9 | [#NBAPlayoffs](http://twitter.com/search?q=%23NBAPlayoffs) | #NBAPlayoffs is a hashtag used on social media to refer to the National Basketball Association (NBA) playoffs. It is used to discuss and share news, updates, and opinions about the NBA playoffs. |
 | 10 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 11 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
 | 12 | [Sudán](http://twitter.com/search?q=Sud%c3%a1n) | Sudán is the Spanish name for Sudan, a country in North Africa. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, and Eritrea to the east. |
-| 13 | [BORRACHERA P DISCO ROJO](http://twitter.com/search?q=BORRACHERA+P+DISCO+ROJO) | BORRACHERA P DISCO ROJO is a Spanish phrase that translates to "rubber for red disc" in English. It is typically used to refer to a rubber or plastic material used to make discs, such as records or CDs, more durable and resistant to wear and tear. |
+| 13 | [borrachera p disco rojo](http://twitter.com/search?q=borrachera+p+disco+rojo) | Borrachera p disco rojo is a Spanish phrase that translates to "drunkenness at the red disco". It is used to describe a night of partying and drinking at a nightclub or dance club. |
 | 14 | [Grandes Ligas](http://twitter.com/search?q=Grandes+Ligas) | Grandes Ligas is Spanish for Major League. It is used to refer to the highest level of professional baseball in North America, which includes the National League and American League in the United States and Canada. |
 | 15 | [#BadChella](http://twitter.com/search?q=%23BadChella) | #BadChella is a hashtag used to describe the Coachella Valley Music and Arts Festival in California, which has been criticized for its high ticket prices and lack of diversity. The hashtag is a play on the festival's name, implying that it is not living up to its potential. |
 | 16 | [Clinton](http://twitter.com/search?q=Clinton) | Clinton is a surname of English origin. It is derived from the Old English word "clint" meaning "hillside." The name was originally given to someone who lived near a hill or cliff. |
@@ -59,12 +59,12 @@ This is top 50 for Panama
 | 42 | [Banco](http://twitter.com/search?q=Banco) | Banco is a Spanish word meaning "bank" or "bench". It is used to refer to a financial institution, such as a bank, savings and loan association, or credit union. It can also refer to a bench or seat in a public place. |
 | 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 44 | [Texas](http://twitter.com/search?q=Texas) | Texas is a state in the south-central United States. It is the second largest state in the US by both area and population. The name Texas comes from a Native American word meaning “friends” or “allies.” |
-| 45 | [Yappy](http://twitter.com/search?q=Yappy) | Yappy is an informal adjective used to describe someone who talks a lot, often in an annoying or excited manner. It can also be used to describe a dog that barks a lot. |
-| 46 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 47 | [Ratas](http://twitter.com/search?q=Ratas) | Ratas is a Spanish word meaning "rats". It is often used to refer to people who are considered untrustworthy or dishonest. |
-| 48 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | Ministerio Público is the Spanish term for the public prosecutor's office. It is an independent body of the government responsible for prosecuting criminal cases on behalf of the state. In English, it is often referred to as the Public Prosecutor's Office or simply the Prosecutor's Office. |
-| 49 | [Alex](http://twitter.com/search?q=Alex) | Alex is a common given name, usually a diminutive of the male given name Alexander, or its female equivalent Alexandra. It can also be used as a surname. The name is derived from the Greek "Ἀλέξανδρος" (Aléxandros), meaning "defender of mankind". |
-| 50 | [Ayala](http://twitter.com/search?q=Ayala) | Ayala is a Spanish surname derived from the Basque phrase "ai ala," which means "oak grove." It is also a common given name in the Spanish-speaking world. In English, Ayala can be translated to mean "oak tree." |
+| 45 | [Jesús](http://twitter.com/search?q=Jes%c3%bas) | Jesús is a Spanish name derived from the Hebrew name Yeshua, which means "God is salvation". In English, it is usually translated as Jesus. |
+| 46 | [Yappy](http://twitter.com/search?q=Yappy) | Yappy is an informal adjective used to describe someone who talks a lot, often in an annoying or excited manner. It can also be used to describe a dog that barks a lot. |
+| 47 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 48 | [Ratas](http://twitter.com/search?q=Ratas) | Ratas is a Spanish word meaning "rats". It is often used to refer to people who are considered untrustworthy or dishonest. |
+| 49 | [Ministerio Público](http://twitter.com/search?q=Ministerio+P%c3%bablico) | Ministerio Público is the Spanish term for the public prosecutor's office. It is an independent body of the government responsible for prosecuting criminal cases on behalf of the state. In English, it is often referred to as the Public Prosecutor's Office or simply the Prosecutor's Office. |
+| 50 | [Alex](http://twitter.com/search?q=Alex) | Alex is a common given name, usually a diminutive of the male given name Alexander, or its female equivalent Alexandra. It can also be used as a surname. The name is derived from the Greek "Ἀλέξανδρος" (Aléxandros), meaning "defender of mankind". |
 
 
 
