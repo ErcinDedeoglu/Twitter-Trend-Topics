@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-16 01:48:00 UTC`
+📆 Last Updated: `2023-04-16 02:36:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,16 +53,16 @@ This is top 50 for [Norway](</Norway>)
 | 36 | [#esngolf](http://twitter.com/search?q=%23esngolf) | #esngolf is an abbreviation for "English Strokeplay Net Golf". It is a type of golf game where players compete to get the lowest score over a set number of holes. The rules are similar to regular strokeplay golf, but the scoring system is based on net scores (the difference between the player's score and the par for each hole). |
 | 37 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
 | 38 | [Western](http://twitter.com/search?q=Western) | Western is an adjective used to describe something related to the countries of Europe and North America, especially the United States. It can also refer to the culture, customs, and values of these countries. |
-| 39 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 39 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | Brannvesenet is the Norwegian Fire and Rescue Service. It is responsible for firefighting, rescue services, and civil protection in Norway. The English translation of Brannvesenet is Fire and Rescue Service. |
 | 40 | [#GlazersOut](http://twitter.com/search?q=%23GlazersOut) | #GlazersOut is a hashtag used by Manchester United fans to call for the removal of the Glazer family from ownership of the club. The Glazer family, led by American businessman Malcolm Glazer, purchased Manchester United in 2005 and have been unpopular with many fans ever since. The hashtag is used to express their dissatisfaction with the current ownership and to call for change. |
 | 41 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 42 | [Brannvesenet](http://twitter.com/search?q=Brannvesenet) | Brannvesenet is the Norwegian Fire and Rescue Service. It is responsible for firefighting, rescue services, and civil protection in Norway. The English translation of Brannvesenet is Fire and Rescue Service. |
-| 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 44 | [Kaski](http://twitter.com/search?q=Kaski) | Kaski is a Finnish word meaning "shield". It is often used to refer to a protective barrier or layer of protection. |
-| 45 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
-| 46 | [The US](http://twitter.com/search?q=The+US) | The US is an abbreviation for the United States of America, a country located in North America. It is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions. |
-| 47 | [kjør](http://twitter.com/search?q=kj%c3%b8r) | Kjør is a Norwegian verb meaning "to drive" or "to run". In English, it would be translated as "drive" or "run". |
-| 48 | [Tine](http://twitter.com/search?q=Tine) | Tine is a Danish word meaning "fork" or "prong". It is also used in English to refer to the prongs of a fork or other similar object. |
+| 42 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 43 | [kaski](http://twitter.com/search?q=kaski) | Kaski is a term used in the Finnish language to refer to a small, shallow basket. It is typically used for carrying items such as berries or mushrooms. In English, the word "basket" is often used to refer to this type of container. |
+| 44 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 45 | [The US](http://twitter.com/search?q=The+US) | The US is an abbreviation for the United States of America, a country located in North America. It is a federal republic composed of 50 states, a federal district, five major self-governing territories, and various possessions. |
+| 46 | [kjør](http://twitter.com/search?q=kj%c3%b8r) | Kjør is a Norwegian verb meaning "to drive" or "to run". In English, it would be translated as "drive" or "run". |
+| 47 | [Tine](http://twitter.com/search?q=Tine) | Tine is a Danish word meaning "fork" or "prong". It is also used in English to refer to the prongs of a fork or other similar object. |
+| 48 | [Bergen](http://twitter.com/search?q=Bergen) | Bergen is a city in Norway. It is the second largest city in the country and is known for its picturesque harbor, its many cultural attractions, and its lively nightlife. In English, Bergen means "mountain". |
 
 
 

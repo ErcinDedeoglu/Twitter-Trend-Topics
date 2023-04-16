@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-16 01:47:37 UTC`
+📆 Last Updated: `2023-04-16 02:36:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,15 +23,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 7 | [Fuchs](http://twitter.com/search?q=Fuchs) | Fuchs is a German surname meaning "fox". It is derived from the Middle High German word "vuhs" or "fuhs". |
 | 8 | [Servette](http://twitter.com/search?q=Servette) | Servette is a Swiss sports club based in Geneva. The club is best known for its football team, which plays in the Swiss Super League. The name Servette is derived from the French word for Geneva, which is Genève. In English, it means "of or from Geneva". |
-| 9 | [Generationen](http://twitter.com/search?q=Generationen) | Generationen is a German word that translates to "generations" in English. It is used to refer to the different generations of people within a family or society. |
-| 10 | [Jugend](http://twitter.com/search?q=Jugend) | Jugend is a German word that means "youth" or "adolescence". It is often used to refer to the period of time in a person's life when they are between childhood and adulthood. |
-| 11 | [Lugano](http://twitter.com/search?q=Lugano) | Lugano is a city in the Italian-speaking canton of Ticino, Switzerland. It is the largest city in the canton and the ninth largest city in Switzerland. The name Lugano is derived from the Latin word "lucus", meaning "grove". In English, Lugano translates to "grove of light". |
-| 12 | [bienne](http://twitter.com/search?q=bienne) | Bienne is the French name for the Swiss city of Biel/Bienne. It is located in the canton of Bern and is a bilingual city, with both German and French being official languages. In English, it is known as Biel/Bienne. |
-| 13 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | Rücktritt is a German word meaning "resignation" or "withdrawal". It is used to refer to the act of resigning from a position or withdrawing from an agreement. |
-| 14 | [AKWs](http://twitter.com/search?q=AKWs) | AKWs is an acronym for Atomic Power Stations, which are nuclear power plants that generate electricity using nuclear fission. |
-| 15 | [Germans](http://twitter.com/search?q=Germans) | Germans is a term used to refer to people from Germany, or of German descent. It is also used to refer to the German language and culture. |
-| 16 | [Christ](http://twitter.com/search?q=Christ) | Christ is the title given to Jesus of Nazareth, who is believed by Christians to be the Son of God and the Messiah. The word "Christ" comes from the Greek word Christos, which means "anointed one." In English, it is used as a title for Jesus, referring to his role as savior and leader of humanity. |
-| 17 | [Baerbock](http://twitter.com/search?q=Baerbock) | Baerbock is a German surname. It is derived from the Middle High German word "bere" meaning "barley" and the Middle High German word "boc" meaning "bucket". In English, it can be translated to mean "barley bucket". |
+| 9 | [Jugend](http://twitter.com/search?q=Jugend) | Jugend is a German word that means "youth" or "adolescence". It is often used to refer to the period of time in a person's life when they are between childhood and adulthood. |
+| 10 | [Lugano](http://twitter.com/search?q=Lugano) | Lugano is a city in the Italian-speaking canton of Ticino, Switzerland. It is the largest city in the canton and the ninth largest city in Switzerland. The name Lugano is derived from the Latin word "lucus", meaning "grove". In English, Lugano translates to "grove of light". |
+| 11 | [bienne](http://twitter.com/search?q=bienne) | Bienne is the French name for the Swiss city of Biel/Bienne. It is located in the canton of Bern and is a bilingual city, with both German and French being official languages. In English, it is known as Biel/Bienne. |
+| 12 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | Rücktritt is a German word meaning "resignation" or "withdrawal". It is used to refer to the act of resigning from a position or withdrawing from an agreement. |
+| 13 | [AKWs](http://twitter.com/search?q=AKWs) | AKWs is an acronym for Atomic Power Stations, which are nuclear power plants that generate electricity using nuclear fission. |
+| 14 | [Germans](http://twitter.com/search?q=Germans) | Germans is a term used to refer to people from Germany, or of German descent. It is also used to refer to the German language and culture. |
+| 15 | [Christ](http://twitter.com/search?q=Christ) | Christ is the title given to Jesus of Nazareth, who is believed by Christians to be the Son of God and the Messiah. The word "Christ" comes from the Greek word Christos, which means "anointed one." In English, it is used as a title for Jesus, referring to his role as savior and leader of humanity. |
+| 16 | [Baerbock](http://twitter.com/search?q=Baerbock) | Baerbock is a German surname. It is derived from the Middle High German word "bere" meaning "barley" and the Middle High German word "boc" meaning "bucket". In English, it can be translated to mean "barley bucket". |
+| 17 | [Generationen](http://twitter.com/search?q=Generationen) | Generationen is a German word that translates to "generations" in English. It is used to refer to the different generations of people within a family or society. |
 | 18 | [Elisabeth Kopp](http://twitter.com/search?q=Elisabeth+Kopp) | Elisabeth Kopp is a Swiss politician who served as the first female member of the Swiss Federal Council from 1984 to 1989. Her name is synonymous with the advancement of women's rights in Switzerland. In English, her name means "Elizabeth Who Fights for Equality". |
 | 19 | [Queen](http://twitter.com/search?q=Queen) | Queen is a title given to a female monarch, or the wife of a male monarch. It is typically used as a term of respect for a woman who rules over an independent state, such as a kingdom or empire. In some cases, it may also be used to refer to the wife of a reigning king. |
 | 20 | [Mike](http://twitter.com/search?q=Mike) | Mike is a common English name, derived from the Hebrew name Michael, meaning "who is like God?". |
@@ -39,8 +39,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 22 | [Meister](http://twitter.com/search?q=Meister) | Meister is a German word meaning "master" or "expert". It is often used to refer to someone who has achieved a high level of skill in a particular field. |
 | 23 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | Immunsystem is a German word that refers to the body's immune system. In English, it is used to describe the system of organs, cells, and proteins that work together to protect the body from foreign invaders such as bacteria and viruses. The immune system helps the body fight off infection and disease. |
 | 24 | [Profite](http://twitter.com/search?q=Profite) | Profite is a French word that means "to benefit" or "to gain advantage". It is used to describe the act of taking advantage of a situation for one's own benefit. |
-| 25 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | Züge is a German word that means "trains" in English. It is used to refer to the trains that run on a railway system. |
-| 26 | [Kernkraftwerke](http://twitter.com/search?q=Kernkraftwerke) | Kernkraftwerke is a German term that translates to "nuclear power plants" in English. It refers to facilities that generate electricity using nuclear energy. |
+| 25 | [Atomkraft](http://twitter.com/search?q=Atomkraft) | Atomkraft is a German word meaning "atomic power" or "nuclear power." It is used to refer to the use of nuclear energy for the generation of electricity or other forms of energy. |
+| 26 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | Züge is a German word that means "trains" in English. It is used to refer to the trains that run on a railway system. |
 | 27 | [Pioli](http://twitter.com/search?q=Pioli) | Pioli is an Italian surname. It is derived from the Latin word "pius", meaning "pious" or "devout". In English, it can be translated to mean "devoted" or "faithful". |
 | 28 | [Lächeln](http://twitter.com/search?q=L%c3%a4cheln) | Lächeln is a German word meaning "smile" in English. It is used to express happiness, joy, or amusement. |
 | 29 | [Fahrt](http://twitter.com/search?q=Fahrt) | Fahrt is a German word that means "journey" or "trip". It is often used to refer to a journey by car, train, or boat. |

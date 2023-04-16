@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-16 01:47:10 UTC`
+📆 Last Updated: `2023-04-16 02:35:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,31 +40,31 @@ This is top 50 for [Austria](</Austria>)
 | 23 | [Technologie](http://twitter.com/search?q=Technologie) | Technologie is a German word that refers to the application of scientific knowledge for practical purposes, especially in industry. In English, it is commonly referred to as technology. |
 | 24 | [Kompetenz](http://twitter.com/search?q=Kompetenz) | Kompetenz is a German word that translates to "competence" in English. It is used to refer to the ability or skill of an individual or organization to perform a specific task or activity. It can also refer to the knowledge and experience needed to do something successfully. |
 | 25 | [Schmid](http://twitter.com/search?q=Schmid) | Schmid is a German surname derived from the word "schmidt," which means "blacksmith." It is also a common given name in Germany, Austria, and Switzerland. In English, it is usually spelled Schmidt. |
-| 26 | [Sebastian Kurz](http://twitter.com/search?q=Sebastian+Kurz) | Sebastian Kurz is the current Chancellor of Austria. He is a member of the Austrian People's Party and has been in office since 2017. Kurz is the youngest head of government in Europe and the world's youngest democratically elected leader. His name translates to "Sebastian Short" in English. |
+| 26 | [sebastian kurz](http://twitter.com/search?q=sebastian+kurz) | Sebastian Kurz is the current Chancellor of Austria. He is a member of the Austrian People's Party and has been in office since 2017. Kurz is the youngest head of government in Europe and the world's youngest democratically elected leader. His name translates to "Sebastian Short" in English. |
 | 27 | [Experte](http://twitter.com/search?q=Experte) | Experte is a German word that means "expert" in English. It is used to describe someone who has a high level of knowledge or skill in a particular area. |
 | 28 | [Sooo](http://twitter.com/search?q=Sooo) | Sooo is an informal way of saying "so" or "very". It is often used to emphasize a point or to express enthusiasm. |
 | 29 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | Bühne is a German word meaning "stage" or "platform". It is used to refer to the area of a theater, concert hall, or other performance venue where the performers stand and act. It can also be used more generally to refer to any platform or stage on which someone performs. |
-| 30 | [Lesung](http://twitter.com/search?q=Lesung) | Lesung is a German word that refers to a public reading of literature, usually in the form of poetry or prose. It is often done in a formal setting, such as a library or school, and can be used to introduce new works or to celebrate established authors. The English equivalent would be a reading or recital. |
+| 30 | [lesung](http://twitter.com/search?q=lesung) | Lesung is a German word that means "reading" or "lecture". It is used to refer to a public reading of a text, usually for educational or entertainment purposes. |
 | 31 | [Abos](http://twitter.com/search?q=Abos) | Abos is an acronym for Aboriginal and Torres Strait Islander people. It is used to refer to the Indigenous peoples of Australia. |
-| 32 | [Blutdruck](http://twitter.com/search?q=Blutdruck) | Blutdruck is a German word meaning "blood pressure". It is the measure of the force of blood pushing against the walls of the arteries as it is pumped around the body by the heart. |
+| 32 | [blutdruck](http://twitter.com/search?q=blutdruck) | Blutdruck is a German word meaning "blood pressure". It is the measure of the force of blood pushing against the walls of the arteries as it is pumped around the body by the heart. |
 | 33 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
 | 34 | [Verbrenner](http://twitter.com/search?q=Verbrenner) | Verbrenner is a German word that translates to "combustion engine" in English. It is used to refer to an internal combustion engine, such as those found in cars and other vehicles. |
 | 35 | [Dietmar](http://twitter.com/search?q=Dietmar) | Dietmar is a German name derived from the Old German words "diot" meaning people and "mari" meaning famous. It can be translated to mean "famous people". |
-| 36 | [Bine](http://twitter.com/search?q=Bine) | Bine is a German word meaning "good" or "well". It is often used as an expression of approval or agreement. |
+| 36 | [bine](http://twitter.com/search?q=bine) | Bine is an old English word meaning "twin". |
 | 37 | [Außenminister](http://twitter.com/search?q=Au%c3%9fenminister) | Außenminister is German for "Foreign Minister". It is the title given to the head of a country's foreign affairs ministry, responsible for conducting international relations and representing the country in foreign affairs. |
 | 38 | [werten](http://twitter.com/search?q=werten) | Werten is a German verb that means "to value" or "to appraise". It is used to describe the act of assessing the worth of something. |
 | 39 | [qualitätsmedien](http://twitter.com/search?q=qualit%c3%a4tsmedien) | Qualitätsmedien is a German term that translates to "quality media" in English. It is used to refer to media outlets that produce high-quality content, such as newspapers, magazines, and television programs. |
 | 40 | [Anklage](http://twitter.com/search?q=Anklage) | Anklage is a German word meaning "accusation" or "charge" in English. It is used to refer to the formal accusation of a person with a crime or other offense. |
 | 41 | [Chinesen](http://twitter.com/search?q=Chinesen) | Chinesen is a German word that refers to people from China. In English, it would be translated as "Chinese people". |
-| 42 | [Branche](http://twitter.com/search?q=Branche) | Branche is a French word meaning "branch" or "division". It can refer to a branch of a company, an area of study, or a branch of the military. |
+| 42 | [branche](http://twitter.com/search?q=branche) | Branche is a French word meaning "branch". It can refer to a branch of a tree, or to a branch of an organization or business. In English, it is also used to refer to a particular field or specialty within an industry. |
 | 43 | [st. pölten](http://twitter.com/search?q=st.+p%c3%b6lten) | St. Pölten is the capital city of the Austrian state of Lower Austria. It is located on the Traisen River, about halfway between Vienna and Linz. The name St. Pölten is derived from the Latin Sanctus Polonius, meaning "Holy Paul". |
 | 44 | [Schas](http://twitter.com/search?q=Schas) | Schas is a German word that means "already". |
 | 45 | [Umfragen](http://twitter.com/search?q=Umfragen) | Umfragen is a German word meaning "surveys" or "polls" in English. It is used to refer to surveys or polls that are conducted to gather information from a group of people. |
 | 46 | [Ernährung](http://twitter.com/search?q=Ern%c3%a4hrung) | Ernährung is a German word that translates to "nutrition" in English. It refers to the process of providing the body with food and nutrients necessary for growth, maintenance, and health. |
-| 47 | [Journalismus](http://twitter.com/search?q=Journalismus) | Journalismus is a German word that refers to the practice of journalism. It is the profession of gathering, assessing, creating, and presenting news and information. In English, it can be translated as "journalism". |
-| 48 | [Mohammad](http://twitter.com/search?q=Mohammad) | Mohammad is the name of the Islamic prophet and founder of Islam. In English, it means "praised one". |
-| 49 | [Expertise](http://twitter.com/search?q=Expertise) | Expertise is the knowledge and skill that comes from extensive training and experience in a particular field. It is the ability to use specialized skills or knowledge to solve problems or complete tasks. Expertise can also refer to a person's level of proficiency in a certain area. |
-| 50 | [Privatwirtschaft](http://twitter.com/search?q=Privatwirtschaft) | Privatwirtschaft is a German term that translates to "private economy" in English. It refers to the economic activities of private individuals, businesses, and organizations, as opposed to those of the public sector. This includes activities such as production, distribution, and consumption of goods and services by private entities. |
+| 47 | [Mohammad](http://twitter.com/search?q=Mohammad) | Mohammad is the name of the Islamic prophet and founder of Islam. In English, it means "praised one". |
+| 48 | [Expertise](http://twitter.com/search?q=Expertise) | Expertise is the knowledge and skill that comes from extensive training and experience in a particular field. It is the ability to use specialized skills or knowledge to solve problems or complete tasks. Expertise can also refer to a person's level of proficiency in a certain area. |
+| 49 | [Privatwirtschaft](http://twitter.com/search?q=Privatwirtschaft) | Privatwirtschaft is a German term that translates to "private economy" in English. It refers to the economic activities of private individuals, businesses, and organizations, as opposed to those of the public sector. This includes activities such as production, distribution, and consumption of goods and services by private entities. |
+| 50 | [zicksee](http://twitter.com/search?q=zicksee) | Zicksee is a German word that means "lake" or "pond". It is derived from the Middle High German word zicke, which means "pool of water". |
 
 
 
