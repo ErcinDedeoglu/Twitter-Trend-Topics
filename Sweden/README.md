@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-04-16 02:40:33 UTC`
+📆 Last Updated: `2023-04-16 03:27:06 UTC`
 
 🔧 Updated every 1 hour!
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-16 02:36:09 UTC`
+📆 Last Updated: `2023-04-16 03:20:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ogres](http://twitter.com/search?q=Ogres) | Ogres are mythical creatures that are usually depicted as large, hideous, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are said to have a taste for human flesh. The word "ogre" comes from the Latin word "orcus," which means "demon." |
+| 1 | [ogres](http://twitter.com/search?q=ogres) | Ogres are mythical creatures that are usually depicted as large, brutish, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are also known to eat humans. |
 | 2 | [apsveicu](http://twitter.com/search?q=apsveicu) | "Apsveicu" is a Latvian word meaning "Congratulations!" |
 | 3 | [vakar](http://twitter.com/search?q=vakar) | Vakar is a Lithuanian word meaning "yesterday". |
 | 4 | [Azov](http://twitter.com/search?q=Azov) | Azov is a city in southern Russia, located on the northern shore of the Sea of Azov. The name Azov is derived from the Turkic word for "sea". In English, it can be translated to mean "Sea of Azov". |
@@ -36,7 +36,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 19 | [Neko](http://twitter.com/search?q=Neko) | Neko is a Japanese word meaning "cat". It is often used as an affectionate term for cats, similar to how people in English might refer to their cats as "kitty" or "kitties". |
 | 20 | [Putins](http://twitter.com/search?q=Putins) | Putins is a nickname for Russian President Vladimir Putin. It is derived from his last name and is used as a term of endearment by his supporters. |
 | 21 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | Tāpēc is a Latvian word meaning "therefore" or "so". |
-| 22 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | Saeimā is the name of the Latvian Parliament. It is derived from the Latvian word saeima, which means "assembly". In English, it can be translated as "Parliament". |
+| 22 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | Saeimā is the name of the Latvian Parliament. It is derived from the Latvian word for "assembly". In English, it can be translated as "Parliament". |
 | 23 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | Lūdzu is a Latvian word that means "please" or "kindly" in English. It is used as a polite request or as an expression of gratitude. |
 | 24 | [#birdle](http://twitter.com/search?q=%23birdle) | #Birdle is an internet slang term used to express excitement or enthusiasm. It is derived from the phrase "birdle up," which is a combination of the words "bird" and "huddle." The term can be used to show support for someone or something, or to express joy and excitement. |
 | 25 | [igaunijas](http://twitter.com/search?q=igaunijas) | Igaunijas is the Latvian word for Estonia. In English, it means "Estonia". |

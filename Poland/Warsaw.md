@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-04-16 02:35:09 UTC`
+📆 Last Updated: `2023-04-16 03:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,12 +42,12 @@ This is top 50 for [Poland](</Poland>)
 | 25 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | Zagłębie is a Polish word that literally translates to "the depths" or "the abyss". It is used to refer to a region or area that is rich in resources, such as coal, iron ore, and other minerals. It can also be used to refer to an area of great cultural importance or significance. |
 | 26 | [Wilbur](http://twitter.com/search?q=Wilbur) | Wilbur is a male given name of Old German origin, meaning "bright or brilliant". |
 | 27 | [lempart](http://twitter.com/search?q=lempart) | Lempart is a Polish word meaning "happiness" or "joy". It is often used to express a feeling of contentment or satisfaction. |
-| 28 | [OBWE](http://twitter.com/search?q=OBWE) | OBWE stands for the Organization for Security and Co-operation in Europe's Office for Democratic Institutions and Human Rights. It is an international organization that works to promote democracy, human rights, and the rule of law in countries across Europe. |
+| 28 | [obwe](http://twitter.com/search?q=obwe) | Obwe is an abbreviation for the phrase "on behalf of," which means to act or speak on behalf of someone else. |
 | 29 | [abu hanna](http://twitter.com/search?q=abu+hanna) | Abu Hanna is an Arabic name meaning "Father of Hanna". It is commonly used as a given name for males in the Middle East. |
 | 30 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
 | 31 | [pani premier](http://twitter.com/search?q=pani+premier) | Pani Premier is a type of Indian bread made with a combination of wheat flour, semolina, and yogurt. It is usually served as an accompaniment to curries or other dishes. The literal translation of pani premier in English is "bread with water". |
-| 32 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 33 | [Czarnek](http://twitter.com/search?q=Czarnek) | Czarnek is a Polish surname. It is derived from the word czarny, which means "black" in Polish. The name likely originated as a nickname for someone with dark hair or dark skin. |
+| 32 | [Czarnek](http://twitter.com/search?q=Czarnek) | Czarnek is a Polish surname. It is derived from the word czarny, which means "black" in Polish. The name likely originated as a nickname for someone with dark hair or dark skin. |
+| 33 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 34 | [Warszawie](http://twitter.com/search?q=Warszawie) | Warszawie is the Polish name for the city of Warsaw, the capital of Poland. In English, it is pronounced "vahr-SHAH-vee-eh". |
 | 35 | [Shawn](http://twitter.com/search?q=Shawn) | Shawn is a given name of Irish origin, derived from the Gaelic name Seán, which is the equivalent of John in English. It is a popular name in the United States, Canada, and other English-speaking countries. |
 | 36 | [Kiko](http://twitter.com/search?q=Kiko) | Kiko is a Japanese term that means “listening” or “hearing.” It is often used to refer to the practice of actively listening to someone in order to understand them better. |
@@ -55,15 +55,15 @@ This is top 50 for [Poland](</Poland>)
 | 38 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
 | 39 | [Lechia](http://twitter.com/search?q=Lechia) | Lechia is a Polish word that refers to the Polish nation or people. It is derived from the name of the legendary founder of Poland, Lech. In English, it can be translated as "Poland" or "the Poles". |
 | 40 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | Hoffenheim is a German football club based in the city of Hoffenheim, Baden-Württemberg. The name "Hoffenheim" translates to "hope home" in English. The club was founded in 1899 and currently plays in the Bundesliga, the top tier of German football. |
-| 41 | [Bochenek](http://twitter.com/search?q=Bochenek) | Bochenek is a Polish surname. It is derived from the word bochen, which means "loaf of bread". In English, it can be translated to mean "bread maker" or "baker". |
-| 42 | [jagi](http://twitter.com/search?q=jagi) | Jagi is a Korean term of endearment that translates to "honey" or "darling" in English. It is used to express affection for someone close, such as a romantic partner, family member, or close friend. |
-| 43 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | Axel Springer is a German media company that publishes newspapers, magazines, and digital media. It is one of the largest media companies in Europe and is named after its founder, Axel Springer. The company's English translation is "Axel Springer Media Group". |
-| 44 | [rolnicy](http://twitter.com/search?q=rolnicy) | Rolnicy is a Polish word meaning "farmers". It is used to refer to people who work in agriculture, either as owners of farms or as hired laborers. |
-| 45 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 46 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 41 | [jagi](http://twitter.com/search?q=jagi) | Jagi is a Korean term of endearment that translates to "honey" or "darling" in English. It is used to express affection for someone close, such as a romantic partner, family member, or close friend. |
+| 42 | [Axel Springer](http://twitter.com/search?q=Axel+Springer) | Axel Springer is a German media company that publishes newspapers, magazines, and digital media. It is one of the largest media companies in Europe and is named after its founder, Axel Springer. The company's English translation is "Axel Springer Media Group". |
+| 43 | [rolnicy](http://twitter.com/search?q=rolnicy) | Rolnicy is a Polish word meaning "farmers". It is used to refer to people who work in agriculture, either as owners of farms or as hired laborers. |
+| 44 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 45 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 46 | [Bochenek](http://twitter.com/search?q=Bochenek) | Bochenek is a Polish surname. It is derived from the word bochen, which means "loaf of bread". In English, it can be translated to mean "bread maker" or "baker". |
 | 47 | [Ruch](http://twitter.com/search?q=Ruch) | Ruch is a German word meaning "movement" or "motion". It can also refer to a specific type of movement, such as a dance or a march. |
-| 48 | [Zaksy](http://twitter.com/search?q=Zaksy) | Zaksy is a slang term used in the Philippines to refer to someone who is lazy or unmotivated. In English, it can be translated as "lazybones". |
-| 49 | [Kaczyński](http://twitter.com/search?q=Kaczy%c5%84ski) | Kaczyński is a Polish surname. It is derived from the name Kaczor, which means "rooster" in Polish. In English, the name Kaczyński can be translated to mean "of the rooster". |
+| 48 | [Kaczyński](http://twitter.com/search?q=Kaczy%c5%84ski) | Kaczyński is a Polish surname. It is derived from the name Kaczor, which means "rooster" in Polish. In English, the name Kaczyński can be translated to mean "of the rooster". |
+| 49 | [Zaksy](http://twitter.com/search?q=Zaksy) | Zaksy is a slang term used in the Philippines to refer to someone who is lazy or unmotivated. In English, it can be translated as "lazybones". |
 | 50 | [CBOS](http://twitter.com/search?q=CBOS) | CBOS stands for "Commercially Based Operating System" and is a type of operating system designed for commercial use. It is typically used in business applications such as accounting, inventory management, and customer relationship management. CBOS is designed to be user-friendly and secure, making it an ideal choice for businesses that need to manage large amounts of data. |
 
 

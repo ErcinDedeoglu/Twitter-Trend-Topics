@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vladivostok
 
-📆 Last Updated: `2023-04-16 02:38:02 UTC`
+📆 Last Updated: `2023-04-16 03:23:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -50,13 +50,14 @@ This is top 50 for [Russia](</Russia>)
 | 33 | [Типа](http://twitter.com/search?q=%d0%a2%d0%b8%d0%bf%d0%b0) | Типа is a Russian slang word that is used to indicate that something is similar to or like something else. It can be translated into English as "kind of" or "sort of". |
 | 34 | [запад](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4) | Запад is a Russian word meaning "west". It is used to refer to the western part of a country or region, or to the direction of west. |
 | 35 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | Пусть is a Russian word that can be translated to "let" or "may". It is used to express a wish or desire, usually in the form of a request or suggestion. For example, Пусть они будут счастливы (Let them be happy). |
-| 36 | [видимо](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | "Видимо" is a Russian adverb that translates to "apparently" or "evidently" in English. It is used to express the speaker's opinion that something is likely true based on the evidence available. |
+| 36 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | Видимо is a Russian word meaning "apparently" or "evidently". It is used to express that something is likely to be true based on the evidence at hand. |
 | 37 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | Капец is a Russian expression that is used to express surprise, disappointment, or exasperation. It can be translated to English as "Wow!" or "Oh no!" |
 | 38 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 39 | [ДААА](http://twitter.com/search?q=%d0%94%d0%90%d0%90%d0%90) | ДААА is an expression of agreement or enthusiasm in Russian. It is similar to the English expression "Yeah!" or "Yay!" |
 | 40 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | Здоровья is a Russian word meaning "health" or "well-being". It is often used as a greeting or toast when drinking alcohol. |
-| 41 | [Похоже](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b6%d0%b5) | Похоже is a Russian word that means "seems" or "appears". It is used to express the idea that something appears to be true or likely. |
-| 42 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | Жиза is a Russian word that means "life" or "living". It is often used to refer to the quality of life, such as in the phrase "жизнь во всех ее формах" which translates to "life in all its forms". |
+| 41 | [похоже](http://twitter.com/search?q=%d0%bf%d0%be%d1%85%d0%be%d0%b6%d0%b5) | Похоже is a Russian word meaning "similar" or "resembling". It is often used to describe something that looks or feels similar to something else. |
+| 42 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | Реально is a Russian word that means "really" or "in reality". It is used to express agreement or to emphasize the truth of a statement. |
+| 43 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | Жиза is a Russian word that means "life" or "living". It is often used to refer to the quality of life, such as in the phrase "жизнь во всех ее формах" which translates to "life in all its forms". |
 
 
 

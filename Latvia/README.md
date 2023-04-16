@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-16 02:40:02 UTC`
+📆 Last Updated: `2023-04-16 03:26:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ogres](http://twitter.com/search?q=Ogres) | Ogres are mythical creatures that are usually depicted as large, hideous, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are said to have a taste for human flesh. The word "ogre" comes from the Latin word "orcus," which means "demon." |
+| 1 | [ogres](http://twitter.com/search?q=ogres) | Ogres are mythical creatures that are usually depicted as large, brutish, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are also known to eat humans. |
 | 2 | [apsveicu](http://twitter.com/search?q=apsveicu) | "Apsveicu" is a Latvian word meaning "Congratulations!" |
 | 3 | [vakar](http://twitter.com/search?q=vakar) | Vakar is a Lithuanian word meaning "yesterday". |
 | 4 | [Azov](http://twitter.com/search?q=Azov) | Azov is a city in southern Russia, located on the northern shore of the Sea of Azov. The name Azov is derived from the Turkic word for "sea". In English, it can be translated to mean "Sea of Azov". |
@@ -34,9 +34,9 @@ This is top 50 for Latvia
 | 17 | [$GINI](http://twitter.com/search?q=%24GINI) | GINI is an acronym for the Gini coefficient, which is a measure of income inequality. It is calculated by taking the ratio of the total income earned by the top 20% of a population to the total income earned by the bottom 20%. A higher Gini coefficient indicates greater inequality in a society. |
 | 18 | [Valsts](http://twitter.com/search?q=Valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of Latvia, as well as the nation itself. |
 | 19 | [Neko](http://twitter.com/search?q=Neko) | Neko is a Japanese word meaning "cat". It is often used as an affectionate term for cats, similar to how people in English might refer to their cats as "kitty" or "kitties". |
-| 20 | [Putins](http://twitter.com/search?q=Putins) | Putins is a nickname for Russian President Vladimir Putin. It is derived from his last name and is used as a term of endearment by his supporters. |
+| 20 | [putins](http://twitter.com/search?q=putins) | Putins is a slang term used to describe someone who is overly controlling or domineering. It is derived from the name of Russian President Vladimir Putin, who is known for his authoritarian rule. In English, it can be used to describe someone who is bossy or excessively controlling. |
 | 21 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | Tāpēc is a Latvian word meaning "therefore" or "so". |
-| 22 | [saeimā](http://twitter.com/search?q=saeim%c4%81) | Saeimā is the name of the Latvian Parliament. It is derived from the Latvian word saeima, which means "assembly". In English, it can be translated as "Parliament". |
+| 22 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | Saeimā is the name of the Latvian Parliament. It is derived from the Latvian word for "assembly". In English, it can be translated as "Parliament". |
 | 23 | [lūdzu](http://twitter.com/search?q=l%c5%abdzu) | Lūdzu is a Latvian word that means "please" or "kindly" in English. It is used as a polite request or as an expression of gratitude. |
 | 24 | [#birdle](http://twitter.com/search?q=%23birdle) | #Birdle is an internet slang term used to express excitement or enthusiasm. It is derived from the phrase "birdle up," which is a combination of the words "bird" and "huddle." The term can be used to show support for someone or something, or to express joy and excitement. |
 | 25 | [igaunijas](http://twitter.com/search?q=igaunijas) | Igaunijas is the Latvian word for Estonia. In English, it means "Estonia". |
