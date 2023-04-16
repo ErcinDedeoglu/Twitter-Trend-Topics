@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-16 00:42:45 UTC`
+📆 Last Updated: `2023-04-16 01:52:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,9 +23,9 @@ This is top 50 for Belarus
 | 6 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | #фото is a hashtag in Russian that translates to "#photo" in English. It is used to tag photos on social media platforms such as Instagram and Twitter. |
 | 7 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | Согласен is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer, proposal, or agreement. |
 | 8 | [Минск](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | Минск is the capital and largest city of Belarus. In English, it is often referred to as Minsk. |
-| 9 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
+| 9 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
 | 10 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | #нюдсочетверг is a hashtag used on the Russian social media platform VKontakte. It translates to "New Thursday" and is used to share new music, videos, and other content. |
-| 11 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | НАТО is an acronym for the North Atlantic Treaty Organization, an intergovernmental military alliance between 30 North American and European countries. Its purpose is to protect the freedom and security of its member states through political and military means. In English, it is commonly referred to as NATO. |
+| 11 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | Нато is an acronym for the North Atlantic Treaty Organization (NATO). It is an intergovernmental military alliance between 30 North American and European countries. The organization's primary purpose is to ensure the collective defense of its member states. |
 | 12 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | Гэта is a Belarusian word meaning "this". |
 | 13 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | #NFTCommunity is an acronym for the Non-Fungible Token Community. It is a group of people who are interested in and actively involved in the development, trading, and use of Non-Fungible Tokens (NFTs). NFTs are digital assets that are unique and cannot be replicated or exchanged for something else. They are used to represent ownership of digital items such as artwork, music, videos, gaming items, and more. |
 
