@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-16 23:23:15 UTC`
+📆 Last Updated: `2023-04-17 00:39:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for Belarus
 | 15 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | "Минск" is the capital city of Belarus. In English, it is known as Minsk. |
 | 16 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | Понял is a Russian word meaning "understood" or "got it" in English. It is used to indicate that someone has comprehended what has been said or asked. |
 | 17 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | Гэта is a Belarusian word meaning "this". |
-| 18 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
+| 18 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
 | 19 | [#фото](http://twitter.com/search?q=%23%d1%84%d0%be%d1%82%d0%be) | #фото is a hashtag in Russian that translates to "#photo" in English. It is used to tag photos on social media platforms such as Instagram and Twitter. |
 | 20 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | Украине is the Russian word for Ukraine. In English, it translates to Ukraine. |
 | 21 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | Согласен is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer, proposal, or agreement. |
