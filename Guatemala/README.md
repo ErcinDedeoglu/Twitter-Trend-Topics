@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-17 08:26:32 UTC`
+📆 Last Updated: `2023-04-17 09:27:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for Guatemala
 | 15 | [Malacateco](http://twitter.com/search?q=Malacateco) | Malacateco is a Guatemalan football club based in the city of Malacatán, San Marcos. The name Malacateco is derived from the Nahuatl language and means "people of the place of bad waters". In English, it can be translated to mean "people from the place of bad waters". |
 | 16 | [#nelsoncarreras](http://twitter.com/search?q=%23nelsoncarreras) | #NelsonCarreras is a hashtag used to promote the work of the Venezuelan artist Nelson Carreras. It is used to share his artwork, news, and events related to his work. The English translation of #NelsonCarreras would be "Promoting Nelson Carreras". |
 | 17 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 18 | [Cobán](http://twitter.com/search?q=Cob%c3%a1n) | Cobán is a city in Guatemala, located in the department of Alta Verapaz. It is the capital of the department and the largest city in the region. The name Cobán comes from the Maya language and means "place of many waters". |
+| 18 | [cobán](http://twitter.com/search?q=cob%c3%a1n) | Cobán is a city in Guatemala. It is the capital of Alta Verapaz department and the administrative seat of Cobán municipality. In English, Cobán means "place of many waters". |
 | 19 | [Flaco](http://twitter.com/search?q=Flaco) | Flaco is a Spanish word meaning "skinny" or "thin". It is often used as a nickname for someone who is slender or thin. |
 | 20 | [tinaco](http://twitter.com/search?q=tinaco) | Tinaco is a Spanish word that refers to a large water tank used to store water for domestic use. It is typically found on the roof of a house or building and is used to provide water for showers, washing machines, and other household needs. In English, tinaco can be translated as water tank. |
 | 21 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
@@ -47,11 +47,11 @@ This is top 50 for Guatemala
 | 30 | [Primera División](http://twitter.com/search?q=Primera+Divisi%c3%b3n) | Primera División is the top tier of professional football in Spain. It is also known as La Liga and is one of the most popular and competitive leagues in the world. In English, Primera División translates to "First Division". |
 | 31 | [malacatán](http://twitter.com/search?q=malacat%c3%a1n) | Malacatán is a city in the Mexican state of San Marcos. It is located in the western part of the state, near the border with Guatemala. In English, it means "place of many rocks". |
 | 32 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 33 | [Iztapa](http://twitter.com/search?q=Iztapa) | Iztapa is a town in Guatemala located on the Pacific coast. The name Iztapa is derived from the Nahuatl language and means "place of salt". |
+| 33 | [iztapa](http://twitter.com/search?q=iztapa) | Iztapa is a small town in Guatemala located on the Pacific coast. It is known for its fishing industry and its beautiful beaches. In English, Iztapa means "place of the fishermen". |
 | 34 | [AGUST D CONCEPT PHOTO 1](http://twitter.com/search?q=AGUST+D+CONCEPT+PHOTO+1) | AGUST D CONCEPT PHOTO 1 is a promotional photo for the South Korean rapper AGUST D (also known as Suga of the K-pop group BTS). The concept of the photo is meant to represent AGUST D's personal journey and growth as an artist. The photo features AGUST D standing in a dark room with a bright light shining on him, symbolizing his rise to fame and success. |
 | 35 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 36 | [Kendall](http://twitter.com/search?q=Kendall) | Kendall is a unisex name of English origin, derived from the surname meaning "valley of the River Kent". It is also a place name, referring to the town of Kendall in Cumbria, England. |
-| 37 | [Valor-Unionista](http://twitter.com/search?q=Valor-Unionista) | Valor-Unionista is a Spanish political ideology that advocates for the union of Spain and its territories. It is based on the idea that all Spanish citizens should be united in a single nation, regardless of their regional or cultural differences. In English, it can be translated as "Unionist Valor". |
+| 37 | [valor-unionista](http://twitter.com/search?q=valor-unionista) | Valor-unionista is a Spanish term that refers to the idea of valuing and promoting unity. It is often used in the context of politics, where it implies that all citizens should work together to achieve a common goal. In English, it could be translated as "unity-valuing" or "promoting unity". |
 | 38 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | Kali Uchis is the stage name of Colombian-American singer, songwriter, and producer Karly-Marina Loaiza. The name Kali Uchis is derived from the Spanish phrase "calle ocho," which translates to "eighth street" in English. |
 | 39 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 40 | [El Barça](http://twitter.com/search?q=El+Bar%c3%a7a) | El Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan language and translates to "The Barça". |
