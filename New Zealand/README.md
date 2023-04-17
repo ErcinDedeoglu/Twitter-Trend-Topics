@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-04-17 16:26:34 UTC`
+📆 Last Updated: `2023-04-17 17:26:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
-| 2 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 1 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 2 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
 | 3 | [Treaty](http://twitter.com/search?q=Treaty) | Treaty is an agreement or contract between two or more parties, usually countries, that is legally binding. It is a formal document that sets out the terms of the agreement and is often used to resolve disputes or establish peace. |
 | 4 | [Te Tiriti](http://twitter.com/search?q=Te+Tiriti) | Te Tiriti is the Māori name for the Treaty of Waitangi, which was signed in 1840 between representatives of the British Crown and Māori chiefs from around New Zealand. The English translation of Te Tiriti is "The Agreement". The Treaty established a partnership between the two parties, with the British Crown gaining sovereignty over New Zealand and Māori retaining their rights to their lands, forests, fisheries and other possessions. |
 | 5 | [Government-funded Media](http://twitter.com/search?q=Government-funded+Media) | Government-funded media is media that is funded by a government or public body. This type of media can include television, radio, newspapers, and other forms of communication. Government-funded media is typically used to promote a particular political agenda or to provide information to the public about government policies and activities. |
@@ -60,11 +60,11 @@ This is top 50 for New Zealand
 | 43 | [pakeha](http://twitter.com/search?q=pakeha) | Pakeha is a Maori term used to refer to non-Maori people in New Zealand, particularly those of European descent. The English translation of the word is "foreigner". |
 | 44 | [tvnz](http://twitter.com/search?q=tvnz) | TVNZ is an abbreviation for Television New Zealand, a public broadcaster in New Zealand. It is the country's national television network and provides news, entertainment, and educational programming. |
 | 45 | [groundswell](http://twitter.com/search?q=groundswell) | Groundswell is a term used to describe a large, sudden increase in public opinion or support for something. It is often used to refer to a movement or trend that has grown quickly and unexpectedly. |
-| 46 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
-| 47 | [Murdoch](http://twitter.com/search?q=Murdoch) | Murdoch is a Scottish surname derived from the Gaelic personal name Muireach, meaning “seaman” or “mariner.” It is also a given name, and can be used as a first or last name. |
-| 48 | [national party](http://twitter.com/search?q=national+party) | A national party is a political party that operates on a national level, typically with branches in multiple states or countries. It is usually organized around a set of shared political ideals and goals, and its members are typically elected to represent the party in government. |
-| 49 | [jennie](http://twitter.com/search?q=jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one" in Welsh. |
-| 50 | [Overload](http://twitter.com/search?q=Overload) | Overload is a term used to describe a situation in which too much of something is being asked of someone or something. It can refer to an excessive amount of work, stress, or responsibility that is beyond what is reasonable or manageable. |
+| 46 | [Murdoch](http://twitter.com/search?q=Murdoch) | Murdoch is a Scottish surname derived from the Gaelic personal name Muireach, meaning “seaman” or “mariner.” It is also a given name, and can be used as a first or last name. |
+| 47 | [national party](http://twitter.com/search?q=national+party) | A national party is a political party that operates on a national level, typically with branches in multiple states or countries. It is usually organized around a set of shared political ideals and goals, and its members are typically elected to represent the party in government. |
+| 48 | [jennie](http://twitter.com/search?q=jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one" in Welsh. |
+| 49 | [Overload](http://twitter.com/search?q=Overload) | Overload is a term used to describe a situation in which too much of something is being asked of someone or something. It can refer to an excessive amount of work, stress, or responsibility that is beyond what is reasonable or manageable. |
+| 50 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 
 
 
