@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-04-17 03:20:06 UTC`
+📆 Last Updated: `2023-04-17 04:20:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,21 +25,21 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 8 | [cillessen](http://twitter.com/search?q=cillessen) | Cillessen is a Dutch surname. It is derived from the Dutch word "cillen," which means "to hide." In English, it can be translated to mean "hidden one." |
 | 9 | [Cambuur](http://twitter.com/search?q=Cambuur) | Cambuur is a Dutch football club based in Leeuwarden, Netherlands. The name Cambuur is derived from the Frisian word for "field". In English, it can be translated to mean "playing field". |
 | 10 | [Volendam](http://twitter.com/search?q=Volendam) | Volendam is a small fishing village in the Netherlands, located in the province of North Holland. The name Volendam is derived from the Dutch word "vole", which means "lake". In English, Volendam translates to "lake village". The village is known for its traditional clothing and its colorful harbor. |
-| 11 | [gecondoleerd](http://twitter.com/search?q=gecondoleerd) | Gecondoleerd is a Dutch word that means "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
-| 12 | [Jutta](http://twitter.com/search?q=Jutta) | Jutta is a German female name. It is derived from the Germanic element "gud", meaning "God". The name can also be translated to mean "God's gift". |
-| 13 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
-| 14 | [veerman](http://twitter.com/search?q=veerman) | Veerman is a Dutch word meaning "sailor" or "seaman". |
-| 15 | [Pogi](http://twitter.com/search?q=Pogi) | Pogi is a Filipino slang term that is used to describe someone who is attractive or good-looking. In English, it can be translated to mean "handsome". |
-| 16 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | Grillitsch is a German surname. It is derived from the Middle High German word "grilz" which means "piglet". In English, it can be translated to mean "little pig". |
-| 17 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | Oekraïne is the Dutch spelling of Ukraine, a country in Eastern Europe. In English, it is spelled Ukraine. |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [Dolf](http://twitter.com/search?q=Dolf) | Dolf is a Dutch nickname for the name Adolf, which is derived from the Germanic elements adal (noble) and wolf (wolf). In English, it means "noble wolf". |
-| 20 | [Hato](http://twitter.com/search?q=Hato) | Hato is a Japanese word that means "dove" or "pigeon". It is also used to refer to someone who is gentle and kind. |
-| 21 | [higler](http://twitter.com/search?q=higler) | "Higler" is not a word in English. |
-| 22 | [Floortje](http://twitter.com/search?q=Floortje) | Floortje is a Dutch female given name. It is a diminutive of the name Florentina, which is derived from the Latin word florens, meaning "flowering". In English, Floortje can be translated to mean "little flower". |
-| 23 | [leo driessen](http://twitter.com/search?q=leo+driessen) | Leo Driessen is a Dutch football manager and former player. He is currently the head coach of FC Emmen in the Eredivisie. He has previously managed clubs such as FC Twente, Vitesse Arnhem, and AZ Alkmaar. |
-| 24 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
-| 25 | [leo van vliet](http://twitter.com/search?q=leo+van+vliet) | Leo van Vliet is a Dutch surname. It is derived from the Dutch words "van" (from) and "Vliet" (a small river or stream). The name literally translates to "from the small river or stream". |
+| 11 | [Jutta](http://twitter.com/search?q=Jutta) | Jutta is a German female name. It is derived from the Germanic element "gud", meaning "God". The name can also be translated to mean "God's gift". |
+| 12 | [Sanchez](http://twitter.com/search?q=Sanchez) | Sanchez is a Spanish surname. It is derived from the Latin name Sanctius, which means "holy". In English, it can be translated to mean "holy one". |
+| 13 | [veerman](http://twitter.com/search?q=veerman) | Veerman is a Dutch word meaning "sailor" or "seaman". |
+| 14 | [Grillitsch](http://twitter.com/search?q=Grillitsch) | Grillitsch is a German surname. It is derived from the Middle High German word "grilz" which means "piglet". In English, it can be translated to mean "little pig". |
+| 15 | [Gecondoleerd](http://twitter.com/search?q=Gecondoleerd) | Gecondoleerd is a Dutch expression that translates to "condolences" in English. It is used to express sympathy and condolences to someone who has experienced a loss or tragedy. |
+| 16 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | Oekraïne is the Dutch spelling of Ukraine, a country in Eastern Europe. In English, it is spelled Ukraine. |
+| 17 | [Dolf](http://twitter.com/search?q=Dolf) | Dolf is a Dutch nickname for the name Adolf, which is derived from the Germanic elements adal (noble) and wolf (wolf). In English, it means "noble wolf". |
+| 18 | [Hato](http://twitter.com/search?q=Hato) | Hato is a Japanese word that means "dove" or "pigeon". It is also used to refer to someone who is gentle and kind. |
+| 19 | [higler](http://twitter.com/search?q=higler) | "Higler" is not a word in English. |
+| 20 | [Floortje](http://twitter.com/search?q=Floortje) | Floortje is a Dutch female given name. It is a diminutive of the name Florentina, which is derived from the Latin word florens, meaning "flowering". In English, Floortje can be translated to mean "little flower". |
+| 21 | [leo driessen](http://twitter.com/search?q=leo+driessen) | Leo Driessen is a Dutch football manager and former player. He is currently the head coach of FC Emmen in the Eredivisie. He has previously managed clubs such as FC Twente, Vitesse Arnhem, and AZ Alkmaar. |
+| 22 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 23 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
+| 24 | [leo van vliet](http://twitter.com/search?q=leo+van+vliet) | Leo van Vliet is a Dutch surname. It is derived from the Dutch words "van" (from) and "Vliet" (a small river or stream). The name literally translates to "from the small river or stream". |
+| 25 | [Pogi](http://twitter.com/search?q=Pogi) | Pogi is a Filipino slang term that is used to describe someone who is attractive or good-looking. In English, it can be translated to mean "handsome". |
 | 26 | [Duncan](http://twitter.com/search?q=Duncan) | Duncan is a Scottish name derived from the Gaelic Donnchadh, meaning "brown warrior". It is also a surname. |
 | 27 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | Xavi Simons is a Dutch professional footballer who plays as a midfielder for Paris Saint-Germain. His name is derived from the Spanish footballer Xavi Hernandez, who was his idol growing up. In English, Xavi Simons means "Xavi of the Simons". |
 | 28 | [Sudan](http://twitter.com/search?q=Sudan) | Sudan is a country located in North-East Africa. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, Eritrea to the east and Red Sea to the northeast. The name Sudan is derived from Arabic and means "land of black people". |
@@ -52,7 +52,7 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 35 | [Bassey](http://twitter.com/search?q=Bassey) | Bassey is a Nigerian name derived from the Igbo language. It means "God is the King" or "God is the Greatest". |
 | 36 | [nvwa](http://twitter.com/search?q=nvwa) | NVWA is an acronym for the Dutch National Food and Consumer Product Safety Authority. It is a government agency responsible for food safety, animal welfare, and consumer product safety in the Netherlands. |
 | 37 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | Bergwijn is a Dutch surname. It is derived from the Dutch words "berg" meaning mountain and "wijn" meaning wine. The literal translation of Bergwijn is "mountain wine". |
-| 38 | [Soedan](http://twitter.com/search?q=Soedan) | Soedan is the Dutch spelling of Sudan, a country in North Africa. In English, Sudan means "land of the blacks". |
+| 38 | [soedan](http://twitter.com/search?q=soedan) | Soedan is a misspelling of Sudan, which is an African country located in the northeast region of the continent. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, and Eritrea to the east. |
 | 39 | [cauberg](http://twitter.com/search?q=cauberg) | Cauberg is a hill in the Netherlands, located in the province of Limburg. It is known for its steep climb and has been used as a finish line for several cycling races, including the Amstel Gold Race. The name Cauberg is derived from the Dutch words "kauwen" (to chew) and "berg" (mountain). In English, it can be translated to mean "chewing mountain". |
 | 40 | [heitinga](http://twitter.com/search?q=heitinga) | Heitinga is a Dutch surname. It is derived from the Old Dutch words "heite" and "inga", which mean "family" and "son of", respectively. In English, it can be translated to mean "son of the family". |
 | 41 | [Healy](http://twitter.com/search?q=Healy) | Healy is a surname of Irish origin. It is derived from the Gaelic Ó hEalaighthe, meaning "descendant of Ealadhach". The name is found mainly in County Mayo and County Galway. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-17 03:20:20 UTC`
+📆 Last Updated: `2023-04-17 04:20:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Norway](</Norway>)
 | 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 13 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 14 | [Sudan](http://twitter.com/search?q=Sudan) | Sudan is a country located in North-East Africa. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, Eritrea to the east and Red Sea to the northeast. The name Sudan is derived from Arabic and means "land of black people". |
-| 15 | [Venstre](http://twitter.com/search?q=Venstre) | Venstre is a Danish political party. The name translates to "Left" in English, and the party is generally considered to be center-left in its policies. |
+| 15 | [venstre](http://twitter.com/search?q=venstre) | Venstre is a Danish and Norwegian political party. In English, it translates to "Left". |
 | 16 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
 | 17 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
 | 18 | [#streik](http://twitter.com/search?q=%23streik) | #Streik is a German word meaning "strike" or "protest". It is used to refer to a collective action taken by workers in order to express their dissatisfaction with their working conditions or wages. It can also be used to refer to a general strike, where all workers in a particular industry or region go on strike at the same time. |
@@ -43,7 +43,7 @@ This is top 50 for [Norway](</Norway>)
 | 26 | [brannvesenet](http://twitter.com/search?q=brannvesenet) | Brannvesenet is the Norwegian word for fire department. It literally translates to "fire service". |
 | 27 | [skien](http://twitter.com/search?q=skien) | Skien is a city in Norway. It is located in the county of Telemark and has a population of around 35,000 people. The name Skien comes from the Old Norse word skíð, which means "log". In English, it can be translated to mean "wooden town". |
 | 28 | [åsane](http://twitter.com/search?q=%c3%a5sane) | "Åsane" is a municipality in Norway. It is located in the county of Hordaland, and its population is approximately 43,000. In English, the name "Åsane" translates to "the ridge". |
-| 29 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | Ødegaard is a Norwegian surname. It is derived from the Old Norse words øde, meaning "desolate" or "barren," and gaard, meaning "farm." In English, the name can be translated to mean "desolate farm." |
+| 29 | [ødegaard](http://twitter.com/search?q=%c3%b8degaard) | "Ødegaard" is a Norwegian surname. It is derived from the Old Norse words "øy" (island) and "gård" (farm). In English, it can be translated to mean "island farm". |
 | 30 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
 | 31 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 32 | [Kovacs](http://twitter.com/search?q=Kovacs) | Kovacs is a Hungarian surname derived from the given name Kovač, which means blacksmith in Slavic languages. It is also a common Jewish surname in Hungary. In English, Kovacs is pronounced "KOH-vahch". |
@@ -57,13 +57,13 @@ This is top 50 for [Norway](</Norway>)
 | 40 | [marienlyst](http://twitter.com/search?q=marienlyst) | Marienlyst is a historic hotel and spa located in the city of Drammen, Norway. The name Marienlyst translates to "Mary's Pleasure" in English, and it is named after Queen Marie of Denmark who visited the area in 1817. |
 | 41 | [sandefjord](http://twitter.com/search?q=sandefjord) | Sandefjord is a city and municipality in Vestfold county, Norway. The name Sandefjord is derived from the Old Norse words sandr (“sand”) and fjǫrðr (“fjord”). In English, it translates to “sand fjord.” |
 | 42 | [#ffk1903](http://twitter.com/search?q=%23ffk1903) | #ffk1903 is a hashtag used by supporters of the Turkish football team Fenerbahce SK. It stands for "Fenerbahce Forever 1903," referring to the year the club was founded. |
-| 43 | [kondolerer](http://twitter.com/search?q=kondolerer) | Kondolerer is a Norwegian word that means "to express condolences". It is used to express sympathy and sorrow for someone who has experienced a loss or tragedy. |
-| 44 | [#2hockey](http://twitter.com/search?q=%232hockey) | #2hockey is a hashtag used on social media to refer to the sport of ice hockey. It is often used to discuss the latest news and updates related to the sport, as well as to share photos and videos of hockey games. |
-| 45 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | Afghanistan is a landlocked country located in South Asia. It is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan, Uzbekistan, and Tajikistan to the north, and China to the northeast. Afghanistan has a population of around 35 million people and is known for its rich cultural heritage. The official language of Afghanistan is Pashto, but Dari (a dialect of Persian) is also widely spoken. |
-| 46 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
-| 47 | [Hovland](http://twitter.com/search?q=Hovland) | Hovland is a Norwegian surname derived from the Old Norse name Hólfr, meaning “wolf”. It is also a place name in Norway, derived from the same root. |
-| 48 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 49 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 43 | [#2hockey](http://twitter.com/search?q=%232hockey) | #2hockey is a hashtag used on social media to refer to the sport of ice hockey. It is often used to discuss the latest news and updates related to the sport, as well as to share photos and videos of hockey games. |
+| 44 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | Afghanistan is a landlocked country located in South Asia. It is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan, Uzbekistan, and Tajikistan to the north, and China to the northeast. Afghanistan has a population of around 35 million people and is known for its rich cultural heritage. The official language of Afghanistan is Pashto, but Dari (a dialect of Persian) is also widely spoken. |
+| 45 | [Kepa](http://twitter.com/search?q=Kepa) | Kepa is a Basque name derived from the Latin name "Capetus". It is a unisex name meaning "head" or "chief". |
+| 46 | [hovland](http://twitter.com/search?q=hovland) | Hovland is a surname of Scandinavian origin. It is derived from the Old Norse name Hólfr, meaning "wolf". |
+| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 48 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
+| 49 | [Viktor](http://twitter.com/search?q=Viktor) | Viktor is a masculine given name of Slavic origin. It is derived from the Latin word "victor", meaning "conqueror". |
 
 
 
