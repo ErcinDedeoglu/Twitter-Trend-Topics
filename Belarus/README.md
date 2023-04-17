@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-17 01:54:15 UTC`
+📆 Last Updated: `2023-04-17 02:37:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for Belarus
 | 8 | [#JYPEDoBetterForSKZ](http://twitter.com/search?q=%23JYPEDoBetterForSKZ) | #JYPEDoBetterForSKZ is a hashtag used by fans of the South Korean boy band Stray Kids to call on their label, JYP Entertainment, to do more to promote and support the group. The hashtag is used to express fans' dissatisfaction with the company's lack of promotional activities for Stray Kids. |
 | 9 | [получается](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%83%d1%87%d0%b0%d0%b5%d1%82%d1%81%d1%8f) | Получается is a Russian phrase that means "it turns out" or "it looks like". It is used to express the result of something, usually after some kind of effort or process. |
 | 10 | [калі](http://twitter.com/search?q=%d0%ba%d0%b0%d0%bb%d1%96) | "Калі" is a Belarusian word meaning "if". |
-| 11 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | Ладно is a Russian word that means "okay" or "all right" in English. It is used to express agreement or acceptance of something. |
-| 12 | [Понял](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d0%bb) | Понял is a Russian word meaning "understood" or "got it" in English. It is used to indicate that someone has comprehended what has been said or asked. |
+| 11 | [ладно](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b4%d0%bd%d0%be) | In Russian, "ладно" is an informal expression that means "okay" or "all right". It is used to express agreement or acceptance. |
+| 12 | [понял](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d0%bb) | Понял (pronounced poh-nyahl) is a Russian word meaning "understood" or "got it." It is used to indicate that someone has comprehended what has been said. |
 | 13 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
 | 14 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | "Минск" is the capital city of Belarus. In English, it is known as Minsk. |
 | 15 | [гэта](http://twitter.com/search?q=%d0%b3%d1%8d%d1%82%d0%b0) | Гэта is a Belarusian word meaning "this". |
@@ -36,7 +36,7 @@ This is top 50 for Belarus
 | 19 | [интересно](http://twitter.com/search?q=%d0%b8%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | "Интересно" is a Russian word that translates to "interesting" in English. It is used to express interest or curiosity in something. |
 | 20 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | Согласен is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer, proposal, or agreement. |
 | 21 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
-| 22 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | Кстати is a Russian phrase that translates to "by the way" in English. It is used to introduce a new topic or comment in a conversation. |
+| 22 | [кстати](http://twitter.com/search?q=%d0%ba%d1%81%d1%82%d0%b0%d1%82%d0%b8) | "Кстати" is a Russian phrase that translates to "by the way" in English. It is used to introduce a new topic or idea in a conversation. |
 
 
 

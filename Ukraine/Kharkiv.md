@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kharkiv
 
-📆 Last Updated: `2023-04-17 01:49:01 UTC`
+📆 Last Updated: `2023-04-17 02:33:44 UTC`
 
 🔧 Updated every 1 hour!
 

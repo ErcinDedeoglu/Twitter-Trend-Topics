@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-17 01:48:29 UTC`
+📆 Last Updated: `2023-04-17 02:33:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 12 | [#lsslo](http://twitter.com/search?q=%23lsslo) | #lsslo is an acronym for "Let's See Some Love Out," which is a phrase used to encourage people to show kindness and appreciation for one another. |
 | 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 14 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | Sassuolo is a town and comune in the province of Modena, Emilia-Romagna, Italy. The name Sassuolo is derived from the Latin word sassulus, meaning "little stone". |
-| 15 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | Schönen Abend is a German phrase that translates to "Good Evening" in English. It is a polite greeting used when meeting someone in the evening. |
+| 15 | [schönen abend](http://twitter.com/search?q=sch%c3%b6nen+abend) | "Schönen Abend" is a German phrase that translates to "have a nice evening" in English. It is a polite way of wishing someone a pleasant evening. |
 | 16 | [Kohlestrom](http://twitter.com/search?q=Kohlestrom) | Kohlestrom is a German word that literally translates to "coal power." It is used to refer to electricity generated from coal-fired power plants. |
 | 17 | [Chancen](http://twitter.com/search?q=Chancen) | Chancen is a German word that means "chances" or "opportunities" in English. It is used to refer to the likelihood of something happening or the potential for success. |
 | 18 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
@@ -37,17 +37,17 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 20 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | Windräder is a German word that translates to "windmills" in English. It is used to refer to the large, rotating structures that are used to generate electricity from the wind. |
 | 21 | [Subventionen](http://twitter.com/search?q=Subventionen) | Subventionen is a German word that refers to government subsidies or grants. In English, it is often translated as "subsidies" or "grants". Subventionen are typically used to support businesses, research projects, or other activities that are deemed to be of public benefit. |
 | 22 | [Kraftwerke](http://twitter.com/search?q=Kraftwerke) | Kraftwerke is a German word that translates to "power plants" in English. It refers to any type of facility that produces electricity, such as a nuclear power plant, hydroelectric dam, or wind farm. |
-| 23 | [eFuels](http://twitter.com/search?q=eFuels) | eFuels is a term used to describe synthetic fuels that are produced from renewable energy sources such as wind, solar, and hydropower. These fuels can be used in place of traditional fossil fuels to reduce emissions and help combat climate change. The term eFuel is derived from the words “electro-fuels” or “electrofuels”. |
+| 23 | [efuels](http://twitter.com/search?q=efuels) | Efuels is short for e-fuels, which are synthetic fuels created from renewable energy sources such as wind and solar. These fuels can be used in place of traditional fossil fuels to reduce emissions and help fight climate change. |
 | 24 | [Kirche](http://twitter.com/search?q=Kirche) | Kirche is a German word meaning "church". It is used to refer to a Christian place of worship, typically a building dedicated to the worship of God. |
 | 25 | [Gelder](http://twitter.com/search?q=Gelder) | Gelder is a Dutch word meaning "to pay" or "to invest". It is used in the context of investing money in something, such as stocks, bonds, or real estate. |
 | 26 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
 | 27 | [Kopp](http://twitter.com/search?q=Kopp) | Kopp is a German word meaning "cup" or "mug". |
 | 28 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 29 | [AKWs](http://twitter.com/search?q=AKWs) | AKWs is an acronym for Atomic Power Stations, which are nuclear power plants that generate electricity using nuclear fission. |
-| 30 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | Maskenpflicht is a German term meaning "mask requirement" or "mask obligation." It refers to the requirement that people wear masks in public places, such as shops, restaurants, and public transportation, in order to help prevent the spread of COVID-19. |
+| 30 | [maskenpflicht](http://twitter.com/search?q=maskenpflicht) | Maskenpflicht is a German word meaning "mask requirement" or "mask obligation." It refers to the requirement that people wear masks in public places to help prevent the spread of COVID-19. |
 | 31 | [Generationen](http://twitter.com/search?q=Generationen) | Generationen is a German word that translates to "generations" in English. It is used to refer to the different generations of people within a family or society. |
 | 32 | [Super League](http://twitter.com/search?q=Super+League) | Super League is a professional rugby league competition in Europe, featuring clubs from England, France, Wales, Scotland, and Canada. It is the top-level rugby league competition in Europe and is one of the most prestigious competitions in the world. The Super League season runs from February to October each year and culminates with a Grand Final match between the two top teams. The winner of the Grand Final is crowned Super League champion. |
-| 33 | [maurer](http://twitter.com/search?q=maurer) | Maurer is a German word meaning "mason" or "bricklayer". It is used to refer to someone who works with stone, brick, and other materials to construct buildings and other structures. |
+| 33 | [Maurer](http://twitter.com/search?q=Maurer) | Maurer is a German word meaning "mason" or "stonemason". It is used to refer to someone who works with stone, brick, and other materials to construct buildings and other structures. |
 | 34 | [Klappe](http://twitter.com/search?q=Klappe) | Klappe is a German word that literally translates to "clap" or "snap." It is used to describe a moment of recognition or understanding, similar to the English phrase "Aha!" or "I see!" |
 | 35 | [Stimmung](http://twitter.com/search?q=Stimmung) | Stimmung is a German word that translates to "mood" or "atmosphere" in English. It is used to describe the emotional state of a person or group, or the overall feeling of a place. |
 | 36 | [Beine](http://twitter.com/search?q=Beine) | Beine is a German word meaning "legs". |

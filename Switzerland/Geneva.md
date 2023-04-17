@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-17 01:48:26 UTC`
+📆 Last Updated: `2023-04-17 02:33:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 11 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 12 | [Sassuolo](http://twitter.com/search?q=Sassuolo) | Sassuolo is a town and comune in the province of Modena, Emilia-Romagna, Italy. The name Sassuolo is derived from the Latin word sassulus, meaning "little stone". |
-| 13 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | Schönen Abend is a German phrase that translates to "Good Evening" in English. It is a polite greeting used when meeting someone in the evening. |
+| 13 | [schönen abend](http://twitter.com/search?q=sch%c3%b6nen+abend) | "Schönen Abend" is a German phrase that translates to "have a nice evening" in English. It is a polite way of wishing someone a pleasant evening. |
 | 14 | [Kohlestrom](http://twitter.com/search?q=Kohlestrom) | Kohlestrom is a German word that literally translates to "coal power." It is used to refer to electricity generated from coal-fired power plants. |
 | 15 | [Chancen](http://twitter.com/search?q=Chancen) | Chancen is a German word that means "chances" or "opportunities" in English. It is used to refer to the likelihood of something happening or the potential for success. |
 | 16 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
@@ -35,14 +35,14 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 18 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | Windräder is a German word that translates to "windmills" in English. It is used to refer to the large, rotating structures that are used to generate electricity from the wind. |
 | 19 | [Subventionen](http://twitter.com/search?q=Subventionen) | Subventionen is a German word that refers to government subsidies or grants. In English, it is often translated as "subsidies" or "grants". Subventionen are typically used to support businesses, research projects, or other activities that are deemed to be of public benefit. |
 | 20 | [Kraftwerke](http://twitter.com/search?q=Kraftwerke) | Kraftwerke is a German word that translates to "power plants" in English. It refers to any type of facility that produces electricity, such as a nuclear power plant, hydroelectric dam, or wind farm. |
-| 21 | [eFuels](http://twitter.com/search?q=eFuels) | eFuels is a term used to describe synthetic fuels that are produced from renewable energy sources such as wind, solar, and hydropower. These fuels can be used in place of traditional fossil fuels to reduce emissions and help combat climate change. The term eFuel is derived from the words “electro-fuels” or “electrofuels”. |
+| 21 | [efuels](http://twitter.com/search?q=efuels) | Efuels is short for e-fuels, which are synthetic fuels created from renewable energy sources such as wind and solar. These fuels can be used in place of traditional fossil fuels to reduce emissions and help fight climate change. |
 | 22 | [Kirche](http://twitter.com/search?q=Kirche) | Kirche is a German word meaning "church". It is used to refer to a Christian place of worship, typically a building dedicated to the worship of God. |
 | 23 | [Gelder](http://twitter.com/search?q=Gelder) | Gelder is a Dutch word meaning "to pay" or "to invest". It is used in the context of investing money in something, such as stocks, bonds, or real estate. |
 | 24 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
 | 25 | [Kopp](http://twitter.com/search?q=Kopp) | Kopp is a German word meaning "cup" or "mug". |
 | 26 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 27 | [AKWs](http://twitter.com/search?q=AKWs) | AKWs is an acronym for Atomic Power Stations, which are nuclear power plants that generate electricity using nuclear fission. |
-| 28 | [Maskenpflicht](http://twitter.com/search?q=Maskenpflicht) | Maskenpflicht is a German term meaning "mask requirement" or "mask obligation." It refers to the requirement that people wear masks in public places, such as shops, restaurants, and public transportation, in order to help prevent the spread of COVID-19. |
+| 28 | [maskenpflicht](http://twitter.com/search?q=maskenpflicht) | Maskenpflicht is a German word meaning "mask requirement" or "mask obligation." It refers to the requirement that people wear masks in public places to help prevent the spread of COVID-19. |
 | 29 | [Generationen](http://twitter.com/search?q=Generationen) | Generationen is a German word that translates to "generations" in English. It is used to refer to the different generations of people within a family or society. |
 | 30 | [Super League](http://twitter.com/search?q=Super+League) | Super League is a professional rugby league competition in Europe, featuring clubs from England, France, Wales, Scotland, and Canada. It is the top-level rugby league competition in Europe and is one of the most prestigious competitions in the world. The Super League season runs from February to October each year and culminates with a Grand Final match between the two top teams. The winner of the Grand Final is crowned Super League champion. |
 | 31 | [maurer](http://twitter.com/search?q=maurer) | Maurer is a German word meaning "mason" or "bricklayer". It is used to refer to someone who works with stone, brick, and other materials to construct buildings and other structures. |
@@ -56,12 +56,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 39 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | Mannschaft is a German word that translates to "team" in English. It is used to refer to a group of people working together towards a common goal. |
 | 40 | [Guarda](http://twitter.com/search?q=Guarda) | Guarda is a Portuguese word meaning "watch" or "guard". It can also be used as a verb, meaning "to watch" or "to guard". |
 | 41 | [Immunsystem](http://twitter.com/search?q=Immunsystem) | Immunsystem is a German word that refers to the body's immune system. In English, it is used to describe the system of organs, cells, and proteins that work together to protect the body from foreign invaders such as bacteria and viruses. The immune system helps the body fight off infection and disease. |
-| 42 | [Russia](http://twitter.com/search?q=Russia) | Russia is a country located in Eastern Europe and Northern Asia. It is the largest country in the world by landmass, and it has a population of over 145 million people. The official language of Russia is Russian, and its capital is Moscow. The name "Russia" comes from the Rus' people, who were a medieval East Slavic people that founded the state of Kievan Rus' in the 9th century. |
-| 43 | [Abfall](http://twitter.com/search?q=Abfall) | Abfall is a German word meaning "waste" or "garbage". It is used to refer to any kind of waste material, including both solid and liquid waste. |
-| 44 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 45 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 46 | [Karriere](http://twitter.com/search?q=Karriere) | Karriere is a German word that means "career" in English. It is used to refer to the progress of a person's professional life, including their education, work experience, and accomplishments. |
-| 47 | [Bienne](http://twitter.com/search?q=Bienne) | Bienne is the French name for the city of Biel, Switzerland. It is a bilingual city, with both German and French being official languages. The English translation of Bienne is Biel. |
+| 42 | [Abfall](http://twitter.com/search?q=Abfall) | Abfall is a German word meaning "waste" or "garbage". It is used to refer to any kind of waste material, including both solid and liquid waste. |
+| 43 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 44 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 45 | [Karriere](http://twitter.com/search?q=Karriere) | Karriere is a German word that means "career" in English. It is used to refer to the progress of a person's professional life, including their education, work experience, and accomplishments. |
+| 46 | [Bienne](http://twitter.com/search?q=Bienne) | Bienne is the French name for the city of Biel, Switzerland. It is a bilingual city, with both German and French being official languages. The English translation of Bienne is Biel. |
+| 47 | [Energien](http://twitter.com/search?q=Energien) | Energien is a German word that translates to "energy" in English. It is used to refer to the energy or power of something, such as the energy of a person or an object. |
 
 
 

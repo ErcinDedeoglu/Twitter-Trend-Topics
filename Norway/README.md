@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-17 01:55:14 UTC`
+📆 Last Updated: `2023-04-17 02:37:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,16 +23,16 @@ This is top 50 for Norway
 | 6 | [Molde](http://twitter.com/search?q=Molde) | Molde is a city in Norway. It is located in the county of Møre og Romsdal, and is the administrative center of the municipality of Molde. The name Molde comes from an old Norse word meaning "mound" or "hill". |
 | 7 | [strandberg](http://twitter.com/search?q=strandberg) | Strandberg is a Swedish guitar and bass manufacturer. The company was founded in 2005 by Ola Strandberg and is based in Gothenburg, Sweden. The company produces high-end electric guitars and basses that are designed to provide players with a unique playing experience. Strandberg guitars are known for their ergonomic design, innovative hardware, and high-quality craftsmanship. |
 | 8 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 9 | [OBOS](http://twitter.com/search?q=OBOS) | OBOS stands for "One Big Online Store" and is a Norwegian online marketplace for buying and selling new and used items. It is similar to eBay or Craigslist, but with a focus on the Norwegian market. |
+| 9 | [obos](http://twitter.com/search?q=obos) | Obos is a Norwegian term that translates to "all of us" in English. It is used to refer to a group of people who are working together or sharing an experience. |
 | 10 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 11 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 12 | [#streik](http://twitter.com/search?q=%23streik) | #Streik is a German word meaning "strike" or "protest". It is used to refer to a collective action taken by workers in order to express their dissatisfaction with their working conditions or wages. It can also be used to refer to a general strike, where all workers in a particular industry or region go on strike at the same time. |
-| 13 | [Venstre](http://twitter.com/search?q=Venstre) | Venstre is a Danish political party. The name translates to "Left" in English, and the party is generally considered to be center-left in its policies. |
-| 14 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 15 | [Sudan](http://twitter.com/search?q=Sudan) | Sudan is a country located in North-East Africa. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, Eritrea to the east and Red Sea to the northeast. The name Sudan is derived from Arabic and means "land of black people". |
-| 16 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 12 | [Venstre](http://twitter.com/search?q=Venstre) | Venstre is a Danish political party. The name translates to "Left" in English, and the party is generally considered to be center-left in its policies. |
+| 13 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 14 | [Sudan](http://twitter.com/search?q=Sudan) | Sudan is a country located in North-East Africa. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, Eritrea to the east and Red Sea to the northeast. The name Sudan is derived from Arabic and means "land of black people". |
+| 15 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 16 | [#streik](http://twitter.com/search?q=%23streik) | #Streik is a German word meaning "strike" or "protest". It is used to refer to a collective action taken by workers in order to express their dissatisfaction with their working conditions or wages. It can also be used to refer to a general strike, where all workers in a particular industry or region go on strike at the same time. |
 | 17 | [Kovacs](http://twitter.com/search?q=Kovacs) | Kovacs is a Hungarian surname derived from the given name Kovač, which means blacksmith in Slavic languages. It is also a common Jewish surname in Hungary. In English, Kovacs is pronounced "KOH-vahch". |
-| 18 | [Aspmyra](http://twitter.com/search?q=Aspmyra) | Aspmyra is a Norwegian word meaning “the field of the aspen tree”. It is often used to refer to a place of beauty and peace, where one can find solace and relaxation. |
+| 18 | [aspmyra](http://twitter.com/search?q=aspmyra) | Aspmyra is a Norwegian word that means “a meadow of aspen trees”. It is used to describe a landscape with many aspen trees growing in it. |
 | 19 | [karpe](http://twitter.com/search?q=karpe) | Karpe is a Norwegian term that means "to harvest" or "to reap". It is often used to refer to the act of harvesting crops, but can also be used more generally to refer to any kind of gathering or collecting. |
 | 20 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
 | 21 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
@@ -64,7 +64,7 @@ This is top 50 for Norway
 | 47 | [Trur](http://twitter.com/search?q=Trur) | Trur is not a word in English. |
 | 48 | [vestlandet](http://twitter.com/search?q=vestlandet) | Vestlandet is a region in Norway, located on the country's western coast. It is made up of the counties of Hordaland, Sogn og Fjordane, and Rogaland. The name Vestlandet translates to "the West Land" in English. |
 | 49 | [cornic](http://twitter.com/search?q=cornic) | Cornic is a French word that means "horn". It is used to refer to the curved shape of a horn or the sound it makes. |
-| 50 | [Borch](http://twitter.com/search?q=Borch) | Borch is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is attractive or fashionable. |
+| 50 | [borch](http://twitter.com/search?q=borch) | Borch is not a word in English. It may be a misspelling of the word "birch," which is a type of tree with thin, white bark. |
 
 
 

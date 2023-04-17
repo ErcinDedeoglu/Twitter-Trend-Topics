@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-17 01:54:47 UTC`
+📆 Last Updated: `2023-04-17 02:37:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,17 +28,17 @@ This is top 50 for Denmark
 | 11 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 12 | [Cappis](http://twitter.com/search?q=Cappis) | Cappis is a type of traditional Japanese clothing. It is a long, loose-fitting robe with wide sleeves and a sash around the waist. The word comes from the Japanese words "kappa" (robe) and "shozoku" (clothing). In English, it is sometimes referred to as a kimono robe. |
 | 13 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 14 | [politiet](http://twitter.com/search?q=politiet) | Politiet is the Norwegian word for police. In English, it means "the police". |
+| 14 | [Politiet](http://twitter.com/search?q=Politiet) | Politiet is the Norwegian word for police. In English, it means "the police". |
 | 15 | [lyngby](http://twitter.com/search?q=lyngby) | Lyngby is a town in Denmark located just north of Copenhagen. It is known for its many parks, forests, and lakes, as well as its vibrant cultural life. The name Lyngby comes from the Danish words for "heather" and "village," and it can be translated to mean "heather village." |
 | 16 | [Bell](http://twitter.com/search?q=Bell) | Bell is a noun that refers to a hollow metal object that makes a ringing sound when struck. It is commonly used to signal the start or end of an event, such as the beginning of school or the end of a workday. Bells can also be used to call people to prayer in churches and other places of worship. |
 | 17 | [Corner](http://twitter.com/search?q=Corner) | Corner is a noun that refers to the intersection of two walls or other surfaces, usually forming an angle of 90 degrees. It can also refer to a place or area that is out of the way, hidden, or secluded. |
-| 18 | [Vallys](http://twitter.com/search?q=Vallys) | Vallys is not a word in English. It does not have a meaning. |
+| 18 | [vallys](http://twitter.com/search?q=vallys) | Vallys is not a word in English. It may be a misspelling of the word "valleys," which means a low area of land between two higher areas, often with a river or stream running through it. |
 | 19 | [lauritsen](http://twitter.com/search?q=lauritsen) | Lauritsen is a Danish surname. It is derived from the given name Laurits, which is a form of the Latin name Laurentius, meaning "from Laurentum". |
 | 20 | [Wass](http://twitter.com/search?q=Wass) | Wass is not a word in English. It does not have a meaning. |
 | 21 | [tshiembe](http://twitter.com/search?q=tshiembe) | Tshiembe is a traditional dance from the Democratic Republic of Congo. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The name comes from the word "tshiemba," which means "to dance" in the local language. In English, it can be translated as "dance of joy." |
 | 22 | [daramy](http://twitter.com/search?q=daramy) | Daramy is a term used in the West African country of Guinea to refer to a person who is considered to be wise and knowledgeable. It is often used as a title of respect for someone who has achieved a high level of knowledge or wisdom. In English, it can be translated as "wise one" or "wise person". |
 | 23 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 24 | [Viborg](http://twitter.com/search?q=Viborg) | Viborg is a city in central Denmark. It is the capital of Viborg Municipality and the seat of the Diocese of Viborg. The name Viborg means "holy place" in English. |
+| 24 | [viborg](http://twitter.com/search?q=viborg) | Viborg is a city in central Denmark. It is the capital of Viborg Municipality and the seat of the Diocese of Viborg. The name Viborg means "holy place" in Danish. |
 | 25 | [rado](http://twitter.com/search?q=rado) | Rado is a Swiss watchmaker known for its luxury watches. The company was founded in 1917 and is known for its innovative designs and use of high-tech materials. The name Rado comes from the Latin word "radius," which means "wheel." |
 | 26 | [Rune](http://twitter.com/search?q=Rune) | Rune is an ancient form of writing used by Germanic and Scandinavian cultures. It is a form of divination, or fortune-telling, that uses symbols to represent different meanings. The word rune comes from the Old Norse word rún, which means "secret" or "mystery". In English, rune can also refer to a letter of the runic alphabet. |
 | 27 | [hedlund](http://twitter.com/search?q=hedlund) | Hedlund is a Swedish surname derived from the Old Norse name Hjalmar, meaning “army helmet”. |
