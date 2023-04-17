@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-17 18:32:50 UTC`
+📆 Last Updated: `2023-04-17 19:26:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,25 +16,25 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Kermit](http://twitter.com/search?q=%23Kermit) | #Kermit is a hashtag used to refer to the Muppet character Kermit the Frog. It is often used in posts related to the character, such as quotes, images, and videos. |
-| 2 | [Ogres](http://twitter.com/search?q=Ogres) | Ogres are mythical creatures that are usually depicted as large, hideous, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are said to have a taste for human flesh. The word "ogre" comes from the Latin word "orcus," which means "demon." |
-| 3 | [Helmanis](http://twitter.com/search?q=Helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". In English, the meaning of Helmanis is "protector". |
-| 4 | [Avena](http://twitter.com/search?q=Avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. |
-| 5 | [#balssmaskā](http://twitter.com/search?q=%23balssmask%c4%81) | #balssmaskā is a hashtag used on social media to promote the use of face masks in Latvia. It translates to "mask up" in English. |
+| 2 | [#HamsterNFT](http://twitter.com/search?q=%23HamsterNFT) | #HamsterNFT is a hashtag used to refer to Non-Fungible Tokens (NFTs) that feature digital art of hamsters. NFTs are digital assets that are stored on a blockchain and can be bought, sold, and traded like any other asset. They are unique and cannot be replicated or exchanged for something else. #HamsterNFT is used to promote the sale of these digital assets featuring hamsters. |
+| 3 | [Ogres](http://twitter.com/search?q=Ogres) | Ogres are mythical creatures that are usually depicted as large, hideous, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are said to have a taste for human flesh. The word "ogre" comes from the Latin word "orcus," which means "demon." |
+| 4 | [Helmanis](http://twitter.com/search?q=Helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". In English, the meaning of Helmanis is "protector". |
+| 5 | [Avena](http://twitter.com/search?q=Avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. |
 | 6 | [Ogri](http://twitter.com/search?q=Ogri) | Ogri is a term used in the Indian subcontinent to refer to a person who is slow-witted or foolish. In English, it can be translated as "stupid" or "foolish". |
-| 7 | [Siguldas](http://twitter.com/search?q=Siguldas) | Siguldas is a town in Latvia, located in the northern part of the country. The name Siguldas is derived from the Livonian language and means "a place of rest". |
-| 8 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | Kamēr is a Latvian word meaning "while" or "until". It is used to indicate a period of time in which something will happen or continue to happen. |
-| 9 | [dziesmu](http://twitter.com/search?q=dziesmu) | Dziesmu is a Latvian word meaning "song". It is used to refer to traditional Latvian folk songs. |
+| 7 | [#balssmaskā](http://twitter.com/search?q=%23balssmask%c4%81) | #balssmaskā is a hashtag used on social media to promote the use of face masks in Latvia. It translates to "mask up" in English. |
+| 8 | [Siguldas](http://twitter.com/search?q=Siguldas) | Siguldas is a town in Latvia, located in the northern part of the country. The name Siguldas is derived from the Livonian language and means "a place of rest". |
+| 9 | [Dziesmu](http://twitter.com/search?q=Dziesmu) | Dziesmu is a type of Latvian folk song. It is typically sung in a call-and-response style, with one singer leading the melody and the others joining in with harmony. The word "dziesmu" translates to "song" in English. |
 | 10 | [Igaunijā](http://twitter.com/search?q=Igaunij%c4%81) | Igaunijā is the Latvian word for Estonia. It literally translates to "in Estonia". |
 | 11 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | Ukrainu is a Ukrainian language word meaning "Ukraine". It is the name of the country located in Eastern Europe. |
-| 12 | [satversmē](http://twitter.com/search?q=satversm%c4%93) | Satversme is the Latvian word for Constitution. It is the fundamental law of Latvia that establishes the country's political framework and outlines its government structure, as well as its rights and obligations. |
-| 13 | [Šobrīd](http://twitter.com/search?q=%c5%a0obr%c4%abd) | Šobrīd is a Latvian word meaning "now" or "at present". |
-| 14 | [Pareizi](http://twitter.com/search?q=Pareizi) | Pareizi is a Latvian word meaning "correctly" or "right". |
-| 15 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | Plantar fasciitis is a condition that causes pain in the heel and bottom of the foot. It is caused by inflammation of the plantar fascia, a thick band of tissue that runs across the bottom of the foot and connects the heel bone to the toes. Symptoms include pain when walking or standing, especially after long periods of rest. Treatment typically involves stretching exercises, wearing supportive shoes, and taking anti-inflammatory medications. |
-| 16 | [Putina](http://twitter.com/search?q=Putina) | Putina is a female given name of Slavic origin. It is derived from the word "put" which means "path" or "way". In English, it can be translated to mean "one who follows the path". |
-| 17 | [Tikai](http://twitter.com/search?q=Tikai) | Tikai is a Latvian word that means "only" or "just". |
-| 18 | [Vairāk](http://twitter.com/search?q=Vair%c4%81k) | Vairāk is a Latvian word meaning "more". |
-| 19 | [#herpes](http://twitter.com/search?q=%23herpes) | #Herpes is a hashtag used to refer to the herpes simplex virus, which is a sexually transmitted infection. It can cause sores and blisters on the skin and mucous membranes. |
-| 20 | [Labi](http://twitter.com/search?q=Labi) | Labi is a Japanese term that means "lazy". It is used to describe someone who is not motivated or does not put in the effort to do something. |
+| 12 | [Levita](http://twitter.com/search?q=Levita) | Levita is a Spanish name derived from the Latin word "levitas" meaning "lightness". It is often used as a given name for girls and can also be used as a surname. The name is associated with grace, agility, and lightness of spirit. |
+| 13 | [Pareizi](http://twitter.com/search?q=Pareizi) | Pareizi is a Latvian word meaning "correctly" or "right". |
+| 14 | [Vairāk](http://twitter.com/search?q=Vair%c4%81k) | Vairāk is a Latvian word meaning "more". |
+| 15 | [#herpes](http://twitter.com/search?q=%23herpes) | #Herpes is a hashtag used to refer to the herpes simplex virus, which is a sexually transmitted infection. It can cause sores and blisters on the skin and mucous membranes. |
+| 16 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | Plantar fasciitis is a condition that causes pain in the heel and bottom of the foot. It is caused by inflammation of the plantar fascia, a thick band of tissue that runs across the bottom of the foot and connects the heel bone to the toes. Symptoms include pain when walking or standing, especially after long periods of rest. Treatment typically involves stretching exercises, wearing supportive shoes, and taking anti-inflammatory medications. |
+| 17 | [Putina](http://twitter.com/search?q=Putina) | Putina is a female given name of Slavic origin. It is derived from the word "put" which means "path" or "way". In English, it can be translated to mean "one who follows the path". |
+| 18 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | Skaidrs is a Latvian word meaning "slides" or "slide show". It is used to refer to a presentation or lecture that uses slides as visual aids. |
+| 19 | [Šobrīd](http://twitter.com/search?q=%c5%a0obr%c4%abd) | Šobrīd is a Latvian word meaning "now" or "at present". |
+| 20 | [Valsts](http://twitter.com/search?q=Valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of Latvia, as well as the nation itself. |
 | 21 | [Telegram](http://twitter.com/search?q=Telegram) | Telegram is an instant messaging app that allows users to send and receive messages, photos, videos, audio files, and other documents. It is similar to other messaging apps such as WhatsApp and Viber. The word "telegram" comes from the Greek words tele (far) and gramma (message). It refers to the sending of messages over long distances. |
 | 22 | [tavā](http://twitter.com/search?q=tav%c4%81) | Tavā is a Latvian word meaning "you". |
 | 23 | [Protams](http://twitter.com/search?q=Protams) | Protams is a Sanskrit word meaning "first" or "foremost". It is often used to refer to the first of a series of events or activities. |
@@ -43,28 +43,28 @@ This is top 50 for Latvia
 | 26 | [Rīgas](http://twitter.com/search?q=R%c4%abgas) | Rīgas is the Latvian word for Riga, the capital city of Latvia. In English, it is pronounced "REE-gahs". |
 | 27 | [Neko](http://twitter.com/search?q=Neko) | Neko is a Japanese word meaning "cat". It is often used as an affectionate term for cats, similar to how people in English might refer to their cats as "kitty" or "kitties". |
 | 28 | [somijā](http://twitter.com/search?q=somij%c4%81) | Somijā is a type of traditional Japanese clothing worn by women. It is a long, loose-fitting robe with wide sleeves and a high collar. The word somijā comes from the Japanese words somu (to sew) and jā (clothing). In English, it can be translated as "sewn clothing". |
-| 29 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | Piekrītu is a Latvian phrase that translates to "I agree" in English. |
-| 30 | [#JYPEDoBetterForSKZ](http://twitter.com/search?q=%23JYPEDoBetterForSKZ) | #JYPEDoBetterForSKZ is a hashtag used by fans of the South Korean boy band Stray Kids to call on their label, JYP Entertainment, to do more to promote and support the group. The hashtag is used to express fans' dissatisfaction with the company's lack of promotional activities for Stray Kids. |
+| 29 | [Viņiem](http://twitter.com/search?q=Vi%c5%86iem) | Viņiem is a pronoun in the Latvian language that means "them" or "to them" in English. |
+| 30 | [Saeimā](http://twitter.com/search?q=Saeim%c4%81) | Saeimā is the name of the Latvian Parliament. It is derived from the Latvian word for "assembly". In English, it can be translated as "Parliament". |
 | 31 | [vācija](http://twitter.com/search?q=v%c4%81cija) | Vācija is the Latvian word for Germany. In English, it means "Germany". |
 | 32 | [Kurā](http://twitter.com/search?q=Kur%c4%81) | Kurā is a Japanese term that means "clan" or "tribe". It is used to refer to a group of people who share a common ancestry, culture, and history. The term is often used in the context of samurai clans or other traditional Japanese social groups. |
 | 33 | [šķiet](http://twitter.com/search?q=%c5%a1%c4%b7iet) | In Latvian, "šķiet" is an expression that means "it seems" or "it appears". It is used to express a feeling or opinion about something. |
 | 34 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | Kremļa is the Russian word for Kremlin, which is a fortified complex in the center of Moscow that serves as the official residence of the President of Russia. It is also a symbol of Russian power and authority. |
-| 35 | [šleseru](http://twitter.com/search?q=%c5%a1leseru) | Šleseru is a type of traditional Latvian pastry. It is made from a dough of flour, butter, and eggs, and is filled with a sweet mixture of grated apples, raisins, and nuts. The pastry is then baked until golden brown. In English, šleseru translates to "apple tart". |
-| 36 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | Украины is the genitive form of the Russian word for Ukraine. In English, it translates to "of Ukraine". |
-| 37 | [Valsts](http://twitter.com/search?q=Valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of Latvia, as well as the nation itself. |
+| 35 | [Kamēr](http://twitter.com/search?q=Kam%c4%93r) | Kamēr is a Latvian word meaning "while" or "until". It is used to indicate a period of time in which something will happen or continue to happen. |
+| 36 | [šleseru](http://twitter.com/search?q=%c5%a1leseru) | Šleseru is a type of traditional Latvian pastry. It is made from a dough of flour, butter, and eggs, and is filled with a sweet mixture of grated apples, raisins, and nuts. The pastry is then baked until golden brown. In English, šleseru translates to "apple tart". |
+| 37 | [Kaut](http://twitter.com/search?q=Kaut) | Kaut is a term used in the Czech Republic to refer to a small village or hamlet. It is derived from the Old Czech word kout, which means corner or nook. In English, it can be translated as "hamlet" or "village". |
 | 38 | [Kariņš](http://twitter.com/search?q=Kari%c5%86%c5%a1) | Kariņš is a Latvian surname. It is derived from the word "kari" which means "warrior". In English, it can be translated to mean "Warrior". |
-| 39 | [Pirms](http://twitter.com/search?q=Pirms) | Pirms is a Latvian word meaning "before". |
+| 39 | [pirms](http://twitter.com/search?q=pirms) | Pirms is a Latvian word meaning "before" or "in front of". |
 | 40 | [Kādu](http://twitter.com/search?q=K%c4%81du) | Kādu is a word in the Latvian language that means "which". |
-| 41 | [krievija](http://twitter.com/search?q=krievija) | Krievija is the Latvian word for Russia. In English, it translates to "Russia". |
-| 42 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | Pīlēns is a Latvian word meaning "butterfly". |
-| 43 | [Levitu](http://twitter.com/search?q=Levitu) | Levitu is a Finnish word meaning "to enjoy oneself". It is often used to describe the feeling of pleasure or satisfaction that comes from doing something enjoyable. |
-| 44 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | Kāds is a Latvian word that means "what" or "which". It is used to ask questions about specific people, places, or things. |
-| 45 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | СССР stands for the Union of Soviet Socialist Republics, which was the official name of the Soviet Union from 1922 to 1991. In English, it is commonly referred to as the USSR. |
-| 46 | [Nevajag](http://twitter.com/search?q=Nevajag) | Nevajag is a Latvian word that means "nevermind". |
-| 47 | [KNAB](http://twitter.com/search?q=KNAB) | KNAB is an acronym for the Dutch banking institution, KNAB Bank. It stands for Kredietbank Nederlandse Aandelenbelangen, which translates to Credit Bank Dutch Equity Interests. |
-| 48 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | Taisnība is a Latvian word that means "truth". |
-| 49 | [Ķīnu](http://twitter.com/search?q=%c4%b6%c4%abnu) | Ķīnu is the Latvian word for China. In English, it is pronounced "Kee-noo". |
-| 50 | [Tavs](http://twitter.com/search?q=Tavs) | Tavs is a slang term used in the UK to refer to someone who is considered to be cool or fashionable. It is derived from the word "trendy". |
+| 41 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | Украины is the genitive form of the Russian word for Ukraine. In English, it translates to "of Ukraine". |
+| 42 | [krievija](http://twitter.com/search?q=krievija) | Krievija is the Latvian word for Russia. In English, it translates to "Russia". |
+| 43 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | Pīlēns is a Latvian word meaning "butterfly". |
+| 44 | [KNAB](http://twitter.com/search?q=KNAB) | KNAB is an acronym for the Dutch banking institution, KNAB Bank. It stands for Kredietbank Nederlandse Aandelenbelangen, which translates to Credit Bank Dutch Equity Interests. |
+| 45 | [Vajag](http://twitter.com/search?q=Vajag) | Vajag is a term used in the Indian language of Marathi, which means “to go” or “to move”. It is commonly used as an imperative verb to tell someone to go somewhere. |
+| 46 | [Tavs](http://twitter.com/search?q=Tavs) | Tavs is a slang term used in the UK to refer to someone who is considered to be cool or fashionable. It is derived from the word "trendy". |
+| 47 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | Kāds is a Latvian word that means "what" or "which". It is used to ask questions about specific people, places, or things. |
+| 48 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | СССР stands for the Union of Soviet Socialist Republics, which was the official name of the Soviet Union from 1922 to 1991. In English, it is commonly referred to as the USSR. |
+| 49 | [Satversmes](http://twitter.com/search?q=Satversmes) | Satversme is the Constitution of Latvia. It is the fundamental law of the country, which sets out the framework for the government and its laws. In English, Satversme translates to Constitution. |
+| 50 | [Nekas](http://twitter.com/search?q=Nekas) | Nekas is a Latvian word that means "nothing". It is used to express a lack of something or an absence of something. |
 
 
 
