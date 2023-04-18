@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-18 10:28:18 UTC`
+📆 Last Updated: `2023-04-18 11:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,10 +18,10 @@ This is top 50 for Guatemala
 | 1 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 2 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
 | 3 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 4 | [Foppa](http://twitter.com/search?q=Foppa) | Foppa is a nickname for Peter Forsberg, a Swedish professional ice hockey player. It is derived from his surname and is used as an affectionate term by his fans. In English, it can be translated to mean "Peter". |
+| 4 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 5 | [#JHOPE](http://twitter.com/search?q=%23JHOPE) | #JHOPE is the hashtag used to refer to J-Hope, a South Korean rapper, singer, songwriter, and dancer who is a member of the K-pop group BTS. The hashtag is used to show support for J-Hope and his work. |
-| 6 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 7 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 6 | [frank ocean](http://twitter.com/search?q=frank+ocean) | Frank Ocean is the stage name of American singer, songwriter, and record producer Christopher Edwin Breaux. He is known for his unconventional musical style, blending elements of R&B, hip hop, soul, funk, and jazz. His music often explores themes of love, heartbreak, and personal growth. |
+| 7 | [Foppa](http://twitter.com/search?q=Foppa) | Foppa is a nickname for Peter Forsberg, a Swedish professional ice hockey player. It is derived from his surname and is used as an affectionate term by his fans. In English, it can be translated to mean "Peter". |
 | 8 | [Zury](http://twitter.com/search?q=Zury) | Zury is a Japanese word meaning “beauty” or “elegance.” It is often used to describe something that is aesthetically pleasing or has a graceful quality. |
 | 9 | [Un x100to](http://twitter.com/search?q=Un+x100to) | Un x100to is a Spanish phrase that translates to "one hundred times". It is often used to express an idea of something being done or repeated many times. |
 | 10 | [El Real Madrid](http://twitter.com/search?q=El+Real+Madrid) | El Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 Intercontinental Cups and 4 UEFA Super Cups. The club's official name is Real Madrid Club de Fútbol (Royal Madrid Football Club). In English, this translates to "Royal Madrid Football Club". |
@@ -41,12 +41,12 @@ This is top 50 for Guatemala
 | 24 | [Primera División](http://twitter.com/search?q=Primera+Divisi%c3%b3n) | Primera División is the top tier of professional football in Spain. It is also known as La Liga and is one of the most popular and competitive leagues in the world. In English, Primera División translates to "First Division". |
 | 25 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 26 | [Nueva York](http://twitter.com/search?q=Nueva+York) | Nueva York is Spanish for New York. It is the name of the largest city in the United States, located in the state of New York. |
-| 27 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 27 | [benito](http://twitter.com/search?q=benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian surname. In Spanish-speaking countries, Benito is often used as a given name for boys. |
 | 28 | [Kendall](http://twitter.com/search?q=Kendall) | Kendall is a unisex name of English origin, derived from the surname meaning "valley of the River Kent". It is also a place name, referring to the town of Kendall in Cumbria, England. |
-| 29 | [#climagt](http://twitter.com/search?q=%23climagt) | #climagt is an abbreviation for “climate action”, which refers to any action taken to reduce the impact of climate change. It can include activities such as reducing energy consumption, switching to renewable energy sources, and advocating for policy changes. |
+| 29 | [#ClimaGT](http://twitter.com/search?q=%23ClimaGT) | #ClimaGT is a hashtag used to promote environmental awareness in Guatemala. It stands for "Clima Guatemala" and is used to share news, stories, and events related to climate change and sustainability in the country. |
 | 30 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 31 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 32 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 32 | [GUATEMALA](http://twitter.com/search?q=GUATEMALA) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
 | 33 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 34 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
 | 35 | [Santa Lucía](http://twitter.com/search?q=Santa+Luc%c3%ada) | Santa Lucía is a traditional Spanish song that is often sung around Christmas time. The title translates to "Saint Lucy" in English, and the song is about a young girl who is blessed with the gift of sight. The lyrics tell of her joy at being able to see the beauty of the world around her. |
@@ -64,7 +64,7 @@ This is top 50 for Guatemala
 | 47 | [malacateco](http://twitter.com/search?q=malacateco) | Malacateco is a term used to refer to someone from the town of Malacatán in Guatemala. It is derived from the Nahuatl language and translates to "people of Malacatán". |
 | 48 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
 | 49 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 50 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | Kali Uchis is the stage name of Colombian-American singer, songwriter, and producer Karly-Marina Loaiza. The name Kali Uchis is derived from the Spanish phrase "calle ocho," which translates to "eighth street" in English. |
+| 50 | [kali uchis](http://twitter.com/search?q=kali+uchis) | Kali Uchis is the stage name of Colombian-American singer, songwriter, and producer Karly-Marina Loaiza. The name Kali Uchis is derived from the Spanish phrase "calle ocho," which translates to "eighth street" in English. |
 
 
 
