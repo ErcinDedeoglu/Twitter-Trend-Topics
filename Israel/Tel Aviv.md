@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tel Aviv
 
-📆 Last Updated: `2023-04-18 00:36:35 UTC`
+📆 Last Updated: `2023-04-18 01:52:07 UTC`
 
 🔧 Updated every 1 hour!
 
