@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-18 01:55:29 UTC`
+📆 Last Updated: `2023-04-18 02:37:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,32 +39,32 @@ This is top 50 for Latvia
 | 22 | [knab](http://twitter.com/search?q=knab) | Knab is a Swedish word meaning "to snatch" or "to grab". It is often used in the context of grabbing something quickly or unexpectedly. |
 | 23 | [šleseru](http://twitter.com/search?q=%c5%a1leseru) | Šleseru is a type of traditional Latvian pastry. It is made from a dough of flour, butter, and eggs, and is filled with a sweet mixture of grated apples, raisins, and nuts. The pastry is then baked until golden brown. In English, šleseru translates to "apple tart". |
 | 24 | [somijā](http://twitter.com/search?q=somij%c4%81) | Somijā is a type of traditional Japanese clothing worn by women. It is a long, loose-fitting robe with wide sleeves and a high collar. The word somijā comes from the Japanese words somu (to sew) and jā (clothing). In English, it can be translated as "sewn clothing". |
-| 25 | [Kamēr](http://twitter.com/search?q=Kam%c4%93r) | Kamēr is a Latvian word meaning "while" or "until". It is used to indicate a period of time in which something will happen or continue to happen. |
+| 25 | [kamēr](http://twitter.com/search?q=kam%c4%93r) | Kamēr is a Latvian word meaning "while" or "until". It is used to indicate a period of time in which something will happen or continue to happen. |
 | 26 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | Viņiem is a pronoun in Latvian that means "them" or "to them" in English. |
 | 27 | [pmlp](http://twitter.com/search?q=pmlp) | PMLP stands for "Project Management Leadership Program," which is a professional development program designed to help project managers develop their leadership skills. The program focuses on topics such as communication, problem solving, decision making, and team building. |
 | 28 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | Kremļa is a Russian word that refers to the Moscow Kremlin, a fortified complex in the center of Moscow that serves as the official residence of the President of Russia. In English, it is often referred to as simply "the Kremlin". |
 | 29 | [nedomāju](http://twitter.com/search?q=nedom%c4%81ju) | Nedomāju is a Latvian word meaning "I don't think so". |
-| 30 | [Pīlēns](http://twitter.com/search?q=P%c4%abl%c4%93ns) | Pīlēns is a Latvian word meaning "butterfly". |
+| 30 | [pīlēns](http://twitter.com/search?q=p%c4%abl%c4%93ns) | Pīlēns is a Latvian word meaning "fairy". |
 | 31 | [vācija](http://twitter.com/search?q=v%c4%81cija) | Vācija is the Latvian word for Germany. In English, it means "Germany". |
 | 32 | [Nevajag](http://twitter.com/search?q=Nevajag) | Nevajag is a Latvian word that means "nevermind". |
 | 33 | [nesaprotu](http://twitter.com/search?q=nesaprotu) | Nesaprotu is a Latvian word meaning "I don't understand". |
 | 34 | [tavs](http://twitter.com/search?q=tavs) | Tavs is a slang term used in the United Kingdom, typically in Northern England, to describe something that is cool or impressive. It can also be used to describe someone who is attractive or stylish. |
-| 35 | [kurā](http://twitter.com/search?q=kur%c4%81) | Kurā is a Japanese word that means "cool" or "stylish". It is often used to describe someone or something that is fashionable, attractive, or impressive. |
-| 36 | [talsu](http://twitter.com/search?q=talsu) | Talsu is a town in Latvia. It is located in the Talsi district, in the historical region of Courland. The name of the town comes from the Talsi River, which flows through it. In English, Talsu means "valley of the river". |
-| 37 | [vakar](http://twitter.com/search?q=vakar) | Vakar is a Lithuanian word meaning "yesterday". |
-| 38 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | СССР stands for the Union of Soviet Socialist Republics, which was the official name of the Soviet Union from 1922 to 1991. In English, it is commonly referred to as the USSR. |
-| 39 | [tādu](http://twitter.com/search?q=t%c4%81du) | Tādu is a Japanese word meaning "such" or "like that". It is used to describe something that has been mentioned previously. |
-| 40 | [iesaku](http://twitter.com/search?q=iesaku) | Iesaku is a Japanese word that means "recommendation" or "suggestion". It is often used when someone is recommending something to another person. |
-| 41 | [TikTok](http://twitter.com/search?q=TikTok) | TikTok is a social media platform where users can create and share short videos. It is especially popular among teenagers and young adults. The name "TikTok" is derived from the sound of a clock ticking, which symbolizes the app's short video format. |
-| 42 | [kāds](http://twitter.com/search?q=k%c4%81ds) | Kāds is a Latvian word that means "what kind of" or "which one". It is used to ask questions about specific things. For example, "Kāds ir šis dzēriens?" translates to "What kind of drink is this?" |
-| 43 | [vajadzēja](http://twitter.com/search?q=vajadz%c4%93ja) | Vajadzēja is a Latvian word meaning "should" or "must". It is used to express obligation or necessity. |
-| 44 | [šoreiz](http://twitter.com/search?q=%c5%a1oreiz) | "Šoreiz" is a Latvian word meaning "this time". |
-| 45 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | Ķīnu is the Latvian word for China. It is derived from the Latin word Sinus, which means "Chinese". |
-| 46 | [viņam](http://twitter.com/search?q=vi%c5%86am) | Viņam is a pronoun in Latvian that means "him" or "to him" in English. |
-| 47 | [lietuvas](http://twitter.com/search?q=lietuvas) | Lietuvas is the Lithuanian word for Lithuania, a country in Northern Europe. |
-| 48 | [krievijā](http://twitter.com/search?q=krievij%c4%81) | Krievijā is the Latvian word for Russia. In English, it translates to "in Russia". |
-| 49 | [Pirms](http://twitter.com/search?q=Pirms) | Pirms is a Latvian word meaning "before". |
-| 50 | [katru](http://twitter.com/search?q=katru) | Katru is a Tamil word meaning "four". It is used to refer to the number four or a group of four people or things. |
+| 35 | [Russia](http://twitter.com/search?q=Russia) | Russia is a country located in Eastern Europe and Northern Asia. It is the largest country in the world by landmass, and it has a population of over 145 million people. The official language of Russia is Russian, and its capital is Moscow. The name "Russia" comes from the Rus' people, who were a medieval East Slavic people that founded the state of Kievan Rus' in the 9th century. |
+| 36 | [kurā](http://twitter.com/search?q=kur%c4%81) | Kurā is a Japanese word that means "cool" or "stylish". It is often used to describe someone or something that is fashionable, attractive, or impressive. |
+| 37 | [talsu](http://twitter.com/search?q=talsu) | Talsu is a town in Latvia. It is located in the Talsi district, in the historical region of Courland. The name of the town comes from the Talsi River, which flows through it. In English, Talsu means "valley of the river". |
+| 38 | [vakar](http://twitter.com/search?q=vakar) | Vakar is a Lithuanian word meaning "yesterday". |
+| 39 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | СССР stands for the Union of Soviet Socialist Republics, which was the official name of the Soviet Union from 1922 to 1991. In English, it is commonly referred to as the USSR. |
+| 40 | [tādu](http://twitter.com/search?q=t%c4%81du) | Tādu is a Japanese word meaning "such" or "like that". It is used to describe something that has been mentioned previously. |
+| 41 | [iesaku](http://twitter.com/search?q=iesaku) | Iesaku is a Japanese word that means "recommendation" or "suggestion". It is often used when someone is recommending something to another person. |
+| 42 | [TikTok](http://twitter.com/search?q=TikTok) | TikTok is a social media platform where users can create and share short videos. It is especially popular among teenagers and young adults. The name "TikTok" is derived from the sound of a clock ticking, which symbolizes the app's short video format. |
+| 43 | [Kāds](http://twitter.com/search?q=K%c4%81ds) | Kāds is a Latvian word that means "what" or "which". It is used to ask questions about specific people, places, or things. |
+| 44 | [vajadzēja](http://twitter.com/search?q=vajadz%c4%93ja) | Vajadzēja is a Latvian word meaning "should" or "must". It is used to express obligation or necessity. |
+| 45 | [šoreiz](http://twitter.com/search?q=%c5%a1oreiz) | "Šoreiz" is a Latvian word meaning "this time". |
+| 46 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | Ķīnu is the Latvian word for China. It is derived from the Latin word Sinus, which means "Chinese". |
+| 47 | [viņam](http://twitter.com/search?q=vi%c5%86am) | Viņam is a pronoun in Latvian that means "him" or "to him" in English. |
+| 48 | [lietuvas](http://twitter.com/search?q=lietuvas) | Lietuvas is the Lithuanian word for Lithuania, a country in Northern Europe. |
+| 49 | [krievijā](http://twitter.com/search?q=krievij%c4%81) | Krievijā is the Latvian word for Russia. In English, it translates to "in Russia". |
+| 50 | [pirms](http://twitter.com/search?q=pirms) | Pirms is a Latvian word meaning "before" or "in front of". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-18 01:54:56 UTC`
+📆 Last Updated: `2023-04-18 02:37:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,14 +40,14 @@ This is top 50 for Denmark
 | 23 | [#fcklive](http://twitter.com/search?q=%23fcklive) | #fcklive is an acronym for "Forget Care Keep Living," which is a phrase used to encourage people to focus on the present and not worry about the past or future. It is often used as a reminder to stay positive and enjoy life. |
 | 24 | [Alpha](http://twitter.com/search?q=Alpha) | Alpha is a term used to describe the first or most dominant person or thing in a particular group or situation. It is often used to refer to the leader of a pack of animals, such as wolves. In English, it can also be used to describe someone who is assertive and confident, or someone who is in charge. |
 | 25 | [lyngby](http://twitter.com/search?q=lyngby) | Lyngby is a town in Denmark located just north of Copenhagen. It is known for its many parks, forests, and lakes, as well as its vibrant cultural life. The name Lyngby comes from the Danish words for "heather" and "village," and it can be translated to mean "heather village." |
-| 26 | [Winther](http://twitter.com/search?q=Winther) | Winther is a Danish word meaning winter. |
+| 26 | [winther](http://twitter.com/search?q=winther) | Winther is not a word in English. |
 | 27 | [SpaceX](http://twitter.com/search?q=SpaceX) | SpaceX is a private American aerospace manufacturer and space transportation services company founded in 2002 by Elon Musk. The company's mission is to develop and launch advanced rockets and spacecraft to enable people to live on other planets. The name "SpaceX" is a combination of the words "space" and "exploration". |
 | 28 | [Corner](http://twitter.com/search?q=Corner) | Corner is a noun that refers to the intersection of two walls or other surfaces, usually forming an angle of 90 degrees. It can also refer to a place or area that is out of the way, hidden, or secluded. |
 | 29 | [lauritsen](http://twitter.com/search?q=lauritsen) | Lauritsen is a Danish surname. It is derived from the given name Laurits, which is a form of the Latin name Laurentius, meaning "from Laurentum". |
 | 30 | [palæstina](http://twitter.com/search?q=pal%c3%a6stina) | Palæstina is an ancient Latin name for the region of Palestine. It is derived from the Greek word Palaistinē, which was used to refer to the region in classical antiquity. In English, it is often used interchangeably with Palestine. |
 | 31 | [kim kliver](http://twitter.com/search?q=kim+kliver) | Kim Kliver is a slang term used to describe someone who is overly obsessed with the Kardashian family. It is derived from the name of Kim Kardashian, the most famous member of the family. The term can be used to describe someone who follows the Kardashians closely and talks about them constantly. |
 | 32 | [ankersen](http://twitter.com/search?q=ankersen) | Ankersen is a Danish surname. It is derived from the given name Anker, which means "anchor" in English. |
-| 33 | [Politiet](http://twitter.com/search?q=Politiet) | Politiet is the Norwegian word for police. In English, it means "the police". |
+| 33 | [politiet](http://twitter.com/search?q=politiet) | Politiet is the Norwegian word for police. In English, it means "the police". |
 | 34 | [Valorant](http://twitter.com/search?q=Valorant) | Valorant is a tactical shooter video game developed and published by Riot Games. The game was released in June 2020 for Microsoft Windows. The name Valorant is derived from the words "valor" and "ant," which together mean courage and strength. The game focuses on a 5v5 character-based tactical shooter, where players take on the roles of agents with unique abilities to battle it out in a variety of game modes. |
 | 35 | [stakkels](http://twitter.com/search?q=stakkels) | Stakkels is a Danish word that translates to "poor" or "pitiful" in English. It is used to express sympathy or pity for someone who is in a difficult situation. |
 | 36 | [beklager](http://twitter.com/search?q=beklager) | Beklager is a Norwegian word that translates to "sorry" or "regret" in English. It is used to express regret or apology for something that has happened. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-18 01:54:49 UTC`
+📆 Last Updated: `2023-04-18 02:36:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for Belarus
 | 15 | [Вось](http://twitter.com/search?q=%d0%92%d0%be%d1%81%d1%8c) | Вось is a Russian word that means "eight". |
 | 16 | [Калі](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bb%d1%96) | Калі is a Belarusian word meaning "when". |
 | 17 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
-| 18 | [Ладно](http://twitter.com/search?q=%d0%9b%d0%b0%d0%b4%d0%bd%d0%be) | Ладно is a Russian word that means "okay" or "all right" in English. It is used to express agreement or acceptance of something. |
+| 18 | [ладно](http://twitter.com/search?q=%d0%bb%d0%b0%d0%b4%d0%bd%d0%be) | In Russian, "ладно" is an informal expression that means "okay" or "all right". It is used to express agreement or acceptance. |
 | 19 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | Кстати is a Russian phrase that translates to "by the way" in English. It is used to introduce a new topic or comment in a conversation. |
 
 
