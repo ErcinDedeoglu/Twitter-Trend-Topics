@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-18 17:20:33 UTC`
+📆 Last Updated: `2023-04-18 18:21:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [Ogres](http://twitter.com/search?q=Ogres) | Ogres are mythical creatures that are usually depicted as large, hideous, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are said to have a taste for human flesh. The word "ogre" comes from the Latin word "orcus," which means "demon." |
 | 2 | [Helmanis](http://twitter.com/search?q=Helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". In English, the meaning of Helmanis is "protector". |
 | 3 | [#HamsterNFT](http://twitter.com/search?q=%23HamsterNFT) | #HamsterNFT is a hashtag used to refer to Non-Fungible Tokens (NFTs) that feature digital art of hamsters. NFTs are digital assets that are stored on a blockchain and can be bought, sold, and traded like any other asset. They are unique and cannot be replicated or exchanged for something else. #HamsterNFT is used to promote the sale of these digital assets featuring hamsters. |
-| 4 | [#Kermit](http://twitter.com/search?q=%23Kermit) | #Kermit is a hashtag used to refer to the Muppet character Kermit the Frog. It is often used in posts related to the character, such as quotes, images, and videos. |
+| 4 | [Avena](http://twitter.com/search?q=Avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. |
 | 5 | [Daugavpilī](http://twitter.com/search?q=Daugavpil%c4%ab) | Daugavpilī is the second largest city in Latvia. It is located on the banks of the Daugava River, and its name translates to "on the Daugava" in English. |
-| 6 | [Avena](http://twitter.com/search?q=Avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. |
-| 7 | [Varam](http://twitter.com/search?q=Varam) | Varam is a Tamil word that means “blessing” or “gift”. It is often used to express gratitude for something that has been given or received. |
+| 6 | [VARAM](http://twitter.com/search?q=VARAM) | VARAM is an acronym for the Tamil Nadu State Government's Vellore-based Rural Area Development Scheme. It is a scheme that provides financial assistance to rural areas in the state of Tamil Nadu for development projects such as infrastructure, health, education, and other social welfare initiatives. The English translation of VARAM is "Rural Area Development Scheme". |
+| 7 | [siguldas](http://twitter.com/search?q=siguldas) | Siguldas is a town in Latvia, located in the northern part of the country. It is the administrative center of Sigulda Municipality. The name of the town comes from the Livonian language and means "a place where people live". |
 | 8 | [Ogri](http://twitter.com/search?q=Ogri) | Ogri is a term used in the Indian subcontinent to refer to a person who is slow-witted or foolish. In English, it can be translated as "stupid" or "foolish". |
-| 9 | [siguldas](http://twitter.com/search?q=siguldas) | Siguldas is a town in Latvia, located in the northern part of the country. It is the administrative center of Sigulda Municipality. The name of the town comes from the Livonian language and means "a place where people live". |
-| 10 | [Levitam](http://twitter.com/search?q=Levitam) | Levitam is not a word in English. It does not have a meaning in English. |
-| 11 | [Rēzeknē](http://twitter.com/search?q=R%c4%93zekn%c4%93) | Rēzeknē is a city in Latvia. It is the largest city in the Vidzeme region and the seventh largest city in Latvia. The name Rēzeknē translates to "on the river" in English, referring to its location on the Daugava River. |
-| 12 | [Ministru](http://twitter.com/search?q=Ministru) | Ministru is a term used in the Portuguese language to refer to a minister or government official. In English, it can be translated as "minister". |
+| 9 | [Levitam](http://twitter.com/search?q=Levitam) | Levitam is not a word in English. It does not have a meaning in English. |
+| 10 | [Rēzeknē](http://twitter.com/search?q=R%c4%93zekn%c4%93) | Rēzeknē is a city in Latvia. It is the largest city in the Vidzeme region and the seventh largest city in Latvia. The name Rēzeknē translates to "on the river" in English, referring to its location on the Daugava River. |
+| 11 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | #ЛигаЧемпионов is a hashtag used on social media in Russia to refer to the UEFA Champions League, which is an annual club football competition organized by the Union of European Football Associations (UEFA). In English, it translates to "Champions League". |
+| 12 | [ministru](http://twitter.com/search?q=ministru) | Ministru is a Romanian word meaning "minister" in English. It is used to refer to a government official who is responsible for the administration of a particular department or ministry. |
 | 13 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | #teirdarbs is a hashtag used on Twitter and other social media platforms to refer to a third job or side hustle. It is often used by people who are looking for extra income or to supplement their main job. The English translation of #teirdarbs is "third job". |
 | 14 | [APar](http://twitter.com/search?q=APar) | APar is an acronym for the Association of Professional Accountants and Auditors of Romania. It is a professional organization that provides support and services to accountants and auditors in Romania. |
 | 15 | [#1188lv](http://twitter.com/search?q=%231188lv) | #1188lv is a hashtag used on social media to show support for the Las Vegas Raiders, an American football team based in Las Vegas, Nevada. The hashtag is a combination of the team's name and the area code for Las Vegas. |
-| 16 | [varu](http://twitter.com/search?q=varu) | Varu is a term used in the Tamil language, which means “to come” or “to arrive”. It is often used as a greeting to welcome someone. |
+| 16 | [Jūrmalā](http://twitter.com/search?q=J%c5%abrmal%c4%81) | Jūrmalā is a city in Latvia. It is located on the Baltic Sea coast, about 25 km west of the capital city of Riga. The name Jūrmalā means "seaside" in Latvian. |
 | 17 | [Kariņu](http://twitter.com/search?q=Kari%c5%86u) | Kariņu is a traditional Latvian folk dance. It is a lively, energetic dance that is usually performed in a circle and involves clapping and singing. The name comes from the Latvian word for "circle". In English, it can be translated as "circle dance". |
 | 18 | [Valsts](http://twitter.com/search?q=Valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of Latvia, as well as the nation itself. |
-| 19 | [Jūrmalā](http://twitter.com/search?q=J%c5%abrmal%c4%81) | Jūrmalā is a city in Latvia. It is located on the Baltic Sea coast, about 25 km west of the capital city of Riga. The name Jūrmalā means "seaside" in Latvian. |
-| 20 | [Tikai](http://twitter.com/search?q=Tikai) | Tikai is a Latvian word that means "only" or "just". |
-| 21 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | Igaunijā is the Latvian word for Estonia. It literally translates to "in Estonia". |
-| 22 | [dziesmu](http://twitter.com/search?q=dziesmu) | Dziesmu is a Latvian word meaning "song". It is used to refer to traditional Latvian folk songs. |
-| 23 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | Izklausās is a Latvian phrase that translates to "sounds like" in English. It is used to express agreement or understanding of something that has been said. |
-| 24 | [Lietuvā](http://twitter.com/search?q=Lietuv%c4%81) | Lietuvā is the Latvian word for Lithuania. In English, it means "in Lithuania". |
-| 25 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | НАТО is an acronym for the North Atlantic Treaty Organization, an intergovernmental military alliance between 30 North American and European countries. Its purpose is to protect the freedom and security of its member states through political and military means. In English, it is commonly referred to as NATO. |
+| 19 | [igaunijā](http://twitter.com/search?q=igaunij%c4%81) | Igaunijā is the Latvian word for Estonia. It literally translates to "in Estonia". |
+| 20 | [dziesmu](http://twitter.com/search?q=dziesmu) | Dziesmu is a Latvian word meaning "song". It is used to refer to traditional Latvian folk songs. |
+| 21 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | "Izklausās" is a Latvian word meaning "sounds like". |
+| 22 | [Lietuvā](http://twitter.com/search?q=Lietuv%c4%81) | Lietuvā is the Latvian word for Lithuania. In English, it means "in Lithuania". |
+| 23 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | Нато is an acronym for the North Atlantic Treaty Organization (NATO). It is an intergovernmental military alliance between 30 North American and European countries. The organization's primary purpose is to ensure the collective defense of its member states. |
+| 24 | [Varu](http://twitter.com/search?q=Varu) | Varu is a term used in the Indian language of Tamil. It means "to bring" or "to carry". |
+| 25 | [Šodien](http://twitter.com/search?q=%c5%a0odien) | Šodien is a Latvian word meaning "today". |
 | 26 | [tajā](http://twitter.com/search?q=taj%c4%81) | Tajā is an Arabic word meaning “to leave” or “to abandon”. It is often used in the context of leaving something behind or giving something up. |
-| 27 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | Latviešu is the Latvian language. It is a Baltic language spoken by about 1.5 million people in Latvia and by Latvian emigrants around the world. In English, it is sometimes referred to as Lettish. |
-| 28 | [Starp](http://twitter.com/search?q=Starp) | Starp is an acronym for "Student Academic Record and Performance," which is a system used by schools to track student academic performance. It is used to measure student progress and identify areas of improvement. |
-| 29 | [šodien](http://twitter.com/search?q=%c5%a1odien) | "Šodien" is a Latvian word meaning "today". |
-| 30 | [Kamēr](http://twitter.com/search?q=Kam%c4%93r) | Kamēr is a Latvian word meaning "while" or "until". It is used to indicate a period of time in which something will happen or continue to happen. |
-| 31 | [Vajag](http://twitter.com/search?q=Vajag) | Vajag is a term used in the Indian language of Marathi, which means “to go” or “to move”. It is commonly used as an imperative verb to tell someone to go somewhere. |
-| 32 | [USSR](http://twitter.com/search?q=USSR) | USSR stands for the Union of Soviet Socialist Republics, which was a communist state that existed from 1922 to 1991. It was a single-party state governed by the Communist Party of the Soviet Union and comprised 15 constituent republics. The USSR was the largest country in the world at the time, covering over one-sixth of the Earth's land area. |
-| 33 | [tautas](http://twitter.com/search?q=tautas) | Tautas is a Latvian word meaning "people" or "nation". It is used to refer to the people of Latvia, or to any nation or group of people. |
-| 34 | [pareizi](http://twitter.com/search?q=pareizi) | Pareizi is a Latvian word meaning "correct" or "right". |
-| 35 | [Noteikti](http://twitter.com/search?q=Noteikti) | Noteikti is a Latvian word that means "to determine" or "to decide". It is used to describe the process of making a decision or reaching a conclusion. |
-| 36 | [kādu](http://twitter.com/search?q=k%c4%81du) | Kādu is a Latvian word meaning "which" or "what". It is used to ask questions about specific people or things. |
-| 37 | [PMLP](http://twitter.com/search?q=PMLP) | PMLP stands for "Project Management Leadership Program," which is a program designed to help individuals develop their project management skills and leadership abilities. |
-| 38 | [knab](http://twitter.com/search?q=knab) | Knab is a Swedish word meaning "to snatch" or "to grab". It is often used in the context of grabbing something quickly or unexpectedly. |
-| 39 | [krievijai](http://twitter.com/search?q=krievijai) | Krievijai is the Latvian word for Russia. In English, it translates to "Russian". |
-| 40 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | Skaidrs is a Latvian word meaning "slides" or "slide show". It is used to refer to a presentation or lecture that uses slides as visual aids. |
-| 41 | [Tevi](http://twitter.com/search?q=Tevi) | Tevi is a Hebrew name meaning "goodness" or "favor". It is also a variant of the name Tivon, which means "God's gift". |
-| 42 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | Viņiem is a pronoun in Latvian that means "them" or "to them" in English. |
-| 43 | [satversmes](http://twitter.com/search?q=satversmes) | Satversmes is the Constitution of Latvia. It is the fundamental law of the country, and it establishes the framework for the government and its laws. In English, it means "Constitution". |
-| 44 | [kurā](http://twitter.com/search?q=kur%c4%81) | Kurā is a Japanese word that means "cool" or "stylish". It is often used to describe someone or something that is fashionable, attractive, or impressive. |
-| 45 | [maskavas](http://twitter.com/search?q=maskavas) | Maskavas is a Latvian word meaning "from Riga," the capital city of Latvia. It is often used to refer to people or things that originate from Riga. |
-| 46 | [vācija](http://twitter.com/search?q=v%c4%81cija) | Vācija is the Latvian word for Germany. In English, it means "Germany". |
-| 47 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | Kremļa is the Russian word for Kremlin, which is a fortified complex in the center of Moscow that serves as the official residence of the President of Russia. It is also a symbol of Russian power and authority. |
-| 48 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | Plantar fasciitis is a condition that causes pain in the heel and bottom of the foot. It is caused by inflammation of the plantar fascia, a thick band of tissue that runs across the bottom of the foot and connects the heel bone to the toes. Symptoms include pain when walking or standing, especially after long periods of rest. Treatment typically involves stretching exercises, wearing supportive shoes, and taking anti-inflammatory medications. |
-| 49 | [Tavs](http://twitter.com/search?q=Tavs) | Tavs is a slang term used in the UK to refer to someone who is considered to be cool or fashionable. It is derived from the word "trendy". |
-| 50 | [Putina](http://twitter.com/search?q=Putina) | Putina is a female given name of Slavic origin. It is derived from the word "put" which means "path" or "way". In English, it can be translated to mean "one who follows the path". |
+| 27 | [Tevi](http://twitter.com/search?q=Tevi) | Tevi is a Hebrew name meaning "goodness" or "favor". It is also a variant of the name Tivon, which means "God's gift". |
+| 28 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | Latviešu is the Latvian language. It is a Baltic language spoken by about 1.5 million people in Latvia and by Latvian emigrants around the world. In English, it is sometimes referred to as Lettish. |
+| 29 | [Kamēr](http://twitter.com/search?q=Kam%c4%93r) | Kamēr is a Latvian word meaning "while" or "until". It is used to indicate a period of time in which something will happen or continue to happen. |
+| 30 | [USSR](http://twitter.com/search?q=USSR) | USSR stands for the Union of Soviet Socialist Republics, which was a communist state that existed from 1922 to 1991. It was a single-party state governed by the Communist Party of the Soviet Union and comprised 15 constituent republics. The USSR was the largest country in the world at the time, covering over one-sixth of the Earth's land area. |
+| 31 | [tautas](http://twitter.com/search?q=tautas) | Tautas is a Latvian word meaning "people" or "nation". It is used to refer to the people of Latvia, or to any nation or group of people. |
+| 32 | [pareizi](http://twitter.com/search?q=pareizi) | Pareizi is a Latvian word meaning "correct" or "right". |
+| 33 | [kādu](http://twitter.com/search?q=k%c4%81du) | Kādu is a Latvian word meaning "which" or "what". It is used to ask questions about specific people or things. |
+| 34 | [PMLP](http://twitter.com/search?q=PMLP) | PMLP stands for "Project Management Leadership Program," which is a program designed to help individuals develop their project management skills and leadership abilities. |
+| 35 | [knab](http://twitter.com/search?q=knab) | Knab is a Swedish word meaning "to snatch" or "to grab". It is often used in the context of grabbing something quickly or unexpectedly. |
+| 36 | [krievijai](http://twitter.com/search?q=krievijai) | Krievijai is the Latvian word for Russia. In English, it translates to "Russian". |
+| 37 | [Tikai](http://twitter.com/search?q=Tikai) | Tikai is a Latvian word that means "only" or "just". |
+| 38 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | Skaidrs is a Latvian word meaning "slides" or "slide show". It is used to refer to a presentation or lecture that uses slides as visual aids. |
+| 39 | [satversmes](http://twitter.com/search?q=satversmes) | Satversmes is the Constitution of Latvia. It is the fundamental law of the country, and it establishes the framework for the government and its laws. In English, it means "Constitution". |
+| 40 | [Starp](http://twitter.com/search?q=Starp) | Starp is an acronym for "Student Academic Record and Performance," which is a system used by schools to track student academic performance. It is used to measure student progress and identify areas of improvement. |
+| 41 | [kurā](http://twitter.com/search?q=kur%c4%81) | Kurā is a Japanese word that means "cool" or "stylish". It is often used to describe someone or something that is fashionable, attractive, or impressive. |
+| 42 | [Viņiem](http://twitter.com/search?q=Vi%c5%86iem) | Viņiem is a pronoun in the Latvian language that means "them" or "to them" in English. |
+| 43 | [maskavas](http://twitter.com/search?q=maskavas) | Maskavas is a Latvian word meaning "from Riga," the capital city of Latvia. It is often used to refer to people or things that originate from Riga. |
+| 44 | [vācija](http://twitter.com/search?q=v%c4%81cija) | Vācija is the Latvian word for Germany. In English, it means "Germany". |
+| 45 | [Kremļa](http://twitter.com/search?q=Krem%c4%bca) | Kremļa is the Russian word for Kremlin, which is a fortified complex in the center of Moscow that serves as the official residence of the President of Russia. It is also a symbol of Russian power and authority. |
+| 46 | [#PlantarFasciitis](http://twitter.com/search?q=%23PlantarFasciitis) | Plantar fasciitis is a condition that causes pain in the heel and bottom of the foot. It is caused by inflammation of the plantar fascia, a thick band of tissue that runs across the bottom of the foot and connects the heel bone to the toes. Symptoms include pain when walking or standing, especially after long periods of rest. Treatment typically involves stretching exercises, wearing supportive shoes, and taking anti-inflammatory medications. |
+| 47 | [Tavs](http://twitter.com/search?q=Tavs) | Tavs is a slang term used in the UK to refer to someone who is considered to be cool or fashionable. It is derived from the word "trendy". |
+| 48 | [Putina](http://twitter.com/search?q=Putina) | Putina is a female given name of Slavic origin. It is derived from the word "put" which means "path" or "way". In English, it can be translated to mean "one who follows the path". |
+| 49 | [Rimi](http://twitter.com/search?q=Rimi) | Rimi is a Japanese word that means "beauty". It is often used to describe someone or something that is aesthetically pleasing. |
+| 50 | [Galvenais](http://twitter.com/search?q=Galvenais) | Galvenais is a Latvian word meaning "main" or "primary". It is often used to refer to the most important thing in a situation. |
 
 
 
