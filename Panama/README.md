@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-04-19 08:26:35 UTC`
+📆 Last Updated: `2023-04-19 09:26:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,7 +45,7 @@ This is top 50 for Panama
 | 28 | [La Policía Nacional](http://twitter.com/search?q=La+Polic%c3%ada+Nacional) | La Policía Nacional is the national police force of Spain. It is responsible for maintaining public order and security throughout the country. In English, it translates to "The National Police". |
 | 29 | [Forbes](http://twitter.com/search?q=Forbes) | Forbes is an American business magazine that focuses on finance, industry, investing, and marketing topics. It is best known for its lists and rankings, including its lists of the richest Americans (the Forbes 400) and rankings of world's top companies (the Forbes Global 2000). The name Forbes comes from its founder, B.C. Forbes, who launched the magazine in 1917. |
 | 30 | [Florentino](http://twitter.com/search?q=Florentino) | Florentino is a Spanish name derived from the Latin name Florentinus, which means "blooming" or "flowering". It is also a surname and can refer to a person who comes from the city of Florence in Italy. |
-| 31 | [Universidad de Panamá](http://twitter.com/search?q=Universidad+de+Panam%c3%a1) | Universidad de Panamá is the national university of Panama. It is a public university founded in 1935 and located in Panama City. In English, it translates to University of Panama. |
+| 31 | [universidad de panamá](http://twitter.com/search?q=universidad+de+panam%c3%a1) | Universidad de Panamá is the national university of Panama. It is a public university founded in 1935 and located in Panama City. The university offers undergraduate and graduate degrees in a variety of disciplines, including engineering, medicine, law, business, and the humanities. In English, it translates to "University of Panama". |
 | 32 | [pedro masoliver](http://twitter.com/search?q=pedro+masoliver) | Pedro Masoliver is a Spanish surname. It is derived from the given name Pedro and the surname Masoliver, which is derived from the Catalan words mas (meaning "more") and oliver (meaning "olive tree"). The name can be translated to mean "more olive trees". |
 | 33 | [monagrillo](http://twitter.com/search?q=monagrillo) | Monagrillo is a type of traditional Mexican folk dance. It is a lively, festive dance that involves couples dancing in a circle, with the man leading and the woman following. The dance is usually accompanied by mariachi music and involves intricate footwork and hand movements. In English, the term translates to "little circle". |
 | 34 | [Colón](http://twitter.com/search?q=Col%c3%b3n) | Colón is the currency of Panama. In English, it is referred to as the Balboa, and its symbol is B/. It is divided into 100 centésimos. |
