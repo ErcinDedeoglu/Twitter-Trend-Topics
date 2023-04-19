@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nizhny Novgorod
 
-📆 Last Updated: `2023-04-19 02:37:51 UTC`
+📆 Last Updated: `2023-04-19 03:24:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [howw](http://twitter.com/search?q=howw) | "Howw" is not a word in English. It could be a typo of the word "how," which is used to ask a question. |
 | 2 | [Rally](http://twitter.com/search?q=Rally) | Rally is an organized event or gathering of people for a common purpose, usually to express support or solidarity. It can also refer to a competitive event in which participants compete against each other in various activities. In English, the term rally is used to describe both the event and the activity. |
 | 3 | [Realy](http://twitter.com/search?q=Realy) | Really is an adverb that is used to emphasize a statement or feeling. It can be used to express surprise, disbelief, or agreement. For example, "That's really amazing!" or "I really don't understand." |
-| 4 | [#bnbb](http://twitter.com/search?q=%23bnbb) | #bnbb is an acronym for "Buy Nothing, Be Everything," which is a lifestyle movement that encourages people to live more simply and sustainably by reducing their consumption of material goods. The idea is to focus on experiences and relationships rather than possessions. |
+| 4 | [#BNBB](http://twitter.com/search?q=%23BNBB) | #BNBB is an acronym for "Buy Nothing, Break Nothing". It is a slogan used to encourage people to be mindful of their consumption and to avoid buying or breaking things unnecessarily. |
 | 5 | [VERYY](http://twitter.com/search?q=VERYY) | VERYY is not a word in English. |
 | 6 | [THEE](http://twitter.com/search?q=THEE) | THEE is an archaic form of the pronoun “you”, used mainly in poetry and literature. It is also sometimes used as a term of respect or endearment. |
 | 7 | [theyy](http://twitter.com/search?q=theyy) | "Theyy" is not a word in English. It is likely a typo of the pronoun "they," which is used to refer to multiple people or things. |
@@ -35,7 +35,7 @@ This is top 50 for [Russia](</Russia>)
 | 18 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | Арсения is a female Russian given name derived from the Greek word "Arsenios", meaning "male, virile". In English, it can be translated to mean "strong and courageous". |
 | 19 | [#дизайн](http://twitter.com/search?q=%23%d0%b4%d0%b8%d0%b7%d0%b0%d0%b9%d0%bd) | #Дизайн is a Russian hashtag that translates to "design" in English. It is used to tag posts related to design, such as graphic design, interior design, fashion design, and more. |
 | 20 | [#iPhone](http://twitter.com/search?q=%23iPhone) | #iPhone is a hashtag used on social media platforms such as Twitter and Instagram to refer to Apple's iPhone product line. It is used to tag posts related to the iPhone, such as reviews, news, and updates. |
-| 21 | [#Web3](http://twitter.com/search?q=%23Web3) | Web3 is a term used to refer to the third generation of web technology, which is focused on decentralization, open source software, and the use of blockchain technology. It is also known as the Semantic Web or Web 3.0. Web3 seeks to create a more secure and efficient online experience by allowing users to interact directly with each other without relying on centralized services. This could potentially revolutionize how we use the internet and create new opportunities for businesses and individuals alike. |
+| 21 | [#Saturntops4](http://twitter.com/search?q=%23Saturntops4) | #Saturntops4 is a hashtag used by fans of the Japanese pop group, SATURN, to show their support for the group. It is a play on words, combining the name of the group with the phrase "top four," meaning that they are one of the top four groups in Japan. |
 | 22 | [кара-мурзе](http://twitter.com/search?q=%d0%ba%d0%b0%d1%80%d0%b0-%d0%bc%d1%83%d1%80%d0%b7%d0%b5) | Кара-мурзе is a traditional dance from the Caucasus region of Russia. It is a fast-paced, energetic dance that involves clapping and stomping of feet. The name translates to "black mule" in English, referring to the swiftness and agility of the dance. |
 | 23 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | Крым (Krym) is the Russian name for the Crimean Peninsula, a region located on the northern coast of the Black Sea in Eastern Europe. It is an autonomous republic within Ukraine, but has been annexed by Russia since 2014. The English translation of Крым is Crimea. |
 | 24 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | Буквально is a Russian word that translates to "literally" in English. It is used to emphasize that something is being said exactly as it was written or spoken. |
@@ -47,17 +47,17 @@ This is top 50 for [Russia](</Russia>)
 | 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 31 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | Ждём is a Russian verb meaning "to wait". In English, it would be translated as "we are waiting". |
 | 32 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | Согласен is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer, proposal, or agreement. |
-| 33 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | Реально is a Russian word that means "really" or "in reality". It is used to express agreement or to emphasize the truth of a statement. |
+| 33 | [реально](http://twitter.com/search?q=%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | In English, "реально" is an adverb that means "really" or "actually". It is used to emphasize the truth or reality of a situation. |
 | 34 | [пасху](http://twitter.com/search?q=%d0%bf%d0%b0%d1%81%d1%85%d1%83) | Пасху (Paskha) is a traditional Russian Easter dish made of cheese, eggs, butter, and other ingredients. It is usually served as a dessert or side dish. In English, it is sometimes referred to as "Easter cheese". |
 | 35 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | ChatGPT is an acronym for Chat-based Generative Pre-trained Transformer. It is a natural language processing (NLP) model that uses deep learning to generate human-like responses to text input. It is designed to be used in chatbot applications, allowing the bot to generate more natural and human-like responses. |
 | 36 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | Зеленский is the surname of the current President of Ukraine, Volodymyr Zelensky. In English, it means "of Zelensky". |
-| 37 | [помню](http://twitter.com/search?q=%d0%bf%d0%be%d0%bc%d0%bd%d1%8e) | Помню is a Russian verb meaning "to remember" or "I remember" in English. |
+| 37 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | Помню is a Russian verb meaning "to remember" or "I remember" in English. |
 | 38 | [КОШМАР](http://twitter.com/search?q=%d0%9a%d0%9e%d0%a8%d0%9c%d0%90%d0%a0) | КОШМАР is a Russian word meaning "nightmare". |
 | 39 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
 | 40 | [питера](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | Питера is the Russian nickname for the city of Saint Petersburg, Russia. In English, it is often referred to as "Petersburg". |
 | 41 | [Вчера](http://twitter.com/search?q=%d0%92%d1%87%d0%b5%d1%80%d0%b0) | Вчера is a Russian word meaning "yesterday". |
-| 42 | [судане](http://twitter.com/search?q=%d1%81%d1%83%d0%b4%d0%b0%d0%bd%d0%b5) | "Судане" is a Russian word that means "farewell". |
-| 43 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | Отлично (otlichno) is a Russian word meaning "excellent" or "great". It is often used as an expression of approval or satisfaction. |
+| 42 | [Судане](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d0%b0%d0%bd%d0%b5) | Судане is a traditional Russian folk dance. It is a lively, energetic dance that involves spinning and leaping. In English, it is sometimes referred to as the "Sudanese Dance". |
+| 43 | [отлично](http://twitter.com/search?q=%d0%be%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | "Отлично" is a Russian word meaning "excellent" or "great". It is used to express approval or admiration. |
 | 44 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | Навального is a Russian surname. It is derived from the given name Навальный, which means "belonging to Navol". |
 | 45 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | Выглядит is a Russian verb meaning "to look" or "to appear". In English, it would be translated as "looks". |
 | 46 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |

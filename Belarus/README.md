@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-19 02:39:47 UTC`
+📆 Last Updated: `2023-04-19 03:26:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [тибо-2023](http://twitter.com/search?q=%d1%82%d0%b8%d0%b1%d0%be-2023) | тибо-2023 is a Russian government program that seeks to improve the quality of life in Russia by 2023. The program focuses on improving healthcare, education, housing, and other social services. In English, it can be translated as "Tibo-2023". |
-| 2 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | "Люблю" is a Russian verb meaning "to love". In English, it would be translated as "I love". |
+| 2 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
 | 3 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | Bitcoin is a digital currency, also known as a cryptocurrency, that was created in 2009 by an anonymous individual or group of individuals. Bitcoin is decentralized, meaning it is not controlled by any government or central bank. Instead, it relies on a peer-to-peer network of computers to process transactions and manage the supply of the currency. Bitcoin can be used to purchase goods and services online, and it can also be exchanged for other currencies. |
 | 4 | [в минске](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | "В Минске" is a Russian phrase meaning "in Minsk". Minsk is the capital of Belarus. |
 | 5 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | #Беларусь is a hashtag used on social media to refer to Belarus, a country in Eastern Europe. In English, it translates to "Belarus". |
-| 6 | [#Cosmos](http://twitter.com/search?q=%23Cosmos) | Cosmos is a Greek word meaning “order” or “universe.” It is often used to refer to the universe as a whole, or to the physical laws that govern it. In philosophy, it is used to refer to the orderly and harmonious structure of the universe. |
+| 6 | [#cosmos](http://twitter.com/search?q=%23cosmos) | #Cosmos is a hashtag used on social media to refer to the universe, outer space, and the study of astronomy. It is often used to share images and videos related to these topics. |
 | 7 | [#blockchain](http://twitter.com/search?q=%23blockchain) | Blockchain is a type of distributed ledger technology (DLT) that records and stores data in a secure, decentralized, and immutable manner. It is a digital ledger of transactions that is shared among multiple computers in a peer-to-peer network. Blockchain technology enables the secure transfer of digital assets without the need for a third-party intermediary. It is used to create and store digital records of transactions, such as cryptocurrency transactions, contracts, and other types of data. |
 | 8 | [#DeFi](http://twitter.com/search?q=%23DeFi) | #DeFi stands for Decentralized Finance and is a term used to describe financial services built on top of blockchain technology. It is a form of open-source, peer-to-peer financial services that are not controlled by any central authority. These services include lending, borrowing, trading, and other financial activities that are powered by smart contracts and decentralized applications (dApps). |
 | 9 | [минска](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | "Минска" is the name of the capital city of Belarus. In English, it is known as Minsk. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-19 02:39:55 UTC`
+📆 Last Updated: `2023-04-19 03:26:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,8 +35,8 @@ This is top 50 for Denmark
 | 18 | [nordsjælland](http://twitter.com/search?q=nordsj%c3%a6lland) | Nordsjælland is a region in Denmark located north of Copenhagen. It is the northernmost part of the Sjælland island and includes the municipalities of Frederikssund, Gribskov, Halsnæs, Helsingør, Hillerød, Hørsholm and Rudersdal. In English, Nordsjælland translates to "North Zealand". |
 | 19 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 20 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 21 | [Champions League](http://twitter.com/search?q=Champions+League) | The UEFA Champions League is an annual club football competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs. It is one of the most prestigious tournaments in the world and the most prestigious club competition in European football, played by the national league champions (and, for some nations, one or more runners-up) of the strongest UEFA national associations. The final of the tournament is typically held at a neutral venue that meets UEFA Champions League standards. |
-| 22 | [$PEPE](http://twitter.com/search?q=%24PEPE) | PEPE is an internet meme that originated from a comic by artist Matt Furie in 2005. It is typically used as an expression of joy, triumph, surprise, or sarcasm. |
+| 21 | [$PEPE](http://twitter.com/search?q=%24PEPE) | PEPE is an internet meme that originated from a comic by artist Matt Furie in 2005. It is typically used as an expression of joy, triumph, surprise, or sarcasm. |
+| 22 | [Champions League](http://twitter.com/search?q=Champions+League) | The UEFA Champions League is an annual club football competition organised by the Union of European Football Associations (UEFA) and contested by top-division European clubs. It is one of the most prestigious tournaments in the world and the most prestigious club competition in European football, played by the national league champions (and, for some nations, one or more runners-up) of the strongest UEFA national associations. The final of the tournament is typically held at a neutral venue that meets UEFA Champions League standards. |
 | 23 | [Alpha](http://twitter.com/search?q=Alpha) | Alpha is a term used to describe the first or most dominant person or thing in a particular group or situation. It is often used to refer to the leader of a pack of animals, such as wolves. In English, it can also be used to describe someone who is assertive and confident, or someone who is in charge. |
 | 24 | [sofie carsten nielsen](http://twitter.com/search?q=sofie+carsten+nielsen) | Sofie Carsten Nielsen is a Danish name. It is composed of two given names, Sofie and Carsten, and a surname, Nielsen. The name translates to "Sophie, son of Carsten, Nielsen" in English. |
 | 25 | [Leeds](http://twitter.com/search?q=Leeds) | Leeds is a city in West Yorkshire, England. It is the largest city in the county and the third-largest city in the United Kingdom. Leeds is known for its rich culture, vibrant nightlife, and diverse population. The name Leeds is derived from the Old English word "Loidis", which means "people of the fast-flowing river". |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-19 02:40:16 UTC`
+📆 Last Updated: `2023-04-19 03:26:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for Norway
 | 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 15 | [Jota](http://twitter.com/search?q=Jota) | Jota is a traditional Spanish dance and music style that originated in the 18th century. It is a lively, upbeat dance with quick footwork and intricate hand movements. The name Jota comes from the Spanish word jota, which means "jump" or "dance." In English, it can be translated as "the dance of joy." |
 | 16 | [#YNWA](http://twitter.com/search?q=%23YNWA) | #YNWA stands for "You'll Never Walk Alone" and is a popular slogan used by fans of the English football club Liverpool FC. It is a reference to the song of the same name, which is often sung by Liverpool supporters before matches. The phrase is meant to signify solidarity and unity among fans. |
-| 17 | [Stavrum](http://twitter.com/search?q=Stavrum) | Stavrum is a Norwegian surname. It is derived from the Old Norse word stafr, meaning "staff" or "pole". In English, the name could be translated as "pole bearer". |
+| 17 | [stavrum](http://twitter.com/search?q=stavrum) | Stavrum is a Norwegian word that means "stairs" in English. |
 | 18 | [Støre](http://twitter.com/search?q=St%c3%b8re) | Støre is a Norwegian surname. It is derived from the Old Norse word stórr, meaning "big" or "great". In English, the name would be translated as "Greater". |
 | 19 | [Peggy](http://twitter.com/search?q=Peggy) | Peggy is a nickname for Margaret, which is a female given name of Greek origin meaning "pearl". |
 | 20 | [Jones](http://twitter.com/search?q=Jones) | Jones is a common English surname. It is derived from the given name John, which in turn is derived from the Hebrew name Yochanan, meaning "Yahweh is gracious". |

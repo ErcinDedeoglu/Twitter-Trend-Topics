@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-19 02:34:41 UTC`
+📆 Last Updated: `2023-04-19 03:21:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 2 | [#GORGRU](http://twitter.com/search?q=%23GORGRU) | #GORGRU is an acronym for Get Out and Go Run, Ride, or Unicycle. It is a popular hashtag used by athletes and fitness enthusiasts to encourage others to get out and be active. |
+| 2 | [#gorgru](http://twitter.com/search?q=%23gorgru) | #Gorgru is a hashtag used on social media to refer to someone or something that is beautiful, attractive, or stylish. It is derived from the Spanish phrase "gorgeous" and can be used to describe people, places, or things. |
 | 3 | [Marciniak](http://twitter.com/search?q=Marciniak) | Marciniak is a Polish surname derived from the given name Marcin, which is the Polish form of the name Martin. The English meaning of the surname is "son of Marcin". |
 | 4 | [#NAPMIL](http://twitter.com/search?q=%23NAPMIL) | #NAPMIL stands for "Not A Part Of My Identity Language". It is a hashtag used to express solidarity with people who do not identify with the language they are expected to use. It is often used by people who feel that their language or culture has been erased or ignored. |
 | 5 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
@@ -26,11 +26,11 @@ This is top 50 for [Poland](</Poland>)
 | 9 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 | 10 | [neapolu](http://twitter.com/search?q=neapolu) | Neapolu is a city in southern Italy, located on the Gulf of Naples. It is the capital of the Campania region and the Province of Naples. The name Neapolu comes from the Greek words nea (new) and polis (city). In English, it means "new city". |
 | 11 | [Franco](http://twitter.com/search?q=Franco) | Franco is a name of Italian origin meaning "free one". It is also used as a surname. |
-| 12 | [kaleta](http://twitter.com/search?q=kaleta) | Kaleta is a traditional dance from the Caribbean island of Haiti. It is a fast-paced, energetic dance that involves a lot of hip and arm movements. The name comes from the French word "calette", which means "to jump". In English, kaleta can be translated as "jump dance". |
-| 13 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 14 | [Lozano](http://twitter.com/search?q=Lozano) | Lozano is a Spanish surname derived from the Latin word "locus" meaning "place". It is also a given name, typically used for males. In English, it can be translated to mean "from the place". |
-| 15 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 12 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 13 | [Lozano](http://twitter.com/search?q=Lozano) | Lozano is a Spanish surname derived from the Latin word "locus" meaning "place". It is also a given name, typically used for males. In English, it can be translated to mean "from the place". |
+| 14 | [Kaleta](http://twitter.com/search?q=Kaleta) | Kaleta is a traditional dance from the Ivory Coast. It is a lively, energetic dance that involves clapping, stomping, and singing. The meaning of Kaleta in English is "dance of joy". |
+| 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 16 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 17 | [liga mistrzów](http://twitter.com/search?q=liga+mistrz%c3%b3w) | Liga Mistrzów (Champions League) is an annual club football competition organized by UEFA and contested by top-division European clubs. It is one of the most prestigious tournaments in the world and the most prestigious club competition in European football, played by the national league champion clubs of UEFA member associations. The final of the tournament is one of the most watched annual sporting events in the world. The English translation of Liga Mistrzów is Champions League. |
 | 18 | [parlament europejski](http://twitter.com/search?q=parlament+europejski) | Parlament Europejski (European Parliament) is the directly elected parliamentary institution of the European Union (EU). It exercises the legislative function of the EU and has been directly elected every five years by EU citizens since 1979. The Parliament is composed of 705 members, who represent the second-largest democratic electorate in the world (after India) and the largest trans-national democratic electorate in the world. Its members are known as MEPs (Members of European Parliament). |
 | 19 | [Kante](http://twitter.com/search?q=Kante) | Kante is a Japanese word that means "corner" or "edge". It is often used to refer to the corner of a room or the edge of a table. |
@@ -38,7 +38,7 @@ This is top 50 for [Poland](</Poland>)
 | 21 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
 | 22 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
 | 23 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
-| 24 | [Tomasz Hajto](http://twitter.com/search?q=Tomasz+Hajto) | Tomasz Hajto is a Polish former professional footballer and current football manager. His name translates to Thomas Hawk in English. |
+| 24 | [tomasz hajto](http://twitter.com/search?q=tomasz+hajto) | Tomasz Hajto is a Polish former professional footballer and current manager. He is best known for his time with the Polish national team, where he was a defender and captain. The name "Tomasz Hajto" translates to "Thomas Hunter" in English. |
 | 25 | [varze](http://twitter.com/search?q=varze) | Varze is a type of traditional Portuguese sweet bread. It is made with flour, sugar, eggs, butter, and milk. The dough is then shaped into a round loaf and baked until golden brown. In English, the word "varze" translates to "sweet bread". |
 | 26 | [mierzei wiślanej](http://twitter.com/search?q=mierzei+wi%c5%9blanej) | Mierzei Wiślanej is a sandbar located in the Baltic Sea, off the coast of Poland. It is a popular tourist destination, known for its beautiful beaches and stunning views. In English, it translates to "Vistula Spit". |
 | 27 | [Iker](http://twitter.com/search?q=Iker) | Iker is a Spanish name derived from the Basque name Eguzki, which means "sun". It is also a variant of the name Ezekiel, which means "God strengthens". |
@@ -61,7 +61,7 @@ This is top 50 for [Poland](</Poland>)
 | 44 | [wojciechowski](http://twitter.com/search?q=wojciechowski) | Wojciechowski is a Polish surname derived from the given name Wojciech, which is the Polish form of the name Adalbert. The English translation of Wojciechowski is "son of Adalbert". |
 | 45 | [Politano](http://twitter.com/search?q=Politano) | Politano is an Italian surname derived from the Latin word politanus, meaning "citizen of a free city". It is also used as a given name in some parts of Italy. In English, it can be translated to mean "citizen of a free city". |
 | 46 | [Realu](http://twitter.com/search?q=Realu) | Realu is a Spanish word that means "really" or "truly". It is used to emphasize the truthfulness of a statement or to express strong agreement with something. |
-| 47 | [Horała](http://twitter.com/search?q=Hora%c5%82a) | Horała is a traditional Polish folk dance. It is a lively, fast-paced dance in which couples form a circle and dance around each other in a counterclockwise direction. The dancers usually hold hands and move their feet in a hopping motion. The name of the dance comes from the word "hora," which means "circle" in Polish. In English, Horała translates to "circle dance." |
+| 47 | [horała](http://twitter.com/search?q=hora%c5%82a) | Horała is a traditional Polish folk dance. It is a lively, circular dance in which couples hold hands and move in a counter-clockwise direction. The dance is usually accompanied by singing and clapping. In English, the word translates to "circle dance". |
 
 
 

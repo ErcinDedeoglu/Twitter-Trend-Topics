@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-19 02:35:28 UTC`
+📆 Last Updated: `2023-04-19 03:22:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Norway](</Norway>)
 | 4 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | #nrkdebatt is a hashtag used on Twitter to discuss topics related to Norwegian public broadcaster NRK. In English, it translates to "NRK Debate". |
 | 5 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
 | 6 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 7 | [#Streik](http://twitter.com/search?q=%23Streik) | #Streik is a German word meaning "strike" or "protest". It is used to refer to a labor strike, protest, or other form of collective action taken by workers in order to express their dissatisfaction with their working conditions or wages. |
+| 7 | [#streik](http://twitter.com/search?q=%23streik) | #Streik is a German word meaning "strike" or "protest". It is used to refer to a collective action taken by workers in order to express their dissatisfaction with their working conditions or wages. It can also be used to refer to a general strike, where all workers in a particular industry or region go on strike at the same time. |
 | 8 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
 | 9 | [Mimir](http://twitter.com/search?q=Mimir) | Mimir is an Old Norse figure from Norse mythology. He is a wise being who guards the Well of Wisdom, which contains all the knowledge of the world. In English, Mimir can be translated to mean "the one who remembers". |
 | 10 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
@@ -31,7 +31,7 @@ This is top 50 for [Norway](</Norway>)
 | 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 15 | [Jota](http://twitter.com/search?q=Jota) | Jota is a traditional Spanish dance and music style that originated in the 18th century. It is a lively, upbeat dance with quick footwork and intricate hand movements. The name Jota comes from the Spanish word jota, which means "jump" or "dance." In English, it can be translated as "the dance of joy." |
 | 16 | [#YNWA](http://twitter.com/search?q=%23YNWA) | #YNWA stands for "You'll Never Walk Alone" and is a popular slogan used by fans of the English football club Liverpool FC. It is a reference to the song of the same name, which is often sung by Liverpool supporters before matches. The phrase is meant to signify solidarity and unity among fans. |
-| 17 | [Stavrum](http://twitter.com/search?q=Stavrum) | Stavrum is a Norwegian surname. It is derived from the Old Norse word stafr, meaning "staff" or "pole". In English, the name could be translated as "pole bearer". |
+| 17 | [stavrum](http://twitter.com/search?q=stavrum) | Stavrum is a Norwegian word that means "stairs" in English. |
 | 18 | [Støre](http://twitter.com/search?q=St%c3%b8re) | Støre is a Norwegian surname. It is derived from the Old Norse word stórr, meaning "big" or "great". In English, the name would be translated as "Greater". |
 | 19 | [Peggy](http://twitter.com/search?q=Peggy) | Peggy is a nickname for Margaret, which is a female given name of Greek origin meaning "pearl". |
 | 20 | [Jones](http://twitter.com/search?q=Jones) | Jones is a common English surname. It is derived from the given name John, which in turn is derived from the Hebrew name Yochanan, meaning "Yahweh is gracious". |

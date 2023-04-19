@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-19 02:35:28 UTC`
+📆 Last Updated: `2023-04-19 03:22:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Latvia](</Latvia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ogres](http://twitter.com/search?q=Ogres) | Ogres are mythical creatures that are usually depicted as large, hideous, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are said to have a taste for human flesh. The word "ogre" comes from the Latin word "orcus," which means "demon." |
-| 2 | [helmanis](http://twitter.com/search?q=helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". The meaning of the name in English is "protector". |
+| 1 | [helmanis](http://twitter.com/search?q=helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". The meaning of the name in English is "protector". |
+| 2 | [Ogres](http://twitter.com/search?q=Ogres) | Ogres are mythical creatures that are usually depicted as large, hideous, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are said to have a taste for human flesh. The word "ogre" comes from the Latin word "orcus," which means "demon." |
 | 3 | [varam](http://twitter.com/search?q=varam) | Varam is a Tamil word that means "gift" or "blessing". It is often used to refer to a special gift given to someone as a sign of appreciation or love. |
 | 4 | [Avena](http://twitter.com/search?q=Avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. |
 | 5 | [ogri](http://twitter.com/search?q=ogri) | Ogri is a term used in the Irish language to describe a person who is slow-witted or foolish. In English, it can be translated as "stupid" or "dim-witted". |
@@ -31,8 +31,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 14 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | Lietuvā is the Latvian word for Lithuania. It is the name of the country located in Northern Europe, bordered by Latvia, Belarus, Poland, and Russia. In English, it translates to Lithuania. |
 | 15 | [Stambulas](http://twitter.com/search?q=Stambulas) | Stambulas is a term used in the Spanish language to refer to a person who is clumsy or awkward. In English, it can be translated as "clumsy" or "awkward". |
 | 16 | [dziesmu](http://twitter.com/search?q=dziesmu) | Dziesmu is a Latvian word meaning "song". It is used to refer to traditional Latvian folk songs. |
-| 17 | [#PaToLaiku](http://twitter.com/search?q=%23PaToLaiku) | #PaToLaiku is a hashtag used on Twitter to promote the use of the Lao language. It stands for "Promote Lao Language" and encourages people to use Lao in their tweets. |
-| 18 | [VARu](http://twitter.com/search?q=VARu) | VARu is an acronym for Value Added Reseller (VAR). It is a term used to describe a company that resells products or services from another company, often adding value to the product or service through customization, integration, or other services. |
+| 17 | [#patolaiku](http://twitter.com/search?q=%23patolaiku) | #Patolaiku is a type of Finnish poetry that consists of five lines, each with seven syllables. The first line is repeated as the fifth line, and the second and fourth lines rhyme. The meaning of this type of poetry is to express a thought or feeling in a concise way. |
+| 18 | [varu](http://twitter.com/search?q=varu) | Varu is a term used in the Tamil language, which means “to come” or “to arrive”. It is often used as a greeting to welcome someone. |
 | 19 | [tajā](http://twitter.com/search?q=taj%c4%81) | Tajā is an Arabic word meaning “to leave” or “to abandon”. It is often used in the context of leaving something behind or giving something up. |
 | 20 | [siguldas](http://twitter.com/search?q=siguldas) | Siguldas is a town in Latvia, located in the northern part of the country. It is the administrative center of Sigulda Municipality. The name of the town comes from the Livonian language and means "a place where people live". |
 | 21 | [Apsveicu](http://twitter.com/search?q=Apsveicu) | Apsveicu is a Latvian phrase that translates to "Congratulations" in English. |
@@ -45,7 +45,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 28 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | "Izklausās" is a Latvian word meaning "sounds like". |
 | 29 | [skaidrs](http://twitter.com/search?q=skaidrs) | Skaidrs is a Latvian word meaning "clear" or "obvious." It is used to describe something that is easily understood or seen. |
 | 30 | [pmlp](http://twitter.com/search?q=pmlp) | PMLP stands for "Project Management Leadership Program," which is a professional development program designed to help project managers develop their leadership skills. The program focuses on topics such as communication, problem solving, decision making, and team building. |
-| 31 | [Krievijai](http://twitter.com/search?q=Krievijai) | Krievijai is the Latvian word for Russia. In English, it translates to "Russians". |
+| 31 | [krievijai](http://twitter.com/search?q=krievijai) | Krievijai is the Latvian word for Russia. In English, it translates to "Russian". |
 | 32 | [viņiem](http://twitter.com/search?q=vi%c5%86iem) | Viņiem is a pronoun in Latvian that means "them" or "to them" in English. |
 | 33 | [maskavas](http://twitter.com/search?q=maskavas) | Maskavas is a Latvian word meaning "from Riga," the capital city of Latvia. It is often used to refer to people or things that originate from Riga. |
 | 34 | [#SEOKMATTHEW](http://twitter.com/search?q=%23SEOKMATTHEW) | #SEOKMATTHEW is a hashtag used to promote the work of Matthew Woodward, an SEO expert and digital marketing consultant. It is used to draw attention to his blog posts, tutorials, and other content related to search engine optimization (SEO). |
