@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-19 01:55:40 UTC`
+📆 Last Updated: `2023-04-19 02:39:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Denmark
 | 8 | [Fox News](http://twitter.com/search?q=Fox+News) | Fox News is an American news channel owned by Fox Corporation. It is known for its conservative-leaning political coverage and its slogan "Fair & Balanced". Fox News provides 24-hour news coverage and analysis of current events, as well as opinion and commentary from a variety of commentators. |
 | 9 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 10 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 11 | [Sandie](http://twitter.com/search?q=Sandie) | Sandie is a nickname for the name Sandra, which is of Latin origin and means "defender of mankind". |
+| 11 | [sandie](http://twitter.com/search?q=sandie) | Sandie is a slang term for sandwich. It is often used in informal contexts. |
 | 12 | [#anklager](http://twitter.com/search?q=%23anklager) | #Anklager is a Danish word meaning "accuser" or "prosecutor". It is used to refer to someone who brings a criminal charge against another person. |
 | 13 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |

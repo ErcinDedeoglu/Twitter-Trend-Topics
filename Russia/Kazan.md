@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kazan
 
-📆 Last Updated: `2023-04-19 01:53:11 UTC`
+📆 Last Updated: `2023-04-19 02:37:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Russia](</Russia>)
 | 1 | [howw](http://twitter.com/search?q=howw) | "Howw" is not a word in English. It could be a typo of the word "how," which is used to ask a question. |
 | 2 | [Rally](http://twitter.com/search?q=Rally) | Rally is an organized event or gathering of people for a common purpose, usually to express support or solidarity. It can also refer to a competitive event in which participants compete against each other in various activities. In English, the term rally is used to describe both the event and the activity. |
 | 3 | [Realy](http://twitter.com/search?q=Realy) | Really is an adverb that is used to emphasize a statement or feeling. It can be used to express surprise, disbelief, or agreement. For example, "That's really amazing!" or "I really don't understand." |
-| 4 | [#bnbb](http://twitter.com/search?q=%23bnbb) | #bnbb is an acronym for "Buy Nothing, Be Everything," which is a lifestyle movement that encourages people to live more simply and sustainably by reducing their consumption of material goods. The idea is to focus on experiences and relationships rather than possessions. |
+| 4 | [#BNBB](http://twitter.com/search?q=%23BNBB) | #BNBB is an acronym for "Buy Nothing, Break Nothing". It is a slogan used to encourage people to be mindful of their consumption and to avoid buying or breaking things unnecessarily. |
 | 5 | [VERYY](http://twitter.com/search?q=VERYY) | VERYY is not a word in English. |
 | 6 | [THEE](http://twitter.com/search?q=THEE) | THEE is an archaic form of the pronoun “you”, used mainly in poetry and literature. It is also sometimes used as a term of respect or endearment. |
 | 7 | [theyy](http://twitter.com/search?q=theyy) | "Theyy" is not a word in English. It is likely a typo of the pronoun "they," which is used to refer to multiple people or things. |
@@ -39,7 +39,7 @@ This is top 50 for [Russia](</Russia>)
 | 22 | [кара-мурзе](http://twitter.com/search?q=%d0%ba%d0%b0%d1%80%d0%b0-%d0%bc%d1%83%d1%80%d0%b7%d0%b5) | Кара-мурзе is a traditional dance from the Caucasus region of Russia. It is a fast-paced, energetic dance that involves clapping and stomping of feet. The name translates to "black mule" in English, referring to the swiftness and agility of the dance. |
 | 23 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | Крым (Krym) is the Russian name for the Crimean Peninsula, a region located on the northern coast of the Black Sea in Eastern Europe. It is an autonomous republic within Ukraine, but has been annexed by Russia since 2014. The English translation of Крым is Crimea. |
 | 24 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | Буквально is a Russian word that translates to "literally" in English. It is used to emphasize that something is being said exactly as it was written or spoken. |
-| 25 | [круто](http://twitter.com/search?q=%d0%ba%d1%80%d1%83%d1%82%d0%be) | Круто (pronounced kroot-oh) is a Russian slang word that means "cool" or "awesome". It is often used to express approval or admiration for something. |
+| 25 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | Круто is a Russian slang word that means "cool" or "awesome". It is often used to express approval or admiration. |
 | 26 | [понятно](http://twitter.com/search?q=%d0%bf%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | Понятно is a Russian word that means "understood" or "clear" in English. It is used to indicate that someone has understood something or that something is clear. |
 | 27 | [причем](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | Причем is a Russian word that means "besides" or "in addition". It is used to indicate that something else is relevant to the conversation. |
 | 28 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
@@ -48,19 +48,19 @@ This is top 50 for [Russia](</Russia>)
 | 31 | [ждём](http://twitter.com/search?q=%d0%b6%d0%b4%d1%91%d0%bc) | Ждём is a Russian verb meaning "to wait". In English, it would be translated as "we are waiting". |
 | 32 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | Согласен is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer, proposal, or agreement. |
 | 33 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | Реально is a Russian word that means "really" or "in reality". It is used to express agreement or to emphasize the truth of a statement. |
-| 34 | [Пасху](http://twitter.com/search?q=%d0%9f%d0%b0%d1%81%d1%85%d1%83) | Пасху (Paskha) is a traditional Russian Easter celebration. It is celebrated on the Sunday after Orthodox Easter and marks the end of Lent. The word "Пасха" comes from the Greek word for "Passover". In English, it is usually translated as "Easter". |
+| 34 | [пасху](http://twitter.com/search?q=%d0%bf%d0%b0%d1%81%d1%85%d1%83) | Пасху (Paskha) is a traditional Russian Easter dish made of cheese, eggs, butter, and other ingredients. It is usually served as a dessert or side dish. In English, it is sometimes referred to as "Easter cheese". |
 | 35 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | ChatGPT is an acronym for Chat-based Generative Pre-trained Transformer. It is a natural language processing (NLP) model that uses deep learning to generate human-like responses to text input. It is designed to be used in chatbot applications, allowing the bot to generate more natural and human-like responses. |
 | 36 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | Зеленский is the surname of the current President of Ukraine, Volodymyr Zelensky. In English, it means "of Zelensky". |
 | 37 | [помню](http://twitter.com/search?q=%d0%bf%d0%be%d0%bc%d0%bd%d1%8e) | Помню is a Russian verb meaning "to remember" or "I remember" in English. |
 | 38 | [КОШМАР](http://twitter.com/search?q=%d0%9a%d0%9e%d0%a8%d0%9c%d0%90%d0%a0) | КОШМАР is a Russian word meaning "nightmare". |
 | 39 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
 | 40 | [питера](http://twitter.com/search?q=%d0%bf%d0%b8%d1%82%d0%b5%d1%80%d0%b0) | Питера is the Russian nickname for the city of Saint Petersburg, Russia. In English, it is often referred to as "Petersburg". |
-| 41 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 42 | [вчера](http://twitter.com/search?q=%d0%b2%d1%87%d0%b5%d1%80%d0%b0) | "Вчера" is a Russian word meaning "yesterday". |
-| 43 | [судане](http://twitter.com/search?q=%d1%81%d1%83%d0%b4%d0%b0%d0%bd%d0%b5) | "Судане" is a Russian word that means "farewell". |
-| 44 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | Отлично (otlichno) is a Russian word meaning "excellent" or "great". It is often used as an expression of approval or satisfaction. |
-| 45 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | Навального is a Russian surname. It is derived from the given name Навальный, which means "belonging to Navol". |
-| 46 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | Выглядит is a Russian verb meaning "to look" or "to appear". In English, it would be translated as "looks". |
+| 41 | [Вчера](http://twitter.com/search?q=%d0%92%d1%87%d0%b5%d1%80%d0%b0) | Вчера is a Russian word meaning "yesterday". |
+| 42 | [судане](http://twitter.com/search?q=%d1%81%d1%83%d0%b4%d0%b0%d0%bd%d0%b5) | "Судане" is a Russian word that means "farewell". |
+| 43 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | Отлично (otlichno) is a Russian word meaning "excellent" or "great". It is often used as an expression of approval or satisfaction. |
+| 44 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | Навального is a Russian surname. It is derived from the given name Навальный, which means "belonging to Navol". |
+| 45 | [Выглядит](http://twitter.com/search?q=%d0%92%d1%8b%d0%b3%d0%bb%d1%8f%d0%b4%d0%b8%d1%82) | Выглядит is a Russian verb meaning "to look" or "to appear". In English, it would be translated as "looks". |
+| 46 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 47 | [воистину воскресе](http://twitter.com/search?q=%d0%b2%d0%be%d0%b8%d1%81%d1%82%d0%b8%d0%bd%d1%83+%d0%b2%d0%be%d1%81%d0%ba%d1%80%d0%b5%d1%81%d0%b5) | "Воистину воскресе" is a Russian phrase that translates to "truly on Sunday". It is often used as an expression of surprise or disbelief. |
 | 48 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | Навальный is a Russian surname. It is derived from the given name Наваль, which is a diminutive form of the name Иван (Ivan). The English translation of the surname would be "Navalny". |
 | 49 | [твиттере](http://twitter.com/search?q=%d1%82%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80%d0%b5) | "Твиттере" is the Russian word for Twitter, a social media platform where users can post short messages (tweets) of up to 280 characters. |

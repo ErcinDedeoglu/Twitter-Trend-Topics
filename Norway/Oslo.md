@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-19 01:49:58 UTC`
+📆 Last Updated: `2023-04-19 02:35:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,9 +23,9 @@ This is top 50 for [Norway](</Norway>)
 | 6 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
 | 7 | [#Streik](http://twitter.com/search?q=%23Streik) | #Streik is a German word meaning "strike" or "protest". It is used to refer to a labor strike, protest, or other form of collective action taken by workers in order to express their dissatisfaction with their working conditions or wages. |
 | 8 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
-| 9 | [Pepsi Max](http://twitter.com/search?q=Pepsi+Max) | Pepsi Max is a low-calorie, sugar-free cola soft drink produced by PepsiCo. It was first introduced in the United States in 1993 and has since become available in many countries around the world. The name "Pepsi Max" is derived from the Latin word for "maximum," which reflects its slogan of "Maximum Taste, No Sugar." |
-| 10 | [Mimir](http://twitter.com/search?q=Mimir) | Mimir is an Old Norse figure from Norse mythology. He is a wise being who guards the Well of Wisdom, which contains all the knowledge of the world. In English, Mimir can be translated to mean "the one who remembers". |
-| 11 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 9 | [Mimir](http://twitter.com/search?q=Mimir) | Mimir is an Old Norse figure from Norse mythology. He is a wise being who guards the Well of Wisdom, which contains all the knowledge of the world. In English, Mimir can be translated to mean "the one who remembers". |
+| 10 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 11 | [Pepsi Max](http://twitter.com/search?q=Pepsi+Max) | Pepsi Max is a low-calorie, sugar-free cola soft drink produced by PepsiCo. It was first introduced in the United States in 1993 and has since become available in many countries around the world. The name "Pepsi Max" is derived from the Latin word for "maximum," which reflects its slogan of "Maximum Taste, No Sugar." |
 | 12 | [gratulerer](http://twitter.com/search?q=gratulerer) | Gratulerer is a Norwegian word that means "congratulations" in English. It is used to express congratulations or best wishes to someone on a special occasion or achievement. |
 | 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 14 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
@@ -42,7 +42,7 @@ This is top 50 for [Norway](</Norway>)
 | 25 | [Excellent](http://twitter.com/search?q=Excellent) | Excellent is an adjective that means of the highest quality or extremely good. It is often used to describe something that is outstanding or superior in comparison to others. |
 | 26 | [Sudan](http://twitter.com/search?q=Sudan) | Sudan is a country located in North-East Africa. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, Eritrea to the east and Red Sea to the northeast. The name Sudan is derived from Arabic and means "land of black people". |
 | 27 | [Polen](http://twitter.com/search?q=Polen) | Polen is a German word meaning "pollen". It is used to refer to the fine powdery substance produced by plants, which is released into the air and can cause allergies in some people. |
-| 28 | [Barentshavet](http://twitter.com/search?q=Barentshavet) | Barentshavet is the Barents Sea, a body of water located in the Arctic Ocean between Norway and Russia. The name comes from the Dutch explorer Willem Barents, who explored the area in 1596. In English, it translates to "Barents Sea". |
+| 28 | [barentshavet](http://twitter.com/search?q=barentshavet) | Barentshavet is the Barents Sea, a body of water located in the Arctic Ocean between Norway and Russia. The name comes from the Dutch explorer Willem Barents, who explored the area in 1596. In English, it translates to "Barents Sea". |
 | 29 | [minner](http://twitter.com/search?q=minner) | Minner is not a word in English. It may be a misspelling of the word "minor," which means relatively small or unimportant. |
 | 30 | [Leste](http://twitter.com/search?q=Leste) | Leste is a Portuguese word meaning "east". It is used to refer to the eastern part of a country or region. |
 | 31 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
