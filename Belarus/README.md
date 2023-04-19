@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-19 05:24:43 UTC`
+📆 Last Updated: `2023-04-19 06:25:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
 | 2 | [#Bitcoin](http://twitter.com/search?q=%23Bitcoin) | Bitcoin is a digital currency, also known as a cryptocurrency, that was created in 2009 by an anonymous individual or group of individuals. Bitcoin is decentralized, meaning it is not controlled by any government or central bank. Instead, it relies on a peer-to-peer network of computers to process transactions and manage the supply of the currency. Bitcoin can be used to purchase goods and services online, and it can also be exchanged for other currencies. |
-| 3 | [#cosmos](http://twitter.com/search?q=%23cosmos) | #Cosmos is a hashtag used on social media to refer to the universe, outer space, and the study of astronomy. It is often used to share images and videos related to these topics. |
+| 3 | [#Cosmos](http://twitter.com/search?q=%23Cosmos) | Cosmos is a Greek word meaning “order” or “universe.” It is often used to refer to the universe as a whole, or to the physical laws that govern it. In philosophy, it is used to refer to the orderly and harmonious structure of the universe. |
 | 4 | [ТИБО-2023](http://twitter.com/search?q=%d0%a2%d0%98%d0%91%d0%9e-2023) | ТИБО-2023 is a Russian government program aimed at improving the country's transport infrastructure. The acronym stands for "Transport Infrastructure Development Program 2023". The program was launched in 2018 and is expected to be completed by 2023. It includes projects such as the construction of new roads, railways, airports, and ports, as well as the modernization of existing infrastructure. |
 | 5 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | Украины is the genitive form of the Russian word for Ukraine. In English, it translates to "of Ukraine". |
 | 6 | [в минске](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | "В Минске" is a Russian phrase meaning "in Minsk". Minsk is the capital of Belarus. |
