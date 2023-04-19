@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-19 07:25:49 UTC`
+📆 Last Updated: `2023-04-19 08:26:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Milan](http://twitter.com/search?q=Milan) | Milan is a city in northern Italy. It is the capital of Lombardy and the second most populous city in Italy after Rome. The name Milan comes from the Latin phrase Mediolanum, which means "in the middle of the plain". |
-| 2 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 3 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 1 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 2 | [Milan](http://twitter.com/search?q=Milan) | Milan is a city in northern Italy. It is the capital of Lombardy and the second most populous city in Italy after Rome. The name Milan comes from the Latin phrase Mediolanum, which means "in the middle of the plain". |
+| 3 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 4 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
 | 5 | [Marce](http://twitter.com/search?q=Marce) | Marce is a Spanish slang term that means "cool" or "awesome." It can also be used to express approval or admiration. |
 | 6 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
@@ -53,18 +53,18 @@ This is top 50 for Guatemala
 | 36 | [Maradona](http://twitter.com/search?q=Maradona) | Maradona is a nickname for the Argentine soccer player Diego Maradona, who is widely regarded as one of the greatest players of all time. The name Maradona is derived from the Spanish word for "God," and it is often used to refer to Diego Maradona's skill and talent on the soccer field. |
 | 37 | [Comisión](http://twitter.com/search?q=Comisi%c3%b3n) | Comisión is a Spanish word that translates to "commission" in English. It refers to a fee or payment given to someone for services rendered, usually as a percentage of the total cost of the service. |
 | 38 | [Semis](http://twitter.com/search?q=Semis) | Semis is short for semi-trailer trucks, which are large trucks that have a trailer attached to the back. They are used to transport goods over long distances. The term is also used to refer to the trailers themselves. |
-| 39 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | Tik Tok is a popular social media platform where users can create and share short videos. It is especially popular among teenagers and young adults. The name "Tik Tok" is derived from the sound of a ticking clock, which symbolizes the short duration of the videos. |
-| 40 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | Corrupción is a Spanish word that refers to the act of using one's power or influence for personal gain, often at the expense of others. In English, it is commonly referred to as corruption. |
-| 41 | [Ninotchka Matute](http://twitter.com/search?q=Ninotchka+Matute) | Ninotchka Matute is a Spanish phrase that translates to "Little Doll" in English. It is often used as an affectionate nickname for a young girl or woman. |
-| 42 | [Fede](http://twitter.com/search?q=Fede) | Fede is an Italian word meaning faith or loyalty. It is often used to refer to a strong sense of loyalty and trust between two people. |
-| 43 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 44 | [Florentino](http://twitter.com/search?q=Florentino) | Florentino is a Spanish name derived from the Latin name Florentinus, which means "blooming" or "flowering". It is also a surname and can refer to a person who comes from the city of Florence in Italy. |
-| 45 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
-| 46 | [Llévame](http://twitter.com/search?q=Ll%c3%a9vame) | Llévame is a Spanish phrase meaning "Take me". It is often used as an expression of desire or longing. |
-| 47 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 49 | [FIFA](http://twitter.com/search?q=FIFA) | FIFA stands for the Fédération Internationale de Football Association, which is the international governing body of association football, futsal and beach soccer. In English, FIFA stands for the International Federation of Association Football. |
-| 50 | [Grupo Frontera](http://twitter.com/search?q=Grupo+Frontera) | Grupo Frontera is a Spanish-language rock band from Mexico. The name translates to "Frontier Group" in English, and it reflects the band's mission to explore the boundaries of Latin rock music. The group has released several albums since its formation in 1998, and its music has been featured in films and television shows. |
+| 39 | [Corrupción](http://twitter.com/search?q=Corrupci%c3%b3n) | Corrupción is a Spanish word that refers to the act of using one's power or influence for personal gain, often at the expense of others. In English, it is commonly referred to as corruption. |
+| 40 | [ninotchka matute](http://twitter.com/search?q=ninotchka+matute) | Ninotchka Matute is a Filipino term of endearment, usually used to refer to a young girl. It literally translates to "little princess" in English. |
+| 41 | [Fede](http://twitter.com/search?q=Fede) | Fede is an Italian word meaning faith or loyalty. It is often used to refer to a strong sense of loyalty and trust between two people. |
+| 42 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 43 | [Florentino](http://twitter.com/search?q=Florentino) | Florentino is a Spanish name derived from the Latin name Florentinus, which means "blooming" or "flowering". It is also a surname and can refer to a person who comes from the city of Florence in Italy. |
+| 44 | [Canadá](http://twitter.com/search?q=Canad%c3%a1) | Canadá is the Spanish name for Canada, a country located in North America. It is bordered by the United States to the south and northwest, and by the Arctic Ocean to the north. Canada is a bilingual country with both English and French as official languages. |
+| 45 | [Llévame](http://twitter.com/search?q=Ll%c3%a9vame) | Llévame is a Spanish phrase meaning "Take me". It is often used as an expression of desire or longing. |
+| 46 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 47 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
+| 48 | [FIFA](http://twitter.com/search?q=FIFA) | FIFA stands for the Fédération Internationale de Football Association, which is the international governing body of association football, futsal and beach soccer. In English, FIFA stands for the International Federation of Association Football. |
+| 49 | [Grupo Frontera](http://twitter.com/search?q=Grupo+Frontera) | Grupo Frontera is a Spanish-language rock band from Mexico. The name translates to "Frontier Group" in English, and it reflects the band's mission to explore the boundaries of Latin rock music. The group has released several albums since its formation in 1998, and its music has been featured in films and television shows. |
+| 50 | [Jisoo](http://twitter.com/search?q=Jisoo) | Jisoo is a Korean given name, typically used for females. It is derived from the Chinese characters meaning "wisdom" and "beauty". In English, it can be translated to mean "wise and beautiful". |
 
 
 
