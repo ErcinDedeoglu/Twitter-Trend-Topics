@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-04-20 04:27:56 UTC`
+📆 Last Updated: `2023-04-20 05:27:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,14 +22,14 @@ This is top 50 for Ireland
 | 5 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
 | 6 | [#happinessireland](http://twitter.com/search?q=%23happinessireland) | #HappinessIreland is a hashtag used to promote positive mental health and well-being in Ireland. It is used to share stories, tips, and advice on how to stay happy and healthy. |
 | 7 | [Robert Watt](http://twitter.com/search?q=Robert+Watt) | Robert Watt is a Scottish surname. It is derived from the Old English words "wætt" meaning "watchful" and "hrod" meaning "fame". The name is thought to have originated in the 12th century as a nickname for someone who was watchful or vigilant. |
-| 8 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | Niall Collins is an Irish name, derived from the Gaelic name Niall. It means "champion" or "passionate". |
-| 9 | [#davystoughestteam](http://twitter.com/search?q=%23davystoughestteam) | #davystoughestteam is a hashtag used by fans of the English football team, Manchester United. It is used to show support for the team and to celebrate their successes. |
+| 8 | [#davystoughestteam](http://twitter.com/search?q=%23davystoughestteam) | #davystoughestteam is a hashtag used by fans of the English football team, Manchester United. It is used to show support for the team and to celebrate their successes. |
+| 9 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | Niall Collins is an Irish name, derived from the Gaelic name Niall. It means "champion" or "passionate". |
 | 10 | [#tonightvmtv](http://twitter.com/search?q=%23tonightvmtv) | #TonightVMTV is a hashtag used to promote the MTV show "Tonight with Vincent Moon". It is used to encourage viewers to watch the show and share their thoughts on social media. |
 | 11 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
 | 12 | [Milan](http://twitter.com/search?q=Milan) | Milan is a city in northern Italy. It is the capital of Lombardy and the second most populous city in Italy after Rome. The name Milan comes from the Latin phrase Mediolanum, which means "in the middle of the plain". |
-| 13 | [Seychelles](http://twitter.com/search?q=Seychelles) | Seychelles is an archipelago of 115 islands in the Indian Ocean off the coast of East Africa. It is known for its stunning beaches, coral reefs, and diverse wildlife. The name Seychelles comes from the French spelling of the name given to the islands by French explorer Marc-Joseph Marion du Fresne in 1756, "Les Seychelles". |
-| 14 | [Sligo](http://twitter.com/search?q=Sligo) | Sligo is a county in the northwest of Ireland. It is located in the province of Connacht and is part of the Republic of Ireland. The name Sligo comes from the Irish language and means "shelly place". |
-| 15 | [Sammy](http://twitter.com/search?q=Sammy) | Sammy is a nickname for the name Samuel or Samantha. It is often used as an affectionate term of endearment. |
+| 13 | [GM GM](http://twitter.com/search?q=GM+GM) | GM GM is an acronym for “Good Morning, Good Morning” and is used as a friendly greeting. It is often used in online chat rooms and text messages to say hello or to wish someone a good morning. |
+| 14 | [Seychelles](http://twitter.com/search?q=Seychelles) | Seychelles is an archipelago of 115 islands in the Indian Ocean off the coast of East Africa. It is known for its stunning beaches, coral reefs, and diverse wildlife. The name Seychelles comes from the French spelling of the name given to the islands by French explorer Marc-Joseph Marion du Fresne in 1756, "Les Seychelles". |
+| 15 | [Sligo](http://twitter.com/search?q=Sligo) | Sligo is a county in the northwest of Ireland. It is located in the province of Connacht and is part of the Republic of Ireland. The name Sligo comes from the Irish language and means "shelly place". |
 | 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 17 | [Coman](http://twitter.com/search?q=Coman) | Coman is a surname of Romanian origin. It is derived from the Latin word "coma" meaning "hair". In English, it can be translated to mean "hairy". |
 | 18 | [Sane](http://twitter.com/search?q=Sane) | Sane is an adjective that means mentally sound, rational, and sensible. It is often used to describe someone who is not suffering from any mental illness or disorder. |
