@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-20 22:30:20 UTC`
+📆 Last Updated: `2023-04-20 23:27:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,9 +29,9 @@ This is top 50 for Belarus
 | 12 | [в минске](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | "В Минске" is a Russian phrase meaning "in Minsk". Minsk is the capital of Belarus. |
 | 13 | [#seilors](http://twitter.com/search?q=%23seilors) | #Seilors is a hashtag used on social media to refer to people who are part of the maritime industry, such as sailors, fishermen, and boat captains. It is used to share stories, photos, and experiences related to life at sea. |
 | 14 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 15 | [тибо-2023](http://twitter.com/search?q=%d1%82%d0%b8%d0%b1%d0%be-2023) | тибо-2023 is a Russian government program that seeks to improve the quality of life in Russia by 2023. The program focuses on improving healthcare, education, housing, and other social services. In English, it can be translated as "Tibo-2023". |
-| 16 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | Интересно is a Russian word that translates to "interesting" in English. It is used to express interest or curiosity in something. |
-| 17 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | Лукашенко is a surname of Belarusian origin. It is derived from the given name Lukashenka, which means "son of Lukas". In English, the surname would be translated as Lukashenko. |
+| 15 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | Интересно is a Russian word that translates to "interesting" in English. It is used to express interest or curiosity in something. |
+| 16 | [тибо-2023](http://twitter.com/search?q=%d1%82%d0%b8%d0%b1%d0%be-2023) | тибо-2023 is a Russian government program that seeks to improve the quality of life in Russia by 2023. The program focuses on improving healthcare, education, housing, and other social services. In English, it can be translated as "Tibo-2023". |
+| 17 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | "Лукашенко" is a surname of Ukrainian origin. It is derived from the name "Luka", which means "light". In English, the surname translates to "Lukashenko". |
 | 18 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | Вроде is a Russian expression that is used to express agreement or understanding. It can be translated to English as "like" or "sort of". |
 | 19 | [Russian](http://twitter.com/search?q=Russian) | Russian is an East Slavic language spoken mainly in Russia, Belarus, Ukraine, Kazakhstan and Kyrgyzstan. It is the official language of Russia and one of the six official languages of the United Nations. In English, it is often referred to as "the Russian language". |
 | 20 | [Belarus](http://twitter.com/search?q=Belarus) | Belarus is a country located in Eastern Europe, bordered by Russia, Ukraine, Poland, Lithuania and Latvia. The name Belarus is derived from the word "belaya rus" which means "white Russia" in Russian. |
