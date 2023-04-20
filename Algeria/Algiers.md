@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-04-20 05:23:26 UTC`
+📆 Last Updated: `2023-04-20 06:24:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -58,13 +58,13 @@ This is top 50 for [Algeria](</Algeria>)
 | 41 | [Manchester](http://twitter.com/search?q=Manchester) | Manchester is a city in the North West of England. It is the second most populous city in the United Kingdom after London. The name Manchester is derived from the Latin name Mamucium or its variant Mancunium, which means "breast-shaped hill". Manchester is known for its rich industrial heritage, as well as its music and sporting scenes. |
 | 42 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
 | 43 | [مدريد](http://twitter.com/search?q=%d9%85%d8%af%d8%b1%d9%8a%d8%af) | مدريد is the Spanish name for Madrid, the capital of Spain. In English, it means "Madrid". |
-| 44 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 45 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | فيصل القاسم is an Arabic phrase that translates to "Faisal of the Qasim". It is a traditional saying used to express respect and admiration for someone who has achieved great success or has done something remarkable. |
+| 44 | [فيصل القاسم](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d8%a7%d9%84%d9%82%d8%a7%d8%b3%d9%85) | فيصل القاسم is an Arabic phrase that translates to "Faisal of the Qasim". It is a traditional saying used to express respect and admiration for someone who has achieved great success or has done something remarkable. |
+| 45 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | "علي محمد" is an Arabic phrase that translates to "Ali Mohammed". It is a common name in the Middle East and is often used as a greeting. |
 | 46 | [الهمكم الصبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%85%d9%83%d9%85+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | الهمكم الصبر is an Arabic phrase that translates to "May patience be upon you". It is a phrase of encouragement and support, used to wish someone strength and resilience in difficult times. |
 | 47 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | الكويت is the Arabic name for Kuwait, a country located in the Middle East. In English, it translates to "The Kuwait". |
 | 48 | [جيمس](http://twitter.com/search?q=%d8%ac%d9%8a%d9%85%d8%b3) | جيمس (pronounced "jīməs") is an Arabic name meaning "he who supplants". It is a variant of the English name James. |
-| 49 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | الإمارات (al-Imārāt) is the Arabic name for the United Arab Emirates, a country located in the Middle East. In English, it is commonly referred to as the UAE. |
-| 50 | [سيلفا](http://twitter.com/search?q=%d8%b3%d9%8a%d9%84%d9%81%d8%a7) | سيلفا (pronounced "seel-fah") is an Arabic word meaning "to forgive". It is often used in Islamic contexts to refer to the act of forgiving someone for a wrong they have done. |
+| 49 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | شهر رمضان (pronounced "Shahr Ramadan") is an Arabic phrase meaning "the month of Ramadan". Ramadan is the ninth month of the Islamic calendar, and is a time of fasting, prayer, reflection and community for Muslims around the world. |
+| 50 | [الإمارات](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d9%85%d8%a7%d8%b1%d8%a7%d8%aa) | الإمارات (al-Imārāt) is the Arabic name for the United Arab Emirates, a country located in the Middle East. In English, it is commonly referred to as the UAE. |
 
 
 
