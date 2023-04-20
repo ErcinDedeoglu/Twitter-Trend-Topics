@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-20 02:41:27 UTC`
+📆 Last Updated: `2023-04-20 03:27:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,7 +31,7 @@ This is top 50 for Norway
 | 14 | [Milan](http://twitter.com/search?q=Milan) | Milan is a city in northern Italy. It is the capital of Lombardy and the second most populous city in Italy after Rome. The name Milan comes from the Latin phrase Mediolanum, which means "in the middle of the plain". |
 | 15 | [kondolerer](http://twitter.com/search?q=kondolerer) | Kondolerer is a Norwegian word that means "to express condolences". It is used to express sympathy and sorrow for someone who has experienced a loss or tragedy. |
 | 16 | [Mimir](http://twitter.com/search?q=Mimir) | Mimir is an Old Norse figure from Norse mythology. He is a wise being who guards the Well of Wisdom, which contains all the knowledge of the world. In English, Mimir can be translated to mean "the one who remembers". |
-| 17 | [Støre](http://twitter.com/search?q=St%c3%b8re) | Støre is a Norwegian surname. It is derived from the Old Norse word stórr, meaning "big" or "great". In English, the name would be translated as "Greater". |
+| 17 | [støre](http://twitter.com/search?q=st%c3%b8re) | Støre is a Norwegian word meaning "bigger" or "larger". It is often used to describe something that is larger than usual. |
 | 18 | [#BeyondFast](http://twitter.com/search?q=%23BeyondFast) | #BeyondFast is a hashtag used to describe something that goes beyond the speed of fast. It is used to emphasize the idea that something is faster than fast, or that it surpasses the speed of fast. |
 | 19 | [oljefondet](http://twitter.com/search?q=oljefondet) | Oljefondet is the Norwegian Government Pension Fund, also known as the Oil Fund. It is a sovereign wealth fund created by the Norwegian government to manage the country's revenues from oil and gas production. The fund invests in stocks, bonds, and real estate around the world and is one of the largest funds of its kind in the world. In English, it translates to "Oil Fund". |
 | 20 | [$PEPE](http://twitter.com/search?q=%24PEPE) | PEPE is an internet meme that originated from a comic by artist Matt Furie in 2005. It is typically used as an expression of joy, triumph, surprise, or sarcasm. |
@@ -63,7 +63,7 @@ This is top 50 for Norway
 | 46 | [Africa](http://twitter.com/search?q=Africa) | Africa is the second-largest continent in the world, located south of Europe and bordered by the Mediterranean Sea to the north, the Red Sea to the northeast, and the Indian Ocean to the southeast. It is home to 54 countries and over 1.2 billion people. The name Africa comes from the Latin word "Afer," which means "land of the Afri," an ancient tribe that lived in North Africa. |
 | 47 | [gratulerer](http://twitter.com/search?q=gratulerer) | Gratulerer is a Norwegian word that means "congratulations" in English. It is used to express congratulations or best wishes to someone on a special occasion or achievement. |
 | 48 | [LGBT](http://twitter.com/search?q=LGBT) | LGBT stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
-| 49 | [Viken](http://twitter.com/search?q=Viken) | Viken is a county in Norway. It is located in the southeastern part of the country and borders the counties of Akershus, Buskerud, Oppland, and Østfold. In English, Viken means "bay" or "inlet". |
+| 49 | [viken](http://twitter.com/search?q=viken) | Viken is a county in Norway. It is located in the southeastern part of the country and borders the counties of Akershus, Buskerud, Oppland, and Østfold. In English, it means "the bay". |
 | 50 | [Reddit](http://twitter.com/search?q=Reddit) | Reddit is an online platform for discussion and content sharing. It is a social news aggregation, web content rating, and discussion website. Reddit users can post links, text posts, and images which are then voted up or down by other users. The most popular posts appear on the front page of the site. The name "Reddit" is a play on the words "read it", as the site's content is meant to be read by its users. |
 
 

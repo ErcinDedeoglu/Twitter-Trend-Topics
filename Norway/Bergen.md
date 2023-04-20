@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-20 02:34:55 UTC`
+📆 Last Updated: `2023-04-20 03:21:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -63,7 +63,7 @@ This is top 50 for [Norway](</Norway>)
 | 46 | [Africa](http://twitter.com/search?q=Africa) | Africa is the second-largest continent in the world, located south of Europe and bordered by the Mediterranean Sea to the north, the Red Sea to the northeast, and the Indian Ocean to the southeast. It is home to 54 countries and over 1.2 billion people. The name Africa comes from the Latin word "Afer," which means "land of the Afri," an ancient tribe that lived in North Africa. |
 | 47 | [gratulerer](http://twitter.com/search?q=gratulerer) | Gratulerer is a Norwegian word that means "congratulations" in English. It is used to express congratulations or best wishes to someone on a special occasion or achievement. |
 | 48 | [LGBT](http://twitter.com/search?q=LGBT) | LGBT stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
-| 49 | [Viken](http://twitter.com/search?q=Viken) | Viken is a county in Norway. It is located in the southeastern part of the country and borders the counties of Akershus, Buskerud, Oppland, and Østfold. In English, Viken means "bay" or "inlet". |
+| 49 | [viken](http://twitter.com/search?q=viken) | Viken is a county in Norway. It is located in the southeastern part of the country and borders the counties of Akershus, Buskerud, Oppland, and Østfold. In English, it means "the bay". |
 
 
 

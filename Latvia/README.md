@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-20 02:41:08 UTC`
+📆 Last Updated: `2023-04-20 03:27:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,9 +22,9 @@ This is top 50 for Latvia
 | 5 | [rēzeknē](http://twitter.com/search?q=r%c4%93zekn%c4%93) | Rēzeknē is a city in Latvia. It is the administrative centre of Rezekne Municipality and the largest city in the eastern part of Latvia. In English, its name translates to "The City of Rezekne". |
 | 6 | [#лигачемпионов](http://twitter.com/search?q=%23%d0%bb%d0%b8%d0%b3%d0%b0%d1%87%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | #лигачемпионов is a hashtag used on social media in Russia to discuss the Russian Premier League, the top division of professional football in the country. In English, it translates to "League of Champions". |
 | 7 | [ministru](http://twitter.com/search?q=ministru) | Ministru is a Romanian word meaning "minister" in English. It is used to refer to a government official who is responsible for the administration of a particular department or ministry. |
-| 8 | [varam](http://twitter.com/search?q=varam) | Varam is a Tamil word that means "gift" or "blessing". It is often used to refer to a special gift given to someone as a sign of appreciation or love. |
-| 9 | [helmanis](http://twitter.com/search?q=helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". The meaning of the name in English is "protector". |
-| 10 | [egils levits](http://twitter.com/search?q=egils+levits) | Egils Levits is the current President of Latvia. His name is derived from the Latvian word for eagle, "egils". The name can be translated to English as "Eagle of Law". |
+| 8 | [helmanis](http://twitter.com/search?q=helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". The meaning of the name in English is "protector". |
+| 9 | [egils levits](http://twitter.com/search?q=egils+levits) | Egils Levits is the current President of Latvia. His name is derived from the Latvian word for eagle, "egils". The name can be translated to English as "Eagle of Law". |
+| 10 | [VARAM](http://twitter.com/search?q=VARAM) | VARAM is an acronym for the Tamil Nadu State Government's Vellore-based Rural Area Development Scheme. It is a scheme that provides financial assistance to rural areas in the state of Tamil Nadu for development projects such as infrastructure, health, education, and other social welfare initiatives. The English translation of VARAM is "Rural Area Development Scheme". |
 | 11 | [valsts](http://twitter.com/search?q=valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of a particular nation or region. |
 | 12 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | Daugavpilī is the second largest city in Latvia. It is located on the banks of the Daugava River, near the border with Belarus. The name "Daugavpilī" translates to "on the Daugava River" in English. |
 | 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
@@ -55,7 +55,7 @@ This is top 50 for Latvia
 | 38 | [diezgan](http://twitter.com/search?q=diezgan) | Diezgan is a Latvian word meaning "quite" or "rather". |
 | 39 | [dziesmu](http://twitter.com/search?q=dziesmu) | Dziesmu is a Latvian word meaning "song". It is used to refer to traditional Latvian folk songs. |
 | 40 | [jautājums](http://twitter.com/search?q=jaut%c4%81jums) | Jautājums is a Latvian word meaning "question" in English. |
-| 41 | [latvijā](http://twitter.com/search?q=latvij%c4%81) | Latvijā is the Latvian word for "in Latvia". It is used to refer to something that is located in or related to the country of Latvia. |
+| 41 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | Latvijā is the Latvian word for "in Latvia". It is used to refer to something that is located in or related to the country of Latvia. |
 | 42 | [Riga](http://twitter.com/search?q=Riga) | Riga is the capital and largest city of Latvia. It is located on the Baltic Sea, at the mouth of the Daugava River. The name Riga is derived from the ancient Livonian word Rīgâ, meaning "river mouth". |
 | 43 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | Ukrainians are people who are from Ukraine, a country in Eastern Europe. The meaning of the word in English is simply "people from Ukraine". |
 | 44 | [satversmi](http://twitter.com/search?q=satversmi) | Satversmi is the Latvian Constitution, which was adopted in 1922 and is still in effect today. The English translation of satversmi is "Constitution". |

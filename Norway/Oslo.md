@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-20 02:34:56 UTC`
+📆 Last Updated: `2023-04-20 03:21:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -62,7 +62,7 @@ This is top 50 for [Norway](</Norway>)
 | 45 | [Africa](http://twitter.com/search?q=Africa) | Africa is the second-largest continent in the world, located south of Europe and bordered by the Mediterranean Sea to the north, the Red Sea to the northeast, and the Indian Ocean to the southeast. It is home to 54 countries and over 1.2 billion people. The name Africa comes from the Latin word "Afer," which means "land of the Afri," an ancient tribe that lived in North Africa. |
 | 46 | [gratulerer](http://twitter.com/search?q=gratulerer) | Gratulerer is a Norwegian word that means "congratulations" in English. It is used to express congratulations or best wishes to someone on a special occasion or achievement. |
 | 47 | [LGBT](http://twitter.com/search?q=LGBT) | LGBT stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
-| 48 | [Viken](http://twitter.com/search?q=Viken) | Viken is a county in Norway. It is located in the southeastern part of the country and borders the counties of Akershus, Buskerud, Oppland, and Østfold. In English, Viken means "bay" or "inlet". |
+| 48 | [viken](http://twitter.com/search?q=viken) | Viken is a county in Norway. It is located in the southeastern part of the country and borders the counties of Akershus, Buskerud, Oppland, and Østfold. In English, it means "the bay". |
 | 49 | [Reddit](http://twitter.com/search?q=Reddit) | Reddit is an online platform for discussion and content sharing. It is a social news aggregation, web content rating, and discussion website. Reddit users can post links, text posts, and images which are then voted up or down by other users. The most popular posts appear on the front page of the site. The name "Reddit" is a play on the words "read it", as the site's content is meant to be read by its users. |
 
 
