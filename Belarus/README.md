@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-20 00:41:28 UTC`
+📆 Last Updated: `2023-04-20 01:57:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for Belarus
 | 13 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | Пусть is a Russian word that can be translated to "let" or "may". It is used to express a wish or desire, usually in the form of a request or suggestion. For example, Пусть они будут счастливы (Let them be happy). |
 | 14 | [Russian](http://twitter.com/search?q=Russian) | Russian is an East Slavic language spoken mainly in Russia, Belarus, Ukraine, Kazakhstan and Kyrgyzstan. It is the official language of Russia and one of the six official languages of the United Nations. In English, it is often referred to as "the Russian language". |
 | 15 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 16 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | Дзякуй is a traditional Belarusian expression of gratitude and appreciation. It can be translated to English as "Thank you". |
+| 16 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | "Дзякуй" is a Belarusian word meaning "thank you". |
 | 17 | [Жиза](http://twitter.com/search?q=%d0%96%d0%b8%d0%b7%d0%b0) | Жиза is a Russian word that means "life" or "living". It is often used to refer to the quality of life, such as in the phrase "жизнь во всех ее формах" which translates to "life in all its forms". |
 | 18 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | Правильно is a Russian word that means "correctly" or "right". It is used to indicate that something has been done correctly or in accordance with the rules. |
 | 19 | [#twiby](http://twitter.com/search?q=%23twiby) | #Twiby is a hashtag used on Twitter to indicate that a tweet is a tribute or homage to someone or something. It is often used to show appreciation for an individual, organization, or event. The hashtag can also be used to recognize the accomplishments of someone or something. |
