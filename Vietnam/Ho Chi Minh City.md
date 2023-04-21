@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-04-21 21:26:43 UTC`
+📆 Last Updated: `2023-04-21 22:22:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,14 +29,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 12 | [Claim](http://twitter.com/search?q=Claim) | Claim is a statement or assertion that something is true. It can also refer to a demand for something as a right, such as a legal claim or an insurance claim. |
 | 13 | [Bybit](http://twitter.com/search?q=Bybit) | Bybit is a cryptocurrency derivatives exchange that allows users to trade digital assets such as Bitcoin, Ethereum, and Ripple. The name Bybit is derived from the phrase “Be Your Best”, which reflects the company’s commitment to providing users with the best trading experience possible. Bybit offers a range of features including high liquidity, low fees, and 24/7 customer support. |
 | 14 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 15 | [Kha Vũ](http://twitter.com/search?q=Kha+V%c5%a9) | Kha Vũ is a Vietnamese term that translates to "the four directions," referring to the four cardinal directions of north, south, east, and west. It is often used as a metaphor for the four corners of the world. |
+| 15 | [kha vũ](http://twitter.com/search?q=kha+v%c5%a9) | Kha vũ is a Vietnamese phrase that translates to "Let's go!" It is used to express enthusiasm and encouragement. |
 | 16 | [Chia](http://twitter.com/search?q=Chia) | Chia is a type of seed that is high in fiber, protein, and omega-3 fatty acids. It is often used as a health food or added to smoothies, salads, and other dishes. The word "chia" comes from the Nahuatl language of the Aztecs and means "strength." |
 | 17 | [$PEPE](http://twitter.com/search?q=%24PEPE) | PEPE is an internet meme that originated from a comic by artist Matt Furie in 2005. It is typically used as an expression of joy, triumph, surprise, or sarcasm. |
 | 18 | [tô tô](http://twitter.com/search?q=t%c3%b4+t%c3%b4) | Tô tô is a type of traditional Vietnamese folk music. It is usually performed with two-stringed instruments and is characterized by its slow, melodic rhythms. In English, it can be translated as "two-string music". |
 | 19 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 20 | [trúng](http://twitter.com/search?q=tr%c3%bang) | Trúng is a Vietnamese word that means "to win" or "to hit the target". It can also be used to describe a successful outcome or result. |
 | 21 | [Mail](http://twitter.com/search?q=Mail) | Mail is a system for sending and receiving messages, documents, and other items. It is typically used for communication between two or more people, but can also be used to send items such as packages. The term "mail" can refer to both the physical items sent through the mail system, as well as the electronic messages sent through email. |
-| 22 | [P'Mile](http://twitter.com/search?q=P%27Mile) | P'Mile is a term used in Thailand to refer to a person who is considered to be very attractive. It is derived from the phrase "pretty mile," which is used to describe someone who has an attractive face and body. In English, it can be translated as "hot" or "sexy." |
+| 22 | [p'mile](http://twitter.com/search?q=p%27mile) | P'mile is a slang term used in French to refer to someone who is lazy or not very motivated. It literally translates to "lazy mile" and is used to describe someone who is not putting in much effort. |
 | 23 | [Top 3](http://twitter.com/search?q=Top+3) | Top 3 is a phrase used to refer to the three best or most popular items in a given category. It is often used to refer to the top three highest-ranking items, such as the top three movies at the box office, or the top three songs on the music charts. |
 | 24 | [moonbin](http://twitter.com/search?q=moonbin) | Moonbin is a Korean name that means “bright and clear”. It is derived from the words “moon” and “bin”, which mean “bright” and “clear” respectively. The name is often given to boys in Korea, but can also be used for girls. |
 | 25 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | Rest In Peace (often abbreviated as RIP) is an expression used to wish someone who has passed away a peaceful afterlife. It is commonly used as a phrase of condolence and sympathy for the deceased and their family. |
@@ -61,10 +61,9 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 44 | [Layer 2](http://twitter.com/search?q=Layer+2) | Layer 2 is a term used to refer to the data link layer of the OSI (Open Systems Interconnection) model. This layer is responsible for providing reliable communication between two nodes on a network by providing addressing, error detection, and flow control. In English, Layer 2 is the layer of a network that provides reliable communication between two nodes. |
 | 45 | [boys planet](http://twitter.com/search?q=boys+planet) | Boys Planet is a Japanese term used to describe a group of boys who are close friends and share similar interests. It is often used to refer to a group of boys who are passionate about something, such as music, sports, or gaming. The term can also be used to describe a group of boys who hang out together and have fun. |
 | 46 | [giao](http://twitter.com/search?q=giao) | Giao is a Vietnamese word that means "to deliver" or "to transport." In English, it can be used to refer to the act of delivering goods or services. |
-| 47 | [Floral](http://twitter.com/search?q=Floral) | Floral is an adjective that describes something related to flowers or having a flowery pattern. It can also refer to a type of fabric or wallpaper with a flowery pattern. |
-| 48 | [Rose](http://twitter.com/search?q=Rose) | Rose is a type of flower that is often associated with love and romance. It is also the national flower of England. The word "rose" comes from the Latin word rosa, which means "red." |
-| 49 | [Car Seat Covers](http://twitter.com/search?q=Car+Seat+Covers) | Car seat covers are pieces of fabric or other material that are designed to fit over the seats of a car. They are used to protect the original upholstery from dirt, wear, and tear, as well as to add a decorative touch to the interior of the car. |
-| 50 | [Halloween](http://twitter.com/search?q=Halloween) | Halloween is a holiday celebrated on October 31st in many countries around the world. It is a time for people to dress up in costumes, go trick-or-treating, and attend parties. The word Halloween comes from the phrase "All Hallows' Eve," which is derived from the Christian tradition of All Saints' Day. |
+| 47 | [Car Seat Covers](http://twitter.com/search?q=Car+Seat+Covers) | Car seat covers are pieces of fabric or other material that are designed to fit over the seats of a car. They are used to protect the original upholstery from dirt, wear, and tear, as well as to add a decorative touch to the interior of the car. |
+| 48 | [Floral](http://twitter.com/search?q=Floral) | Floral is an adjective that describes something related to flowers or having a flowery pattern. It can also refer to a type of fabric or wallpaper with a flowery pattern. |
+| 49 | [Rose](http://twitter.com/search?q=Rose) | Rose is a type of flower that is often associated with love and romance. It is also the national flower of England. The word "rose" comes from the Latin word rosa, which means "red." |
 
 
 
