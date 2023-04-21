@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-04-21 16:29:17 UTC`
+📆 Last Updated: `2023-04-21 17:29:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 10 | [#NRLEelsBroncos](http://twitter.com/search?q=%23NRLEelsBroncos) | #NRLEelsBroncos is a hashtag used to promote the National Rugby League (NRL) match between the Parramatta Eels and the Brisbane Broncos. It is used to encourage fans of both teams to show their support for their respective teams. |
 | 11 | [race relations commissioner](http://twitter.com/search?q=race+relations+commissioner) | A race relations commissioner is a public official who works to promote better understanding and cooperation between different racial and ethnic groups. They may work to resolve conflicts between communities, provide education on diversity and inclusion, or advise government agencies on policies related to race relations. |
 | 12 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 13 | [Sheck](http://twitter.com/search?q=Sheck) | Sheck is a slang term used to express surprise or disbelief. It is often used as an interjection, such as "Sheck!" or "What the Sheck?" It is similar to other exclamations such as "Wow!" or "Holy cow!" |
+| 13 | [sheck](http://twitter.com/search?q=sheck) | Sheck is a slang term that is used to express agreement or approval. It is similar to the phrase "yeah" or "yep". |
 | 14 | [SpaceX](http://twitter.com/search?q=SpaceX) | SpaceX is a private American aerospace manufacturer and space transportation services company founded in 2002 by Elon Musk. The company's mission is to develop and launch advanced rockets and spacecraft to enable people to live on other planets. The name "SpaceX" is a combination of the words "space" and "exploration". |
 | 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
 | 16 | [Willie](http://twitter.com/search?q=Willie) | Willie is a slang term used to refer to someone who is considered to be foolish or stupid. It can also be used as an insult. |
