@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-04-21 04:21:59 UTC`
+📆 Last Updated: `2023-04-21 05:20:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,15 +34,15 @@ This is top 50 for [Ireland](</Ireland>)
 | 17 | [#SpaceX](http://twitter.com/search?q=%23SpaceX) | #SpaceX is the name of a private aerospace manufacturer and space transportation services company founded by Elon Musk. The company designs, manufactures, and launches advanced rockets and spacecraft. The name is a combination of the words "space" and "exploration". |
 | 18 | [#BlueTick](http://twitter.com/search?q=%23BlueTick) | #BlueTick is a feature on Twitter that verifies the authenticity of certain accounts. It is a blue checkmark badge that appears next to the name of a verified account, indicating that the account is authentic and has been verified by Twitter. |
 | 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [Robert Watt](http://twitter.com/search?q=Robert+Watt) | Robert Watt is a Scottish surname. It is derived from the Old English words "wætt" meaning "watchful" and "hrod" meaning "fame". The name is thought to have originated in the 12th century as a nickname for someone who was watchful or vigilant. |
+| 20 | [robert watt](http://twitter.com/search?q=robert+watt) | Robert Watt is a Scottish surname. It is derived from the Old English words "wætt" meaning "watchful" and "hrod" meaning "fame". The name is believed to have originated in the Middle Ages, when it was used to refer to a watchman or guard. |
 | 21 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
 | 22 | [Happy 420](http://twitter.com/search?q=Happy+420) | Happy 420 is a slang phrase used to celebrate the consumption of cannabis, particularly on April 20th (4/20). It is often used as a greeting or salutation among cannabis users. |
 | 23 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 24 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 26 | [Roma](http://twitter.com/search?q=Roma) | Roma is the capital of Italy and is also the largest city in the country. The name Roma is derived from the Latin word for Rome, which was once the capital of the Roman Empire. In English, Roma means "the Eternal City". |
-| 27 | [moonbin](http://twitter.com/search?q=moonbin) | Moonbin is a Korean name that means “bright and clear”. It is derived from the words “moon” and “bin”, which mean “bright” and “clear” respectively. The name is often given to boys in Korea, but can also be used for girls. |
-| 28 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 25 | [Roma](http://twitter.com/search?q=Roma) | Roma is the capital of Italy and is also the largest city in the country. The name Roma is derived from the Latin word for Rome, which was once the capital of the Roman Empire. In English, Roma means "the Eternal City". |
+| 26 | [moonbin](http://twitter.com/search?q=moonbin) | Moonbin is a Korean name that means “bright and clear”. It is derived from the words “moon” and “bin”, which mean “bright” and “clear” respectively. The name is often given to boys in Korea, but can also be used for girls. |
+| 27 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 29 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 30 | [Musk](http://twitter.com/search?q=Musk) | Musk is a strong-smelling substance that is produced by certain animals, such as the musk deer, and used in perfumes and medicines. In English, the word "musk" can also refer to a pleasant smell or aroma. |
 | 31 | [NASA](http://twitter.com/search?q=NASA) | NASA stands for the National Aeronautics and Space Administration. It is a U.S. government agency responsible for the civilian space program, as well as aeronautics and aerospace research. |
