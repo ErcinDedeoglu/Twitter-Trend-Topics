@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-04-21 02:40:20 UTC`
+📆 Last Updated: `2023-04-21 03:27:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Ireland
 | 7 | [Upamecano](http://twitter.com/search?q=Upamecano) | Upamecano is a French surname. It is derived from the Basque words "upa" meaning "above" and "mekano" meaning "mechanic". In English, it can be translated to mean "above mechanic". |
 | 8 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
 | 9 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | #EuropaLeague is the second-tier European club football competition, organized by UEFA. It is the successor to the UEFA Cup and is open to teams from all UEFA member associations. The Europa League is contested by 48 teams, with the winner qualifying for the UEFA Champions League. |
-| 10 | [Niall Collins](http://twitter.com/search?q=Niall+Collins) | Niall Collins is an Irish name, derived from the Gaelic name Niall. It means "champion" or "passionate". |
+| 10 | [niall collins](http://twitter.com/search?q=niall+collins) | Niall Collins is an Irish politician who has been a Teachta Dála (TD) for the Limerick County constituency since 2007. He is a member of Fianna Fáil, part of the opposition in the 33rd Dáil. |
 | 11 | [brian kerr](http://twitter.com/search?q=brian+kerr) | Brian Kerr is a former Irish football manager and player. He is best known for managing the Republic of Ireland national team from 2003 to 2005, and the Faroe Islands national team from 2006 to 2011. He also had a successful playing career, playing for several clubs in England and Scotland. The phrase "Brian Kerr" is used to refer to his career as a football manager and player. |
 | 12 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 13 | [Eid Mubarak](http://twitter.com/search?q=Eid+Mubarak) | Eid Mubarak is an Arabic phrase that translates to “blessed celebration” in English. It is a traditional Muslim greeting used to celebrate the end of Ramadan, the Islamic holy month of fasting. |
@@ -62,7 +62,7 @@ This is top 50 for Ireland
 | 45 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
 | 46 | [Rapid Unscheduled Disassembly](http://twitter.com/search?q=Rapid+Unscheduled+Disassembly) | Rapid Unscheduled Disassembly (RUD) is a term used to describe an unexpected and uncontrolled breakdown of a system or component. It is most commonly used in the aerospace industry to refer to the sudden and catastrophic failure of an aircraft or its components. In other words, it is the sudden and unexpected disintegration of a system or component due to a malfunction. |
 | 47 | [Paul O'Grady](http://twitter.com/search?q=Paul+O%27Grady) | Paul O'Grady is an English comedian, actor, presenter, and writer. He is best known for his television show The Paul O'Grady Show, which ran from 2004 to 2018. He has also presented several other shows including Blind Date and Animal Orphans. |
-| 48 | [Michael O'Leary](http://twitter.com/search?q=Michael+O%27Leary) | Michael O'Leary is the CEO of Ryanair, an Irish low-cost airline. He is known for his outspoken and often controversial views on the airline industry. He has been credited with transforming Ryanair from a small regional carrier into one of Europe's largest airlines. |
+| 48 | [michael o'leary](http://twitter.com/search?q=michael+o%27leary) | Michael O'Leary is an Irish businessman and the CEO of Ryanair, an Irish low-cost airline. He is known for his outspoken and often controversial views on the airline industry. |
 | 49 | [La Liga](http://twitter.com/search?q=La+Liga) | La Liga is the top professional football division in Spain. It is also known as the Primera División or the Liga BBVA. The literal translation of La Liga into English is "The League". |
 | 50 | [arnotts](http://twitter.com/search?q=arnotts) | Arnotts is an Australian biscuit and snack food manufacturer. The company was founded in 1865 by William Arnott and is now owned by the Campbell Soup Company. The name "Arnotts" is derived from the founder's surname. |
 

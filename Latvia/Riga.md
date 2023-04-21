@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-21 02:34:55 UTC`
+📆 Last Updated: `2023-04-21 03:21:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [#BinanceXAF](http://twitter.com/search?q=%23BinanceXAF) | #BinanceXAF is a hashtag used to refer to the Binance cryptocurrency exchange in Central African Francs (XAF). It is used to denote trading activities on the Binance platform that involve XAF. |
 | 2 | [lizda](http://twitter.com/search?q=lizda) | Lizda is a type of traditional Lithuanian folk music. It is characterized by its fast tempo and lively rhythms, often accompanied by singing and dancing. In English, the term lizda translates to "dance" or "joyful music". |
 | 3 | [satversmes](http://twitter.com/search?q=satversmes) | Satversmes is the Constitution of Latvia. It is the fundamental law of the country, and it establishes the framework for the government and its laws. In English, it means "Constitution". |
-| 4 | [visu](http://twitter.com/search?q=visu) | Visu is a Japanese term that means "visual". It is used to refer to visual elements such as images, videos, and other forms of media. |
+| 4 | [Visu](http://twitter.com/search?q=Visu) | Visu is a Japanese term that means "visualization" or "visual representation". It is used to describe the process of creating visual representations of data or information, such as charts, diagrams, and graphs. Visu can also refer to the practice of using visual aids to help explain complex concepts. |
 | 5 | [jēkabpilī](http://twitter.com/search?q=j%c4%93kabpil%c4%ab) | Jēkabpilī is a city in Latvia. It is the fifth largest city in the country and is located in the eastern part of Latvia, near the border with Belarus and Lithuania. In English, it translates to "Jacob's Town". |
 | 6 | [stambulas](http://twitter.com/search?q=stambulas) | Stambulas is a slang term used to describe someone who is lazy and unmotivated. It is derived from the phrase "stammering and bumbling around," which implies a lack of direction or purpose. |
 | 7 | [jūrmalas](http://twitter.com/search?q=j%c5%abrmalas) | Jūrmalas is a city in Latvia. It is located on the Gulf of Riga, on the Baltic Sea coast. The name Jūrmalas translates to "seaside" in English. |

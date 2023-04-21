@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-21 02:41:08 UTC`
+📆 Last Updated: `2023-04-21 03:28:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -57,13 +57,13 @@ This is top 50 for Switzerland
 | 40 | [Genesung](http://twitter.com/search?q=Genesung) | Genesung is a German word that means "recovery" or "healing". It is often used to refer to the process of recovering from an illness or injury. |
 | 41 | [Mastodon](http://twitter.com/search?q=Mastodon) | Mastodon is a free, open-source social networking service similar to Twitter. It allows users to post short messages, images, and other content. The name Mastodon comes from the extinct mammal of the same name, which was a large, elephant-like creature that lived during the Ice Age. The term is used to represent the idea of a large, powerful social network that is not controlled by any one company or organization. |
 | 42 | [Pech](http://twitter.com/search?q=Pech) | Pech is a German word that means bad luck or misfortune. It can also be used to describe a situation that has gone wrong or a person who is having a run of bad luck. |
-| 43 | [netto null](http://twitter.com/search?q=netto+null) | Netto null is a German phrase that translates to "net zero" in English. It is used to describe a situation where the net result of an action or process is zero, meaning that there is no gain or loss. |
-| 44 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | Président is the French word for President. It is used to refer to the head of state in a presidential system of government, such as the United States. |
-| 45 | [Desinformation](http://twitter.com/search?q=Desinformation) | Desinformation is a French term that refers to the deliberate spread of false or misleading information. It is often used to influence public opinion or to discredit an individual, group, or organization. In English, it is commonly referred to as disinformation. |
-| 46 | [Kauf](http://twitter.com/search?q=Kauf) | Kauf is a German word meaning "purchase" or "buy". It is commonly used in the context of shopping or making a purchase. |
-| 47 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 48 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | Vertrauen is a German word that means trust or confidence. It is used to describe the feeling of security and assurance that one has in another person or situation. |
-| 49 | [Kino](http://twitter.com/search?q=Kino) | Kino is a Japanese word meaning "cinema" or "movie theater." It is often used to refer to the art of filmmaking, as well as the experience of watching films in a theater. |
+| 43 | [Kino](http://twitter.com/search?q=Kino) | Kino is a Japanese word meaning "cinema" or "movie theater." It is often used to refer to the art of filmmaking, as well as the experience of watching films in a theater. |
+| 44 | [netto null](http://twitter.com/search?q=netto+null) | Netto null is a German phrase that translates to "net zero" in English. It is used to describe a situation where the net result of an action or process is zero, meaning that there is no gain or loss. |
+| 45 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | Président is the French word for President. It is used to refer to the head of state in a presidential system of government, such as the United States. |
+| 46 | [Desinformation](http://twitter.com/search?q=Desinformation) | Desinformation is a French term that refers to the deliberate spread of false or misleading information. It is often used to influence public opinion or to discredit an individual, group, or organization. In English, it is commonly referred to as disinformation. |
+| 47 | [Kauf](http://twitter.com/search?q=Kauf) | Kauf is a German word meaning "purchase" or "buy". It is commonly used in the context of shopping or making a purchase. |
+| 48 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 49 | [Vertrauen](http://twitter.com/search?q=Vertrauen) | Vertrauen is a German word that means trust or confidence. It is used to describe the feeling of security and assurance that one has in another person or situation. |
 | 50 | [Leao](http://twitter.com/search?q=Leao) | Leao is a Portuguese word meaning "lion". |
 
 

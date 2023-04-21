@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-21 02:40:34 UTC`
+📆 Last Updated: `2023-04-21 03:28:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Latvia
 | 1 | [#BinanceXAF](http://twitter.com/search?q=%23BinanceXAF) | #BinanceXAF is a hashtag used to refer to the Binance cryptocurrency exchange in Central African Francs (XAF). It is used to denote trading activities on the Binance platform that involve XAF. |
 | 2 | [lizda](http://twitter.com/search?q=lizda) | Lizda is a type of traditional Lithuanian folk music. It is characterized by its fast tempo and lively rhythms, often accompanied by singing and dancing. In English, the term lizda translates to "dance" or "joyful music". |
 | 3 | [satversmes](http://twitter.com/search?q=satversmes) | Satversmes is the Constitution of Latvia. It is the fundamental law of the country, and it establishes the framework for the government and its laws. In English, it means "Constitution". |
-| 4 | [visu](http://twitter.com/search?q=visu) | Visu is a Japanese term that means "visual". It is used to refer to visual elements such as images, videos, and other forms of media. |
+| 4 | [Visu](http://twitter.com/search?q=Visu) | Visu is a Japanese term that means "visualization" or "visual representation". It is used to describe the process of creating visual representations of data or information, such as charts, diagrams, and graphs. Visu can also refer to the practice of using visual aids to help explain complex concepts. |
 | 5 | [jēkabpilī](http://twitter.com/search?q=j%c4%93kabpil%c4%ab) | Jēkabpilī is a city in Latvia. It is the fifth largest city in the country and is located in the eastern part of Latvia, near the border with Belarus and Lithuania. In English, it translates to "Jacob's Town". |
 | 6 | [stambulas](http://twitter.com/search?q=stambulas) | Stambulas is a slang term used to describe someone who is lazy and unmotivated. It is derived from the phrase "stammering and bumbling around," which implies a lack of direction or purpose. |
 | 7 | [jūrmalas](http://twitter.com/search?q=j%c5%abrmalas) | Jūrmalas is a city in Latvia. It is located on the Gulf of Riga, on the Baltic Sea coast. The name Jūrmalas translates to "seaside" in English. |
@@ -27,12 +27,12 @@ This is top 50 for Latvia
 | 10 | [#crypto](http://twitter.com/search?q=%23crypto) | #Crypto is an abbreviation for cryptocurrency, which is a digital or virtual currency that uses cryptography for security. It is decentralized and not controlled by any government or central bank. Crypto is used as a medium of exchange, similar to traditional currencies, but it operates on a distributed ledger system called blockchain. |
 | 11 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast, respectively. Ukraine is the second-largest country in Europe after Russia. Its capital and largest city is Kiev. |
 | 12 | [varam](http://twitter.com/search?q=varam) | Varam is a Tamil word that means "gift" or "blessing". It is often used to refer to a special gift given to someone as a sign of appreciation or love. |
-| 13 | [helmani](http://twitter.com/search?q=helmani) | Helmani is a type of traditional dress worn by women in the Middle East. It is a long, loose-fitting garment that covers the body from head to toe. The term helmani is derived from the Arabic word for "cloak" or "robe". In English, it is sometimes referred to as an abaya or burqa. |
-| 14 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | Daugavpilī is the second largest city in Latvia. It is located on the banks of the Daugava River, near the border with Belarus. The name "Daugavpilī" translates to "on the Daugava River" in English. |
-| 15 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | Vienmēr is a Latvian word meaning "always" or "forever". |
-| 16 | [Apar](http://twitter.com/search?q=Apar) | Apar is a Sanskrit word meaning "other" or "different". It is often used to refer to something that is distinct from the norm or that stands out in some way. |
-| 17 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | Problēma is a Latin word meaning "problem" or "difficulty". In English, it is used to refer to any issue or difficulty that needs to be solved. |
-| 18 | [Avena](http://twitter.com/search?q=Avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. |
+| 13 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | Daugavpilī is the second largest city in Latvia. It is located on the banks of the Daugava River, near the border with Belarus. The name "Daugavpilī" translates to "on the Daugava River" in English. |
+| 14 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | Vienmēr is a Latvian word meaning "always" or "forever". |
+| 15 | [Apar](http://twitter.com/search?q=Apar) | Apar is a Sanskrit word meaning "other" or "different". It is often used to refer to something that is distinct from the norm or that stands out in some way. |
+| 16 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | Problēma is a Latin word meaning "problem" or "difficulty". In English, it is used to refer to any issue or difficulty that needs to be solved. |
+| 17 | [Avena](http://twitter.com/search?q=Avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. |
+| 18 | [helmanis](http://twitter.com/search?q=helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". The meaning of the name in English is "protector". |
 | 19 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | Kādēļ is a Latvian word meaning "why". |
 | 20 | [ogres](http://twitter.com/search?q=ogres) | Ogres are mythical creatures that are usually depicted as large, brutish, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are also known to eat humans. |
 | 21 | [rēzeknes](http://twitter.com/search?q=r%c4%93zeknes) | Rēzeknes is a city in Latvia. It is the administrative centre of the Rēzekne Municipality and the Rēzekne District. The name of the city comes from the Latvian word rēzegnis, which means "fortress". In English, Rēzeknes translates to "Fortress of Rezekne". |
