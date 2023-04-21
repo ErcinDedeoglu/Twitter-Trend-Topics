@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-21 07:27:56 UTC`
+📆 Last Updated: `2023-04-21 08:30:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AgustD_DDAY](http://twitter.com/search?q=%23AgustD_DDAY) | #AgustD_DDAY is a hashtag used by fans of the South Korean rapper Agust D (also known as Suga of the K-pop group BTS). The hashtag is used to celebrate the release of Agust D's new music, and it stands for "Agust D Debut Day". |
-| 2 | [#Haegeum](http://twitter.com/search?q=%23Haegeum) | #Haegeum is a traditional Korean string instrument that is similar to the Chinese erhu. It has two strings and is played with a bow. The word "haegeum" translates to "black string" in English. |
-| 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 4 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
-| 5 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | Carlos Pineda is a Spanish name. It is derived from the Latin name Carolus, which means "free man". In English, Carlos Pineda can be translated to mean "free man of pine". |
-| 6 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 7 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 8 | [Foppa](http://twitter.com/search?q=Foppa) | Foppa is a nickname for Peter Forsberg, a Swedish professional ice hockey player. It is derived from his surname and is used as an affectionate term by his fans. In English, it can be translated to mean "Peter". |
-| 9 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 10 | [Life Goes On](http://twitter.com/search?q=Life+Goes+On) | "Life Goes On" is a phrase that is used to express the idea that life continues despite difficult or challenging circumstances. It is often used as a reminder to stay positive and keep going, even when things seem hard. The phrase can also be used to express the idea that life is full of ups and downs, but it will always keep moving forward. |
+| 1 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | #D_DAY is an abbreviation for "Decision Day," which is the day when high school seniors must make their final college decisions. It is typically the deadline for submitting college applications and deposits. |
+| 2 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 3 | [Carlos Pineda](http://twitter.com/search?q=Carlos+Pineda) | Carlos Pineda is a Spanish name. It is derived from the Latin name Carolus, which means "free man". In English, Carlos Pineda can be translated to mean "free man of pine". |
+| 4 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 5 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 6 | [Foppa](http://twitter.com/search?q=Foppa) | Foppa is a nickname for Peter Forsberg, a Swedish professional ice hockey player. It is derived from his surname and is used as an affectionate term by his fans. In English, it can be translated to mean "Peter". |
+| 7 | [#Haegeum](http://twitter.com/search?q=%23Haegeum) | #Haegeum is a traditional Korean string instrument that is similar to the Chinese erhu. It has two strings and is played with a bow. The word "haegeum" translates to "black string" in English. |
+| 8 | [Life Goes On](http://twitter.com/search?q=Life+Goes+On) | "Life Goes On" is a phrase that is used to express the idea that life continues despite difficult or challenging circumstances. It is often used as a reminder to stay positive and keep going, even when things seem hard. The phrase can also be used to express the idea that life is full of ups and downs, but it will always keep moving forward. |
+| 9 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 10 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
 | 11 | [Europa League](http://twitter.com/search?q=Europa+League) | The UEFA Europa League is an annual football club competition organized by UEFA since 1971 for eligible European football clubs. It is the second-tier competition of European club football, ranking below the UEFA Champions League. The title has been won by 28 different clubs, 12 of which have won the title more than once. The most successful club in the competition is Sevilla, with five titles. |
 | 12 | [Roma](http://twitter.com/search?q=Roma) | Roma is the capital of Italy and is also the largest city in the country. The name Roma is derived from the Latin word for Rome, which was once the capital of the Roman Empire. In English, Roma means "the Eternal City". |
 | 13 | [Giammattei](http://twitter.com/search?q=Giammattei) | Giammattei is a surname of Italian origin. It is derived from the given name Giammatteo, which is a combination of the names Gianni (John) and Matteo (Matthew). The English translation of Giammattei would be "son of John and Matthew". |
@@ -62,9 +62,9 @@ This is top 50 for Guatemala
 | 45 | [Taiwan](http://twitter.com/search?q=Taiwan) | Taiwan is an island nation located off the coast of southeastern mainland China. It is officially known as the Republic of China (ROC). Taiwan has a population of approximately 23 million people and is known for its rich culture, vibrant economy, and democratic government. The official language of Taiwan is Mandarin Chinese. |
 | 46 | [Rector](http://twitter.com/search?q=Rector) | Rector is a term used in some Christian denominations to refer to a senior official in charge of a church or parish. In the Catholic Church, the rector is the head of a parish and is responsible for its spiritual and administrative leadership. In other denominations, such as the Anglican Church, the rector is usually the priest in charge of a parish. |
 | 47 | [janderson pereira](http://twitter.com/search?q=janderson+pereira) | Janderson Pereira is a Portuguese name. It is composed of two given names, Janderson and Pereira. Janderson is a combination of the given names João (John) and Anderson, while Pereira is a common Portuguese surname. In English, the name would be John Anderson Pereira. |
-| 48 | [Mechito](http://twitter.com/search?q=Mechito) | Mechito is a term used in Latin American countries to refer to a small, mischievous child. In English, it can be translated as "little rascal". |
-| 49 | [Binnie](http://twitter.com/search?q=Binnie) | Binnie is a nickname for the name Bernadette, which is of French origin and means "brave as a bear". |
-| 50 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 48 | [Binnie](http://twitter.com/search?q=Binnie) | Binnie is a nickname for the name Bernadette, which is of French origin and means "brave as a bear". |
+| 49 | [Bayern](http://twitter.com/search?q=Bayern) | Bayern is the German name for Bavaria, a state in the south of Germany. It is also the name of the most successful football team in Germany, FC Bayern Munich. The English translation of Bayern is Bavaria. |
+| 50 | [puerto quetzal](http://twitter.com/search?q=puerto+quetzal) | Puerto Quetzal is a port city located in the south-western part of Guatemala. It is the largest port in the country and serves as a major hub for international trade. The name "Puerto Quetzal" translates to "Port of Quetzal" in English, referring to the national bird of Guatemala, the resplendent quetzal. |
 
 
 

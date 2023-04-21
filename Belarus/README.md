@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-21 07:27:33 UTC`
+📆 Last Updated: `2023-04-21 08:30:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for Belarus
 | 1 | [серёжа](http://twitter.com/search?q=%d1%81%d0%b5%d1%80%d1%91%d0%b6%d0%b0) | "Серёжа" is a Russian nickname for the name Sergei. It is derived from the Russian word "сергей", which means "sergeant". In English, it can be translated to mean "Sergei". |
 | 2 | [мунбина](http://twitter.com/search?q=%d0%bc%d1%83%d0%bd%d0%b1%d0%b8%d0%bd%d0%b0) | Мунбина is a type of traditional Russian folk dance. It is a lively, fast-paced dance that is usually performed in a circle. The name comes from the Russian word for "circle" (мундир). In English, it is sometimes referred to as the "Mundirka" or "Mundirka Dance". |
 | 3 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | Киев is the capital city of Ukraine. In English, it is commonly referred to as Kyiv. |
-| 4 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | Ахах is an expression of laughter in Russian. It is similar to the English expression "haha" and is used to express amusement or joy. |
-| 5 | [#seinami](http://twitter.com/search?q=%23seinami) | #Seinami is a hashtag used on social media to show support for the transgender community. It stands for "Support, Empowerment, Inclusion, and Nurturing of the Authentic Me". |
-| 6 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | Airdrop is a term used to describe the process of distributing cryptocurrency tokens or coins to multiple wallet addresses for free. It is usually done by blockchain-based projects to promote their coin or token and increase its visibility, usage, and circulation in the market. |
-| 7 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 8 | [в минске](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | "В Минске" is a Russian phrase meaning "in Minsk". Minsk is the capital of Belarus. |
-| 9 | [#seilors](http://twitter.com/search?q=%23seilors) | #Seilors is a hashtag used on social media to refer to people who are part of the maritime industry, such as sailors, fishermen, and boat captains. It is used to share stories, photos, and experiences related to life at sea. |
-| 10 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | #Беларусь is a hashtag used on social media to refer to Belarus, a country in Eastern Europe. In English, it translates to "Belarus". |
-| 11 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | Интересно is a Russian word that translates to "interesting" in English. It is used to express interest or curiosity in something. |
-| 12 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
+| 4 | [#seinami](http://twitter.com/search?q=%23seinami) | #Seinami is a hashtag used on social media to show support for the transgender community. It stands for "Support, Empowerment, Inclusion, and Nurturing of the Authentic Me". |
+| 5 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | Ахах is an expression of laughter in Russian. It is similar to the English expression "haha" and is used to express amusement or joy. |
+| 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 7 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
+| 8 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | Интересно is a Russian word that translates to "interesting" in English. It is used to express interest or curiosity in something. |
+| 9 | [в минске](http://twitter.com/search?q=%d0%b2+%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b5) | "В Минске" is a Russian phrase meaning "in Minsk". Minsk is the capital of Belarus. |
+| 10 | [#seilors](http://twitter.com/search?q=%23seilors) | #Seilors is a hashtag used on social media to refer to people who are part of the maritime industry, such as sailors, fishermen, and boat captains. It is used to share stories, photos, and experiences related to life at sea. |
+| 11 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | Airdrop is a term used to describe the process of distributing cryptocurrency tokens or coins to multiple wallet addresses for free. It is usually done by blockchain-based projects to promote their coin or token and increase its visibility, usage, and circulation in the market. |
+| 12 | [#Беларусь](http://twitter.com/search?q=%23%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | #Беларусь is a hashtag used on social media to refer to Belarus, a country in Eastern Europe. In English, it translates to "Belarus". |
 | 13 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | Антон is a Russian male name, derived from the Greek name Antonios. It is a diminutive form of the name Anton, which means "invaluable" or "priceless". In English, it is usually translated as Anthony. |
 | 14 | [#Cosmos](http://twitter.com/search?q=%23Cosmos) | Cosmos is a Greek word meaning “order” or “universe.” It is often used to refer to the universe as a whole, or to the physical laws that govern it. In philosophy, it is used to refer to the orderly and harmonious structure of the universe. |
 | 15 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | "Лукашенко" is a surname of Ukrainian origin. It is derived from the name "Luka", which means "light". In English, the surname translates to "Lukashenko". |
