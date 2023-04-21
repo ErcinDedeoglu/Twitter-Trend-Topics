@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Moscow
 
-📆 Last Updated: `2023-04-21 03:24:41 UTC`
+📆 Last Updated: `2023-04-21 04:26:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,26 +39,27 @@ This is top 50 for [Russia](</Russia>)
 | 22 | [ясно](http://twitter.com/search?q=%d1%8f%d1%81%d0%bd%d0%be) | "Ясно" is a Russian word that means "clearly" or "understood" in English. It is often used to indicate that someone has understood something or to confirm that something has been made clear. |
 | 23 | [помню](http://twitter.com/search?q=%d0%bf%d0%be%d0%bc%d0%bd%d1%8e) | Помню is a Russian verb meaning "to remember" or "I remember" in English. |
 | 24 | [спартак](http://twitter.com/search?q=%d1%81%d0%bf%d0%b0%d1%80%d1%82%d0%b0%d0%ba) | Спартак is a Russian football club based in Moscow. The name is derived from the ancient Greek city-state of Sparta. In English, the word "Spartak" means "Spartan". |
-| 25 | [Буквально](http://twitter.com/search?q=%d0%91%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | Буквально is a Russian word that translates to "literally" in English. It is used to emphasize that something is being said exactly as it was written or spoken. |
+| 25 | [буквально](http://twitter.com/search?q=%d0%b1%d1%83%d0%ba%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | Буквально is a Russian adverb that means "literally" or "word for word". It is used to emphasize that something is being said exactly as it was written or spoken. |
 | 26 | [в сша](http://twitter.com/search?q=%d0%b2+%d1%81%d1%88%d0%b0) | "В сша" is a Russian abbreviation for "в Соединенных Штатах Америки," which translates to "in the United States of America." |
 | 27 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | Кстати is a Russian phrase that translates to "by the way" in English. It is used to introduce a new topic or comment in a conversation. |
 | 28 | [короче](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d1%87%d0%b5) | "Короче" is a Russian expression that means "in short" or "in other words". It is used to summarize a longer explanation or to provide a simpler explanation of something. |
 | 29 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | Судя is a Russian word meaning "judging by" or "apparently". It is used to express an opinion based on what one has seen or heard. |
-| 30 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | Зеленский is the surname of the current President of Ukraine, Volodymyr Zelensky. In English, it means "of Zelensky". |
+| 30 | [зеленский](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | Зеленский is a Russian surname derived from the word "зеленый" which means "green". It is most commonly associated with Ukrainian President Volodymyr Zelensky. |
 | 31 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | "Цска" is an abbreviation for Центральный Спортивный Клуб Армии, which translates to Central Sports Club of the Army in English. It is a professional football club based in Moscow, Russia. |
 | 32 | [Прям](http://twitter.com/search?q=%d0%9f%d1%80%d1%8f%d0%bc) | Прям is a Russian word that means "straight" or "direct". It can be used to describe a straight line, a direct route, or an immediate action. |
 | 33 | [антона](http://twitter.com/search?q=%d0%b0%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | "Антона" is a Russian female name, derived from the Latin name Antonius. It is a diminutive form of Antonina, which means "priceless". In English, it can be translated as "Antonia". |
-| 34 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | "Обожаю" is a Russian word meaning "I love" in English. |
+| 34 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | Обожаю (Obozhu) is a Russian word meaning "I adore" or "I love". |
 | 35 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | Арсения is a female Russian given name derived from the Greek word "Arsenios", meaning "male, virile". In English, it can be translated to mean "strong and courageous". |
 | 36 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
 | 37 | [жесть](http://twitter.com/search?q=%d0%b6%d0%b5%d1%81%d1%82%d1%8c) | Жесть is a Russian slang word that means something unpleasant, unfair, or outrageous. It can also be used to describe something that is really bad or terrible. In English, it could be translated as "awful," "horrible," or "atrocious." |
 | 38 | [Самая](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%b0%d1%8f) | Самая is a Russian word that means "most" or "very". It is used to emphasize the degree of something, such as "the most beautiful" or "very important". |
 | 39 | [Например](http://twitter.com/search?q=%d0%9d%d0%b0%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80) | Например is a Russian phrase meaning "for example" or "for instance". It is used to introduce an example or illustration of something previously mentioned. |
 | 40 | [Gmgm](http://twitter.com/search?q=Gmgm) | Gmgm is an acronym for "Good Morning, Good Morning," which is a phrase used to greet someone in the morning. |
-| 41 | [Прикольно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | Прикольно is a Russian expression that means "funny" or "amusing" in English. It is often used to express amusement or appreciation for something humorous. |
-| 42 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | Согласна is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer or proposal. |
-| 43 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | Понятно is a Russian phrase that translates to "Understood" or "I understand" in English. It is used to indicate that someone has comprehended what has been said or asked. |
-| 44 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | Завтра is a Russian word meaning "tomorrow". |
+| 41 | [прикольно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | Прикольно is a Russian word that means "funny" or "amusing" in English. It is often used to describe something that is humorous or entertaining. |
+| 42 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | Понятно is a Russian phrase that translates to "Understood" or "I understand" in English. It is used to indicate that someone has comprehended what has been said or asked. |
+| 43 | [завтра](http://twitter.com/search?q=%d0%b7%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | Завтра is a Russian word meaning "tomorrow". |
+| 44 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | Согласна is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer or proposal. |
+| 45 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | Путина is a Russian surname. It is derived from the word "put" which means "path" or "way". In English, the name Putin would be translated as "one who follows the path". |
 
 
 

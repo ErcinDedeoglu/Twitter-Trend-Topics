@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-21 03:27:11 UTC`
+📆 Last Updated: `2023-04-21 04:28:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Belarus
 | 4 | [#twiby](http://twitter.com/search?q=%23twiby) | #Twiby is a hashtag used on Twitter to indicate that a tweet is a tribute or homage to someone or something. It is often used to show appreciation for an individual, organization, or event. The hashtag can also be used to recognize the accomplishments of someone or something. |
 | 5 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
 | 6 | [радио мир в беларуси](http://twitter.com/search?q=%d1%80%d0%b0%d0%b4%d0%b8%d0%be+%d0%bc%d0%b8%d1%80+%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | "Радио Мир в Беларуси" is a Belarusian radio station that broadcasts news, music, and other programming. The name translates to "Radio World in Belarus". |
-| 7 | [ахах](http://twitter.com/search?q=%d0%b0%d1%85%d0%b0%d1%85) | "Ахах" is a Russian expression of laughter, similar to "haha" in English. It is used to express amusement or joy. |
+| 7 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | Ахах is an expression of laughter in Russian. It is similar to the English expression "haha" and is used to express amusement or joy. |
 | 8 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | #Беларусь is a hashtag used on social media to refer to Belarus, a country in Eastern Europe. In English, it translates to "Belarus". |
 | 9 | [#seinami](http://twitter.com/search?q=%23seinami) | #Seinami is a hashtag used on social media to show support for the transgender community. It stands for "Support, Empowerment, Inclusion, and Nurturing of the Authentic Me". |
 | 10 | [#Airdrop](http://twitter.com/search?q=%23Airdrop) | Airdrop is a term used to describe the process of distributing cryptocurrency tokens or coins to multiple wallet addresses for free. It is usually done by blockchain-based projects to promote their coin or token and increase its visibility, usage, and circulation in the market. |
