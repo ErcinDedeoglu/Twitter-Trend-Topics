@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-21 00:40:42 UTC`
+📆 Last Updated: `2023-04-21 01:56:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Мунбина](http://twitter.com/search?q=%d0%9c%d1%83%d0%bd%d0%b1%d0%b8%d0%bd%d0%b0) | Мунбина is a type of traditional Russian folk dance. It is a lively, energetic dance that involves spinning and jumping. The name comes from the Russian word for "to jump". In English, it is sometimes referred to as the "Munbina Dance". |
-| 2 | [серёжа](http://twitter.com/search?q=%d1%81%d0%b5%d1%80%d1%91%d0%b6%d0%b0) | "Серёжа" is a Russian nickname for the name Sergei. It is derived from the Russian word "сергей", which means "sergeant". In English, it can be translated to mean "Sergei". |
+| 1 | [серёжа](http://twitter.com/search?q=%d1%81%d0%b5%d1%80%d1%91%d0%b6%d0%b0) | "Серёжа" is a Russian nickname for the name Sergei. It is derived from the Russian word "сергей", which means "sergeant". In English, it can be translated to mean "Sergei". |
+| 2 | [Мунбина](http://twitter.com/search?q=%d0%9c%d1%83%d0%bd%d0%b1%d0%b8%d0%bd%d0%b0) | Мунбина is a type of traditional Russian folk dance. It is a lively, energetic dance that involves spinning and jumping. The name comes from the Russian word for "to jump". In English, it is sometimes referred to as the "Munbina Dance". |
 | 3 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | Киев is the capital city of Ukraine. In English, it is commonly referred to as Kyiv. |
 | 4 | [#twiby](http://twitter.com/search?q=%23twiby) | #Twiby is a hashtag used on Twitter to indicate that a tweet is a tribute or homage to someone or something. It is often used to show appreciation for an individual, organization, or event. The hashtag can also be used to recognize the accomplishments of someone or something. |
 | 5 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
@@ -32,7 +32,7 @@ This is top 50 for Belarus
 | 15 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | Интересно is a Russian word that translates to "interesting" in English. It is used to express interest or curiosity in something. |
 | 16 | [тибо-2023](http://twitter.com/search?q=%d1%82%d0%b8%d0%b1%d0%be-2023) | тибо-2023 is a Russian government program that seeks to improve the quality of life in Russia by 2023. The program focuses on improving healthcare, education, housing, and other social services. In English, it can be translated as "Tibo-2023". |
 | 17 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | "Лукашенко" is a surname of Ukrainian origin. It is derived from the name "Luka", which means "light". In English, the surname translates to "Lukashenko". |
-| 18 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | Вроде is a Russian expression that is used to express agreement or understanding. It can be translated to English as "like" or "sort of". |
+| 18 | [вроде](http://twitter.com/search?q=%d0%b2%d1%80%d0%be%d0%b4%d0%b5) | "Вроде" is a Russian word that can be translated to mean "like," "sort of," or "seemingly." It is used to express uncertainty or doubt about something. |
 | 19 | [Russian](http://twitter.com/search?q=Russian) | Russian is an East Slavic language spoken mainly in Russia, Belarus, Ukraine, Kazakhstan and Kyrgyzstan. It is the official language of Russia and one of the six official languages of the United Nations. In English, it is often referred to as "the Russian language". |
 | 20 | [Belarus](http://twitter.com/search?q=Belarus) | Belarus is a country located in Eastern Europe, bordered by Russia, Ukraine, Poland, Lithuania and Latvia. The name Belarus is derived from the word "belaya rus" which means "white Russia" in Russian. |
 | 21 | [#AIart](http://twitter.com/search?q=%23AIart) | AIart is a term used to describe artwork created using artificial intelligence (AI) technology. AIart is a form of digital art that uses algorithms and machine learning to create unique works of art. AIart can be used to create images, videos, music, and other forms of creative expression. |
