@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-21 01:49:39 UTC`
+📆 Last Updated: `2023-04-21 02:34:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Norway](</Norway>)
 | 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 4 | [#nrkdebatt](http://twitter.com/search?q=%23nrkdebatt) | #nrkdebatt is a hashtag used on Twitter to discuss topics related to Norwegian public broadcaster NRK. In English, it translates to "NRK Debate". |
 | 5 | [Sveits](http://twitter.com/search?q=Sveits) | Sveits is the Norwegian word for Switzerland. In English, it is pronounced "svite." |
-| 6 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 7 | [#SEVMUN](http://twitter.com/search?q=%23SEVMUN) | #SEVMUN stands for the Sevilla Model United Nations, an annual international conference held in Seville, Spain. It is a simulation of the United Nations where students from around the world come together to discuss and debate global issues. |
+| 6 | [#SEVMUN](http://twitter.com/search?q=%23SEVMUN) | #SEVMUN stands for the Sevilla Model United Nations, an annual international conference held in Seville, Spain. It is a simulation of the United Nations where students from around the world come together to discuss and debate global issues. |
+| 7 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 8 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
 | 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 10 | [#hnd23](http://twitter.com/search?q=%23hnd23) | #hnd23 is a hashtag used on social media platforms such as Twitter and Instagram. It stands for "Happy New Day 23," which is a phrase used to express excitement and joy for the start of a new day. |
@@ -51,7 +51,7 @@ This is top 50 for [Norway](</Norway>)
 | 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 35 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
 | 36 | [$PEPE](http://twitter.com/search?q=%24PEPE) | PEPE is an internet meme that originated from a comic by artist Matt Furie in 2005. It is typically used as an expression of joy, triumph, surprise, or sarcasm. |
-| 37 | [Faktisk](http://twitter.com/search?q=Faktisk) | Faktisk is a Danish word that translates to "actually" or "in fact" in English. It is used to emphasize a statement or opinion. |
+| 37 | [faktisk](http://twitter.com/search?q=faktisk) | Faktisk is a Danish word that means "actually" or "in fact" in English. It is used to emphasize a statement or opinion. |
 | 38 | [Kyiv](http://twitter.com/search?q=Kyiv) | Kyiv is the capital of Ukraine and it is also known as Kiev. The English translation of Kyiv is "belonging to Kyi". Kyi was a legendary founder of the city. |
 | 39 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 40 | [ingenting](http://twitter.com/search?q=ingenting) | Ingenting is a Swedish word meaning "nothing" in English. |

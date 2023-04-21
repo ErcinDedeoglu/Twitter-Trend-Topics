@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-21 01:57:37 UTC`
+📆 Last Updated: `2023-04-21 02:40:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,13 +45,13 @@ This is top 50 for Norway
 | 28 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 29 | [La Liga](http://twitter.com/search?q=La+Liga) | La Liga is the top professional football division in Spain. It is also known as the Primera División or the Liga BBVA. The literal translation of La Liga into English is "The League". |
 | 30 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | Elon Musk is the founder, CEO, and lead designer of SpaceX; co-founder, CEO, and product architect of Tesla Inc.; and founder of The Boring Company. He is also a co-founder and former chairman of SolarCity, co-chairman of OpenAI, and founder of Neuralink. Elon Musk is an engineer, inventor, investor, and business magnate who has revolutionized transportation both on Earth and in space. He has also been instrumental in the development of renewable energy sources such as solar power. |
-| 31 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 31 | [#Kristiansand](http://twitter.com/search?q=%23Kristiansand) | #Kristiansand is a hashtag used to refer to the city of Kristiansand in Norway. It is the fifth largest city in Norway and is located on the southern coast of the country. The English translation of Kristiansand is "Christian's Sand". |
 | 32 | [giske](http://twitter.com/search?q=giske) | Giske is a municipality in Norway. It is located in the county of Møre og Romsdal, and has a population of about 4,500 people. The name Giske comes from the Old Norse word giska, which means "bend" or "curve". In English, Giske can be translated to mean "curved island". |
 | 33 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 35 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
 | 36 | [$PEPE](http://twitter.com/search?q=%24PEPE) | PEPE is an internet meme that originated from a comic by artist Matt Furie in 2005. It is typically used as an expression of joy, triumph, surprise, or sarcasm. |
-| 37 | [Faktisk](http://twitter.com/search?q=Faktisk) | Faktisk is a Danish word that translates to "actually" or "in fact" in English. It is used to emphasize a statement or opinion. |
+| 37 | [faktisk](http://twitter.com/search?q=faktisk) | Faktisk is a Danish word that means "actually" or "in fact" in English. It is used to emphasize a statement or opinion. |
 | 38 | [Kyiv](http://twitter.com/search?q=Kyiv) | Kyiv is the capital of Ukraine and it is also known as Kiev. The English translation of Kyiv is "belonging to Kyi". Kyi was a legendary founder of the city. |
 | 39 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 40 | [ingenting](http://twitter.com/search?q=ingenting) | Ingenting is a Swedish word meaning "nothing" in English. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-21 01:57:30 UTC`
+📆 Last Updated: `2023-04-21 02:40:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,17 +26,17 @@ This is top 50 for Latvia
 | 9 | [#Russia](http://twitter.com/search?q=%23Russia) | #Russia is a hashtag used on social media to refer to the country of Russia. It is often used to tag posts related to news, culture, and other topics related to the country. |
 | 10 | [#crypto](http://twitter.com/search?q=%23crypto) | #Crypto is an abbreviation for cryptocurrency, which is a digital or virtual currency that uses cryptography for security. It is decentralized and not controlled by any government or central bank. Crypto is used as a medium of exchange, similar to traditional currencies, but it operates on a distributed ledger system called blockchain. |
 | 11 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast, respectively. Ukraine is the second-largest country in Europe after Russia. Its capital and largest city is Kiev. |
-| 12 | [VARAM](http://twitter.com/search?q=VARAM) | VARAM is an acronym for the Tamil Nadu State Government's Vellore-based Rural Area Development Scheme. It is a scheme that provides financial assistance to rural areas in the state of Tamil Nadu for development projects such as infrastructure, health, education, and other social welfare initiatives. The English translation of VARAM is "Rural Area Development Scheme". |
+| 12 | [varam](http://twitter.com/search?q=varam) | Varam is a Tamil word that means "gift" or "blessing". It is often used to refer to a special gift given to someone as a sign of appreciation or love. |
 | 13 | [helmani](http://twitter.com/search?q=helmani) | Helmani is a type of traditional dress worn by women in the Middle East. It is a long, loose-fitting garment that covers the body from head to toe. The term helmani is derived from the Arabic word for "cloak" or "robe". In English, it is sometimes referred to as an abaya or burqa. |
 | 14 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | Daugavpilī is the second largest city in Latvia. It is located on the banks of the Daugava River, near the border with Belarus. The name "Daugavpilī" translates to "on the Daugava River" in English. |
 | 15 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | Vienmēr is a Latvian word meaning "always" or "forever". |
 | 16 | [Apar](http://twitter.com/search?q=Apar) | Apar is a Sanskrit word meaning "other" or "different". It is often used to refer to something that is distinct from the norm or that stands out in some way. |
 | 17 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | Problēma is a Latin word meaning "problem" or "difficulty". In English, it is used to refer to any issue or difficulty that needs to be solved. |
-| 18 | [avena](http://twitter.com/search?q=avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. In English, it can also be used to refer to oatmeal or porridge made from oats. |
+| 18 | [Avena](http://twitter.com/search?q=Avena) | Avena is a Latin word meaning oats. It is commonly used to refer to the oat plant, which is a cereal grain that is widely cultivated for its edible seeds. |
 | 19 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | Kādēļ is a Latvian word meaning "why". |
 | 20 | [ogres](http://twitter.com/search?q=ogres) | Ogres are mythical creatures that are usually depicted as large, brutish, and monstrous humanoids. They are often portrayed as being greedy, cruel, and gluttonous. In some stories, they are also known to eat humans. |
 | 21 | [rēzeknes](http://twitter.com/search?q=r%c4%93zeknes) | Rēzeknes is a city in Latvia. It is the administrative centre of the Rēzekne Municipality and the Rēzekne District. The name of the city comes from the Latvian word rēzegnis, which means "fortress". In English, Rēzeknes translates to "Fortress of Rezekne". |
-| 22 | [egils levits](http://twitter.com/search?q=egils+levits) | Egils Levits is the current President of Latvia. His name is derived from the Latvian word for eagle, "egils". The name can be translated to English as "Eagle of Law". |
+| 22 | [Egils Levits](http://twitter.com/search?q=Egils+Levits) | Egils Levits is the current President of Latvia. His name is derived from the Latvian word for eagle, and it means "eagle of justice" in English. |
 | 23 | [#1188lv](http://twitter.com/search?q=%231188lv) | #1188lv is a hashtag used on social media to show support for the Las Vegas Raiders, an American football team based in Las Vegas, Nevada. The hashtag is a combination of the team's name and the area code for Las Vegas. |
 | 24 | [Toties](http://twitter.com/search?q=Toties) | Toties is a Latin phrase meaning "in that case" or "in that instance". It is used to indicate a logical consequence of a preceding statement. |
 | 25 | [valsts](http://twitter.com/search?q=valsts) | Valsts is a Latvian word meaning "state" or "country". It is used to refer to the government of a particular nation or region. |

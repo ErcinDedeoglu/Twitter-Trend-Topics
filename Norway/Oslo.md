@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-21 01:49:39 UTC`
+📆 Last Updated: `2023-04-21 02:34:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,7 +51,7 @@ This is top 50 for [Norway](</Norway>)
 | 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 35 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
 | 36 | [$PEPE](http://twitter.com/search?q=%24PEPE) | PEPE is an internet meme that originated from a comic by artist Matt Furie in 2005. It is typically used as an expression of joy, triumph, surprise, or sarcasm. |
-| 37 | [Faktisk](http://twitter.com/search?q=Faktisk) | Faktisk is a Danish word that translates to "actually" or "in fact" in English. It is used to emphasize a statement or opinion. |
+| 37 | [faktisk](http://twitter.com/search?q=faktisk) | Faktisk is a Danish word that means "actually" or "in fact" in English. It is used to emphasize a statement or opinion. |
 | 38 | [Kyiv](http://twitter.com/search?q=Kyiv) | Kyiv is the capital of Ukraine and it is also known as Kiev. The English translation of Kyiv is "belonging to Kyi". Kyi was a legendary founder of the city. |
 | 39 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
 | 40 | [ingenting](http://twitter.com/search?q=ingenting) | Ingenting is a Swedish word meaning "nothing" in English. |

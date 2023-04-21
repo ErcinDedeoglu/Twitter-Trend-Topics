@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rostov-on-Don
 
-📆 Last Updated: `2023-04-21 01:54:13 UTC`
+📆 Last Updated: `2023-04-21 02:37:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,11 +25,11 @@ This is top 50 for [Russia](</Russia>)
 | 8 | [#Russia](http://twitter.com/search?q=%23Russia) | #Russia is a hashtag used on social media to refer to the country of Russia. It is often used to tag posts related to news, culture, and other topics related to the country. |
 | 9 | [Мунбина](http://twitter.com/search?q=%d0%9c%d1%83%d0%bd%d0%b1%d0%b8%d0%bd%d0%b0) | Мунбина is a type of traditional Russian folk dance. It is a lively, energetic dance that involves spinning and jumping. The name comes from the Russian word for "to jump". In English, it is sometimes referred to as the "Munbina Dance". |
 | 10 | [типа](http://twitter.com/search?q=%d1%82%d0%b8%d0%bf%d0%b0) | In Russian, "типа" is an informal expression that is used to mean "like" or "sort of". It can be used to indicate a comparison or to express a vague idea. In English, it would be translated as "kind of" or "sort of". |
-| 11 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | Россией is the Russian word for Russia. It is the genitive form of the noun "Russia" and is used to indicate possession or ownership. |
-| 12 | [динамо](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%be) | Динамо is a Russian word that means "dynamo" or "powerhouse". It is often used to refer to a powerful organization or team, such as a sports team. |
-| 13 | [поддерживаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | Поддерживаю is a Russian phrase meaning "I support" or "I agree". |
-| 14 | [израиль](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | Израиль (Izrail) is the Hebrew name for the country of Israel. It is derived from the Biblical figure Jacob, who was also known as Israel. |
-| 15 | [лгбт](http://twitter.com/search?q=%d0%bb%d0%b3%d0%b1%d1%82) | ЛГБТ stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
+| 11 | [динамо](http://twitter.com/search?q=%d0%b4%d0%b8%d0%bd%d0%b0%d0%bc%d0%be) | Динамо is a Russian word that means "dynamo" or "powerhouse". It is often used to refer to a powerful organization or team, such as a sports team. |
+| 12 | [поддерживаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | Поддерживаю is a Russian phrase meaning "I support" or "I agree". |
+| 13 | [израиль](http://twitter.com/search?q=%d0%b8%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | Израиль (Izrail) is the Hebrew name for the country of Israel. It is derived from the Biblical figure Jacob, who was also known as Israel. |
+| 14 | [лгбт](http://twitter.com/search?q=%d0%bb%d0%b3%d0%b1%d1%82) | ЛГБТ stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
+| 15 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | Россией is the Russian word for Russia. It is the genitive form of the noun "Russia" and is used to indicate possession or ownership. |
 | 16 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | Крым (Krym) is the Russian name for the Crimean Peninsula, a region located on the northern coast of the Black Sea in Eastern Europe. It is an autonomous republic within Ukraine, but has been annexed by Russia since 2014. The English translation of Крым is Crimea. |
 | 17 | [Европа](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b0) | Европа is the Russian word for Europe. It is derived from the Greek word Εὐρώπη, which means "wide face". In English, Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. |
 | 18 | [запада](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | Запада is a Russian word meaning "west". It is used to refer to the western part of a country or region. |
@@ -45,19 +45,19 @@ This is top 50 for [Russia](</Russia>)
 | 28 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | Антон is a Russian male name, derived from the Greek name Antonios. It is a diminutive form of the name Anton, which means "invaluable" or "priceless". In English, it is usually translated as Anthony. |
 | 29 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | Кстати is a Russian phrase that translates to "by the way" in English. It is used to introduce a new topic or comment in a conversation. |
 | 30 | [короче](http://twitter.com/search?q=%d0%ba%d0%be%d1%80%d0%be%d1%87%d0%b5) | "Короче" is a Russian expression that means "in short" or "in other words". It is used to summarize a longer explanation or to provide a simpler explanation of something. |
-| 31 | [прям](http://twitter.com/search?q=%d0%bf%d1%80%d1%8f%d0%bc) | Прям is a Russian word that means "straight" or "direct". It can be used to describe a straight line, a direct route, or an immediate action. |
-| 32 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | Зеленский is the surname of the current President of Ukraine, Volodymyr Zelensky. In English, it means "of Zelensky". |
-| 33 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | "Цска" is an abbreviation for Центральный Спортивный Клуб Армии, which translates to Central Sports Club of the Army in English. It is a professional football club based in Moscow, Russia. |
-| 34 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | Обожаю (Obozhu) is a Russian word meaning "I adore" or "I love". |
+| 31 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | Зеленский is the surname of the current President of Ukraine, Volodymyr Zelensky. In English, it means "of Zelensky". |
+| 32 | [цска](http://twitter.com/search?q=%d1%86%d1%81%d0%ba%d0%b0) | "Цска" is an abbreviation for Центральный Спортивный Клуб Армии, which translates to Central Sports Club of the Army in English. It is a professional football club based in Moscow, Russia. |
+| 33 | [Прям](http://twitter.com/search?q=%d0%9f%d1%80%d1%8f%d0%bc) | Прям is a Russian word that means "straight" or "direct". It can be used to describe a straight line, a direct route, or an immediate action. |
+| 34 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | "Обожаю" is a Russian word meaning "I love" in English. |
 | 35 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | Арсения is a female Russian given name derived from the Greek word "Arsenios", meaning "male, virile". In English, it can be translated to mean "strong and courageous". |
-| 36 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
+| 36 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | "Люблю" is a Russian verb meaning "to love". In English, it would be translated as "I love". |
 | 37 | [Жесть](http://twitter.com/search?q=%d0%96%d0%b5%d1%81%d1%82%d1%8c) | Жесть is a Russian slang word that roughly translates to "awful" or "terrible". It is used to describe something that is particularly unpleasant or shocking. |
 | 38 | [Украиной](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | Украиной is the Russian word for Ukraine. In English, it translates to Ukraine. |
 | 39 | [Самая](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%b0%d1%8f) | Самая is a Russian word that means "most" or "very". It is used to emphasize the degree of something, such as "the most beautiful" or "very important". |
 | 40 | [например](http://twitter.com/search?q=%d0%bd%d0%b0%d0%bf%d1%80%d0%b8%d0%bc%d0%b5%d1%80) | "Например" is a Russian phrase meaning "for example". It is used to introduce an example or illustration of something that has been previously mentioned. |
 | 41 | [Gmgm](http://twitter.com/search?q=Gmgm) | Gmgm is an acronym for "Good Morning, Good Morning," which is a phrase used to greet someone in the morning. |
 | 42 | [Прикольно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | Прикольно is a Russian expression that means "funny" or "amusing" in English. It is often used to express amusement or appreciation for something humorous. |
-| 43 | [согласна](http://twitter.com/search?q=%d1%81%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | "Согласна" is a Russian word meaning "agree" or "consent". It is used to express agreement or acceptance of an idea, plan, or proposal. |
+| 43 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | Согласна is a Russian word meaning "agreed" or "in agreement". It is used to indicate that someone has accepted an offer or proposal. |
 | 44 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | Понятно is a Russian phrase that translates to "Understood" or "I understand" in English. It is used to indicate that someone has comprehended what has been said or asked. |
 | 45 | [Вчера](http://twitter.com/search?q=%d0%92%d1%87%d0%b5%d1%80%d0%b0) | Вчера is a Russian word meaning "yesterday". |
 | 46 | [Завтра](http://twitter.com/search?q=%d0%97%d0%b0%d0%b2%d1%82%d1%80%d0%b0) | Завтра is a Russian word meaning "tomorrow". |
