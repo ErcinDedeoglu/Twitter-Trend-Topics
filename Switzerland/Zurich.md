@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-04-22 00:36:07 UTC`
+📆 Last Updated: `2023-04-22 01:48:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,19 +26,19 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 9 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | Teilzeit is a German word meaning "part-time". It refers to a job or work arrangement in which an employee works fewer hours than a full-time job. |
 | 10 | [#EidAlFitr](http://twitter.com/search?q=%23EidAlFitr) | #EidAlFitr is an Arabic phrase meaning "Festival of Breaking the Fast". It is a religious holiday celebrated by Muslims to mark the end of Ramadan, the Islamic holy month of fasting. |
 | 11 | [Häkchen](http://twitter.com/search?q=H%c3%a4kchen) | Häkchen is a German word that translates to "checkmark" in English. It is used to indicate that something has been selected or checked off a list. |
-| 12 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | Bâle is the French name for the Swiss city of Basel. It is located in the northwest corner of Switzerland, on the border with France and Germany. In English, it is commonly referred to as Basel. |
-| 13 | [CHSB](http://twitter.com/search?q=CHSB) | CHSB stands for the Cantonal Bank of Geneva, a Swiss bank based in Geneva, Switzerland. It is one of the largest banks in Switzerland and provides a range of financial services to both private and corporate clients. |
-| 14 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | Mbappé is the surname of French professional soccer player Kylian Mbappé. It is not an English word and does not have a direct translation. |
-| 15 | [#srfarena](http://twitter.com/search?q=%23srfarena) | #srfarena is a hashtag used on social media platforms such as Twitter and Instagram. It stands for Super Robot Fighting Arena, which is an online game where players can battle each other using robots. |
+| 12 | [#SchleFaZ](http://twitter.com/search?q=%23SchleFaZ) | #SchleFaZ is a German hashtag that translates to "bad film" in English. It is used to describe films that are of poor quality or have been poorly received by critics and audiences. |
+| 13 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | Bâle is the French name for the Swiss city of Basel. It is located in the northwest corner of Switzerland, on the border with France and Germany. In English, it is commonly referred to as Basel. |
+| 14 | [CHSB](http://twitter.com/search?q=CHSB) | CHSB stands for the Cantonal Bank of Geneva, a Swiss bank based in Geneva, Switzerland. It is one of the largest banks in Switzerland and provides a range of financial services to both private and corporate clients. |
+| 15 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | Mbappé is the surname of French professional soccer player Kylian Mbappé. It is not an English word and does not have a direct translation. |
 | 16 | [Anzeige](http://twitter.com/search?q=Anzeige) | Anzeige is a German word meaning "advertisement" or "notice". It is commonly used to refer to a notice or announcement in a newspaper, magazine, or other publication. |
 | 17 | [Botschafter](http://twitter.com/search?q=Botschafter) | Botschafter is a German word meaning "ambassador" in English. It is used to refer to someone who acts as a representative of a country or organization in another country. |
-| 18 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | Wagenknecht is a German surname. It is derived from the Middle High German words wagen (wagon) and knecht (servant). In English, it can be translated to mean "wagon servant" or "wagon attendant". |
-| 19 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | Nationalrat is the name of the lower house of the Swiss Federal Assembly, which is the legislative branch of the Swiss government. In English, it is known as the National Council. |
-| 20 | [Adolf](http://twitter.com/search?q=Adolf) | Adolf is a German name derived from the Old High German name Adalwolf, which means "noble wolf". It was a popular name in Germany during the 19th and early 20th centuries, but its popularity declined after World War II due to its association with Adolf Hitler. |
-| 21 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | Rimoldi is an Italian surname. It is derived from the Latin name Remigius, which means "oarsman". The name is also associated with the Italian word rimoldo, which means "strong and brave". |
-| 22 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 18 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 19 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | Wagenknecht is a German surname. It is derived from the Middle High German words wagen (wagon) and knecht (servant). In English, it can be translated to mean "wagon servant" or "wagon attendant". |
+| 20 | [nationalrat](http://twitter.com/search?q=nationalrat) | Nationalrat is the name of the lower house of the Swiss Federal Assembly, which is the national legislature of Switzerland. In English, it is known as the National Council. |
+| 21 | [Adolf](http://twitter.com/search?q=Adolf) | Adolf is a German name derived from the Old High German name Adalwolf, which means "noble wolf". It was a popular name in Germany during the 19th and early 20th centuries, but its popularity declined after World War II due to its association with Adolf Hitler. |
+| 22 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | Rimoldi is an Italian surname. It is derived from the Latin name Remigius, which means "oarsman". The name is also associated with the Italian word rimoldo, which means "strong and brave". |
 | 23 | [Rakete](http://twitter.com/search?q=Rakete) | Rakete is a German word that means "rocket" in English. It is used to refer to a rocket-propelled vehicle, such as a spacecraft or missile. |
-| 24 | [Rösti](http://twitter.com/search?q=R%c3%b6sti) | Rösti is a Swiss dish made of potatoes that have been grated, fried, and then formed into a flat cake. It is usually served as a side dish with meats or vegetables. In English, it is sometimes referred to as "Swiss Rosti". |
+| 24 | [rösti](http://twitter.com/search?q=r%c3%b6sti) | Rösti is a Swiss dish made of potatoes that have been grated, fried, and then formed into a flat cake. It is usually served as a side dish with meats or vegetables. In English, it is sometimes referred to as "Swiss rosti". |
 | 25 | [SpaceX](http://twitter.com/search?q=SpaceX) | SpaceX is a private American aerospace manufacturer and space transportation services company founded in 2002 by Elon Musk. The company's mission is to develop and launch advanced rockets and spacecraft to enable people to live on other planets. The name "SpaceX" is a combination of the words "space" and "exploration". |
 | 26 | [Statistik](http://twitter.com/search?q=Statistik) | Statistik is a German word that means statistics. It is the study of the collection, analysis, interpretation, and presentation of data. It is used to make informed decisions in various fields such as business, economics, and politics. In English, it is commonly referred to as "statistics". |
 | 27 | [Faudrait](http://twitter.com/search?q=Faudrait) | Faudrait is a French expression meaning "should" or "ought to." It is used to express an obligation or necessity. In English, it would be translated as "should," "ought to," or "must." |
@@ -62,7 +62,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 45 | [Jack](http://twitter.com/search?q=Jack) | In English, "Jack" is a common name for a male. It is derived from the name John, which means "God is gracious". |
 | 46 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | Vögel is a German word meaning "birds". |
 | 47 | [Rücken](http://twitter.com/search?q=R%c3%bccken) | Rücken is a German word that means "back" or "spine". It is used to refer to the back of a person or animal, as well as the back of an object. |
-| 48 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | Menschenverstand is a German word that translates to "common sense" in English. It is used to describe the ability to make sound judgments and decisions based on practicality and experience. |
+| 48 | [menschenverstand](http://twitter.com/search?q=menschenverstand) | Menschenverstand is a German word that translates to "common sense" in English. It is used to describe the ability to make sound judgments and decisions based on experience and knowledge. |
 | 49 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | Nötigung is a German word meaning coercion or intimidation. It is a criminal offense in Germany and can include physical, psychological, or economic pressure to force someone to do something against their will. |
 
 

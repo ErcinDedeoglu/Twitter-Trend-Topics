@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-22 00:36:06 UTC`
+📆 Last Updated: `2023-04-22 01:48:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,18 +24,18 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 8 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | Teilzeit is a German word meaning "part-time". It refers to a job or work arrangement in which an employee works fewer hours than a full-time job. |
 | 9 | [Häkchen](http://twitter.com/search?q=H%c3%a4kchen) | Häkchen is a German word that translates to "checkmark" in English. It is used to indicate that something has been selected or checked off a list. |
-| 10 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | Bâle is the French name for the Swiss city of Basel. It is located in the northwest corner of Switzerland, on the border with France and Germany. In English, it is commonly referred to as Basel. |
-| 11 | [CHSB](http://twitter.com/search?q=CHSB) | CHSB stands for the Cantonal Bank of Geneva, a Swiss bank based in Geneva, Switzerland. It is one of the largest banks in Switzerland and provides a range of financial services to both private and corporate clients. |
-| 12 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | Mbappé is the surname of French professional soccer player Kylian Mbappé. It is not an English word and does not have a direct translation. |
-| 13 | [Anzeige](http://twitter.com/search?q=Anzeige) | Anzeige is a German word meaning "advertisement" or "notice". It is commonly used to refer to a notice or announcement in a newspaper, magazine, or other publication. |
-| 14 | [Botschafter](http://twitter.com/search?q=Botschafter) | Botschafter is a German word meaning "ambassador" in English. It is used to refer to someone who acts as a representative of a country or organization in another country. |
+| 10 | [CHSB](http://twitter.com/search?q=CHSB) | CHSB stands for the Cantonal Bank of Geneva, a Swiss bank based in Geneva, Switzerland. It is one of the largest banks in Switzerland and provides a range of financial services to both private and corporate clients. |
+| 11 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | Mbappé is the surname of French professional soccer player Kylian Mbappé. It is not an English word and does not have a direct translation. |
+| 12 | [Anzeige](http://twitter.com/search?q=Anzeige) | Anzeige is a German word meaning "advertisement" or "notice". It is commonly used to refer to a notice or announcement in a newspaper, magazine, or other publication. |
+| 13 | [Botschafter](http://twitter.com/search?q=Botschafter) | Botschafter is a German word meaning "ambassador" in English. It is used to refer to someone who acts as a representative of a country or organization in another country. |
+| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 15 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | Wagenknecht is a German surname. It is derived from the Middle High German words wagen (wagon) and knecht (servant). In English, it can be translated to mean "wagon servant" or "wagon attendant". |
-| 16 | [Nationalrat](http://twitter.com/search?q=Nationalrat) | Nationalrat is the name of the lower house of the Swiss Federal Assembly, which is the legislative branch of the Swiss government. In English, it is known as the National Council. |
+| 16 | [nationalrat](http://twitter.com/search?q=nationalrat) | Nationalrat is the name of the lower house of the Swiss Federal Assembly, which is the national legislature of Switzerland. In English, it is known as the National Council. |
 | 17 | [Adolf](http://twitter.com/search?q=Adolf) | Adolf is a German name derived from the Old High German name Adalwolf, which means "noble wolf". It was a popular name in Germany during the 19th and early 20th centuries, but its popularity declined after World War II due to its association with Adolf Hitler. |
 | 18 | [Rimoldi](http://twitter.com/search?q=Rimoldi) | Rimoldi is an Italian surname. It is derived from the Latin name Remigius, which means "oarsman". The name is also associated with the Italian word rimoldo, which means "strong and brave". |
-| 19 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 19 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | Bâle is the French name for the Swiss city of Basel. It is located in the northwest corner of Switzerland, on the border with France and Germany. In English, it is commonly referred to as Basel. |
 | 20 | [Rakete](http://twitter.com/search?q=Rakete) | Rakete is a German word that means "rocket" in English. It is used to refer to a rocket-propelled vehicle, such as a spacecraft or missile. |
-| 21 | [Rösti](http://twitter.com/search?q=R%c3%b6sti) | Rösti is a Swiss dish made of potatoes that have been grated, fried, and then formed into a flat cake. It is usually served as a side dish with meats or vegetables. In English, it is sometimes referred to as "Swiss Rosti". |
+| 21 | [rösti](http://twitter.com/search?q=r%c3%b6sti) | Rösti is a Swiss dish made of potatoes that have been grated, fried, and then formed into a flat cake. It is usually served as a side dish with meats or vegetables. In English, it is sometimes referred to as "Swiss rosti". |
 | 22 | [SpaceX](http://twitter.com/search?q=SpaceX) | SpaceX is a private American aerospace manufacturer and space transportation services company founded in 2002 by Elon Musk. The company's mission is to develop and launch advanced rockets and spacecraft to enable people to live on other planets. The name "SpaceX" is a combination of the words "space" and "exploration". |
 | 23 | [Statistik](http://twitter.com/search?q=Statistik) | Statistik is a German word that means statistics. It is the study of the collection, analysis, interpretation, and presentation of data. It is used to make informed decisions in various fields such as business, economics, and politics. In English, it is commonly referred to as "statistics". |
 | 24 | [Faudrait](http://twitter.com/search?q=Faudrait) | Faudrait is a French expression meaning "should" or "ought to." It is used to express an obligation or necessity. In English, it would be translated as "should," "ought to," or "must." |
@@ -59,7 +59,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 42 | [Jack](http://twitter.com/search?q=Jack) | In English, "Jack" is a common name for a male. It is derived from the name John, which means "God is gracious". |
 | 43 | [Vögel](http://twitter.com/search?q=V%c3%b6gel) | Vögel is a German word meaning "birds". |
 | 44 | [Rücken](http://twitter.com/search?q=R%c3%bccken) | Rücken is a German word that means "back" or "spine". It is used to refer to the back of a person or animal, as well as the back of an object. |
-| 45 | [Menschenverstand](http://twitter.com/search?q=Menschenverstand) | Menschenverstand is a German word that translates to "common sense" in English. It is used to describe the ability to make sound judgments and decisions based on practicality and experience. |
+| 45 | [menschenverstand](http://twitter.com/search?q=menschenverstand) | Menschenverstand is a German word that translates to "common sense" in English. It is used to describe the ability to make sound judgments and decisions based on experience and knowledge. |
 | 46 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | Nötigung is a German word meaning coercion or intimidation. It is a criminal offense in Germany and can include physical, psychological, or economic pressure to force someone to do something against their will. |
 | 47 | [NATO](http://twitter.com/search?q=NATO) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. Its purpose is to protect the freedom and security of its member states by providing collective defense against aggression from any external source. |
 
