@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-04-22 04:21:35 UTC`
+📆 Last Updated: `2023-04-22 05:19:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [rakowem](http://twitter.com/search?q=rakowem) | Rakowem is a Polish word that means "by the grace of God." It is often used as an expression of gratitude or appreciation. |
+| 1 | [Rakowem](http://twitter.com/search?q=Rakowem) | Rakowem is a Polish word that means "for me". It is used to express ownership or possession. |
 | 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | #wtylewizji is a Polish hashtag that translates to "style wizard" in English. It is used to refer to someone who has an eye for fashion and style. |
 | 3 | [#WARLEG](http://twitter.com/search?q=%23WARLEG) | #WARLEG is an acronym for "We Are Ready to Lead, Engage, and Grow." It is a hashtag used to promote the idea of being prepared to take on leadership roles, engage with others, and grow as individuals. |
 | 4 | [#czegor](http://twitter.com/search?q=%23czegor) | #Czegor is a hashtag used on social media platforms such as Twitter and Instagram to indicate content related to the Polish language. It is derived from the Polish word “czego”, which means “what”. |
@@ -24,46 +24,46 @@ This is top 50 for [Poland](</Poland>)
 | 7 | [Engelking](http://twitter.com/search?q=Engelking) | Engelking is a German surname. It is derived from the German word "Engel," which means angel, and "king," which means ruler. In English, Engelking can be translated to mean "angel ruler." |
 | 8 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | Żydów is a Polish word meaning "Jews". |
 | 9 | [Polaków](http://twitter.com/search?q=Polak%c3%b3w) | Polaków is the plural form of the Polish word "Polak," which means "Pole" or "Polish person." In English, Polaków would be translated as "Poles." |
-| 10 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 11 | [CRUSH GAME](http://twitter.com/search?q=CRUSH+GAME) | CRUSH GAME is a term used to describe a game in which two people try to win the affections of another person. It usually involves flirting, compliments, and other tactics to try and make the other person like them more than the other person. The goal is usually to get the other person to have a crush on them. |
-| 12 | [ugandy](http://twitter.com/search?q=ugandy) | Ugandy is not a real word. It does not have a meaning in English. |
-| 13 | [ochojska](http://twitter.com/search?q=ochojska) | Ochojska is a Polish surname. In English, it translates to "of the Ochojski family". |
+| 10 | [Luca](http://twitter.com/search?q=Luca) | Luca is an Italian name derived from the Latin name Lucas, which means "man from Lucania". It is also a variant of the name Luke. |
+| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 12 | [CRUSH GAME](http://twitter.com/search?q=CRUSH+GAME) | CRUSH GAME is a term used to describe a game in which two people try to win the affections of another person. It usually involves flirting, compliments, and other tactics to try and make the other person like them more than the other person. The goal is usually to get the other person to have a crush on them. |
+| 13 | [ugandy](http://twitter.com/search?q=ugandy) | Ugandy is not a real word. It does not have a meaning in English. |
 | 14 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 15 | [yoongiego](http://twitter.com/search?q=yoongiego) | Yoongiego is a Korean slang term derived from the phrase "yoongi-egeo," which translates to "What are you doing?" It is used as a greeting or to ask someone what they are up to. |
-| 16 | [Polacy](http://twitter.com/search?q=Polacy) | Polacy is the plural form of the Polish word Polak, which means "Pole" or "Polish person". In English, Polacy would be translated as "Poles". |
-| 17 | [rosołka](http://twitter.com/search?q=roso%c5%82ka) | Rosołka is a traditional Polish soup made with chicken, vegetables, and herbs. It is usually served with noodles or dumplings. In English, it is sometimes referred to as chicken broth or chicken soup. |
-| 18 | [Ugandzie](http://twitter.com/search?q=Ugandzie) | Ugandzie is a term used in the African language of Luganda, which is spoken in Uganda. It means "friend" or "companion". |
-| 19 | [magiera](http://twitter.com/search?q=magiera) | Magiera is a Polish word that means "farmer". |
-| 20 | [Żydzi](http://twitter.com/search?q=%c5%bbydzi) | Żydzi is the Polish word for Jews. In English, it means "Jews". |
-| 21 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | Club Brugge is a Belgian professional football club based in the city of Bruges. The club was founded in 1891 and currently plays in the Belgian First Division A. The name Club Brugge translates to "Club of Bruges" in English. |
-| 22 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
-| 23 | [szmyta](http://twitter.com/search?q=szmyta) | Szmyta is a Polish word that means "cleaning" or "scrubbing." It is used to describe the act of cleaning or scrubbing something. |
-| 24 | [marc gual](http://twitter.com/search?q=marc+gual) | Marc Gual is a Spanish expression that means "good luck" or "best wishes". It is often used as a way to wish someone good luck or success in a particular endeavor. |
-| 25 | [Mejzy](http://twitter.com/search?q=Mejzy) | Mejzy is a slang term used to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "hip" or "trendy". |
-| 26 | [zandberg](http://twitter.com/search?q=zandberg) | Zandberg is a Dutch surname. It is derived from the Dutch words "zand" (sand) and "berg" (mountain). The name literally translates to "sand mountain". |
-| 27 | [Suzume](http://twitter.com/search?q=Suzume) | Suzume is a Japanese word meaning "sparrow". It is also used as a name for girls in Japan. |
-| 28 | [carlitosa](http://twitter.com/search?q=carlitosa) | Carlitosa is a Spanish term of endearment used to refer to someone who is loved and cherished. In English, it can be translated to mean "darling" or "beloved". |
-| 29 | [brawo lech](http://twitter.com/search?q=brawo+lech) | "Brawo Lech" is a Polish phrase of encouragement, similar to "Bravo!" or "Well done!" in English. It literally translates to "Cheers Lech," with Lech being a popular Polish name. |
-| 30 | [płocku](http://twitter.com/search?q=p%c5%82ocku) | Płocku is a city in central Poland. It is the capital of the Masovian Voivodeship and the seat of Płock County. In English, it is pronounced "plots-koo". |
-| 31 | [kleosinie](http://twitter.com/search?q=kleosinie) | Kleosinie is a Greek word that means “glory” or “fame”. It is often used to refer to the heroic deeds of a person or group that bring them recognition and honor. |
-| 32 | [rosołek](http://twitter.com/search?q=roso%c5%82ek) | Rosołek is a traditional Polish soup made with chicken, vegetables, and herbs. It is usually served with noodles or dumplings. In English, it is sometimes referred to as chicken broth or chicken soup. |
-| 33 | [krrit](http://twitter.com/search?q=krrit) | Krrit is not a word in English. It does not have a meaning. |
-| 34 | [sobiecha](http://twitter.com/search?q=sobiecha) | Sobiecha is a Polish word that means "self-sufficient". It is used to describe someone who is able to take care of themselves and their needs without relying on others. |
-| 35 | [Ramstein](http://twitter.com/search?q=Ramstein) | Ramstein is a town in Germany located in the Rhineland-Palatinate state. The name Ramstein is derived from the German words "ram" (raven) and "Stein" (stone). In English, it can be translated to mean "Raven Stone". |
-| 36 | [Ozdoba](http://twitter.com/search?q=Ozdoba) | Ozdoba is a Polish word meaning "decoration" or "ornament". It is used to refer to something that adds beauty or visual interest to a space. |
-| 37 | [świrski](http://twitter.com/search?q=%c5%9bwirski) | Świrski is a Polish surname. It is derived from the word świr, which means "noise" or "clamor". In English, the meaning of the name is "noisy one". |
-| 38 | [thomsen](http://twitter.com/search?q=thomsen) | Thomsen is a surname of Danish origin. It is derived from the given name Thomas, which means "twin". |
-| 39 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 40 | [Warta Poznań](http://twitter.com/search?q=Warta+Pozna%c5%84) | Warta Poznań is a Polish football club based in Poznań, Poland. The name Warta means "guard" or "watch" in English, and the club's motto is "Wytrwale, Prężnie, Zwycięsko" which translates to "Persistently, Vigorously, Victorious". |
-| 41 | [pekharta](http://twitter.com/search?q=pekharta) | Pekharta is a Punjabi word that means "to remember" or "to recall". It is used to express the act of remembering something or someone. |
-| 42 | [łaskawcy](http://twitter.com/search?q=%c5%82askawcy) | "Łaskawcy" is a Polish word that means "kind" or "gracious". It is used to describe someone who is generous, compassionate, and understanding. |
-| 43 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | Ochojskiej is a Polish surname. It is derived from the word "ochojski," which means "guardian" or "protector." In English, the surname would be translated as "Guardian" or "Protector." |
+| 15 | [Polacy](http://twitter.com/search?q=Polacy) | Polacy is the plural form of the Polish word Polak, which means "Pole" or "Polish person". In English, Polacy would be translated as "Poles". |
+| 16 | [Ozdoba](http://twitter.com/search?q=Ozdoba) | Ozdoba is a Polish word meaning "decoration" or "ornament". It is used to refer to something that adds beauty or visual interest to a space. |
+| 17 | [Ochojska](http://twitter.com/search?q=Ochojska) | Ochojska is a Polish surname. It is derived from the word ochota, which means "desire" or "willingness". In English, the name could be translated as "the one who desires". |
+| 18 | [rosołka](http://twitter.com/search?q=roso%c5%82ka) | Rosołka is a traditional Polish soup made with chicken, vegetables, and herbs. It is usually served with noodles or dumplings. In English, it is sometimes referred to as chicken broth or chicken soup. |
+| 19 | [Panie Premierze](http://twitter.com/search?q=Panie+Premierze) | Panie Premierze is a Polish phrase that translates to "Mr. Prime Minister" in English. It is a formal way of addressing the Prime Minister of Poland. |
+| 20 | [Ugandzie](http://twitter.com/search?q=Ugandzie) | Ugandzie is a term used in the African language of Luganda, which is spoken in Uganda. It means "friend" or "companion". |
+| 21 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | Yoongiego is a Korean slang term that is used to describe someone who is overly obsessed with BTS member Jungkook, also known as “Jungkookie” or “Golden Maknae.” The term is derived from the combination of Jungkook’s name and the Korean word for “fanatic.” In English, it can be translated to mean “Jungkook fanatic.” |
+| 22 | [Żydzi](http://twitter.com/search?q=%c5%bbydzi) | Żydzi is the Polish word for Jews. In English, it means "Jews". |
+| 23 | [jacek magiera](http://twitter.com/search?q=jacek+magiera) | Jacek Magiera is a Polish football manager and former player. He is currently the manager of Ekstraklasa club Lech Poznań. The name Jacek Magiera translates to "Jack Magiera" in English. |
+| 24 | [Club Brugge](http://twitter.com/search?q=Club+Brugge) | Club Brugge is a Belgian professional football club based in the city of Bruges. The club was founded in 1891 and currently plays in the Belgian First Division A. The name Club Brugge translates to "Club of Bruges" in English. |
+| 25 | [szmyta](http://twitter.com/search?q=szmyta) | Szmyta is a Polish word that means "cleaning" or "scrubbing." It is used to describe the act of cleaning or scrubbing something. |
+| 26 | [marc gual](http://twitter.com/search?q=marc+gual) | Marc Gual is a Spanish expression that means "good luck" or "best wishes". It is often used as a way to wish someone good luck or success in a particular endeavor. |
+| 27 | [zandberg](http://twitter.com/search?q=zandberg) | Zandberg is a Dutch surname. It is derived from the Dutch words "zand" (sand) and "berg" (mountain). The name literally translates to "sand mountain". |
+| 28 | [Suzume](http://twitter.com/search?q=Suzume) | Suzume is a Japanese word meaning "sparrow". It is also used as a name for girls in Japan. |
+| 29 | [carlitosa](http://twitter.com/search?q=carlitosa) | Carlitosa is a Spanish term of endearment used to refer to someone who is loved and cherished. In English, it can be translated to mean "darling" or "beloved". |
+| 30 | [brawo lech](http://twitter.com/search?q=brawo+lech) | "Brawo Lech" is a Polish phrase of encouragement, similar to "Bravo!" or "Well done!" in English. It literally translates to "Cheers Lech," with Lech being a popular Polish name. |
+| 31 | [płocku](http://twitter.com/search?q=p%c5%82ocku) | Płocku is a city in central Poland. It is the capital of the Masovian Voivodeship and the seat of Płock County. In English, it is pronounced "plots-koo". |
+| 32 | [kleosinie](http://twitter.com/search?q=kleosinie) | Kleosinie is a Greek word that means “glory” or “fame”. It is often used to refer to the heroic deeds of a person or group that bring them recognition and honor. |
+| 33 | [rosołek](http://twitter.com/search?q=roso%c5%82ek) | Rosołek is a traditional Polish soup made with chicken, vegetables, and herbs. It is usually served with noodles or dumplings. In English, it is sometimes referred to as chicken broth or chicken soup. |
+| 34 | [krrit](http://twitter.com/search?q=krrit) | Krrit is not a word in English. It does not have a meaning. |
+| 35 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 36 | [sobiecha](http://twitter.com/search?q=sobiecha) | Sobiecha is a Polish word that means "self-sufficient". It is used to describe someone who is able to take care of themselves and their needs without relying on others. |
+| 37 | [Ramstein](http://twitter.com/search?q=Ramstein) | Ramstein is a town in Germany located in the Rhineland-Palatinate state. The name Ramstein is derived from the German words "ram" (raven) and "Stein" (stone). In English, it can be translated to mean "Raven Stone". |
+| 38 | [świrski](http://twitter.com/search?q=%c5%9bwirski) | Świrski is a Polish surname. It is derived from the word świr, which means "noise" or "clamor". In English, the meaning of the name is "noisy one". |
+| 39 | [thomsen](http://twitter.com/search?q=thomsen) | Thomsen is a surname of Danish origin. It is derived from the given name Thomas, which means "twin". |
+| 40 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 41 | [Warta Poznań](http://twitter.com/search?q=Warta+Pozna%c5%84) | Warta Poznań is a Polish football club based in Poznań, Poland. The name Warta means "guard" or "watch" in English, and the club's motto is "Wytrwale, Prężnie, Zwycięsko" which translates to "Persistently, Vigorously, Victorious". |
+| 42 | [pekharta](http://twitter.com/search?q=pekharta) | Pekharta is a Punjabi word that means "to remember" or "to recall". It is used to express the act of remembering something or someone. |
+| 43 | [łaskawcy](http://twitter.com/search?q=%c5%82askawcy) | "Łaskawcy" is a Polish word that means "kind" or "gracious". It is used to describe someone who is generous, compassionate, and understanding. |
 | 44 | [Soton](http://twitter.com/search?q=Soton) | Soton is an abbreviation for the University of Southampton, a public research university located in Southampton, England. |
 | 45 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 46 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | Wisła Płock is a Polish professional football club based in Płock, Poland. The club was founded in 1911 and currently plays in the Ekstraklasa, the top division of Polish football. The name Wisła means "Vistula" in English, referring to the Vistula River which runs through Płock. |
-| 47 | [grodzisku](http://twitter.com/search?q=grodzisku) | Grodzisku is a type of Polish beer made from wheat and hops. It is a light, slightly sour beer with a distinct flavor. The name comes from the town of Grodzisk Wielkopolski, where it originated. In English, it is sometimes referred to as "Polish Wheat Beer". |
-| 48 | [glapiński](http://twitter.com/search?q=glapi%c5%84ski) | Glapiński is a Polish surname. It is derived from the word glapa, which means "lump" or "clod". In English, the name Glapiński could be translated to mean "of the lump" or "of the clod". |
-| 49 | [Pliskova](http://twitter.com/search?q=Pliskova) | Pliskova is a Czech surname. It is derived from the word "plískati," which means "to splash." In English, it can be translated to mean "one who splashes." |
+| 47 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | Zbyszku is a Polish name, derived from the Slavic name Zbyszek. It is a diminutive form of the name Zbigniew, which means "one who brings peace". |
+| 48 | [Pliskova](http://twitter.com/search?q=Pliskova) | Pliskova is a Czech surname. It is derived from the word "plískati," which means "to splash." In English, it can be translated to mean "one who splashes." |
+| 49 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | Ochojskiej is a Polish surname. It is derived from the word "ochojski," which means "guardian" or "protector." In English, the surname would be translated as "Guardian" or "Protector." |
 | 50 | [glapa](http://twitter.com/search?q=glapa) | Glapa is a slang term used in some parts of the United States to describe someone who is attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. |
 
 

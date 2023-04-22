@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-22 04:21:47 UTC`
+📆 Last Updated: `2023-04-22 05:19:51 UTC`
 
 🔧 Updated every 1 hour!
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-04-22 04:31:08 UTC`
+📆 Last Updated: `2023-04-22 05:27:01 UTC`
 
 🔧 Updated every 1 hour!
 
