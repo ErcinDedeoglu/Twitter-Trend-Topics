@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-04-22 02:41:20 UTC`
+📆 Last Updated: `2023-04-22 03:29:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -57,10 +57,10 @@ This is top 50 for Ukraine
 | 40 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | Bloomberg is a global financial services, software, and media company. It provides financial software tools such as an analytics and equity trading platform, data services, and news to financial companies and organizations around the world. Bloomberg also owns and operates several media outlets, including the eponymous global business and financial news service Bloomberg News. |
 | 41 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 42 | [#USDT](http://twitter.com/search?q=%23USDT) | #USDT is an abbreviation for Tether, a cryptocurrency pegged to the US Dollar. It is a stablecoin, meaning its value is tied to the US Dollar and it can be used to store, send and receive digital assets. |
-| 43 | [киевом](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%be%d0%bc) | "Киевом" is a Russian word meaning "from Kiev". It is used to refer to something that originates from the city of Kiev, Ukraine. |
-| 44 | [Alliance](http://twitter.com/search?q=Alliance) | Alliance is a formal agreement or union between two or more parties, made in order to advance common goals and to secure common interests. In English, it is often used to refer to a political, military, or economic partnership. |
-| 45 | [Impact](http://twitter.com/search?q=Impact) | Impact is a noun that refers to the effect or influence of one thing on another. It can also refer to a strong or significant influence or effect. In other words, it is the result of an action, event, or decision. |
-| 46 | [Гойда](http://twitter.com/search?q=%d0%93%d0%be%d0%b9%d0%b4%d0%b0) | Гойда is a Russian word that means "joy" or "happiness". It is often used to express a feeling of contentment or satisfaction. |
+| 43 | [Alliance](http://twitter.com/search?q=Alliance) | Alliance is a formal agreement or union between two or more parties, made in order to advance common goals and to secure common interests. In English, it is often used to refer to a political, military, or economic partnership. |
+| 44 | [Impact](http://twitter.com/search?q=Impact) | Impact is a noun that refers to the effect or influence of one thing on another. It can also refer to a strong or significant influence or effect. In other words, it is the result of an action, event, or decision. |
+| 45 | [гойда](http://twitter.com/search?q=%d0%b3%d0%be%d0%b9%d0%b4%d0%b0) | Гойда is a Russian word that means "goodbye". |
+| 46 | [киевской руси](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d1%81%d0%ba%d0%be%d0%b9+%d1%80%d1%83%d1%81%d0%b8) | Киевская Русь (Kievan Rus) was a medieval East Slavic state that existed from the late 9th century to the mid-13th century, centered in the region around modern-day Kiev in Ukraine. It was the predecessor of the Tsardom of Russia and the Grand Duchy of Moscow. |
 | 47 | [Patriot](http://twitter.com/search?q=Patriot) | Patriot is a person who loves, supports, and defends their country and its interests with devotion. It is derived from the Latin word patria, which means "homeland". |
 | 48 | [гитлера](http://twitter.com/search?q=%d0%b3%d0%b8%d1%82%d0%bb%d0%b5%d1%80%d0%b0) | Гитлера is a Russian word for Adolf Hitler, the leader of Nazi Germany during World War II. In English, it translates to "Hitler". |
 | 49 | [русь](http://twitter.com/search?q=%d1%80%d1%83%d1%81%d1%8c) | "Русь" is an old name for the East Slavic people and their lands, which includes modern-day Russia, Ukraine, and Belarus. In English, it is sometimes translated as "Rus'". |

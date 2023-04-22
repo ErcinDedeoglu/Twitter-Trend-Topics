@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-22 02:34:57 UTC`
+📆 Last Updated: `2023-04-22 03:21:43 UTC`
 
 🔧 Updated every 1 hour!
 

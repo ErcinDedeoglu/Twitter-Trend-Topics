@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-22 02:40:51 UTC`
+📆 Last Updated: `2023-04-22 03:28:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,8 +51,8 @@ This is top 50 for Lebanon
 | 34 | [هلال العيد](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | هلال العيد is an Arabic phrase meaning "Eid Crescent". It is used to refer to the crescent moon that appears in the sky at the start of the Islamic month of Ramadan, which marks the beginning of Eid al-Fitr. |
 | 35 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | شهر رمضان (pronounced "Shahr Ramadan") is an Arabic phrase meaning "the month of Ramadan". Ramadan is the ninth month of the Islamic calendar, and is a time of fasting, prayer, reflection and community for Muslims around the world. |
 | 36 | [علي الخامنيي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d9%86%d9%8a%d9%8a) | "علي الخامنيي" is an Arabic phrase that translates to "Long live Khamenei," referring to Ali Khamenei, the Supreme Leader of Iran. |
-| 37 | [تيم حسن](http://twitter.com/search?q=%d8%aa%d9%8a%d9%85+%d8%ad%d8%b3%d9%86) | تيم حسن is an Arabic phrase that translates to "Team Hassan" in English. It is typically used to refer to a group of people working together on a project or task. |
-| 38 | [محمد حسين](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%ad%d8%b3%d9%8a%d9%86) | محمد حسين is an Arabic name, and it translates to English as "Muhammad Hussein". |
+| 37 | [محمد حسين](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%ad%d8%b3%d9%8a%d9%86) | محمد حسين is an Arabic name, and it translates to English as "Muhammad Hussein". |
+| 38 | [تيم حسن](http://twitter.com/search?q=%d8%aa%d9%8a%d9%85+%d8%ad%d8%b3%d9%86) | تيم حسن is an Arabic phrase that translates to "Team Hassan" in English. It is typically used to refer to a group of people working together on a project or task. |
 | 39 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | فرنسا is the French word for France. It is the name of the country located in Western Europe. |
 | 40 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
 | 41 | [الهييات الاقتصاديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%82%d8%aa%d8%b5%d8%a7%d8%af%d9%8a%d9%87) | الهييات الاقتصاديه is an Arabic phrase that translates to "economic entities" in English. It refers to organizations, businesses, or other entities that are involved in economic activities. |

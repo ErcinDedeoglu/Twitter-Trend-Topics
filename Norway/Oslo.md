@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-04-22 02:34:58 UTC`
+📆 Last Updated: `2023-04-22 03:21:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,14 +32,14 @@ This is top 50 for [Norway](</Norway>)
 | 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 16 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 | 17 | [Emirates](http://twitter.com/search?q=Emirates) | Emirates is the name of a major airline based in Dubai, United Arab Emirates. The word "emirates" is derived from the Arabic word "imarat," which means "state" or "country." |
-| 18 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 19 | [SpaceX](http://twitter.com/search?q=SpaceX) | SpaceX is a private American aerospace manufacturer and space transportation services company founded in 2002 by Elon Musk. The company's mission is to develop and launch advanced rockets and spacecraft to enable people to live on other planets. The name "SpaceX" is a combination of the words "space" and "exploration". |
-| 20 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | Rødt is a Norwegian political party that stands for socialism, democracy, and environmentalism. In English, it translates to "Red". |
-| 21 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
-| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | The UEFA Europa League is an annual football club competition organized by UEFA since 1971 for eligible European football clubs. It is the second-tier competition of European club football, ranking below the UEFA Champions League. The title has been won by 28 different clubs, 12 of which have won the title more than once. The most successful club in the competition is Sevilla, with five titles. |
-| 23 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 24 | [stenseng](http://twitter.com/search?q=stenseng) | Stenseng is a Norwegian word meaning "shelter" or "refuge". It is often used to refer to a place of safety or protection. |
-| 25 | [Happy 420](http://twitter.com/search?q=Happy+420) | Happy 420 is a slang phrase used to celebrate the consumption of cannabis, particularly on April 20th (4/20). It is often used as a greeting or salutation among cannabis users. |
+| 18 | [SpaceX](http://twitter.com/search?q=SpaceX) | SpaceX is a private American aerospace manufacturer and space transportation services company founded in 2002 by Elon Musk. The company's mission is to develop and launch advanced rockets and spacecraft to enable people to live on other planets. The name "SpaceX" is a combination of the words "space" and "exploration". |
+| 19 | [rødt](http://twitter.com/search?q=r%c3%b8dt) | Rødt is a Norwegian word meaning "red". |
+| 20 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
+| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | The UEFA Europa League is an annual football club competition organized by UEFA since 1971 for eligible European football clubs. It is the second-tier competition of European club football, ranking below the UEFA Champions League. The title has been won by 28 different clubs, 12 of which have won the title more than once. The most successful club in the competition is Sevilla, with five titles. |
+| 22 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
+| 23 | [stenseng](http://twitter.com/search?q=stenseng) | Stenseng is a Norwegian word meaning "shelter" or "refuge". It is often used to refer to a place of safety or protection. |
+| 24 | [Happy 420](http://twitter.com/search?q=Happy+420) | Happy 420 is a slang phrase used to celebrate the consumption of cannabis, particularly on April 20th (4/20). It is often used as a greeting or salutation among cannabis users. |
+| 25 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 26 | [#AgustD_DDAY](http://twitter.com/search?q=%23AgustD_DDAY) | #AgustD_DDAY is a hashtag used by fans of the South Korean rapper Agust D (also known as Suga of the K-pop group BTS). The hashtag is used to celebrate the release of Agust D's new music, and it stands for "Agust D Debut Day". |
 | 27 | [Kaski](http://twitter.com/search?q=Kaski) | Kaski is a Finnish word meaning "shield". It is often used to refer to a protective barrier or layer of protection. |
 | 28 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |

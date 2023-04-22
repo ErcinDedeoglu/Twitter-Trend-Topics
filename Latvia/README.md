@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-22 02:40:51 UTC`
+📆 Last Updated: `2023-04-22 03:28:54 UTC`
 
 🔧 Updated every 1 hour!
 

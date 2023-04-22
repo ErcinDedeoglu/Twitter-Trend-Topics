@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-04-22 02:40:12 UTC`
+📆 Last Updated: `2023-04-22 03:28:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -56,14 +56,14 @@ This is top 50 for Algeria
 | 39 | [Que Dieu](http://twitter.com/search?q=Que+Dieu) | "Que Dieu" is a French phrase that translates to "May God" in English. It is used as an expression of hope or a wish for something to happen. |
 | 40 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | حفيظ (ḥifīẓ) is an Arabic word meaning "to remember" or "to memorize". It is often used to refer to the memorization of the Quran. |
 | 41 | [الامه الجزايريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a%d9%87) | الامه الجزايريه is an Arabic phrase meaning "Algerian Family". It is used to refer to a family of Algerian origin or descent. |
-| 42 | [محمد الخامس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | محمد الخامس is an Arabic phrase that translates to "Muhammad the Fifth". It is a title given to the fifth Caliph of Islam, Muhammad ibn Abu Bakr. |
-| 43 | [J'adore](http://twitter.com/search?q=J%27adore) | J'adore is a French phrase meaning "I love" or "I adore". It is used to express strong feelings of admiration, affection, or appreciation. |
+| 42 | [J'adore](http://twitter.com/search?q=J%27adore) | J'adore is a French phrase meaning "I love" or "I adore". It is used to express strong feelings of admiration, affection, or appreciation. |
+| 43 | [محمد الخامس](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | محمد الخامس is an Arabic phrase that translates to "Muhammad the Fifth". It is a title given to the fifth Caliph of Islam, Muhammad ibn Abu Bakr. |
 | 44 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 45 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | حمزة is an Arabic name that means "dove" in English. |
-| 46 | [ساير الاعمال](http://twitter.com/search?q=%d8%b3%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | ساير الاعمال is an Arabic phrase that translates to "other works" or "other activities" in English. It is used to refer to any other tasks or activities that are not specifically mentioned. |
-| 47 | [العين المجرده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d8%af%d9%87) | العين المجرده is an Arabic phrase that translates to "the single eye" and is used to refer to a person who is wise and has insight into the world. |
-| 48 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | عيد الاضحي is the Islamic holiday of Eid al-Adha, which is also known as the Festival of Sacrifice. It is celebrated by Muslims around the world to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son Ishmael as an act of obedience to God's command. The holiday lasts for four days and is marked by special prayers, feasting, and the exchange of gifts. In English, it is known as the Feast of Sacrifice. |
-| 49 | [الحلقه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | الحلقه الاخيره is a phrase in Arabic which translates to "the last episode" in English. It is used to refer to the final episode of a television series or other form of media. |
+| 45 | [الحلقه الاخيره](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%84%d9%82%d9%87+%d8%a7%d9%84%d8%a7%d8%ae%d9%8a%d8%b1%d9%87) | الحلقه الاخيره is a phrase in Arabic which translates to "the last episode" in English. It is used to refer to the final episode of a television series or other form of media. |
+| 46 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | حمزة is an Arabic name that means "dove" in English. |
+| 47 | [ساير الاعمال](http://twitter.com/search?q=%d8%b3%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | ساير الاعمال is an Arabic phrase that translates to "other works" or "other activities" in English. It is used to refer to any other tasks or activities that are not specifically mentioned. |
+| 48 | [العين المجرده](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%ac%d8%b1%d8%af%d9%87) | العين المجرده is an Arabic phrase that translates to "the single eye" and is used to refer to a person who is wise and has insight into the world. |
+| 49 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | عيد الاضحي is the Islamic holiday of Eid al-Adha, which is also known as the Festival of Sacrifice. It is celebrated by Muslims around the world to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son Ishmael as an act of obedience to God's command. The holiday lasts for four days and is marked by special prayers, feasting, and the exchange of gifts. In English, it is known as the Feast of Sacrifice. |
 | 50 | [Mercii](http://twitter.com/search?q=Mercii) | Mercii is a French expression of gratitude or appreciation. In English, it translates to "Thank you" or "Thanks". |
 
 

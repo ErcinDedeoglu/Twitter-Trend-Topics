@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-04-22 02:34:00 UTC`
+📆 Last Updated: `2023-04-22 03:20:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WARLEG](http://twitter.com/search?q=%23WARLEG) | #WARLEG is an acronym for "We Are Ready to Lead, Engage, and Grow." It is a hashtag used to promote the idea of being prepared to take on leadership roles, engage with others, and grow as individuals. |
-| 2 | [#CZEGOR](http://twitter.com/search?q=%23CZEGOR) | #CZEGOR is a hashtag used on social media to promote the Polish language. It stands for "Czytaj, Zgłębiaj, Edukuj, Gramatykuj, Odbudowuj, Rozwijaj" which translates to "Read, Explore, Educate, Grammarize, Rebuild, Develop". |
+| 2 | [#czegor](http://twitter.com/search?q=%23czegor) | #Czegor is a hashtag used on social media platforms such as Twitter and Instagram to indicate content related to the Polish language. It is derived from the Polish word “czego”, which means “what”. |
 | 3 | [#WPŁJAG](http://twitter.com/search?q=%23WP%c5%81JAG) | #WPŁJAG is an acronym for Wszystko Przed Nami, Jesteśmy Gotowi (Everything Ahead of Us, We Are Ready). It is a popular Polish phrase used to express optimism and enthusiasm for the future. |
 | 4 | [#acflpo](http://twitter.com/search?q=%23acflpo) | #acflpo is an acronym for "Always Choose Fun Loving Positive Outcomes". It is a reminder to always focus on the positive and look for fun and enjoyable outcomes in any situation. |
 | 5 | [#ARSSOU](http://twitter.com/search?q=%23ARSSOU) | #ARSSOU is an acronym for the French phrase "A Rien Sans Son Ou Son". It translates to "Nothing Without His or Her". It is often used to express support for someone who is going through a difficult time. |
@@ -26,7 +26,7 @@ This is top 50 for [Poland](</Poland>)
 | 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 10 | [CRUSH GAME](http://twitter.com/search?q=CRUSH+GAME) | CRUSH GAME is a term used to describe a game in which two people try to win the affections of another person. It usually involves flirting, compliments, and other tactics to try and make the other person like them more than the other person. The goal is usually to get the other person to have a crush on them. |
 | 11 | [ugandy](http://twitter.com/search?q=ugandy) | Ugandy is not a real word. It does not have a meaning in English. |
-| 12 | [Ochojska](http://twitter.com/search?q=Ochojska) | Ochojska is a Polish surname. It is derived from the word ochota, which means "desire" or "willingness". In English, the name could be translated as "the one who desires". |
+| 12 | [ochojska](http://twitter.com/search?q=ochojska) | Ochojska is a Polish surname. In English, it translates to "of the Ochojski family". |
 | 13 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 14 | [Yoongiego](http://twitter.com/search?q=Yoongiego) | Yoongiego is a Korean slang term that is used to describe someone who is overly obsessed with BTS member Jungkook, also known as “Jungkookie” or “Golden Maknae.” The term is derived from the combination of Jungkook’s name and the Korean word for “fanatic.” In English, it can be translated to mean “Jungkook fanatic.” |
 | 15 | [Eid Mubarak](http://twitter.com/search?q=Eid+Mubarak) | Eid Mubarak is an Arabic phrase that translates to “blessed celebration” in English. It is a traditional Muslim greeting used to celebrate the end of Ramadan, the Islamic holy month of fasting. |
@@ -46,24 +46,24 @@ This is top 50 for [Poland](</Poland>)
 | 29 | [płocku](http://twitter.com/search?q=p%c5%82ocku) | Płocku is a city in central Poland. It is the capital of the Masovian Voivodeship and the seat of Płock County. In English, it is pronounced "plots-koo". |
 | 30 | [kleosinie](http://twitter.com/search?q=kleosinie) | Kleosinie is a Greek word that means “glory” or “fame”. It is often used to refer to the heroic deeds of a person or group that bring them recognition and honor. |
 | 31 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | Rosołek is a traditional Polish soup made with chicken, vegetables, and broth. It is often served with noodles or dumplings. In English, it is sometimes referred to as "chicken soup". |
-| 32 | [KRRiT](http://twitter.com/search?q=KRRiT) | KRRiT stands for the National Centre for Research and Development, which is a Polish government agency responsible for supporting research and development in the country. The acronym stands for Krajowy Punkt Kontaktowy Programów Badawczych (National Contact Point for Research Programs). |
+| 32 | [krrit](http://twitter.com/search?q=krrit) | Krrit is not a word in English. It does not have a meaning. |
 | 33 | [sobiecha](http://twitter.com/search?q=sobiecha) | Sobiecha is a Polish word that means "self-sufficient". It is used to describe someone who is able to take care of themselves and their needs without relying on others. |
 | 34 | [Ramstein](http://twitter.com/search?q=Ramstein) | Ramstein is a town in Germany located in the Rhineland-Palatinate state. The name Ramstein is derived from the German words "ram" (raven) and "Stein" (stone). In English, it can be translated to mean "Raven Stone". |
 | 35 | [świrski](http://twitter.com/search?q=%c5%9bwirski) | Świrski is a Polish surname. It is derived from the word świr, which means "noise" or "clamor". In English, the meaning of the name is "noisy one". |
 | 36 | [thomsen](http://twitter.com/search?q=thomsen) | Thomsen is a surname of Danish origin. It is derived from the given name Thomas, which means "twin". |
 | 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 38 | [pekharta](http://twitter.com/search?q=pekharta) | Pekharta is a Punjabi word that means "to remember" or "to recall". It is used to express the act of remembering something or someone. |
-| 39 | [łaskawcy](http://twitter.com/search?q=%c5%82askawcy) | "Łaskawcy" is a Polish word that means "kind" or "gracious". It is used to describe someone who is generous, compassionate, and understanding. |
-| 40 | [Ozdoba](http://twitter.com/search?q=Ozdoba) | Ozdoba is a Polish word meaning "decoration" or "ornament". It is used to refer to something that adds beauty or visual interest to a space. |
-| 41 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | Ochojskiej is a Polish surname. It is derived from the word "ochojski," which means "guardian" or "protector." In English, the surname would be translated as "Guardian" or "Protector." |
-| 42 | [Soton](http://twitter.com/search?q=Soton) | Soton is an abbreviation for the University of Southampton, a public research university located in Southampton, England. |
-| 43 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 44 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | Wisła Płock is a Polish professional football club based in Płock, Poland. The club was founded in 1911 and currently plays in the Ekstraklasa, the top division of Polish football. The name Wisła means "Vistula" in English, referring to the Vistula River which runs through Płock. |
-| 45 | [Grodzisku](http://twitter.com/search?q=Grodzisku) | Grodzisku is a type of Polish beer that is made from wheat and oak-smoked malt. The name comes from the town of Grodzisk Wielkopolski, where the beer originated. In English, it translates to "Grodzisk Beer". |
-| 46 | [glapiński](http://twitter.com/search?q=glapi%c5%84ski) | Glapiński is a Polish surname. It is derived from the word glapa, which means "lump" or "clod". In English, the name Glapiński could be translated to mean "of the lump" or "of the clod". |
-| 47 | [Klub Jagielloński](http://twitter.com/search?q=Klub+Jagiello%c5%84ski) | Klub Jagielloński is a Polish political and cultural organization founded in 1885. Its name is derived from the Jagiellonian dynasty, which ruled Poland from 1386 to 1572. The organization's mission is to promote Polish culture and traditions, as well as to foster dialogue between different political and social groups in Poland. In English, Klub Jagielloński translates to "Jagiellonian Club". |
+| 38 | [Warta Poznań](http://twitter.com/search?q=Warta+Pozna%c5%84) | Warta Poznań is a Polish football club based in Poznań, Poland. The name Warta means "guard" or "watch" in English, and the club's motto is "Wytrwale, Prężnie, Zwycięsko" which translates to "Persistently, Vigorously, Victorious". |
+| 39 | [pekharta](http://twitter.com/search?q=pekharta) | Pekharta is a Punjabi word that means "to remember" or "to recall". It is used to express the act of remembering something or someone. |
+| 40 | [łaskawcy](http://twitter.com/search?q=%c5%82askawcy) | "Łaskawcy" is a Polish word that means "kind" or "gracious". It is used to describe someone who is generous, compassionate, and understanding. |
+| 41 | [Ozdoba](http://twitter.com/search?q=Ozdoba) | Ozdoba is a Polish word meaning "decoration" or "ornament". It is used to refer to something that adds beauty or visual interest to a space. |
+| 42 | [Ochojskiej](http://twitter.com/search?q=Ochojskiej) | Ochojskiej is a Polish surname. It is derived from the word "ochojski," which means "guardian" or "protector." In English, the surname would be translated as "Guardian" or "Protector." |
+| 43 | [Soton](http://twitter.com/search?q=Soton) | Soton is an abbreviation for the University of Southampton, a public research university located in Southampton, England. |
+| 44 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
+| 45 | [wisła płock](http://twitter.com/search?q=wis%c5%82a+p%c5%82ock) | Wisła Płock is a Polish professional football club based in Płock, Poland. The club was founded in 1911 and currently plays in the Ekstraklasa, the top division of Polish football. The name Wisła means "Vistula" in English, referring to the Vistula River which runs through Płock. |
+| 46 | [grodzisku](http://twitter.com/search?q=grodzisku) | Grodzisku is a type of Polish beer made from wheat and hops. It is a light, slightly sour beer with a distinct flavor. The name comes from the town of Grodzisk Wielkopolski, where it originated. In English, it is sometimes referred to as "Polish Wheat Beer". |
+| 47 | [glapiński](http://twitter.com/search?q=glapi%c5%84ski) | Glapiński is a Polish surname. It is derived from the word glapa, which means "lump" or "clod". In English, the name Glapiński could be translated to mean "of the lump" or "of the clod". |
 | 48 | [Pliskova](http://twitter.com/search?q=Pliskova) | Pliskova is a Czech surname. It is derived from the word "plískati," which means "to splash." In English, it can be translated to mean "one who splashes." |
-| 49 | [Glapa](http://twitter.com/search?q=Glapa) | Glapa is a slang term used in some parts of the United States to refer to someone who is attractive or good-looking. It can also be used as a term of endearment. In English, it would be translated as "hottie" or "cutie". |
+| 49 | [glapa](http://twitter.com/search?q=glapa) | Glapa is a slang term used in some parts of the United States to describe someone who is attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. |
 
 
 

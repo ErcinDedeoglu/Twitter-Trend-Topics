@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-22 02:40:13 UTC`
+📆 Last Updated: `2023-04-22 03:28:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,12 +21,12 @@ This is top 50 for Austria
 | 4 | [Eid Mubarak](http://twitter.com/search?q=Eid+Mubarak) | Eid Mubarak is an Arabic phrase that translates to “blessed celebration” in English. It is a traditional Muslim greeting used to celebrate the end of Ramadan, the Islamic holy month of fasting. |
 | 5 | [#ARSSOU](http://twitter.com/search?q=%23ARSSOU) | #ARSSOU is an acronym for the French phrase "A Rien Sans Son Ou Son". It translates to "Nothing Without His or Her". It is often used to express support for someone who is going through a difficult time. |
 | 6 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 7 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | Gesundheitsminister is a German word meaning "Health Minister". It is the title given to the minister responsible for health policy in Germany. |
-| 8 | [#sknadm](http://twitter.com/search?q=%23sknadm) | #sknadm is an abbreviation for the Swedish National Administration of Medicine. It is a government agency responsible for the regulation and supervision of medical products, services, and activities in Sweden. |
-| 9 | [#Gesundheitssystem](http://twitter.com/search?q=%23Gesundheitssystem) | Gesundheitssystem is a German word that translates to "health system" in English. It refers to the system of health care services, organizations, and institutions that provide medical care to individuals and populations. |
+| 7 | [#sknadm](http://twitter.com/search?q=%23sknadm) | #sknadm is an abbreviation for the Swedish National Administration of Medicine. It is a government agency responsible for the regulation and supervision of medical products, services, and activities in Sweden. |
+| 8 | [#Gesundheitssystem](http://twitter.com/search?q=%23Gesundheitssystem) | Gesundheitssystem is a German word that translates to "health system" in English. It refers to the system of health care services, organizations, and institutions that provide medical care to individuals and populations. |
+| 9 | [Gesundheitsminister](http://twitter.com/search?q=Gesundheitsminister) | Gesundheitsminister is a German word meaning "Health Minister". It is the title given to the minister responsible for health policy in Germany. |
 | 10 | [eiernockerl](http://twitter.com/search?q=eiernockerl) | Eiernockerl is an Austrian dish made of egg dumplings. It is usually served as a side dish with a sauce or gravy. The literal translation of Eiernockerl in English is "egg dumplings". |
 | 11 | [#letsdance](http://twitter.com/search?q=%23letsdance) | #letsdance is an expression used to encourage someone to start dancing. It is often used as a hashtag on social media platforms such as Twitter and Instagram. |
-| 12 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | "Schönen Urlaub" is a German phrase that translates to "Have a nice vacation" in English. It is a common phrase used to wish someone a pleasant and enjoyable holiday. |
+| 12 | [schönen urlaub](http://twitter.com/search?q=sch%c3%b6nen+urlaub) | "Schönen urlaub" is a German phrase that translates to "have a nice vacation" in English. It is a common way to wish someone a pleasant holiday. |
 | 13 | [wiederbetätigung](http://twitter.com/search?q=wiederbet%c3%a4tigung) | Wiederbetätigung is a German word that translates to "reactivation" in English. It is used to describe the process of reactivating something that has been inactive or dormant. |
 | 14 | [hakerl](http://twitter.com/search?q=hakerl) | Hakerl is a slang term used in Austria and Germany to refer to someone who is a bit of a slacker or goof-off. It can also be used to describe someone who is lazy or irresponsible. In English, it could be translated as "slacker" or "lazybones". |
 | 15 | [Petition](http://twitter.com/search?q=Petition) | Petition is a formal written request made to an official person or organization, typically containing many signatures of people who support the request. It is usually used to ask for some kind of action or change in policy. |
@@ -40,10 +40,10 @@ This is top 50 for Austria
 | 23 | [Überlastung](http://twitter.com/search?q=%c3%9cberlastung) | Überlastung is a German word that translates to "overload" in English. It is used to describe a situation where something has been overloaded with too much work or responsibility. |
 | 24 | [Kapital](http://twitter.com/search?q=Kapital) | Kapital is a German word that means capital or money. It is used to refer to financial resources, such as cash, investments, and other assets. It can also refer to the wealth of a person or company. |
 | 25 | [preissteigerungen](http://twitter.com/search?q=preissteigerungen) | Preissteigerungen is a German word meaning "price increases". It is used to refer to the process of prices going up over time. |
-| 26 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | Wiener Zeitung is an Austrian newspaper that has been published since 1703. It is the oldest daily newspaper in the world still in publication. The name translates to "Vienna Newspaper" in English. |
+| 26 | [wiener zeitung](http://twitter.com/search?q=wiener+zeitung) | Wiener Zeitung is an Austrian newspaper that has been published since 1703. It is the oldest continuously published newspaper in the world. The name translates to "Vienna Newspaper" in English. |
 | 27 | [Käse](http://twitter.com/search?q=K%c3%a4se) | Käse is the German word for cheese. |
 | 28 | [Reich](http://twitter.com/search?q=Reich) | Reich is a German word meaning "realm" or "empire". It is most commonly used to refer to the German Empire (1871-1918) and the Third Reich (1933-1945). |
-| 29 | [Parteitag](http://twitter.com/search?q=Parteitag) | Parteitag is a German word meaning "party conference" or "party convention." It is used to refer to a meeting of members of a political party, usually to discuss policy and strategy. |
+| 29 | [parteitag](http://twitter.com/search?q=parteitag) | Parteitag is a German word meaning "party conference" or "party convention." It is used to refer to a meeting of members of a political party, usually held to discuss policy and strategy. |
 | 30 | [Projekte](http://twitter.com/search?q=Projekte) | Projekte is a German word that translates to "projects" in English. It is used to refer to any type of project, such as a business project, research project, or creative project. |
 | 31 | [Happy Eid](http://twitter.com/search?q=Happy+Eid) | Happy Eid is a traditional greeting used to celebrate the Islamic holiday of Eid al-Fitr. It is typically said to wish someone a joyous and blessed celebration. In English, it translates to "Have a happy and blessed Eid!" |
 | 32 | [traiskirchen](http://twitter.com/search?q=traiskirchen) | Traiskirchen is a municipality in Lower Austria, located about 25 km south of Vienna. The name Traiskirchen is derived from the German words "Trais" (three) and "Kirche" (church), referring to the three churches that were built in the area in the Middle Ages. In English, Traiskirchen means "Three Churches". |
@@ -55,16 +55,16 @@ This is top 50 for Austria
 | 38 | [parteiaccount](http://twitter.com/search?q=parteiaccount) | Parteiaccount is a German term for a political party's bank account. It is used to collect donations and manage the financial resources of the party. In English, it can be translated as "party account". |
 | 39 | [Musk](http://twitter.com/search?q=Musk) | Musk is a strong-smelling substance that is produced by certain animals, such as the musk deer, and used in perfumes and medicines. In English, the word "musk" can also refer to a pleasant smell or aroma. |
 | 40 | [Lehrerin](http://twitter.com/search?q=Lehrerin) | Lehrerin is a German word meaning "teacher (female)." It is the feminine form of the word Lehrer, which means "teacher (male)." |
-| 41 | [NATO](http://twitter.com/search?q=NATO) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. Its purpose is to protect the freedom and security of its member states by providing collective defense against aggression from any external source. |
-| 42 | [schlapfen](http://twitter.com/search?q=schlapfen) | Schlapfen is a German word that means to slap or to hit. It is usually used in the context of someone slapping or hitting someone else. |
-| 43 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | Hausarzt is a German word meaning "family doctor" or "general practitioner". It is used to refer to a doctor who provides primary care services to patients in their own home or in a clinic. |
-| 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 45 | [tracht](http://twitter.com/search?q=tracht) | Tracht is a German word that refers to traditional clothing, usually associated with a particular region or culture. In English, it is often translated as "costume" or "outfit". |
-| 46 | [moonbin](http://twitter.com/search?q=moonbin) | Moonbin is a Korean name that means “bright and clear”. It is derived from the words “moon” and “bin”, which mean “bright” and “clear” respectively. The name is often given to boys in Korea, but can also be used for girls. |
-| 47 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
-| 48 | [Jaaa](http://twitter.com/search?q=Jaaa) | Jaaa is an expression of surprise, excitement, or enthusiasm. It is often used as an exclamation to express joy or approval. In English, it could be translated as "Yay!" or "Woohoo!" |
-| 49 | [Rakete](http://twitter.com/search?q=Rakete) | Rakete is a German word that means "rocket" in English. It is used to refer to a rocket-propelled vehicle, such as a spacecraft or missile. |
-| 50 | [Schick](http://twitter.com/search?q=Schick) | Schick is a German word meaning "elegant" or "stylish". It is often used to describe someone or something that is fashionable and well-groomed. |
+| 41 | [schlapfen](http://twitter.com/search?q=schlapfen) | Schlapfen is a German word that means to slap or to hit. It is usually used in the context of someone slapping or hitting someone else. |
+| 42 | [hausarzt](http://twitter.com/search?q=hausarzt) | Hausarzt is a German word meaning "family doctor" or "general practitioner". It is used to refer to a doctor who provides primary care services for an individual or family. |
+| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 44 | [tracht](http://twitter.com/search?q=tracht) | Tracht is a German word that refers to traditional clothing, usually associated with a particular region or culture. In English, it is often translated as "costume" or "outfit". |
+| 45 | [moonbin](http://twitter.com/search?q=moonbin) | Moonbin is a Korean name that means “bright and clear”. It is derived from the words “moon” and “bin”, which mean “bright” and “clear” respectively. The name is often given to boys in Korea, but can also be used for girls. |
+| 46 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 47 | [Jaaa](http://twitter.com/search?q=Jaaa) | Jaaa is an expression of surprise, excitement, or enthusiasm. It is often used as an exclamation to express joy or approval. In English, it could be translated as "Yay!" or "Woohoo!" |
+| 48 | [Rakete](http://twitter.com/search?q=Rakete) | Rakete is a German word that means "rocket" in English. It is used to refer to a rocket-propelled vehicle, such as a spacecraft or missile. |
+| 49 | [Schick](http://twitter.com/search?q=Schick) | Schick is a German word meaning "elegant" or "stylish". It is often used to describe someone or something that is fashionable and well-groomed. |
+| 50 | [Chaos](http://twitter.com/search?q=Chaos) | Chaos is a state of complete disorder and confusion. It is often used to describe a situation where there is no order or organization, and events seem to be happening randomly. In English, chaos can also refer to a state of extreme confusion or disorganization. |
 
 
 

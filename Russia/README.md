@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Russia
 
-📆 Last Updated: `2023-04-22 02:41:08 UTC`
+📆 Last Updated: `2023-04-22 03:29:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,16 +24,16 @@ This is top 50 for Russia
 | 7 | [#D_DAY](http://twitter.com/search?q=%23D_DAY) | #D_DAY is an abbreviation for "Decision Day," which is the day when high school seniors must make their final college decisions. It is typically the deadline for submitting college applications and deposits. |
 | 8 | [турции](http://twitter.com/search?q=%d1%82%d1%83%d1%80%d1%86%d0%b8%d0%b8) | "Турции" is the Russian word for Turkey. It is the name of a country located in the Middle East and southeastern Europe. |
 | 9 | [Олег](http://twitter.com/search?q=%d0%9e%d0%bb%d0%b5%d0%b3) | Олег is a Russian male name, derived from the Old Norse name Helgi. It is usually translated as "holy" or "blessed". |
-| 10 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | Маск (pronounced "mask") is a Russian slang term for a person who is pretending to be someone they are not. It is often used to describe someone who is trying to deceive or manipulate others. In English, the term "mask" can also be used in this context. |
-| 11 | [#iPhone](http://twitter.com/search?q=%23iPhone) | #iPhone is a hashtag used on social media platforms such as Twitter and Instagram to refer to Apple's iPhone product line. It is used to tag posts related to the iPhone, such as reviews, news, and updates. |
-| 12 | [киевом](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%be%d0%bc) | "Киевом" is a Russian word meaning "from Kiev". It is used to refer to something that originates from the city of Kiev, Ukraine. |
+| 10 | [#iPhone](http://twitter.com/search?q=%23iPhone) | #iPhone is a hashtag used on social media platforms such as Twitter and Instagram to refer to Apple's iPhone product line. It is used to tag posts related to the iPhone, such as reviews, news, and updates. |
+| 11 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | Маск (pronounced "mask") is a Russian slang term for a person who is pretending to be someone they are not. It is often used to describe someone who is trying to deceive or manipulate others. In English, the term "mask" can also be used in this context. |
+| 12 | [Киевом](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%be%d0%bc) | Киевом is a Russian word meaning "from Kiev". It is used to refer to something that originates from the city of Kiev, Ukraine. |
 | 13 | [Starship](http://twitter.com/search?q=Starship) | Starship is a term used to refer to a large, advanced spacecraft designed for interplanetary travel. It is often used in science fiction to describe a spacecraft capable of interstellar travel. The term can also be used to refer to any large, advanced spacecraft, regardless of its intended purpose. |
 | 14 | [Шульман](http://twitter.com/search?q=%d0%a8%d1%83%d0%bb%d1%8c%d0%bc%d0%b0%d0%bd) | Шульман is a Russian surname derived from the German name Schulman. It is most commonly found in the Jewish community and is thought to mean "teacher" or "scholar". |
 | 15 | [Антон](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd) | Антон is a Russian male name, derived from the Greek name Antonios. It is a diminutive form of the name Anton, which means "invaluable" or "priceless". In English, it is usually translated as Anthony. |
-| 16 | [Арсения](http://twitter.com/search?q=%d0%90%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | Арсения is a Russian female name derived from the Greek name Ares, which means "warrior". In English, it can be translated as Arsenia. |
+| 16 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | Арсения is a female Russian given name derived from the Greek word "Arsenios", meaning "male, virile". In English, it can be translated to mean "strong and courageous". |
 | 17 | [здоровья](http://twitter.com/search?q=%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | Здоровья is a Russian word meaning "health" or "well-being". It is often used as a greeting or toast when drinking alcohol. |
 | 18 | [типа](http://twitter.com/search?q=%d1%82%d0%b8%d0%bf%d0%b0) | In Russian, "типа" is an informal expression that is used to mean "like" or "sort of". It can be used to indicate a comparison or to express a vague idea. In English, it would be translated as "kind of" or "sort of". |
-| 19 | [Извините](http://twitter.com/search?q=%d0%98%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | Извините is a Russian phrase meaning "Excuse me" or "I'm sorry". It is used as a polite way to apologize for something or to get someone's attention. |
+| 19 | [извините](http://twitter.com/search?q=%d0%b8%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | "Извините" is a Russian word meaning "excuse me" or "sorry". |
 | 20 | [запада](http://twitter.com/search?q=%d0%b7%d0%b0%d0%bf%d0%b0%d0%b4%d0%b0) | Запада is a Russian word meaning "west". It is used to refer to the western part of a country or region. |
 | 21 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | Украины is the genitive form of the Russian word for Ukraine. In English, it translates to "of Ukraine". |
 | 22 | [естественно](http://twitter.com/search?q=%d0%b5%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | "Естественно" is a Russian word that translates to "naturally" or "of course" in English. It is used to express agreement or understanding of something that has been said. |
@@ -51,7 +51,7 @@ This is top 50 for Russia
 | 34 | [Gmgm](http://twitter.com/search?q=Gmgm) | Gmgm is an acronym for "Good Morning, Good Morning," which is a phrase used to greet someone in the morning. |
 | 35 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | Жаль is a Russian word that means "too bad" or "it's a pity". It is used to express sympathy or regret for something that has happened. |
 | 36 | [америке](http://twitter.com/search?q=%d0%b0%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b5) | "Америке" is the Russian word for "America". |
-| 37 | [Россией](http://twitter.com/search?q=%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | Россией is the Russian word for Russia. It is the genitive form of the noun "Russia" and is used to indicate possession or ownership. |
+| 37 | [россией](http://twitter.com/search?q=%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b5%d0%b9) | "Россией" is the Russian word for Russia. It is the genitive form of the noun "россия," which means Russia. |
 | 38 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | Судя is a Russian word meaning "judging by" or "apparently". It is used to express an opinion based on what one has seen or heard. |
 | 39 | [господи](http://twitter.com/search?q=%d0%b3%d0%be%d1%81%d0%bf%d0%be%d0%b4%d0%b8) | Господи is a Russian word meaning "Lord" or "Master". It is used as an expression of respect and reverence, especially when addressing God. |
 | 40 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | Германии is the Russian word for Germany. |
