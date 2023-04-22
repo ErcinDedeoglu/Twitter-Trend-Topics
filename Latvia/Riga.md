@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-22 01:49:04 UTC`
+📆 Last Updated: `2023-04-22 02:34:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 1 | [#mrsfloki](http://twitter.com/search?q=%23mrsfloki) | #MrsFloki is a hashtag used to refer to the character of Mrs. Floki from the television series Vikings. The hashtag is used to show appreciation for the character and her story arc in the show. |
 | 2 | [lizda](http://twitter.com/search?q=lizda) | Lizda is a type of traditional Lithuanian folk music. It is characterized by its fast tempo and lively rhythms, often accompanied by singing and dancing. In English, the term lizda translates to "dance" or "joyful music". |
 | 3 | [jēkabpilī](http://twitter.com/search?q=j%c4%93kabpil%c4%ab) | Jēkabpilī is a city in Latvia. It is the fifth largest city in the country and is located in the eastern part of Latvia, near the border with Belarus and Lithuania. In English, it translates to "Jacob's Town". |
-| 4 | [Stambulas](http://twitter.com/search?q=Stambulas) | Stambulas is a term used in the Spanish language to refer to a person who is clumsy or awkward. In English, it can be translated as "clumsy" or "awkward". |
+| 4 | [stambulas](http://twitter.com/search?q=stambulas) | Stambulas is a slang term used to describe someone who is lazy and unmotivated. It is derived from the phrase "stammering and bumbling around," which implies a lack of direction or purpose. |
 | 5 | [latgales](http://twitter.com/search?q=latgales) | Latgales is a region in Latvia, located in the eastern part of the country. It is bordered by Belarus, Lithuania, and Russia. The name Latgales comes from the Latvian word "latgaļi", which means "people of the forest". In English, Latgales can be translated as "the land of the forest people". |
 | 6 | [visu](http://twitter.com/search?q=visu) | Visu is a Japanese term that means "visual". It is used to refer to visual elements such as images, videos, and other forms of media. |
 | 7 | [satversmes](http://twitter.com/search?q=satversmes) | Satversmes is the Constitution of Latvia. It is the fundamental law of the country, and it establishes the framework for the government and its laws. In English, it means "Constitution". |
@@ -36,14 +36,14 @@ This is top 50 for [Latvia](</Latvia>)
 | 19 | [daugavpilī](http://twitter.com/search?q=daugavpil%c4%ab) | Daugavpilī is the second largest city in Latvia. It is located on the banks of the Daugava River, near the border with Belarus. The name "Daugavpilī" translates to "on the Daugava River" in English. |
 | 20 | [jelgavas](http://twitter.com/search?q=jelgavas) | Jelgavas is a city in Latvia. It is the largest city in the Zemgale region and the fifth-largest city in Latvia. In English, it is sometimes referred to as Mitau or Mitawa. |
 | 21 | [kādas](http://twitter.com/search?q=k%c4%81das) | Kādas is a Latvian word meaning "which". |
-| 22 | [Helmanis](http://twitter.com/search?q=Helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". In English, the meaning of Helmanis is "protector". |
+| 22 | [helmanis](http://twitter.com/search?q=helmanis) | Helmanis is a Latvian surname. It is derived from the Germanic personal name Helm, which means "helmet" or "protection". The meaning of the name in English is "protector". |
 | 23 | [ministru](http://twitter.com/search?q=ministru) | Ministru is a Romanian word meaning "minister" in English. It is used to refer to a government official who is responsible for the administration of a particular department or ministry. |
 | 24 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | Vienmēr is a Latvian word meaning "always" or "forever". |
 | 25 | [ogri](http://twitter.com/search?q=ogri) | Ogri is a term used in the Irish language to describe a person who is slow-witted or foolish. In English, it can be translated as "stupid" or "dim-witted". |
 | 26 | [Germany](http://twitter.com/search?q=Germany) | Germany is a country in Central Europe. It is bordered by nine other countries: Denmark to the north; Poland and the Czech Republic to the east; Austria and Switzerland to the south; France, Luxembourg, Belgium, and the Netherlands to the west. Germany is a federal parliamentary republic with its capital in Berlin. The country is home to over 82 million people and has a rich cultural heritage. |
 | 27 | [#Russia](http://twitter.com/search?q=%23Russia) | #Russia is a hashtag used on social media to refer to the country of Russia. It is often used to tag posts related to news, culture, and other topics related to the country. |
 | 28 | [piemēram](http://twitter.com/search?q=piem%c4%93ram) | Piemēram is a Latvian word meaning "for example" or "for instance". |
-| 29 | [Kādēļ](http://twitter.com/search?q=K%c4%81d%c4%93%c4%bc) | Kādēļ is a Latvian word meaning "why". |
+| 29 | [kādēļ](http://twitter.com/search?q=k%c4%81d%c4%93%c4%bc) | Kādēļ is a Latvian word meaning "why". |
 | 30 | [Putins](http://twitter.com/search?q=Putins) | Putins is a nickname for Russian President Vladimir Putin. It is derived from his last name and is used as a term of endearment by his supporters. |
 | 31 | [forši](http://twitter.com/search?q=for%c5%a1i) | Forši is a Slovenian word that means "forward" or "ahead". It is often used as an encouragement to move forward or to take action. |
 | 32 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | Ukrainians are people who are from Ukraine, a country in Eastern Europe. The meaning of the word in English is simply "people from Ukraine". |
@@ -57,12 +57,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 40 | [ja tev](http://twitter.com/search?q=ja+tev) | "Ja tev" is a phrase in Latvian that translates to "I love you" in English. |
 | 41 | [kremļa](http://twitter.com/search?q=krem%c4%bca) | Kremļa is a Russian word that refers to the Moscow Kremlin, a fortified complex in the center of Moscow that serves as the official residence of the President of Russia. In English, it is often referred to as simply "the Kremlin". |
 | 42 | [varam](http://twitter.com/search?q=varam) | Varam is a Tamil word that means "gift" or "blessing". It is often used to refer to a special gift given to someone as a sign of appreciation or love. |
-| 43 | [Kādi](http://twitter.com/search?q=K%c4%81di) | Kādi is a type of traditional Gujarati sweet made from milk, sugar, and flour. It is often served during festivals and special occasions. In English, the word Kādi translates to "sweet". |
+| 43 | [kādi](http://twitter.com/search?q=k%c4%81di) | Kādi is a type of Indian sweet made from chickpea flour, sugar, and ghee. It is usually served as a dessert or snack. In English, it can be translated to "fudge". |
 | 44 | [diezgan](http://twitter.com/search?q=diezgan) | Diezgan is a Latvian word meaning "quite" or "rather". |
 | 45 | [saeima](http://twitter.com/search?q=saeima) | Saeima is the name of the Parliament of Latvia. It is derived from the Latvian word for "meeting place". In English, it can be translated as "Assembly". |
 | 46 | [LGBT](http://twitter.com/search?q=LGBT) | LGBT stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
 | 47 | [starp](http://twitter.com/search?q=starp) | Starp is not a word in English. It does not have a meaning. |
-| 48 | [Atkal](http://twitter.com/search?q=Atkal) | Atkal is a Latvian word meaning "again". |
+| 48 | [atkal](http://twitter.com/search?q=atkal) | Atkal is a Latvian word meaning "again". |
 | 49 | [igauniju](http://twitter.com/search?q=igauniju) | Igauniju is the Latvian word for Estonia. In English, it means "Estonia". |
 | 50 | [tagad](http://twitter.com/search?q=tagad) | Tagad is a Latvian word meaning "now". |
 

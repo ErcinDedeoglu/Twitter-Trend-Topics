@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-04-22 01:56:37 UTC`
+📆 Last Updated: `2023-04-22 02:40:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,13 +25,13 @@ This is top 50 for Austria
 | 8 | [#sknadm](http://twitter.com/search?q=%23sknadm) | #sknadm is an abbreviation for the Swedish National Administration of Medicine. It is a government agency responsible for the regulation and supervision of medical products, services, and activities in Sweden. |
 | 9 | [#Gesundheitssystem](http://twitter.com/search?q=%23Gesundheitssystem) | Gesundheitssystem is a German word that translates to "health system" in English. It refers to the system of health care services, organizations, and institutions that provide medical care to individuals and populations. |
 | 10 | [eiernockerl](http://twitter.com/search?q=eiernockerl) | Eiernockerl is an Austrian dish made of egg dumplings. It is usually served as a side dish with a sauce or gravy. The literal translation of Eiernockerl in English is "egg dumplings". |
-| 11 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | #LetsDance is a hashtag used to encourage people to get up and dance. It is often used in posts about dancing, music, or parties. The phrase is an invitation to join in the fun and start dancing. |
+| 11 | [#letsdance](http://twitter.com/search?q=%23letsdance) | #letsdance is an expression used to encourage someone to start dancing. It is often used as a hashtag on social media platforms such as Twitter and Instagram. |
 | 12 | [Schönen Urlaub](http://twitter.com/search?q=Sch%c3%b6nen+Urlaub) | "Schönen Urlaub" is a German phrase that translates to "Have a nice vacation" in English. It is a common phrase used to wish someone a pleasant and enjoyable holiday. |
 | 13 | [wiederbetätigung](http://twitter.com/search?q=wiederbet%c3%a4tigung) | Wiederbetätigung is a German word that translates to "reactivation" in English. It is used to describe the process of reactivating something that has been inactive or dormant. |
-| 14 | [Hakerl](http://twitter.com/search?q=Hakerl) | Hakerl is a German slang term for a person who is particularly skilled in the art of hacking. It is derived from the English word "hacker" and literally translates to "hackerling" or "little hacker". |
+| 14 | [hakerl](http://twitter.com/search?q=hakerl) | Hakerl is a slang term used in Austria and Germany to refer to someone who is a bit of a slacker or goof-off. It can also be used to describe someone who is lazy or irresponsible. In English, it could be translated as "slacker" or "lazybones". |
 | 15 | [Petition](http://twitter.com/search?q=Petition) | Petition is a formal written request made to an official person or organization, typically containing many signatures of people who support the request. It is usually used to ask for some kind of action or change in policy. |
 | 16 | [Zusammenbruch](http://twitter.com/search?q=Zusammenbruch) | Zusammenbruch is a German word meaning "collapse" or "breakdown". It can refer to the sudden failure of a system, such as an economic or political system, or to the physical collapse of a structure. |
-| 17 | [Strolz](http://twitter.com/search?q=Strolz) | Strolz is a German word that means "to stroll" or "to wander". It is often used to describe leisurely walks or hikes. |
+| 17 | [strolz](http://twitter.com/search?q=strolz) | Strolz is a German word that means "to stroll" or "to take a leisurely walk". It is often used to describe taking a leisurely walk in the countryside or through a park. |
 | 18 | [Häkchen](http://twitter.com/search?q=H%c3%a4kchen) | Häkchen is a German word that translates to "checkmark" in English. It is used to indicate that something has been selected or checked off a list. |
 | 19 | [vorsitzende](http://twitter.com/search?q=vorsitzende) | Vorsitzende is a German word meaning "chairperson" or "president". It is used to refer to the leader of an organization, committee, or board. |
 | 20 | [Happy 420](http://twitter.com/search?q=Happy+420) | Happy 420 is a slang phrase used to celebrate the consumption of cannabis, particularly on April 20th (4/20). It is often used as a greeting or salutation among cannabis users. |
@@ -59,12 +59,12 @@ This is top 50 for Austria
 | 42 | [schlapfen](http://twitter.com/search?q=schlapfen) | Schlapfen is a German word that means to slap or to hit. It is usually used in the context of someone slapping or hitting someone else. |
 | 43 | [Hausarzt](http://twitter.com/search?q=Hausarzt) | Hausarzt is a German word meaning "family doctor" or "general practitioner". It is used to refer to a doctor who provides primary care services to patients in their own home or in a clinic. |
 | 44 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 45 | [Marathon](http://twitter.com/search?q=Marathon) | Marathon is a long-distance running event that covers a distance of 26.2 miles (42.2 kilometers). The event is named after the legendary run of the Greek soldier Pheidippides, who ran from the town of Marathon to Athens in 490 BC to announce the victory of the Greeks over the Persians in battle. The term "marathon" has come to be used as a metaphor for any long and difficult task or journey. |
-| 46 | [Tracht](http://twitter.com/search?q=Tracht) | Tracht is a German word that refers to traditional clothing, usually associated with a particular region or culture. In English, it is often translated as "costume" or "attire". |
-| 47 | [moonbin](http://twitter.com/search?q=moonbin) | Moonbin is a Korean name that means “bright and clear”. It is derived from the words “moon” and “bin”, which mean “bright” and “clear” respectively. The name is often given to boys in Korea, but can also be used for girls. |
-| 48 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
-| 49 | [Jaaa](http://twitter.com/search?q=Jaaa) | Jaaa is an expression of surprise, excitement, or enthusiasm. It is often used as an exclamation to express joy or approval. In English, it could be translated as "Yay!" or "Woohoo!" |
-| 50 | [Rakete](http://twitter.com/search?q=Rakete) | Rakete is a German word that means "rocket" in English. It is used to refer to a rocket-propelled vehicle, such as a spacecraft or missile. |
+| 45 | [tracht](http://twitter.com/search?q=tracht) | Tracht is a German word that refers to traditional clothing, usually associated with a particular region or culture. In English, it is often translated as "costume" or "outfit". |
+| 46 | [moonbin](http://twitter.com/search?q=moonbin) | Moonbin is a Korean name that means “bright and clear”. It is derived from the words “moon” and “bin”, which mean “bright” and “clear” respectively. The name is often given to boys in Korea, but can also be used for girls. |
+| 47 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 48 | [Jaaa](http://twitter.com/search?q=Jaaa) | Jaaa is an expression of surprise, excitement, or enthusiasm. It is often used as an exclamation to express joy or approval. In English, it could be translated as "Yay!" or "Woohoo!" |
+| 49 | [Rakete](http://twitter.com/search?q=Rakete) | Rakete is a German word that means "rocket" in English. It is used to refer to a rocket-propelled vehicle, such as a spacecraft or missile. |
+| 50 | [Schick](http://twitter.com/search?q=Schick) | Schick is a German word meaning "elegant" or "stylish". It is often used to describe someone or something that is fashionable and well-groomed. |
 
 
 
