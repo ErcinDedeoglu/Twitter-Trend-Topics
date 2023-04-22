@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-04-22 08:30:11 UTC`
+📆 Last Updated: `2023-04-22 09:27:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -47,7 +47,7 @@ This is top 50 for Dominican Republic
 | 30 | [Viernes 21](http://twitter.com/search?q=Viernes+21) | Viernes 21 is Spanish for "Friday the 21st". It is used to refer to a specific Friday that falls on the 21st day of a month. |
 | 31 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 32 | [Inepto](http://twitter.com/search?q=Inepto) | Inepto is a Latin word meaning "inept" or "clumsy". It is used to describe someone who is not very skilled or competent at something. |
-| 33 | [la policía nacional](http://twitter.com/search?q=la+polic%c3%ada+nacional) | La Policía Nacional is the national police force of Spain. It is responsible for maintaining public order and security throughout the country. In English, it translates to "National Police". |
+| 33 | [La Policía Nacional](http://twitter.com/search?q=La+Polic%c3%ada+Nacional) | La Policía Nacional is the national police force of Spain. It is responsible for maintaining public order and security throughout the country. In English, it translates to "The National Police". |
 | 34 | [Judas](http://twitter.com/search?q=Judas) | Judas is a figure in the New Testament of the Bible. He was one of Jesus' twelve apostles, but betrayed him to the authorities for thirty pieces of silver. The name Judas has come to be associated with betrayal and treachery. |
 | 35 | [Banco Central](http://twitter.com/search?q=Banco+Central) | Banco Central is the central bank of a country. It is responsible for managing the country's monetary policy, issuing currency, and regulating the banking system. In English, it translates to Central Bank. |
 | 36 | [Agust D](http://twitter.com/search?q=Agust+D) | Agust D is the stage name of South Korean rapper and songwriter Suga, a member of the K-pop group BTS. The name is a combination of his birth name, Min Yoongi, and the word "D-2," which is a reference to his second solo mixtape released in 2020. In English, Agust D translates to "August Dream." |
@@ -61,8 +61,8 @@ This is top 50 for Dominican Republic
 | 44 | [minerd](http://twitter.com/search?q=minerd) | Minerd is a software application used to mine cryptocurrency. It is a command-line program that allows users to mine digital currencies such as Bitcoin, Litecoin, and Dogecoin. The minerd software uses the CPU or GPU of a computer to solve complex mathematical problems in order to generate new coins. |
 | 45 | [Max Scherzer](http://twitter.com/search?q=Max+Scherzer) | Max Scherzer is an American professional baseball pitcher for the Washington Nationals of Major League Baseball (MLB). He is a seven-time All-Star and three-time Cy Young Award winner. His nickname is "Mad Max" due to his intense pitching style and demeanor on the mound. The meaning of Max Scherzer in English is a highly successful and talented baseball pitcher. |
 | 46 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
-| 47 | [Happy 420](http://twitter.com/search?q=Happy+420) | Happy 420 is a slang phrase used to celebrate the consumption of cannabis, particularly on April 20th (4/20). It is often used as a greeting or salutation among cannabis users. |
-| 48 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 47 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 48 | [Happy 420](http://twitter.com/search?q=Happy+420) | Happy 420 is a slang phrase used to celebrate the consumption of cannabis, particularly on April 20th (4/20). It is often used as a greeting or salutation among cannabis users. |
 | 49 | [Harvard](http://twitter.com/search?q=Harvard) | Harvard is the oldest higher education institution in the United States and one of the most prestigious universities in the world. It is located in Cambridge, Massachusetts and was founded in 1636. The name Harvard is derived from its first benefactor, John Harvard, who left his library and half of his estate to the school upon his death in 1638. Harvard is known for its academic excellence and has produced many influential alumni, including eight U.S. presidents, numerous Nobel Prize winners, and countless business leaders. |
 | 50 | [Franklin](http://twitter.com/search?q=Franklin) | Franklin is a given name of English origin, derived from the Old French word "franc" meaning "free man". It is most commonly used as a surname, but can also be used as a first name. The name has been popularized by Benjamin Franklin, one of the Founding Fathers of the United States. |
 
