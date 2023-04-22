@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-22 22:27:26 UTC`
+📆 Last Updated: `2023-04-22 23:29:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,11 +42,11 @@ This is top 50 for Denmark
 | 25 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
 | 26 | [Dylan](http://twitter.com/search?q=Dylan) | Dylan is a Welsh name meaning "son of the sea". It is also a popular given name in English-speaking countries, derived from the surname of the poet Dylan Thomas. |
 | 27 | [norlys](http://twitter.com/search?q=norlys) | Norlys is a Norwegian lighting company that specializes in outdoor lighting. The name Norlys is derived from the Norwegian words for “north” and “light”. The company produces a wide range of products, including street lights, garden lights, and floodlights. |
-| 28 | [Indien](http://twitter.com/search?q=Indien) | Indien is the French word for India. It is used to refer to the country, its people, and its culture. In English, it is usually spelled "India." |
-| 29 | [Michael](http://twitter.com/search?q=Michael) | Michael is a masculine given name derived from the Hebrew name Mikha'el, which means "Who is like God?". It is one of the most popular names in the English-speaking world. |
-| 30 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
-| 31 | [Ringsted](http://twitter.com/search?q=Ringsted) | Ringsted is a city in Denmark. It is located in the central part of the island of Zealand, and has a population of approximately 18,000 people. The name Ringsted comes from the Old Norse words "hringr" meaning "ring" and "stathr" meaning "place". In English, Ringsted can be translated to mean "ring place". |
-| 32 | [Moskva](http://twitter.com/search?q=Moskva) | Moskva is the Russian name for Moscow, the capital of Russia. In English, it is pronounced "MOS-kuh-vuh". |
+| 28 | [Moskva](http://twitter.com/search?q=Moskva) | Moskva is the Russian name for Moscow, the capital of Russia. In English, it is pronounced "MOS-kuh-vuh". |
+| 29 | [Indien](http://twitter.com/search?q=Indien) | Indien is the French word for India. It is used to refer to the country, its people, and its culture. In English, it is usually spelled "India." |
+| 30 | [Michael](http://twitter.com/search?q=Michael) | Michael is a masculine given name derived from the Hebrew name Mikha'el, which means "Who is like God?". It is one of the most popular names in the English-speaking world. |
+| 31 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
+| 32 | [Ringsted](http://twitter.com/search?q=Ringsted) | Ringsted is a city in Denmark. It is located in the central part of the island of Zealand, and has a population of approximately 18,000 people. The name Ringsted comes from the Old Norse words "hringr" meaning "ring" and "stathr" meaning "place". In English, Ringsted can be translated to mean "ring place". |
 | 33 | [May Allah](http://twitter.com/search?q=May+Allah) | May Allah is an Arabic phrase that is used as a blessing or expression of goodwill. In English, it translates to “God willing” or “God be with you.” It is often used to express hope for the future and to wish someone well. |
 | 34 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
 | 35 | [Peter](http://twitter.com/search?q=Peter) | Peter is a common English name derived from the Greek name Πέτρος (Petros) meaning "stone" or "rock". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, England, Scotland, Ireland, Germany, and many others. |
@@ -59,12 +59,12 @@ This is top 50 for Denmark
 | 42 | [USAs](http://twitter.com/search?q=USAs) | USAs is an acronym for the United States of America. It is used to refer to the country as a whole, or to its government and people. |
 | 43 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 44 | [jisoo](http://twitter.com/search?q=jisoo) | Jisoo is a Korean given name, typically used for females. It is derived from the Chinese characters meaning “beautiful” and “precious”. In English, it can be translated to mean “beautiful and precious”. |
-| 45 | [Maguire](http://twitter.com/search?q=Maguire) | Maguire is an Irish surname derived from the Gaelic Mac Uidhir, meaning "son of Odhar". It is most commonly found in County Donegal and County Monaghan in Ireland. |
-| 46 | [USSR](http://twitter.com/search?q=USSR) | USSR stands for the Union of Soviet Socialist Republics, which was a communist state that existed from 1922 to 1991. It was a single-party state governed by the Communist Party of the Soviet Union and comprised 15 constituent republics. The USSR was the largest country in the world at the time, covering over one-sixth of the Earth's land area. |
-| 47 | [Ungarn](http://twitter.com/search?q=Ungarn) | Ungarn is the German word for Hungary. In English, it means Hungary. |
-| 48 | [Hamburg](http://twitter.com/search?q=Hamburg) | Hamburg is a city in northern Germany. It is the second-largest city in the country and the largest port in Germany. The name Hamburg comes from the Old German word "hamma", meaning "fortified settlement". |
-| 49 | [Vanvittigt](http://twitter.com/search?q=Vanvittigt) | Vanvittigt is a Danish word that translates to "crazy" or "insane" in English. |
-| 50 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 45 | [USSR](http://twitter.com/search?q=USSR) | USSR stands for the Union of Soviet Socialist Republics, which was a communist state that existed from 1922 to 1991. It was a single-party state governed by the Communist Party of the Soviet Union and comprised 15 constituent republics. The USSR was the largest country in the world at the time, covering over one-sixth of the Earth's land area. |
+| 46 | [Ungarn](http://twitter.com/search?q=Ungarn) | Ungarn is the German word for Hungary. In English, it means Hungary. |
+| 47 | [Hamburg](http://twitter.com/search?q=Hamburg) | Hamburg is a city in northern Germany. It is the second-largest city in the country and the largest port in Germany. The name Hamburg comes from the Old German word "hamma", meaning "fortified settlement". |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 49 | [vanvittigt](http://twitter.com/search?q=vanvittigt) | Vanvittigt is a Danish word that translates to "insane" or "crazy" in English. It is used to describe someone who is behaving in an irrational or erratic manner. |
+| 50 | [Netto](http://twitter.com/search?q=Netto) | Netto is a German discount supermarket chain. The word "netto" is derived from the Latin word for "net," which refers to the fact that all prices are given without taxes or other charges. In English, it can be translated as "net" or "discount." |
 
 
 
