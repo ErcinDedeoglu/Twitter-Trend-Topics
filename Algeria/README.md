@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-04-22 05:26:50 UTC`
+📆 Last Updated: `2023-04-22 06:28:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,11 +44,11 @@ This is top 50 for Algeria
 | 27 | [السعودية](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | السعودية is the Arabic name for Saudi Arabia. In English, it translates to "The Saudi". |
 | 28 | [العلي القدير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b1) | العلي القدير is an Arabic phrase meaning "The Most High, The Almighty". It is often used to refer to God. |
 | 29 | [اشبيلية](http://twitter.com/search?q=%d8%a7%d8%b4%d8%a8%d9%8a%d9%84%d9%8a%d8%a9) | اشبيلية is an Arabic word that means "Ibiza," a Spanish island in the Mediterranean Sea. In English, it is sometimes referred to as the "White Island" due to its white sand beaches. |
-| 30 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | الكويت is the Arabic name for Kuwait, a country located in the Middle East. In English, it translates to "The Kuwait". |
-| 31 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | ليبيا is the Arabic name for Libya, a country in North Africa. In English, it is pronounced "lee-bee-ah". |
-| 32 | [الشعب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | الشعب الجزايري is an Arabic phrase meaning "the Algerian people". It is used to refer to the citizens of Algeria, a country in North Africa. |
-| 33 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | الاسره الكريمه is an Arabic phrase that translates to "the generous family" in English. It is used to refer to a family that is generous and kind. |
-| 34 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 30 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | ليبيا is the Arabic name for Libya, a country in North Africa. In English, it is pronounced "lee-bee-ah". |
+| 31 | [الشعب الجزايري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1%d9%8a) | الشعب الجزايري is an Arabic phrase meaning "the Algerian people". It is used to refer to the citizens of Algeria, a country in North Africa. |
+| 32 | [الاسره الكريمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d9%8a%d9%85%d9%87) | الاسره الكريمه is an Arabic phrase that translates to "the generous family" in English. It is used to refer to a family that is generous and kind. |
+| 33 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 34 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | الكويت is the Arabic name for Kuwait, a country located in the Middle East. In English, it translates to "The Kuwait". |
 | 35 | [مبارك دكتور](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%af%d9%83%d8%aa%d9%88%d8%b1) | "مبارك دكتور" is an Arabic phrase that translates to "blessed doctor" in English. It is used as a way to express appreciation and respect for a doctor or medical professional. |
 | 36 | [نهار اليوم](http://twitter.com/search?q=%d9%86%d9%87%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | نهار اليوم is Arabic for "Today's Day" or "Today". |
 | 37 | [Que Dieu](http://twitter.com/search?q=Que+Dieu) | "Que Dieu" is a French phrase that translates to "May God" in English. It is used as an expression of hope or a wish for something to happen. |
@@ -63,8 +63,8 @@ This is top 50 for Algeria
 | 46 | [حمزة](http://twitter.com/search?q=%d8%ad%d9%85%d8%b2%d8%a9) | حمزة is an Arabic name that means "dove" in English. |
 | 47 | [عيد الاضحي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%a7%d8%b6%d8%ad%d9%8a) | عيد الاضحي is the Islamic holiday of Eid al-Adha, which is also known as the Festival of Sacrifice. It is celebrated by Muslims around the world to commemorate the willingness of Ibrahim (Abraham) to sacrifice his son Ishmael as an act of obedience to God's command. The holiday lasts for four days and is marked by special prayers, feasting, and the exchange of gifts. In English, it is known as the Feast of Sacrifice. |
 | 48 | [ساير الاعمال](http://twitter.com/search?q=%d8%b3%d8%a7%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | ساير الاعمال is an Arabic phrase that translates to "other works" or "other activities" in English. It is used to refer to any other tasks or activities that are not specifically mentioned. |
-| 49 | [Mercii](http://twitter.com/search?q=Mercii) | Mercii is a French expression of gratitude or appreciation. In English, it translates to "Thank you" or "Thanks". |
-| 50 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
+| 49 | [العايدين الفايزين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d9%81%d8%a7%d9%8a%d8%b2%d9%8a%d9%86) | العايدين الفايزين is an Arabic phrase that translates to "the victorious returnees". It is often used to refer to those who have returned from a successful journey or mission. |
+| 50 | [الذكاء الاصطناعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b0%d9%83%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d8%b5%d8%b7%d9%86%d8%a7%d8%b9%d9%8a) | الذكاء الاصطناعي (Artificial Intelligence) is a branch of computer science that focuses on creating intelligent machines that can think and act like humans. It involves the use of algorithms, data structures, and other techniques to create systems that can learn from experience, recognize patterns, and make decisions. Artificial Intelligence has been used in many areas such as robotics, natural language processing, computer vision, and more. |
 
 
 
