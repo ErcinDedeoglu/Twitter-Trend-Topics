@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-23 11:34:23 UTC`
+📆 Last Updated: `2023-04-23 12:32:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for Guatemala
 | 15 | [Villacorta](http://twitter.com/search?q=Villacorta) | Villacorta is a Spanish surname. It is derived from the Latin words villa, meaning "town" or "village," and corta, meaning "short." In English, it can be translated to mean "short village." |
 | 16 | [jennie](http://twitter.com/search?q=jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one" in Welsh. |
 | 17 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | "WE LOVE YOU TAEHYUNG" is an expression of love and admiration for the South Korean singer, songwriter, and actor Taehyung. In English, it means "We love you, Taehyung!" |
-| 18 | [Antigua GFC](http://twitter.com/search?q=Antigua+GFC) | Antigua GFC is a professional football club based in Antigua and Barbuda. The club competes in the Antigua and Barbuda Premier Division, the top tier of football in the country. The club's name stands for "Gran Fútbol Club de Antigua", which translates to "Great Football Club of Antigua" in English. |
+| 18 | [antigua gfc](http://twitter.com/search?q=antigua+gfc) | Antigua GFC is an abbreviation for Antigua and Barbuda Football Club, a professional football club based in Antigua and Barbuda. The club competes in the Antigua and Barbuda Premier Division, the top tier of football in the country. |
 | 19 | [malacateco](http://twitter.com/search?q=malacateco) | Malacateco is a term used to refer to someone from the town of Malacatán in Guatemala. It is derived from the Nahuatl language and translates to "people of Malacatán". |
 | 20 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 21 | [rafael morales](http://twitter.com/search?q=rafael+morales) | Rafael Morales is a Spanish name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Spanish word morales, which means "moral." |
@@ -60,7 +60,7 @@ This is top 50 for Guatemala
 | 43 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 44 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 45 | [Picapiedra](http://twitter.com/search?q=Picapiedra) | Picapiedra is a Spanish phrase meaning "stone picker." It is derived from the name of the main character in the popular Spanish cartoon series, The Flintstones. The phrase is often used to describe someone who is a hard worker or who has a knack for finding solutions to difficult problems. |
-| 46 | [mundial sub-20](http://twitter.com/search?q=mundial+sub-20) | Mundial Sub-20 is a term used in Spanish to refer to the FIFA U-20 World Cup, an international football tournament for players under the age of 20. In English, it translates to "U-20 World Cup". |
+| 46 | [Mundial Sub-20](http://twitter.com/search?q=Mundial+Sub-20) | Mundial Sub-20 is Spanish for Under-20 World Cup. It is a biennial international football tournament organized by FIFA for male players under the age of 20. The tournament has been held since 1977 and is considered to be a stepping stone for future stars of the game. |
 | 47 | [Evil Dead](http://twitter.com/search?q=Evil+Dead) | Evil Dead is a 1981 American horror film written and directed by Sam Raimi. It follows five college students who travel to a cabin in the woods, where they unknowingly release evil forces that possess them one by one. The film has become a cult classic, spawning two sequels, video games, comic books, and a television series. The phrase "Evil Dead" has come to mean any horror movie or story involving demonic possession or other supernatural forces. |
 | 48 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | Lady Gaga is the stage name of American singer, songwriter, and actress Stefani Joanne Angelina Germanotta. She is known for her outrageous fashion sense and her eclectic mix of musical styles, including pop, dance-pop, electronic, and rock. The name "Lady Gaga" is a play on the phrase "Radio Gaga," which was a song by the British rock band Queen. |
 | 49 | [amarini](http://twitter.com/search?q=amarini) | Amarini is an Italian word that means "beautiful". It is often used to describe something that is aesthetically pleasing or attractive. |
