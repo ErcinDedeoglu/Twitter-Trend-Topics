@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-04-23 06:20:39 UTC`
+📆 Last Updated: `2023-04-23 07:20:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | #wtylewizji is a Polish hashtag that translates to "style wizard" in English. It is used to refer to someone who has an eye for fashion and style. |
 | 2 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | #TheVoiceKids is a television singing competition for children aged 7-14. It is based on the popular adult singing competition The Voice. The show features young singers competing against each other in a series of vocal battles, with the winner being chosen by a panel of celebrity judges. The English meaning of #TheVoiceKids is "The Voice for Kids". |
 | 3 | [#Fryderyki](http://twitter.com/search?q=%23Fryderyki) | #Fryderyki is an annual award ceremony in Poland that honors the best achievements in the music industry. The name is derived from Fryderyk Chopin, a famous Polish composer. In English, it is known as the Fryderyk Awards. |
-| 4 | [#KSW81](http://twitter.com/search?q=%23KSW81) | #KSW81 is a hashtag used to promote the upcoming KSW 81 mixed martial arts event, which is scheduled to take place in Poland on June 19, 2021. The hashtag stands for "KSW 81" and is used to promote the event on social media. |
-| 5 | [#OkradliDzieci](http://twitter.com/search?q=%23OkradliDzieci) | #OkradliDzieci is a hashtag used on social media in Poland to draw attention to the issue of child poverty. It translates to "Robbed Children" in English. |
-| 6 | [szywacz](http://twitter.com/search?q=szywacz) | Szywacz is a Polish word for a tailor or seamstress. It literally translates to "sewer" in English. |
-| 7 | [panie premierze](http://twitter.com/search?q=panie+premierze) | Panie Premierze is a Polish phrase that translates to "Mr. Prime Minister" in English. It is a formal way of addressing the Prime Minister of Poland. |
-| 8 | [krzysztof karoń](http://twitter.com/search?q=krzysztof+karo%c5%84) | Krzysztof Karoń is a Polish name. It is composed of two parts: Krzysztof, which is a Polish male given name derived from the Greek name Christopher, and Karoń, which is a Polish surname derived from the word karać (to punish). In English, the name would be translated as Christopher Karoń. |
-| 9 | [Janowa](http://twitter.com/search?q=Janowa) | Janowa is a Polish female given name, derived from the Hebrew name Yohanan, meaning "God is gracious". In English, it is sometimes spelled as Janovah or Janovia. |
-| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 11 | [Mrozu](http://twitter.com/search?q=Mrozu) | Mrozu is a Polish rock band formed in 2004. The name Mrozu is derived from the Polish word for "fog". In English, it can be translated to mean "misty". |
-| 12 | [zaksa](http://twitter.com/search?q=zaksa) | Zaksa is a Polish word that means "help" or "support". It is often used to refer to assistance given to someone in need. |
-| 13 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | Tłumy is a Polish word that means "crowds" or "masses" in English. It is used to refer to large groups of people gathered together in one place. |
-| 14 | [Ruch](http://twitter.com/search?q=Ruch) | Ruch is a German word meaning "movement" or "motion". It can also refer to a specific type of movement, such as a dance or a march. |
-| 15 | [Engelking](http://twitter.com/search?q=Engelking) | Engelking is a German surname. It is derived from the German word "Engel," which means angel, and "king," which means ruler. In English, Engelking can be translated to mean "angel ruler." |
-| 16 | [tuchela](http://twitter.com/search?q=tuchela) | Tuchela is a term used in the Indian state of Punjab to refer to a person who is generous and kind-hearted. It is derived from the Punjabi word “tuchh”, which means “generous”. In English, it can be translated as “generous person” or “kind-hearted person”. |
-| 17 | [Zawisza](http://twitter.com/search?q=Zawisza) | Zawisza is a Polish name derived from the Old Slavic word zawis, meaning "strong". It is also the name of a legendary Polish knight and national hero. In English, it can be translated to mean "the strong one". |
-| 18 | [sobol](http://twitter.com/search?q=sobol) | Sobol is a type of Russian salad made with potatoes, eggs, carrots, peas, and mayonnaise. It is usually served cold and is a popular side dish in Russia. The name comes from the Russian word for “salad”. |
-| 19 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
-| 20 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | Żydów is a Polish word meaning "Jews". |
-| 21 | [puszczą](http://twitter.com/search?q=puszcz%c4%85) | Puszczą is a Polish verb meaning "to let go" or "to release." In English, it can be used to describe the act of releasing something or someone. |
-| 22 | [junca](http://twitter.com/search?q=junca) | Junca is a Spanish word that refers to a type of grass or reed found in wetlands. In English, it is sometimes referred to as bulrush or cattail. |
-| 23 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 24 | [Sarara](http://twitter.com/search?q=Sarara) | Sarara is a Japanese term that is used to express surprise or excitement. It can be translated to English as "Wow!" or "Oh my!" |
-| 25 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 26 | [Bakole](http://twitter.com/search?q=Bakole) | Bakole is a language spoken by the Bakole people of the Democratic Republic of Congo. It is a Bantu language and its English translation is "people". |
-| 27 | [abu hanna](http://twitter.com/search?q=abu+hanna) | Abu Hanna is an Arabic name meaning "Father of Hanna". It is commonly used as a given name for males in the Middle East. |
-| 28 | [Muli](http://twitter.com/search?q=Muli) | Muli is a Filipino word that means "many" or "a lot". It is often used to describe a large quantity of something. |
-| 29 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | WOŚP stands for the Great Orchestra of Christmas Charity, a Polish charity organization founded in 1993. The organization's mission is to provide medical equipment and services to children in need. The acronym WOŚP is derived from the Polish words for "Great Orchestra of Christmas Charity". |
-| 30 | [szot](http://twitter.com/search?q=szot) | Szot is a Polish word meaning "cheers" or "to your health." It is used as a toast when drinking alcohol. |
-| 31 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 32 | [Suzume](http://twitter.com/search?q=Suzume) | Suzume is a Japanese word meaning "sparrow". It is also used as a name for girls in Japan. |
-| 33 | [Dawid](http://twitter.com/search?q=Dawid) | Dawid is a Polish name derived from the Hebrew name David, which means "beloved". |
-| 34 | [Ons Jabeur](http://twitter.com/search?q=Ons+Jabeur) | Ons Jabeur is a professional tennis player from Tunisia. Her name translates to "Our Jabeur" in English, which is a reference to her being a source of pride for her country. |
-| 35 | [żyro](http://twitter.com/search?q=%c5%bcyro) | Żyro is a Polish word that means "spark" or "glow". It is often used to describe the spark of life, creativity, or enthusiasm. |
-| 36 | [cepelia](http://twitter.com/search?q=cepelia) | Cepelia is a Polish folk art and craft cooperative founded in 1950. It specializes in traditional handicrafts, such as pottery, woodcarving, weaving, and embroidery. The name Cepelia is derived from the Latin word for “little house” and symbolizes the cooperative’s commitment to preserving traditional Polish culture. |
-| 37 | [igbekeme](http://twitter.com/search?q=igbekeme) | Igbekeme is a Yoruba word that means "patience". It is used to encourage someone to be patient and wait for the right time. |
-| 38 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
-| 39 | [Rodado](http://twitter.com/search?q=Rodado) | Rodado is a Spanish word that means "wheeled". It is used to describe something that has wheels, such as a car or bicycle. |
-| 40 | [Tachi](http://twitter.com/search?q=Tachi) | Tachi is a type of Japanese sword with a curved blade. It is traditionally worn by samurai and was used in feudal Japan for close combat. The word tachi comes from the verb tatsu, which means "to stand". In English, it can be translated as "sword". |
-| 41 | [Pięknej](http://twitter.com/search?q=Pi%c4%99knej) | Pięknej is a Polish word meaning "beautiful". |
-| 42 | [wcisło](http://twitter.com/search?q=wcis%c5%82o) | Wcisło is a Polish word meaning "silent" or "quiet". It is used to describe someone or something that is not making any noise. |
-| 43 | [kupił](http://twitter.com/search?q=kupi%c5%82) | Kupił is a Polish verb meaning "to buy" in English. |
-| 44 | [Filipek](http://twitter.com/search?q=Filipek) | Filipek is a Polish surname. It is derived from the given name Filip, which is the Polish form of the name Philip. The English meaning of Filipek is "son of Philip". |
-| 45 | [Kasiu](http://twitter.com/search?q=Kasiu) | Kasiu is a Polish term of endearment that translates to "darling" or "sweetheart" in English. |
-| 46 | [Kościołem](http://twitter.com/search?q=Ko%c5%9bcio%c5%82em) | Kościołem is a Polish word meaning "church". |
-| 47 | [ugandzie](http://twitter.com/search?q=ugandzie) | Ugandzie is a slang term used to describe someone who is from Uganda. It is derived from the country's name and is often used as a term of endearment. |
-| 48 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 49 | [Mula](http://twitter.com/search?q=Mula) | Mula is a Spanish word that means money or wealth. It is often used in the context of making money or having financial success. |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 4 | [#OkradliDzieci](http://twitter.com/search?q=%23OkradliDzieci) | #OkradliDzieci is a hashtag used on social media in Poland to draw attention to the issue of child poverty. It translates to "Robbed Children" in English. |
+| 5 | [#ksw81](http://twitter.com/search?q=%23ksw81) | #ksw81 is a hashtag used on social media to refer to the KSW 81 mixed martial arts event held in Poland in 2019. The hashtag is used to promote the event and to discuss related topics. |
+| 6 | [Światowy Dzień Książki](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Ksi%c4%85%c5%bcki) | Światowy Dzień Książki (World Book Day) is an annual event celebrated on April 23rd, the date that is also the anniversary of the deaths of William Shakespeare and Miguel de Cervantes. It is a day to celebrate books and authors, and to promote reading and literacy. |
+| 7 | [Praw Autorskich](http://twitter.com/search?q=Praw+Autorskich) | Praw Autorskich is a Polish term meaning "copyright". It refers to the legal rights granted to authors and creators of original works, such as books, music, and art. These rights include the exclusive right to reproduce, distribute, and publicly display their work. |
+| 8 | [szywacz](http://twitter.com/search?q=szywacz) | Szywacz is a Polish word for a tailor or seamstress. It literally translates to "sewer" in English. |
+| 9 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | Miłej is a Polish word that means "pleasant" or "nice". It is often used as a greeting or farewell. |
+| 10 | [Łk 24](http://twitter.com/search?q=%c5%81k+24) | Łk 24 is a reference to the 24th chapter of the Gospel of Luke in the Bible. In English, it would be Luke 24. |
+| 11 | [panie premierze](http://twitter.com/search?q=panie+premierze) | Panie Premierze is a Polish phrase that translates to "Mr. Prime Minister" in English. It is a formal way of addressing the Prime Minister of Poland. |
+| 12 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | Kraśko is a town in south-eastern Poland. It is located in the Subcarpathian Voivodeship, near the border with Ukraine. The name of the town comes from the Old Slavic word "kras" which means "beautiful". In English, Kraśko can be translated as "beautiful town". |
+| 13 | [Janowa](http://twitter.com/search?q=Janowa) | Janowa is a Polish female given name, derived from the Hebrew name Yohanan, meaning "God is gracious". In English, it is sometimes spelled as Janovah or Janovia. |
+| 14 | [krzysztof karoń](http://twitter.com/search?q=krzysztof+karo%c5%84) | Krzysztof Karoń is a Polish name. It is composed of two parts: Krzysztof, which is a Polish male given name derived from the Greek name Christopher, and Karoń, which is a Polish surname derived from the word karać (to punish). In English, the name would be translated as Christopher Karoń. |
+| 15 | [Emaus](http://twitter.com/search?q=Emaus) | Emaus is a biblical town mentioned in the Gospel of Luke. It is the place where Jesus appeared to two of his disciples after his resurrection. In English, Emaus means "a place of hope and joy". |
+| 16 | [Mrozu](http://twitter.com/search?q=Mrozu) | Mrozu is a Polish rock band formed in 2004. The name Mrozu is derived from the Polish word for "fog". In English, it can be translated to mean "misty". |
+| 17 | [zaksa](http://twitter.com/search?q=zaksa) | Zaksa is a Polish word that means "help" or "support". It is often used to refer to assistance given to someone in need. |
+| 18 | [Kościołem](http://twitter.com/search?q=Ko%c5%9bcio%c5%82em) | Kościołem is a Polish word meaning "church". |
+| 19 | [Kasiu](http://twitter.com/search?q=Kasiu) | Kasiu is a Polish term of endearment that translates to "darling" or "sweetheart" in English. |
+| 20 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | Cześć is a Polish greeting that translates to "Hello" or "Hi" in English. |
+| 21 | [Tłumy](http://twitter.com/search?q=T%c5%82umy) | Tłumy is a Polish word that means "crowds" or "masses" in English. It is used to refer to large groups of people gathered together in one place. |
+| 22 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | Żydów is a Polish word meaning "Jews". |
+| 23 | [Ruch](http://twitter.com/search?q=Ruch) | Ruch is a German word meaning "movement" or "motion". It can also refer to a specific type of movement, such as a dance or a march. |
+| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 25 | [Zawisza](http://twitter.com/search?q=Zawisza) | Zawisza is a Polish name derived from the Old Slavic word zawis, meaning "strong". It is also the name of a legendary Polish knight and national hero. In English, it can be translated to mean "the strong one". |
+| 26 | [Engelking](http://twitter.com/search?q=Engelking) | Engelking is a German surname. It is derived from the German word "Engel," which means angel, and "king," which means ruler. In English, Engelking can be translated to mean "angel ruler." |
+| 27 | [Sobol](http://twitter.com/search?q=Sobol) | Sobol is a Russian surname derived from the given name Sobol, which means "sable" in English. It is also used as a nickname for someone who is sly or cunning. |
+| 28 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
+| 29 | [Leon](http://twitter.com/search?q=Leon) | Leon is a Spanish name meaning "lion". It is also a French name meaning "brave as a lion". |
+| 30 | [puszczą](http://twitter.com/search?q=puszcz%c4%85) | Puszczą is a Polish verb meaning "to let go" or "to release." In English, it can be used to describe the act of releasing something or someone. |
+| 31 | [junca](http://twitter.com/search?q=junca) | Junca is a Spanish word that refers to a type of grass or reed found in wetlands. In English, it is sometimes referred to as bulrush or cattail. |
+| 32 | [Sarara](http://twitter.com/search?q=Sarara) | Sarara is a Japanese term that is used to express surprise or excitement. It can be translated to English as "Wow!" or "Oh my!" |
+| 33 | [WOŚP](http://twitter.com/search?q=WO%c5%9aP) | WOŚP stands for the Great Orchestra of Christmas Charity, a Polish charity organization founded in 1993. The organization's mission is to provide medical equipment and services to children in need. The acronym WOŚP is derived from the Polish words for "Great Orchestra of Christmas Charity". |
+| 34 | [Bakole](http://twitter.com/search?q=Bakole) | Bakole is a language spoken by the Bakole people of the Democratic Republic of Congo. It is a Bantu language and its English translation is "people". |
+| 35 | [Polaków](http://twitter.com/search?q=Polak%c3%b3w) | Polaków is the plural form of the Polish word "Polak," which means "Pole" or "Polish person." In English, Polaków would be translated as "Poles." |
+| 36 | [abu hanna](http://twitter.com/search?q=abu+hanna) | Abu Hanna is an Arabic name meaning "Father of Hanna". It is commonly used as a given name for males in the Middle East. |
+| 37 | [Muli](http://twitter.com/search?q=Muli) | Muli is a Filipino word that means "many" or "a lot". It is often used to describe a large quantity of something. |
+| 38 | [szot](http://twitter.com/search?q=szot) | Szot is a Polish word meaning "cheers" or "to your health." It is used as a toast when drinking alcohol. |
+| 39 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 40 | [Ons Jabeur](http://twitter.com/search?q=Ons+Jabeur) | Ons Jabeur is a professional tennis player from Tunisia. Her name translates to "Our Jabeur" in English, which is a reference to her being a source of pride for her country. |
+| 41 | [Motyka](http://twitter.com/search?q=Motyka) | Motyka is a Polish word that means "hayfork". It is used to refer to a tool with a long handle and curved tines used for lifting and turning hay. |
+| 42 | [cepelia](http://twitter.com/search?q=cepelia) | Cepelia is a Polish folk art and craft cooperative founded in 1950. It specializes in traditional handicrafts, such as pottery, woodcarving, weaving, and embroidery. The name Cepelia is derived from the Latin word for “little house” and symbolizes the cooperative’s commitment to preserving traditional Polish culture. |
+| 43 | [Dawid](http://twitter.com/search?q=Dawid) | Dawid is a Polish name derived from the Hebrew name David, which means "beloved". |
+| 44 | [Borussia](http://twitter.com/search?q=Borussia) | Borussia is a Latin word meaning Prussia, which is a region in Central Europe. It is also the name of several sports teams in Germany, most notably Borussia Dortmund, a football (soccer) team based in Dortmund, North Rhine-Westphalia. |
+| 45 | [Orlen](http://twitter.com/search?q=Orlen) | Orlen is a Polish oil and gas company. It is the largest company in Poland and one of the largest companies in Central Europe. The name Orlen is derived from the Polish word for "oil". |
+| 46 | [Rodado](http://twitter.com/search?q=Rodado) | Rodado is a Spanish word that means "wheeled". It is used to describe something that has wheels, such as a car or bicycle. |
+| 47 | [wcisło](http://twitter.com/search?q=wcis%c5%82o) | Wcisło is a Polish word meaning "silent" or "quiet". It is used to describe someone or something that is not making any noise. |
+| 48 | [kupił](http://twitter.com/search?q=kupi%c5%82) | Kupił is a Polish verb meaning "to buy" in English. |
+| 49 | [Filipek](http://twitter.com/search?q=Filipek) | Filipek is a Polish surname. It is derived from the given name Filip, which is the Polish form of the name Philip. The English meaning of Filipek is "son of Philip". |
+| 50 | [Suzume](http://twitter.com/search?q=Suzume) | Suzume is a Japanese word meaning "sparrow". It is also used as a name for girls in Japan. |
 
 
 
