@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-23 01:55:06 UTC`
+📆 Last Updated: `2023-04-23 02:47:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for Denmark
 | 1 | [NATO](http://twitter.com/search?q=NATO) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. Its purpose is to protect the freedom and security of its member states by providing collective defense against aggression from any external source. |
 | 2 | [#ARSSOU](http://twitter.com/search?q=%23ARSSOU) | #ARSSOU is an acronym for the French phrase "A Rien Sans Son Ou Son". It translates to "Nothing Without His or Her". It is often used to express support for someone who is going through a difficult time. |
 | 3 | [#EarthDay](http://twitter.com/search?q=%23EarthDay) | Earth Day is an annual event celebrated on April 22nd to demonstrate support for environmental protection. It was first celebrated in 1970, and is now recognized by more than 193 countries. The day is used to promote awareness and appreciation for the Earth's natural environment, and to encourage people to take action to protect it. |
-| 4 | [mærsk](http://twitter.com/search?q=m%c3%a6rsk) | Mærsk is a Danish shipping and energy company. The name is derived from the surname of its founder, Arnold Peter Mærsk Møller. In English, it means "merchant". |
-| 5 | [#sifaab](http://twitter.com/search?q=%23sifaab) | #sifaab is a hashtag used on social media to promote awareness of the Sifaab project, which is an initiative to help improve the lives of women and girls in Somalia. The hashtag stands for "Supporting Inclusive Female Access to Basic Services". |
+| 4 | [#sifaab](http://twitter.com/search?q=%23sifaab) | #sifaab is a hashtag used on social media to promote awareness of the Sifaab project, which is an initiative to help improve the lives of women and girls in Somalia. The hashtag stands for "Supporting Inclusive Female Access to Basic Services". |
+| 5 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | Mærsk is a Danish shipping and energy company founded in 1904. The name Mærsk is derived from the founder's last name, Arnold Peter Mærsk Mc-Kinney Møller. In English, the name translates to "Merchant". |
 | 6 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | Dame Edna is a character created and performed by Australian comedian Barry Humphries. She is a larger-than-life housewife and celebrity who often appears on television, in films, and on stage. Dame Edna is known for her outrageous outfits, her sharp wit, and her catchphrase "Hello Possums!" |
 | 7 | [Pelle](http://twitter.com/search?q=Pelle) | Pelle is a Swedish name derived from the Latin word petrus, meaning "rock" or "stone". It is also a nickname for names such as Per, Peter, and Pelle. In English, it can be used as a given name or nickname. |
 | 8 | [#DaJegVar](http://twitter.com/search?q=%23DaJegVar) | #DaJegVar is a hashtag used on social media in Norway. It translates to "When I Was" and is used to share memories or stories from the past. |
@@ -62,7 +62,7 @@ This is top 50 for Denmark
 | 45 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 46 | [jisoo](http://twitter.com/search?q=jisoo) | Jisoo is a Korean given name, typically used for females. It is derived from the Chinese characters meaning “beautiful” and “precious”. In English, it can be translated to mean “beautiful and precious”. |
 | 47 | [USSR](http://twitter.com/search?q=USSR) | USSR stands for the Union of Soviet Socialist Republics, which was a communist state that existed from 1922 to 1991. It was a single-party state governed by the Communist Party of the Soviet Union and comprised 15 constituent republics. The USSR was the largest country in the world at the time, covering over one-sixth of the Earth's land area. |
-| 48 | [Ungarn](http://twitter.com/search?q=Ungarn) | Ungarn is the German word for Hungary. In English, it means Hungary. |
+| 48 | [ungarn](http://twitter.com/search?q=ungarn) | Ungarn is the German word for Hungary. In English, it means Hungary. |
 | 49 | [Hamburg](http://twitter.com/search?q=Hamburg) | Hamburg is a city in northern Germany. It is the second-largest city in the country and the largest port in Germany. The name Hamburg comes from the Old German word "hamma", meaning "fortified settlement". |
 | 50 | [vanvittigt](http://twitter.com/search?q=vanvittigt) | Vanvittigt is a Danish word that translates to "insane" or "crazy" in English. It is used to describe someone who is behaving in an irrational or erratic manner. |
 

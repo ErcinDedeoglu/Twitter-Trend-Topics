@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-23 01:55:36 UTC`
+📆 Last Updated: `2023-04-23 02:47:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,7 +37,7 @@ This is top 50 for Latvia
 | 20 | [krievu](http://twitter.com/search?q=krievu) | Krievu is the Latvian word for Russian. It is used to refer to the language, people, or culture of Russia. |
 | 21 | [NATO](http://twitter.com/search?q=NATO) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. Its purpose is to protect the freedom and security of its member states by providing collective defense against aggression from any external source. |
 | 22 | [#atkrieviskolatviju](http://twitter.com/search?q=%23atkrieviskolatviju) | #Atkrieviskolatviju is a hashtag used on social media in Latvia to promote the idea of learning Latvian. It translates to "Let's learn Latvian" in English. |
-| 23 | [Kādi](http://twitter.com/search?q=K%c4%81di) | Kādi is a type of traditional Gujarati sweet made from milk, sugar, and flour. It is often served during festivals and special occasions. In English, the word Kādi translates to "sweet". |
+| 23 | [kādi](http://twitter.com/search?q=k%c4%81di) | Kādi is a type of Indian sweet made from chickpea flour, sugar, and ghee. It is usually served as a dessert or snack. In English, it can be translated to "fudge". |
 | 24 | [satversmes](http://twitter.com/search?q=satversmes) | Satversmes is the Constitution of Latvia. It is the fundamental law of the country, and it establishes the framework for the government and its laws. In English, it means "Constitution". |
 | 25 | [problēma](http://twitter.com/search?q=probl%c4%93ma) | Problēma is a Latin word meaning "problem" or "difficulty". In English, it is used to refer to any issue or difficulty that needs to be solved. |
 | 26 | [Vakar](http://twitter.com/search?q=Vakar) | Vakar is a Lithuanian word meaning "evening" or "night". |
@@ -54,9 +54,9 @@ This is top 50 for Latvia
 | 37 | [progresīvie](http://twitter.com/search?q=progres%c4%abvie) | Progresīvie is an adjective in Latvian that means progressive or forward-thinking. It is used to describe something that is open to change and innovation. |
 | 38 | [#GamblingTwitter](http://twitter.com/search?q=%23GamblingTwitter) | #GamblingTwitter is a hashtag used on Twitter to refer to the online community of people who are interested in gambling, such as sports betting, casino gaming, and other forms of gambling. It is used to connect with other gamblers and discuss topics related to gambling. |
 | 39 | [ķīnu](http://twitter.com/search?q=%c4%b7%c4%abnu) | Ķīnu is the Latvian word for China. It is derived from the Latin word Sinus, which means "Chinese". |
-| 40 | [visiem](http://twitter.com/search?q=visiem) | Visiem is not a word in English. It does not have a meaning in English. |
-| 41 | [ukrainai](http://twitter.com/search?q=ukrainai) | Ukrainai is a type of traditional Ukrainian folk dance. It is a lively, fast-paced dance that is usually performed in a circle and involves clapping, stomping, and spinning. The name comes from the Ukrainian word for "dance". In English, it means "to dance". |
-| 42 | [#Latvia](http://twitter.com/search?q=%23Latvia) | #Latvia is a country in Northern Europe. It is bordered by Estonia to the north, Lithuania to the south, Russia to the east, Belarus to the southeast, and the Baltic Sea and Sweden to the west. The capital of Latvia is Riga. The official language is Latvian. The population of Latvia is approximately 1.9 million people. |
+| 40 | [#birdle](http://twitter.com/search?q=%23birdle) | #Birdle is an internet slang term used to express excitement or enthusiasm. It is derived from the phrase "birdle up," which is a combination of the words "bird" and "huddle." The term can be used to show support for someone or something, or to express joy and excitement. |
+| 41 | [visiem](http://twitter.com/search?q=visiem) | Visiem is not a word in English. It does not have a meaning in English. |
+| 42 | [ukrainai](http://twitter.com/search?q=ukrainai) | Ukrainai is a type of traditional Ukrainian folk dance. It is a lively, fast-paced dance that is usually performed in a circle and involves clapping, stomping, and spinning. The name comes from the Ukrainian word for "dance". In English, it means "to dance". |
 | 43 | [ogri](http://twitter.com/search?q=ogri) | Ogri is a term used in the Irish language to describe a person who is slow-witted or foolish. In English, it can be translated as "stupid" or "dim-witted". |
 | 44 | [parasti](http://twitter.com/search?q=parasti) | Parasti is a Persian word that means "to obey" or "to comply". It is often used in the context of religious obedience or submission to authority. |
 | 45 | [prieks](http://twitter.com/search?q=prieks) | Prieks is a Latvian word meaning "happiness" or "joy". |

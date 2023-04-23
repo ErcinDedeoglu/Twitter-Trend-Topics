@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-23 01:55:35 UTC`
+📆 Last Updated: `2023-04-23 02:47:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for Lebanon
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#محمد_قنوع](http://twitter.com/search?q=%23%d9%85%d8%ad%d9%85%d8%af_%d9%82%d9%86%d9%88%d8%b9) | #محمد_قنوع is an Arabic hashtag that translates to "Mohammed the Generous". It is used to express appreciation for someone who has been generous or kind. |
-| 2 | [عيد مبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | عيد مبارك (pronounced "Eid Mubarak") is an Arabic phrase that translates to "blessed celebration" or "happy celebration" in English. It is typically used to greet someone during a religious holiday or special occasion. |
-| 3 | [#معين_شريف](http://twitter.com/search?q=%23%d9%85%d8%b9%d9%8a%d9%86_%d8%b4%d8%b1%d9%8a%d9%81) | #معين_شريف is a hashtag used in Arabic to show support for the Saudi Arabian footballer, Mohammed Al-Shalhoub. In English, it translates to "Support Mohammed Al-Shalhoub". |
-| 4 | [وسام فارس](http://twitter.com/search?q=%d9%88%d8%b3%d8%a7%d9%85+%d9%81%d8%a7%d8%b1%d8%b3) | وسام فارس is an Iranian military medal awarded to members of the Iranian Armed Forces for bravery and courage in battle. In English, it translates to "Order of Fars". |
+| 2 | [#معين_شريف](http://twitter.com/search?q=%23%d9%85%d8%b9%d9%8a%d9%86_%d8%b4%d8%b1%d9%8a%d9%81) | #معين_شريف is a hashtag used in Arabic to show support for the Saudi Arabian footballer, Mohammed Al-Shalhoub. In English, it translates to "Support Mohammed Al-Shalhoub". |
+| 3 | [وسام فارس](http://twitter.com/search?q=%d9%88%d8%b3%d8%a7%d9%85+%d9%81%d8%a7%d8%b1%d8%b3) | وسام فارس is an Iranian military medal awarded to members of the Iranian Armed Forces for bravery and courage in battle. In English, it translates to "Order of Fars". |
+| 4 | [عيد مبارك](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | عيد مبارك (pronounced "Eid Mubarak") is an Arabic phrase that translates to "blessed celebration" or "happy celebration" in English. It is typically used to greet someone during a religious holiday or special occasion. |
 | 5 | [#عيد_فطر_مبارك](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d9%81%d8%b7%d8%b1_%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | #عيد_فطر_مبارك is a hashtag used to wish someone a blessed Eid al-Fitr, which marks the end of Ramadan. In English, it translates to "Blessed Eid al-Fitr". |
 | 6 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | مروان is an Arabic name meaning "brave" or "strong". |
-| 7 | [#عيد_الفطر_المبارك](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%81%d8%b7%d8%b1_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | #عيد_الفطر_المبارك is an Arabic hashtag that translates to "Blessed Eid al-Fitr" in English. It is used to celebrate the Islamic holiday of Eid al-Fitr, which marks the end of Ramadan. |
-| 8 | [طلال ارسلان](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d8%a7%d8%b1%d8%b3%d9%84%d8%a7%d9%86) | طلال ارسلان is a phrase in Arabic which translates to "Talaal Arsalan," and it means "The Crown of Arsalan." It is a phrase used to refer to someone who is noble, wise, and generous. |
-| 9 | [#كل_عام_وانتم_بخير](http://twitter.com/search?q=%23%d9%83%d9%84_%d8%b9%d8%a7%d9%85_%d9%88%d8%a7%d9%86%d8%aa%d9%85_%d8%a8%d8%ae%d9%8a%d8%b1) | #كل_عام_وانتم_بخير is an Arabic phrase that translates to "Happy New Year and may you all be in good health". It is a common greeting used to wish someone a happy and healthy new year. |
+| 7 | [طلال ارسلان](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d8%a7%d8%b1%d8%b3%d9%84%d8%a7%d9%86) | طلال ارسلان is a phrase in Arabic which translates to "Talaal Arsalan," and it means "The Crown of Arsalan." It is a phrase used to refer to someone who is noble, wise, and generous. |
+| 8 | [#كل_عام_وانتم_بخير](http://twitter.com/search?q=%23%d9%83%d9%84_%d8%b9%d8%a7%d9%85_%d9%88%d8%a7%d9%86%d8%aa%d9%85_%d8%a8%d8%ae%d9%8a%d8%b1) | #كل_عام_وانتم_بخير is an Arabic phrase that translates to "Happy New Year and may you all be in good health". It is a common greeting used to wish someone a happy and healthy new year. |
+| 9 | [#عيد_الفطر_المبارك](http://twitter.com/search?q=%23%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%81%d8%b7%d8%b1_%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | #عيد_الفطر_المبارك is an Arabic hashtag that translates to "Blessed Eid al-Fitr" in English. It is used to celebrate the Islamic holiday of Eid al-Fitr, which marks the end of Ramadan. |
 | 10 | [كميل ابو سليمان](http://twitter.com/search?q=%d9%83%d9%85%d9%8a%d9%84+%d8%a7%d8%a8%d9%88+%d8%b3%d9%84%d9%8a%d9%85%d8%a7%d9%86) | كميل ابو سليمان is an Arabic phrase that translates to "Kamil, the son of Sulaiman". It is a common name in the Middle East. |
 | 11 | [Eid Mubarak](http://twitter.com/search?q=Eid+Mubarak) | Eid Mubarak is an Arabic phrase that translates to “blessed celebration” in English. It is a traditional Muslim greeting used to celebrate the end of Ramadan, the Islamic holy month of fasting. |
 | 12 | [عيد سعيد](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%b3%d8%b9%d9%8a%d8%af) | عيد سعيد is an Arabic phrase that translates to "Happy Holiday" in English. It is a common greeting used to wish someone a happy holiday season. |

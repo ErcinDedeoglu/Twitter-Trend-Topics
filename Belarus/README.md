@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-23 01:55:02 UTC`
+📆 Last Updated: `2023-04-23 02:46:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for Belarus
 | 1 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | Скорее is a Russian adverb that means "sooner" or "quicker". It is used to express the idea of doing something quickly or as soon as possible. |
 | 2 | [дааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0) | "Дааа" is a Russian expression that is used to express agreement, understanding, or acceptance. In English, it could be translated as "yes," "okay," or "all right." |
 | 3 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | Twitter is a social media platform that allows users to post short messages (up to 280 characters) called "tweets". It is used by millions of people around the world to share news, opinions, and other content. |
-| 4 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | Юнги (pronounced "yoon-gee") is a Russian word that means "young people" or "youth." It is often used to refer to young people who are active in social and political movements. |
+| 4 | [юнги](http://twitter.com/search?q=%d1%8e%d0%bd%d0%b3%d0%b8) | "Юнги" is a Russian word that translates to "youths" in English. It is used to refer to young people, typically between the ages of 13 and 18. |
 | 5 | [обязательно](http://twitter.com/search?q=%d0%be%d0%b1%d1%8f%d0%b7%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be) | "Обязательно" is a Russian word meaning "mandatory" or "obligatory". It is used to describe something that must be done or is required. |
 | 6 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | Гродно is a city in Belarus. It is the capital of the Grodno Region and the center of the Grodno District. In English, it is sometimes referred to as Grodno or Hrodna. |
 | 7 | [GM Fren](http://twitter.com/search?q=GM+Fren) | GM Fren is an acronym for "Good Morning Friend." It is a friendly greeting used to say hello to someone in the morning. |
@@ -27,7 +27,7 @@ This is top 50 for Belarus
 | 10 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | Звучит is a Russian expression that means "sounds like" or "it sounds". It is used to express agreement or understanding of something that has been said. |
 | 11 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | Круто is a Russian slang word that means "cool" or "awesome". It is often used to express approval or admiration. |
 | 12 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | #NFTCommunity is an acronym for the Non-Fungible Token Community. It is a group of people who are interested in and actively involved in the development, trading, and use of Non-Fungible Tokens (NFTs). NFTs are digital assets that are unique and cannot be replicated or exchanged for something else. They are used to represent ownership of digital items such as artwork, music, videos, gaming items, and more. |
-| 13 | [#seilors](http://twitter.com/search?q=%23seilors) | #Seilors is a hashtag used on social media to refer to people who are part of the maritime industry, such as sailors, fishermen, and boat captains. It is used to share stories, photos, and experiences related to life at sea. |
+| 13 | [#Seilors](http://twitter.com/search?q=%23Seilors) | #Seilors is a hashtag used on social media to show support for the U.S. Navy and its sailors. It is often used to recognize the hard work and dedication of those who serve in the Navy, as well as to show appreciation for their service. |
 | 14 | [#seilorgang](http://twitter.com/search?q=%23seilorgang) | #Seilorgang is a German phrase that translates to “rope climbing” in English. It is a popular outdoor activity in Germany, where participants climb up and down a rope ladder or rope bridge. |
 | 15 | [правильно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | Правильно is a Russian word that means "correctly" or "rightly". It is used to describe something that has been done in the correct way or according to the rules. |
 | 16 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | "Минск" is the capital city of Belarus. In English, it is known as Minsk. |

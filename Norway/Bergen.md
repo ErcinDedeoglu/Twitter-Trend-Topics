@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-23 01:50:05 UTC`
+📆 Last Updated: `2023-04-23 02:40:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | Rødt is a Norwegian political party that stands for socialism, democracy, and environmentalism. In English, it translates to "Red". |
+| 1 | [rødt](http://twitter.com/search?q=r%c3%b8dt) | Rødt is a Norwegian word meaning "red". |
 | 2 | [Jota](http://twitter.com/search?q=Jota) | Jota is a traditional Spanish dance and music style that originated in the 18th century. It is a lively, upbeat dance with quick footwork and intricate hand movements. The name Jota comes from the Spanish word jota, which means "jump" or "dance." In English, it can be translated as "the dance of joy." |
 | 3 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
 | 4 | [padde](http://twitter.com/search?q=padde) | Padde is not a word in English. It may be a misspelling of the word "paddle," which is a tool used for propelling and steering a boat through the water. |
@@ -32,7 +32,7 @@ This is top 50 for [Norway](</Norway>)
 | 15 | [Ukraina](http://twitter.com/search?q=Ukraina) | Ukraina is the Ukrainian name for Ukraine, a country located in Eastern Europe. The English translation of Ukraina is Ukraine. |
 | 16 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 17 | [USAs](http://twitter.com/search?q=USAs) | USAs is an acronym for the United States of America. It is used to refer to the country as a whole, or to its government and people. |
-| 18 | [Bergen](http://twitter.com/search?q=Bergen) | Bergen is a city in Norway. It is the second largest city in the country and is known for its picturesque harbor, its many cultural attractions, and its lively nightlife. In English, Bergen means "mountain". |
+| 18 | [bergen](http://twitter.com/search?q=bergen) | Bergen is a city in Norway. It is the second largest city in the country and is known for its beautiful fjords, mountains, and coastal scenery. In English, Bergen means "mountain". |
 | 19 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | Arsenal is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 League titles, a record 13 FA Cups, two League Cups, 15 FA Community Shields, and one UEFA Cup Winners' Cup. The club's nickname is "The Gunners" and its home ground is the Emirates Stadium. |
 | 20 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
 | 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
@@ -45,24 +45,24 @@ This is top 50 for [Norway](</Norway>)
 | 28 | [stenseng](http://twitter.com/search?q=stenseng) | Stenseng is a Norwegian word meaning "shelter" or "refuge". It is often used to refer to a place of safety or protection. |
 | 29 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
 | 30 | [Poch](http://twitter.com/search?q=Poch) | Poch is a Spanish slang term that means "lazy" or "slacker." It is often used to describe someone who is not motivated or who avoids work. |
-| 31 | [NATOs](http://twitter.com/search?q=NATOs) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. The organization's stated purpose is to promote stability and security in the region. |
-| 32 | [Islam](http://twitter.com/search?q=Islam) | Islam is a monotheistic religion based on the teachings of the Islamic prophet Muhammad. It is the world's second-largest religion with over 1.8 billion followers or 24.1% of the world's population, most commonly known as Muslims. The word Islam means "submission" or "surrender" in Arabic, and it is derived from a root word meaning "peace." |
-| 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 34 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 35 | [Sveits](http://twitter.com/search?q=Sveits) | Sveits is the Norwegian word for Switzerland. In English, it is pronounced "svite." |
-| 36 | [Meghan](http://twitter.com/search?q=Meghan) | Meghan is a female given name of English origin, derived from the Old French name Meghane. It is a variant of the name Megan, which means "pearl" or "strong and capable". |
-| 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 38 | [Pelle](http://twitter.com/search?q=Pelle) | Pelle is a Swedish name derived from the Latin word petrus, meaning "rock" or "stone". It is also a nickname for names such as Per, Peter, and Pelle. In English, it can be used as a given name or nickname. |
-| 39 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | #2fantasy is a hashtag used on social media platforms such as Twitter and Instagram to tag posts related to fantasy fiction, such as books, movies, and games. It is used to help people find content related to fantasy topics. |
-| 40 | [Faktisk](http://twitter.com/search?q=Faktisk) | Faktisk is a Danish word that translates to "actually" or "in fact" in English. It is used to emphasize a statement or opinion. |
-| 41 | [storbritannia](http://twitter.com/search?q=storbritannia) | Storbritannia is the Norwegian word for the United Kingdom. In English, it translates to "Great Britain". |
-| 42 | [#digitalart](http://twitter.com/search?q=%23digitalart) | #DigitalArt is a term used to describe artwork created using digital technology, such as computer software, graphics tablets, and other digital tools. It can include traditional art forms such as painting and drawing, as well as more modern forms such as 3D modeling and animation. Digital art can be used for a variety of purposes, including commercial projects, personal expression, and educational activities. |
-| 43 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 44 | [Vestre](http://twitter.com/search?q=Vestre) | Vestre is a Scandinavian clothing brand that specializes in outdoor apparel and accessories. The name Vestre is derived from the Norwegian word for “west”, and the brand’s mission is to provide functional, stylish clothing for outdoor activities. |
-| 45 | [vedum](http://twitter.com/search?q=vedum) | Vedum is a Swedish word meaning "to know" or "to understand". It is often used in the phrase "att veta och förstå", which translates to "to know and understand". |
-| 46 | [Russland](http://twitter.com/search?q=Russland) | Russland is the German word for Russia. It is derived from the Latin word "Russia", which means "land of the Rus". In English, it is simply referred to as Russia. |
-| 47 | [moxnes](http://twitter.com/search?q=moxnes) | Moxnes is a Norwegian surname. It is derived from the Old Norse word móðir, meaning "mother". In English, the name can be translated to mean "son of the mother". |
-| 48 | [#debatten](http://twitter.com/search?q=%23debatten) | #Debatten is a hashtag used on social media in the Netherlands to discuss current topics and debates. In English, it translates to “#debate”. |
+| 31 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 32 | [NATOs](http://twitter.com/search?q=NATOs) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. The organization's stated purpose is to promote stability and security in the region. |
+| 33 | [Islam](http://twitter.com/search?q=Islam) | Islam is a monotheistic religion based on the teachings of the Islamic prophet Muhammad. It is the world's second-largest religion with over 1.8 billion followers or 24.1% of the world's population, most commonly known as Muslims. The word Islam means "submission" or "surrender" in Arabic, and it is derived from a root word meaning "peace." |
+| 34 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 35 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 36 | [Sveits](http://twitter.com/search?q=Sveits) | Sveits is the Norwegian word for Switzerland. In English, it is pronounced "svite." |
+| 37 | [Meghan](http://twitter.com/search?q=Meghan) | Meghan is a female given name of English origin, derived from the Old French name Meghane. It is a variant of the name Megan, which means "pearl" or "strong and capable". |
+| 38 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 39 | [Pelle](http://twitter.com/search?q=Pelle) | Pelle is a Swedish name derived from the Latin word petrus, meaning "rock" or "stone". It is also a nickname for names such as Per, Peter, and Pelle. In English, it can be used as a given name or nickname. |
+| 40 | [#2fantasy](http://twitter.com/search?q=%232fantasy) | #2fantasy is a hashtag used on social media platforms such as Twitter and Instagram to tag posts related to fantasy fiction, such as books, movies, and games. It is used to help people find content related to fantasy topics. |
+| 41 | [Faktisk](http://twitter.com/search?q=Faktisk) | Faktisk is a Danish word that translates to "actually" or "in fact" in English. It is used to emphasize a statement or opinion. |
+| 42 | [storbritannia](http://twitter.com/search?q=storbritannia) | Storbritannia is the Norwegian word for the United Kingdom. In English, it translates to "Great Britain". |
+| 43 | [#digitalart](http://twitter.com/search?q=%23digitalart) | #DigitalArt is a term used to describe artwork created using digital technology, such as computer software, graphics tablets, and other digital tools. It can include traditional art forms such as painting and drawing, as well as more modern forms such as 3D modeling and animation. Digital art can be used for a variety of purposes, including commercial projects, personal expression, and educational activities. |
+| 44 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
+| 45 | [vestre](http://twitter.com/search?q=vestre) | Vestre is a Norwegian word meaning "west". |
+| 46 | [vedum](http://twitter.com/search?q=vedum) | Vedum is a Swedish word meaning "to know" or "to understand". It is often used in the phrase "att veta och förstå", which translates to "to know and understand". |
+| 47 | [Russland](http://twitter.com/search?q=Russland) | Russland is the German word for Russia. It is derived from the Latin word "Russia", which means "land of the Rus". In English, it is simply referred to as Russia. |
+| 48 | [moxnes](http://twitter.com/search?q=moxnes) | Moxnes is a Norwegian surname. It is derived from the Old Norse word móðir, meaning "mother". In English, the name can be translated to mean "son of the mother". |
 
 
 
