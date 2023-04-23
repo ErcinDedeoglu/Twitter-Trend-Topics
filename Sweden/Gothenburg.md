@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-23 02:40:41 UTC`
+📆 Last Updated: `2023-04-23 03:22:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nybro](http://twitter.com/search?q=Nybro) | Nybro is a municipality in the Kalmar County of Sweden. The name Nybro is derived from the Old Norse words nýr (new) and brú (bridge). In English, Nybro translates to "new bridge". |
+| 1 | [nybro](http://twitter.com/search?q=nybro) | Nybro is a municipality in the Kalmar County of Sweden. It is located on the east coast of the country, and its population is approximately 18,000. The name Nybro comes from the Old Norse words nýr (new) and brú (bridge). In English, Nybro translates to "new bridge". |
 | 2 | [Sudan](http://twitter.com/search?q=Sudan) | Sudan is a country located in North-East Africa. It is bordered by Egypt to the north, Libya to the northwest, Chad to the west, Central African Republic to the southwest, South Sudan to the south, Ethiopia to the southeast, Eritrea to the east and Red Sea to the northeast. The name Sudan is derived from Arabic and means "land of black people". |
 | 3 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | Dame Edna is a character created and performed by Australian comedian Barry Humphries. She is a larger-than-life housewife and celebrity who often appears on television, in films, and on stage. Dame Edna is known for her outrageous outfits, her sharp wit, and her catchphrase "Hello Possums!" |
 | 4 | [Strandhäll](http://twitter.com/search?q=Strandh%c3%a4ll) | Strandhäll is a Swedish word that translates to "beach chair" in English. It is a type of chair designed for use on the beach, usually made of wood or metal and featuring a backrest and armrests. |
@@ -36,7 +36,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 19 | [#gais](http://twitter.com/search?q=%23gais) | #Gais is a hashtag used on social media to refer to the Swedish football team, GAIS (Göteborgs Atlet- och Idrottssällskap). It is often used by fans of the team to show their support and share news and updates about the team. In English, it stands for Göteborgs Atlet- och Idrottssällskap. |
 | 20 | [kakan](http://twitter.com/search?q=kakan) | Kakan is a Japanese word that means “to sing” or “to chant.” It is often used in the context of traditional Japanese music, such as Noh and Kabuki theater. |
 | 21 | [elle-galan](http://twitter.com/search?q=elle-galan) | Elle-galan is a French phrase that translates to "she is beautiful" or "she is lovely." It is often used as a compliment to describe a woman's beauty. |
-| 22 | [SKMA](http://twitter.com/search?q=SKMA) | SKMA is an acronym for Sekolah Kebangsaan Melayu Alor Setar, which is a primary school in Alor Setar, Malaysia. In English, it translates to Alor Setar Malay National School. |
+| 22 | [skma](http://twitter.com/search?q=skma) | Skma is an acronym for the Swahili phrase “Sikiliza Mambo Yako” which translates to “Listen to Your Own Matters”. It is a reminder to focus on your own life and not worry about what other people are doing. |
 | 23 | [HockeyAllsvenskan](http://twitter.com/search?q=HockeyAllsvenskan) | HockeyAllsvenskan is the second-highest league in Swedish ice hockey. It is the equivalent of the English Football League Championship. The name translates to "All Swedish Hockey" in English. |
 | 24 | [Charlie](http://twitter.com/search?q=Charlie) | Charlie is a slang term for cocaine. It is derived from the name of the drug's chemical compound, Cocaine Hydrochloride. |
 | 25 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | #screenshotsaturday is a hashtag used on Twitter to share screenshots of video games and other digital media. It is typically used by developers, artists, and fans to showcase their work and share it with the gaming community. The hashtag is used every Saturday to encourage people to post screenshots of their projects or games they are working on. |
@@ -48,7 +48,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 31 | [ingman](http://twitter.com/search?q=ingman) | Ingman is not a word in English. It does not have a meaning. |
 | 32 | [bernhardt](http://twitter.com/search?q=bernhardt) | Bernhardt is a German surname derived from the given name Bernhard, which means "brave as a bear". It is also the name of a French furniture company founded in 1889 by Edmond Bernhardt. The company is known for its high-end, luxury furniture and home decor. |
 | 33 | [Piteå](http://twitter.com/search?q=Pite%c3%a5) | Piteå is a town in northern Sweden. It is the seat of Piteå Municipality and the capital of Norrbotten County. The name Piteå comes from the Sami language and means "river mouth". |
-| 34 | [Degerfors](http://twitter.com/search?q=Degerfors) | Degerfors is a municipality in Sweden. The name Degerfors comes from the river Degerån, which flows through the town. In English, it means "the ford of the Deger River". |
+| 34 | [degerfors](http://twitter.com/search?q=degerfors) | Degerfors is a municipality in Sweden. The name is derived from the old Swedish words "deger" (pasture) and "fors" (rapids). In English, it can be translated to mean "rapids of the pasture". |
 | 35 | [thornberg](http://twitter.com/search?q=thornberg) | Thornberg is a Swedish surname derived from the Old Norse words "Þorn" and "berg", meaning "thorn" and "mountain" respectively. The name is most commonly found in Sweden, but can also be found in other Scandinavian countries. |
 | 36 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 37 | [Suhonen](http://twitter.com/search?q=Suhonen) | Suhonen is a Finnish surname. It is derived from the word "suhde", which means "relationship" or "connection". In English, the meaning of Suhonen is "one who has strong relationships". |

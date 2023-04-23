@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-23 02:47:00 UTC`
+📆 Last Updated: `2023-04-23 03:27:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Denmark
 | 5 | [Mærsk](http://twitter.com/search?q=M%c3%a6rsk) | Mærsk is a Danish shipping and energy company founded in 1904. The name Mærsk is derived from the founder's last name, Arnold Peter Mærsk Mc-Kinney Møller. In English, the name translates to "Merchant". |
 | 6 | [Dame Edna](http://twitter.com/search?q=Dame+Edna) | Dame Edna is a character created and performed by Australian comedian Barry Humphries. She is a larger-than-life housewife and celebrity who often appears on television, in films, and on stage. Dame Edna is known for her outrageous outfits, her sharp wit, and her catchphrase "Hello Possums!" |
 | 7 | [Pelle](http://twitter.com/search?q=Pelle) | Pelle is a Swedish name derived from the Latin word petrus, meaning "rock" or "stone". It is also a nickname for names such as Per, Peter, and Pelle. In English, it can be used as a given name or nickname. |
-| 8 | [#DaJegVar](http://twitter.com/search?q=%23DaJegVar) | #DaJegVar is a hashtag used on social media in Norway. It translates to "When I Was" and is used to share memories or stories from the past. |
+| 8 | [#dajegvar](http://twitter.com/search?q=%23dajegvar) | #dajegvar is a hashtag used by the Georgian National Tourism Administration to promote tourism in Georgia. It translates to "Come to Georgia" in English. |
 | 9 | [#Arsenal](http://twitter.com/search?q=%23Arsenal) | Arsenal is a professional football club based in London, England. It is one of the most successful clubs in English football, having won 13 League titles, a record 13 FA Cups, two League Cups, 15 FA Community Shields, and one UEFA Cup Winners' Cup. The club's nickname is "The Gunners" and its home ground is the Emirates Stadium. |
 | 10 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
 | 11 | [Vieira](http://twitter.com/search?q=Vieira) | Vieira is a Portuguese surname. It is derived from the Latin word vidarius, meaning "woodcutter". In English, it can be translated to mean "woodcutter" or "woodworker". |
@@ -42,7 +42,7 @@ This is top 50 for Denmark
 | 25 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
 | 26 | [Dylan](http://twitter.com/search?q=Dylan) | Dylan is a Welsh name meaning "son of the sea". It is also a popular given name in English-speaking countries, derived from the surname of the poet Dylan Thomas. |
 | 27 | [norlys](http://twitter.com/search?q=norlys) | Norlys is a Norwegian lighting company that specializes in outdoor lighting. The name Norlys is derived from the Norwegian words for “north” and “light”. The company produces a wide range of products, including street lights, garden lights, and floodlights. |
-| 28 | [Moskva](http://twitter.com/search?q=Moskva) | Moskva is the Russian name for Moscow, the capital of Russia. In English, it is pronounced "MOS-kuh-vuh". |
+| 28 | [moskva](http://twitter.com/search?q=moskva) | Moskva is the Russian name for Moscow, the capital of Russia. In English, it is spelled Moscow. |
 | 29 | [Indien](http://twitter.com/search?q=Indien) | Indien is the French word for India. It is used to refer to the country, its people, and its culture. In English, it is usually spelled "India." |
 | 30 | [Michael](http://twitter.com/search?q=Michael) | Michael is a masculine given name derived from the Hebrew name Mikha'el, which means "Who is like God?". It is one of the most popular names in the English-speaking world. |
 | 31 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
@@ -50,8 +50,8 @@ This is top 50 for Denmark
 | 33 | [May Allah](http://twitter.com/search?q=May+Allah) | May Allah is an Arabic phrase that is used as a blessing or expression of goodwill. In English, it translates to “God willing” or “God be with you.” It is often used to express hope for the future and to wish someone well. |
 | 34 | [F-16](http://twitter.com/search?q=F-16) | F-16 is a type of fighter jet used by the United States Air Force and other militaries around the world. The "F" stands for "fighter" and the "16" indicates that it is the 16th generation of fighter jets developed by the company Lockheed Martin. |
 | 35 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 36 | [Peter](http://twitter.com/search?q=Peter) | Peter is a common English name derived from the Greek name Πέτρος (Petros) meaning "stone" or "rock". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, England, Scotland, Ireland, Germany, and many others. |
-| 37 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 36 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
+| 37 | [Peter](http://twitter.com/search?q=Peter) | Peter is a common English name derived from the Greek name Πέτρος (Petros) meaning "stone" or "rock". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, England, Scotland, Ireland, Germany, and many others. |
 | 38 | [Thomas](http://twitter.com/search?q=Thomas) | Thomas is a masculine given name. It is derived from the Aramaic te'oma, meaning "twin". In the New Testament, Thomas was one of the twelve apostles of Jesus Christ. |
 | 39 | [tvivler](http://twitter.com/search?q=tvivler) | Tvivler is a Danish word meaning "doubter" or "skeptic". It is used to describe someone who questions or doubts the truth of something. |
 | 40 | [Nicki](http://twitter.com/search?q=Nicki) | Nicki is a nickname for the female name Nicole. It is derived from the French name Nicole, which means "victory of the people". |
@@ -62,7 +62,7 @@ This is top 50 for Denmark
 | 45 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
 | 46 | [jisoo](http://twitter.com/search?q=jisoo) | Jisoo is a Korean given name, typically used for females. It is derived from the Chinese characters meaning “beautiful” and “precious”. In English, it can be translated to mean “beautiful and precious”. |
 | 47 | [USSR](http://twitter.com/search?q=USSR) | USSR stands for the Union of Soviet Socialist Republics, which was a communist state that existed from 1922 to 1991. It was a single-party state governed by the Communist Party of the Soviet Union and comprised 15 constituent republics. The USSR was the largest country in the world at the time, covering over one-sixth of the Earth's land area. |
-| 48 | [ungarn](http://twitter.com/search?q=ungarn) | Ungarn is the German word for Hungary. In English, it means Hungary. |
+| 48 | [Ungarn](http://twitter.com/search?q=Ungarn) | Ungarn is the German word for Hungary. In English, it means Hungary. |
 | 49 | [Hamburg](http://twitter.com/search?q=Hamburg) | Hamburg is a city in northern Germany. It is the second-largest city in the country and the largest port in Germany. The name Hamburg comes from the Old German word "hamma", meaning "fortified settlement". |
 | 50 | [vanvittigt](http://twitter.com/search?q=vanvittigt) | Vanvittigt is a Danish word that translates to "insane" or "crazy" in English. It is used to describe someone who is behaving in an irrational or erratic manner. |
 
