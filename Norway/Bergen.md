@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-23 03:21:59 UTC`
+📆 Last Updated: `2023-04-23 04:22:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,7 +49,7 @@ This is top 50 for [Norway](</Norway>)
 | 32 | [NATOs](http://twitter.com/search?q=NATOs) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. The organization's stated purpose is to promote stability and security in the region. |
 | 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 34 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 35 | [Sveits](http://twitter.com/search?q=Sveits) | Sveits is the Norwegian word for Switzerland. In English, it is pronounced "svite." |
+| 35 | [sveits](http://twitter.com/search?q=sveits) | Sveits is the Norwegian word for Switzerland. In English, it means "the Swiss". |
 | 36 | [Meghan](http://twitter.com/search?q=Meghan) | Meghan is a female given name of English origin, derived from the Old French name Meghane. It is a variant of the name Megan, which means "pearl" or "strong and capable". |
 | 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 38 | [Pelle](http://twitter.com/search?q=Pelle) | Pelle is a Swedish name derived from the Latin word petrus, meaning "rock" or "stone". It is also a nickname for names such as Per, Peter, and Pelle. In English, it can be used as a given name or nickname. |

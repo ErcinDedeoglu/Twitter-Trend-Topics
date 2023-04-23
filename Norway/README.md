@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-23 03:28:17 UTC`
+📆 Last Updated: `2023-04-23 04:30:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,7 +49,7 @@ This is top 50 for Norway
 | 32 | [NATOs](http://twitter.com/search?q=NATOs) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. The organization's stated purpose is to promote stability and security in the region. |
 | 33 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 34 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 35 | [Sveits](http://twitter.com/search?q=Sveits) | Sveits is the Norwegian word for Switzerland. In English, it is pronounced "svite." |
+| 35 | [sveits](http://twitter.com/search?q=sveits) | Sveits is the Norwegian word for Switzerland. In English, it means "the Swiss". |
 | 36 | [Meghan](http://twitter.com/search?q=Meghan) | Meghan is a female given name of English origin, derived from the Old French name Meghane. It is a variant of the name Megan, which means "pearl" or "strong and capable". |
 | 37 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 38 | [Pelle](http://twitter.com/search?q=Pelle) | Pelle is a Swedish name derived from the Latin word petrus, meaning "rock" or "stone". It is also a nickname for names such as Per, Peter, and Pelle. In English, it can be used as a given name or nickname. |
@@ -64,7 +64,7 @@ This is top 50 for Norway
 | 47 | [moxnes](http://twitter.com/search?q=moxnes) | Moxnes is a Norwegian surname. It is derived from the Old Norse word móðir, meaning "mother". In English, the name can be translated to mean "son of the mother". |
 | 48 | [#debatten](http://twitter.com/search?q=%23debatten) | #Debatten is a hashtag used on social media in the Netherlands to discuss current topics and debates. In English, it translates to “#debate”. |
 | 49 | [David](http://twitter.com/search?q=David) | David is a masculine given name of Hebrew origin, meaning "beloved". It is one of the most popular names in the English-speaking world, and has been among the top 10 most popular names for boys in the United States for over 40 years. |
-| 50 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 50 | [Ryan](http://twitter.com/search?q=Ryan) | Ryan is a given name of Irish origin, derived from the Old Irish name Rian. It is an Anglicised form of the Gaelic name Rían. The meaning of Ryan is "little king" or "illustrious". |
 
 
 

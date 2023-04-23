@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-23 03:21:57 UTC`
+📆 Last Updated: `2023-04-23 04:22:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [puškina](http://twitter.com/search?q=pu%c5%a1kina) | Puškina is a Slavic surname derived from the word "puška," which means "gun" or "rifle" in English. |
-| 2 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | Ķīnas is the Latvian word for China. In English, it translates to China. |
+| 2 | [Ķīnas](http://twitter.com/search?q=%c4%b6%c4%abnas) | Ķīnas is the Latvian word for China. In English, it means China. |
 | 3 | [vecrīgā](http://twitter.com/search?q=vecr%c4%abg%c4%81) | Vecrīgā is the old name for the city of Riga, Latvia. In English, it translates to "Old Riga". |
 | 4 | [#lielātalka](http://twitter.com/search?q=%23liel%c4%81talka) | #Lielātalka is a Latvian phrase that translates to "big talk" in English. It is used to describe someone who talks a lot or talks in an exaggerated way. |
-| 5 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | Labrīt is a Latvian word meaning "goodbye". |
-| 6 | [francijā](http://twitter.com/search?q=francij%c4%81) | Francijā is a Latvian word meaning "in France". |
-| 7 | [lizda](http://twitter.com/search?q=lizda) | Lizda is a type of traditional Lithuanian folk music. It is characterized by its fast tempo and lively rhythms, often accompanied by singing and dancing. In English, the term lizda translates to "dance" or "joyful music". |
-| 8 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
-| 9 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | Cilvēki is a Latvian word meaning "people" in English. |
-| 10 | [tikko](http://twitter.com/search?q=tikko) | Tikko is a type of traditional Korean food made from glutinous rice, vegetables, and meat. It is usually served as a side dish or snack. The word "tikko" comes from the Korean word for "rice cake," which is tteok. |
-| 11 | [stambulas](http://twitter.com/search?q=stambulas) | Stambulas is a slang term used to describe someone who is lazy and unmotivated. It is derived from the phrase "stammering and bumbling around," which implies a lack of direction or purpose. |
+| 5 | [francijā](http://twitter.com/search?q=francij%c4%81) | Francijā is a Latvian word meaning "in France". |
+| 6 | [lizda](http://twitter.com/search?q=lizda) | Lizda is a type of traditional Lithuanian folk music. It is characterized by its fast tempo and lively rhythms, often accompanied by singing and dancing. In English, the term lizda translates to "dance" or "joyful music". |
+| 7 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
+| 8 | [cilvēki](http://twitter.com/search?q=cilv%c4%93ki) | Cilvēki is a Latvian word meaning "people" in English. |
+| 9 | [tikko](http://twitter.com/search?q=tikko) | Tikko is a type of traditional Korean food made from glutinous rice, vegetables, and meat. It is usually served as a side dish or snack. The word "tikko" comes from the Korean word for "rice cake," which is tteok. |
+| 10 | [stambulas](http://twitter.com/search?q=stambulas) | Stambulas is a slang term used to describe someone who is lazy and unmotivated. It is derived from the phrase "stammering and bumbling around," which implies a lack of direction or purpose. |
+| 11 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | Labrīt is a Latvian word meaning "to enjoy" or "to have a good time". It is often used to express pleasure or satisfaction. |
 | 12 | [vanaga](http://twitter.com/search?q=vanaga) | Vanaga is a Latvian word meaning "wave". It is often used to describe the undulating movement of the sea or a body of water. |
 | 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 14 | [dievs](http://twitter.com/search?q=dievs) | Dievs is the Latvian word for God. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-23 03:27:31 UTC`
+📆 Last Updated: `2023-04-23 04:29:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for Belarus
 | 11 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | #NFTCommunity is an acronym for the Non-Fungible Token Community. It is a group of people who are interested in and actively involved in the development, trading, and use of Non-Fungible Tokens (NFTs). NFTs are digital assets that are unique and cannot be replicated or exchanged for something else. They are used to represent ownership of digital items such as artwork, music, videos, gaming items, and more. |
 | 12 | [#seilors](http://twitter.com/search?q=%23seilors) | #Seilors is a hashtag used on social media to refer to people who are part of the maritime industry, such as sailors, fishermen, and boat captains. It is used to share stories, photos, and experiences related to life at sea. |
 | 13 | [#seilorgang](http://twitter.com/search?q=%23seilorgang) | #Seilorgang is a German phrase that translates to “rope climbing” in English. It is a popular outdoor activity in Germany, where participants climb up and down a rope ladder or rope bridge. |
-| 14 | [правильно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | Правильно is a Russian word that means "correctly" or "rightly". It is used to describe something that has been done in the correct way or according to the rules. |
+| 14 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | Правильно is a Russian word that means "correctly" or "right". It is used to indicate that something has been done correctly or in accordance with the rules. |
 | 15 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | "Минск" is the capital city of Belarus. In English, it is known as Minsk. |
 | 16 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | НАТО is an acronym for the North Atlantic Treaty Organization, an intergovernmental military alliance between 30 North American and European countries. Its purpose is to protect the freedom and security of its member states through political and military means. In English, it is commonly referred to as NATO. |
 | 17 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | Круто is a Russian slang word that means "cool" or "awesome". It is often used to express approval or admiration. |
