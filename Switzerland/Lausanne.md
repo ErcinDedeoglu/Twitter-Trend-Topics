@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-04-23 00:40:33 UTC`
+📆 Last Updated: `2023-04-23 01:50:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 3 | [Haken](http://twitter.com/search?q=Haken) | Haken is a Japanese word meaning "hook" or "fastener." It is often used to refer to a type of fastener used in sewing and other crafts, such as safety pins, snaps, and buttons. It can also be used to refer to any type of hook or fastener, such as those used for hanging items on walls or for securing items together. |
 | 4 | [#M05FCB](http://twitter.com/search?q=%23M05FCB) | #M05FCB is a hexadecimal color code that represents the color blue. In English, it translates to "Midnight Blue". |
 | 5 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 6 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | Schmerzen is a German word meaning "pain" or "ache". It is used to describe physical pain, emotional pain, or mental anguish. |
-| 7 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | Köppel is a German word that means "hilltop" or "summit". It is often used to refer to the highest point of a mountain or hill. |
+| 6 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | Köppel is a German word that means "hilltop" or "summit". It is often used to refer to the highest point of a mountain or hill. |
+| 7 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | Schmerzen is a German word meaning "pain" or "ache". It is used to describe physical pain, emotional pain, or mental anguish. |
 | 8 | [kesb](http://twitter.com/search?q=kesb) | Kesb is an acronym for the German phrase "Kinder, Ehe und Eingetragene Lebenspartnerschaften" which translates to "Children, Marriage and Registered Life Partnerships" in English. It is used to refer to the legal rights and responsibilities of individuals in a family or relationship. |
 | 9 | [Moskau](http://twitter.com/search?q=Moskau) | Moskau is the German spelling of Moscow, the capital city of Russia. In English, it means "Moscow". |
 | 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | Wagenknecht is a German surname. It is derived from the Middle High German words wagen (wagon) and knecht (servant). In English, it can be translated to mean "wagon servant" or "wagon attendant". |
@@ -47,22 +47,22 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 30 | [Wärme](http://twitter.com/search?q=W%c3%a4rme) | Wärme is a German word meaning "heat" or "warmth" in English. It can refer to the physical sensation of warmth, or to the emotional feeling of comfort and security. |
 | 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 32 | [Einverstanden](http://twitter.com/search?q=Einverstanden) | Einverstanden is a German word meaning "agreed" or "in agreement". It is used to indicate that two or more parties have reached an agreement on something. |
-| 33 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | Bäume is the German word for "trees". It is a masculine noun and its plural form is Bäume. |
+| 33 | [bäume](http://twitter.com/search?q=b%c3%a4ume) | Bäume is the German word for "trees". It is a masculine noun and its plural form is Bäume. In English, it means "trees". |
 | 34 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 35 | [nationalrat](http://twitter.com/search?q=nationalrat) | Nationalrat is the name of the lower house of the Swiss Federal Assembly, which is the national legislature of Switzerland. In English, it is known as the National Council. |
 | 36 | [Teilzeit](http://twitter.com/search?q=Teilzeit) | Teilzeit is a German word meaning "part-time". It refers to a job or work arrangement in which an employee works fewer hours than a full-time job. |
-| 37 | [Stau](http://twitter.com/search?q=Stau) | Stau is a German word meaning "traffic jam" or "congestion". It is used to describe a situation where traffic has become so congested that it has come to a standstill. |
-| 38 | [Ursache](http://twitter.com/search?q=Ursache) | Ursache is a German word meaning "cause" or "reason". It is used to refer to the underlying cause of an event or phenomenon. |
-| 39 | [besitzer](http://twitter.com/search?q=besitzer) | Besitzer is a German word meaning "owner" or "possessor" in English. It is used to refer to someone who has legal ownership of something, such as a property or an item. |
-| 40 | [Musk](http://twitter.com/search?q=Musk) | Musk is a strong-smelling substance that is produced by certain animals, such as the musk deer, and used in perfumes and medicines. In English, the word "musk" can also refer to a pleasant smell or aroma. |
-| 41 | [Lesen Sie](http://twitter.com/search?q=Lesen+Sie) | Lesen Sie is a German phrase meaning "read". It is used as an imperative, to tell someone to read something. |
-| 42 | [Physik](http://twitter.com/search?q=Physik) | Physik is an archaic spelling of the word "physics," which is the scientific study of matter, energy, and the interactions between them. In English, it is used to refer to the physical sciences in general. |
-| 43 | [Häkchen](http://twitter.com/search?q=H%c3%a4kchen) | Häkchen is a German word that translates to "checkmark" in English. It is used to indicate that something has been selected or checked off a list. |
-| 44 | [Zelda](http://twitter.com/search?q=Zelda) | Zelda is a popular video game series created by Nintendo. The series follows the adventures of the protagonist, Link, as he attempts to save Princess Zelda from the evil Ganon. The name "Zelda" is derived from the Germanic word meaning "gray-haired warrior". |
-| 45 | [Immunität](http://twitter.com/search?q=Immunit%c3%a4t) | Immunität is a German word meaning "immunity" in English. It refers to the protection from disease or infection that some people have due to their natural resistance or acquired immunity. |
-| 46 | [Jurist](http://twitter.com/search?q=Jurist) | Jurist is a person who is knowledgeable in the law and has studied it as a profession. It is used to refer to lawyers, judges, legal scholars, and other professionals who specialize in the law. The term comes from the Latin word for "law," juris. |
-| 47 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 48 | [Juventus](http://twitter.com/search?q=Juventus) | Juventus is an Italian professional football club based in Turin, Piedmont. The club is the most successful team in Italian football and one of the most successful and renowned teams in the world. The meaning of Juventus in English is "youth". |
+| 37 | [Musk](http://twitter.com/search?q=Musk) | Musk is a strong-smelling substance that is produced by certain animals, such as the musk deer, and used in perfumes and medicines. In English, the word "musk" can also refer to a pleasant smell or aroma. |
+| 38 | [Stau](http://twitter.com/search?q=Stau) | Stau is a German word meaning "traffic jam" or "congestion". It is used to describe a situation where traffic has become so congested that it has come to a standstill. |
+| 39 | [Ursache](http://twitter.com/search?q=Ursache) | Ursache is a German word meaning "cause" or "reason". It is used to refer to the underlying cause of an event or phenomenon. |
+| 40 | [besitzer](http://twitter.com/search?q=besitzer) | Besitzer is a German word meaning "owner" or "possessor" in English. It is used to refer to someone who has legal ownership of something, such as a property or an item. |
+| 41 | [NFTs](http://twitter.com/search?q=NFTs) | NFTs stands for Non-Fungible Tokens. They are digital assets that are unique and cannot be exchanged for other assets of the same type. NFTs are used to represent ownership of digital items such as artwork, music, videos, and other digital collectibles. |
+| 42 | [Lesen Sie](http://twitter.com/search?q=Lesen+Sie) | Lesen Sie is a German phrase meaning "read". It is used as an imperative, to tell someone to read something. |
+| 43 | [Physik](http://twitter.com/search?q=Physik) | Physik is an archaic spelling of the word "physics," which is the scientific study of matter, energy, and the interactions between them. In English, it is used to refer to the physical sciences in general. |
+| 44 | [Häkchen](http://twitter.com/search?q=H%c3%a4kchen) | Häkchen is a German word that translates to "checkmark" in English. It is used to indicate that something has been selected or checked off a list. |
+| 45 | [Zelda](http://twitter.com/search?q=Zelda) | Zelda is a popular video game series created by Nintendo. The series follows the adventures of the protagonist, Link, as he attempts to save Princess Zelda from the evil Ganon. The name "Zelda" is derived from the Germanic word meaning "gray-haired warrior". |
+| 46 | [Immunität](http://twitter.com/search?q=Immunit%c3%a4t) | Immunität is a German word meaning "immunity" in English. It refers to the protection from disease or infection that some people have due to their natural resistance or acquired immunity. |
+| 47 | [Jurist](http://twitter.com/search?q=Jurist) | Jurist is a person who is knowledgeable in the law and has studied it as a profession. It is used to refer to lawyers, judges, legal scholars, and other professionals who specialize in the law. The term comes from the Latin word for "law," juris. |
+| 48 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
 
 
 
