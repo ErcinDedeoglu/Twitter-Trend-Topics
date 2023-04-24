@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-24 22:23:45 UTC`
+📆 Last Updated: `2023-04-24 23:22:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,11 +23,11 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | Rettungsgasse is a German word that translates to "emergency lane" in English. It refers to a lane that is left open on the highway for emergency vehicles to pass through. |
 | 7 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
 | 8 | [Precht](http://twitter.com/search?q=Precht) | Precht is a German surname derived from the Middle High German word preht, meaning "priest". In English, it can be translated to mean "priest". |
-| 9 | [Moskau](http://twitter.com/search?q=Moskau) | Moskau is the German spelling of Moscow, the capital city of Russia. In English, it means "Moscow". |
-| 10 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 11 | [Weck](http://twitter.com/search?q=Weck) | Weck is a type of German bread roll that is made with rye flour and caraway seeds. It is usually shaped like a cylinder or a bun and is often served with cold cuts, cheese, or butter. The name Weck comes from the German word "wecken," which means "to wake up." |
-| 12 | [Rettungswagen](http://twitter.com/search?q=Rettungswagen) | Rettungswagen is the German word for an ambulance. It literally translates to "rescue vehicle". |
-| 13 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | Rentenalter is a German term that refers to the age at which a person is eligible to receive a pension or retirement benefits. In English, it is often referred to as the retirement age. |
+| 9 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
+| 10 | [Moskau](http://twitter.com/search?q=Moskau) | Moskau is the German spelling of Moscow, the capital city of Russia. In English, it means "Moscow". |
+| 11 | [Rettungswagen](http://twitter.com/search?q=Rettungswagen) | Rettungswagen is the German word for an ambulance. It literally translates to "rescue vehicle". |
+| 12 | [Rentenalter](http://twitter.com/search?q=Rentenalter) | Rentenalter is a German term that refers to the age at which a person is eligible to receive a pension or retirement benefits. In English, it is often referred to as the retirement age. |
+| 13 | [Weck](http://twitter.com/search?q=Weck) | Weck is a type of German bread roll that is made with rye flour and caraway seeds. It is usually shaped like a cylinder or a bun and is often served with cold cuts, cheese, or butter. The name Weck comes from the German word "wecken," which means "to wake up." |
 | 14 | [Sozialisten](http://twitter.com/search?q=Sozialisten) | Sozialisten is a German word that translates to "socialists" in English. It is used to refer to people who believe in the principles of socialism, which is an economic and political system based on collective ownership of the means of production and the distribution of goods and services according to need. |
 | 15 | [Mayotte](http://twitter.com/search?q=Mayotte) | Mayotte is an island located in the Indian Ocean off the coast of Africa. It is part of the Comoros archipelago and is administered by France. The name Mayotte comes from the Swahili word "moyo," which means "heart." |
 | 16 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
@@ -47,8 +47,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 30 | [Russland](http://twitter.com/search?q=Russland) | Russland is the German word for Russia. It is derived from the Latin word "Russia", which means "land of the Rus". In English, it is simply referred to as Russia. |
 | 31 | [Amazon](http://twitter.com/search?q=Amazon) | Amazon is an American multinational technology company based in Seattle, Washington. It is the largest Internet-based retailer in the world by total sales and market capitalization. The company specializes in e-commerce, cloud computing, digital streaming, and artificial intelligence. The name Amazon comes from the Amazon River, one of the longest rivers in South America. |
 | 32 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | Kommunisten is a German word meaning "Communists". It is used to refer to people who follow the ideology of Communism, which is an economic and political system based on the collective ownership of the means of production and distribution. |
-| 33 | [Kauf](http://twitter.com/search?q=Kauf) | Kauf is a German word meaning "purchase" or "buy". It is commonly used in the context of shopping or making a purchase. |
-| 34 | [Spieler](http://twitter.com/search?q=Spieler) | Spieler is a German word meaning "player" or "gambler". It is often used to refer to someone who plays a game or takes part in gambling activities. |
+| 33 | [Spieler](http://twitter.com/search?q=Spieler) | Spieler is a German word meaning "player" or "gambler". It is often used to refer to someone who plays a game or takes part in gambling activities. |
+| 34 | [Kauf](http://twitter.com/search?q=Kauf) | Kauf is a German word meaning "purchase" or "buy". It is commonly used in the context of shopping or making a purchase. |
 | 35 | [Notfall](http://twitter.com/search?q=Notfall) | Notfall is a German word meaning "emergency" or "crisis". It is used to refer to a situation that requires immediate attention or action. |
 | 36 | [Toni](http://twitter.com/search?q=Toni) | Toni is a unisex name of Latin origin, meaning "invaluable". It is also a short form of Antonia, Antonius, and other names. |
 | 37 | [Esther Friedli](http://twitter.com/search?q=Esther+Friedli) | Esther Friedli is a Swiss-German name. It is derived from the Hebrew name Esther, which means "star," and Friedli, which is a diminutive of the German name Friedrich, meaning "peaceful ruler." |
@@ -56,12 +56,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 39 | [Soviet](http://twitter.com/search?q=Soviet) | Soviet is an adjective that refers to something related to the former Soviet Union, a communist state that existed from 1922 to 1991. It is derived from the Russian word "soyuz," which means "union." The term is often used to refer to the political and economic system of the Soviet Union, as well as its culture and people. |
 | 40 | [Partner](http://twitter.com/search?q=Partner) | Partner is a term used to refer to someone with whom you have a close relationship, either professionally or personally. It can refer to a business partner, romantic partner, or even a friend. |
 | 41 | [Crimée](http://twitter.com/search?q=Crim%c3%a9e) | Crimée is the French name for the Crimean Peninsula, a region located in the south of Ukraine on the northern coast of the Black Sea. In English, it is commonly referred to as Crimea. |
-| 42 | [Angebot](http://twitter.com/search?q=Angebot) | Angebot is a German word meaning "offer" or "proposal" in English. It is used to refer to an offer of goods or services made by a seller to a potential buyer. |
+| 42 | [Journalismus](http://twitter.com/search?q=Journalismus) | Journalismus is a German word that refers to the practice of journalism. It is the profession of gathering, assessing, creating, and presenting news and information. In English, it can be translated as "journalism". |
 | 43 | [Germania](http://twitter.com/search?q=Germania) | Germania is a Latin term used to refer to the area of land in Central Europe that was inhabited by Germanic tribes. In English, it is often used to refer to Germany, or the German people. |
 | 44 | [Kantone](http://twitter.com/search?q=Kantone) | Kantone is a term used in Switzerland to refer to the 26 cantons, or states, that make up the country. In English, it is sometimes referred to as the Swiss cantons. |
 | 45 | [Produkt](http://twitter.com/search?q=Produkt) | Produkt is a German word that translates to "product" in English. It is used to refer to any item or service that is created or provided by a company or organization. It can also refer to the result of a process, such as a finished product. |
-| 46 | [Swissmedic](http://twitter.com/search?q=Swissmedic) | Swissmedic is the Swiss Agency for Therapeutic Products, the national regulatory authority responsible for the authorization, supervision and control of therapeutic products in Switzerland. Its mission is to ensure that therapeutic products are safe, effective and of high quality. The English translation of Swissmedic is "Swiss Medicines Agency". |
-| 47 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | Schmerzen is a German word meaning "pain" or "ache". It is used to describe physical pain, emotional pain, or mental anguish. |
+| 46 | [Schmerzen](http://twitter.com/search?q=Schmerzen) | Schmerzen is a German word meaning "pain" or "ache". It is used to describe physical pain, emotional pain, or mental anguish. |
+| 47 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | Arbeitgeber is a German word meaning "employer" in English. It is used to refer to the person or organization that provides employment to an individual. |
 
 
 
