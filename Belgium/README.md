@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-04-24 02:42:09 UTC`
+📆 Last Updated: `2023-04-24 03:30:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gntkvo](http://twitter.com/search?q=%23gntkvo) | #gntkvo is an acronym for "Good Night, Take Care, Voice On," which is a phrase used to express farewell and well wishes. |
+| 1 | [#GNTKVO](http://twitter.com/search?q=%23GNTKVO) | #GNTKVO is an acronym for "Get Naked, Take Knee, Vow Outrage". It is a call to action for people to protest against systemic racism and police brutality. |
 | 2 | [#andkvm](http://twitter.com/search?q=%23andkvm) | #andkvm is an acronym for "Android and KVM," which stands for "Kernel-based Virtual Machine." It is a virtualization technology that allows users to run multiple operating systems on a single computer. It is used to create virtual machines, which are isolated environments that can be used to run different applications or operating systems. |
 | 3 | [#clueup](http://twitter.com/search?q=%23clueup) | #ClueUp is a hashtag used on social media to promote a game or challenge. It is often used to encourage people to take part in a quiz or competition, or to share clues about a mystery or puzzle. |
 | 4 | [#demol](http://twitter.com/search?q=%23demol) | #Demol is an abbreviation for demolition, which is the process of demolishing or destroying a building or structure. In English, it means to tear down or destroy something. |
@@ -33,27 +33,27 @@ This is top 50 for Belgium
 | 16 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
 | 17 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 18 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 19 | [PvdA](http://twitter.com/search?q=PvdA) | PvdA is an acronym for the Dutch political party Partij van de Arbeid, which translates to Labour Party in English. |
-| 20 | [aa gent](http://twitter.com/search?q=aa+gent) | Aa gent is a Dutch phrase meaning "gentleman". It is used as a polite form of address when speaking to a man. |
-| 21 | [Mazzu](http://twitter.com/search?q=Mazzu) | Mazzu is a Japanese term that refers to a person who is passionate and enthusiastic about something. It can also be used to describe someone who is highly motivated and driven. In English, it could be translated as "enthusiast" or "passionate person". |
+| 19 | [aa gent](http://twitter.com/search?q=aa+gent) | Aa gent is a Dutch phrase meaning "gentleman". It is used as a polite form of address when speaking to a man. |
+| 20 | [Mazzu](http://twitter.com/search?q=Mazzu) | Mazzu is a Japanese term that refers to a person who is passionate and enthusiastic about something. It can also be used to describe someone who is highly motivated and driven. In English, it could be translated as "enthusiast" or "passionate person". |
+| 21 | [PvdA](http://twitter.com/search?q=PvdA) | PvdA is an acronym for the Dutch political party Partij van de Arbeid, which translates to Labour Party in English. |
 | 22 | [rik torfs](http://twitter.com/search?q=rik+torfs) | Rik Torfs is a Belgian lawyer and professor of Canon Law at the Catholic University of Leuven. He is also a former rector of the university and a former senator in the Belgian Senate. The English translation of Rik Torfs would be Richard Torfs. |
-| 23 | [Van Quickenborne](http://twitter.com/search?q=Van+Quickenborne) | Van Quickenborne is a Dutch surname. It is derived from the Dutch words "van" (meaning "from") and "Quickenborne" (meaning "quick-born"). The name can be translated to mean "from quick-born". |
+| 23 | [van quickenborne](http://twitter.com/search?q=van+quickenborne) | Van Quickenborne is a Dutch surname. It is derived from the Dutch words "van" (meaning "from") and "Quickenborne" (meaning "quick stream"). The name can be translated to mean "from the quick stream". |
 | 24 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
 | 25 | [Kompany](http://twitter.com/search?q=Kompany) | Kompany is a Belgian professional football club based in the city of Brussels. The club's name is derived from the Dutch word for "company" and is a reference to its original status as a works team. In English, Kompany means "company" or "corporation". |
-| 26 | [Malines](http://twitter.com/search?q=Malines) | Malines is the French name for the city of Mechelen in Belgium. In English, it is pronounced "MAY-leen". |
-| 27 | [Pogacar](http://twitter.com/search?q=Pogacar) | Pogacar is a Croatian surname derived from the word "pogača," which means "cake" in English. It is also the name of a small village in Croatia. |
-| 28 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 29 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 30 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | Anderlecht is a municipality in the Brussels-Capital Region of Belgium. It is located in the south-western part of the Brussels region, and is bordered by the municipalities of Molenbeek-Saint-Jean, Saint-Gilles, Ixelles, Forest and Uccle. The name Anderlecht is derived from Old Dutch and means "other (or second) clearing". |
-| 31 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | Van Ranst is a Dutch surname. It is derived from the Dutch words "van" (of) and "Ranst" (a town in Belgium). The literal translation of Van Ranst into English is "of Ranst". |
-| 32 | [Pidcock](http://twitter.com/search?q=Pidcock) | Pidcock is an English surname derived from the Old English personal name Pydecoc, which means “peaceful dweller”. It is also a place name, referring to a village in Northamptonshire, England. |
-| 33 | [Gervonta](http://twitter.com/search?q=Gervonta) | Gervonta is a given name of African-American origin. It is derived from the Latin words "ger" meaning "spear" and "vonta" meaning "strong". The name can be translated to mean "strong spear". |
-| 34 | [Pogi](http://twitter.com/search?q=Pogi) | Pogi is a Filipino slang term that is used to describe someone who is attractive or good-looking. In English, it can be translated to mean "handsome". |
-| 35 | [Dedecker](http://twitter.com/search?q=Dedecker) | Dedecker is a Dutch surname derived from the given name Diederik, which is a Germanic name composed of the elements "theod" (people) and "ric" (ruler). The English translation of Dedecker would be "ruler of the people". |
+| 26 | [Pogacar](http://twitter.com/search?q=Pogacar) | Pogacar is a Croatian surname derived from the word "pogača," which means "cake" in English. It is also the name of a small village in Croatia. |
+| 27 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 28 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 29 | [Van Ranst](http://twitter.com/search?q=Van+Ranst) | Van Ranst is a Dutch surname. It is derived from the Dutch words "van" (of) and "Ranst" (a town in Belgium). The literal translation of Van Ranst into English is "of Ranst". |
+| 30 | [Malines](http://twitter.com/search?q=Malines) | Malines is the French name for the city of Mechelen in Belgium. In English, it is pronounced "MAY-leen". |
+| 31 | [Pidcock](http://twitter.com/search?q=Pidcock) | Pidcock is an English surname derived from the Old English personal name Pydecoc, which means “peaceful dweller”. It is also a place name, referring to a village in Northamptonshire, England. |
+| 32 | [Gervonta](http://twitter.com/search?q=Gervonta) | Gervonta is a given name of African-American origin. It is derived from the Latin words "ger" meaning "spear" and "vonta" meaning "strong". The name can be translated to mean "strong spear". |
+| 33 | [Pogi](http://twitter.com/search?q=Pogi) | Pogi is a Filipino slang term that is used to describe someone who is attractive or good-looking. In English, it can be translated to mean "handsome". |
+| 34 | [Dedecker](http://twitter.com/search?q=Dedecker) | Dedecker is a Dutch surname derived from the given name Diederik, which is a Germanic name composed of the elements "theod" (people) and "ric" (ruler). The English translation of Dedecker would be "ruler of the people". |
+| 35 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | Anderlecht is a municipality in the Brussels-Capital Region of Belgium. It is located in the south-western part of the Brussels region, and is bordered by the municipalities of Molenbeek-Saint-Jean, Saint-Gilles, Ixelles, Forest and Uccle. The name Anderlecht is derived from Old Dutch and means "other (or second) clearing". |
 | 36 | [Lens](http://twitter.com/search?q=Lens) | Lens is a curved piece of glass or plastic used to focus light, such as in a camera or microscope. It can also refer to the ability to look at something from a particular perspective. In this sense, it is often used figuratively to refer to the way someone views a situation or problem. |
-| 37 | [Thomas](http://twitter.com/search?q=Thomas) | Thomas is a masculine given name. It is derived from the Aramaic te'oma, meaning "twin". In the New Testament, Thomas was one of the twelve apostles of Jesus Christ. |
-| 38 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 39 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 37 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 38 | [Thomas](http://twitter.com/search?q=Thomas) | Thomas is a masculine given name. It is derived from the Aramaic te'oma, meaning "twin". In the New Testament, Thomas was one of the twelve apostles of Jesus Christ. |
+| 39 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
 | 40 | [Bruges](http://twitter.com/search?q=Bruges) | Bruges is a city in Belgium. It is known for its well-preserved medieval architecture and canals. The name Bruges comes from the Dutch word "bruggen," which means bridges. |
 | 41 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 42 | [Oostende](http://twitter.com/search?q=Oostende) | Oostende is a city in Belgium located on the North Sea coast. The name Oostende is Dutch for "East End". In English, it can be translated to mean "East End". |

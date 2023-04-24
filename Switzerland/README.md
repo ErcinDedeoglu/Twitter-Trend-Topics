@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-24 02:43:27 UTC`
+📆 Last Updated: `2023-04-24 03:31:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -45,7 +45,7 @@ This is top 50 for Switzerland
 | 28 | [Lyon](http://twitter.com/search?q=Lyon) | Lyon is the third-largest city in France and the capital of the Auvergne-Rhône-Alpes region. It is located in the east-central part of the country, at the confluence of the Rhône and Saône rivers. The English translation of Lyon is "Lion". |
 | 29 | [immunität](http://twitter.com/search?q=immunit%c3%a4t) | Immunität is a German word meaning immunity. It refers to the protection from or resistance to a particular disease, virus, or other pathogen. In English, it is often used in the context of medical immunization or immunization against a particular disease. |
 | 30 | [Temperaturen](http://twitter.com/search?q=Temperaturen) | Temperaturen is the German word for temperatures. It is used to refer to the degree of hotness or coldness of a particular place or object. In English, it would be translated as temperatures. |
-| 31 | [Bleib](http://twitter.com/search?q=Bleib) | Bleib is a German word meaning "stay" or "remain". It is commonly used as an imperative verb, telling someone to stay in one place. |
+| 31 | [bleib](http://twitter.com/search?q=bleib) | "Bleib" is a German verb that means "to stay" or "to remain." In English, it is most commonly used in the imperative form, as in "Bleib hier!" ("Stay here!"). |
 | 32 | [Juso](http://twitter.com/search?q=Juso) | Juso is a Japanese term that refers to a specific type of address. It is used to refer to the address of a specific building or residence, as opposed to a general area or district. In English, it can be translated as "specific address." |
 | 33 | [Italien](http://twitter.com/search?q=Italien) | Italien is the French word for Italy. In English, it means "of or relating to Italy". |
 | 34 | [Biel](http://twitter.com/search?q=Biel) | Biel is a city in Switzerland, located in the canton of Bern. It is the administrative capital of the Biel/Bienne district. The name Biel/Bienne is derived from the German word for "meadow", referring to the city's location on the shores of Lake Biel. In English, it is sometimes referred to as Bienne. |
@@ -58,13 +58,13 @@ This is top 50 for Switzerland
 | 41 | [Sion](http://twitter.com/search?q=Sion) | Sion is a city in Switzerland, located in the canton of Valais. It is the capital of the district of Sion. The name Sion is derived from the Celtic word for "sun". In English, it means "sunny place". |
 | 42 | [Heidi](http://twitter.com/search?q=Heidi) | Heidi is a Swiss children's novel written by Johanna Spyri in 1881. It tells the story of an orphan girl named Heidi who is sent to live with her grandfather in the Swiss Alps. The novel follows Heidi as she adjusts to life in the mountains and forms relationships with her grandfather, Peter the goatherd, and Clara, a young girl from Frankfurt. The name Heidi has come to mean an innocent, cheerful, and independent young girl who loves nature and animals. |
 | 43 | [Physik](http://twitter.com/search?q=Physik) | Physik is an archaic spelling of the word "physics," which is the scientific study of matter, energy, and the interactions between them. In English, it is used to refer to the physical sciences in general. |
-| 44 | [Dead Island 2](http://twitter.com/search?q=Dead+Island+2) | Dead Island 2 is an upcoming action role-playing survival horror video game developed by Dambuster Studios and published by Deep Silver. It is the sequel to the 2011 video game Dead Island and the third major installment in the Dead Island series. The game is set to take place on multiple California locations, including Los Angeles, San Francisco, and an island off the coast of California. The game's story focuses on a new group of survivors who must fight their way through hordes of zombies in order to survive. |
-| 45 | [Gravina](http://twitter.com/search?q=Gravina) | Gravina is a surname of Italian origin. It is derived from the Latin word gravina, which means "ditch" or "trench". In English, it can be translated to mean "of the ditch" or "of the trench". |
-| 46 | [Inhalte](http://twitter.com/search?q=Inhalte) | Inhalte is a German word that translates to "contents" in English. It is used to refer to the items or topics that are included in a particular document, book, or other type of material. |
-| 47 | [Partner](http://twitter.com/search?q=Partner) | Partner is a term used to refer to someone with whom you have a close relationship, either professionally or personally. It can refer to a business partner, romantic partner, or even a friend. |
-| 48 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | Entschuldigung is a German word meaning "excuse me" or "sorry". It is used as an apology or to politely get someone's attention. |
-| 49 | [Methoden](http://twitter.com/search?q=Methoden) | Methoden is a German word that translates to "methods" in English. It is used to refer to the various techniques and approaches used to solve a problem or achieve a goal. |
-| 50 | [Russland](http://twitter.com/search?q=Russland) | Russland is the German word for Russia. It is derived from the Latin word "Russia", which means "land of the Rus". In English, it is simply referred to as Russia. |
+| 44 | [Russland](http://twitter.com/search?q=Russland) | Russland is the German word for Russia. It is derived from the Latin word "Russia", which means "land of the Rus". In English, it is simply referred to as Russia. |
+| 45 | [Dead Island 2](http://twitter.com/search?q=Dead+Island+2) | Dead Island 2 is an upcoming action role-playing survival horror video game developed by Dambuster Studios and published by Deep Silver. It is the sequel to the 2011 video game Dead Island and the third major installment in the Dead Island series. The game is set to take place on multiple California locations, including Los Angeles, San Francisco, and an island off the coast of California. The game's story focuses on a new group of survivors who must fight their way through hordes of zombies in order to survive. |
+| 46 | [Gravina](http://twitter.com/search?q=Gravina) | Gravina is a surname of Italian origin. It is derived from the Latin word gravina, which means "ditch" or "trench". In English, it can be translated to mean "of the ditch" or "of the trench". |
+| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 48 | [Inhalte](http://twitter.com/search?q=Inhalte) | Inhalte is a German word that translates to "contents" in English. It is used to refer to the items or topics that are included in a particular document, book, or other type of material. |
+| 49 | [Partner](http://twitter.com/search?q=Partner) | Partner is a term used to refer to someone with whom you have a close relationship, either professionally or personally. It can refer to a business partner, romantic partner, or even a friend. |
+| 50 | [Entschuldigung](http://twitter.com/search?q=Entschuldigung) | Entschuldigung is a German word meaning "excuse me" or "sorry". It is used as an apology or to politely get someone's attention. |
 
 
 

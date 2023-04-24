@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-04-24 02:43:21 UTC`
+📆 Last Updated: `2023-04-24 03:31:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Portugal
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | #OTrianguloTvi is a hashtag used by the Portuguese television channel TVI to promote their programming. It is a play on words, combining the Portuguese word for triangle (triângulo) with the acronym for the channel (TVI). In English, it translates to "The Triangle TVI". |
-| 2 | [João Neves](http://twitter.com/search?q=Jo%c3%a3o+Neves) | João Neves is a Portuguese name. It is composed of two parts: João, which is the Portuguese form of the name John, and Neves, which is a Portuguese surname meaning "snow". In English, it would be translated as John Snow. |
+| 1 | [João Neves](http://twitter.com/search?q=Jo%c3%a3o+Neves) | João Neves is a Portuguese name. It is composed of two parts: João, which is the Portuguese form of the name John, and Neves, which is a Portuguese surname meaning "snow". In English, it would be translated as John Snow. |
+| 2 | [#OTrianguloTvi](http://twitter.com/search?q=%23OTrianguloTvi) | #OTrianguloTvi is a hashtag used by the Portuguese television channel TVI to promote their programming. It is a play on words, combining the Portuguese word for triangle (triângulo) with the acronym for the channel (TVI). In English, it translates to "The Triangle TVI". |
 | 3 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 4 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 5 | [Musa](http://twitter.com/search?q=Musa) | Musa is a name of Arabic origin, meaning "saved from the water". It is also a variant of the name Moses. |
@@ -25,22 +25,22 @@ This is top 50 for Portugal
 | 8 | [Tiago Araújo](http://twitter.com/search?q=Tiago+Ara%c3%bajo) | Tiago Araújo is a Portuguese name. It is derived from the Latin name Thiago, which means "supplanter". In English, it can be translated to mean "one who supplants". |
 | 9 | [#TheVoicePT](http://twitter.com/search?q=%23TheVoicePT) | #TheVoicePT is the hashtag for the Portuguese version of the singing competition show The Voice. In English, it translates to "The Voice Portugal". |
 | 10 | [#OsTraidores](http://twitter.com/search?q=%23OsTraidores) | #OsTraidores is a hashtag used by Brazilian soccer fans to express their disappointment with players who have betrayed their team. It translates to "The Traitors" in English. |
-| 11 | [Zezinho](http://twitter.com/search?q=Zezinho) | Zezinho is a Portuguese nickname meaning "little Joe" or "little Joseph". It is commonly used as a term of endearment for someone named Joseph or for someone who is small and cute. |
-| 12 | [Carolina](http://twitter.com/search?q=Carolina) | Carolina is a name derived from the Latin word for Charles, Carolus. It is also the name of two U.S. states, North Carolina and South Carolina. The name is often used as a feminine given name, and can also refer to the Carolinas region of the United States, which includes both states. |
-| 13 | [Mariana](http://twitter.com/search?q=Mariana) | Mariana is a female given name of Latin origin, derived from the name of the Roman goddess of fertility, Juno. It means "star of the sea" in English. |
-| 14 | [#sonsatos](http://twitter.com/search?q=%23sonsatos) | #Sonsatos is a Portuguese hashtag that translates to "sons of silence" in English. It is used to refer to people who are silent and introverted, or those who prefer to keep their thoughts and feelings to themselves. |
-| 15 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | Moisés is a Spanish and Portuguese name derived from the Hebrew name Moses, which means “drawn out of the water”. In English, it is usually spelled Moses. |
+| 11 | [Carolina](http://twitter.com/search?q=Carolina) | Carolina is a name derived from the Latin word for Charles, Carolus. It is also the name of two U.S. states, North Carolina and South Carolina. The name is often used as a feminine given name, and can also refer to the Carolinas region of the United States, which includes both states. |
+| 12 | [#sonsatos](http://twitter.com/search?q=%23sonsatos) | #Sonsatos is a Portuguese hashtag that translates to "sons of silence" in English. It is used to refer to people who are silent and introverted, or those who prefer to keep their thoughts and feelings to themselves. |
+| 13 | [Moisés](http://twitter.com/search?q=Mois%c3%a9s) | Moisés is a Spanish and Portuguese name derived from the Hebrew name Moses, which means “drawn out of the water”. In English, it is usually spelled Moses. |
+| 14 | [Zezinho](http://twitter.com/search?q=Zezinho) | Zezinho is a Portuguese nickname meaning "little Joe" or "little Joseph". It is commonly used as a term of endearment for someone named Joseph or for someone who is small and cute. |
+| 15 | [Mariana](http://twitter.com/search?q=Mariana) | Mariana is a female given name of Latin origin, derived from the name of the Roman goddess of fertility, Juno. It means "star of the sea" in English. |
 | 16 | [Chiquinho](http://twitter.com/search?q=Chiquinho) | Chiquinho is a Portuguese term of endearment that translates to "little one" or "darling." It is often used as a nickname for someone who is close to you, such as a child, friend, or romantic partner. |
-| 17 | [Inácia](http://twitter.com/search?q=In%c3%a1cia) | Inácia is a Portuguese name derived from the Latin name Agnes, which means “pure” or “holy”. In English, it is usually translated as "Agnes". |
-| 18 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 19 | [Feliciano](http://twitter.com/search?q=Feliciano) | Feliciano is a Spanish name derived from the Latin name Felix, which means "happy" or "lucky". It is also a common Italian surname. |
+| 17 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 18 | [Feliciano](http://twitter.com/search?q=Feliciano) | Feliciano is a Spanish name derived from the Latin name Felix, which means "happy" or "lucky". It is also a common Italian surname. |
+| 19 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | #TheVoiceKids is a television singing competition for children aged 7-14. It is based on the popular adult singing competition The Voice. The show features young singers competing against each other in a series of vocal battles, with the winner being chosen by a panel of celebrity judges. The English meaning of #TheVoiceKids is "The Voice for Kids". |
 | 20 | [Paços](http://twitter.com/search?q=Pa%c3%a7os) | Paços is a Portuguese word that means "palace" or "manor house". It is often used to refer to the official residence of a head of state or government. |
-| 21 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | #TheVoiceKids is a television singing competition for children aged 7-14. It is based on the popular adult singing competition The Voice. The show features young singers competing against each other in a series of vocal battles, with the winner being chosen by a panel of celebrity judges. The English meaning of #TheVoiceKids is "The Voice for Kids". |
-| 22 | [Florentino](http://twitter.com/search?q=Florentino) | Florentino is a Spanish name derived from the Latin name Florentinus, which means "blooming" or "flowering". It is also a surname and can refer to a person who comes from the city of Florence in Italy. |
-| 23 | [Sara](http://twitter.com/search?q=Sara) | Sara is a female given name of Hebrew origin, meaning "princess". |
-| 24 | [vamos benfica](http://twitter.com/search?q=vamos+benfica) | "Vamos Benfica" is a Portuguese phrase that translates to "Let's go Benfica!" It is a rallying cry used by supporters of the Portuguese football club, Sport Lisboa e Benfica. |
-| 25 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | Dia Mundial is Spanish for World Day. It is a day of celebration or recognition of a particular issue, event, or cause that is celebrated around the world. Examples of Dia Mundial include World Environment Day, World AIDS Day, and International Women's Day. |
-| 26 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 21 | [Florentino](http://twitter.com/search?q=Florentino) | Florentino is a Spanish name derived from the Latin name Florentinus, which means "blooming" or "flowering". It is also a surname and can refer to a person who comes from the city of Florence in Italy. |
+| 22 | [Sara](http://twitter.com/search?q=Sara) | Sara is a female given name of Hebrew origin, meaning "princess". |
+| 23 | [vamos benfica](http://twitter.com/search?q=vamos+benfica) | "Vamos Benfica" is a Portuguese phrase that translates to "Let's go Benfica!" It is a rallying cry used by supporters of the Portuguese football club, Sport Lisboa e Benfica. |
+| 24 | [Dia Mundial](http://twitter.com/search?q=Dia+Mundial) | Dia Mundial is Spanish for World Day. It is a day of celebration or recognition of a particular issue, event, or cause that is celebrated around the world. Examples of Dia Mundial include World Environment Day, World AIDS Day, and International Women's Day. |
+| 25 | [Gaspar](http://twitter.com/search?q=Gaspar) | Gaspar is a Spanish name derived from the Latin name Gasparus, which means "treasurer". It is also a variant of the Hebrew name Caspar, which means "protector of the treasure". |
+| 26 | [Inácia](http://twitter.com/search?q=In%c3%a1cia) | Inácia is a Portuguese name derived from the Latin name Agnes, which means “pure” or “holy”. In English, it is usually translated as "Agnes". |
 | 27 | [Cristina](http://twitter.com/search?q=Cristina) | Cristina is a Spanish and Portuguese female given name derived from the Latin name Christina, which means "follower of Christ". |
 | 28 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 29 | [Porto](http://twitter.com/search?q=Porto) | Porto is a city in Portugal. It is the second-largest city in the country and is known for its beautiful architecture, culture, and cuisine. In English, Porto means "port" or "harbor". |
@@ -63,8 +63,8 @@ This is top 50 for Portugal
 | 46 | [manafá](http://twitter.com/search?q=manaf%c3%a1) | Manafá is a Portuguese word that means "favor" or "benefit". It is often used to refer to a favor or benefit that someone has done for another person. |
 | 47 | [Faltam 4](http://twitter.com/search?q=Faltam+4) | Faltam 4 is a Portuguese phrase meaning "four missing". It is often used to refer to the four missing pieces of a puzzle or other item that needs to be completed. |
 | 48 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 49 | [Tininha](http://twitter.com/search?q=Tininha) | Tininha is a Portuguese term of endearment that roughly translates to "little one" or "darling." It is often used as a nickname for someone who is loved and cherished. |
-| 50 | [Fernando Daniel](http://twitter.com/search?q=Fernando+Daniel) | Fernando Daniel is a Portuguese singer and songwriter. His name translates to "brave and wise" in English. |
+| 49 | [fernando daniel](http://twitter.com/search?q=fernando+daniel) | Fernando Daniel is a Spanish singer and songwriter. He rose to fame after winning the third season of the Spanish version of The Voice in 2016. His name means "brave journey" in English. |
+| 50 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
 
 
 

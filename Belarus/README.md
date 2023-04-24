@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-24 02:42:11 UTC`
+📆 Last Updated: `2023-04-24 03:30:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for Belarus
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
+| 1 | [благодарю](http://twitter.com/search?q=%d0%b1%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
 | 2 | [твиттер](http://twitter.com/search?q=%d1%82%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | "Твиттер" is a social media platform and microblogging service that allows users to post and interact with messages known as "tweets". In English, it is commonly referred to as Twitter. |
 | 3 | [люблю](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%bb%d1%8e) | "Люблю" is a Russian verb meaning "to love". In English, it would be translated as "I love". |
 | 4 | [звучит](http://twitter.com/search?q=%d0%b7%d0%b2%d1%83%d1%87%d0%b8%d1%82) | Звучит is a Russian verb that means "sounds" or "sounds like". It is used to describe the sound of something, usually music or a voice. For example, Эта песня звучит хорошо. (This song sounds good.) |
 | 5 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | "Дзякуй" is a Belarusian word meaning "thank you". |
-| 6 | [китай](http://twitter.com/search?q=%d0%ba%d0%b8%d1%82%d0%b0%d0%b9) | "Китай" is the Russian word for China. It is derived from the Chinese name for the country, Zhongguo, which means "Middle Kingdom". |
+| 6 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | Китай is the Russian word for China. In English, it is pronounced "kee-tie". |
 | 7 | [беларусі](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%96) | Беларусі is the name of the country of Belarus in its native language, Belarusian. In English, it translates to Belarus. |
 | 8 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | Украине is the Russian word for Ukraine. In English, it translates to Ukraine. |
 | 9 | [#seilors](http://twitter.com/search?q=%23seilors) | #Seilors is a hashtag used on social media to refer to people who are part of the maritime industry, such as sailors, fishermen, and boat captains. It is used to share stories, photos, and experiences related to life at sea. |
@@ -28,7 +28,7 @@ This is top 50 for Belarus
 | 11 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | Гродно is a city in Belarus. It is the capital of the Grodno Region and the center of the Grodno District. In English, it is sometimes referred to as Grodno or Hrodna. |
 | 12 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | Арсений is a Russian male name derived from the Greek word "arsenikos" meaning "male, strong, brave". In English, it can be translated to mean "strong man". |
 | 13 | [#NewMusic](http://twitter.com/search?q=%23NewMusic) | #NewMusic is a hashtag used on social media to promote new music releases. It is often used by artists, labels, and fans to share new music and discover new artists. |
-| 14 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | Реально is a Russian word that means "really" or "in reality". It is used to express agreement or to emphasize the truth of a statement. |
+| 14 | [реально](http://twitter.com/search?q=%d1%80%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | In English, "реально" is an adverb that means "really" or "actually". It is used to emphasize the truth or reality of a situation. |
 | 15 | [скорее](http://twitter.com/search?q=%d1%81%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | "Скорее" is a Russian adverb that means "sooner" or "quicker". It is used to express the idea of doing something quickly or in a hurry. |
 | 16 | [круто](http://twitter.com/search?q=%d0%ba%d1%80%d1%83%d1%82%d0%be) | Круто (pronounced kroot-oh) is a Russian slang word that means "cool" or "awesome". It is often used to express approval or admiration for something. |
 | 17 | [STRANGER WORLD TOUR 2023](http://twitter.com/search?q=STRANGER+WORLD+TOUR+2023) | STRANGER WORLD TOUR 2023 is a concert tour by the Korean pop group BTS. The tour will take place in 2023 and will feature concerts in various cities around the world. The name of the tour is a reference to the group's latest album, "Map of the Soul: 7 - The Journey". The title of the album and tour reflects BTS's desire to explore new musical styles and genres, as well as their commitment to connecting with fans from all over the world. |

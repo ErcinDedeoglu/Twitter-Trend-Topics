@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-24 02:36:14 UTC`
+📆 Last Updated: `2023-04-24 03:23:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -39,7 +39,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 22 | [#herpes](http://twitter.com/search?q=%23herpes) | #Herpes is a hashtag used to refer to the herpes simplex virus, which is a sexually transmitted infection. It can cause sores and blisters on the skin and mucous membranes. |
 | 23 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
 | 24 | [šlesers](http://twitter.com/search?q=%c5%a1lesers) | "Šlesers" is a Latvian surname. It is derived from the word "šļēsējs", which means "shoemaker". |
-| 25 | [Ceru](http://twitter.com/search?q=Ceru) | Ceru is a Japanese word that means “clear” or “transparent.” It is often used to describe something that is pure and free of impurities. |
+| 25 | [ceru](http://twitter.com/search?q=ceru) | Ceru is a Japanese word that means “clear” or “transparent.” It is often used to describe something that is bright and sparkling, such as a crystal-clear lake or a starry night sky. |
 | 26 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | Izskatās is a Latvian word meaning "looks like" or "appears to be". It is used to describe the appearance of something. |
 | 27 | [valmierā](http://twitter.com/search?q=valmier%c4%81) | Valmierā is a city in Latvia. It is the largest city in the Valmiera District and the center of the historical Vidzeme region. In English, it means "in Valmiera". |
 | 28 | [Visi](http://twitter.com/search?q=Visi) | Visi is a Latin word meaning "to see" or "to look". It is often used in the context of vision, such as in the phrase "visi et audire" which means "to see and hear". |
@@ -57,12 +57,11 @@ This is top 50 for [Latvia](</Latvia>)
 | 40 | [tavs](http://twitter.com/search?q=tavs) | Tavs is a slang term used in the United Kingdom, typically in Northern England, to describe something that is cool or impressive. It can also be used to describe someone who is attractive or stylish. |
 | 41 | [vajag](http://twitter.com/search?q=vajag) | Vajag is a Latvian word that means "I want". |
 | 42 | [nekas](http://twitter.com/search?q=nekas) | Nekas is a Latvian word that means "nothing". |
-| 43 | [Tieši](http://twitter.com/search?q=Tie%c5%a1i) | Tieši is a Latvian word meaning "exactly" or "precisely". |
-| 44 | [Biju](http://twitter.com/search?q=Biju) | Biju is a term used in India to refer to someone who is endearing, lovable, and kind. It can also be used to describe someone who is generous and helpful. In English, it can be translated as "darling" or "sweetheart". |
-| 45 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | Vienmēr is a Latvian word meaning "always" or "forever". |
-| 46 | [Diez](http://twitter.com/search?q=Diez) | Diez is a Spanish word meaning "ten". |
-| 47 | [igauniju](http://twitter.com/search?q=igauniju) | Igauniju is the Latvian word for Estonia. In English, it means "Estonia". |
-| 48 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | Vienotības is a Latvian word meaning "unity" or "togetherness". It is often used to refer to the idea of solidarity and cooperation among people. |
+| 43 | [Biju](http://twitter.com/search?q=Biju) | Biju is a term used in India to refer to someone who is endearing, lovable, and kind. It can also be used to describe someone who is generous and helpful. In English, it can be translated as "darling" or "sweetheart". |
+| 44 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | Vienmēr is a Latvian word meaning "always" or "forever". |
+| 45 | [Diez](http://twitter.com/search?q=Diez) | Diez is a Spanish word meaning "ten". |
+| 46 | [igauniju](http://twitter.com/search?q=igauniju) | Igauniju is the Latvian word for Estonia. In English, it means "Estonia". |
+| 47 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | Vienotības is a Latvian word meaning "unity" or "togetherness". It is often used to refer to the idea of solidarity and cooperation among people. |
 
 
 
