@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-24 01:57:14 UTC`
+📆 Last Updated: `2023-04-24 02:42:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,14 +20,14 @@ This is top 50 for Denmark
 | 3 | [#sldk](http://twitter.com/search?q=%23sldk) | #sldk is an acronym that stands for "So Long, Don't Keep". It is typically used as a farewell phrase in online conversations. |
 | 4 | [Jon Stephensen](http://twitter.com/search?q=Jon+Stephensen) | Jon Stephensen is a Norwegian name. It is derived from the Old Norse elements "Jón" meaning "God is gracious" and "Stephensen" meaning "son of Stephen". |
 | 5 | [#ultratwitteragf](http://twitter.com/search?q=%23ultratwitteragf) | #ultratwitteragf is an acronym for Ultra Twitter Anti-Griefing Force. It is a group of people on Twitter who work together to combat online harassment and cyberbullying. |
-| 6 | [Jesper Sørensen](http://twitter.com/search?q=Jesper+S%c3%b8rensen) | Jesper Sørensen is a Danish name. In English, it translates to "Jesper Sorenson". |
+| 6 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | Jesper Sørensen is a Danish name. It is composed of two parts: Jesper, which is a Scandinavian form of the name Jasper, and Sørensen, which is a patronymic surname meaning "son of Søren". In English, the name would be translated as Jasper Sorenson. |
 | 7 | [#fcklive](http://twitter.com/search?q=%23fcklive) | #fcklive is an acronym for "Forget Care Keep Living," which is a phrase used to encourage people to focus on the present and not worry about the past or future. It is often used as a reminder to stay positive and enjoy life. |
 | 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 9 | [Cornelius](http://twitter.com/search?q=Cornelius) | Cornelius is a Latin name derived from the Roman family name Cornelius. It means "horn" or "of a horn" and is associated with the Latin word cornu, meaning "horn". The name is often used as a given name for males. |
 | 10 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 11 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 12 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 13 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | Moderaterne is a Danish political party. The name translates to "The Moderates" in English. It is a centre-right party that was founded in 1915 and is currently the second largest party in the Danish Parliament. |
+| 13 | [moderaterne](http://twitter.com/search?q=moderaterne) | Moderaterne is a Danish political party. In English, it translates to "the Moderates". The party is a center-right, liberal conservative party that focuses on economic and social issues. |
 | 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 15 | [Randers](http://twitter.com/search?q=Randers) | Randers is a city in Denmark. It is located in the Central Denmark Region on the Jutland peninsula, and has a population of around 60,000 people. The name Randers comes from the Old Danish Rand meaning "edge" or "border". |
 | 16 | [vallys](http://twitter.com/search?q=vallys) | Vallys is not a word in English. It may be a misspelling of the word "valleys," which means a low area of land between two higher areas, often with a river or stream running through it. |

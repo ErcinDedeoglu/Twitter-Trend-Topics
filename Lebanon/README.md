@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-04-24 01:57:29 UTC`
+📆 Last Updated: `2023-04-24 02:42:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,13 +26,13 @@ This is top 50 for Lebanon
 | 9 | [محور الممانعه](http://twitter.com/search?q=%d9%85%d8%ad%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d9%85%d8%a7%d9%86%d8%b9%d9%87) | محور الممانعه is an Arabic phrase that translates to "axis of resistance" in English. It is a term used to describe the political and military alliance between Iran, Syria, Hezbollah, and other groups in the Middle East. |
 | 10 | [مار جرجس](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d8%ac%d8%b1%d8%ac%d8%b3) | مار جرجس is an Arabic phrase that translates to "Saint George" in English. It is a reference to Saint George, the patron saint of England. |
 | 11 | [الفنان السوري](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%86%d8%a7%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | الفنان السوري is Arabic for "The Syrian Artist". It refers to an artist from Syria. |
-| 12 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | مروان is an Arabic name meaning "brave" or "strong". |
-| 13 | [طلال ارسلان](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d8%a7%d8%b1%d8%b3%d9%84%d8%a7%d9%86) | طلال ارسلان is a phrase in Arabic which translates to "Talaal Arsalan," and it means "The Crown of Arsalan." It is a phrase used to refer to someone who is noble, wise, and generous. |
-| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
-| 15 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | وزير الخارجيه is Arabic for "Minister of Foreign Affairs". It is the title given to the government official responsible for managing a country's diplomatic and international relations. |
-| 16 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | اليوم الاحد is Arabic for "Sunday" and it means "Sunday" in English. |
-| 17 | [جورج صليبي](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%b5%d9%84%d9%8a%d8%a8%d9%8a) | جورج صليبي (George Saliba) is a Lebanese-American historian and professor of Arabic and Islamic science at Columbia University. He is known for his work on the history of science in the Islamic world. His English name means "George Cross". |
-| 18 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | بشار الاسد is an Arabic phrase meaning "Bashar al-Assad," the current President of Syria. In English, it translates to "Bashar al-Assad." |
+| 12 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 13 | [بشار الاسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | بشار الاسد is an Arabic phrase meaning "Bashar al-Assad," the current President of Syria. In English, it translates to "Bashar al-Assad." |
+| 14 | [وزير الخارجيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d9%87) | وزير الخارجيه is Arabic for "Minister of Foreign Affairs". It is the title given to the government official responsible for managing a country's diplomatic and international relations. |
+| 15 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | اليوم الاحد is Arabic for "Sunday" and it means "Sunday" in English. |
+| 16 | [جورج صليبي](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%b5%d9%84%d9%8a%d8%a8%d9%8a) | جورج صليبي (George Saliba) is a Lebanese-American historian and professor of Arabic and Islamic science at Columbia University. He is known for his work on the history of science in the Islamic world. His English name means "George Cross". |
+| 17 | [طلال ارسلان](http://twitter.com/search?q=%d8%b7%d9%84%d8%a7%d9%84+%d8%a7%d8%b1%d8%b3%d9%84%d8%a7%d9%86) | طلال ارسلان is a phrase in Arabic which translates to "Talaal Arsalan," and it means "The Crown of Arsalan." It is a phrase used to refer to someone who is noble, wise, and generous. |
+| 18 | [مروان](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86) | مروان is an Arabic name meaning "brave" or "strong". |
 | 19 | [الوزير السابق](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d8%a7%d8%a8%d9%82) | الوزير السابق is Arabic for "former minister". It is used to refer to a minister who has previously held a position in government. |
 | 20 | [عين المريسه](http://twitter.com/search?q=%d8%b9%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d8%b1%d9%8a%d8%b3%d9%87) | عين المريسه is an Arabic phrase that translates to "the eye of the mermaid" in English. It is a metaphor for something that is difficult to find or obtain. |
 | 21 | [للسعودية](http://twitter.com/search?q=%d9%84%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | للسعودية is an Arabic phrase that translates to "for Saudi Arabia" in English. |

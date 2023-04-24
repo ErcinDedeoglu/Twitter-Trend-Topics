@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-24 01:50:26 UTC`
+📆 Last Updated: `2023-04-24 02:36:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 12 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
 | 13 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 14 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 15 | [Nybro](http://twitter.com/search?q=Nybro) | Nybro is a municipality in the Kalmar County of Sweden. The name Nybro is derived from the Old Norse words nýr (new) and brú (bridge). In English, Nybro translates to "new bridge". |
+| 15 | [nybro](http://twitter.com/search?q=nybro) | Nybro is a municipality in the Kalmar County of Sweden. It is located on the east coast of the country, and its population is approximately 18,000. The name Nybro comes from the Old Norse words nýr (new) and brú (bridge). In English, Nybro translates to "new bridge". |
 | 16 | [Mild](http://twitter.com/search?q=Mild) | Mild is an adjective that means gentle, moderate, or not severe. It can be used to describe weather, temperature, flavor, or behavior. For example, mild weather is warm but not hot; mild cheese has a subtle flavor; and mild behavior is polite and not aggressive. |
 | 17 | [Liseberg](http://twitter.com/search?q=Liseberg) | Liseberg is an amusement park located in Gothenburg, Sweden. It is one of the most visited tourist attractions in Scandinavia, with over three million visitors annually. The name Liseberg comes from the name of the hill on which it is located, which was named after a woman named Lise. In English, Liseberg translates to "Lise's Mountain". |
 | 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
@@ -59,7 +59,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 42 | [Islam](http://twitter.com/search?q=Islam) | Islam is a monotheistic religion based on the teachings of the Islamic prophet Muhammad. It is the world's second-largest religion with over 1.8 billion followers or 24.1% of the world's population, most commonly known as Muslims. The word Islam means "submission" or "surrender" in Arabic, and it is derived from a root word meaning "peace." |
 | 43 | [ifk göteborg](http://twitter.com/search?q=ifk+g%c3%b6teborg) | IFK Göteborg is a Swedish professional football club based in Gothenburg. The club is affiliated with Göteborgs Fotbollförbund and play their home games at Gamla Ullevi. The club's name stands for Idrottsföreningen Kamraterna Göteborg, which translates to "The Sports Association of Friends of Gothenburg". |
 | 44 | [vaiho](http://twitter.com/search?q=vaiho) | Vaiho is a Finnish word that means "to go away" or "to leave". |
-| 45 | [Blåvitt](http://twitter.com/search?q=Bl%c3%a5vitt) | Blåvitt is a Swedish phrase that translates to "blue and white" in English. It is used to refer to the colors of the Swedish football team AIK, which are blue and white. |
+| 45 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | Blåvitt is a Swedish phrase that literally translates to "blue-white" and is used to refer to the colors of the Swedish football team AIK. It is also used as a term of endearment for AIK fans. |
 | 46 | [sundsvall](http://twitter.com/search?q=sundsvall) | Sundsvall is a city in northern Sweden. It is the administrative center of Västernorrland County and has a population of around 60,000 people. The name Sundsvall means "sunny valley" in English. |
 | 47 | [Djurgården](http://twitter.com/search?q=Djurg%c3%a5rden) | Djurgården is a Swedish island located in central Stockholm. It is a popular recreational area and home to many of the city's museums, galleries, and other attractions. The name Djurgården translates to "Animal Garden" in English. |
 | 48 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |

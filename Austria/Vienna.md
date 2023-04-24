@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-24 01:49:07 UTC`
+📆 Last Updated: `2023-04-24 02:35:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for [Austria](</Austria>)
 | 4 | [Kommunisten](http://twitter.com/search?q=Kommunisten) | Kommunisten is a German word meaning "Communists". It is used to refer to people who follow the ideology of Communism, which is an economic and political system based on the collective ownership of the means of production and distribution. |
 | 5 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | #imzentrum is a hashtag used on social media platforms such as Twitter and Instagram. It is used to tag posts related to the Zentrum für Interdisziplinäre Medienwissenschaft (ZIM), a research center at the University of Siegen in Germany. The English translation of #imzentrum is "at the ZIM". |
 | 6 | [#EGU23](http://twitter.com/search?q=%23EGU23) | #EGU23 is a hashtag used to promote the 23rd European Geosciences Union General Assembly, an annual event held by the European Geosciences Union. The hashtag is used to share information about the event and related topics. |
-| 7 | [Haslauer](http://twitter.com/search?q=Haslauer) | Haslauer is a German surname. It is derived from the Middle High German word "haselouwe", which means "hazel grove". |
+| 7 | [haslauer](http://twitter.com/search?q=haslauer) | Haslauer is a German surname. It is derived from the Middle High German word "hasel" meaning "hazel". The name likely originated as a nickname for someone with hazel-colored eyes or hair. |
 | 8 | [#sturbs](http://twitter.com/search?q=%23sturbs) | #Sturbs is an abbreviation for the phrase "stirring up trouble," which means to cause or create a disturbance or conflict. |
 | 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | "Schönen sonntag" is a German phrase that translates to "Have a nice Sunday" in English. |
 | 10 | [Dialekt](http://twitter.com/search?q=Dialekt) | Dialekt is a German word that refers to a regional or social variety of a language. It is used to describe the different forms of a language that are spoken in different regions or by different social groups. In English, it is often referred to as dialect. |
@@ -32,9 +32,9 @@ This is top 50 for [Austria](</Austria>)
 | 15 | [Graz](http://twitter.com/search?q=Graz) | Graz is the capital of the Austrian state of Styria. It is the second-largest city in Austria after Vienna. The name Graz is derived from the Slavic word gradec, meaning "small castle". In English, Graz translates to "small castle". |
 | 16 | [Landtag](http://twitter.com/search?q=Landtag) | Landtag is a German word that refers to a state parliament or legislative assembly. It is the equivalent of a state legislature in the United States. The Landtag is responsible for passing laws and regulations that apply to the state, as well as overseeing the executive branch of government. |
 | 17 | [ränder](http://twitter.com/search?q=r%c3%a4nder) | Ränder is a German word that means "edges" or "borders". It is used to refer to the edges of something, such as the edges of a page or the borders of a country. |
-| 18 | [Hochdeutsch](http://twitter.com/search?q=Hochdeutsch) | Hochdeutsch is a term used to refer to Standard German, the variety of German spoken in Germany, Austria, and Switzerland. It literally translates to "High German" in English. |
+| 18 | [hochdeutsch](http://twitter.com/search?q=hochdeutsch) | Hochdeutsch is a term used to refer to Standard German, the official language of Germany. It literally translates to "High German" and is used to distinguish it from dialects and other varieties of the language. |
 | 19 | [Dankl](http://twitter.com/search?q=Dankl) | Dankl is a German word that means "thankful" or "grateful". It is used to express appreciation for something or someone. |
-| 20 | [Platz 1](http://twitter.com/search?q=Platz+1) | Platz 1 is a German phrase meaning "first place." It is commonly used to refer to the winner of a competition or race. |
+| 20 | [platz 1](http://twitter.com/search?q=platz+1) | Platz 1 is a German phrase meaning "first place." It is typically used to refer to the winner of a competition or race. |
 | 21 | [Wahlen](http://twitter.com/search?q=Wahlen) | Wahlen is a German word meaning "to choose" or "to elect". It is often used in the context of elections, such as when people are voting for a candidate or party. |
 | 22 | [Protest](http://twitter.com/search?q=Protest) | Protest is an expression of objection or disapproval, typically in opposition to something. It can be expressed in a variety of ways, including verbal or written statements, demonstrations, and other forms of civil disobedience. |
 | 23 | [Stimmen](http://twitter.com/search?q=Stimmen) | Stimmen is a German word that means "voices" or "sounds". It can also refer to the sound of a musical instrument or the sound of a person's voice. In English, it is most commonly used in the phrase "to hear voices" or "to hear sounds". |
@@ -49,9 +49,9 @@ This is top 50 for [Austria](</Austria>)
 | 32 | [Überstunden](http://twitter.com/search?q=%c3%9cberstunden) | Überstunden is a German word meaning "overtime". It refers to the extra hours worked beyond the normal working hours. |
 | 33 | [Fussi](http://twitter.com/search?q=Fussi) | Fussi is a German word that means "fussy" or "finicky". It is used to describe someone who is overly particular about small details or who pays too much attention to minor details. |
 | 34 | [Niederlage](http://twitter.com/search?q=Niederlage) | Niederlage is a German word meaning "defeat" or "loss" in English. It is used to describe a situation in which one party has been defeated or has suffered a loss. |
-| 35 | [Volksverräter](http://twitter.com/search?q=Volksverr%c3%a4ter) | Volksverräter is a German word that translates to "traitor to the people" or "traitor to the nation". It is used to describe someone who has betrayed their country or people in some way. |
+| 35 | [volksverräter](http://twitter.com/search?q=volksverr%c3%a4ter) | Volksverräter is a German word that translates to "traitor to the people" or "traitor of the nation". It is used to describe someone who is seen as having betrayed their country or people. |
 | 36 | [Stalin](http://twitter.com/search?q=Stalin) | Stalin is a nickname for the Soviet leader Joseph Stalin (1878-1953). It is derived from the Russian word for steel, and was given to him due to his determination and strength. In English, it means "man of steel". |
-| 37 | [Spitze](http://twitter.com/search?q=Spitze) | Spitze is a German word that means "excellent" or "top-notch". It can also be used to describe something that is very sharp or pointed. |
+| 37 | [spitze](http://twitter.com/search?q=spitze) | Spitze is a German word that means "excellent" or "top-notch". It can also be used to describe something that is very sharp or pointed. |
 | 38 | [Themen](http://twitter.com/search?q=Themen) | Themen is a German word meaning "themes" or "topics". It is used to refer to the topics or subjects of discussion, study, or research. |
 | 39 | [Ideologie](http://twitter.com/search?q=Ideologie) | Ideologie is a German word that refers to a set of beliefs or ideas that form the basis of a political, economic, or social system. In English, it is often used to refer to a system of beliefs that are held by a particular group or society. |
 | 40 | [Wahlbeteiligung](http://twitter.com/search?q=Wahlbeteiligung) | Wahlbeteiligung is a German word meaning "voter turnout" in English. It refers to the percentage of eligible voters who cast a ballot in an election. |

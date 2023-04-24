@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-04-24 01:56:56 UTC`
+📆 Last Updated: `2023-04-24 02:42:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Algeria
 | 3 | [علم الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | علم الجزاير is the Algerian flag. It consists of two equal vertical bands of green (hoist side) and white; a red, five-pointed star within a red crescent centered over the two-color boundary. The crescent, star, and color green are traditional symbols of Islam. |
 | 4 | [اتحاد العاصمه](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b9%d8%a7%d8%b5%d9%85%d9%87) | اتحاد العاصمه is a Saudi Arabian football club based in Riyadh. The English translation of the name is "Riyadh Union". |
 | 5 | [#يحيا_الجيش_الشعبي_الوطني](http://twitter.com/search?q=%23%d9%8a%d8%ad%d9%8a%d8%a7_%d8%a7%d9%84%d8%ac%d9%8a%d8%b4_%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d9%8a_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | #يحيا_الجيش_الشعبي_الوطني is an Arabic hashtag that translates to "Long Live the National People's Army". It is used to express support for the armed forces of a particular nation. |
-| 6 | [علم فلسطين](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | علم فلسطين (Alam Falastin) is the Palestinian flag. It consists of three horizontal stripes of black, white, and green, with a red triangle at the hoist side containing a white star. In English, it translates to "Flag of Palestine". |
-| 7 | [علم دوله](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%af%d9%88%d9%84%d9%87) | علم دوله is an Arabic phrase meaning "State Science". It is used to refer to the scientific and technological knowledge and expertise that a nation has acquired in order to support its economic, social, and political development. |
+| 6 | [علم دوله](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%af%d9%88%d9%84%d9%87) | علم دوله is an Arabic phrase meaning "State Science". It is used to refer to the scientific and technological knowledge and expertise that a nation has acquired in order to support its economic, social, and political development. |
+| 7 | [علم فلسطين](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | علم فلسطين (Alam Falastin) is the Palestinian flag. It consists of three horizontal stripes of black, white, and green, with a red triangle at the hoist side containing a white star. In English, it translates to "Flag of Palestine". |
 | 8 | [الجيش الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%8a%d8%b4+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | الجيش الملكي is the Royal Army of Saudi Arabia. It is the main branch of the Saudi Arabian Armed Forces and is responsible for land-based military operations. In English, it translates to "Royal Army". |
 | 9 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
 | 10 | [#فرنسا](http://twitter.com/search?q=%23%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | #فرنسا is the Arabic hashtag for France. In English, it translates to "France". |

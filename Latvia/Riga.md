@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-24 01:50:07 UTC`
+📆 Last Updated: `2023-04-24 02:36:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 15 | [tikko](http://twitter.com/search?q=tikko) | Tikko is a type of traditional Korean food made from glutinous rice, vegetables, and meat. It is usually served as a side dish or snack. The word "tikko" comes from the Korean word for "rice cake," which is tteok. |
 | 16 | [NATO](http://twitter.com/search?q=NATO) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. Its purpose is to protect the freedom and security of its member states by providing collective defense against aggression from any external source. |
 | 17 | [pirmkārt](http://twitter.com/search?q=pirmk%c4%81rt) | Pirmkārt is a Latvian word meaning "first of all" or "firstly". It is used to introduce the first point in a list of points or ideas. |
-| 18 | [Zinu](http://twitter.com/search?q=Zinu) | Zinu is a term used in the Yoruba language of Nigeria, which means "love". It is often used as a term of endearment or to express affection. |
+| 18 | [zinu](http://twitter.com/search?q=zinu) | Zinu is a term used in the Caribbean to refer to someone who is being annoying or irritating. It can also be used to describe someone who is acting foolishly or recklessly. In English, it could be translated as "annoying" or "irritating". |
 | 19 | [kādam](http://twitter.com/search?q=k%c4%81dam) | Kādam is a Hindi word that means "step" or "measure". It is often used to refer to a plan of action or a strategy. |
 | 20 | [atkal](http://twitter.com/search?q=atkal) | Atkal is a Latvian word meaning "again". |
 | 21 | [#Russia](http://twitter.com/search?q=%23Russia) | #Russia is a hashtag used on social media to refer to the country of Russia. It is often used to tag posts related to news, culture, and other topics related to the country. |
