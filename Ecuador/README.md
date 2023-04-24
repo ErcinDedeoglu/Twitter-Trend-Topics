@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-04-24 08:29:58 UTC`
+📆 Last Updated: `2023-04-24 09:30:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Ecuador
 | 7 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 8 | [#SudamericanoSub17](http://twitter.com/search?q=%23SudamericanoSub17) | #SudamericanoSub17 is a hashtag used to refer to the South American Under-17 Football Championship, an international football tournament for players under the age of 17. The tournament is held every two years and is organized by CONMEBOL, the governing body of South American football. |
 | 9 | [Undav](http://twitter.com/search?q=Undav) | Undav is a Spanish word that means "below" or "underneath". It is used to describe something that is located beneath or lower than something else. |
-| 10 | [#MiniTri](http://twitter.com/search?q=%23MiniTri) | #MiniTri is a hashtag used to promote mini triathlons, which are shorter versions of traditional triathlons. Mini triathlons typically involve swimming, cycling, and running shorter distances than a full-length triathlon. The hashtag is used to share information about upcoming mini triathlons, as well as to share stories and photos from participants who have completed them. |
+| 10 | [#minitri](http://twitter.com/search?q=%23minitri) | #minitri is a hashtag used on social media to refer to a mini-triathlon, which is a shorter version of a traditional triathlon. It typically consists of swimming, cycling, and running in that order. The distance for each event varies depending on the event organizer. |
 | 11 | [#DiaDelLibro](http://twitter.com/search?q=%23DiaDelLibro) | #DiaDelLibro is Spanish for "Book Day" and is celebrated in Spain on April 23rd. It is a day to celebrate books, reading, and literature. |
 | 12 | [#mushucruna](http://twitter.com/search?q=%23mushucruna) | #Mushucruna is a hashtag used to promote the Ecuadorian football team Club Sport Emelec. The name is derived from the Spanish phrase "Música, Sueños y Cielo Azul" which translates to "Music, Dreams and Blue Sky". It is used to show support for the team and its players. |
 | 13 | [sergio lópez](http://twitter.com/search?q=sergio+l%c3%b3pez) | Sergio López is a Spanish name. It is composed of the given name Sergio, which is derived from the Latin name Sergius, meaning "servant," and the surname López, which is derived from the Latin word lupus, meaning "wolf." |
@@ -40,17 +40,17 @@ This is top 50 for Ecuador
 | 23 | [Leguizamon](http://twitter.com/search?q=Leguizamon) | Leguizamon is a Spanish surname derived from the Latin name "Leo" meaning lion. It is also a common surname in Argentina, Uruguay, and Paraguay. In English, it can be translated to mean "Lion-like". |
 | 24 | [Paez](http://twitter.com/search?q=Paez) | Paez is a Spanish surname derived from the Latin word "pagus," which means "village." It is also a common surname in Latin America, particularly in Colombia, Venezuela, and Mexico. In English, it can be translated to mean "from the village." |
 | 25 | [Orense](http://twitter.com/search?q=Orense) | Orense is the name of a city in northwestern Spain. It is the capital of the province of Ourense and has a population of around 100,000 people. In English, it is sometimes referred to as Ourense. |
-| 26 | [Damián Díaz](http://twitter.com/search?q=Dami%c3%a1n+D%c3%adaz) | Damián Díaz is a Spanish name. It is composed of two given names, Damián and Díaz. The name Damián is derived from the Latin Damianus, which means "to tame" or "to subdue". The name Díaz is derived from the Latin word dies, which means "day". In English, the name Damián Díaz could be translated to mean "Tamer of Days". |
+| 26 | [damián díaz](http://twitter.com/search?q=dami%c3%a1n+d%c3%adaz) | Damián Díaz is a Spanish name, derived from the Latin Damianus, meaning "to tame". It is also a common surname in Spanish-speaking countries. In English, it can be translated to mean "tamer". |
 | 27 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 28 | [Bellavista](http://twitter.com/search?q=Bellavista) | Bellavista is an Italian phrase meaning "beautiful view". It is often used to describe a scenic landscape or a place with a stunning view. |
 | 29 | [Agustín](http://twitter.com/search?q=Agust%c3%adn) | Agustín is a Spanish name derived from the Latin name Augustus, which means "great" or "magnificent". In English, Agustín is usually translated as "Augustine". |
 | 30 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 31 | [Luca Sosa](http://twitter.com/search?q=Luca+Sosa) | Luca Sosa is a Spanish name. It is derived from the Latin name Lucas, which means "light" or "illumination". In English, Luca Sosa can be translated to mean "bringer of light". |
-| 32 | [FERRAN](http://twitter.com/search?q=FERRAN) | FERRAN is a Spanish name derived from the Latin name "Ferrandus," which means "brave traveler." It is also a Catalan surname. |
-| 33 | [Jorge Ortiz](http://twitter.com/search?q=Jorge+Ortiz) | Jorge Ortiz is a Spanish name meaning "George of the Orchard". It is derived from the Latin name Georgius, which means "farmer" or "earthworker". |
+| 31 | [luca sosa](http://twitter.com/search?q=luca+sosa) | Luca Sosa is a Spanish name. It is derived from the Latin name Lucas, which means "light" or "illumination". In English, Luca Sosa can be translated to mean "Light of God". |
+| 32 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 33 | [jorge ortiz](http://twitter.com/search?q=jorge+ortiz) | Jorge Ortiz is a Spanish name. It is derived from the Latin name Georgius, which means "farmer" or "earthworker". In English, it can be translated to mean "George the Farmer". |
 | 34 | [fausto miño](http://twitter.com/search?q=fausto+mi%c3%b1o) | Fausto Miño is a popular Venezuelan folk song about a man who goes to the market to buy food for his family. The song is about his journey and the people he meets along the way. In English, the title translates to "Fausto's Journey". |
 | 35 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | Alejandro Sanz is a Spanish singer, songwriter, and musician. He has won numerous awards throughout his career, including 17 Latin Grammy Awards and three Grammy Awards. The name Alejandro Sanz means "defender of man" in English. |
-| 36 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
+| 36 | [piovi](http://twitter.com/search?q=piovi) | Piovi is an Italian word meaning "it rains". |
 | 37 | [Villalba](http://twitter.com/search?q=Villalba) | Villalba is a Spanish surname derived from the Latin word villa, meaning "town" or "village". In English, it can be translated to mean "town dweller". |
 | 38 | [Alberti](http://twitter.com/search?q=Alberti) | Alberti is a surname of Italian origin. It is derived from the Latin name Albertus, which means "noble and bright". The name is most commonly associated with the Italian Renaissance artist and architect Leon Battista Alberti (1404-1472). |
 | 39 | [vivar](http://twitter.com/search?q=vivar) | Vivar is a Spanish word that means "to live". It is often used to describe the act of living a full and vibrant life. |

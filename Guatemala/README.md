@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-24 08:30:14 UTC`
+📆 Last Updated: `2023-04-24 09:30:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Guatemala
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HBDNelson](http://twitter.com/search?q=%23HBDNelson) | #HBDNelson is an acronym for "Happy Birthday Nelson". It is a hashtag used on social media to wish someone named Nelson a happy birthday. |
-| 2 | [FERRAN](http://twitter.com/search?q=FERRAN) | FERRAN is a Spanish name derived from the Latin name "Ferrandus," which means "brave traveler." It is also a Catalan surname. |
+| 2 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 3 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 4 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
 | 5 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
@@ -29,7 +29,7 @@ This is top 50 for Guatemala
 | 12 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 14 | [Barsa](http://twitter.com/search?q=Barsa) | Barsa is a Spanish word meaning "rain". It is often used to refer to a heavy rainstorm. |
-| 15 | [Matos](http://twitter.com/search?q=Matos) | Matos is a Spanish word meaning "materials" or "supplies". It is used to refer to the materials and supplies needed for a particular task or activity. |
+| 15 | [matos](http://twitter.com/search?q=matos) | Matos is a Portuguese word meaning "stuff" or "things". It is often used to refer to a collection of items, such as clothing, tools, or other objects. |
 | 16 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
 | 17 | [eric garcía](http://twitter.com/search?q=eric+garc%c3%ada) | Eric García is a Spanish name. It is composed of the given name Eric and the surname García. Eric is a masculine given name derived from the Old Norse name Eiríkr, meaning "ever-ruler" or "eternal ruler". García is a Spanish surname of Visigothic origin, meaning "young". |
 | 18 | [Spotify Camp Nou](http://twitter.com/search?q=Spotify+Camp+Nou) | Spotify Camp Nou is a virtual music festival created by Spotify in collaboration with FC Barcelona. It is an online event that brings together some of the biggest names in music from around the world to perform live at the iconic Camp Nou stadium in Barcelona. The event aims to bring fans closer to their favorite artists and give them an unforgettable experience. In English, it means a virtual music festival hosted by Spotify and FC Barcelona at the Camp Nou stadium in Barcelona. |
