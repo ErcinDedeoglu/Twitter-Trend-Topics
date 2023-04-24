@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-23 23:27:14 UTC`
+📆 Last Updated: `2023-04-24 00:42:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
-| 2 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | Twitter is a social media platform that allows users to post short messages (up to 280 characters) called "tweets". It is used by millions of people around the world to share news, opinions, and other content. |
+| 2 | [твиттер](http://twitter.com/search?q=%d1%82%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | "Твиттер" is a social media platform and microblogging service that allows users to post and interact with messages known as "tweets". In English, it is commonly referred to as Twitter. |
 | 3 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
 | 4 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | Звучит is a Russian expression that means "sounds like" or "it sounds". It is used to express agreement or understanding of something that has been said. |
 | 5 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | "Дзякуй" is a Belarusian word meaning "thank you". |
