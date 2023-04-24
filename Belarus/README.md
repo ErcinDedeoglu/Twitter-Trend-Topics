@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-24 00:42:58 UTC`
+📆 Last Updated: `2023-04-24 01:57:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,7 +21,7 @@ This is top 50 for Belarus
 | 4 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | Звучит is a Russian expression that means "sounds like" or "it sounds". It is used to express agreement or understanding of something that has been said. |
 | 5 | [дзякуй](http://twitter.com/search?q=%d0%b4%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | "Дзякуй" is a Belarusian word meaning "thank you". |
 | 6 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | Китай is the Russian word for China. In English, it is pronounced "kee-tie". |
-| 7 | [Беларусі](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%96) | Беларусі is the name of the country formerly known as Belarus. It is derived from the Old East Slavic word for "white" and "Russia". In English, it translates to "White Russia". |
+| 7 | [беларусі](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%96) | Беларусі is the name of the country of Belarus in its native language, Belarusian. In English, it translates to Belarus. |
 | 8 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | Украине is the Russian word for Ukraine. In English, it translates to Ukraine. |
 | 9 | [#seilors](http://twitter.com/search?q=%23seilors) | #Seilors is a hashtag used on social media to refer to people who are part of the maritime industry, such as sailors, fishermen, and boat captains. It is used to share stories, photos, and experiences related to life at sea. |
 | 10 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | Дааа is an expression of agreement or enthusiasm in Russian. It is similar to the English expression "Yeah!" or "Yay!" |
@@ -32,7 +32,7 @@ This is top 50 for Belarus
 | 15 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | Скорее is a Russian adverb that means "sooner" or "quicker". It is used to express the idea of doing something quickly or as soon as possible. |
 | 16 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | Круто is a Russian slang word that means "cool" or "awesome". It is often used to express approval or admiration. |
 | 17 | [STRANGER WORLD TOUR 2023](http://twitter.com/search?q=STRANGER+WORLD+TOUR+2023) | STRANGER WORLD TOUR 2023 is a concert tour by the Korean pop group BTS. The tour will take place in 2023 and will feature concerts in various cities around the world. The name of the tour is a reference to the group's latest album, "Map of the Soul: 7 - The Journey". The title of the album and tour reflects BTS's desire to explore new musical styles and genres, as well as their commitment to connecting with fans from all over the world. |
-| 18 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | Ахах is an expression of laughter in Russian. It is similar to the English expression "haha" and is used to express amusement or joy. |
+| 18 | [ахах](http://twitter.com/search?q=%d0%b0%d1%85%d0%b0%d1%85) | "Ахах" is a Russian expression of laughter, similar to "haha" in English. It is used to express amusement or joy. |
 | 19 | [#TogetherByDimash](http://twitter.com/search?q=%23TogetherByDimash) | #TogetherByDimash is a hashtag used to promote the music of Kazakh singer Dimash Kudaibergen. It is used to show support for Dimash and his music, as well as to bring fans together from around the world. The hashtag is often used in conjunction with other hashtags such as #DimashKudaibergen and #DimashArmy. |
 | 20 | [#StrangerConcertYerevan](http://twitter.com/search?q=%23StrangerConcertYerevan) | #StrangerConcertYerevan is a hashtag used to promote a concert in Yerevan, Armenia featuring the band Stranger. The hashtag is used to share information about the event and to encourage people to attend. |
 | 21 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | Наверное is a Russian expression that translates to "probably" or "most likely" in English. It is used to express an opinion or assumption about something. |
