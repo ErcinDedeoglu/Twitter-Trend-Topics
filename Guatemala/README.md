@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-24 09:30:58 UTC`
+📆 Last Updated: `2023-04-24 10:31:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HBDNelson](http://twitter.com/search?q=%23HBDNelson) | #HBDNelson is an acronym for "Happy Birthday Nelson". It is a hashtag used on social media to wish someone named Nelson a happy birthday. |
+| 1 | [#hbdnelson](http://twitter.com/search?q=%23hbdnelson) | #hbdnelson is an abbreviation for "Happy Birthday Nelson". It is a hashtag used on social media to wish someone named Nelson a happy birthday. |
 | 2 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 3 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 4 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
@@ -41,7 +41,7 @@ This is top 50 for Guatemala
 | 24 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 25 | [#Succession](http://twitter.com/search?q=%23Succession) | Succession is an American television drama series created by Jesse Armstrong that premiered on HBO in 2018. It follows the lives of the Roy family, a fictional American global-media family dynasty that is based in New York City. The show focuses on the power struggle between Logan Roy (Brian Cox) and his four children as they compete for control of the family business. The term "succession" refers to the process of one generation passing on their power and wealth to the next. |
 | 26 | [gramajo](http://twitter.com/search?q=gramajo) | Gramajo is a Spanish surname. It is derived from the Latin word gramaticus, which means "grammarian" or "scholar". In English, it can be translated to mean "scholarly" or "learned". |
-| 27 | [GRIEZMANN](http://twitter.com/search?q=GRIEZMANN) | GRIEZMANN is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 27 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
 | 28 | [república de china](http://twitter.com/search?q=rep%c3%bablica+de+china) | República de China is the official name of Taiwan, a self-governing island nation off the coast of mainland China. In English, it translates to "Republic of China". |
 | 29 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
 | 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
@@ -53,18 +53,18 @@ This is top 50 for Guatemala
 | 36 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
 | 37 | [San Luis](http://twitter.com/search?q=San+Luis) | San Luis is a city in the Mexican state of San Luis Potosí. The name San Luis translates to "Saint Louis" in English, and is named after King Louis IX of France. |
 | 38 | [Gervonta](http://twitter.com/search?q=Gervonta) | Gervonta is a given name of African-American origin. It is derived from the Latin words "ger" meaning "spear" and "vonta" meaning "strong". The name can be translated to mean "strong spear". |
-| 39 | [Luna](http://twitter.com/search?q=Luna) | Luna is the Latin word for moon. It is also used as a female given name in many languages, including English. The name is derived from the Latin word for moon and is associated with the moon goddess in Roman mythology. |
-| 40 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 41 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | "WE LOVE YOU TAEHYUNG" is an expression of love and admiration for the South Korean singer, songwriter, and actor Taehyung. In English, it means "We love you, Taehyung!" |
-| 42 | [JOAQUIN YA ES JAMIE](http://twitter.com/search?q=JOAQUIN+YA+ES+JAMIE) | "JOAQUIN YA ES JAMIE" is a Spanish phrase that translates to "Joaquin is now Jamie" in English. It is typically used to express the idea that someone has changed their name or identity. |
-| 43 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 44 | [iztapa](http://twitter.com/search?q=iztapa) | Iztapa is a small town in Guatemala located on the Pacific coast. It is known for its fishing industry and its beautiful beaches. In English, Iztapa means "place of the fishermen". |
-| 45 | [Espinoza Paz](http://twitter.com/search?q=Espinoza+Paz) | Espinoza Paz is a Mexican singer-songwriter who is best known for his romantic ballads. His name translates to "Spine of Peace" in English, which reflects his music's calming and peaceful nature. |
-| 46 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | "WE LOVE YOU JUNGKOOK" is an expression of love and admiration for the South Korean singer, Jungkook. It is a way of expressing support and appreciation for him and his work. In English, it means "We love you, Jungkook!" |
-| 47 | [Miguelito](http://twitter.com/search?q=Miguelito) | Miguelito is a Spanish nickname for the name Miguel, which is the Spanish form of Michael. In English, it would translate to "Little Michael". |
-| 48 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 49 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | Cobán Imperial is a type of Guatemalan coffee grown in the Cobán region of the country. It is known for its intense flavor and aroma, as well as its high quality. In English, it translates to "Imperial Coffee". |
-| 50 | [Genocidio](http://twitter.com/search?q=Genocidio) | Genocidio is a Spanish word meaning genocide. It is used to refer to the deliberate and systematic extermination of a racial, political, or cultural group. |
+| 39 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 40 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | "WE LOVE YOU TAEHYUNG" is an expression of love and admiration for the South Korean singer, songwriter, and actor Taehyung. In English, it means "We love you, Taehyung!" |
+| 41 | [JOAQUIN YA ES JAMIE](http://twitter.com/search?q=JOAQUIN+YA+ES+JAMIE) | "JOAQUIN YA ES JAMIE" is a Spanish phrase that translates to "Joaquin is now Jamie" in English. It is typically used to express the idea that someone has changed their name or identity. |
+| 42 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 43 | [iztapa](http://twitter.com/search?q=iztapa) | Iztapa is a small town in Guatemala located on the Pacific coast. It is known for its fishing industry and its beautiful beaches. In English, Iztapa means "place of the fishermen". |
+| 44 | [espinoza paz](http://twitter.com/search?q=espinoza+paz) | Espinoza Paz is the stage name of Mexican singer-songwriter Juan Carlos Espinoza Paz. He is best known for his romantic ballads and has released several albums since his debut in 2008. The name Espinoza Paz translates to "Peaceful Thistle" in English. |
+| 45 | [WE LOVE YOU JUNGKOOK](http://twitter.com/search?q=WE+LOVE+YOU+JUNGKOOK) | "WE LOVE YOU JUNGKOOK" is an expression of love and admiration for the South Korean singer, Jungkook. It is a way of expressing support and appreciation for him and his work. In English, it means "We love you, Jungkook!" |
+| 46 | [Miguelito](http://twitter.com/search?q=Miguelito) | Miguelito is a Spanish nickname for the name Miguel, which is the Spanish form of Michael. In English, it would translate to "Little Michael". |
+| 47 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 48 | [cobán imperial](http://twitter.com/search?q=cob%c3%a1n+imperial) | Cobán Imperial is a type of Guatemalan coffee grown in the Cobán region of the country. It is known for its intense flavor and aroma, as well as its high quality. In English, it translates to "Imperial Coffee". |
+| 49 | [Genocidio](http://twitter.com/search?q=Genocidio) | Genocidio is a Spanish word meaning genocide. It is used to refer to the deliberate and systematic extermination of a racial, political, or cultural group. |
+| 50 | [cerote](http://twitter.com/search?q=cerote) | Cerote is a Spanish slang term that is used to describe someone who is stupid or foolish. It can also be used to describe someone who is lazy or irresponsible. In English, it could be translated as "idiot" or "lazy bum". |
 
 
 
