@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-24 10:31:54 UTC`
+📆 Last Updated: `2023-04-24 11:31:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for Guatemala
 | 12 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 13 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 14 | [Barsa](http://twitter.com/search?q=Barsa) | Barsa is a Spanish word meaning "rain". It is often used to refer to a heavy rainstorm. |
-| 15 | [matos](http://twitter.com/search?q=matos) | Matos is a Portuguese word meaning "stuff" or "things". It is often used to refer to a collection of items, such as clothing, tools, or other objects. |
+| 15 | [Matos](http://twitter.com/search?q=Matos) | Matos is a Spanish word meaning "materials" or "supplies". It is used to refer to the materials and supplies needed for a particular task or activity. |
 | 16 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
 | 17 | [eric garcía](http://twitter.com/search?q=eric+garc%c3%ada) | Eric García is a Spanish name. It is composed of the given name Eric and the surname García. Eric is a masculine given name derived from the Old Norse name Eiríkr, meaning "ever-ruler" or "eternal ruler". García is a Spanish surname of Visigothic origin, meaning "young". |
 | 18 | [Spotify Camp Nou](http://twitter.com/search?q=Spotify+Camp+Nou) | Spotify Camp Nou is a virtual music festival created by Spotify in collaboration with FC Barcelona. It is an online event that brings together some of the biggest names in music from around the world to perform live at the iconic Camp Nou stadium in Barcelona. The event aims to bring fans closer to their favorite artists and give them an unforgettable experience. In English, it means a virtual music festival hosted by Spotify and FC Barcelona at the Camp Nou stadium in Barcelona. |
@@ -55,7 +55,7 @@ This is top 50 for Guatemala
 | 38 | [Gervonta](http://twitter.com/search?q=Gervonta) | Gervonta is a given name of African-American origin. It is derived from the Latin words "ger" meaning "spear" and "vonta" meaning "strong". The name can be translated to mean "strong spear". |
 | 39 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 40 | [WE LOVE YOU TAEHYUNG](http://twitter.com/search?q=WE+LOVE+YOU+TAEHYUNG) | "WE LOVE YOU TAEHYUNG" is an expression of love and admiration for the South Korean singer, songwriter, and actor Taehyung. In English, it means "We love you, Taehyung!" |
-| 41 | [JOAQUIN YA ES JAMIE](http://twitter.com/search?q=JOAQUIN+YA+ES+JAMIE) | "JOAQUIN YA ES JAMIE" is a Spanish phrase that translates to "Joaquin is now Jamie" in English. It is typically used to express the idea that someone has changed their name or identity. |
+| 41 | [joaquin ya es jamie](http://twitter.com/search?q=joaquin+ya+es+jamie) | "Joaquin ya es Jamie" is a Spanish phrase that translates to "Joaquin is now Jamie". It is typically used to refer to someone who has changed their name, either legally or informally. |
 | 42 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
 | 43 | [iztapa](http://twitter.com/search?q=iztapa) | Iztapa is a small town in Guatemala located on the Pacific coast. It is known for its fishing industry and its beautiful beaches. In English, Iztapa means "place of the fishermen". |
 | 44 | [espinoza paz](http://twitter.com/search?q=espinoza+paz) | Espinoza Paz is the stage name of Mexican singer-songwriter Juan Carlos Espinoza Paz. He is best known for his romantic ballads and has released several albums since his debut in 2008. The name Espinoza Paz translates to "Peaceful Thistle" in English. |
