@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-04-24 03:30:50 UTC`
+📆 Last Updated: `2023-04-24 04:28:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,12 +23,12 @@ This is top 50 for Kuwait
 | 6 | [موسى](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%89) | موسى (Moses) is a prophet in the Abrahamic religions, including Judaism, Christianity, and Islam. He is best known for leading the Israelites out of Egypt and receiving the Ten Commandments from God on Mount Sinai. In English, his name is often spelled Moses. |
 | 7 | [#الافنيوز](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%81%d9%86%d9%8a%d9%88%d8%b2) | #الافنيوز is an Arabic hashtag that translates to "The Avengers" in English. It is used to refer to the Marvel superhero team of the same name. |
 | 8 | [علي حسين](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b3%d9%8a%d9%86) | "علي حسين" is an Arabic phrase that translates to "Ali Hussein" in English. It is the name of a popular Islamic figure, Ali ibn Abi Talib, who was the cousin and son-in-law of the Prophet Muhammad. |
-| 9 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
-| 10 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 9 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 10 | [حجازي](http://twitter.com/search?q=%d8%ad%d8%ac%d8%a7%d8%b2%d9%8a) | حجازي is an Arabic word that refers to someone or something from the region of Hejaz, which is located in western Saudi Arabia. In English, it can be translated as "Hejazi". |
 | 11 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | محمد ابراهيم is an Arabic name, which translates to English as "Muhammad Ibrahim". |
-| 12 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
-| 13 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 14 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 12 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 13 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 14 | [اليوفي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%81%d9%8a) | اليوفي is a type of Arabic script used in the Middle East and North Africa. It is also known as Kufic script, and its name comes from the city of Kufa in Iraq. In English, اليوفي translates to "Kufic". |
 | 15 | [كاس الملك](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d9%84%d9%83) | كاس الملك (Kass al-Malik) is an Arabic phrase meaning "King's Cup". It is a traditional game in the Middle East and North Africa, similar to the game of marbles. Players take turns throwing stones at a pile of stones, trying to knock them out of the circle. The player who knocks out the most stones wins the King's Cup. |
 | 16 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | صالح الاعمال is an Arabic phrase that translates to "good deeds" in English. It is used to refer to acts of kindness and charity. |
 | 17 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |

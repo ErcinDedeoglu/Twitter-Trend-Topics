@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-04-24 03:21:49 UTC`
+📆 Last Updated: `2023-04-24 04:20:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,18 +36,18 @@ This is top 50 for [Poland](</Poland>)
 | 19 | [Porsche](http://twitter.com/search?q=Porsche) | Porsche is a German luxury car manufacturer. The name Porsche is derived from the surname of its founder, Ferdinand Porsche. The company is known for producing high-performance sports cars, SUVs, and sedans. |
 | 20 | [mrozu](http://twitter.com/search?q=mrozu) | Mrozu is a Polish rock band formed in 2004. The name Mrozu is derived from the Polish word for "fog". The band's music is a mix of rock, hip-hop, and electronic music. The band has released five studio albums and several singles, and has won numerous awards in Poland. |
 | 21 | [turynie](http://twitter.com/search?q=turynie) | Turynie is a Polish word meaning "to be quiet". |
-| 22 | [Skrzypek](http://twitter.com/search?q=Skrzypek) | Skrzypek is a Polish word meaning "fiddler" or "violinist". It is derived from the word skrzypce, which means "violin". |
-| 23 | [Światowy Dzień Książki](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Ksi%c4%85%c5%bcki) | Światowy Dzień Książki (World Book Day) is an annual event celebrated on April 23rd, the date that is also the anniversary of the deaths of William Shakespeare and Miguel de Cervantes. It is a day to celebrate books and authors, and to promote reading and literacy. |
-| 24 | [górnik](http://twitter.com/search?q=g%c3%b3rnik) | Górnik is a Polish word meaning "miner". It is used to refer to someone who works in the mining industry. |
-| 25 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 26 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | Cuadrado is a Spanish word meaning "square". It is used to describe a shape with four equal sides and four right angles. |
-| 27 | [radomiak](http://twitter.com/search?q=radomiak) | Radomiak is a Polish football club based in Radom, Poland. The name is derived from the city's name and means "of Radom". In English, it can be translated to mean "belonging to Radom". |
-| 28 | [wenus](http://twitter.com/search?q=wenus) | Wenus is a slang term used to describe someone who is attractive, usually referring to a woman. It is a combination of the words "woman" and "Venus," the Roman goddess of love and beauty. |
-| 29 | [zaksa](http://twitter.com/search?q=zaksa) | Zaksa is a Polish word that means "help" or "support". It is often used to refer to assistance given to someone in need. |
-| 30 | [Leon](http://twitter.com/search?q=Leon) | Leon is a Spanish name meaning "lion". It is also a French name meaning "brave as a lion". |
-| 31 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 32 | [janowa](http://twitter.com/search?q=janowa) | Janowa is a Polish word that means "yours". |
-| 33 | [łukasz różański](http://twitter.com/search?q=%c5%82ukasz+r%c3%b3%c5%bca%c5%84ski) | "Łukasz Różański" is a Polish name. It is composed of two parts: Łukasz, which is the Polish form of the name Luke, and Różański, which is a Polish surname meaning "of the rose". In English, it would be translated as "Luke Rose". |
+| 22 | [Światowy Dzień Książki](http://twitter.com/search?q=%c5%9awiatowy+Dzie%c5%84+Ksi%c4%85%c5%bcki) | Światowy Dzień Książki (World Book Day) is an annual event celebrated on April 23rd, the date that is also the anniversary of the deaths of William Shakespeare and Miguel de Cervantes. It is a day to celebrate books and authors, and to promote reading and literacy. |
+| 23 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 24 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | Cuadrado is a Spanish word meaning "square". It is used to describe a shape with four equal sides and four right angles. |
+| 25 | [Skrzypek](http://twitter.com/search?q=Skrzypek) | Skrzypek is a Polish word meaning "fiddler" or "violinist". It is derived from the word skrzypce, which means "violin". |
+| 26 | [radomiak](http://twitter.com/search?q=radomiak) | Radomiak is a Polish football club based in Radom, Poland. The name is derived from the city's name and means "of Radom". In English, it can be translated to mean "belonging to Radom". |
+| 27 | [wenus](http://twitter.com/search?q=wenus) | Wenus is a slang term used to describe someone who is attractive, usually referring to a woman. It is a combination of the words "woman" and "Venus," the Roman goddess of love and beauty. |
+| 28 | [zaksa](http://twitter.com/search?q=zaksa) | Zaksa is a Polish word that means "help" or "support". It is often used to refer to assistance given to someone in need. |
+| 29 | [Leon](http://twitter.com/search?q=Leon) | Leon is a Spanish name meaning "lion". It is also a French name meaning "brave as a lion". |
+| 30 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 31 | [janowa](http://twitter.com/search?q=janowa) | Janowa is a Polish word that means "yours". |
+| 32 | [łukasz różański](http://twitter.com/search?q=%c5%82ukasz+r%c3%b3%c5%bca%c5%84ski) | "Łukasz Różański" is a Polish name. It is composed of two parts: Łukasz, which is the Polish form of the name Luke, and Różański, which is a Polish surname meaning "of the rose". In English, it would be translated as "Luke Rose". |
+| 33 | [Górnik](http://twitter.com/search?q=G%c3%b3rnik) | Górnik is a Polish word meaning "miner". It is used to refer to someone who works in the mining industry. |
 | 34 | [bednorza](http://twitter.com/search?q=bednorza) | Bednorza is a slang term used in the United Kingdom to describe someone who is lazy or who avoids doing work. It is derived from the phrase "bed and snore," which implies that the person spends most of their time sleeping and not doing anything productive. |
 | 35 | [jacek magiera](http://twitter.com/search?q=jacek+magiera) | Jacek Magiera is a Polish football manager and former player. He is currently the manager of Ekstraklasa club Lech Poznań. The name Jacek Magiera translates to "Jack Magiera" in English. |
 | 36 | [milika](http://twitter.com/search?q=milika) | Milika is a term used in the Hawaiian language meaning "to be happy". It is often used as a greeting or to express joy. |
@@ -58,13 +58,13 @@ This is top 50 for [Poland](</Poland>)
 | 41 | [ralpha](http://twitter.com/search?q=ralpha) | Ralpha is a slang term used to describe someone who is overly confident and arrogant. It is derived from the words "rich" and "alpha," suggesting that the person in question has an inflated sense of self-importance due to their wealth or status. |
 | 42 | [spinacze](http://twitter.com/search?q=spinacze) | Spinacze is a Polish word for clothespins. It is used to refer to the wooden or plastic clips used to hang clothes on a line. In English, it is commonly referred to as a clothespin. |
 | 43 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
-| 44 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 45 | [zawiercie](http://twitter.com/search?q=zawiercie) | Zawiercie is a city in southern Poland. It is located in the Silesian Voivodeship and has a population of around 55,000 people. In English, the name of the city translates to "to bind". |
-| 46 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 47 | [Engelking](http://twitter.com/search?q=Engelking) | Engelking is a German surname. It is derived from the German word "Engel," which means angel, and "king," which means ruler. In English, Engelking can be translated to mean "angel ruler." |
-| 48 | [niedzieli](http://twitter.com/search?q=niedzieli) | Niedzieli is a Polish word meaning "Sunday". |
-| 49 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 50 | [janowie lubelskim](http://twitter.com/search?q=janowie+lubelskim) | Janowie Lubelskim is a town in eastern Poland, located in the Lublin Voivodeship. In English, it translates to "Janów Lubelski". |
+| 44 | [zawiercie](http://twitter.com/search?q=zawiercie) | Zawiercie is a city in southern Poland. It is located in the Silesian Voivodeship and has a population of around 55,000 people. In English, the name of the city translates to "to bind". |
+| 45 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 46 | [niedzieli](http://twitter.com/search?q=niedzieli) | Niedzieli is a Polish word meaning "Sunday". |
+| 47 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 48 | [Emaus](http://twitter.com/search?q=Emaus) | Emaus is a biblical town mentioned in the Gospel of Luke. It is the place where Jesus appeared to two of his disciples after his resurrection. In English, Emaus means "a place of hope and joy". |
+| 49 | [Engelking](http://twitter.com/search?q=Engelking) | Engelking is a German surname. It is derived from the German word "Engel," which means angel, and "king," which means ruler. In English, Engelking can be translated to mean "angel ruler." |
+| 50 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
 
 
 

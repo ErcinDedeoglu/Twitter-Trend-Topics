@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-24 03:30:21 UTC`
+📆 Last Updated: `2023-04-24 04:28:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for Denmark
 | 10 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 11 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
 | 12 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
-| 13 | [moderaterne](http://twitter.com/search?q=moderaterne) | Moderaterne is a Danish political party. In English, it translates to "the Moderates". The party is a center-right, liberal conservative party that focuses on economic and social issues. |
-| 14 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 13 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
+| 14 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | Moderaterne is a Danish political party. The name translates to "The Moderates" in English. It is a centre-right party that was founded in 1915 and is currently the second largest party in the Danish Parliament. |
 | 15 | [randers](http://twitter.com/search?q=randers) | Randers is a city in Denmark. It is located in the Central Denmark Region on the Jutland peninsula, and has a population of around 60,000 people. The name Randers comes from the Danish word "rand" which means "edge" or "border". |
 | 16 | [vallys](http://twitter.com/search?q=vallys) | Vallys is not a word in English. It may be a misspelling of the word "valleys," which means a low area of land between two higher areas, often with a river or stream running through it. |
 | 17 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | Løkke is a Danish word meaning "loop" or "circle". It is often used to refer to a loop of rope, chain, or other material. |
