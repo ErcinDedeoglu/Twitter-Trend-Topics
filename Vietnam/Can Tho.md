@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Can Tho
 
-📆 Last Updated: `2023-04-25 17:24:25 UTC`
+📆 Last Updated: `2023-04-25 18:27:50 UTC`
 
 🔧 Updated every 1 hour!
 
