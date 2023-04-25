@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-25 00:44:33 UTC`
+📆 Last Updated: `2023-04-25 01:57:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,15 +22,15 @@ This is top 50 for Latvia
 | 5 | [ķīnas](http://twitter.com/search?q=%c4%b7%c4%abnas) | Ķīnas is the Latvian word for China. In English, it translates to China. |
 | 6 | [dombrava](http://twitter.com/search?q=dombrava) | Dombrava is a Slavic goddess of the forests and nature. She is associated with fertility, abundance, and protection. In English, her name translates to "forest mother." |
 | 7 | [lietuvā](http://twitter.com/search?q=lietuv%c4%81) | Lietuvā is the Latvian word for Lithuania. It is the name of the country located in Northern Europe, bordered by Latvia, Belarus, Poland, and Russia. In English, it translates to Lithuania. |
-| 8 | [francijā](http://twitter.com/search?q=francij%c4%81) | Francijā is a Latvian word meaning "in France". |
-| 9 | [apsveicu](http://twitter.com/search?q=apsveicu) | "Apsveicu" is a Latvian word meaning "Congratulations!" |
-| 10 | [#Latvija](http://twitter.com/search?q=%23Latvija) | #Latvija is the hashtag used to refer to Latvia, a country in Northern Europe. In English, it translates to "Latvia". |
-| 11 | [Putinu](http://twitter.com/search?q=Putinu) | Putinu is a term used in the Japanese language to describe someone who is strong, brave, and determined. It can also be used to describe someone who is reliable and dependable. In English, it could be translated as "stalwart" or "resolute". |
-| 12 | [igaunijas](http://twitter.com/search?q=igaunijas) | Igaunijas is the Latvian word for Estonia. In English, it means "Estonia". |
-| 13 | [PSRS](http://twitter.com/search?q=PSRS) | PSRS stands for Personnel Security Risk System. It is a system used by organizations to assess the security risk of personnel, including employees, contractors, and visitors. The system is designed to identify potential security risks and provide guidance on how to mitigate them. |
+| 8 | [apsveicu](http://twitter.com/search?q=apsveicu) | "Apsveicu" is a Latvian word meaning "Congratulations!" |
+| 9 | [#latvija](http://twitter.com/search?q=%23latvija) | #Latvija is a hashtag used on social media to refer to Latvia, a country in Northern Europe. It is the Latvian word for Latvia. |
+| 10 | [Putinu](http://twitter.com/search?q=Putinu) | Putinu is a term used in the Japanese language to describe someone who is strong, brave, and determined. It can also be used to describe someone who is reliable and dependable. In English, it could be translated as "stalwart" or "resolute". |
+| 11 | [igaunijas](http://twitter.com/search?q=igaunijas) | Igaunijas is the Latvian word for Estonia. In English, it means "Estonia". |
+| 12 | [Francijā](http://twitter.com/search?q=Francij%c4%81) | Francijā is a Latvian word meaning "in France". |
+| 13 | [psrs](http://twitter.com/search?q=psrs) | PSRS stands for "Public Sector Retirement System," which is a type of retirement plan offered to public sector employees in the United States. It is designed to provide retirement benefits to those who work in the public sector, such as government employees, teachers, and other civil servants. |
 | 14 | [Baltic](http://twitter.com/search?q=Baltic) | Baltic is an adjective used to describe something that is related to the Baltic Sea, which is a large body of water located between the Scandinavian Peninsula and the Central and Eastern European mainland. It can also refer to the countries that border the sea, such as Estonia, Latvia, Lithuania, Poland, Russia, and Germany. |
 | 15 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | Labrīt is a Latvian word meaning "goodbye". |
-| 16 | [Kariņš](http://twitter.com/search?q=Kari%c5%86%c5%a1) | Kariņš is a Latvian surname. It is derived from the word "kari" which means "warrior". In English, it can be translated to mean "Warrior". |
+| 16 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | Kariņš is a Latvian word meaning "little one" or "little person". It is often used as an affectionate term for a child or a pet. |
 | 17 | [acīmredzot](http://twitter.com/search?q=ac%c4%abmredzot) | Acīmredzot is a Latvian word that means "obviously" or "evidently" in English. |
 | 18 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
 | 19 | [Depo](http://twitter.com/search?q=Depo) | Depo is short for depot, which is a place where goods or supplies are stored. It can also refer to a train station or bus station. |
@@ -43,9 +43,9 @@ This is top 50 for Latvia
 | 26 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | СССР stands for the Union of Soviet Socialist Republics, which was the official name of the Soviet Union from 1922 to 1991. In English, it is commonly referred to as the USSR. |
 | 27 | [beidz](http://twitter.com/search?q=beidz) | Beidz is a Latvian word meaning "both". |
 | 28 | [tikko](http://twitter.com/search?q=tikko) | Tikko is a type of traditional Korean food made from glutinous rice, vegetables, and meat. It is usually served as a side dish or snack. The word "tikko" comes from the Korean word for "rice cake," which is tteok. |
-| 29 | [Vakar](http://twitter.com/search?q=Vakar) | Vakar is a Lithuanian word meaning "evening" or "night". |
+| 29 | [vakar](http://twitter.com/search?q=vakar) | Vakar is a Lithuanian word meaning "yesterday". |
 | 30 | [vienotības](http://twitter.com/search?q=vienot%c4%abbas) | Vienotības is a Latvian word meaning "unity" or "togetherness". It is often used to refer to the idea of solidarity and cooperation among people. |
-| 31 | [Labi](http://twitter.com/search?q=Labi) | Labi is a Japanese term that means "lazy". It is used to describe someone who is not motivated or does not put in the effort to do something. |
+| 31 | [labi](http://twitter.com/search?q=labi) | Labi is a Japanese word that means "to be in love". It is often used to describe the feeling of being deeply in love with someone. |
 | 32 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | Latviešu is the Latvian language. It is a Baltic language spoken by about 1.5 million people in Latvia and by Latvian emigrants around the world. In English, it is sometimes referred to as Lettish. |
 | 33 | [Šlesers](http://twitter.com/search?q=%c5%a0lesers) | Šlesers is a Latvian surname. It is derived from the word šļēsums, which means "valley" or "ravine". In English, the name would be translated as "Valley" or "Ravine". |
 | 34 | [Krievijai](http://twitter.com/search?q=Krievijai) | Krievijai is the Latvian word for Russia. In English, it translates to "Russians". |
