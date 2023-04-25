@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-04-25 01:48:14 UTC`
+📆 Last Updated: `2023-04-25 02:34:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,13 +26,13 @@ This is top 50 for [Poland](</Poland>)
 | 9 | [Tucker Carlson](http://twitter.com/search?q=Tucker+Carlson) | Tucker Carlson is an American political commentator, journalist, and television host. He is the host of Tucker Carlson Tonight on Fox News. The name Tucker Carlson is derived from his middle name, Tucker, and his father's surname, Carlson. |
 | 10 | [Wanio](http://twitter.com/search?q=Wanio) | Wanio is a Japanese word that means “to be happy and content.” It is often used to describe a feeling of contentment and satisfaction with one's life. |
 | 11 | [sobiech](http://twitter.com/search?q=sobiech) | Sobiech is a Polish surname. It is derived from the word "sobie" which means "for oneself". The literal translation of the name is "for oneself". |
-| 12 | [Piłkarz](http://twitter.com/search?q=Pi%c5%82karz) | Piłkarz is a Polish word for a soccer player. In English, it would be translated as footballer. |
-| 13 | [Radomiak](http://twitter.com/search?q=Radomiak) | Radomiak is a Polish sports club based in Radom, Poland. The club's name is derived from the city's name and translates to "of Radom" in English. The club was founded in 1921 and currently competes in the Polish First League, the second tier of Polish football. |
-| 14 | [Falenta](http://twitter.com/search?q=Falenta) | Falenta is a term used in the Yiddish language, which is a combination of German and Hebrew. It means "happiness" or "good luck". |
+| 12 | [Radomiak](http://twitter.com/search?q=Radomiak) | Radomiak is a Polish sports club based in Radom, Poland. The club's name is derived from the city's name and translates to "of Radom" in English. The club was founded in 1921 and currently competes in the Polish First League, the second tier of Polish football. |
+| 13 | [Falenta](http://twitter.com/search?q=Falenta) | Falenta is a term used in the Yiddish language, which is a combination of German and Hebrew. It means "happiness" or "good luck". |
+| 14 | [Piłkarz](http://twitter.com/search?q=Pi%c5%82karz) | Piłkarz is a Polish word for a soccer player. In English, it would be translated as footballer. |
 | 15 | [Fox News](http://twitter.com/search?q=Fox+News) | Fox News is an American news channel owned by Fox Corporation. It is known for its conservative-leaning political coverage and its slogan "Fair & Balanced". Fox News provides 24-hour news coverage and analysis of current events, as well as opinion and commentary from a variety of commentators. |
-| 16 | [Mariusza](http://twitter.com/search?q=Mariusza) | Mariusza is a Polish female given name, derived from the Latin name Marius. It is a diminutive form of Maria, meaning "star of the sea". |
+| 16 | [mariusza](http://twitter.com/search?q=mariusza) | Mariusza is a Polish female given name, derived from the Latin name Marius. It is a diminutive form of Maria, meaning "star of the sea". |
 | 17 | [olechowski](http://twitter.com/search?q=olechowski) | Olechowski is a Polish surname. It is derived from the given name Olech, which is derived from the Old Slavic word oleś, meaning "fame". The name can be translated to English as "famed warrior". |
-| 18 | [Nergal](http://twitter.com/search?q=Nergal) | Nergal is an ancient Mesopotamian god of war, pestilence, and the underworld. In English, it is derived from the Akkadian word for “lord of the great dwelling”. |
+| 18 | [nergal](http://twitter.com/search?q=nergal) | Nergal is an ancient Mesopotamian god of war, pestilence, and the underworld. He was associated with death, destruction, and chaos. In English, Nergal can be translated to mean "raging lord" or "lord of the great house". |
 | 19 | [Morawieckiego](http://twitter.com/search?q=Morawieckiego) | Morawieckiego is a Polish surname. In English, it would be translated as Morawiecki. |
 | 20 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | Żydów is a Polish word meaning "Jews". |
 | 21 | [czerwiński](http://twitter.com/search?q=czerwi%c5%84ski) | Czerwiński is a Polish surname. It is derived from the word czerwony, which means "red" in English. |
@@ -49,7 +49,7 @@ This is top 50 for [Poland](</Poland>)
 | 32 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
 | 33 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 34 | [skóraś](http://twitter.com/search?q=sk%c3%b3ra%c5%9b) | Skóraś is a Polish word that means "you will skin". It is used as an expression of warning or threat. |
-| 35 | [Mariusz Wlazły](http://twitter.com/search?q=Mariusz+Wlaz%c5%82y) | Mariusz Wlazły is a Polish professional volleyball player. He is a two-time Olympic medalist and has won numerous awards and titles throughout his career. The name Mariusz Wlazły translates to "Marius the Swift" in English. |
+| 35 | [mariusz wlazły](http://twitter.com/search?q=mariusz+wlaz%c5%82y) | Mariusz Wlazły is a Polish professional volleyball player. He has been playing for the Polish national team since 2003 and is currently the captain of the team. The name "Mariusz Wlazły" translates to "Marius the Leaper" in English. |
 | 36 | [Sabalenka](http://twitter.com/search?q=Sabalenka) | Sabalenka is a Belarusian surname. It is derived from the Belarusian word "sabal" which means "apple tree". In English, the meaning of Sabalenka is "apple tree". |
 | 37 | [Player of the Season](http://twitter.com/search?q=Player+of+the+Season) | Player of the Season is an award given to the best player in a particular sport or league over the course of a season. It is usually awarded to the player who has had the most impressive performance, or who has made the biggest impact on their team's success. |
 | 38 | [Wlazłego](http://twitter.com/search?q=Wlaz%c5%82ego) | Wlazłego is a Polish phrase that translates to "he/she/it has entered." It is used to describe when someone or something has entered a room or space. |
@@ -59,8 +59,8 @@ This is top 50 for [Poland](</Poland>)
 | 42 | [amarala](http://twitter.com/search?q=amarala) | Amarala is a Spanish word that means "to love her." It is used to express affection for a female. |
 | 43 | [jagoda](http://twitter.com/search?q=jagoda) | Jagoda is a Slavic word for "strawberry". In English, it is used to refer to the fruit or the plant itself. |
 | 44 | [Poker](http://twitter.com/search?q=Poker) | Poker is a card game that involves betting and individual play, whereby the winner is determined by the ranks and combinations of their cards, some of which remain hidden until the end of the game. It is a game of chance, strategy and skill. The objective of poker is to win money from other players by having the best hand or by bluffing your opponents into folding their hands. |
-| 45 | [Moskwa](http://twitter.com/search?q=Moskwa) | Moskwa is the Russian name for Moscow, the capital of Russia. In English, it is pronounced "MOS-kwa". |
-| 46 | [Zwrot](http://twitter.com/search?q=Zwrot) | Zwrot is a Polish word meaning "return" or "refund". It is commonly used in the context of returning goods or money to a customer. |
+| 45 | [Zwrot](http://twitter.com/search?q=Zwrot) | Zwrot is a Polish word meaning "return" or "refund". It is commonly used in the context of returning goods or money to a customer. |
+| 46 | [Marianna](http://twitter.com/search?q=Marianna) | Marianna is a female given name of Latin origin, derived from the name Mary. It is a combination of the names Maria and Anna. The meaning of Marianna in English is "star of the sea". |
 
 
 
