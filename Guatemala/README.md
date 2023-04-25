@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-25 09:31:37 UTC`
+📆 Last Updated: `2023-04-25 10:32:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Guatemala
 | 3 | [chiquimula](http://twitter.com/search?q=chiquimula) | Chiquimula is a city in Guatemala. It is the capital of the Chiquimula department and is located in the eastern part of the country. In English, Chiquimula means "little hill". |
 | 4 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 6 | [#HBDNelson](http://twitter.com/search?q=%23HBDNelson) | #HBDNelson is an acronym for "Happy Birthday Nelson". It is a hashtag used on social media to wish someone named Nelson a happy birthday. |
+| 6 | [#hbdnelson](http://twitter.com/search?q=%23hbdnelson) | #hbdnelson is an abbreviation for "Happy Birthday Nelson". It is a hashtag used on social media to wish someone named Nelson a happy birthday. |
 | 7 | [Casillas](http://twitter.com/search?q=Casillas) | Casillas is a Spanish surname. It is derived from the Latin word "casa" meaning "house". In English, it can be translated to mean "of the house". |
 | 8 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 9 | [Mora](http://twitter.com/search?q=Mora) | Mora is a unit of sound in Japanese and other languages. It is the smallest unit of sound that carries meaning in a language. In English, it is roughly equivalent to a syllable. |
@@ -55,7 +55,7 @@ This is top 50 for Guatemala
 | 38 | [Shrek](http://twitter.com/search?q=Shrek) | Shrek is a 2001 American computer-animated comedy film loosely based on the 1990 fairy tale picture book of the same name by William Steig. The film centers on an ogre named Shrek (voiced by Mike Myers) and his quest to rescue Princess Fiona (voiced by Cameron Diaz) from a fire-breathing dragon. The title is derived from the German word Schreck, meaning "fright" or "terror". |
 | 39 | [Israel](http://twitter.com/search?q=Israel) | Israel is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. It is bordered by Lebanon, Syria, Jordan, and Egypt. The name Israel comes from the Hebrew Bible and means "God prevails" or "he who struggles with God." |
 | 40 | [San Marquitos](http://twitter.com/search?q=San+Marquitos) | San Marquitos is a small town in the Mexican state of Jalisco. It is located in the municipality of San Juan de los Lagos, about 25 miles from the city of Guadalajara. The name San Marquitos comes from the Spanish words "San" (Saint) and "Marquitos" (Little Mark). The town is named after Saint Mark, one of the four evangelists in Christianity. |
-| 41 | [gramajo](http://twitter.com/search?q=gramajo) | Gramajo is a Spanish surname. It is derived from the Latin word gramaticus, which means "grammarian" or "scholar". In English, it can be translated to mean "scholarly" or "learned". |
+| 41 | [Gramajo](http://twitter.com/search?q=Gramajo) | Gramajo is a Spanish surname. It is derived from the Latin word grammaticus, which means "grammarian" or "scholar". In English, it can be translated to mean "scholarly" or "learned". |
 | 42 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
 | 43 | [roberto arzú](http://twitter.com/search?q=roberto+arz%c3%ba) | Roberto Arzú is a Guatemalan politician who served as the President of Guatemala from 1996 to 2000. He was the first democratically elected president in Guatemala since the end of the civil war in 1996. The name Roberto Arzú is synonymous with democracy and peace in Guatemala. In English, it means "Robert Arzú, leader of democracy and peace". |
 | 44 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | San Cristóbal is a Spanish name meaning "Saint Christopher". It is derived from the Latin name Christophorus, which means "Christ-bearer". The name is most commonly associated with Saint Christopher, the patron saint of travelers. |
