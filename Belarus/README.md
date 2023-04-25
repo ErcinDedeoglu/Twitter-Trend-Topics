@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-25 07:29:31 UTC`
+📆 Last Updated: `2023-04-25 08:29:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for Belarus
 | 1 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | Москве is the dative case of the Russian city name Moscow. In English, it translates to "in Moscow". |
 | 2 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | Европе is a Russian word that translates to Europe in English. It is the Russian word for the continent of Europe. |
 | 3 | [гродно](http://twitter.com/search?q=%d0%b3%d1%80%d0%be%d0%b4%d0%bd%d0%be) | Гродно is a city in Belarus. It is the capital of the Grodno Region and the center of the Grodno District. In English, it is sometimes referred to as Grodno or Hrodna. |
-| 4 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
-| 5 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
-| 6 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | Дааа is an expression of agreement or enthusiasm in Russian. It is similar to the English expression "Yeah!" or "Yay!" |
+| 4 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | Благодарю is a Russian phrase meaning "Thank you" in English. |
+| 5 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | Дааа is an expression of agreement or enthusiasm in Russian. It is similar to the English expression "Yeah!" or "Yay!" |
+| 6 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
 | 7 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | #NFTCommunity is an acronym for the Non-Fungible Token Community. It is a group of people who are interested in and actively involved in the development, trading, and use of Non-Fungible Tokens (NFTs). NFTs are digital assets that are unique and cannot be replicated or exchanged for something else. They are used to represent ownership of digital items such as artwork, music, videos, gaming items, and more. |
 | 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 9 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | Китай is the Russian word for China. In English, it is pronounced "kee-tie". |

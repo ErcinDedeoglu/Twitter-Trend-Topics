@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-04-25 07:30:04 UTC`
+📆 Last Updated: `2023-04-25 08:29:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 3 | [#VisitaOficialTaiwán](http://twitter.com/search?q=%23VisitaOficialTaiw%c3%a1n) | #VisitaOficialTaiwán is a hashtag used to promote official visits to Taiwan. It is used to share news and information about official visits to the country, as well as to encourage people to visit Taiwan. In English, it translates to "Official Visit Taiwan". |
 | 4 | [República de China](http://twitter.com/search?q=Rep%c3%bablica+de+China) | República de China is the official name of Taiwan, a self-governing island nation located off the coast of mainland China. In English, it translates to "Republic of China". |
 | 5 | [Chiquimula](http://twitter.com/search?q=Chiquimula) | Chiquimula is a city in Guatemala. It is the capital of the Chiquimula department and is located in the eastern part of the country. The name Chiquimula means "little hill" in the local Mayan language, and it is believed to refer to a nearby hill. |
@@ -41,7 +41,7 @@ This is top 50 for Guatemala
 | 24 | [Confirmo](http://twitter.com/search?q=Confirmo) | Confirmo is a Latin word meaning "I confirm" or "I agree". It is often used in legal documents to signify that the signer agrees to the terms of the document. |
 | 25 | [Santa Rosa](http://twitter.com/search?q=Santa+Rosa) | Santa Rosa is a city in California, United States. It is the county seat of Sonoma County and the fifth most populous city in the state. The name Santa Rosa is Spanish for "Saint Rose," referring to Saint Rose of Lima, a 16th-century Peruvian saint. |
 | 26 | [Día 5](http://twitter.com/search?q=D%c3%ada+5) | Día 5 is Spanish for "Day 5." It is used to refer to the fifth day of a given month or week. |
-| 27 | [Sololá](http://twitter.com/search?q=Solol%c3%a1) | Sololá is a city in Guatemala located in the southwestern part of the country. It is the capital of the department of Sololá and has a population of approximately 100,000 people. The name Sololá comes from the K'iche' Maya language and means "place of flowers". |
+| 27 | [sololá](http://twitter.com/search?q=solol%c3%a1) | Sololá is a city in Guatemala and it is also the name of a Mayan language spoken in the region. In English, the word means "place of flowers". |
 | 28 | [suchitepéquez](http://twitter.com/search?q=suchitep%c3%a9quez) | Suchitepéquez is a department in Guatemala. It is located in the south-west of the country and is bordered by the departments of Escuintla, Santa Rosa, Retalhuleu, and Chimaltenango. In English, Suchitepéquez means "place of flowers". |
 | 29 | [fredy orellana](http://twitter.com/search?q=fredy+orellana) | Fredy Orellana is a Spanish-language given name. It is derived from the Germanic name Friduric, which means "peaceful ruler". |
 | 30 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
@@ -52,11 +52,11 @@ This is top 50 for Guatemala
 | 35 | [Pirulo](http://twitter.com/search?q=Pirulo) | Pirulo is a Spanish slang term that is used to refer to someone who is silly or foolish. In English, it can be translated as "dummy" or "fool". |
 | 36 | [Photoshop](http://twitter.com/search?q=Photoshop) | Photoshop is a graphics editing program developed and published by Adobe. It is used to create, edit, and manipulate digital images. The term "Photoshop" has become a verb in popular culture, meaning to edit an image using the program. |
 | 37 | [Shrek](http://twitter.com/search?q=Shrek) | Shrek is a 2001 American computer-animated comedy film loosely based on the 1990 fairy tale picture book of the same name by William Steig. The film centers on an ogre named Shrek (voiced by Mike Myers) and his quest to rescue Princess Fiona (voiced by Cameron Diaz) from a fire-breathing dragon. The title is derived from the German word Schreck, meaning "fright" or "terror". |
-| 38 | [Israel](http://twitter.com/search?q=Israel) | Israel is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. It is bordered by Lebanon, Syria, Jordan, and Egypt. The name Israel comes from the Hebrew Bible and means "God prevails" or "he who struggles with God." |
-| 39 | [Gramajo](http://twitter.com/search?q=Gramajo) | Gramajo is a Spanish surname. It is derived from the Latin word grammaticus, which means "grammarian" or "scholar". In English, it can be translated to mean "scholarly" or "learned". |
-| 40 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
-| 41 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
-| 42 | [LATAM](http://twitter.com/search?q=LATAM) | LATAM is an acronym for Latin America. It is used to refer to the countries in Central and South America, as well as the Caribbean. |
+| 38 | [San Marcos](http://twitter.com/search?q=San+Marcos) | San Marcos is a city in the Central Texas region of the United States. It is the county seat of Hays County and is located on the San Marcos River. The name San Marcos is Spanish for "Saint Mark," referring to the patron saint of Venice, Italy. |
+| 39 | [Israel](http://twitter.com/search?q=Israel) | Israel is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. It is bordered by Lebanon, Syria, Jordan, and Egypt. The name Israel comes from the Hebrew Bible and means "God prevails" or "he who struggles with God." |
+| 40 | [San Marquitos](http://twitter.com/search?q=San+Marquitos) | San Marquitos is a small town in the Mexican state of Jalisco. It is located in the municipality of San Juan de los Lagos, about 25 miles from the city of Guadalajara. The name San Marquitos comes from the Spanish words "San" (Saint) and "Marquitos" (Little Mark). The town is named after Saint Mark, one of the four evangelists in Christianity. |
+| 41 | [gramajo](http://twitter.com/search?q=gramajo) | Gramajo is a Spanish surname. It is derived from the Latin word gramaticus, which means "grammarian" or "scholar". In English, it can be translated to mean "scholarly" or "learned". |
+| 42 | [Pineda](http://twitter.com/search?q=Pineda) | Pineda is a Spanish surname derived from the Latin word pinus, meaning "pine tree". It is also a common place name in Spain, referring to areas where pine trees are abundant. |
 | 43 | [Roberto Arzú](http://twitter.com/search?q=Roberto+Arz%c3%ba) | Roberto Arzú is a surname of Guatemalan origin. It is derived from the Spanish words "roberto" (meaning "bright") and "arzú" (meaning "noble"). In English, the name Roberto Arzú can be translated to mean "bright and noble". |
 | 44 | [San Cristóbal](http://twitter.com/search?q=San+Crist%c3%b3bal) | San Cristóbal is a Spanish name meaning "Saint Christopher". It is derived from the Latin name Christophorus, which means "Christ-bearer". The name is most commonly associated with Saint Christopher, the patron saint of travelers. |
 | 45 | [Rojo](http://twitter.com/search?q=Rojo) | Rojo is the Spanish word for "red". It is used to describe the color of something, or to refer to something that is red in color. |
