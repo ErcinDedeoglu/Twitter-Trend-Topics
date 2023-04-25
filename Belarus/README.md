@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-25 22:29:35 UTC`
+📆 Last Updated: `2023-04-25 23:28:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,13 +25,12 @@ This is top 50 for Belarus
 | 8 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | Европе is a Russian word that translates to Europe in English. It is the Russian word for the continent of Europe. |
 | 9 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | Оооо is an expression of surprise or shock in Russian. It is similar to "Oh!" or "Wow!" in English. |
 | 10 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | Круто is a Russian slang word that means "cool" or "awesome". It is often used to express approval or admiration. |
-| 11 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | НАТО is an acronym for the North Atlantic Treaty Organization, an intergovernmental military alliance between 30 North American and European countries. Its purpose is to protect the freedom and security of its member states through political and military means. In English, it is commonly referred to as NATO. |
-| 12 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | Блин is a type of Russian pancake that is made from a thin batter and fried in a pan. It is usually served with jam, honey, sour cream, or other sweet toppings. In English, it is sometimes referred to as a blini or blintz. |
-| 13 | [Поздравляю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b7%d0%b4%d1%80%d0%b0%d0%b2%d0%bb%d1%8f%d1%8e) | Поздравляю is a Russian phrase that means "Congratulations!" |
+| 11 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | Красиво is a Russian word meaning "beautiful" or "attractive" in English. |
+| 12 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | НАТО is an acronym for the North Atlantic Treaty Organization, an intergovernmental military alliance between 30 North American and European countries. Its purpose is to protect the freedom and security of its member states through political and military means. In English, it is commonly referred to as NATO. |
+| 13 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | Блин is a type of Russian pancake that is made from a thin batter and fried in a pan. It is usually served with jam, honey, sour cream, or other sweet toppings. In English, it is sometimes referred to as a blini or blintz. |
 | 14 | [#atomicheart](http://twitter.com/search?q=%23atomicheart) | #Atomicheart is a hashtag used to refer to a song by the Russian rock band Mumiy Troll. The song is about a man who has been betrayed by his lover and is struggling to come to terms with his heartache. The phrase "atomic heart" is used as a metaphor for the pain and anguish he feels, as if his heart has been broken into tiny pieces. |
 | 15 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | Какие is a Russian word meaning "what" or "which". It is used to ask questions about a specific thing or group of things. For example, Какие цвета ты любишь? (Which colors do you like?) |
-| 16 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | Красиво is a Russian word meaning "beautiful" or "attractive" in English. |
-| 17 | [#DeFi](http://twitter.com/search?q=%23DeFi) | #DeFi stands for Decentralized Finance and is a term used to describe financial services built on top of blockchain technology. It is a form of open-source, peer-to-peer financial services that are not controlled by any central authority. These services include lending, borrowing, trading, and other financial activities that are powered by smart contracts and decentralized applications (dApps). |
+| 16 | [#DeFi](http://twitter.com/search?q=%23DeFi) | #DeFi stands for Decentralized Finance and is a term used to describe financial services built on top of blockchain technology. It is a form of open-source, peer-to-peer financial services that are not controlled by any central authority. These services include lending, borrowing, trading, and other financial activities that are powered by smart contracts and decentralized applications (dApps). |
 
 
 
