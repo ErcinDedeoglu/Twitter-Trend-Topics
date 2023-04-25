@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-25 02:42:09 UTC`
+📆 Last Updated: `2023-04-25 03:28:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,7 +36,7 @@ This is top 50 for Latvia
 | 19 | [Depo](http://twitter.com/search?q=Depo) | Depo is short for depot, which is a place where goods or supplies are stored. It can also refer to a train station or bus station. |
 | 20 | [#rīga](http://twitter.com/search?q=%23r%c4%abga) | #Rīga is the capital city of Latvia. In English, it means "city of peace". |
 | 21 | [Elon](http://twitter.com/search?q=Elon) | Elon is a Hebrew name meaning "oak tree" or "strong and majestic." It is also the name of the founder and CEO of Tesla Motors, Elon Musk. |
-| 22 | [vari](http://twitter.com/search?q=vari) | Vari is a Latin word meaning "change" or "variety". It is often used in the context of something that is constantly changing or evolving. |
+| 22 | [Vari](http://twitter.com/search?q=Vari) | Vari is a term used in the Indian language of Tamil to refer to something that is unique or special. In English, it can be translated to mean "special" or "unique". |
 | 23 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | Интересно is a Russian word that translates to "interesting" in English. It is used to express interest or curiosity in something. |
 | 24 | [atkal](http://twitter.com/search?q=atkal) | Atkal is a Latvian word meaning "again". |
 | 25 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | СССР stands for the Union of Soviet Socialist Republics, which was the official name of the Soviet Union from 1922 to 1991. In English, it is commonly referred to as the USSR. |
@@ -47,8 +47,8 @@ This is top 50 for Latvia
 | 30 | [USSR](http://twitter.com/search?q=USSR) | USSR stands for the Union of Soviet Socialist Republics, which was a communist state that existed from 1922 to 1991. It was a single-party state governed by the Communist Party of the Soviet Union and comprised 15 constituent republics. The USSR was the largest country in the world at the time, covering over one-sixth of the Earth's land area. |
 | 31 | [labi](http://twitter.com/search?q=labi) | Labi is a Japanese word that means "to be in love". It is often used to describe the feeling of being deeply in love with someone. |
 | 32 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | Latviešu is the Latvian language. It is a Baltic language spoken by about 1.5 million people in Latvia and by Latvian emigrants around the world. In English, it is sometimes referred to as Lettish. |
-| 33 | [Šlesers](http://twitter.com/search?q=%c5%a0lesers) | Šlesers is a Latvian surname. It is derived from the word šļēsums, which means "valley" or "ravine". In English, the name would be translated as "Valley" or "Ravine". |
-| 34 | [Krievijai](http://twitter.com/search?q=Krievijai) | Krievijai is the Latvian word for Russia. In English, it translates to "Russians". |
+| 33 | [šlesers](http://twitter.com/search?q=%c5%a1lesers) | "Šlesers" is a Latvian surname. It is derived from the word "šļēsējs", which means "shoemaker". |
+| 34 | [krievijai](http://twitter.com/search?q=krievijai) | Krievijai is the Latvian word for Russia. In English, it translates to "Russian". |
 | 35 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | "Риге" is a Russian word that means "edge" or "rim". It is often used to refer to the edge of a plate, bowl, or other object. |
 | 36 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | Brīvības is a Latvian word meaning "freedom". |
 | 37 | [#runālatviski](http://twitter.com/search?q=%23run%c4%81latviski) | #runālatviski is a hashtag used on social media to encourage people to speak Latvian. It translates to "Speak Latvian" in English. |

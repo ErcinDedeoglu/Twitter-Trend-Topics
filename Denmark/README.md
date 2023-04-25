@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-25 02:41:40 UTC`
+📆 Last Updated: `2023-04-25 03:28:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,9 +36,9 @@ This is top 50 for Denmark
 | 19 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | Klimarådet is the Norwegian Climate Council. It is an independent body established by the Norwegian government to provide advice on climate change and climate policy. The council's purpose is to provide advice on how Norway can reduce its greenhouse gas emissions and adapt to the impacts of climate change. In English, Klimarådet translates to "Climate Council". |
 | 20 | [Bell](http://twitter.com/search?q=Bell) | Bell is a noun that refers to a hollow metal object that makes a ringing sound when struck. It is commonly used to signal the start or end of an event, such as the beginning of school or the end of a workday. Bells can also be used to call people to prayer in churches and other places of worship. |
 | 21 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | Brøndby is a municipality in the Copenhagen metropolitan area of Denmark. The name Brøndby is derived from the Danish words for "well" and "town", and it literally translates to "Well Town" in English. |
-| 22 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | Moderaterne is a Danish political party. The name translates to "The Moderates" in English. It is a centre-right party that was founded in 1915 and is currently the second largest party in the Danish Parliament. |
-| 23 | [Vallys](http://twitter.com/search?q=Vallys) | Vallys is not a word in English. It does not have a meaning. |
-| 24 | [Unsung Hero](http://twitter.com/search?q=Unsung+Hero) | Unsung Hero is a phrase used to describe someone who has done something heroic or admirable, but has not been recognized for it. It is often used to refer to people who have made significant contributions to society, but whose efforts have gone unnoticed or unrecognized. |
+| 22 | [Vallys](http://twitter.com/search?q=Vallys) | Vallys is not a word in English. It does not have a meaning. |
+| 23 | [Unsung Hero](http://twitter.com/search?q=Unsung+Hero) | Unsung Hero is a phrase used to describe someone who has done something heroic or admirable, but has not been recognized for it. It is often used to refer to people who have made significant contributions to society, but whose efforts have gone unnoticed or unrecognized. |
+| 24 | [Moderaterne](http://twitter.com/search?q=Moderaterne) | Moderaterne is a Danish political party. The name translates to "The Moderates" in English. It is a centre-right party that was founded in 1915 and is currently the second largest party in the Danish Parliament. |
 | 25 | [Lyngby](http://twitter.com/search?q=Lyngby) | Lyngby is a town in Denmark located north of Copenhagen. The name Lyngby is derived from the Danish words for "heather" and "village". In English, it can be translated to mean "Heather Village". |
 | 26 | [Cornelius](http://twitter.com/search?q=Cornelius) | Cornelius is a Latin name derived from the Roman family name Cornelius. It means "horn" or "of a horn" and is associated with the Latin word cornu, meaning "horn". The name is often used as a given name for males. |
 | 27 | [Corner](http://twitter.com/search?q=Corner) | Corner is a noun that refers to the intersection of two walls or other surfaces, usually forming an angle of 90 degrees. It can also refer to a place or area that is out of the way, hidden, or secluded. |
@@ -48,22 +48,22 @@ This is top 50 for Denmark
 | 31 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 32 | [MAGA](http://twitter.com/search?q=MAGA) | MAGA stands for "Make America Great Again" and is a slogan used by President Donald Trump during his 2016 presidential campaign. It is a call to return to the values of the past and to make America great again. |
 | 33 | [schwartau](http://twitter.com/search?q=schwartau) | Schwartau is a town in Germany located in the state of Schleswig-Holstein. The name is derived from the German words "schwarz" (black) and "Au" (meadow). In English, it means "black meadow". |
-| 34 | [esbjerg](http://twitter.com/search?q=esbjerg) | Esbjerg is a city in Denmark located on the west coast of the Jutland peninsula. It is the fifth-largest city in Denmark, with a population of 71,618 (as of 1 January 2020). The name Esbjerg translates to "estuary" in English. |
-| 35 | [slimane](http://twitter.com/search?q=slimane) | Slimane is a French male given name, derived from the Arabic name Sulayman. It is also a surname. The meaning of the name in English is "peaceful". |
-| 36 | [farum](http://twitter.com/search?q=farum) | Farum is a Danish word meaning "forum". It is used to refer to an online discussion board or chatroom. |
-| 37 | [daramy](http://twitter.com/search?q=daramy) | Daramy is a term used in the West African country of Guinea to refer to a person who is considered to be wise and knowledgeable. It is often used as a title of respect for someone who has achieved a high level of knowledge or wisdom. In English, it can be translated as "wise one" or "wise person". |
-| 38 | [mitid](http://twitter.com/search?q=mitid) | Mitid is a Hebrew word meaning “from within” or “from within oneself.” It is often used to refer to an inner strength or power that comes from within, and can be used to describe a person's ability to overcome obstacles and achieve success. |
-| 39 | [tøfting](http://twitter.com/search?q=t%c3%b8fting) | Tøfting is a Norwegian term that refers to the act of showing off or bragging. It is often used in a negative context, to describe someone who is trying to make themselves look better than they actually are. In English, it could be translated as "showing off" or "bragging". |
-| 40 | [kinas](http://twitter.com/search?q=kinas) | Kinas is a slang term used in Spanish to refer to money. In English, it can be translated as "cash". |
-| 41 | [poulsen](http://twitter.com/search?q=poulsen) | Poulsen is a Danish surname derived from the given name Paul. It is also a common surname in Norway and Sweden. The English meaning of the name is "son of Paul". |
-| 42 | [beijmo](http://twitter.com/search?q=beijmo) | Beijmo is a Portuguese slang term that means "hug" or "embrace." It is used to express affection or to show appreciation for someone. |
-| 43 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
-| 44 | [cecilie beck](http://twitter.com/search?q=cecilie+beck) | Cecilie Beck is a Danish television presenter and journalist. She is best known for her work on the news program Deadline on DR1. In English, her name means "blind victory". |
-| 45 | [ankersen](http://twitter.com/search?q=ankersen) | Ankersen is a Danish surname. It is derived from the given name Anker, which means "anchor" in English. |
-| 46 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
-| 47 | [hermansen](http://twitter.com/search?q=hermansen) | Hermansen is a surname of Scandinavian origin. It is derived from the Old Norse personal name Hermunr, which means “army man” or “warrior”. |
-| 48 | [claesson](http://twitter.com/search?q=claesson) | Claesson is a Swedish surname. It is derived from the Old Norse word klaustr, meaning "monastery". The name is most commonly found in Sweden and Finland. |
-| 49 | [winther](http://twitter.com/search?q=winther) | Winther is not a word in English. |
+| 34 | [Slimane](http://twitter.com/search?q=Slimane) | Slimane is a French male given name, derived from the Arabic name Sulayman. It is a variant of the name Solomon, meaning "peaceful". |
+| 35 | [farum](http://twitter.com/search?q=farum) | Farum is a Danish word meaning "forum". It is used to refer to an online discussion board or chatroom. |
+| 36 | [daramy](http://twitter.com/search?q=daramy) | Daramy is a term used in the West African country of Guinea to refer to a person who is considered to be wise and knowledgeable. It is often used as a title of respect for someone who has achieved a high level of knowledge or wisdom. In English, it can be translated as "wise one" or "wise person". |
+| 37 | [mitid](http://twitter.com/search?q=mitid) | Mitid is a Hebrew word meaning “from within” or “from within oneself.” It is often used to refer to an inner strength or power that comes from within, and can be used to describe a person's ability to overcome obstacles and achieve success. |
+| 38 | [tøfting](http://twitter.com/search?q=t%c3%b8fting) | Tøfting is a Norwegian term that refers to the act of showing off or bragging. It is often used in a negative context, to describe someone who is trying to make themselves look better than they actually are. In English, it could be translated as "showing off" or "bragging". |
+| 39 | [kinas](http://twitter.com/search?q=kinas) | Kinas is a slang term used in Spanish to refer to money. In English, it can be translated as "cash". |
+| 40 | [poulsen](http://twitter.com/search?q=poulsen) | Poulsen is a Danish surname derived from the given name Paul. It is also a common surname in Norway and Sweden. The English meaning of the name is "son of Paul". |
+| 41 | [beijmo](http://twitter.com/search?q=beijmo) | Beijmo is a Portuguese slang term that means "hug" or "embrace." It is used to express affection or to show appreciation for someone. |
+| 42 | [Conte](http://twitter.com/search?q=Conte) | Conte is a French word meaning "story" or "tale". It is often used to refer to a type of short story or folk tale, usually featuring characters such as kings, princesses, and magical creatures. |
+| 43 | [cecilie beck](http://twitter.com/search?q=cecilie+beck) | Cecilie Beck is a Danish television presenter and journalist. She is best known for her work on the news program Deadline on DR1. In English, her name means "blind victory". |
+| 44 | [ankersen](http://twitter.com/search?q=ankersen) | Ankersen is a Danish surname. It is derived from the given name Anker, which means "anchor" in English. |
+| 45 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
+| 46 | [hermansen](http://twitter.com/search?q=hermansen) | Hermansen is a surname of Scandinavian origin. It is derived from the Old Norse personal name Hermunr, which means “army man” or “warrior”. |
+| 47 | [claesson](http://twitter.com/search?q=claesson) | Claesson is a Swedish surname. It is derived from the Old Norse word klaustr, meaning "monastery". The name is most commonly found in Sweden and Finland. |
+| 48 | [winther](http://twitter.com/search?q=winther) | Winther is not a word in English. |
+| 49 | [Esbjerg](http://twitter.com/search?q=Esbjerg) | Esbjerg is a city in southwestern Denmark. It is the fifth-largest city in the country, with a population of 71,618 (as of 1 January 2020). The name Esbjerg is derived from the Danish words "es" (meaning "estuary") and "bjerg" (meaning "mountain"). In English, it can be translated to mean "estuary mountain". |
 | 50 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
 
 

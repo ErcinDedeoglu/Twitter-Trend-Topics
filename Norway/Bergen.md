@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-25 02:36:02 UTC`
+📆 Last Updated: `2023-04-25 03:22:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,20 +26,20 @@ This is top 50 for [Norway](</Norway>)
 | 9 | [#ougn2023](http://twitter.com/search?q=%23ougn2023) | #ougn2023 is a hashtag used by the Ohio University Graduate Network (OUGN) to promote their 2023 conference. The hashtag is used to share information about the conference and to encourage people to attend. |
 | 10 | [Henriksen](http://twitter.com/search?q=Henriksen) | Henriksen is a Scandinavian surname derived from the given name Henrik, which is a form of Henry. The meaning of the name is "ruler of the home". |
 | 11 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | Rødt is a Norwegian political party that stands for socialism, democracy, and environmentalism. In English, it translates to "Red". |
-| 12 | [Flop of the Season](http://twitter.com/search?q=Flop+of+the+Season) | Flop of the Season is a term used to describe a product, movie, or other venture that has failed to meet expectations. It is usually used in the context of entertainment or business, and implies that the venture was expected to be successful but ultimately failed. |
-| 13 | [Player of the Season](http://twitter.com/search?q=Player+of+the+Season) | Player of the Season is an award given to the best player in a particular sport or league over the course of a season. It is usually awarded to the player who has had the most impressive performance, or who has made the biggest impact on their team's success. |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [berisha](http://twitter.com/search?q=berisha) | Berisha is an Albanian surname. It is derived from the word "berish" which means "brave". In English, it can be translated to mean "brave one". |
-| 16 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 17 | [rekdal](http://twitter.com/search?q=rekdal) | Rekdal is a Norwegian surname. It is derived from the Old Norse words "rekr" meaning "row" and "dalr" meaning "valley". In English, it can be translated to mean "row of valleys". |
-| 18 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [berisha](http://twitter.com/search?q=berisha) | Berisha is an Albanian surname. It is derived from the word "berish" which means "brave". In English, it can be translated to mean "brave one". |
+| 14 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 15 | [rekdal](http://twitter.com/search?q=rekdal) | Rekdal is a Norwegian surname. It is derived from the Old Norse words "rekr" meaning "row" and "dalr" meaning "valley". In English, it can be translated to mean "row of valleys". |
+| 16 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
+| 17 | [Flop of the Season](http://twitter.com/search?q=Flop+of+the+Season) | Flop of the Season is a term used to describe a product, movie, or other venture that has failed to meet expectations. It is usually used in the context of entertainment or business, and implies that the venture was expected to be successful but ultimately failed. |
+| 18 | [Player of the Season](http://twitter.com/search?q=Player+of+the+Season) | Player of the Season is an award given to the best player in a particular sport or league over the course of a season. It is usually awarded to the player who has had the most impressive performance, or who has made the biggest impact on their team's success. |
 | 19 | [#Israel](http://twitter.com/search?q=%23Israel) | #Israel is the official hashtag for the country of Israel. It is used to refer to news, events, and other information related to the country. In English, it means "Israel". |
 | 20 | [Ukraina](http://twitter.com/search?q=Ukraina) | Ukraina is the Ukrainian name for Ukraine, a country located in Eastern Europe. The English translation of Ukraina is Ukraine. |
 | 21 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 22 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
 | 23 | [krygård](http://twitter.com/search?q=kryg%c3%a5rd) | Krygård is a Norwegian word meaning cemetery. It is derived from the Old Norse words kyrja (church) and garðr (garden). |
 | 24 | [obos](http://twitter.com/search?q=obos) | Obos is a Norwegian term that translates to "all of us" in English. It is used to refer to a group of people who are working together or sharing an experience. |
-| 25 | [Nadderud](http://twitter.com/search?q=Nadderud) | Nadderud is a neighborhood in the municipality of Bærum, Norway. It is located in the western part of the municipality, just north of the city of Oslo. The name comes from the river Nadda, which runs through the area. In English, it means "Nadda's clearing". |
+| 25 | [nadderud](http://twitter.com/search?q=nadderud) | Nadderud is a Norwegian place name. It is derived from the Old Norse words nadd (point) and hryggr (ridge). In English, it can be translated to mean "pointed ridge". |
 | 26 | [Fox News](http://twitter.com/search?q=Fox+News) | Fox News is an American news channel owned by Fox Corporation. It is known for its conservative-leaning political coverage and its slogan "Fair & Balanced". Fox News provides 24-hour news coverage and analysis of current events, as well as opinion and commentary from a variety of commentators. |
 | 27 | [hamkam](http://twitter.com/search?q=hamkam) | Hamkam is a Norwegian football club based in Hamar, Norway. The club was founded in 1919 and currently plays in the Norwegian First Division. The name Hamkam is an abbreviation of Hamar Kammerater, which translates to "Hamar Comrades" in English. |
 | 28 | [bandehy](http://twitter.com/search?q=bandehy) | Bandehy is a term used in the Indian state of Gujarat to refer to a group of people who are close friends or family members. It is derived from the Gujarati word bandh, which means "to bind". In English, it can be translated as "close-knit group". |

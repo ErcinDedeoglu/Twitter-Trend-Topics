@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-25 02:42:18 UTC`
+📆 Last Updated: `2023-04-25 03:28:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,13 +26,13 @@ This is top 50 for Norway
 | 9 | [#ougn2023](http://twitter.com/search?q=%23ougn2023) | #ougn2023 is a hashtag used by the Ohio University Graduate Network (OUGN) to promote their 2023 conference. The hashtag is used to share information about the conference and to encourage people to attend. |
 | 10 | [Henriksen](http://twitter.com/search?q=Henriksen) | Henriksen is a Scandinavian surname derived from the given name Henrik, which is a form of Henry. The meaning of the name is "ruler of the home". |
 | 11 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | Rødt is a Norwegian political party that stands for socialism, democracy, and environmentalism. In English, it translates to "Red". |
-| 12 | [Flop of the Season](http://twitter.com/search?q=Flop+of+the+Season) | Flop of the Season is a term used to describe a product, movie, or other venture that has failed to meet expectations. It is usually used in the context of entertainment or business, and implies that the venture was expected to be successful but ultimately failed. |
-| 13 | [Player of the Season](http://twitter.com/search?q=Player+of+the+Season) | Player of the Season is an award given to the best player in a particular sport or league over the course of a season. It is usually awarded to the player who has had the most impressive performance, or who has made the biggest impact on their team's success. |
-| 14 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 15 | [berisha](http://twitter.com/search?q=berisha) | Berisha is an Albanian surname. It is derived from the word "berish" which means "brave". In English, it can be translated to mean "brave one". |
-| 16 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
-| 17 | [rekdal](http://twitter.com/search?q=rekdal) | Rekdal is a Norwegian surname. It is derived from the Old Norse words "rekr" meaning "row" and "dalr" meaning "valley". In English, it can be translated to mean "row of valleys". |
-| 18 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
+| 12 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 13 | [berisha](http://twitter.com/search?q=berisha) | Berisha is an Albanian surname. It is derived from the word "berish" which means "brave". In English, it can be translated to mean "brave one". |
+| 14 | [Eriksen](http://twitter.com/search?q=Eriksen) | Eriksen is a Scandinavian surname derived from the Old Norse personal name Eiríkr. It is most commonly found in Norway, Denmark, and Sweden. In English, it means "eternal ruler". |
+| 15 | [rekdal](http://twitter.com/search?q=rekdal) | Rekdal is a Norwegian surname. It is derived from the Old Norse words "rekr" meaning "row" and "dalr" meaning "valley". In English, it can be translated to mean "row of valleys". |
+| 16 | [Stoltenberg](http://twitter.com/search?q=Stoltenberg) | Stoltenberg is a German surname. It is derived from the German words "Stolz" (proud) and "Berg" (mountain). The name can be translated to mean "proud mountain". |
+| 17 | [Flop of the Season](http://twitter.com/search?q=Flop+of+the+Season) | Flop of the Season is a term used to describe a product, movie, or other venture that has failed to meet expectations. It is usually used in the context of entertainment or business, and implies that the venture was expected to be successful but ultimately failed. |
+| 18 | [Player of the Season](http://twitter.com/search?q=Player+of+the+Season) | Player of the Season is an award given to the best player in a particular sport or league over the course of a season. It is usually awarded to the player who has had the most impressive performance, or who has made the biggest impact on their team's success. |
 | 19 | [#Israel](http://twitter.com/search?q=%23Israel) | #Israel is the official hashtag for the country of Israel. It is used to refer to news, events, and other information related to the country. In English, it means "Israel". |
 | 20 | [Ukraina](http://twitter.com/search?q=Ukraina) | Ukraina is the Ukrainian name for Ukraine, a country located in Eastern Europe. The English translation of Ukraina is Ukraine. |
 | 21 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
@@ -47,7 +47,7 @@ This is top 50 for Norway
 | 30 | [NATO](http://twitter.com/search?q=NATO) | NATO stands for the North Atlantic Treaty Organization. It is an intergovernmental military alliance between 29 North American and European countries. Its purpose is to protect the freedom and security of its member states by providing collective defense against aggression from any external source. |
 | 31 | [grønbæk](http://twitter.com/search?q=gr%c3%b8nb%c3%a6k) | Grønbæk is a Danish word that means "green stream". It is often used to refer to a small stream or creek that runs through a green area. |
 | 32 | [toppserien](http://twitter.com/search?q=toppserien) | Toppserien is the top division of women's football in Norway. It is the highest level of women's football in the country and consists of 12 teams. The league was founded in 1984 and is currently sponsored by Norsk Tipping, a state-owned gambling company. The meaning of Toppserien in English is "Top Division". |
-| 33 | [Åråsen](http://twitter.com/search?q=%c3%85r%c3%a5sen) | Åråsen is a stadium in Norway, located in the city of Lillestrøm. It is the home ground of the Norwegian football team Vålerenga Fotball. The name Åråsen translates to "the hill of the eagles" in English. |
+| 33 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | Åråsen is a mountain in Norway. It is located in the municipality of Trondheim, and is the highest point in the region at an elevation of 586 meters (1,923 feet). In English, Åråsen means "year hill". |
 | 34 | [stemmemyren](http://twitter.com/search?q=stemmemyren) | Stemmemyren is a Norwegian phrase that translates to "the stem of the ant." It is used to describe a situation in which someone is trying to solve a problem but is unable to find the solution. |
 | 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 36 | [brynhildsen](http://twitter.com/search?q=brynhildsen) | Brynhildsen is a Norwegian surname derived from the Old Norse name Brynhildr. It is composed of two elements: bryn, meaning "protection" or "armor," and hildr, meaning "battle." In English, the name can be translated to mean "protector of battle." |
