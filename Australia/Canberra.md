@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-04-25 16:25:46 UTC`
+📆 Last Updated: `2023-04-25 17:22:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Anzac Day](http://twitter.com/search?q=Anzac+Day) | Anzac Day is a national day of remembrance in Australia and New Zealand that honors the members of the Australian and New Zealand Army Corps (ANZAC) who fought at Gallipoli in World War I. It is observed on April 25 each year. The term ANZAC stands for Australian and New Zealand Army Corps, and it is a day to remember the courage, sacrifice, and commitment of those who served in the war. |
-| 2 | [#AFLPiesDons](http://twitter.com/search?q=%23AFLPiesDons) | #AFLPiesDons is a hashtag used to promote the Australian Football League (AFL) match between the Collingwood Magpies and the Essendon Bombers. The hashtag is used to encourage fans of both teams to show their support for their respective teams. In English, it means "Go Pies and Dons!" |
+| 1 | [#AFLPiesDons](http://twitter.com/search?q=%23AFLPiesDons) | #AFLPiesDons is a hashtag used to promote the Australian Football League (AFL) match between the Collingwood Magpies and the Essendon Bombers. The hashtag is used to encourage fans of both teams to show their support for their respective teams. In English, it means "Go Pies and Dons!" |
+| 2 | [Anzac Day](http://twitter.com/search?q=Anzac+Day) | Anzac Day is a national day of remembrance in Australia and New Zealand that honors the members of the Australian and New Zealand Army Corps (ANZAC) who fought at Gallipoli in World War I. It is observed on April 25 each year. The term ANZAC stands for Australian and New Zealand Army Corps, and it is a day to remember the courage, sacrifice, and commitment of those who served in the war. |
 | 3 | [Tucker](http://twitter.com/search?q=Tucker) | Tucker is an English slang term meaning to tire someone out or exhaust them. It can also mean to make someone work hard or put in a lot of effort. |
 | 4 | [#nrlroostersdragons](http://twitter.com/search?q=%23nrlroostersdragons) | #NRLRoostersDragons is a hashtag used on social media to refer to the National Rugby League (NRL) teams, the Sydney Roosters and the St George Illawarra Dragons. It is used to discuss news, updates, and other topics related to these two teams. |
 | 5 | [#LestWeForget](http://twitter.com/search?q=%23LestWeForget) | #LestWeForget is a hashtag used to commemorate those who have served in the military and to remember those who have died in service. It is a reminder to never forget the sacrifices made by those who have served and to honor their memory. |
@@ -51,18 +51,18 @@ This is top 50 for [Australia](</Australia>)
 | 34 | [Lomax](http://twitter.com/search?q=Lomax) | Lomax is a surname of English origin. It is derived from the Old Norse personal name "Lomar", which means "bare" or "barefoot". The name was first recorded in England in the 12th century. |
 | 35 | [Frampton](http://twitter.com/search?q=Frampton) | Frampton is a surname of English origin. It is derived from the Old English words "fram" meaning "prosperous" and "tun" meaning "enclosure". The name was originally given to someone who lived in or near a prosperous enclosure. |
 | 36 | [Menzie](http://twitter.com/search?q=Menzie) | Menzie is a Scottish surname derived from the Gaelic Mac an Ghabhann, meaning "son of the smith". |
-| 37 | [Keary](http://twitter.com/search?q=Keary) | Keary is a surname of Irish origin. It is an Anglicized form of the Gaelic name Ó Ciardha, which means "descendant of Ciardha". |
+| 37 | [keary](http://twitter.com/search?q=keary) | Keary is not a word in English. It may be a misspelling of the name "Kerry," which is an Irish name derived from the Gaelic word "Ciarrai," meaning "dark one." |
 | 38 | [Jimmy Buckets](http://twitter.com/search?q=Jimmy+Buckets) | Jimmy Buckets is a nickname given to NBA player Jimmy Butler, who is known for his ability to score points and make clutch shots. The phrase is a play on words, combining Butler's name with the term "buckets," which is slang for baskets or points scored. |
 | 39 | [Maynard](http://twitter.com/search?q=Maynard) | Maynard is a masculine given name of English origin. It is derived from the Old Germanic name Maier, meaning "strong and brave". |
-| 40 | [Last Post](http://twitter.com/search?q=Last+Post) | Last Post is a bugle call used in the British Armed Forces, as well as in many Commonwealth countries. It is played during military ceremonies to mark the end of the day, and is also used to commemorate fallen soldiers. The Last Post is usually followed by a minute's silence and then the Rouse, which signals the end of the ceremony. |
-| 41 | [Richmond](http://twitter.com/search?q=Richmond) | Richmond is a city in the Commonwealth of Virginia, located on the James River. It is the capital of Virginia and the center of the Richmond Metropolitan Statistical Area (MSA). The city has a population of over 220,000 people and is home to numerous historical sites, museums, and other attractions. The name Richmond comes from an old English term meaning "ridge by a river". |
-| 42 | [Rupert](http://twitter.com/search?q=Rupert) | Rupert is a male given name of Germanic origin, derived from the Old High German name "Hrodperht". It is composed of the elements hrod (fame) and perht (bright). The name is often shortened to "Rup" or "Rupie". In English, Rupert means "bright fame". |
-| 43 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 44 | [Ruscoe](http://twitter.com/search?q=Ruscoe) | Ruscoe is a British slang term for a person who is lazy or idle. It can also be used to describe someone who is unproductive or not doing anything useful. |
-| 45 | [heppell](http://twitter.com/search?q=heppell) | Heppell is a surname of English origin. It is derived from the Old English words "heope" meaning "horse" and "ell" meaning "corner". The name is thought to have originally referred to someone who lived near a horse corner or stable. |
-| 46 | [markov](http://twitter.com/search?q=markov) | Markov is a type of mathematical process used to predict the probability of future events based on past data. It is named after Russian mathematician Andrey Markov, who developed the theory in the early 20th century. Markov processes are widely used in many fields, including economics, finance, engineering, and computer science. |
-| 47 | [de goey](http://twitter.com/search?q=de+goey) | De goey is a Dutch phrase that translates to "the brave" in English. It is used to describe someone who is courageous and willing to take risks. |
-| 48 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 40 | [last post](http://twitter.com/search?q=last+post) | Last post is a phrase used to refer to the final message or comment in a discussion thread. It is usually used to indicate that the conversation has come to an end. |
+| 41 | [Rupert](http://twitter.com/search?q=Rupert) | Rupert is a male given name of Germanic origin, derived from the Old High German name "Hrodperht". It is composed of the elements hrod (fame) and perht (bright). The name is often shortened to "Rup" or "Rupie". In English, Rupert means "bright fame". |
+| 42 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 43 | [ruscoe](http://twitter.com/search?q=ruscoe) | Ruscoe is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is socially inept or not very good at interacting with others. |
+| 44 | [heppell](http://twitter.com/search?q=heppell) | Heppell is a surname of English origin. It is derived from the Old English words "heope" meaning "horse" and "ell" meaning "corner". The name is thought to have originally referred to someone who lived near a horse corner or stable. |
+| 45 | [markov](http://twitter.com/search?q=markov) | Markov is a type of mathematical process used to predict the probability of future events based on past data. It is named after Russian mathematician Andrey Markov, who developed the theory in the early 20th century. Markov processes are widely used in many fields, including economics, finance, engineering, and computer science. |
+| 46 | [de goey](http://twitter.com/search?q=de+goey) | De goey is a Dutch phrase that translates to "the brave" in English. It is used to describe someone who is courageous and willing to take risks. |
+| 47 | [Hannity](http://twitter.com/search?q=Hannity) | Hannity is a television and radio show hosted by conservative political commentator Sean Hannity. The show focuses on news and opinion from a conservative perspective. The name of the show is derived from the host's last name. |
+| 48 | [Stan Grant](http://twitter.com/search?q=Stan+Grant) | Stan Grant is an Australian journalist, author, and television presenter. He is known for his work in Indigenous affairs and his advocacy for Indigenous Australians. The phrase "Stan Grant" is used to refer to his work in this area. |
 
 
 
