@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-26 22:28:59 UTC`
+📆 Last Updated: `2023-04-26 23:29:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,17 +28,16 @@ This is top 50 for Belarus
 | 11 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | Пусть is a Russian word that can be translated to "let" or "may". It is used to express a wish or desire, usually in the form of a request or suggestion. For example, Пусть они будут счастливы (Let them be happy). |
 | 12 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | Турции is the Russian word for Turkey. It is the name of a country located in the Middle East and southeastern Europe. |
 | 13 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | Ахах is an expression of laughter in Russian. It is similar to the English expression "haha" and is used to express amusement or joy. |
-| 14 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | Красиво is a Russian word meaning "beautiful" or "attractive" in English. |
-| 15 | [#blockchain](http://twitter.com/search?q=%23blockchain) | Blockchain is a type of distributed ledger technology (DLT) that records and stores data in a secure, decentralized, and immutable manner. It is a digital ledger of transactions that is shared among multiple computers in a peer-to-peer network. Blockchain technology enables the secure transfer of digital assets without the need for a third-party intermediary. It is used to create and store digital records of transactions, such as cryptocurrency transactions, contracts, and other types of data. |
+| 14 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | Юнги (pronounced "yoon-gee") is a Russian word that means "young people" or "youth." It is often used to refer to young people who are active in social and political movements. |
+| 15 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | Красиво is a Russian word meaning "beautiful" or "attractive" in English. |
 | 16 | [Минска](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | Минска is the Russian word for Minsk, the capital of Belarus. In English, it is simply referred to as Minsk. |
-| 17 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | Юнги (pronounced "yoon-gee") is a Russian word that means "young people" or "youth." It is often used to refer to young people who are active in social and political movements. |
-| 18 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | Какие is a Russian word meaning "what" or "which". It is used to ask questions about a specific thing or group of things. For example, Какие цвета ты любишь? (Which colors do you like?) |
-| 19 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
-| 20 | [Верю](http://twitter.com/search?q=%d0%92%d0%b5%d1%80%d1%8e) | Верю is a Russian word meaning "I believe" in English. |
-| 21 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | Гэта is a Belarusian word meaning "this". |
-| 22 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | Обожаю (Obozhu) is a Russian word meaning "I adore" or "I love". |
-| 23 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | Аааа is an expression of surprise, shock, or disbelief in Russian. It is similar to the English expression "Oh my!" |
-| 24 | [В Беларуси](http://twitter.com/search?q=%d0%92+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | В Беларуси is a phrase in Russian which translates to "in Belarus". It is used to refer to the country of Belarus, which is located in Eastern Europe. |
+| 17 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | Какие is a Russian word meaning "what" or "which". It is used to ask questions about a specific thing or group of things. For example, Какие цвета ты любишь? (Which colors do you like?) |
+| 18 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
+| 19 | [Верю](http://twitter.com/search?q=%d0%92%d0%b5%d1%80%d1%8e) | Верю is a Russian word meaning "I believe" in English. |
+| 20 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | Обожаю (Obozhu) is a Russian word meaning "I adore" or "I love". |
+| 21 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | Аааа is an expression of surprise, shock, or disbelief in Russian. It is similar to the English expression "Oh my!" |
+| 22 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | Гэта is a Belarusian word meaning "this". |
+| 23 | [В Беларуси](http://twitter.com/search?q=%d0%92+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | В Беларуси is a phrase in Russian which translates to "in Belarus". It is used to refer to the country of Belarus, which is located in Eastern Europe. |
 
 
 
