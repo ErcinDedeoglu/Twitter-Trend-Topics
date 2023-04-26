@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-26 05:29:21 UTC`
+📆 Last Updated: `2023-04-26 06:33:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,27 +44,27 @@ This is top 50 for Qatar
 | 27 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | علي الاطلاق is an Arabic phrase that translates to "without any restrictions" or "unconditionally" in English. It is used to express a willingness to do something without any limitations or conditions. |
 | 28 | [الهدف الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الهدف الثاني is a phrase in Arabic which translates to "Second Goal" in English. It is often used to refer to a second goal or objective that needs to be achieved. |
 | 29 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 30 | [بلادهم](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af%d9%87%d9%85) | بلادهم is an Arabic phrase meaning "their country" or "their homeland". |
-| 31 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
-| 32 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
-| 33 | [Pakistan](http://twitter.com/search?q=Pakistan) | Pakistan is a country in South Asia. It is bordered by India to the east, Afghanistan to the west, Iran to the southwest, and China in the far northeast. The name Pakistan means "land of the pure" in Urdu and Persian. |
-| 34 | [الاشخاص الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%ae%d8%a7%d8%b5+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | الاشخاص الذين is a phrase in Arabic that translates to "the people who". |
-| 35 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 30 | [نيمار](http://twitter.com/search?q=%d9%86%d9%8a%d9%85%d8%a7%d8%b1) | نيمار is an Arabic name that means "gift of God". |
+| 31 | [بلادهم](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af%d9%87%d9%85) | بلادهم is an Arabic phrase meaning "their country" or "their homeland". |
+| 32 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
+| 33 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
+| 34 | [Pakistan](http://twitter.com/search?q=Pakistan) | Pakistan is a country in South Asia. It is bordered by India to the east, Afghanistan to the west, Iran to the southwest, and China in the far northeast. The name Pakistan means "land of the pure" in Urdu and Persian. |
+| 35 | [الاشخاص الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%ae%d8%a7%d8%b5+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | الاشخاص الذين is a phrase in Arabic that translates to "the people who". |
 | 36 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | "علي بالي" is an Arabic phrase that translates to "on me". It is used to express responsibility or willingness to take on a task. |
 | 37 | [نادي القرن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86) | نادي القرن is a Saudi Arabian football club based in Riyadh. The name translates to "Century Club" in English. |
-| 38 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | لندن is the Arabic word for London. It is the capital of England and the United Kingdom. |
-| 39 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | النيل is the Arabic word for the Nile River, one of the longest rivers in the world. In English, it is simply referred to as the Nile. |
-| 40 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | البرازيل (al-Barazil) is the Arabic name for Brazil. It translates to "the Brazils" in English. |
-| 41 | [Raila](http://twitter.com/search?q=Raila) | Raila is a nickname for the Kenyan politician Raila Odinga. It is derived from his first name and is used as a term of endearment by his supporters. In English, it can be translated to mean "beloved Raila". |
-| 42 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
-| 43 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 38 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
+| 39 | [لندن](http://twitter.com/search?q=%d9%84%d9%86%d8%af%d9%86) | لندن is the Arabic word for London. It is the capital of England and the United Kingdom. |
+| 40 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | النيل is the Arabic word for the Nile River, one of the longest rivers in the world. In English, it is simply referred to as the Nile. |
+| 41 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | البرازيل (al-Barazil) is the Arabic name for Brazil. It translates to "the Brazils" in English. |
+| 42 | [Raila](http://twitter.com/search?q=Raila) | Raila is a nickname for the Kenyan politician Raila Odinga. It is derived from his first name and is used as a term of endearment by his supporters. In English, it can be translated to mean "beloved Raila". |
+| 43 | [تويتر](http://twitter.com/search?q=%d8%aa%d9%88%d9%8a%d8%aa%d8%b1) | تويتر (Twitter) is a social media platform that allows users to post short messages (tweets) of up to 280 characters. It is used by millions of people around the world to share news, opinions, and other content. |
 | 44 | [Ruto](http://twitter.com/search?q=Ruto) | Ruto is a Japanese term that translates to "the way of the warrior." It is a code of honor and ethics that emphasizes loyalty, courage, and self-sacrifice. |
 | 45 | [Modi](http://twitter.com/search?q=Modi) | Modi is a surname of Indian origin. It is derived from the Sanskrit word "modaka", which means "sweet". In English, Modi can be translated to mean "sweet". |
-| 46 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 47 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | المباراه النهاييه is an Arabic phrase meaning "the final match" or "the championship game". It is typically used to refer to the last game of a tournament or championship series. |
-| 48 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 46 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | المباراه النهاييه is an Arabic phrase meaning "the final match" or "the championship game". It is typically used to refer to the last game of a tournament or championship series. |
+| 47 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 48 | [الوقت المناسب](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%82%d8%aa+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8) | الوقت المناسب is a phrase in Arabic which translates to "the right time" in English. It is used to refer to the most appropriate or suitable time for something. |
 | 49 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | امريكا (pronounced "amreeka") is the Arabic word for America. It is used to refer to the United States of America. |
-| 50 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
+| 50 | [توتنهام](http://twitter.com/search?q=%d8%aa%d9%88%d8%aa%d9%86%d9%87%d8%a7%d9%85) | توتنهام is the name of a city in England. It is the largest city in the West Midlands region and is located in the county of Staffordshire. The name translates to "town on the meadow" in English. |
 
 
 
