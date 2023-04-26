@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-04-26 01:58:46 UTC`
+📆 Last Updated: `2023-04-26 02:41:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,8 +22,8 @@ This is top 50 for Israel
 | 5 | [יום זיכרון](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%96%d7%99%d7%9b%d7%a8%d7%95%d7%9f) | יום זיכרון is Hebrew for "Memorial Day." It is a day of remembrance for those who have died in service of their country. |
 | 6 | [אור הלר](http://twitter.com/search?q=%d7%90%d7%95%d7%a8+%d7%94%d7%9c%d7%a8) | אור הלר (pronounced "Oor HaLar") is a Hebrew phrase meaning "Light of the Lark". It is often used as a metaphor for hope and optimism in the face of adversity. |
 | 7 | [#YomHazikaron](http://twitter.com/search?q=%23YomHazikaron) | #YomHazikaron is an annual Israeli national memorial day observed on the fourth of Iyar, which commemorates the fallen soldiers of the Israel Defense Forces and victims of terrorism. In English, it translates to "Day of Remembrance." |
-| 8 | [#YomHaatzmaut](http://twitter.com/search?q=%23YomHaatzmaut) | #YomHaatzmaut is a hashtag used to celebrate Israel's Independence Day, which is celebrated annually on the 5th of Iyar. The phrase Yom Haatzmaut translates to “Independence Day” in English. |
-| 9 | [#נר_יזכור](http://twitter.com/search?q=%23%d7%a0%d7%a8_%d7%99%d7%96%d7%9b%d7%95%d7%a8) | #נר_יזכור is a hashtag used in Hebrew to commemorate the victims of the Holocaust. It translates to "Remember the Candle" and is used to honor those who perished in the Holocaust. |
+| 8 | [#נר_יזכור](http://twitter.com/search?q=%23%d7%a0%d7%a8_%d7%99%d7%96%d7%9b%d7%95%d7%a8) | #נר_יזכור is a hashtag used in Hebrew to commemorate the victims of the Holocaust. It translates to "Remember the Candle" and is used to honor those who perished in the Holocaust. |
+| 9 | [#YomHaatzmaut](http://twitter.com/search?q=%23YomHaatzmaut) | #YomHaatzmaut is a hashtag used to celebrate Israel's Independence Day, which is celebrated annually on the 5th of Iyar. The phrase Yom Haatzmaut translates to “Independence Day” in English. |
 | 10 | [אמיר אוחנה](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%95%d7%97%d7%a0%d7%94) | אמיר אוחנה is a Hebrew phrase that translates to "Amir will be silent." It is often used as a warning or reminder to be quiet and not speak. |
 | 11 | [שלום אסייג](http://twitter.com/search?q=%d7%a9%d7%9c%d7%95%d7%9d+%d7%90%d7%a1%d7%99%d7%99%d7%92) | שלום אסייג is a Hebrew greeting that translates to "Hello Asiig" in English. It is a friendly way to greet someone. |
 | 12 | [#Israel75](http://twitter.com/search?q=%23Israel75) | #Israel75 is a hashtag used to commemorate the 75th anniversary of the founding of the State of Israel. It is used to celebrate the history and culture of Israel, and to recognize its achievements over the past 75 years. |
@@ -36,9 +36,9 @@ This is top 50 for Israel
 | 19 | [דיוויד בלאט](http://twitter.com/search?q=%d7%93%d7%99%d7%95%d7%95%d7%99%d7%93+%d7%91%d7%9c%d7%90%d7%98) | דיוויד בלאט is a Hebrew phrase that translates to "David's blog" in English. It is used to refer to a blog or website created by someone named David. |
 | 20 | [אח שכול](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9b%d7%95%d7%9c) | אח שכול is a Hebrew phrase that literally translates to "brother of all". It is used to express solidarity and unity among people, and can be translated to English as "we are all in this together". |
 | 21 | [ר יד לבנים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%93+%d7%9c%d7%91%d7%a0%d7%99%d7%9d) | ר יד לבנים is a Hebrew phrase meaning "white hand". It is often used to refer to a person who is inexperienced or naive. |
-| 22 | [טקס יום](http://twitter.com/search?q=%d7%98%d7%a7%d7%a1+%d7%99%d7%95%d7%9d) | טקס יום is a Hebrew phrase that translates to "ceremony of the day" in English. It is typically used to refer to a special event or celebration that takes place on a particular day. |
-| 23 | [יום קשה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a7%d7%a9%d7%94) | יום קשה is a Hebrew phrase meaning "hard day." It is used to describe a day that is difficult or challenging. |
-| 24 | [עם זכר](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%96%d7%9b%d7%a8) | עם זכר is a Hebrew phrase meaning "with remembrance". It is often used to express gratitude or appreciation for something that has been done. |
+| 22 | [יום קשה](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a7%d7%a9%d7%94) | יום קשה is a Hebrew phrase meaning "hard day." It is used to describe a day that is difficult or challenging. |
+| 23 | [עם זכר](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%96%d7%9b%d7%a8) | עם זכר is a Hebrew phrase meaning "with remembrance". It is often used to express gratitude or appreciation for something that has been done. |
+| 24 | [טקס יום](http://twitter.com/search?q=%d7%98%d7%a7%d7%a1+%d7%99%d7%95%d7%9d) | טקס יום is a Hebrew phrase that translates to "ceremony of the day" in English. It is typically used to refer to a special event or celebration that takes place on a particular day. |
 | 25 | [אלי בן שם](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%91%d7%9f+%d7%a9%d7%9d) | אלי בן שם is a Hebrew phrase meaning "Elie, son of Shem". It is a traditional Jewish name, often used to refer to someone in the lineage of Shem, one of the three sons of Noah in the Bible. |
 | 26 | [ספריי שלג](http://twitter.com/search?q=%d7%a1%d7%a4%d7%a8%d7%99%d7%99+%d7%a9%d7%9c%d7%92) | "ספריי שלג" is a Hebrew phrase meaning "snow books". It is often used to refer to books that are written for children, especially those with stories or illustrations about winter and snow. |
 | 27 | [טקס זיכרון](http://twitter.com/search?q=%d7%98%d7%a7%d7%a1+%d7%96%d7%99%d7%9b%d7%a8%d7%95%d7%9f) | טקס זיכרון is a Hebrew phrase that translates to "memorial ceremony" in English. It is typically used to refer to a ceremony or event held in memory of someone who has passed away. |

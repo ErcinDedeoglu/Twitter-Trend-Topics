@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-04-26 01:50:10 UTC`
+📆 Last Updated: `2023-04-26 02:35:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [Murhaf](http://twitter.com/search?q=Murhaf) | Murhaf is an Arabic name that means "brave". |
 | 2 | [Majblomman](http://twitter.com/search?q=Majblomman) | Majblomman is a Swedish charity organization that provides financial support to families with children who are in need. The literal translation of Majblomman is "May Flower," and it is named after the flower that blooms in May. The organization was founded in 1949 and has since provided assistance to over one million children and their families. |
-| 3 | [Eva Lundberg](http://twitter.com/search?q=Eva+Lundberg) | Eva Lundberg is a Swedish name. It is derived from the Old Norse elements "eir" meaning "mercy" and "varr" meaning "guardian". In English, the name Eva Lundberg means "merciful guardian". |
-| 4 | [Tucker](http://twitter.com/search?q=Tucker) | Tucker is an English slang term meaning to tire someone out or exhaust them. It can also mean to make someone work hard or put in a lot of effort. |
+| 3 | [Tucker](http://twitter.com/search?q=Tucker) | Tucker is an English slang term meaning to tire someone out or exhaust them. It can also mean to make someone work hard or put in a lot of effort. |
+| 4 | [Eva Lundberg](http://twitter.com/search?q=Eva+Lundberg) | Eva Lundberg is a Swedish name. It is derived from the Old Norse elements "eir" meaning "mercy" and "varr" meaning "guardian". In English, the name Eva Lundberg means "merciful guardian". |
 | 5 | [Harry Belafonte](http://twitter.com/search?q=Harry+Belafonte) | Harry Belafonte is an American singer, songwriter, actor, and social activist. He is best known for his calypso-style music, which he popularized in the 1950s and 1960s. He has been an advocate for civil rights and other social justice causes throughout his career. |
 | 6 | [marocko](http://twitter.com/search?q=marocko) | Marocko is not a word in English. It may be a misspelling of Morocco, which is a country in North Africa. |
 | 7 | [brännan](http://twitter.com/search?q=br%c3%a4nnan) | Brännan is a Swedish verb meaning "to burn". |
@@ -35,8 +35,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 18 | [kvist](http://twitter.com/search?q=kvist) | Kvist is a Swedish word meaning "twig" or "branch". It is commonly used to refer to the small branches of a tree or shrub. |
 | 19 | [hammarkullen](http://twitter.com/search?q=hammarkullen) | Hammarkullen is a Swedish phrase that translates to "the hammer of justice." It is used to describe a situation in which someone is punished for their wrongdoings. |
 | 20 | [Jomshof](http://twitter.com/search?q=Jomshof) | Jomshof is a Swedish word meaning "peaceful home". It is often used to describe a home that is comfortable and inviting. |
-| 21 | [Evas](http://twitter.com/search?q=Evas) | Evas is a Japanese word that means "picture" or "illustration." It is often used to refer to artwork, such as manga or anime. |
-| 22 | [SD-politiker](http://twitter.com/search?q=SD-politiker) | SD-politiker is a term used in Sweden to refer to politicians from the Sweden Democrats (SD) party. The SD is a right-wing populist and nationalist political party in Sweden. In English, SD-politiker would be translated as "Sweden Democrats politician". |
+| 21 | [evas](http://twitter.com/search?q=evas) | Evas is a software library for the creation of graphical user interfaces. It is part of the Enlightenment Foundation Libraries (EFL) and provides a comprehensive set of graphical elements and features for creating high-quality user interfaces. It is written in C and licensed under the LGPLv2.1. |
+| 22 | [sd-politiker](http://twitter.com/search?q=sd-politiker) | Sd-politiker is a term used in Sweden to refer to members of the Sweden Democrats, a right-wing populist political party. In English, it translates to "Sweden Democrats politician". |
 | 23 | [omark](http://twitter.com/search?q=omark) | Omark is a Japanese term that translates to "honor mark" or "merit mark." It is used to recognize and reward students for their hard work and good behavior. It is typically given in the form of a sticker or stamp on a student's report card or other school documents. |
 | 24 | [vecchia](http://twitter.com/search?q=vecchia) | Vecchia is an Italian word meaning "old" or "ancient". It can be used to describe a person, place, or thing that is old or has been around for a long time. |
 | 25 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
@@ -49,7 +49,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 32 | [maria falk](http://twitter.com/search?q=maria+falk) | Maria Falk is a Swedish phrase meaning "the wise one". It is often used as a term of endearment for someone who is wise and experienced. |
 | 33 | [doxa](http://twitter.com/search?q=doxa) | Doxa is a Greek word meaning "opinion" or "belief". It is often used to refer to the beliefs and opinions held by a particular group or society. In English, it can be used to refer to the accepted beliefs of a particular group or culture. |
 | 34 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 35 | [Sydafrika](http://twitter.com/search?q=Sydafrika) | Sydafrika is the Swedish word for South Africa. It is a country located at the southern tip of the African continent. |
+| 35 | [sydafrika](http://twitter.com/search?q=sydafrika) | Sydafrika is the Swedish word for South Africa. It literally translates to "South Africa" in English. |
 | 36 | [Roligt](http://twitter.com/search?q=Roligt) | Roligt is a Swedish word meaning "fun" or "enjoyable". It is often used to describe activities or experiences that are enjoyable and entertaining. |
 | 37 | [Olsson](http://twitter.com/search?q=Olsson) | Olsson is a Swedish surname derived from the given name Olof. It is the most common surname in Sweden, with approximately 5.5% of the population having the name. The English meaning of Olsson is "son of Olof". |
 | 38 | [centerpartiet](http://twitter.com/search?q=centerpartiet) | Centerpartiet is a Swedish political party that was founded in 1913. Its English translation is the Centre Party, and it is a centrist political party that focuses on social justice, environmental sustainability, and economic growth. The party has been part of several coalition governments since the 1970s. |

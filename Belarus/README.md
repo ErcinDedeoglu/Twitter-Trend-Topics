@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-26 01:58:20 UTC`
+📆 Last Updated: `2023-04-26 02:41:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
 | 2 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | Юнги (pronounced "yoon-gee") is a Russian word that means "young people" or "youth." It is often used to refer to young people who are active in social and political movements. |
-| 3 | [Верю](http://twitter.com/search?q=%d0%92%d0%b5%d1%80%d1%8e) | Верю is a Russian word meaning "I believe" in English. |
+| 3 | [верю](http://twitter.com/search?q=%d0%b2%d0%b5%d1%80%d1%8e) | "Верю" is a Russian word meaning "I believe". |
 | 4 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
 | 5 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | Ахах is an expression of laughter in Russian. It is similar to the English expression "haha" and is used to express amusement or joy. |
 | 6 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | Москве is the dative case of the Russian city name Moscow. In English, it translates to "in Moscow". |

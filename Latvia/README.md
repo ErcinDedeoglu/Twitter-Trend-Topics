@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-04-26 01:59:05 UTC`
+📆 Last Updated: `2023-04-26 02:41:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Latvia
 | 3 | [lizda](http://twitter.com/search?q=lizda) | Lizda is a type of traditional Lithuanian folk music. It is characterized by its fast tempo and lively rhythms, often accompanied by singing and dancing. In English, the term lizda translates to "dance" or "joyful music". |
 | 4 | [#BlueTick](http://twitter.com/search?q=%23BlueTick) | #BlueTick is a feature on Twitter that verifies the authenticity of certain accounts. It is a blue checkmark badge that appears next to the name of a verified account, indicating that the account is authentic and has been verified by Twitter. |
 | 5 | [satversmes](http://twitter.com/search?q=satversmes) | Satversmes is the Constitution of Latvia. It is the fundamental law of the country, and it establishes the framework for the government and its laws. In English, it means "Constitution". |
-| 6 | [Ukrainu](http://twitter.com/search?q=Ukrainu) | Ukrainu is a Ukrainian language word meaning "Ukraine". It is the name of the country located in Eastern Europe. |
+| 6 | [ukrainu](http://twitter.com/search?q=ukrainu) | Ukrainu is a Ukrainian word meaning "Ukraine". It is the name of the country located in Eastern Europe. |
 | 7 | [Telegram](http://twitter.com/search?q=Telegram) | Telegram is an instant messaging app that allows users to send and receive messages, photos, videos, audio files, and other documents. It is similar to other messaging apps such as WhatsApp and Viber. The word "telegram" comes from the Greek words tele (far) and gramma (message). It refers to the sending of messages over long distances. |
 | 8 | [tāpat](http://twitter.com/search?q=t%c4%81pat) | Tāpat is a Sanskrit word that means suffering or distress. In English, it can be translated as "pain" or "anguish". |
 | 9 | [saeima](http://twitter.com/search?q=saeima) | Saeima is the name of the Parliament of Latvia. It is derived from the Latvian word for "meeting place". In English, it can be translated as "Assembly". |
@@ -36,8 +36,8 @@ This is top 50 for Latvia
 | 19 | [krievijai](http://twitter.com/search?q=krievijai) | Krievijai is the Latvian word for Russia. In English, it translates to "Russian". |
 | 20 | [Levita](http://twitter.com/search?q=Levita) | Levita is a Spanish name derived from the Latin word "levitas" meaning "lightness". It is often used as a given name for girls and can also be used as a surname. The name is associated with grace, agility, and lightness of spirit. |
 | 21 | [Estonia](http://twitter.com/search?q=Estonia) | Estonia is a country in Northern Europe, located on the eastern coast of the Baltic Sea. It is bordered by Finland to the north, Latvia to the south, and Russia to the east. Estonia has a population of 1.3 million people and its capital city is Tallinn. The official language is Estonian, which belongs to the Finno-Ugric language family. |
-| 22 | [PSRS](http://twitter.com/search?q=PSRS) | PSRS stands for Personnel Security Risk System. It is a system used by organizations to assess the security risk of personnel, including employees, contractors, and visitors. The system is designed to identify potential security risks and provide guidance on how to mitigate them. |
-| 23 | [Viņam](http://twitter.com/search?q=Vi%c5%86am) | Viņam is a pronoun in Latvian that means "him" or "to him" in English. |
+| 22 | [psrs](http://twitter.com/search?q=psrs) | PSRS stands for "Public Sector Retirement System," which is a type of retirement plan offered to public sector employees in the United States. It is designed to provide retirement benefits to those who work in the public sector, such as government employees, teachers, and other civil servants. |
+| 23 | [viņam](http://twitter.com/search?q=vi%c5%86am) | Viņam is a pronoun in Latvian that means "him" or "to him" in English. |
 | 24 | [putinu](http://twitter.com/search?q=putinu) | Putinu is a traditional Fijian dish made from taro leaves, coconut cream, and spices. It is usually served with boiled cassava or yams. The literal translation of putinu in English is "cooked taro leaves". |
 | 25 | [francijā](http://twitter.com/search?q=francij%c4%81) | Francijā is a Latvian word meaning "in France". |
 | 26 | [dievs](http://twitter.com/search?q=dievs) | Dievs is the Latvian word for God. |

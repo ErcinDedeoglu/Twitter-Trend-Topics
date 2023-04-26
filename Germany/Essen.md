@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-04-26 01:49:02 UTC`
+📆 Last Updated: `2023-04-26 02:34:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [Precht](http://twitter.com/search?q=Precht) | Precht is a German surname derived from the Middle High German word preht, meaning "priest". In English, it can be translated to mean "priest". |
 | 2 | [#JKvsP7](http://twitter.com/search?q=%23JKvsP7) | #JKvsP7 is a hashtag used to refer to a rivalry between two professional football teams, Juventus and Paris Saint-Germain. The hashtag is used to highlight the competition between the two teams, particularly when they face each other in matches. |
 | 3 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | Rettungsgasse is a German word that translates to "emergency lane" in English. It refers to a lane that is left open on the highway for emergency vehicles to pass through. |
-| 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | #Lanz is a hashtag used on social media to show support for the singer-songwriter, Lanz. It is often used to promote his music and share updates about his career. The English translation of #Lanz is "Lanz Support". |
-| 5 | [#Viessmann](http://twitter.com/search?q=%23Viessmann) | Viessmann is a German company that manufactures heating, industrial, and refrigeration systems. The company was founded in 1917 and is now one of the leading international manufacturers of heating, industrial, and refrigeration systems. The name Viessmann is derived from the German word "Viess", meaning "furnace". |
+| 4 | [#Viessmann](http://twitter.com/search?q=%23Viessmann) | Viessmann is a German company that manufactures heating, industrial, and refrigeration systems. The company was founded in 1917 and is now one of the leading international manufacturers of heating, industrial, and refrigeration systems. The name Viessmann is derived from the German word "Viess", meaning "furnace". |
+| 5 | [#Lanz](http://twitter.com/search?q=%23Lanz) | #Lanz is a hashtag used on social media to show support for the singer-songwriter, Lanz. It is often used to promote his music and share updates about his career. The English translation of #Lanz is "Lanz Support". |
 | 6 | [Harry Belafonte](http://twitter.com/search?q=Harry+Belafonte) | Harry Belafonte is an American singer, songwriter, actor, and social activist. He is best known for his calypso-style music, which he popularized in the 1950s and 1960s. He has been an advocate for civil rights and other social justice causes throughout his career. |
 | 7 | [#STIKO](http://twitter.com/search?q=%23STIKO) | #STIKO is an acronym for the German phrase “Ständige Impfkommission”, which translates to “Permanent Vaccination Commission”. It is a commission of experts that advises the German government on vaccination policies. |
 | 8 | [Dürr](http://twitter.com/search?q=D%c3%bcrr) | Dürr is a German word meaning "dry" or "bare". It can be used to describe a situation that is lacking in something, such as a dry landscape or an empty room. |
@@ -51,7 +51,7 @@ This is top 50 for [Germany](</Germany>)
 | 34 | [Tchibo](http://twitter.com/search?q=Tchibo) | Tchibo is a German retail chain that specializes in coffee, tea, and other household items. The name Tchibo is derived from the German words “Tee” (tea) and “Kaffee” (coffee). In English, the name translates to “Tea & Coffee”. |
 | 35 | [DeSantis](http://twitter.com/search?q=DeSantis) | DeSantis is a surname of Italian origin. It is derived from the Latin word "desanctis", which means "of the saints". In English, it can be translated to mean "belonging to the saints". |
 | 36 | [Wahlfreiheit](http://twitter.com/search?q=Wahlfreiheit) | Wahlfreiheit is a German word that translates to "freedom of choice" in English. It refers to the right of individuals to make their own decisions and choose their own paths in life without interference from others. |
-| 37 | [Mehrgewichtige](http://twitter.com/search?q=Mehrgewichtige) | Mehrgewichtige is a German word that translates to "overweight" in English. It is used to describe someone who is overweight or obese. |
+| 37 | [mehrgewichtige](http://twitter.com/search?q=mehrgewichtige) | Mehrgewichtige is a German word that translates to "overweight" in English. It is used to describe someone who is overweight or obese. |
 | 38 | [Fortuna Düsseldorf](http://twitter.com/search?q=Fortuna+D%c3%bcsseldorf) | Fortuna Düsseldorf is a German football club based in Düsseldorf, North Rhine-Westphalia. The club plays in the Bundesliga, the top tier of German football. The name Fortuna is derived from the Roman goddess of fortune and luck. In English, Fortuna Düsseldorf translates to "Fortune of Düsseldorf". |
 | 39 | [Flammkuchen](http://twitter.com/search?q=Flammkuchen) | Flammkuchen is a German dish that is similar to a pizza. It is made with a thin, yeast-leavened dough that is spread with crème fraîche or sour cream, topped with onions and bacon, and then baked in a hot oven. The literal translation of Flammkuchen in English is "flame cake". |
 | 40 | [Harris](http://twitter.com/search?q=Harris) | Harris is a surname of English and Scottish origin. It is derived from the personal name Harry, which is a diminutive form of Henry. The name Harris means "son of Harry". |
@@ -63,7 +63,7 @@ This is top 50 for [Germany](</Germany>)
 | 46 | [Kobel](http://twitter.com/search?q=Kobel) | Kobel is a German word meaning "bucket". It is often used to refer to a bucket-shaped container used for carrying water or other liquids. |
 | 47 | [Ernst Huberty](http://twitter.com/search?q=Ernst+Huberty) | Ernst Huberty is a German surname. It is derived from the German words "Huber" (meaning "farmer") and "Tey" (meaning "estate"). The name can be translated to mean "farmer of the estate". |
 | 48 | [Englisch](http://twitter.com/search?q=Englisch) | Englisch is the German word for English, the language spoken in England, the United States, Canada, Australia, New Zealand, and many other countries. |
-| 49 | [Graf Yoster](http://twitter.com/search?q=Graf+Yoster) | Graf Yoster is a German television series that aired from 1979 to 1981. It follows the adventures of a fictional aristocrat, Graf Yoster, and his valet, Bully, as they travel around Europe solving mysteries. The title translates to "Count Yoster" in English. |
+| 49 | [graf yoster](http://twitter.com/search?q=graf+yoster) | Graf Yoster is a German phrase that translates to "Count Yoster" in English. It is the title of a novel by German author Ludwig Thoma, which was first published in 1912. The novel follows the adventures of Count Yoster, a wealthy aristocrat who travels around Europe and gets involved in various romantic and comedic escapades. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-26 01:59:24 UTC`
+📆 Last Updated: `2023-04-26 02:42:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -38,8 +38,8 @@ This is top 50 for Qatar
 | 21 | [برشلونه](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87) | برشلونه (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
 | 22 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
 | 23 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | بريطانيا (pronounced "bree-TAN-ee-ah") is the Arabic word for the United Kingdom. In English, it is commonly referred to as Britain or Great Britain. |
-| 24 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 25 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | اردوغان (Erdoğan) is the surname of the current President of Turkey, Recep Tayyip Erdoğan. In English, it means "son of a brave man". |
+| 24 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | اردوغان (Erdoğan) is the surname of the current President of Turkey, Recep Tayyip Erdoğan. In English, it means "son of a brave man". |
+| 25 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
 | 26 | [لبنان](http://twitter.com/search?q=%d9%84%d8%a8%d9%86%d8%a7%d9%86) | لبنان (Lebanon) is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its capital and largest city is Beirut. The name Lebanon comes from the Semitic root lbn, meaning "white," likely a reference to the snow-capped Mount Lebanon. |
 | 27 | [Kerala](http://twitter.com/search?q=Kerala) | Kerala is a state in India located on the Malabar Coast of the southwestern part of the country. The name Kerala is derived from the Malayalam words “kera” (coconut tree) and “alam” (land), meaning “land of coconuts.” It is known for its tropical climate, its backwaters, and its beaches. |
 | 28 | [علي الاطلاق](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a7%d8%b7%d9%84%d8%a7%d9%82) | علي الاطلاق is an Arabic phrase that translates to "without any restrictions" or "unconditionally" in English. It is used to express a willingness to do something without any limitations or conditions. |
@@ -58,8 +58,8 @@ This is top 50 for Qatar
 | 41 | [نادي القرن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86) | نادي القرن is a Saudi Arabian football club based in Riyadh. The name translates to "Century Club" in English. |
 | 42 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | النيل is the Arabic word for the Nile River, one of the longest rivers in the world. In English, it is simply referred to as the Nile. |
 | 43 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | البرازيل (al-Barazil) is the Arabic name for Brazil. It translates to "the Brazils" in English. |
-| 44 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | الفردوس الاعلي is an Arabic phrase meaning "the highest paradise". It is a reference to the Islamic concept of Jannah, or paradise, which is believed to be the ultimate reward for those who have lived a righteous life. |
-| 45 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 44 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 45 | [البشير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b4%d9%8a%d8%b1) | البشير (al-Bashir) is an Arabic name meaning "the one who brings good news". It is often used as a given name for boys. |
 | 46 | [Modi](http://twitter.com/search?q=Modi) | Modi is a surname of Indian origin. It is derived from the Sanskrit word "modaka", which means "sweet". In English, Modi can be translated to mean "sweet". |
 | 47 | [Africa](http://twitter.com/search?q=Africa) | Africa is the second-largest continent in the world, located south of Europe and bordered by the Mediterranean Sea to the north, the Red Sea to the northeast, and the Indian Ocean to the southeast. It is home to 54 countries and over 1.2 billion people. The name Africa comes from the Latin word "Afer," which means "land of the Afri," an ancient tribe that lived in North Africa. |
 | 48 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |

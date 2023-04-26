@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-26 01:49:54 UTC`
+📆 Last Updated: `2023-04-26 02:35:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for [Norway](</Norway>)
 | 13 | [helseplattformen](http://twitter.com/search?q=helseplattformen) | Helseplattformen is a Norwegian health platform that provides access to health services and information. It is a digital platform that allows users to access healthcare services, such as booking appointments, ordering prescriptions, and viewing medical records. The name translates to "Health Platform" in English. |
 | 14 | [Levy](http://twitter.com/search?q=Levy) | Levy is a noun that refers to a tax or fee imposed by a government or other authority. It can also refer to the act of collecting such a tax or fee. |
 | 15 | [åråsen](http://twitter.com/search?q=%c3%a5r%c3%a5sen) | Åråsen is a mountain in Norway. It is located in the municipality of Trondheim, and is the highest point in the region at an elevation of 586 meters (1,923 feet). In English, Åråsen means "year hill". |
-| 16 | [nnpf](http://twitter.com/search?q=nnpf) | NNPF stands for the National Network of Public Finance Professionals. It is an organization that provides professional development and networking opportunities for public finance professionals. The organization works to promote best practices in public finance and to provide a forum for members to share their knowledge and experience. |
+| 16 | [NNPF](http://twitter.com/search?q=NNPF) | NNPF stands for the National Nonprofit and Philanthropy Forum, which is an annual event held in the United States that brings together leaders from the nonprofit and philanthropic sectors to discuss best practices, share ideas, and network. |
 | 17 | [eikrem](http://twitter.com/search?q=eikrem) | Eikrem is a Norwegian dessert made from wheat flour, butter, sugar, and milk. It is usually served with a topping of jam or cream. The name comes from the Old Norse words for "wheat" and "cream". In English, eikrem translates to "wheat cream". |
 | 18 | [Snapchat](http://twitter.com/search?q=Snapchat) | Snapchat is a multimedia messaging app used for sharing photos, videos, text messages, and drawings. It is known for its features that allow users to add captions, drawings, and filters to their photos and videos before sending them to friends. The name Snapchat comes from the idea of "snapping" a photo or video and sending it quickly. |
 | 19 | [innlandet](http://twitter.com/search?q=innlandet) | Innlandet is a county in Norway. It is the largest county in Norway by area, and it is located in the south-central part of the country. In English, Innlandet translates to "the inland" or "the interior." |
