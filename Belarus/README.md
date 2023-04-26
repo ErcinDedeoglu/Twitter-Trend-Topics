@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-26 03:30:31 UTC`
+📆 Last Updated: `2023-04-26 04:28:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,11 +19,11 @@ This is top 50 for Belarus
 | 2 | [Юнги](http://twitter.com/search?q=%d0%ae%d0%bd%d0%b3%d0%b8) | Юнги (pronounced "yoon-gee") is a Russian word that means "young people" or "youth." It is often used to refer to young people who are active in social and political movements. |
 | 3 | [верю](http://twitter.com/search?q=%d0%b2%d0%b5%d1%80%d1%8e) | "Верю" is a Russian word meaning "I believe". |
 | 4 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | Люблю is a Russian word meaning "I love" in English. |
-| 5 | [ахах](http://twitter.com/search?q=%d0%b0%d1%85%d0%b0%d1%85) | "Ахах" is a Russian expression of laughter, similar to "haha" in English. It is used to express amusement or joy. |
+| 5 | [АХАХ](http://twitter.com/search?q=%d0%90%d0%a5%d0%90%d0%a5) | АХАХ is an expression of laughter in Russian, similar to "haha" or "lol" in English. It is often used to express amusement or joy. |
 | 6 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | Москве is the dative case of the Russian city name Moscow. In English, it translates to "in Moscow". |
-| 7 | [Звучит](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82) | Звучит is a Russian expression that means "sounds like" or "it sounds". It is used to express agreement or understanding of something that has been said. |
+| 7 | [звучит](http://twitter.com/search?q=%d0%b7%d0%b2%d1%83%d1%87%d0%b8%d1%82) | Звучит is a Russian verb that means "sounds" or "sounds like". It is used to describe the sound of something, usually music or a voice. For example, Эта песня звучит хорошо. (This song sounds good.) |
 | 8 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | Европе is a Russian word that translates to Europe in English. It is the Russian word for the continent of Europe. |
-| 9 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | Оооо is an expression of surprise or shock in Russian. It is similar to "Oh!" or "Wow!" in English. |
+| 9 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | "Оооо" is an expression of surprise or amazement in Russian. In English, it could be translated as "Oh!" or "Wow!" |
 | 10 | [Круто](http://twitter.com/search?q=%d0%9a%d1%80%d1%83%d1%82%d0%be) | Круто is a Russian slang word that means "cool" or "awesome". It is often used to express approval or admiration. |
 | 11 | [НАТО](http://twitter.com/search?q=%d0%9d%d0%90%d0%a2%d0%9e) | НАТО is an acronym for the North Atlantic Treaty Organization, an intergovernmental military alliance between 30 North American and European countries. Its purpose is to protect the freedom and security of its member states through political and military means. In English, it is commonly referred to as NATO. |
 | 12 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | Красиво is a Russian word meaning "beautiful" or "attractive" in English. |

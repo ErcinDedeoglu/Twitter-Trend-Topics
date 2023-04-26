@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-04-26 03:23:56 UTC`
+📆 Last Updated: `2023-04-26 04:21:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Waddup](http://twitter.com/search?q=Waddup) | "Waddup" is a slang term used as a greeting, similar to "What's up?" It is an informal way of asking someone how they are doing. |
-| 2 | [#polowanienatuska](http://twitter.com/search?q=%23polowanienatuska) | #Polowanienatuska is a hashtag used on social media to promote the Polish folk dance called Polowanie na Tuskę. The literal translation of the phrase is "the hunt for the tusk" and it refers to a traditional Polish dance in which participants form a circle and one person, usually dressed as an animal, runs around the circle while the other dancers try to catch them. |
-| 3 | [Peep](http://twitter.com/search?q=Peep) | Peep is an informal term that means to take a quick look at something. It can also refer to the sound made by a small animal, such as a bird or a mouse. |
+| 2 | [Peep](http://twitter.com/search?q=Peep) | Peep is an informal term that means to take a quick look at something. It can also refer to the sound made by a small animal, such as a bird or a mouse. |
+| 3 | [#PolowanieNaTuska](http://twitter.com/search?q=%23PolowanieNaTuska) | #PolowanieNaTuska is a hashtag used in Poland to refer to the political scandal involving former Prime Minister Donald Tusk. It translates to "the hunt for Tusk" in English. |
 | 4 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | #wtylewizji is a Polish hashtag that translates to "style wizard" in English. It is used to refer to someone who has an eye for fashion and style. |
-| 5 | [Falenty](http://twitter.com/search?q=Falenty) | Falenty is a Polish word meaning "happiness" or "joy". It is often used to express a feeling of contentment or satisfaction. |
+| 5 | [falenta](http://twitter.com/search?q=falenta) | Falenta is a Spanish word that means "to be happy or content." It is often used to express joy or satisfaction. |
 | 6 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | Hołownia is a Polish surname. It is derived from the word "hołota," which means "lowland." In English, it can be translated to mean "of the lowlands." |
 | 7 | [#eec2023](http://twitter.com/search?q=%23eec2023) | #eec2023 is a hexadecimal color code. It is a shade of pink and its meaning in English is "Electric Pink". |
 | 8 | [girony](http://twitter.com/search?q=girony) | Girony is a French word that means "silliness" or "foolishness". It is often used to describe someone who is acting in a silly or foolish manner. |
@@ -41,28 +41,28 @@ This is top 50 for [Poland](</Poland>)
 | 24 | [Greenpeace](http://twitter.com/search?q=Greenpeace) | Greenpeace is an international non-governmental environmental organization that works to protect the environment and promote peace. Its mission is to "ensure the ability of the Earth to nurture life in all its diversity" and to "put an end to environmental degradation." Greenpeace works through research, lobbying, and direct action. |
 | 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 26 | [Panie Tomaszu](http://twitter.com/search?q=Panie+Tomaszu) | "Panie Tomaszu" is a Polish phrase that translates to "Mr. Tomasz" in English. It is a polite way of addressing someone by their first name. |
-| 27 | [Nitras](http://twitter.com/search?q=Nitras) | Nitras is a Latin word meaning "to deny" or "to refuse". It is often used in legal contexts to refer to the act of denying or refusing something. |
-| 28 | [Nominate 6](http://twitter.com/search?q=Nominate+6) | Nominate 6 is a game where players take turns nominating six people or things in a particular category. The goal of the game is to come up with the most interesting or creative nominations. For example, one player might nominate six different types of animals, while another might nominate six famous musicians. The game can be played with any number of players and can be adapted to any topic. |
+| 27 | [nitras](http://twitter.com/search?q=nitras) | Nitras is a slang term used to describe someone who is acting in a foolish or reckless manner. It can also be used to describe someone who is being overly dramatic or making a scene. In English, it could be translated as "foolish" or "reckless". |
+| 28 | [nominate 6](http://twitter.com/search?q=nominate+6) | Nominate 6 is a game in which players take turns nominating six people or things for a particular category. For example, one player might nominate six people they admire, while another might nominate six of their favorite books. The goal of the game is to come up with the most interesting or creative nominations. |
 | 29 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
 | 30 | [Zagłada](http://twitter.com/search?q=Zag%c5%82ada) | Zagłada is a Polish word meaning "extermination" or "annihilation". It is most commonly used to refer to the Holocaust, when millions of Jews were systematically murdered by the Nazis during World War II. |
-| 31 | [ozdoba](http://twitter.com/search?q=ozdoba) | Ozdoba is a Polish word meaning "decoration" or "ornament". It is used to refer to something that adds beauty or visual interest to a space. |
-| 32 | [zwoliński](http://twitter.com/search?q=zwoli%c5%84ski) | Zwoliński is a Polish surname. It is derived from the name of the town of Zwoleń, located in central Poland. The English translation of the name is "from Zwoleń". |
-| 33 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | Tarczyński is a Polish surname. It is derived from the word tarcza, which means shield in English. |
-| 34 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | Żydów is a Polish word meaning "Jews". |
-| 35 | [Kuciak](http://twitter.com/search?q=Kuciak) | Kuciak is a surname of Slovak origin. It is derived from the word "kučiar", which means "wagoner" or "cart driver". In English, the name Kuciak can be translated to mean "wagoner" or "cart driver". |
-| 36 | [anna morawiecka](http://twitter.com/search?q=anna+morawiecka) | Anna Morawiecka is a Polish female given name. It is derived from the Latin name Anna Maria, which means "grace" and "bitter". In English, the name Anna Morawiecka can be translated to mean "graceful and bitter". |
-| 37 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 38 | [gironie](http://twitter.com/search?q=gironie) | Gironie is a French term that refers to a type of irony in which someone expresses an opinion or sentiment that is the opposite of what they actually mean. It is often used to make a joke or to mock someone. In English, it can be translated as "sarcasm" or "dry humor". |
-| 39 | [Al Pacino](http://twitter.com/search?q=Al+Pacino) | Al Pacino is an American actor and filmmaker. He is best known for his roles in films such as The Godfather, Scarface, and Scent of a Woman. He has won numerous awards, including an Academy Award, two Primetime Emmy Awards, and four Golden Globe Awards. The phrase "Al Pacino" is often used to refer to someone who is intense or passionate in their performance. |
-| 40 | [zapach](http://twitter.com/search?q=zapach) | Zapach is a Polish word meaning "smell" or "scent". |
-| 41 | [pana tuska](http://twitter.com/search?q=pana+tuska) | Pana Tuska is a Finnish phrase that translates to "for your sake" or "for your benefit". It is often used as a way of expressing sympathy or concern for someone else. |
-| 42 | [wanio](http://twitter.com/search?q=wanio) | Wanio is a Japanese word that means "to understand" or "to comprehend". It is often used to express understanding of a situation or concept. |
-| 43 | [Szymuś](http://twitter.com/search?q=Szymu%c5%9b) | Szymuś is a Polish diminutive form of the name Szymon, which is the Polish version of Simon. In English, Szymuś would be translated as "little Simon". |
-| 44 | [stalowej woli](http://twitter.com/search?q=stalowej+woli) | Stalowej woli is a Polish phrase that translates to "iron will" in English. It is used to describe someone who has a strong determination and an unyielding spirit. |
-| 45 | [Trzebnicy](http://twitter.com/search?q=Trzebnicy) | Trzebnicy is a town in Lower Silesian Voivodeship, Poland. The name Trzebnicy is derived from the Old Polish word trzeba, meaning "need". In English, it can be translated as "the place of need". |
-| 46 | [w ringu](http://twitter.com/search?q=w+ringu) | W ringu is a Japanese phrase that translates to "double ring" in English. It is used to refer to a type of engagement ring that features two rings, one for the bride and one for the groom, that are connected together. |
-| 47 | [ułan bator](http://twitter.com/search?q=u%c5%82an+bator) | Ułan Bator is the capital city of Mongolia. The name translates to "The Warrior Hero" in English. |
-| 48 | [Ronnie](http://twitter.com/search?q=Ronnie) | Ronnie is a nickname for the name Veronica, which is derived from the Latin word vera, meaning "true". |
+| 31 | [polski 2050](http://twitter.com/search?q=polski+2050) | Polski 2050 is a long-term strategy for the development of Poland. It was developed by the Polish government in 2020 and aims to make Poland a modern, competitive, and sustainable economy by 2050. The strategy focuses on five main areas: economic growth, innovation, digital transformation, green economy, and social inclusion. The goal is to create an economy that is more resilient to global challenges and can provide high-quality jobs for all citizens. |
+| 32 | [ozdoba](http://twitter.com/search?q=ozdoba) | Ozdoba is a Polish word meaning "decoration" or "ornament". It is used to refer to something that adds beauty or visual interest to a space. |
+| 33 | [zwoliński](http://twitter.com/search?q=zwoli%c5%84ski) | Zwoliński is a Polish surname. It is derived from the name of the town of Zwoleń, located in central Poland. The English translation of the name is "from Zwoleń". |
+| 34 | [Tarczyński](http://twitter.com/search?q=Tarczy%c5%84ski) | Tarczyński is a Polish surname. It is derived from the word tarcza, which means shield in English. |
+| 35 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | Żydów is a Polish word meaning "Jews". |
+| 36 | [kuciak](http://twitter.com/search?q=kuciak) | Kuciak is a Czech surname derived from the word for "baker". It is also used as a given name in some Slavic countries. In English, it can be translated to mean "baker". |
+| 37 | [anna morawiecka](http://twitter.com/search?q=anna+morawiecka) | Anna Morawiecka is a Polish female given name. It is derived from the Latin name Anna Maria, which means "grace" and "bitter". In English, the name Anna Morawiecka can be translated to mean "graceful and bitter". |
+| 38 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 39 | [gironie](http://twitter.com/search?q=gironie) | Gironie is a French term that refers to a type of irony in which someone expresses an opinion or sentiment that is the opposite of what they actually mean. It is often used to make a joke or to mock someone. In English, it can be translated as "sarcasm" or "dry humor". |
+| 40 | [Al Pacino](http://twitter.com/search?q=Al+Pacino) | Al Pacino is an American actor and filmmaker. He is best known for his roles in films such as The Godfather, Scarface, and Scent of a Woman. He has won numerous awards, including an Academy Award, two Primetime Emmy Awards, and four Golden Globe Awards. The phrase "Al Pacino" is often used to refer to someone who is intense or passionate in their performance. |
+| 41 | [zapach](http://twitter.com/search?q=zapach) | Zapach is a Polish word meaning "smell" or "scent". |
+| 42 | [pana tuska](http://twitter.com/search?q=pana+tuska) | Pana Tuska is a Finnish phrase that translates to "for your sake" or "for your benefit". It is often used as a way of expressing sympathy or concern for someone else. |
+| 43 | [wanio](http://twitter.com/search?q=wanio) | Wanio is a Japanese word that means "to understand" or "to comprehend". It is often used to express understanding of a situation or concept. |
+| 44 | [Szymuś](http://twitter.com/search?q=Szymu%c5%9b) | Szymuś is a Polish diminutive form of the name Szymon, which is the Polish version of Simon. In English, Szymuś would be translated as "little Simon". |
+| 45 | [stalowej woli](http://twitter.com/search?q=stalowej+woli) | Stalowej woli is a Polish phrase that translates to "iron will" in English. It is used to describe someone who has a strong determination and an unyielding spirit. |
+| 46 | [Trzebnicy](http://twitter.com/search?q=Trzebnicy) | Trzebnicy is a town in Lower Silesian Voivodeship, Poland. The name Trzebnicy is derived from the Old Polish word trzeba, meaning "need". In English, it can be translated as "the place of need". |
+| 47 | [w ringu](http://twitter.com/search?q=w+ringu) | W ringu is a Japanese phrase that translates to "double ring" in English. It is used to refer to a type of engagement ring that features two rings, one for the bride and one for the groom, that are connected together. |
+| 48 | [ułan bator](http://twitter.com/search?q=u%c5%82an+bator) | Ułan Bator is the capital city of Mongolia. The name translates to "The Warrior Hero" in English. |
 
 
 

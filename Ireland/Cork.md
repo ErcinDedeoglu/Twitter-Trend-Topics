@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-04-26 03:24:03 UTC`
+📆 Last Updated: `2023-04-26 04:21:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -60,7 +60,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 43 | [Rodrigo](http://twitter.com/search?q=Rodrigo) | Rodrigo is a Spanish and Portuguese name derived from the Germanic name Roderick, which means "famous power". It is also a common surname in Spanish-speaking countries. |
 | 44 | [john hussey](http://twitter.com/search?q=john+hussey) | John Hussey is a name, and it does not have a specific meaning in English. It is likely derived from the Old French personal name "Hussé", which was derived from the Germanic personal name "Hugh". |
 | 45 | [Willy](http://twitter.com/search?q=Willy) | Willy is a slang term for penis. It is often used as a humorous or childish way of referring to the male genitalia. |
-| 46 | [Aontú](http://twitter.com/search?q=Aont%c3%ba) | Aontú is a Gaelic phrase meaning "I am". It is used to express unity and solidarity with others. |
+| 46 | [aontú](http://twitter.com/search?q=aont%c3%ba) | Aontú is an Irish phrase meaning "unite" or "unify". It is often used as a rallying cry for unity and solidarity among the Irish people. |
 | 47 | [Defo](http://twitter.com/search?q=Defo) | Defo is an abbreviation of the word "definitely". It is used to express certainty or agreement. |
 | 48 | [stephen donnelly](http://twitter.com/search?q=stephen+donnelly) | Stephen Donnelly is a politician in Ireland. He is the current Minister for Health in the Irish government and a member of the Dáil Éireann (Irish Parliament). The name Stephen Donnelly is derived from the Irish language, meaning "one who is strong and wise". |
 | 49 | [Watkins](http://twitter.com/search?q=Watkins) | Watkins is a surname of English origin. It is derived from the Old English personal name Watkin, which is a diminutive form of Walter. The name means "son of Walter". |
