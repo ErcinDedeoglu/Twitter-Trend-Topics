@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Qatar
 
-📆 Last Updated: `2023-04-26 02:42:00 UTC`
+📆 Last Updated: `2023-04-26 03:31:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,18 +53,18 @@ This is top 50 for Qatar
 | 36 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
 | 37 | [الاشخاص الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b4%d8%ae%d8%a7%d8%b5+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | الاشخاص الذين is a phrase in Arabic that translates to "the people who". |
 | 38 | [المباراه النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | المباراه النهاييه is an Arabic phrase meaning "the final match" or "the championship game". It is typically used to refer to the last game of a tournament or championship series. |
-| 39 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | "علي بالي" is an Arabic phrase that translates to "on me". It is used to express responsibility or willingness to take on a task. |
-| 40 | [الخرطوم](http://twitter.com/search?q=%d8%a7%d9%84%d8%ae%d8%b1%d8%b7%d9%88%d9%85) | الخرطوم is the capital city of Sudan. In English, it is translated as Khartoum. |
-| 41 | [نادي القرن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86) | نادي القرن is a Saudi Arabian football club based in Riyadh. The name translates to "Century Club" in English. |
-| 42 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | النيل is the Arabic word for the Nile River, one of the longest rivers in the world. In English, it is simply referred to as the Nile. |
-| 43 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | البرازيل (al-Barazil) is the Arabic name for Brazil. It translates to "the Brazils" in English. |
-| 44 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 45 | [البشير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b4%d9%8a%d8%b1) | البشير (al-Bashir) is an Arabic name meaning "the one who brings good news". It is often used as a given name for boys. |
-| 46 | [Modi](http://twitter.com/search?q=Modi) | Modi is a surname of Indian origin. It is derived from the Sanskrit word "modaka", which means "sweet". In English, Modi can be translated to mean "sweet". |
-| 47 | [Africa](http://twitter.com/search?q=Africa) | Africa is the second-largest continent in the world, located south of Europe and bordered by the Mediterranean Sea to the north, the Red Sea to the northeast, and the Indian Ocean to the southeast. It is home to 54 countries and over 1.2 billion people. The name Africa comes from the Latin word "Afer," which means "land of the Afri," an ancient tribe that lived in North Africa. |
-| 48 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 49 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 50 | [امريكا](http://twitter.com/search?q=%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d8%a7) | امريكا (pronounced "amreeka") is the Arabic word for America. It is used to refer to the United States of America. |
+| 39 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
+| 40 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | "علي السلامه" is an Arabic phrase that translates to "Peace be upon you". It is a common greeting used in the Middle East and North Africa. |
+| 41 | [علي بالي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d8%a7%d9%84%d9%8a) | "علي بالي" is an Arabic phrase that translates to "on me". It is used to express responsibility or willingness to take on a task. |
+| 42 | [نادي القرن](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%82%d8%b1%d9%86) | نادي القرن is a Saudi Arabian football club based in Riyadh. The name translates to "Century Club" in English. |
+| 43 | [النيل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d9%84) | النيل is the Arabic word for the Nile River, one of the longest rivers in the world. In English, it is simply referred to as the Nile. |
+| 44 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | البرازيل (al-Barazil) is the Arabic name for Brazil. It translates to "the Brazils" in English. |
+| 45 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 46 | [البشير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b4%d9%8a%d8%b1) | البشير (al-Bashir) is an Arabic name meaning "the one who brings good news". It is often used as a given name for boys. |
+| 47 | [Modi](http://twitter.com/search?q=Modi) | Modi is a surname of Indian origin. It is derived from the Sanskrit word "modaka", which means "sweet". In English, Modi can be translated to mean "sweet". |
+| 48 | [Africa](http://twitter.com/search?q=Africa) | Africa is the second-largest continent in the world, located south of Europe and bordered by the Mediterranean Sea to the north, the Red Sea to the northeast, and the Indian Ocean to the southeast. It is home to 54 countries and over 1.2 billion people. The name Africa comes from the Latin word "Afer," which means "land of the Afri," an ancient tribe that lived in North Africa. |
+| 49 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 50 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 
 
 

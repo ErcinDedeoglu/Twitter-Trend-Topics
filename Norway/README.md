@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-04-26 02:41:49 UTC`
+📆 Last Updated: `2023-04-26 03:31:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,9 +42,9 @@ This is top 50 for Norway
 | 25 | [Ukraina](http://twitter.com/search?q=Ukraina) | Ukraina is the Ukrainian name for Ukraine, a country located in Eastern Europe. The English translation of Ukraina is Ukraine. |
 | 26 | [Isak](http://twitter.com/search?q=Isak) | Isak is a Scandinavian name derived from the Hebrew name Isaac, which means "he will laugh". |
 | 27 | [Interessant](http://twitter.com/search?q=Interessant) | Interessant is a German word that means "interesting" in English. It is used to describe something that is intriguing or captivating. |
-| 28 | [Jens Stoltenberg](http://twitter.com/search?q=Jens+Stoltenberg) | Jens Stoltenberg is the current Secretary General of NATO (North Atlantic Treaty Organization). He is a Norwegian politician who has served as Prime Minister of Norway from 2000 to 2001 and again from 2005 to 2013. His name in English means "John of the Stone Mountain". |
+| 28 | [jens stoltenberg](http://twitter.com/search?q=jens+stoltenberg) | Jens Stoltenberg is the current Secretary General of NATO, the North Atlantic Treaty Organization. He is a Norwegian politician who has served as Prime Minister of Norway from 2000 to 2001 and again from 2005 to 2013. He was appointed Secretary General of NATO in 2014. |
 | 29 | [LGBT](http://twitter.com/search?q=LGBT) | LGBT stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
-| 30 | [Rødt](http://twitter.com/search?q=R%c3%b8dt) | Rødt is a Norwegian political party that stands for socialism, democracy, and environmentalism. In English, it translates to "Red". |
+| 30 | [rødt](http://twitter.com/search?q=r%c3%b8dt) | Rødt is a Norwegian word meaning "red". |
 | 31 | [Europe](http://twitter.com/search?q=Europe) | Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, and the Mediterranean Sea to the south. It comprises the westernmost part of Eurasia and is bordered by Asia to the east. Europe is home to 50 countries and numerous languages, cultures, and religions. |
 | 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 33 | [Germans](http://twitter.com/search?q=Germans) | Germans is a term used to refer to people from Germany, or of German descent. It is also used to refer to the German language and culture. |

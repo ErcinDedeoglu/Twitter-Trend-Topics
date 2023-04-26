@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-04-26 02:35:11 UTC`
+📆 Last Updated: `2023-04-26 03:25:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -53,7 +53,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 36 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | Labrīt is a Latvian word meaning "goodbye". |
 | 37 | [noteikti](http://twitter.com/search?q=noteikti) | Noteikti is a Latvian word that means "to determine" or "to decide". It is used to express the idea of making a decision or ruling on something. |
 | 38 | [apsveicu](http://twitter.com/search?q=apsveicu) | "Apsveicu" is a Latvian word meaning "Congratulations!" |
-| 39 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | Kurš is a Latvian word meaning "birch tree". It is also used as a surname in Latvia. |
+| 39 | [kurš](http://twitter.com/search?q=kur%c5%a1) | Kurš is a Latvian word meaning "who". |
 | 40 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 41 | [USSR](http://twitter.com/search?q=USSR) | USSR stands for the Union of Soviet Socialist Republics, which was a communist state that existed from 1922 to 1991. It was a single-party state governed by the Communist Party of the Soviet Union and comprised 15 constituent republics. The USSR was the largest country in the world at the time, covering over one-sixth of the Earth's land area. |
 | 42 | [Riga](http://twitter.com/search?q=Riga) | Riga is the capital and largest city of Latvia. It is located on the Baltic Sea, at the mouth of the Daugava River. The name Riga is derived from the ancient Livonian word Rīgâ, meaning "river mouth". |
@@ -62,7 +62,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 45 | [pirmkārt](http://twitter.com/search?q=pirmk%c4%81rt) | Pirmkārt is a Latvian word meaning "first of all" or "firstly". It is used to introduce the first point in a list of points or ideas. |
 | 46 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | Brīvības is a Latvian word meaning "freedom". |
 | 47 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | Muļķības is a Latvian word that translates to "foolishness" or "stupidity" in English. It is used to describe an action or behavior that is foolish or stupid. |
-| 48 | [Atkal](http://twitter.com/search?q=Atkal) | Atkal is a Latvian word meaning "again". |
+| 48 | [atkal](http://twitter.com/search?q=atkal) | Atkal is a Latvian word meaning "again". |
 | 49 | [vienīgais](http://twitter.com/search?q=vien%c4%abgais) | Vienīgais is a Latvian word meaning "only" or "sole". It is used to describe something that is the only one of its kind. |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-04-26 02:34:06 UTC`
+📆 Last Updated: `2023-04-26 03:24:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for [Austria](</Austria>)
 | 3 | [#JKvsP7](http://twitter.com/search?q=%23JKvsP7) | #JKvsP7 is a hashtag used to refer to a rivalry between two professional football teams, Juventus and Paris Saint-Germain. The hashtag is used to highlight the competition between the two teams, particularly when they face each other in matches. |
 | 4 | [Harry Belafonte](http://twitter.com/search?q=Harry+Belafonte) | Harry Belafonte is an American singer, songwriter, actor, and social activist. He is best known for his calypso-style music, which he popularized in the 1950s and 1960s. He has been an advocate for civil rights and other social justice causes throughout his career. |
 | 5 | [Kommunist](http://twitter.com/search?q=Kommunist) | Kommunist is a German word that translates to "Communist" in English. It is used to refer to someone who follows the ideology of Communism, which is an economic and political system based on the collective ownership of the means of production and distribution of goods and services. |
-| 6 | [#WienerZeitung](http://twitter.com/search?q=%23WienerZeitung) | #WienerZeitung is an Austrian newspaper published in Vienna since 1703. It is the oldest newspaper still in publication in the world. The name translates to "Vienna Newspaper" in English. |
+| 6 | [#wienerzeitung](http://twitter.com/search?q=%23wienerzeitung) | #Wienerzeitung is an Austrian newspaper founded in 1703. It is the oldest daily newspaper in the world still in publication. The name translates to "Vienna Times" in English. |
 | 7 | [#orfreport](http://twitter.com/search?q=%23orfreport) | #orfreport is a hashtag used on Twitter to report news from the Austrian public broadcaster ORF. It is used to share news stories, updates, and other information related to ORF programming. |
 | 8 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | Kommunismus is a German word for communism, which is an economic and political system in which the means of production are owned by the community as a whole and goods and services are shared equally among members of society. In English, it can be translated as "communism". |
 | 9 | [Ministerin](http://twitter.com/search?q=Ministerin) | Ministerin is a German word meaning "female minister" or "female minister of state." It is used to refer to a female government official who holds a ministerial position in the government. |
@@ -50,10 +50,10 @@ This is top 50 for [Austria](</Austria>)
 | 33 | [Ansichten](http://twitter.com/search?q=Ansichten) | Ansichten is a German word that translates to "views" or "opinions" in English. It is used to refer to someone's personal beliefs or perspectives on a particular subject. |
 | 34 | [gesinnung](http://twitter.com/search?q=gesinnung) | Gesinnung is a German word that translates to "attitude" or "inclination" in English. It is used to describe a person's moral or ethical beliefs and values. |
 | 35 | [Marx](http://twitter.com/search?q=Marx) | Marx is a reference to Karl Marx, a German philosopher, economist, sociologist, journalist, and revolutionary socialist. He is best known for his theories on the nature of society and economics, which form the basis of modern-day Marxism. Marx's ideas about class struggle and economic inequality have had a profound influence on modern political thought and social movements. |
-| 36 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | Parkplätze is a German word meaning "parking spaces". It is used to refer to the designated areas where cars can be parked. |
+| 36 | [parkplätze](http://twitter.com/search?q=parkpl%c3%a4tze) | Parkplätze is a German word meaning "parking spaces". It is used to refer to the designated areas where cars can be parked. |
 | 37 | [Fox News](http://twitter.com/search?q=Fox+News) | Fox News is an American news channel owned by Fox Corporation. It is known for its conservative-leaning political coverage and its slogan "Fair & Balanced". Fox News provides 24-hour news coverage and analysis of current events, as well as opinion and commentary from a variety of commentators. |
 | 38 | [forscher](http://twitter.com/search?q=forscher) | Forscher is a German word meaning "researcher" or "investigator". It is used to refer to someone who studies a particular subject in depth, often in an academic setting. |
-| 39 | [Gier](http://twitter.com/search?q=Gier) | Gier is a German word that translates to "greed" or "avarice" in English. It is used to describe an excessive desire for wealth or material possessions. |
+| 39 | [gier](http://twitter.com/search?q=gier) | Gier is a German word that means "greed" or "avarice". It is used to describe an excessive desire for wealth or material possessions. |
 | 40 | [Firmen](http://twitter.com/search?q=Firmen) | Firmen is a German word meaning "companies" or "firms". It is used to refer to businesses, corporations, or other organizations. |
 | 41 | [Doskozil](http://twitter.com/search?q=Doskozil) | Doskozil is a German surname derived from the Slavic word “dosk” meaning “axe”. It is most commonly found in Austria and Germany. In English, the name Doskozil means "axe-bearer". |
 | 42 | [unterstellung](http://twitter.com/search?q=unterstellung) | Unterstellung is a German word that translates to "assumption" or "presumption" in English. It is used to describe an idea or belief that is accepted as true without proof or evidence. |

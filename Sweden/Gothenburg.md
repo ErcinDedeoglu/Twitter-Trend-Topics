@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-04-26 02:35:16 UTC`
+📆 Last Updated: `2023-04-26 03:25:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,13 +28,13 @@ This is top 50 for [Sweden](</Sweden>)
 | 11 | [sverigedemokrat](http://twitter.com/search?q=sverigedemokrat) | Sverigedemokrat is a Swedish political party that was founded in 1988. The name translates to "Swedish Democrats" and the party's platform is based on nationalism, anti-immigration, and Euroscepticism. |
 | 12 | [Lamotte](http://twitter.com/search?q=Lamotte) | Lamotte is a French surname derived from the Old French word "lamotte," which means "small stone." It is also a place name in France, derived from the same root. In English, it can be translated as "little stone." |
 | 13 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 14 | [RFSU](http://twitter.com/search?q=RFSU) | RFSU stands for the Swedish Association for Sexuality Education. It is a non-profit organization that works to promote sexual health and rights in Sweden and internationally. The organization provides information, education, and advocacy on topics related to sexuality, gender, relationships, contraception, abortion, HIV/AIDS prevention, and more. |
+| 14 | [rfsu](http://twitter.com/search?q=rfsu) | RFSU stands for the Swedish Association for Sexuality Education. It is a non-profit organization that works to promote sexual health and rights in Sweden. The organization provides information, education, and support to individuals and organizations on topics related to sexuality, gender, relationships, and health. |
 | 15 | [rydström](http://twitter.com/search?q=rydstr%c3%b6m) | Rydström is a Swedish surname derived from the Old Norse words ryd, meaning “clearing” or “meadow”, and ström, meaning “stream”. The name literally translates to “clearing stream” in English. |
 | 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 17 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 18 | [kvist](http://twitter.com/search?q=kvist) | Kvist is a Swedish word meaning "twig" or "branch". It is commonly used to refer to the small branches of a tree or shrub. |
 | 19 | [hammarkullen](http://twitter.com/search?q=hammarkullen) | Hammarkullen is a Swedish phrase that translates to "the hammer of justice." It is used to describe a situation in which someone is punished for their wrongdoings. |
-| 20 | [Jomshof](http://twitter.com/search?q=Jomshof) | Jomshof is a Swedish word meaning "peaceful home". It is often used to describe a home that is comfortable and inviting. |
+| 20 | [jomshof](http://twitter.com/search?q=jomshof) | Jomshof is a Swedish word that means "enjoyment" or "pleasure". It is often used to describe the feeling of contentment and satisfaction that comes from doing something enjoyable. |
 | 21 | [evas](http://twitter.com/search?q=evas) | Evas is a software library for the creation of graphical user interfaces. It is part of the Enlightenment Foundation Libraries (EFL) and provides a comprehensive set of graphical elements and features for creating high-quality user interfaces. It is written in C and licensed under the LGPLv2.1. |
 | 22 | [sd-politiker](http://twitter.com/search?q=sd-politiker) | Sd-politiker is a term used in Sweden to refer to members of the Sweden Democrats, a right-wing populist political party. In English, it translates to "Sweden Democrats politician". |
 | 23 | [omark](http://twitter.com/search?q=omark) | Omark is a Japanese term that translates to "honor mark" or "merit mark." It is used to recognize and reward students for their hard work and good behavior. It is typically given in the form of a sticker or stamp on a student's report card or other school documents. |
@@ -50,8 +50,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 33 | [doxa](http://twitter.com/search?q=doxa) | Doxa is a Greek word meaning "opinion" or "belief". It is often used to refer to the beliefs and opinions held by a particular group or society. In English, it can be used to refer to the accepted beliefs of a particular group or culture. |
 | 34 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
 | 35 | [sydafrika](http://twitter.com/search?q=sydafrika) | Sydafrika is the Swedish word for South Africa. It literally translates to "South Africa" in English. |
-| 36 | [Roligt](http://twitter.com/search?q=Roligt) | Roligt is a Swedish word meaning "fun" or "enjoyable". It is often used to describe activities or experiences that are enjoyable and entertaining. |
-| 37 | [Olsson](http://twitter.com/search?q=Olsson) | Olsson is a Swedish surname derived from the given name Olof. It is the most common surname in Sweden, with approximately 5.5% of the population having the name. The English meaning of Olsson is "son of Olof". |
+| 36 | [roligt](http://twitter.com/search?q=roligt) | Roligt is a Swedish word meaning "fun" or "enjoyable". It is often used to describe activities or experiences that are enjoyable and entertaining. |
+| 37 | [olsson](http://twitter.com/search?q=olsson) | Olsson is a Swedish surname. It is derived from the given name Olof, which is a form of the Old Norse name Óláfr. The meaning of Olof is "ancestor's descendant". |
 | 38 | [centerpartiet](http://twitter.com/search?q=centerpartiet) | Centerpartiet is a Swedish political party that was founded in 1913. Its English translation is the Centre Party, and it is a centrist political party that focuses on social justice, environmental sustainability, and economic growth. The party has been part of several coalition governments since the 1970s. |
 | 39 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 40 | [grattis växjö](http://twitter.com/search?q=grattis+v%c3%a4xj%c3%b6) | Grattis Växjö is a Swedish phrase that translates to "Congratulations Växjö" in English. It is typically used to express congratulations or good wishes to someone from the city of Växjö. |
@@ -62,7 +62,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 45 | [årets](http://twitter.com/search?q=%c3%a5rets) | "Årets" is a Norwegian word meaning "of the year". It is used to refer to something that is the best or most popular of its kind in a given year. For example, "årets beste film" would mean "the best movie of the year". |
 | 46 | [Lavrov](http://twitter.com/search?q=Lavrov) | Lavrov is a Russian surname. It is derived from the word "lavra," which means "monastery" in Russian. The name is most commonly associated with Sergei Lavrov, the current Foreign Minister of Russia. |
 | 47 | [Henry](http://twitter.com/search?q=Henry) | Henry is a masculine given name of Germanic origin. It is derived from the Germanic name Heimirich, which means "home ruler". The name has been popular in England since the Norman Conquest and is also used in other English-speaking countries. |
-| 48 | [Det ÄR](http://twitter.com/search?q=Det+%c3%84R) | Det ÄR is a Swedish phrase meaning "It is." |
+| 48 | [det är](http://twitter.com/search?q=det+%c3%a4r) | "Det är" is a Swedish phrase meaning "it is" or "that is". |
 | 49 | [brännström](http://twitter.com/search?q=br%c3%a4nnstr%c3%b6m) | Brännström is a Swedish word that translates to "burn stream" in English. It is used to describe a type of watercourse or stream that has been altered by burning, usually as part of a forest management practice. |
 
 

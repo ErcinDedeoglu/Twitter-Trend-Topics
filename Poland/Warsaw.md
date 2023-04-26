@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-04-26 02:33:56 UTC`
+📆 Last Updated: `2023-04-26 03:23:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,17 +15,17 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PolowanieNaTuska](http://twitter.com/search?q=%23PolowanieNaTuska) | #PolowanieNaTuska is a hashtag used in Poland to refer to the political scandal involving former Prime Minister Donald Tusk. It translates to "the hunt for Tusk" in English. |
-| 2 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | #wtylewizji is a Polish hashtag that translates to "style wizard" in English. It is used to refer to someone who has an eye for fashion and style. |
+| 1 | [Waddup](http://twitter.com/search?q=Waddup) | "Waddup" is a slang term used as a greeting, similar to "What's up?" It is an informal way of asking someone how they are doing. |
+| 2 | [#polowanienatuska](http://twitter.com/search?q=%23polowanienatuska) | #Polowanienatuska is a hashtag used on social media to promote the Polish folk dance called Polowanie na Tuskę. The literal translation of the phrase is "the hunt for the tusk" and it refers to a traditional Polish dance in which participants form a circle and one person, usually dressed as an animal, runs around the circle while the other dancers try to catch them. |
 | 3 | [Peep](http://twitter.com/search?q=Peep) | Peep is an informal term that means to take a quick look at something. It can also refer to the sound made by a small animal, such as a bird or a mouse. |
-| 4 | [Falenty](http://twitter.com/search?q=Falenty) | Falenty is a Polish word meaning "happiness" or "joy". It is often used to express a feeling of contentment or satisfaction. |
-| 5 | [Waddup](http://twitter.com/search?q=Waddup) | "Waddup" is a slang term used as a greeting, similar to "What's up?" It is an informal way of asking someone how they are doing. |
+| 4 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | #wtylewizji is a Polish hashtag that translates to "style wizard" in English. It is used to refer to someone who has an eye for fashion and style. |
+| 5 | [Falenty](http://twitter.com/search?q=Falenty) | Falenty is a Polish word meaning "happiness" or "joy". It is often used to express a feeling of contentment or satisfaction. |
 | 6 | [Hołownia](http://twitter.com/search?q=Ho%c5%82ownia) | Hołownia is a Polish surname. It is derived from the word "hołota," which means "lowland." In English, it can be translated to mean "of the lowlands." |
 | 7 | [#eec2023](http://twitter.com/search?q=%23eec2023) | #eec2023 is a hexadecimal color code. It is a shade of pink and its meaning in English is "Electric Pink". |
-| 8 | [Gdula](http://twitter.com/search?q=Gdula) | Gdula is a Polish word that means "stubbornness" or "obstinacy". It is used to describe someone who is determined to stick to their opinion or course of action, even in the face of opposition. |
-| 9 | [girony](http://twitter.com/search?q=girony) | Girony is a French word that means "silliness" or "foolishness". It is often used to describe someone who is acting in a silly or foolish manner. |
-| 10 | [Moskwa](http://twitter.com/search?q=Moskwa) | Moskwa is the Russian name for Moscow, the capital of Russia. In English, it is pronounced "MOS-kwa". |
-| 11 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | #Mjakmiłość is a Polish word that translates to "kindness" in English. It is used to describe an act of kindness or a kind gesture. |
+| 8 | [girony](http://twitter.com/search?q=girony) | Girony is a French word that means "silliness" or "foolishness". It is often used to describe someone who is acting in a silly or foolish manner. |
+| 9 | [Moskwa](http://twitter.com/search?q=Moskwa) | Moskwa is the Russian name for Moscow, the capital of Russia. In English, it is pronounced "MOS-kwa". |
+| 10 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | #Mjakmiłość is a Polish word that translates to "kindness" in English. It is used to describe an act of kindness or a kind gesture. |
+| 11 | [Gdula](http://twitter.com/search?q=Gdula) | Gdula is a Polish word that means "stubbornness" or "obstinacy". It is used to describe someone who is determined to stick to their opinion or course of action, even in the face of opposition. |
 | 12 | [olechowski](http://twitter.com/search?q=olechowski) | Olechowski is a Polish surname. It is derived from the given name Olech, which is derived from the Old Slavic word oleś, meaning "fame". The name can be translated to English as "famed warrior". |
 | 13 | [#chcewlasnieciebieap](http://twitter.com/search?q=%23chcewlasnieciebieap) | #chcewlasnieciebieap is a hashtag in Polish which translates to "I want you and only you". |
 | 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
@@ -53,13 +53,13 @@ This is top 50 for [Poland](</Poland>)
 | 36 | [Żydów](http://twitter.com/search?q=%c5%bbyd%c3%b3w) | Żydów is a Polish word meaning "Jews". |
 | 37 | [Kuciak](http://twitter.com/search?q=Kuciak) | Kuciak is a surname of Slovak origin. It is derived from the word "kučiar", which means "wagoner" or "cart driver". In English, the name Kuciak can be translated to mean "wagoner" or "cart driver". |
 | 38 | [anna morawiecka](http://twitter.com/search?q=anna+morawiecka) | Anna Morawiecka is a Polish female given name. It is derived from the Latin name Anna Maria, which means "grace" and "bitter". In English, the name Anna Morawiecka can be translated to mean "graceful and bitter". |
-| 39 | [Szymuś](http://twitter.com/search?q=Szymu%c5%9b) | Szymuś is a Polish diminutive form of the name Szymon, which is the Polish version of Simon. In English, Szymuś would be translated as "little Simon". |
-| 40 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 41 | [Gironie](http://twitter.com/search?q=Gironie) | Gironie is a French term that refers to a type of irony in which someone pretends to be ignorant or naive in order to make a point. In English, it can be translated as "ironic naivety". |
-| 42 | [Al Pacino](http://twitter.com/search?q=Al+Pacino) | Al Pacino is an American actor and filmmaker. He is best known for his roles in films such as The Godfather, Scarface, and Scent of a Woman. He has won numerous awards, including an Academy Award, two Primetime Emmy Awards, and four Golden Globe Awards. The phrase "Al Pacino" is often used to refer to someone who is intense or passionate in their performance. |
-| 43 | [Zapach](http://twitter.com/search?q=Zapach) | Zapach is a Polish word meaning "smell" or "scent". |
-| 44 | [pana tuska](http://twitter.com/search?q=pana+tuska) | Pana Tuska is a Finnish phrase that translates to "for your sake" or "for your benefit". It is often used as a way of expressing sympathy or concern for someone else. |
-| 45 | [wanio](http://twitter.com/search?q=wanio) | Wanio is a Japanese word that means "to understand" or "to comprehend". It is often used to express understanding of a situation or concept. |
+| 39 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 40 | [gironie](http://twitter.com/search?q=gironie) | Gironie is a French term that refers to a type of irony in which someone expresses an opinion or sentiment that is the opposite of what they actually mean. It is often used to make a joke or to mock someone. In English, it can be translated as "sarcasm" or "dry humor". |
+| 41 | [Al Pacino](http://twitter.com/search?q=Al+Pacino) | Al Pacino is an American actor and filmmaker. He is best known for his roles in films such as The Godfather, Scarface, and Scent of a Woman. He has won numerous awards, including an Academy Award, two Primetime Emmy Awards, and four Golden Globe Awards. The phrase "Al Pacino" is often used to refer to someone who is intense or passionate in their performance. |
+| 42 | [zapach](http://twitter.com/search?q=zapach) | Zapach is a Polish word meaning "smell" or "scent". |
+| 43 | [pana tuska](http://twitter.com/search?q=pana+tuska) | Pana Tuska is a Finnish phrase that translates to "for your sake" or "for your benefit". It is often used as a way of expressing sympathy or concern for someone else. |
+| 44 | [wanio](http://twitter.com/search?q=wanio) | Wanio is a Japanese word that means "to understand" or "to comprehend". It is often used to express understanding of a situation or concept. |
+| 45 | [Szymuś](http://twitter.com/search?q=Szymu%c5%9b) | Szymuś is a Polish diminutive form of the name Szymon, which is the Polish version of Simon. In English, Szymuś would be translated as "little Simon". |
 | 46 | [stalowej woli](http://twitter.com/search?q=stalowej+woli) | Stalowej woli is a Polish phrase that translates to "iron will" in English. It is used to describe someone who has a strong determination and an unyielding spirit. |
 | 47 | [Trzebnicy](http://twitter.com/search?q=Trzebnicy) | Trzebnicy is a town in Lower Silesian Voivodeship, Poland. The name Trzebnicy is derived from the Old Polish word trzeba, meaning "need". In English, it can be translated as "the place of need". |
 | 48 | [w ringu](http://twitter.com/search?q=w+ringu) | W ringu is a Japanese phrase that translates to "double ring" in English. It is used to refer to a type of engagement ring that features two rings, one for the bride and one for the groom, that are connected together. |

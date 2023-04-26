@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-04-26 02:41:14 UTC`
+📆 Last Updated: `2023-04-26 03:30:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Denmark
 | 7 | [#dkpol](http://twitter.com/search?q=%23dkpol) | #dkpol is a hashtag used on Twitter to discuss Danish politics. It stands for "Danish Politics" and is used to follow and discuss news, events, and other topics related to politics in Denmark. |
 | 8 | [#fl23](http://twitter.com/search?q=%23fl23) | #fl23 is a hashtag used on social media to refer to the 23rd state of the United States, Florida. It is often used to tag posts related to the state, such as news stories, events, and attractions. |
 | 9 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | Joe Biden is the 46th President of the United States. He was elected in 2020 and took office in 2021. He is a member of the Democratic Party and previously served as Vice President under Barack Obama from 2009 to 2017. The meaning of Joe Biden in English is "the current President of the United States". |
-| 10 | [Løkke](http://twitter.com/search?q=L%c3%b8kke) | Løkke is a Danish surname. It is derived from the Old Norse word loki, meaning "lock of hair". In English, it can be translated to mean "lock of hair". |
+| 10 | [løkke](http://twitter.com/search?q=l%c3%b8kke) | Løkke is a Danish word meaning "loop" or "circle". It is often used to refer to a loop of rope, chain, or other material. |
 | 11 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
 | 12 | [færøerne](http://twitter.com/search?q=f%c3%a6r%c3%b8erne) | Færøerne is the Faroe Islands, an archipelago located between Norway and Iceland. In English, it means "the Faroes". |
 | 13 | [Talent](http://twitter.com/search?q=Talent) | Talent is a natural aptitude or skill that someone has. It is usually used to refer to a special ability that someone has for doing something well, such as singing, playing an instrument, or writing. Talent can also refer to a person's intelligence or creativity. |
@@ -64,7 +64,7 @@ This is top 50 for Denmark
 | 47 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | Klimarådet is the Norwegian Climate Council. It is an independent body established by the Norwegian government to provide advice on climate change and climate policy. The council's purpose is to provide advice on how Norway can reduce its greenhouse gas emissions and adapt to the impacts of climate change. In English, Klimarådet translates to "Climate Council". |
 | 48 | [claesson](http://twitter.com/search?q=claesson) | Claesson is a Swedish surname. It is derived from the Old Norse word klaustr, meaning "monastery". The name is most commonly found in Sweden and Finland. |
 | 49 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | Brøndby is a municipality in the Copenhagen metropolitan area of Denmark. It is located on the western outskirts of Copenhagen, and its name translates to "well town" in English. |
-| 50 | [Lyngby](http://twitter.com/search?q=Lyngby) | Lyngby is a town in Denmark located north of Copenhagen. The name Lyngby is derived from the Danish words for "heather" and "village". In English, it can be translated to mean "Heather Village". |
+| 50 | [lyngby](http://twitter.com/search?q=lyngby) | Lyngby is a town in Denmark located just north of Copenhagen. It is known for its many parks, forests, and lakes, as well as its vibrant cultural life. The name Lyngby comes from the Danish words for "heather" and "village," and it can be translated to mean "heather village." |
 
 
 

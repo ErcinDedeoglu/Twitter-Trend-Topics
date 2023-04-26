@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-04-26 02:41:48 UTC`
+📆 Last Updated: `2023-04-26 03:31:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,13 +33,13 @@ This is top 50 for Netherlands
 | 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 17 | [Girona](http://twitter.com/search?q=Girona) | Girona is a city in Catalonia, Spain. It is located on the northeastern coast of the Iberian Peninsula, about 100 km northeast of Barcelona. The name Girona is derived from the Latin word Gerunda, which means "watchtower". In English, Girona can be translated to mean "watchtower city". |
 | 18 | [Vijlbrief](http://twitter.com/search?q=Vijlbrief) | Vijlbrief is a Dutch term that translates to "dagger letter" in English. It is a type of letter that was used in the Netherlands during the 16th and 17th centuries to deliver messages of death or other serious matters. The letter was sealed with a wax seal featuring a dagger, hence the name. |
-| 19 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 20 | [Hallo](http://twitter.com/search?q=Hallo) | Hallo is a German greeting, similar to "hello" in English. It is used as a friendly greeting or to answer the telephone. |
-| 21 | [vanenburg](http://twitter.com/search?q=vanenburg) | Vanenburg is a Dutch surname. It is derived from the Dutch words "van" and "den burg," which mean "from the castle." The name likely originated as a reference to someone who lived near or in a castle. |
-| 22 | [als on](http://twitter.com/search?q=als+on) | "Als on" is a Dutch phrase that translates to "as soon as possible" in English. It is used to express the urgency of a situation or request. |
-| 23 | [Lilian Day Jackson](http://twitter.com/search?q=Lilian+Day+Jackson) | Lilian Day Jackson is a phrase used to refer to the day of August 28th, which is the birthday of civil rights activist and author Lillian Smith. The phrase is used to commemorate her life and work, which focused on racial justice and equality. |
-| 24 | [Karskens](http://twitter.com/search?q=Karskens) | Karskens is a Dutch surname. It is derived from the Germanic personal name "Kard" or "Kardo", which means "brave". In English, the meaning of Karskens is "brave". |
-| 25 | [Smeets](http://twitter.com/search?q=Smeets) | Smeets is a Dutch surname. It is derived from the Germanic word "smid," which means "smith." The name was originally given to someone who worked as a blacksmith or metalworker. In English, the name Smeets can be translated to mean "smith." |
+| 19 | [Hallo](http://twitter.com/search?q=Hallo) | Hallo is a German greeting, similar to "hello" in English. It is used as a friendly greeting or to answer the telephone. |
+| 20 | [vanenburg](http://twitter.com/search?q=vanenburg) | Vanenburg is a Dutch surname. It is derived from the Dutch words "van" and "den burg," which mean "from the castle." The name likely originated as a reference to someone who lived near or in a castle. |
+| 21 | [als on](http://twitter.com/search?q=als+on) | "Als on" is a Dutch phrase that translates to "as soon as possible" in English. It is used to express the urgency of a situation or request. |
+| 22 | [Lilian Day Jackson](http://twitter.com/search?q=Lilian+Day+Jackson) | Lilian Day Jackson is a phrase used to refer to the day of August 28th, which is the birthday of civil rights activist and author Lillian Smith. The phrase is used to commemorate her life and work, which focused on racial justice and equality. |
+| 23 | [Karskens](http://twitter.com/search?q=Karskens) | Karskens is a Dutch surname. It is derived from the Germanic personal name "Kard" or "Kardo", which means "brave". In English, the meaning of Karskens is "brave". |
+| 24 | [smeets](http://twitter.com/search?q=smeets) | Smeets is a Dutch surname. It is derived from the Dutch word "smid," which means "smith." The name is most commonly found in the Netherlands, Belgium, and Germany. In English, it can be translated to mean "smith." |
+| 25 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 26 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 27 | [uslu](http://twitter.com/search?q=uslu) | Uslu is a Turkish word that means "honest" or "trustworthy". It is often used to describe someone who is reliable and can be trusted. |
 | 28 | [Vera](http://twitter.com/search?q=Vera) | Vera is a female given name of Latin, Slavic, and Spanish origin. It is derived from the Latin word verus, meaning "true". In English, Vera can be used as a short form of the name Veronica or as an independent name. |
@@ -54,7 +54,7 @@ This is top 50 for Netherlands
 | 37 | [Rosmalen](http://twitter.com/search?q=Rosmalen) | Rosmalen is a municipality and a town in the province of North Brabant in the Netherlands. The name Rosmalen is derived from the words "ros" (rose) and "malen" (grind). It literally means "grinding of roses". |
 | 38 | [nederland in beweging](http://twitter.com/search?q=nederland+in+beweging) | Nederland in Beweging is a Dutch government initiative that aims to promote physical activity and healthy lifestyles among the Dutch population. The initiative was launched in 2018 and focuses on making physical activity more accessible, encouraging people to be more active, and providing information about healthy lifestyles. The phrase translates to "Netherlands on the Move" in English. |
 | 39 | [Don Lemon](http://twitter.com/search?q=Don+Lemon) | Don Lemon is the name of an American journalist and television news anchor. He is best known for his work as a news anchor on CNN, where he has hosted the nightly news program CNN Tonight since 2014. The phrase "Don Lemon" is used to refer to the journalist himself. |
-| 40 | [Laurens Buijs](http://twitter.com/search?q=Laurens+Buijs) | Laurens Buijs is a Dutch surname. In English, it means "Laurens Boy." |
+| 40 | [laurens buijs](http://twitter.com/search?q=laurens+buijs) | Laurens Buijs is a Dutch surname. It is derived from the given name Laurens, which is a form of the Latin name Laurentius, meaning "from Laurentum". |
 | 41 | [Sjoerd](http://twitter.com/search?q=Sjoerd) | Sjoerd is a Dutch name derived from the Old Germanic name Sigurd. It is composed of two elements: sigi, meaning "victory," and wurd, meaning "guardian." The name can be translated to mean "victory guardian" in English. |
 | 42 | [youth league](http://twitter.com/search?q=youth+league) | Youth league is an organization or group that provides activities and programs for young people. It typically focuses on teaching life skills, sportsmanship, and leadership. The goal of a youth league is to help young people develop into responsible adults. |
 | 43 | [Burnley](http://twitter.com/search?q=Burnley) | Burnley is a town in Lancashire, England. It is situated on the River Calder and is surrounded by the Pennine hills. The town has a population of around 73,000 people and is known for its cotton, wool and engineering industries. The name Burnley is derived from the Old English words burna (stream) and leah (wood or clearing). |
