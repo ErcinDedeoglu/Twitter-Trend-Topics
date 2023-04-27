@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-04-27 01:56:52 UTC`
+📆 Last Updated: `2023-04-27 02:42:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [чернобыльской аэс](http://twitter.com/search?q=%d1%87%d0%b5%d1%80%d0%bd%d0%be%d0%b1%d1%8b%d0%bb%d1%8c%d1%81%d0%ba%d0%be%d0%b9+%d0%b0%d1%8d%d1%81) | Чернобыльская АЭС (Chernobyl Nuclear Power Plant) is a nuclear power plant located in the city of Chernobyl, Ukraine. It was the site of the world's worst nuclear disaster in 1986, when a reactor exploded and released large amounts of radioactive material into the atmosphere. The plant has since been decommissioned and is now a tourist attraction. In English, it is referred to as the Chernobyl Nuclear Power Plant. |
 | 2 | [чаэс](http://twitter.com/search?q=%d1%87%d0%b0%d1%8d%d1%81) | "Чаэс" is a Russian acronym for the phrase "Частное Авиационное Эксплуатационное Собрание", which translates to "Private Aviation Exploitation Assembly". It is an organization that promotes the development of private aviation in Russia. |
-| 3 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | Давай (davay) is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express agreement. |
+| 3 | [давай](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b2%d0%b0%d0%b9) | "Давай" is a Russian expression that means "let's go" or "come on". It is used to encourage someone to do something or to express enthusiasm for an idea. |
 | 4 | [#беларусь](http://twitter.com/search?q=%23%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | #Беларусь is a hashtag used on social media to refer to Belarus, a country in Eastern Europe. In English, it translates to "Belarus". |
 | 5 | [арсения](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d1%8f) | Арсения is a female Russian given name derived from the Greek word "Arsenios", meaning "male, virile". In English, it can be translated to mean "strong and courageous". |
 | 6 | [Антона](http://twitter.com/search?q=%d0%90%d0%bd%d1%82%d0%be%d0%bd%d0%b0) | Антона is a female Russian name, derived from the Latin Antonius. It is a diminutive form of Antonina, which means "priceless" or "invaluable". In English, it can be translated as "Antonia". |
@@ -35,7 +35,7 @@ This is top 50 for Belarus
 | 18 | [Украина](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b0) | Украина is the Ukrainian name for Ukraine, a country in Eastern Europe. In English, it is translated as Ukraine. |
 | 19 | [верю](http://twitter.com/search?q=%d0%b2%d0%b5%d1%80%d1%8e) | "Верю" is a Russian word meaning "I believe". |
 | 20 | [обожаю](http://twitter.com/search?q=%d0%be%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | "Обожаю" is a Russian word meaning "I love" in English. |
-| 21 | [Аааа](http://twitter.com/search?q=%d0%90%d0%b0%d0%b0%d0%b0) | Аааа is an expression of surprise, shock, or disbelief in Russian. It is similar to the English expression "Oh my!" |
+| 21 | [аааа](http://twitter.com/search?q=%d0%b0%d0%b0%d0%b0%d0%b0) | "Аааа" is an expression of surprise, shock, or excitement in Russian. It is similar to the English expression "Oh!" |
 | 22 | [Гэта](http://twitter.com/search?q=%d0%93%d1%8d%d1%82%d0%b0) | Гэта is a Belarusian word meaning "this". |
 | 23 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | "В беларуси" is a phrase in Russian which translates to "in Belarus". It is used to refer to the country of Belarus, which is located in Eastern Europe. |
 

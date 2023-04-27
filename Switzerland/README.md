@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-04-27 01:57:52 UTC`
+📆 Last Updated: `2023-04-27 02:43:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,18 +25,18 @@ This is top 50 for Switzerland
 | 8 | [Precht](http://twitter.com/search?q=Precht) | Precht is a German surname derived from the Middle High German word preht, meaning "priest". In English, it can be translated to mean "priest". |
 | 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 10 | [#WorldMalariaDay](http://twitter.com/search?q=%23WorldMalariaDay) | #WorldMalariaDay is an annual event held on April 25th to raise awareness and support for the global fight against malaria. It is a day to recognize the efforts of those working to prevent, control, and treat malaria, as well as to honor those who have lost their lives due to the disease. The day also serves as an opportunity to educate people about the dangers of malaria and how it can be prevented. |
-| 11 | [#SFCFCZ](http://twitter.com/search?q=%23SFCFCZ) | #SFCFCZ is an acronym for the Spanish phrase "Salud, Fuerza, Confianza, Fe, Corazón" which translates to "Health, Strength, Confidence, Faith, Heart". It is often used as a hashtag on social media to express encouragement and support. |
+| 11 | [#sfcfcz](http://twitter.com/search?q=%23sfcfcz) | #sfcfcz is an acronym for the French phrase "Sans Faire de Cadeaux, Fais Ce Qui Est Juste" which translates to "Do What Is Right Without Making Concessions". |
 | 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 13 | [Mayotte](http://twitter.com/search?q=Mayotte) | Mayotte is an island located in the Indian Ocean off the coast of Africa. It is part of the Comoros archipelago and is administered by France. The name Mayotte comes from the Swahili word "moyo," which means "heart." |
 | 14 | [Apple](http://twitter.com/search?q=Apple) | Apple is a type of fruit that is round and usually red, yellow, or green in color. It is a symbol of health and nutrition, and it is often used as a metaphor for something desirable or valuable. |
 | 15 | [LGBT](http://twitter.com/search?q=LGBT) | LGBT stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
-| 16 | [Vernets](http://twitter.com/search?q=Vernets) | Vernets is a French word meaning "vault" or "safe". It is often used to refer to a safe deposit box or a secure storage area. |
+| 16 | [vernets](http://twitter.com/search?q=vernets) | Vernets is a French word meaning "viewpoints" or "perspectives". It is used to refer to different ways of looking at a situation or issue. |
 | 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Habeck](http://twitter.com/search?q=Habeck) | Habeck is a German surname. It is derived from the German word "haben" which means "to have". In English, the name Habeck can be translated to mean "one who has". |
-| 19 | [Tucker](http://twitter.com/search?q=Tucker) | Tucker is an English slang term meaning to tire someone out or exhaust them. It can also mean to make someone work hard or put in a lot of effort. |
-| 20 | [ganser](http://twitter.com/search?q=ganser) | Ganser is a German word meaning "fool" or "simpleton". It is used to describe someone who behaves in a silly or foolish manner. |
-| 21 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 22 | [Spanien](http://twitter.com/search?q=Spanien) | Spanien is the Spanish word for Spain. It is a country located in southwestern Europe on the Iberian Peninsula. |
+| 18 | [Tucker](http://twitter.com/search?q=Tucker) | Tucker is an English slang term meaning to tire someone out or exhaust them. It can also mean to make someone work hard or put in a lot of effort. |
+| 19 | [ganser](http://twitter.com/search?q=ganser) | Ganser is a German word meaning "fool" or "simpleton". It is used to describe someone who behaves in a silly or foolish manner. |
+| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 21 | [Spanien](http://twitter.com/search?q=Spanien) | Spanien is the Spanish word for Spain. It is a country located in southwestern Europe on the Iberian Peninsula. |
+| 22 | [Habeck](http://twitter.com/search?q=Habeck) | Habeck is a German surname. It is derived from the German word "haben" which means "to have". In English, the name Habeck can be translated to mean "one who has". |
 | 23 | [Rome](http://twitter.com/search?q=Rome) | Rome is the capital of Italy and one of the most important cities in the world. It is known for its rich history, art, culture, and architecture. The city has been an important center of power since ancient times and was once the center of the Roman Empire. The term "Rome" is often used to refer to the entire Italian peninsula. |
 | 24 | [Industrie](http://twitter.com/search?q=Industrie) | Industrie is a French word that refers to industry or manufacturing. In English, it is used to refer to the industrial sector of an economy, which includes the production of goods and services. It can also refer to a particular type of business or industry, such as the automotive industry or the fashion industry. |
 | 25 | [Amis](http://twitter.com/search?q=Amis) | Amis is a language spoken by the Amis people, an indigenous group of Taiwan. It is a Formosan language of the Austronesian language family. In English, Amis means "friend". |

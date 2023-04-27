@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-04-27 01:49:23 UTC`
+📆 Last Updated: `2023-04-27 02:35:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [Norway](</Norway>)
 | 8 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 9 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
 | 10 | [Saliba](http://twitter.com/search?q=Saliba) | Saliba is an Arabic name meaning "peaceful". It is often used as a given name for both boys and girls. |
-| 11 | [Ullevål](http://twitter.com/search?q=Ullev%c3%a5l) | Ullevål is a district in Oslo, Norway. The name Ullevål is derived from the Old Norse word Ullarvǫllr, which means "Ull's field". |
+| 11 | [ullevål](http://twitter.com/search?q=ullev%c3%a5l) | Ullevål is a district in Oslo, Norway. The name Ullevål is derived from the Old Norse word Ullarvǫllr, which means "Ull's field". |
 | 12 | [Etihad](http://twitter.com/search?q=Etihad) | Etihad is the national airline of the United Arab Emirates. The word Etihad is Arabic for “union” or “alliance”, and it was chosen to reflect the spirit of unity and cooperation among the seven emirates that make up the UAE. |
 | 13 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
 | 14 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
@@ -61,7 +61,7 @@ This is top 50 for [Norway](</Norway>)
 | 44 | [Interessant](http://twitter.com/search?q=Interessant) | Interessant is a German word that means "interesting" in English. It is used to describe something that is intriguing or captivating. |
 | 45 | [Bodø](http://twitter.com/search?q=Bod%c3%b8) | Bodø is a city and municipality in Nordland county, Norway. It is the largest urban area and city in Northern Norway and the second-largest in all of Norway. The name Bodø comes from an old Norse word meaning "dwelling place". |
 | 46 | [kristiansand](http://twitter.com/search?q=kristiansand) | Kristiansand is a city in Norway. It is the fifth largest city in the country and the administrative centre of Vest-Agder county. The name Kristiansand means "Christian's sand" in English, referring to King Christian IV who founded the city in 1641. |
-| 47 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | Lillehammer is a city in Norway. It is located in the county of Oppland, about 200 kilometers north of Oslo. The name Lillehammer means "little hammer" in English, referring to the small waterfalls that used to be found in the area. |
+| 47 | [lillehammer](http://twitter.com/search?q=lillehammer) | Lillehammer is a city in Norway. It is located in the southeastern part of the country, about 200 km north of Oslo. The name Lillehammer translates to "little hammer" in English, referring to the small hammer-shaped island on which the city was founded. |
 | 48 | [Politiet](http://twitter.com/search?q=Politiet) | Politiet is the Norwegian word for police. In English, it means "the police". |
 
 
