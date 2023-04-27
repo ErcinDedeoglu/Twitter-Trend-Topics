@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Krasnoyarsk
 
-📆 Last Updated: `2023-04-27 02:38:59 UTC`
+📆 Last Updated: `2023-04-27 03:26:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,7 +44,7 @@ This is top 50 for [Russia](</Russia>)
 | 27 | [Скорее](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%b5%d0%b5) | Скорее is a Russian adverb that means "sooner" or "quicker". It is used to express the idea of doing something quickly or as soon as possible. |
 | 28 | [Прости](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d1%81%d1%82%d0%b8) | Прости is a Russian word meaning "forgive" or "excuse me". It is used as an apology or request for forgiveness. |
 | 29 | [хорошего](http://twitter.com/search?q=%d1%85%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%b3%d0%be) | "Хорошего" is a Russian word meaning "good" or "well". It is often used as a greeting or an expression of good wishes. |
-| 30 | [Ужас](http://twitter.com/search?q=%d0%a3%d0%b6%d0%b0%d1%81) | Ужас is a Russian word meaning "horror" or "terror". It is often used to describe a feeling of fear or dread. |
+| 30 | [ужас](http://twitter.com/search?q=%d1%83%d0%b6%d0%b0%d1%81) | Ужас is a Russian word meaning "horror" or "terror". It is often used to describe a feeling of fear or dread. |
 | 31 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | Украину is the Ukrainian word for Ukraine. In English, it means "Ukraine". |
 | 32 | [Поддерживаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | Поддерживаю is a Russian phrase that means "I support" or "I agree" in English. It is often used to express agreement with someone's opinion or idea. |
 | 33 | [казани](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b7%d0%b0%d0%bd%d0%b8) | "Казани" is the name of a city in Russia. It is the capital of the Republic of Tatarstan and is located on the Volga River. In English, it is known as Kazan. |

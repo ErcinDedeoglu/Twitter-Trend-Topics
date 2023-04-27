@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Novosibirsk
 
-📆 Last Updated: `2023-04-27 02:39:06 UTC`
+📆 Last Updated: `2023-04-27 03:26:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,7 +49,7 @@ This is top 50 for [Russia](</Russia>)
 | 32 | [Поддерживаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | Поддерживаю is a Russian phrase that means "I support" or "I agree" in English. It is often used to express agreement with someone's opinion or idea. |
 | 33 | [казани](http://twitter.com/search?q=%d0%ba%d0%b0%d0%b7%d0%b0%d0%bd%d0%b8) | "Казани" is the name of a city in Russia. It is the capital of the Republic of Tatarstan and is located on the Volga River. In English, it is known as Kazan. |
 | 34 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | Зеленский is the surname of the current President of Ukraine, Volodymyr Zelensky. In English, it means "of Zelensky". |
-| 35 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | "Оооо" is an expression of surprise or amazement in Russian. In English, it could be translated as "Oh!" or "Wow!" |
+| 35 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | Оооо is an expression of surprise or shock in Russian. It is similar to "Oh!" or "Wow!" in English. |
 | 36 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | Европе is a Russian word that translates to Europe in English. It is the Russian word for the continent of Europe. |
 | 37 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | Думаю is a Russian verb meaning "to think" or "I think" in English. It is used to express an opinion or belief. |
 | 38 | [жаль](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d1%8c) | Жаль is a Russian word that means "sorry" or "it's a pity". It is used to express sympathy or regret for something. |

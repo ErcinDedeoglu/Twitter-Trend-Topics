@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rostov-on-Don
 
-📆 Last Updated: `2023-04-27 02:39:08 UTC`
+📆 Last Updated: `2023-04-27 03:26:59 UTC`
 
 🔧 Updated every 1 hour!
 

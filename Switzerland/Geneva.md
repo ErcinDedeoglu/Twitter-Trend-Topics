@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-04-27 02:35:37 UTC`
+📆 Last Updated: `2023-04-27 03:22:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,15 +23,15 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [Man City](http://twitter.com/search?q=Man+City) | Man City is an abbreviation for Manchester City Football Club, an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. |
 | 7 | [De Bruyne](http://twitter.com/search?q=De+Bruyne) | De Bruyne is a Dutch surname. It is derived from the Dutch word "bruin", which means "brown". The name is most commonly associated with Belgian footballer Kevin De Bruyne, who currently plays for Manchester City in the English Premier League. |
 | 8 | [Precht](http://twitter.com/search?q=Precht) | Precht is a German surname derived from the Middle High German word preht, meaning "priest". In English, it can be translated to mean "priest". |
-| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 10 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 11 | [Mayotte](http://twitter.com/search?q=Mayotte) | Mayotte is an island located in the Indian Ocean off the coast of Africa. It is part of the Comoros archipelago and is administered by France. The name Mayotte comes from the Swahili word "moyo," which means "heart." |
-| 12 | [Apple](http://twitter.com/search?q=Apple) | Apple is a type of fruit that is round and usually red, yellow, or green in color. It is a symbol of health and nutrition, and it is often used as a metaphor for something desirable or valuable. |
-| 13 | [LGBT](http://twitter.com/search?q=LGBT) | LGBT stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
+| 9 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 10 | [Mayotte](http://twitter.com/search?q=Mayotte) | Mayotte is an island located in the Indian Ocean off the coast of Africa. It is part of the Comoros archipelago and is administered by France. The name Mayotte comes from the Swahili word "moyo," which means "heart." |
+| 11 | [Apple](http://twitter.com/search?q=Apple) | Apple is a type of fruit that is round and usually red, yellow, or green in color. It is a symbol of health and nutrition, and it is often used as a metaphor for something desirable or valuable. |
+| 12 | [LGBT](http://twitter.com/search?q=LGBT) | LGBT stands for Lesbian, Gay, Bisexual, and Transgender. It is an acronym used to refer to the community of people who identify as lesbian, gay, bisexual, or transgender. |
+| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 14 | [vernets](http://twitter.com/search?q=vernets) | Vernets is a French word meaning "viewpoints" or "perspectives". It is used to refer to different ways of looking at a situation or issue. |
 | 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 16 | [Tucker](http://twitter.com/search?q=Tucker) | Tucker is an English slang term meaning to tire someone out or exhaust them. It can also mean to make someone work hard or put in a lot of effort. |
-| 17 | [ganser](http://twitter.com/search?q=ganser) | Ganser is a German word meaning "fool" or "simpleton". It is used to describe someone who behaves in a silly or foolish manner. |
+| 17 | [Ganser](http://twitter.com/search?q=Ganser) | Ganser is a psychiatric disorder in which a person gives approximate, nonsensical answers to questions even though they are capable of providing accurate responses. The term comes from the German word for "goose," and it is also known as the "fooling syndrome." In English, it is sometimes referred to as "approximate answer syndrome." |
 | 18 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
 | 19 | [Spanien](http://twitter.com/search?q=Spanien) | Spanien is the Spanish word for Spain. It is a country located in southwestern Europe on the Iberian Peninsula. |
 | 20 | [Habeck](http://twitter.com/search?q=Habeck) | Habeck is a German surname. It is derived from the German word "haben" which means "to have". In English, the name Habeck can be translated to mean "one who has". |
@@ -58,7 +58,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 41 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | WhatsApp is a messaging app that allows users to send and receive messages, photos, videos, audio recordings, and other documents over the internet. It is available for both Android and iOS devices. The name WhatsApp comes from the phrase "What's up?" which is a common greeting used in informal conversations. |
 | 42 | [Vivement](http://twitter.com/search?q=Vivement) | Vivement is a French word that means eagerly, eagerly awaiting, or with great enthusiasm. It is often used to express excitement or anticipation about something. |
 | 43 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | Kommunikation is a German word that means communication in English. It refers to the exchange of information, ideas, and feelings between two or more people. |
-| 44 | [Blockade](http://twitter.com/search?q=Blockade) | Blockade is an act of preventing people or goods from entering or leaving a place by surrounding it with armed forces. It is usually done as a form of protest, to prevent the flow of goods and services, or to put pressure on a government or other group. |
+| 44 | [blockade](http://twitter.com/search?q=blockade) | Blockade is an act of preventing goods, people, or information from entering or leaving a place by surrounding it with armed forces. It is usually done as a form of protest or to prevent the movement of goods and people. |
 | 45 | [Anstand](http://twitter.com/search?q=Anstand) | Anstand is a German word that translates to "decency" or "good manners" in English. It is used to describe behavior that is polite, respectful, and considerate of others. |
 | 46 | [Liberazione](http://twitter.com/search?q=Liberazione) | Liberazione is an Italian word meaning "liberation" or "freedom". It is often used to refer to the liberation of Italy from Nazi occupation during World War II. |
 | 47 | [Charlie](http://twitter.com/search?q=Charlie) | Charlie is a slang term for cocaine. It is derived from the name of the drug's chemical compound, Cocaine Hydrochloride. |
